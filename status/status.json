@@ -1,0 +1,207 @@
+{
+ "built": "2026-10-28T11:56Z",
+ "last_fetch": "2026-10-28T11:17Z",
+ "counts": {
+  "summarized": 39,
+  "skipped_giveaway": 17,
+  "new": 515,
+  "retry": 8,
+  "baseline": 22,
+  "skipped_live": 1
+ },
+ "problems": [
+  {
+   "title": "CN Meta Watch: Continental Challenge Teams You Should Prepare For | Dragonheir x Dragonstride",
+   "channel": "Gorax",
+   "status": "retry",
+   "error": ""
+  },
+  {
+   "title": "Imperial Shadow Recast Week 3 – My 6 Teams + Codes | Dragonheir x Dragonstride",
+   "channel": "Gorax",
+   "status": "retry",
+   "error": ""
+  },
+  {
+   "title": "💥 Day 1 EASY Clear 💥 My 1 Team For All 3 Grave Dungeons Stage 14 #dragonheirsilentgods  #dragonheir",
+   "channel": "OddOneGaming RPGs",
+   "status": "retry",
+   "error": ""
+  },
+  {
+   "title": "What Does Day 1 with a Server Transfer Look Like? ✅ Full Process Shown 🔥 Dragonheir x Dragonstride",
+   "channel": "Suzi Plays",
+   "status": "retry",
+   "error": ""
+  },
+  {
+   "title": "🚨SEASON 9 Promo Code with GREAT REWARDS | Dragonheir: Silent Gods",
+   "channel": "Skyasterix Gaming",
+   "status": "retry",
+   "error": "504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}"
+  },
+  {
+   "title": "s Celestine Worth It? Only Until Oct 28 ❄️ Season 9 Targeted Summon | Dragonheir #shorts",
+   "channel": "liveranov",
+   "status": "retry",
+   "error": ""
+  },
+  {
+   "title": "Community Giveaway  October (Round 2) | Entry OPEN",
+   "channel": "liveranov",
+   "status": "retry",
+   "error": ""
+  },
+  {
+   "title": "Is Sia Worth It? Only Until Oct 28 💀 Season 9 Targeted Summon | Dragonheir #shorts",
+   "channel": "liveranov",
+   "status": "retry",
+   "error": ""
+  }
+ ],
+ "budget": {
+  "day": "2026-10-28",
+  "seconds": 25419,
+  "v2": 1,
+  "quota_hit": 1793186283.6870267
+ },
+ "log_tail": [
+  "… Suzi Plays: My Forthfaring SUMMONS for S9 💥 2 Guarantees in 20! 🔥 Dragon",
+  "saved bf4BKfGNUso",
+  "+ Gorax: I Finally Got 50 R-Legendary Soul Fragments… Was It Worth It",
+  "! Otherworld Exploration Explained! What to Do + Con: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "… Fastidious Dragonheir: This Next Season Of Dragonheir CHANGES EVERYTHING ⁂ Dragonhe",
+  "! My Forthfaring SUMMONS for S9 💥 2 Guarantees in 20: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "… Neff Gaming: S9 CONTINENTAL CHALLENGE 🔥 BEST TEAMS REVEALED! Week 1 CN Ra",
+  "! This Next Season Of Dragonheir CHANGES EVERYTHING : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "! S9 CONTINENTAL CHALLENGE 🔥 BEST TEAMS REVEALED! We: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "saved uPT0q943mYg",
+  "+ Fastidious Dragonheir: This Game Is NEXT LEVEL For Doing This... ⁂ Dragonheir: Sile",
+  "saved 2clr7Ee4JAs",
+  "+ liveranov: Corrosion vs Mekkatorque (Phase 1) | Endgame Boss | Season 8",
+  "saved vWWBqHvwtro",
+  "+ Volkin Dragonheir: BEST NEW Season 9 BANNERS TO SAVE FOR!!! [Dragonheir: Silent",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 26 videos, 77 heroes",
+  "== 2026-10-28 09:17",
+  "fetch done: 0 new transcripts, 0 not available yet",
+  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash, gemini-2.5-flash",
+  "daily video budget used (450 min), waiting for tomorrow",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 26 videos, 77 heroes",
+  "== 2026-10-28 10:17",
+  "fetch done: 0 new transcripts, 0 not available yet",
+  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
+  "… Skratch Gaming: PLAN AHEAD!! The New Banners Revealed... Dragonheir: Silent ",
+  "… OddOneGaming RPGs: 🚨 She MELTS Them 🚨 Fallen Shadow Spire Aura Team GUIDE S9 #d",
+  "… Suzi Plays: Stage 2 Challenges 🔸 Team Showcase 🔸 ALL Equipment Dungeons ",
+  "… OddOneGaming RPGs: 🚨 Build THE BEST! 🚨 No 1 Fallen Shadow Spire Team GUIDE S9 |",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "… Gorax: Otherworld Exploration Explained! What to Do + Continental S",
+  "saved uRyYXuQ6suI",
+  "+ OddOneGaming RPGs: 🚨 Build THE BEST! 🚨 No 1 Fallen Shadow Spire Team GUIDE S9 |",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "… Suzi Plays: My Forthfaring SUMMONS for S9 💥 2 Guarantees in 20! 🔥 Dragon",
+  "saved YKXKm7v-bJA (unknown hero names: Duram, Carf)",
+  "+ Gorax: Otherworld Exploration Explained! What to Do + Continental S",
+  "… Fastidious Dragonheir: This Next Season Of Dragonheir CHANGES EVERYTHING ⁂ Dragonhe",
+  "saved yhryGv6s8nU (unknown hero names: Armonleyda)",
+  "+ Skratch Gaming: PLAN AHEAD!! The New Banners Revealed... Dragonheir: Silent ",
+  "… Neff Gaming: S9 CONTINENTAL CHALLENGE 🔥 BEST TEAMS REVEALED! Week 1 CN Ra",
+  "saved -QV5EZT6kXI",
+  "+ Suzi Plays: My Forthfaring SUMMONS for S9 💥 2 Guarantees in 20! 🔥 Dragon",
+  "… Skratch Gaming: This Is What The Dauntless Team Can Do! Dragonheir: Silent G",
+  "saved ikpjPqQhRow",
+  "+ Suzi Plays: Stage 2 Challenges 🔸 Team Showcase 🔸 ALL Equipment Dungeons ",
+  "… Skratch Gaming: USE THESE TEAMS To Farm All Bosses In Dragonheir: Silent God",
+  "… Skratch Gaming: DO THIS CHANGES To Double Your Temporal Vortex Damage! Drago",
+  "saved VZJeo9_euaw (unknown hero names: Quirro)",
+  "+ Fastidious Dragonheir: This Next Season Of Dragonheir CHANGES EVERYTHING ⁂ Dragonhe",
+  "saved mScAHcDJmSI",
+  "+ OddOneGaming RPGs: 🚨 She MELTS Them 🚨 Fallen Shadow Spire Aura Team GUIDE S9 #d",
+  "… OddOneGaming RPGs: 💥 EASY Stage 14s Day 1 💥One Team Beats ALL Stage 14s Of Gear",
+  "saved imsLKzDo5q0 (unknown hero names: Taletia)",
+  "+ Skratch Gaming: This Is What The Dauntless Team Can Do! Dragonheir: Silent G",
+  "  gemini-3.5-flash: 503, using gemini-3.7-flash",
+  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
+  "saved ZTBevjYvrOo",
+  "+ Skratch Gaming: DO THIS CHANGES To Double Your Temporal Vortex Damage! Drago",
+  "saved ArAmzrTA6nQ",
+  "+ Neff Gaming: S9 CONTINENTAL CHALLENGE 🔥 BEST TEAMS REVEALED! Week 1 CN Ra",
+  "saved bt7j_X7T5HA",
+  "+ Skratch Gaming: USE THESE TEAMS To Farm All Bosses In Dragonheir: Silent God",
+  "saved UNE3t_LurBA",
+  "+ OddOneGaming RPGs: 💥 EASY Stage 14s Day 1 💥One Team Beats ALL Stage 14s Of Gear",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 38 videos, 90 heroes",
+  "curl: (56) Recv failure: Connection reset by peer",
+  "== 2026-10-28 11:17",
+  "fetch done: 0 new transcripts, 0 not available yet",
+  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
+  "… liveranov: Trick or Treat! 🎃 Comment a Prank, Get 300 Wyrmarrow | Drago",
+  "… liveranov: s Celestine Worth It? Only Until Oct 28 ❄️ Season 9 Targeted",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
+  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
+  "! s Celestine Worth It? Only Until Oct 28 ❄️ Season : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "saved AVZs5-x49BA",
+  "+ liveranov: Trick or Treat! 🎃 Comment a Prank, Get 300 Wyrmarrow | Drago",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 39 videos, 90 heroes"
+ ],
+ "crontab": [],
+ "channels": [
+  {
+   "name": "Skratch Gaming",
+   "id": "UCoSkzr1pXpt3d0jIxsc6ufw",
+   "enabled": true,
+   "checked": "2026-10-28T11:17Z"
+  },
+  {
+   "name": "Gorax",
+   "id": "UCNas7BnuOIjDEzY1D53kb1w",
+   "enabled": true,
+   "checked": "2026-10-28T11:17Z"
+  },
+  {
+   "name": "Neff Gaming",
+   "id": "UCsxs6YhNd_B36RgUAjbpJ_A",
+   "enabled": true,
+   "checked": "2026-10-28T11:17Z"
+  },
+  {
+   "name": "Volkin Dragonheir",
+   "id": "UCfRpOh_ywVjzhh9fxHbreGw",
+   "enabled": true,
+   "checked": "2026-10-28T11:17Z"
+  },
+  {
+   "name": "Fastidious Dragonheir",
+   "id": "UC16mpj5wEemSZX-uTlHe9Ww",
+   "enabled": true,
+   "checked": "2026-10-28T11:17Z"
+  },
+  {
+   "name": "OddOneGaming RPGs",
+   "id": "UC1ivUEf_poI9_R2eVKa8wRQ",
+   "enabled": true,
+   "checked": "2026-10-28T11:17Z"
+  },
+  {
+   "name": "Suzi Plays",
+   "id": "UCyo1-TkunhGcK6khU1h8Ypw",
+   "enabled": true,
+   "checked": "2026-10-28T11:17Z"
+  },
+  {
+   "name": "Skyasterix Gaming",
+   "id": "UCr5Gb3910rK7QPmKMmdagsA",
+   "enabled": true,
+   "checked": "2026-10-28T11:17Z"
+  },
+  {
+   "name": "liveranov",
+   "id": "UCqCR7ofFHhWwXy3Hg00fqEw",
+   "enabled": true,
+   "checked": "2026-10-28T11:17Z"
+  }
+ ]
+}
