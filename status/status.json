@@ -1,5 +1,5 @@
 {
- "built": "2026-10-28T13:19Z",
+ "built": "2026-10-28T13:58Z",
  "last_fetch": "2026-10-28T13:18Z",
  "counts": {
   "summarized": 40,
@@ -60,7 +60,6 @@
   "quota_hit": 1793186283.6870267
  },
  "log_tail": [
-  "saved uPT0q943mYg",
   "+ Fastidious Dragonheir: This Game Is NEXT LEVEL For Doing This... ⁂ Dragonheir: Sile",
   "saved 2clr7Ee4JAs",
   "+ liveranov: Corrosion vs Mekkatorque (Phase 1) | Endgame Boss | Season 8",
@@ -139,7 +138,8 @@
   "… liveranov: s Celestine Worth It? Only Until Oct 28 ❄️ Season 9 Targeted",
   "  gemini-3.8-flash: 429, using gemini-3.5-flash",
   "saved JbVjivnfsI0",
-  "+ liveranov: s Celestine Worth It? Only Until Oct 28 ❄️ Season 9 Targeted"
+  "+ liveranov: s Celestine Worth It? Only Until Oct 28 ❄️ Season 9 Targeted",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 40 videos, 90 heroes"
  ],
  "crontab": [],
  "channels": [
