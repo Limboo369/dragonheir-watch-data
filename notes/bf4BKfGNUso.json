@@ -1,0 +1,79 @@
+{
+ "summary": "Gorax recommends actively playing Tavern Gambit (Magic Chess) each week to secure Soul Fragment - R - Legendary I rewards and tier milestone rewards. These fragments grant access to past exclusive Legendary heroes from earlier seasons. While standard Legendary I fragments can be converted into Dust-Sealed Tomes to purchase rotating heroes in the Myriad Stars shop, R-Legendary fragments cannot be converted and must be summoned directly. Gorax outlines his wishlist of top targets—highlighting Thelendor, Reytah, and Lelwanis—before opening his fragments and pulling Hvitar, who is relegated to the bench due to scroll investment constraints.",
+ "topics": [
+  "Tavern Gambit",
+  "Soul Fragment - R - Legendary",
+  "Temporal Corridor",
+  "Hero Pulls",
+  "Hero Wishlist"
+ ],
+ "heroes": [
+  {
+   "name": "Hvitar",
+   "verdict": "PvP niche / Benched",
+   "note": "Can be useful in PvP, but is benched due to not being worth the investment of legendary skill scrolls.",
+   "known": true
+  },
+  {
+   "name": "Thelendor",
+   "verdict": "SSS tier for Egg Dungeon",
+   "note": "Considered an absolute top-tier damage dealer for clearing egg dungeons.",
+   "known": true
+  },
+  {
+   "name": "Reytah",
+   "verdict": "Top support for Toxin",
+   "note": "An amazing support hero that greatly enhances Toxin-based compositions.",
+   "known": true
+  },
+  {
+   "name": "Lelwanis",
+   "verdict": "Key Summon team carry",
+   "note": "A highly desirable hero that enables high-performing Summoner teams.",
+   "known": true
+  },
+  {
+   "name": "Grishnaar",
+   "verdict": "Very good in PvP",
+   "note": "A viable and strong pick specifically for PvP game modes.",
+   "known": true
+  },
+  {
+   "name": "Mithrasea",
+   "verdict": "Skip / Outclassed",
+   "note": "Currently outclassed by better support options in the meta.",
+   "known": true
+  },
+  {
+   "name": "Lothair",
+   "verdict": "Solid Dauntless DPS",
+   "note": "A strong damage dealer that scales steadily with inspire mechanics.",
+   "known": true
+  },
+  {
+   "name": "Nastjenka",
+   "verdict": "Solid Dauntless / Toxin DPS",
+   "note": "Valuable scaling damage dealer alongside heroes like Lothair.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [],
+ "tips": [
+  "Play Tavern Gambit at least 5 times per week to consistently earn Soul Fragment - R - Legendary I shards.",
+  "Push rating tiers in Tavern Gambit to collect large bundles of Soul Fragment - Legendary shards across season resets.",
+  "Convert standard Soul Fragment - Legendary I shards into Dust-Sealed Tomes to purchase specific Gen 1 and Gen 2 exclusive legendaries from the bi-weekly rotating Myriad Stars exchange.",
+  "Note that Soul Fragment - R - Legendary fragments cannot be converted into Dust-Sealed Tomes; they must be consumed directly for random legendary pulls."
+ ],
+ "season": "S9",
+ "server_scope": "mixed",
+ "value": "medium",
+ "id": "bf4BKfGNUso",
+ "model": "gemini-3.8-flash",
+ "channel": "Gorax",
+ "title": "I Finally Got 50 R-Legendary Soul Fragments… Was It Worth It? | Dragonheir",
+ "published": "2026-10-28T08:00:31+00:00",
+ "url": "https://www.youtube.com/watch?v=bf4BKfGNUso",
+ "short": false,
+ "summarized": "2026-10-28T08:20Z"
+}

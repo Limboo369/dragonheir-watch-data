@@ -1,0 +1,133 @@
+{
+ "summary": "This guide covers three team compositions for the Tainted Guard boss in the Crisis Rally event. The overall goal for the encounter is reaching 320 million total damage once to claim maximum rating rewards, as top ranking rewards are negligible. Two main control strategies work to shut down the boss: combining Vinyara with the Deluxe Mimic familiar, or using Fathomdown solo to lock down ultimate energy and recharge speed. OddOne showcases an Aura team dealing nearly 5 billion damage, an Ice Blast team using Vinyara control for roughly 1.5 billion damage, and a Dauntless team with Fathomdown control for around 1.6 billion damage.",
+ "topics": [
+  "Crisis Rally",
+  "Tainted Guard",
+  "Boss Guide",
+  "Team Building",
+  "Dauntless",
+  "Ice Blast",
+  "Aura"
+ ],
+ "heroes": [
+  {
+   "name": "Talethia",
+   "verdict": "Top pick DPS",
+   "note": "Carries enormous single-target damage in the Aura team, enabling close to 5 billion damage against the boss.",
+   "known": true
+  },
+  {
+   "name": "Ardreth",
+   "verdict": "Recommended tank",
+   "note": "Serves as the frontline tank for the Aura team to absorb the boss's single-target hits.",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "Great Aura support",
+   "note": "Provides supportive utility positioned behind Talethia in the Aura setup.",
+   "known": true
+  },
+  {
+   "name": "Lincos",
+   "verdict": "Key support for Talethia",
+   "note": "Equipped with Everlasting Candleflame to share substantial attack and defense with the main DPS.",
+   "known": true
+  },
+  {
+   "name": "Diantha",
+   "verdict": "Great Aura support",
+   "note": "Equipped with Everlasting Candleflame and Whirling Edge to boost allied damage.",
+   "known": true
+  },
+  {
+   "name": "Vinyara",
+   "verdict": "Top boss control tank",
+   "note": "Locks down the boss via Attack Penalty II and ultimate energy drain; pairs perfectly with Deluxe Mimic so the boss rarely casts skills.",
+   "known": true
+  },
+  {
+   "name": "Fathomdown",
+   "verdict": "Fantastic solo controller",
+   "note": "Applies recharge speed penalties, attack penalties, drains ultimate energy, and has built-in sustain to permanently control the boss.",
+   "known": true
+  },
+  {
+   "name": "Guinavivre",
+   "verdict": "Viable Dauntless DPS",
+   "note": "Used as a primary Dauntless damage dealer, especially when equipped with her exclusive artifact.",
+   "known": true
+  },
+  {
+   "name": "Nastjenka",
+   "verdict": "Viable Dauntless DPS",
+   "note": "Functions effectively as a baseline Dauntless damage dealer without requiring inspirations or exclusive gear.",
+   "known": true
+  },
+  {
+   "name": "Kurvida",
+   "verdict": "Solid Dauntless support/DPS",
+   "note": "Benefits from debuff-trigger artifacts like Misty Conch or Witches' Remains to synergize with the team.",
+   "known": true
+  },
+  {
+   "name": "Maashtur",
+   "verdict": "Optional control support",
+   "note": "Assists with applying recharge speed penalties, though not strictly required if Fathomdown has enough speed and Rift Hourglass.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Crisis Rally (Tainted Guard)",
+   "heroes": [
+    "Ardreth",
+    "Talethia",
+    "Anneliesis",
+    "Diantha",
+    "Lincos"
+   ],
+   "note": "Aura-focused setup that hit 4.995 billion damage. Ardreth tanks in the front row while Lincos and Diantha share stats with Talethia using Everlasting Candleflame."
+  },
+  {
+   "mode": "Crisis Rally (Tainted Guard)",
+   "heroes": [
+    "Vinyara",
+    "Shinnah",
+    "Beldelle",
+    "Fredegonda",
+    "Ernesto"
+   ],
+   "note": "Ice Blast setup utilizing Vinyara with Deluxe Mimic familiar to permanently lock down the boss's skill cycling while Ernesto, Fredegonda, Beldelle, and Shinnah deal damage."
+  },
+  {
+   "mode": "Crisis Rally (Tainted Guard)",
+   "heroes": [
+    "Fathomdown",
+    "Kurvida",
+    "Nastjenka",
+    "Guinavivre",
+    "Maashtur"
+   ],
+   "note": "Dauntless team relying on Fathomdown to control the boss's energy, speed, and attacks while Guinavivre and Nastjenka deal DPS without needing healers."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "You only need to achieve 320,000,000 damage once across your attempts to claim all rating rewards (including Heliolite Dice); leaderboard rank rewards are not worth sweating over.",
+  "The Tainted Guard can be completely controlled using either Fathomdown alone or Vinyara combined with the Deluxe Mimic familiar.",
+  "If your Fathomdown struggles to cycle fast enough to control the boss, equip him with the Rift Hourglass artifact.",
+  "When using Vinyara for control, give her maximum Skill Haste and sufficient Accuracy so she can continuously keep Attack Penalty II on the boss to trigger Deluxe Mimic's Enhanced Recharge Down."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "Lagk5772OdM",
+ "model": "gemini-3.8-flash",
+ "channel": "OddOneGaming RPGs",
+ "title": "🚨 EASIEST Teams To Build 🚨 My Tainted Guard Best 3 Teams | Dragonheir x Dragonstride",
+ "published": "2026-10-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=Lagk5772OdM",
+ "short": false,
+ "summarized": "2026-10-28T07:08Z"
+}

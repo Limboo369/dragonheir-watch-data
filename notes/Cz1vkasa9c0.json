@@ -1,0 +1,87 @@
+{
+ "summary": "Volkin showcases his two main bossing teams for Continental Challenge and Temporal Vortex, focusing on a Necrosis/Summoner team around Lelwanis and a Toxin team centered around Twitch and Serpentess. He demonstrates how Lelwanis consumes summoned units to transform into a dragon and deal massive damage, achieving 115 million damage with budget support options like Eleuia. He also tests his Toxin team against Tamar, reaching over 208 million damage while highlighting Child of Chaos's cleansing ability. Finally, he advises players to lock in their scores before event resets.",
+ "topics": [
+  "Continental Challenge",
+  "Lelwanis",
+  "Child of Chaos",
+  "Summoner Team",
+  "Toxin Team"
+ ],
+ "heroes": [
+  {
+   "name": "Lelwanis",
+   "verdict": "Top-tier Necrosis Summoner DPS",
+   "note": "Transforms into a powerful dragon upon reaching 20 stacks by consuming summoned units, scaling damage significantly.",
+   "known": true
+  },
+  {
+   "name": "The Dark Lady",
+   "verdict": "Great Necrosis support and debuffer",
+   "note": "Provides debuffs, dispels shields, and offers sustained passive healing to help keep the team alive.",
+   "known": true
+  },
+  {
+   "name": "Eleuia",
+   "verdict": "Solid budget Rare summoner",
+   "note": "Generates a steady flow of spirit summons every 5 basic attacks to feed Lelwanis's stack mechanics.",
+   "known": true
+  },
+  {
+   "name": "Child of Chaos",
+   "verdict": "Excellent utility support",
+   "note": "Provides incredible passive cleansing and control that greatly boosts team survival against bosses.",
+   "known": true
+  },
+  {
+   "name": "Twitch",
+   "verdict": "Strong Legendary Toxin DPS",
+   "note": "Acts as a primary poison damage dealer in Toxin team compositions.",
+   "known": true
+  },
+  {
+   "name": "Serpentess",
+   "verdict": "Core Toxin enabler",
+   "note": "Deals heavy poison damage but can be prone to dying late in extended boss fights without survivability gear.",
+   "known": false
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Continental Challenge (Thelendor)",
+   "heroes": [
+    "Lelwanis",
+    "The Dark Lady",
+    "Sintrellia",
+    "Eleuia",
+    "Child of Chaos"
+   ],
+   "note": "Necrosis Summoner team designed to generate frequent summoned units to power up Lelwanis into her dragon form."
+  },
+  {
+   "mode": "Continental Challenge (Tamar)",
+   "heroes": [
+    "Twitch",
+    "Serpentess",
+    "Child of Chaos"
+   ],
+   "note": "High-damage Toxin team relying on Child of Chaos for passive cleanses and heavy poison stacking."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Always submit and lock in your boss challenge scores before the daily/weekly reset to avoid receiving a zero score on leaderboards.",
+  "Pair Lelwanis with frequent summon generators like Eleuia to stack her transformation buff faster.",
+  "Equip fragile damage dealers with cheat-death armor to help them survive the final seconds of long boss fights."
+ ],
+ "season": "unknown",
+ "server_scope": "S1",
+ "value": "high",
+ "id": "Cz1vkasa9c0",
+ "model": "gemini-3.5-flash",
+ "channel": "Volkin Dragonheir",
+ "title": "I SCREWED UP - Awesome NEW Team!!! [Dragonheir: Silent Gods]",
+ "published": "2026-10-19T09:38:00+00:00",
+ "url": "https://www.youtube.com/watch?v=Cz1vkasa9c0",
+ "short": false,
+ "summarized": "2026-10-27T19:37Z"
+}

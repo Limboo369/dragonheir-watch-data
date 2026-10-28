@@ -1,0 +1,83 @@
+{
+ "summary": "Skratch showcases his dungeon-farming teams for both Growth Domains and Equipment Dungeons. He highlights how the Aura team powered by Talethia (especially at Inspiration 5) completely trivializes all Equipment Dungeons (Grave of Venom, Grave of Curse, Grave of Rot) and Frost Domain stage 18. He also details his setups and stat requirements for Shadow Domain and Tempest Domain.",
+ "topics": [
+  "dungeon teams",
+  "Growth Domains",
+  "Equipment Dungeons",
+  "Aura team",
+  "Talethia"
+ ],
+ "heroes": [
+  {
+   "name": "Talethia",
+   "verdict": "Extremely broken top-tier DPS",
+   "note": "At Inspiration 5 she melts bosses instantly and allows one Aura team to clear all equipment dungeons and Frost Domain.",
+   "known": true
+  },
+  {
+   "name": "Saverio",
+   "verdict": "Core Necrosis damage dealer",
+   "note": "Destroys waves and deals massive damage in Shadow Domain, but requires survivability support to survive boss ultimate attacks.",
+   "known": true
+  },
+  {
+   "name": "Lincos",
+   "verdict": "Replace in high-tier Aura teams",
+   "note": "Does not provide enough survivability or utility for stage 18 domains; replace with an additional support hero.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Shadow Domain (Necrosis)",
+   "heroes": [
+    "Child of Chaos",
+    "Sia",
+    "Daphne",
+    "Saverio",
+    "Aspalta"
+   ],
+   "note": "Requires high accuracy and invincibility timing to prevent the boss ultimate from one-shotting the party."
+  },
+  {
+   "mode": "Tempest Domain (Dauntless)",
+   "heroes": [
+    "Maashthur",
+    "Selva",
+    "Guinavivre",
+    "Nastjenka",
+    "Kurvida"
+   ],
+   "note": "High accuracy (200+) and burst firepower are required to defeat the dragon add spawns before getting wiped."
+  },
+  {
+   "mode": "Equipment Dungeons & Frost Domain",
+   "heroes": [
+    "Diantha",
+    "Rena",
+    "Ardreth",
+    "Talethia",
+    "Lincos"
+   ],
+   "note": "Universal Aura team capable of fast-clearing Grave of Curse, Grave of Rot, Grave of Venom, and Frost Domain."
+  }
+ ],
+ "meta_changes": [
+  "Aura teams have superseded Ice Blast as the premier early-to-mid progression team for clearing all equipment dungeons effortlessly."
+ ],
+ "tips": [
+  "For high Growth Domain stages (Stage 16-18), aim for 200+ to 260+ Accuracy on debuffers to prevent constant resistance.",
+  "Run extra survivability or support heroes instead of full glass-cannon DPS when attempting Stage 18 Growth Domains."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "bt7j_X7T5HA",
+ "model": "gemini-3.5-flash",
+ "channel": "Skratch Gaming",
+ "title": "USE THESE TEAMS To Farm All Bosses In Dragonheir: Silent Gods x Dragonstride",
+ "published": "2026-10-26T14:53:58+00:00",
+ "url": "https://www.youtube.com/watch?v=bt7j_X7T5HA",
+ "short": false,
+ "summarized": "2026-10-28T10:22Z"
+}

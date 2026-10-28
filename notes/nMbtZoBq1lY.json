@@ -1,0 +1,75 @@
+{
+ "summary": "Grave of Venom (Deadly Harpy) is the best gear dungeon to farm early because weapons and helmets have fixed main stats, significantly reducing gear RNG compared to other dungeons. A 100% free-to-play Frost team consisting of Garius, Vinyara, Hvitar, Auster, and Lossenia can reliably clear Stage 19. Garius acts as a solo self-sustaining tank with Defense Up stacks and Hit Recovery, while Vinyara cripples the Harpy with Attack Penalty II and Ultimate Down. Hvitar and Auster serve as primary and secondary Frost DPS, supported by Lossenia who maintains constant Frost uptime and Defense Penalty II via Witch's Remains. Farming Stage 19 is optimal for F2P players as Stage 20 only adds a single extra Tempering Sand material.",
+ "topics": [
+  "Grave of Venom",
+  "F2P",
+  "Frost Team",
+  "Gear Farming",
+  "Talents"
+ ],
+ "heroes": [
+  {
+   "name": "Garius",
+   "verdict": "Best F2P tank / solo sustain",
+   "note": "Provides incredible self-sustained healing and stacking defense, allowing teams to skip extra healers and bring maximum DPS.",
+   "known": true
+  },
+  {
+   "name": "Vinyara",
+   "verdict": "Essential PvE debuffer",
+   "note": "Consistently applies Attack Penalty II, attack/recharge speed reduction, and Ultimate Down to drastically diminish boss damage output.",
+   "known": true
+  },
+  {
+   "name": "Hvitar",
+   "verdict": "Top Frost DPS",
+   "note": "Deals massive burst damage against Frost-inflicted targets and serves as the primary damage dealer in Frost compositions.",
+   "known": true
+  },
+  {
+   "name": "Auster",
+   "verdict": "Solid secondary Frost DPS",
+   "note": "Provides reliable secondary damage and extra frost synergy in F2P Frost teams.",
+   "known": true
+  },
+  {
+   "name": "Lossenia",
+   "verdict": "Great Frost enabler & support",
+   "note": "Applies constant AoE Frost and works as an ideal wearer for Witch's Remains to inflict Defense Penalty II.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Grave of Venom",
+   "heroes": [
+    "Garius",
+    "Vinyara",
+    "Hvitar",
+    "Auster",
+    "Lossenia"
+   ],
+   "note": "F2P Frost team where Garius solo tanks in the center while Vinyara debuffs the boss and the Frost trio burst her down."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Prioritize farming Grave of Venom over Grave of Rot or Grave of Curse early on because weapons (flat ATK) and helmets (HP) have guaranteed main stats, minimizing bad RNG.",
+  "Stop at Stage 19 when farming gear dungeons if Stage 20 is too difficult, as Stage 20 only grants one additional Tempering Sand per run while mythic gear drop rates remain identical.",
+  "Leveling up Hero Talents after reaching Resonance level 100 is one of the most important and underrated power boosts for progression on new accounts.",
+  "Equip Garius with the Scarab Amulet artifact from the Exchange Shop for extra defense shields when his HP drops low.",
+  "Equip Lossenia with Witch's Remains artifact to consistently apply Defense Penalty II across multi-target encounters.",
+  "Aim for 240+ Accuracy on debuffers like Vinyara to ensure key debuffs like Attack Penalty II land reliably."
+ ],
+ "season": "S1",
+ "server_scope": "S1",
+ "value": "high",
+ "id": "nMbtZoBq1lY",
+ "model": "gemini-3.5-flash",
+ "channel": "Fastidious Dragonheir",
+ "title": "This F2P Team DOMINATES This Dungeon! ⁂ Dragonheir: Silent Gods",
+ "published": "2026-10-23T18:06:57+00:00",
+ "url": "https://www.youtube.com/watch?v=nMbtZoBq1lY",
+ "short": false,
+ "summarized": "2026-10-27T20:43Z"
+}

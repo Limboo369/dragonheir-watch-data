@@ -1,0 +1,73 @@
+{
+ "summary": "OddOneGaming showcases a Corrosion team that achieves over 1.1 billion damage against the Mekkatorque boss. Although Corrosion typically excels against multi-target encounters, a high-inspiration Rook performs exceptionally well in this single-target fight. Rook is built with 100% Crit Rate, max Crit Damage, high Resistance, and a 1-piece Steam Sonata gear piece to maximize Skill Haste from ultimate casts. The supporting lineup of Sacredeia, Twitch, Reytah, and Child of Chaos provides debuffs, supplementary damage, and crucial cleanses.",
+ "topics": [
+  "Mekkatorque",
+  "Corrosion Team",
+  "Rook Build",
+  "Boss Guide",
+  "Rasp of Gears"
+ ],
+ "heroes": [
+  {
+   "name": "Rook",
+   "verdict": "Core DPS / 1B+ damage carry",
+   "note": "Deals massive true damage through Corrosion consumption; build with 100% Crit Rate, max Crit Damage, high Resistance, and 1-piece Steam Sonata for bonus Skill Haste.",
+   "known": true
+  },
+  {
+   "name": "Sacredeia",
+   "verdict": "Crucial debuffer and damage dealer",
+   "note": "Build for full damage while ensuring enough Accuracy to consistently land her debuffs.",
+   "known": true
+  },
+  {
+   "name": "Twitch",
+   "verdict": "Strong Corrosion DPS substitute",
+   "note": "Built for full damage equipped with the Swamp Toadstool artifact to boost Corrosion output.",
+   "known": true
+  },
+  {
+   "name": "Reytah",
+   "verdict": "Essential healer and cleanser",
+   "note": "Provides cleansing and sustain; geared with Mystic Conch and bonus Skill Haste.",
+   "known": true
+  },
+  {
+   "name": "Child of Chaos",
+   "verdict": "Key utility support",
+   "note": "Provides additional cleanses and debuffs using Whirling Doom; stack Attack and survivability.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Mekkatorque (Rasp of Gears)",
+   "heroes": [
+    "Sacredeia",
+    "Rook",
+    "Twitch",
+    "Reytah",
+    "Child of Chaos"
+   ],
+   "note": "Reached 1.13 billion damage against Lv. 260 Mekkatorque using full Corrosion synergy and high Resistance to resist boss debuffs."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Equip Rook with 1 piece of Steam Sonata (gloves or chest) to gain up to 40 Skill Haste permanently as he cycles ultimates.",
+  "Stack high Resistance on Rook to prevent recharge speed penalties and boss debuffs from cutting into his DPS.",
+  "Ensure Sacredeia has enough Accuracy to apply her debuffs even when building her for pure damage.",
+  "If RNG on cleanse timings from Reytah or Child of Chaos fails to hit 1B damage, rerun the combat simulation."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "95O1rcCjYgw",
+ "model": "gemini-3.8-flash",
+ "channel": "OddOneGaming RPGs",
+ "title": "🚨 This Team BLEW MY MIND🚨 Corrosion vs Mekkatorque Boss S8 Boss | Dragonheir x Dragonstride",
+ "published": "2026-10-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=95O1rcCjYgw",
+ "short": false,
+ "summarized": "2026-10-28T07:14Z"
+}

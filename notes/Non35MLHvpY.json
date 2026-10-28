@@ -1,0 +1,80 @@
+{
+ "summary": "This video examines top Temporal Vortex leaderboard teams on the S9 Chinese server to see how new Season 9 heroes and mythic gear are performing. Key new Aura supports like Holfast and Celestine are making significant impacts in top-tier Aura teams alongside Solmo and Anneliesis. The new Dragonflame mythic gloves provide strong damage bonuses, though slightly weaker than the previous Realm of the Fallen set. Corrosion teams are also showing early promise as players prepare for upcoming exclusive Corrosion hero releases.",
+ "topics": [
+  "Temporal Vortex",
+  "S9 Meta",
+  "Holfast",
+  "Celestine",
+  "Mythic Equipment",
+  "Arena"
+ ],
+ "heroes": [
+  {
+   "name": "Holfast",
+   "verdict": "Top support for Aura teams",
+   "note": "Provides massive buffs including 30% Damage Up, Crit Rate, Crit Damage, and Attack to Aura allies via his passive and battle skill.",
+   "known": true
+  },
+  {
+   "name": "Celestine",
+   "verdict": "Crucial Aura buffer",
+   "note": "Provides a substantial boost to the overall HP pool and durability of Aura team compositions.",
+   "known": true
+  },
+  {
+   "name": "Xiwa",
+   "verdict": "Niche Arena support",
+   "note": "Grants 10% damage increase and 10% damage reduction to allies, though not yet mainstream in the top meta.",
+   "known": false
+  },
+  {
+   "name": "Sacredeia",
+   "verdict": "Top pick for Vortex",
+   "note": "Used effectively in high-ranking Vortex teams wearing utility debuff mythic gear.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Temporal Vortex",
+   "heroes": [
+    "Holfast",
+    "Celestine",
+    "Anneliesis",
+    "Solmo",
+    "Serpentemis"
+   ],
+   "note": "Top-tier Aura team combination capable of reaching tens of billions in damage."
+  },
+  {
+   "mode": "Temporal Vortex",
+   "heroes": [
+    "Kurvida",
+    "Nastjenka",
+    "Guinavivre",
+    "Selva",
+    "Maashtur"
+   ],
+   "note": "High-performing Dauntless team setup utilizing new Dragonflame mythic gloves."
+  }
+ ],
+ "meta_changes": [
+  "New mythic gloves like Crimson Dragonflame (+24% damage to target) and Azure Prophecy (+12% damage to target) are replacing retired Realm of the Fallen gear pieces.",
+  "Holfast and Celestine elevate Aura team damage and survivability significantly in S9 Temporal Vortex."
+ ],
+ "tips": [
+  "Equip Crimson Dragonflame Gloves on multiple heroes to stack Dragonflame debuffs on a single boss for maximum damage increase.",
+  "Ensure Holfast is paired with Aura allies to maximize his battle skill random buffs (Crit Rate, Crit Damage, Attack)."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "Non35MLHvpY",
+ "model": "gemini-3.5-flash",
+ "channel": "Neff Gaming",
+ "title": "S9 NEW Heroes are Being used in VORTEX! Check These Updates! | Dragonheir: Silent Gods",
+ "published": "2026-10-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=Non35MLHvpY",
+ "short": false,
+ "summarized": "2026-10-28T07:07Z"
+}

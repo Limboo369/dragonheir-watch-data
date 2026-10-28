@@ -1,0 +1,64 @@
+{
+ "summary": "Fastidious announces a promo code and giveaway for a physical Dark Lady statue in Dragonheir: Silent Gods. He reviews the bonus rewards available via his referral link, which includes free heroes Auster and Cervinia. He highlights the strengths of Auster as a top Frost DPS for story and boss progression, as well as his favorite hero Child of Chaos. Additionally, he briefly mentions rumors regarding an upcoming rerun for Anneliesis.",
+ "topics": [
+  "promo code",
+  "giveaway",
+  "free legendary",
+  "hero review"
+ ],
+ "heroes": [
+  {
+   "name": "Auster",
+   "verdict": "Top Frost DPS",
+   "note": "Excellent AoE and single-target DPS that excels in story progression, story bosses, and magichess.",
+   "known": true
+  },
+  {
+   "name": "Cervinia",
+   "verdict": "Good support epic",
+   "note": "Solid support hero provided for free via creator download link.",
+   "known": true
+  },
+  {
+   "name": "Child of Chaos",
+   "verdict": "Versatile support and DPS",
+   "note": "Highly versatile unit capable of element shifting, healing, supporting, and executing enemies.",
+   "known": true
+  },
+  {
+   "name": "Hvitar",
+   "verdict": "Top Frost exclusive DPS",
+   "note": "Strong Frost exclusive hero that pairs exceptionally well alongside Auster in double DPS compositions.",
+   "known": true
+  },
+  {
+   "name": "The Dark Lady",
+   "verdict": "Strong Necrosis unit",
+   "note": "Rare and powerful Necrosis hero that dispels shields, inflicts debuffs, and buffs allies.",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "Potential rerun hero",
+   "note": "Rumored to be returning in a video/banner very soon.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [],
+ "tips": [
+  "Redeem the promo code fastidious14 in Settings > Redemption Code Pack to receive 350 Wyrmarrow, 5 Starlight Stone Dice, and 50,000 Gold.",
+  "New players can download the game via the creator link to receive free copies of Cervinia (Epic) and Auster (Legendary)."
+ ],
+ "season": "S1",
+ "server_scope": "S1",
+ "value": "medium",
+ "id": "k73hjQA6h1M",
+ "model": "gemini-3.5-flash",
+ "channel": "Fastidious Dragonheir",
+ "title": "I'm Giving Away This FREE STATUE Again! ⁂ Dragonheir: Silent Gods",
+ "published": "2026-10-22T13:00:27+00:00",
+ "url": "https://www.youtube.com/watch?v=k73hjQA6h1M",
+ "short": false,
+ "summarized": "2026-10-27T19:47Z"
+}

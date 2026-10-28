@@ -1,0 +1,70 @@
+{
+ "summary": "This showcase demonstrates an end-game Corrosion team defeating Mekkatorque, the Season 8 endgame boss, achieving an S rank with over 1.41 billion total damage. The team is composed of Whisk, Sacredeia, Rook, Szecedith, and Reytah. Rook acts as the primary carry, contributing approximately 78% of the entire team's damage. Detailed hero gear builds, attributes, and specific skill timing rotations are highlighted to ensure optimal debuff application and uptime.",
+ "topics": [
+  "Mekkatorque",
+  "Corrosion",
+  "Endgame Boss",
+  "Season 8"
+ ],
+ "heroes": [
+  {
+   "name": "Rook",
+   "verdict": "Top DPS carry for Corrosion teams against Mekkatorque",
+   "note": "Dealt 1.099 billion damage (78% of the total team damage) utilizing default skill timings to capitalize on enemy Corrosion stacks.",
+   "known": true
+  },
+  {
+   "name": "Sacredeia",
+   "verdict": "Key Corrosion enabler and sub-DPS",
+   "note": "Contributed 114.8M damage while maintaining consistent Corrosion debuffs using an 11.6s first cast and 17.5s recast.",
+   "known": true
+  },
+  {
+   "name": "Whisk",
+   "verdict": "Corrosion buffer and poison damage dealer",
+   "note": "Provided steady Corrosion application and self-buffs, dealing 70.4M damage with an 11.3s first cast and 15s recast timing.",
+   "known": true
+  },
+  {
+   "name": "Szecedith",
+   "verdict": "Corrosion utility and sub-DPS",
+   "note": "Inflicted Corruption and poison damage contributing 77.8M damage, timed at 12.5s first cast and 17.5s recast.",
+   "known": true
+  },
+  {
+   "name": "Reytah",
+   "verdict": "Support debuffer and cleanser",
+   "note": "Inflicted poison debuffs, slowed boss skill recharge, and dispelled ally debuffs with an 11.4s first cast and 15s recast.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Mekkatorque (Season 8 Endboss)",
+   "heroes": [
+    "Whisk",
+    "Sacredeia",
+    "Rook",
+    "Szecedith",
+    "Reytah"
+   ],
+   "note": "High-scoring Poison/Corrosion team achieving 1.41B total damage to earn an S rank in Phase 1 of Mekkatorque."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Prioritize offensive stats, attack, and enlightenment heavily on Rook, as he provides the vast majority of the damage output in a Corrosion setup.",
+  "Fine-tune ultimate skill timers for support and debuff units (Whisk at 11.3s/15s, Sacredeia at 11.6s/17.5s, Szecedith at 12.5s/17.5s, Reytah at 11.4s/15s) while keeping Rook on default cast to consistently detonate Corrosion."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "2clr7Ee4JAs",
+ "model": "gemini-3.8-flash",
+ "channel": "liveranov",
+ "title": "Corrosion vs Mekkatorque (Phase 1) | Endgame Boss | Season 8 | Dragonheir",
+ "published": "2026-10-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=2clr7Ee4JAs",
+ "short": false,
+ "summarized": "2026-10-28T08:22Z"
+}

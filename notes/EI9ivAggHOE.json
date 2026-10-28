@@ -1,0 +1,47 @@
+{
+ "summary": "Gorax showcases Sia, a new Legendary Necrosis exclusive support hero introduced for Season 9. Her kit utilizes a unique Mercy mechanic that converts absorbed damage into party-wide healing and shields, while granting passive team damage boosts and damage reduction. Her ultimate provides buff dispel, party shields, Parry, and applies Repentance to drain enemy ultimate energy. Gorax rates her as extremely powerful for both PvE and PvP, recommending gear builds centered on Defense%, Accuracy, HP, and Skill Haste.",
+ "topics": [
+  "Sia",
+  "Hero Showcase",
+  "Season 9",
+  "Necrosis Support",
+  "Hero Build",
+  "Talents & Inspirations"
+ ],
+ "heroes": [
+  {
+   "name": "Sia",
+   "verdict": "Extremely powerful support for PvE and PvP",
+   "note": "Provides party-wide damage boost, damage reduction, healing, shields, Parry, and drains enemy ultimate energy via the Repentance debuff.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Temporal Vortex",
+   "heroes": [
+    "Sia"
+   ],
+   "note": "Fits well into poison and corrosion team archetypes to provide damage mitigation and sustain."
+  }
+ ],
+ "meta_changes": [
+  "Introduction of Sia as a new exclusive Necrosis support hero with Mercy-scaling shields, Parry damage reduction, and ultimate energy drain."
+ ],
+ "tips": [
+  "Prioritize Defense% and Accuracy on Sia's equipment so her Parry damage reduction scales effectively and her debuffs consistently land.",
+  "Equip support artifacts such as Angelic Alliance or Aurelium Vest for defensive utility, or Golden Antlers for universal offensive support.",
+  "Use Devout Prayer or Secrecy Order's Chant gear sets to leverage her frequent shield application into bonus team damage."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "EI9ivAggHOE",
+ "model": "gemini-3.8-flash",
+ "channel": "Gorax",
+ "title": "S9 Hero Showcase: Sia - Skills, Talents & Inspirations | Dragonheir x Dragonstride",
+ "published": "2026-10-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=EI9ivAggHOE",
+ "short": false,
+ "summarized": "2026-10-28T07:09Z"
+}

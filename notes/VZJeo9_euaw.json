@@ -1,0 +1,104 @@
+{
+ "summary": "Fastidious previews Season 9, 'The Undertow Approach,' detailing 10 new heroes, 7 new gear sets, 4 mythic artifacts, and the Duskport map region featuring the Invertipulis Sentinel boss. The season introduces three new elemental affinity pairings: Necrotoxin (Necrosis/Poison), Frostlight (Radiance/Ice), and Firestorm (Lightning/Fire). Legendary hero Anneliesis makes a highly anticipated return on November 8th. Players can also obtain legendary hero Amalfriede and epic hero Quirro for free through seasonal events, alongside up to 7 Heliolite Dice from the Halloween Candy Bean Battle event.",
+ "topics": [
+  "Season 9",
+  "New Heroes",
+  "Anneliesis",
+  "Account Appraisal",
+  "Duskport",
+  "Candy Bean Battle",
+  "Elemental Affinity"
+ ],
+ "heroes": [
+  {
+   "name": "Anneliesis",
+   "verdict": "Must-pull top tier hero",
+   "note": "Returns November 8th; brings crowd control, state manipulation, and team buffs via Possess.",
+   "known": true
+  },
+  {
+   "name": "Amalfriede",
+   "verdict": "Free legendary Poison support",
+   "note": "Obtainable free in S9 seasonal events; inflicts debuffs and increases her own damage based on debuffs applied.",
+   "known": true
+  },
+  {
+   "name": "Quirro",
+   "verdict": "Free epic Fire support",
+   "note": "Obtainable free in S9 seasonal events; dispels enemy shields and transfers enemy buffs to allies.",
+   "known": false
+  },
+  {
+   "name": "Sia",
+   "verdict": "Necrosis support hero",
+   "note": "Reduces damage taken by allies, grants Parry, and deals Necrotic damage.",
+   "known": true
+  },
+  {
+   "name": "Celestine",
+   "verdict": "Ice tank and support",
+   "note": "Stores damage taken to heal allies and increases allies' Max HP.",
+   "known": true
+  },
+  {
+   "name": "Syonis",
+   "verdict": "Necrosis damage dealer",
+   "note": "Lowers enemy Defense and enters an Energy Drain Zone against targeted enemies.",
+   "known": true
+  },
+  {
+   "name": "Rhyviel",
+   "verdict": "Poison Corrosion damage dealer",
+   "note": "Lowers enemy Defense, inflicts Corrosion, and deals massive True Damage.",
+   "known": true
+  },
+  {
+   "name": "Holfast",
+   "verdict": "Radiance Aura damage dealer",
+   "note": "Channels Aura Energy to allies and grants team buffs.",
+   "known": true
+  },
+  {
+   "name": "Fyrenzur",
+   "verdict": "Fire support hero",
+   "note": "Grants Dodge to allies and reflects damage after a successful Dodge.",
+   "known": true
+  },
+  {
+   "name": "Longbeau",
+   "verdict": "Ice support hero",
+   "note": "Provides Healing Over Time, dispels negative effects, and reflects debuffs.",
+   "known": true
+  },
+  {
+   "name": "Tallyn",
+   "verdict": "Lightning tank hero",
+   "note": "Inflicts Control on enemies and grants Shields to allies.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [
+  "Introduced new element affinity pairings for Season 9: Necrotoxin (Necrosis/Poison), Frostlight (Radiance/Ice), and Firestorm (Lightning/Fire).",
+  "Added 10 new heroes, 4 Mythic Artifacts, 3 Legendary Gear Sets, and 4 Mythic Gear Sets.",
+  "Added the Duskport region and new boss Invertipulis Sentinel.",
+  "Upgraded the Account Appraisal System to reward up to 15,000 Wyrmarrow (150 Heliolite Dice) for accounts up to 14 days old."
+ ],
+ "tips": [
+  "Save Heliolite Dice and Wyrmarrow for the return of Anneliesis on November 8th.",
+  "New and returning players should use the Account Appraisal page within 14 days of account creation to claim up to 15,000 Wyrmarrow.",
+  "Participate daily in the Halloween Candy Bean Battle by spending 150 stamina to unlock challenges that reward 7 total Heliolite Dice.",
+  "Earn free heroes Amalfriede (Legendary) and Quirro (Epic) by playing seasonal events like Continental Challenge and Fey Meander."
+ ],
+ "season": "S9",
+ "server_scope": "mixed",
+ "value": "high",
+ "id": "VZJeo9_euaw",
+ "model": "gemini-3.5-flash",
+ "channel": "Fastidious Dragonheir",
+ "title": "This Next Season Of Dragonheir CHANGES EVERYTHING ⁂ Dragonheir: Silent Gods",
+ "published": "2026-10-26T23:01:55+00:00",
+ "url": "https://www.youtube.com/watch?v=VZJeo9_euaw",
+ "short": false,
+ "summarized": "2026-10-28T10:20Z"
+}

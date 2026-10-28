@@ -1,0 +1,107 @@
+{
+ "summary": "Skyasterix kicks off day 1 of Season 9 by claiming season settlement rewards and setting up early progression. He levels up his core team to push through Goblin Lair, Frost Domain, and Shadow Domain while climbing Grand Gladiator Arena with a full Radiance lineup. After upgrading his season island facilities (Ancestral Idol, Mine, Dispatch Center, and War Room), he tests a Poison team on the Arbor Hydra Temporal Vortex boss, surpassing 101M damage. Finally, he performs summons, pulling Duke Rhapsody Longbeau and explaining his powerful debuff-reflecting kit, while recommending players save resources for Sia and the upcoming Anneliesis banner.",
+ "topics": [
+  "Season 9 Day 1",
+  "Longbeau",
+  "Sia",
+  "Arena",
+  "Island Upgrades",
+  "Summons",
+  "Temporal Vortex"
+ ],
+ "heroes": [
+  {
+   "name": "Longbeau",
+   "verdict": "Extremely strong in Arena",
+   "note": "Summons a swarm of rats providing debuff/control reflection that ignores enemy resistance via Black Rat, alongside damage reduction and healing via White Rat.",
+   "known": true
+  },
+  {
+   "name": "Sia",
+   "verdict": "Must-have / absolute meta target",
+   "note": "Highlighted as the top meta target among all new S9 support legendaries that players should prioritize acquiring.",
+   "known": true
+  },
+  {
+   "name": "Celestine",
+   "verdict": "Strong support option",
+   "note": "Recommended as a high-value support hero suited for Ice and Radiance elemental pairings.",
+   "known": true
+  },
+  {
+   "name": "Caroux",
+   "verdict": "Powerful support for Arena",
+   "note": "Provides team control immunity, shielding, damage reduction, and crowd control.",
+   "known": true
+  },
+  {
+   "name": "Felosia",
+   "verdict": "Solid support worth inspiring",
+   "note": "Remains an excellent support healer/shielder whose duplicates are valuable to push up to Inspiration 5.",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "Priority save target",
+   "note": "Advised holding onto summons and Heliolite dice for her anticipated banner arrival in early November.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Grand Gladiator Arena",
+   "heroes": [
+    "Garius",
+    "Talethia",
+    "Aemonleyda",
+    "Rena",
+    "Diantha"
+   ],
+   "note": "Radiance lineup used to rapidly blitz through NPC guards and climb arena ranks on day 1."
+  },
+  {
+   "mode": "Temporal Vortex (Arbor Hydra)",
+   "heroes": [
+    "Lincos",
+    "Twitch",
+    "Serpentemis",
+    "Reytah",
+    "Child of Chaos"
+   ],
+   "note": "Poison/Necrosis team that scored over 101M damage on Difficulty 1 Arbor Hydra."
+  },
+  {
+   "mode": "Frost Domain",
+   "heroes": [
+    "Garius",
+    "Talethia",
+    "Aemonleyda",
+    "Rena",
+    "Diantha"
+   ],
+   "note": "Full Radiance sustain and damage composition used to farm early Frost Domain stages."
+  }
+ ],
+ "meta_changes": [
+  "Season 9 introduces a new tier of support legendaries including Sia, Celestine, and Longbeau.",
+  "Longbeau introduces a direct crowd-control and debuff mirror mechanic that bypasses enemy resistance.",
+  "New season island management system requires upgrading the Ancestral Idol, Mine, Dispatch Center, and War Room to scale seasonal buffs."
+ ],
+ "tips": [
+  "Prioritize upgrading the Ancestral Idol and Dispatch Center on the season island early to unlock more daily dispatches and stamina generation.",
+  "Save Heliolite dice rather than exhausting all resources on day 1 targeted banners, especially for high-priority upcoming banners like Anneliesis.",
+  "Lower graphics settings to Medium and disable hero showcase animations to reduce lag and speed up day 1 domain grinding.",
+  "Check the S8 Reward Shop immediately on season rollover to purchase Redux chests and grab hero duplicates for inspirations."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "oTOLrbXN0T4",
+ "model": "gemini-3.8-flash",
+ "channel": "Skyasterix Gaming",
+ "title": "🔥 Season 9 FIRST DAY! Code: SKYASTERIX | Dragonheir: Silent Gods",
+ "published": "2026-10-23T11:01:17+00:00",
+ "url": "https://www.youtube.com/watch?v=oTOLrbXN0T4",
+ "short": false,
+ "summarized": "2026-10-27T19:49Z"
+}

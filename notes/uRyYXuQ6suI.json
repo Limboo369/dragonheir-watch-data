@@ -1,0 +1,96 @@
+{
+ "summary": "OddOneGaming presents an updated Aura team guide for Fallen Shadow Spire in Season 9 as an accessible alternative to Thelendor Rally teams. The comp features Talethia as the primary DPS supported by Anneliesis, Diantha, Lincos, and Shahla. By equipping Talethia with the Dark Corpse Puppet artifact and positioning support allies near the deer tile, her ultimate recharges rapidly for massive AoE clear. An alternative setup substituting Sagomir for Shahla is also explained to reliably battery Talethia.",
+ "topics": [
+  "Fallen Shadow Spire",
+  "Aura Team",
+  "Talethia Build",
+  "Season 9 Guide"
+ ],
+ "heroes": [
+  {
+   "name": "Talethia",
+   "verdict": "Top AoE DPS for Fallen Shadow Spire",
+   "note": "Acts as a rapid-fire ultimate machine gun when built with Dark Corpse Puppet and supported by ultimate energy batteries.",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "Key Aura buffer",
+   "note": "Equipped with Solar King's Horn or Angelic Alliance to boost overall team damage output.",
+   "known": true
+  },
+  {
+   "name": "Diantha",
+   "verdict": "Aura enabler and support",
+   "note": "Gears Witch's Remains and Puppeteer's Inspiration with high Accuracy to support Aura allies.",
+   "known": true
+  },
+  {
+   "name": "Lincos",
+   "verdict": "Aura buffer and sub-DPS",
+   "note": "Uses Orb of the Dragon God to increase elemental damage and trigger frequent team ultimate cycles.",
+   "known": true
+  },
+  {
+   "name": "Shahla",
+   "verdict": "Ultimate energy battery",
+   "note": "Uses Chest of Radiance and high Skill Haste to grant ultimate energy to allies when casting her ultimate.",
+   "known": true
+  },
+  {
+   "name": "Sagomir",
+   "verdict": "Alternative battery tank",
+   "note": "Can replace Shahla to continuously feed ultimate energy carrots to Talethia.",
+   "known": true
+  },
+  {
+   "name": "Thelendor",
+   "verdict": "Alternative Rally DPS",
+   "note": "Strong AoE damage option for Rally teams, though an Aura team is more widely accessible.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Fallen Shadow Spire",
+   "heroes": [
+    "Talethia",
+    "Anneliesis",
+    "Diantha",
+    "Lincos",
+    "Shahla"
+   ],
+   "note": "Standard Aura composition achieving top-tier ranking by rapidly charging Talethia's ultimate."
+  },
+  {
+   "mode": "Fallen Shadow Spire",
+   "heroes": [
+    "Talethia",
+    "Anneliesis",
+    "Diantha",
+    "Lincos",
+    "Sagomir"
+   ],
+   "note": "Alternative setup replacing Shahla with Sagomir to guarantee ultimate energy delivery to Talethia."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Equip Talethia with the Dark Corpse Puppet artifact to restore 16% ultimate energy every 3 seconds upon defeating mob waves.",
+  "Position two support heroes near the deer tile to gain additional ultimate energy whenever the deer skill activates.",
+  "When substituting Sagomir into the team, clear all units and place Talethia first so Sagomir targets her at full health.",
+  "Place Sagomir close to the enemy spawn point to ensure he enters combat immediately and throws his carrot energy boost.",
+  "Equip Talethia with Slaughter's Edge or Undying Faith gear sets to maximize damage output."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "uRyYXuQ6suI",
+ "model": "gemini-3.5-flash",
+ "channel": "OddOneGaming RPGs",
+ "title": "🚨 Build THE BEST! 🚨 No 1 Fallen Shadow Spire Team GUIDE S9 | Dragonheir x Dragonstride",
+ "published": "2026-10-27T13:00:36+00:00",
+ "url": "https://www.youtube.com/watch?v=uRyYXuQ6suI",
+ "short": false,
+ "summarized": "2026-10-28T10:18Z"
+}

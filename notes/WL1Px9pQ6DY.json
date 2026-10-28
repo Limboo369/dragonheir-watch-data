@@ -1,0 +1,66 @@
+{
+ "summary": "This video breaks down the Season 9 Continental Challenge event in Dragonheir: Silent Gods. The creator showcases the 450-point hero reward, Amalfriede, detailing her Poison support kit, debuffs, shields, and inspiration bonuses. He then reviews the mechanics, strengths, and weaknesses of the six challenge bosses: Rose (Los), Quaesitia (Quechaitia), Stegamoffyn (Stegamerfen), Belder (Beldelle), Sinnaril (Synarell), and Gina Viv (Guinavivre), highlighting team composition rules such as mono-element positioning and multi-element synergy requirement.",
+ "topics": [
+  "Continental Challenge",
+  "Season 9",
+  "Amalfriede",
+  "Boss Mechanics"
+ ],
+ "heroes": [
+  {
+   "name": "Amalfriede",
+   "verdict": "Good Poison support and debuffer",
+   "note": "Inflicts multiple debuffs including Attack Penalty II, Accuracy Penalty II, Buff Prohibition, Healing Prohibition, and Silence, while generating self shields and boosting her own ultimate damage.",
+   "known": true
+  },
+  {
+   "name": "Rhyviel",
+   "verdict": "Top Corrosion DPS pick for Rose boss",
+   "note": "Provides massive damage potential for Corrosion compositions against the Rose boss in Continental Challenge.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Continental Challenge - Rose",
+   "heroes": [
+    "Corrosion Team"
+   ],
+   "note": "Corrosion team performs exceptionally well; position heroes without friendly adjacent units to gain a 30% damage increase."
+  },
+  {
+   "mode": "Continental Challenge - Belder",
+   "heroes": [
+    "Aura Team"
+   ],
+   "note": "Build a mono-element team from the same faction to get a 10% damage bonus while exploiting the boss's +20% critical hit vulnerability."
+  },
+  {
+   "mode": "Continental Challenge - Sinnaril",
+   "heroes": [
+    "Thunderbolt Team"
+   ],
+   "note": "Deploy a lineup with 3 different elements to unlock a 50% overall damage increase."
+  }
+ ],
+ "meta_changes": [
+  "Season 9 Continental Challenge introduces six distinct bosses with specific faction, elemental, and positioning rules.",
+  "Amalfriede added as the milestone hero reward at 450 points in the Season 9 Continental Challenge."
+ ],
+ "tips": [
+  "Each hero on your roster can only be deployed once per week across all Continental Challenge bosses, so plan your compositions carefully.",
+  "Match team compositions to boss-specific rules, such as using mono-element teams for Belder or 3 distinct elements for Sinnaril.",
+  "Avoid using Wild, Toxin, Thunderbolt, or Shadow against Belder due to his 40% mastery damage reduction; rely on high crit damage instead."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "WL1Px9pQ6DY",
+ "model": "gemini-3.5-flash",
+ "channel": "Neff Gaming",
+ "title": "NEW S9 CONTINENTAL CHALLENGE! 👀 What to Expect? | Dragonheir: Silent Gods",
+ "published": "2026-10-24T11:49:28+00:00",
+ "url": "https://www.youtube.com/watch?v=WL1Px9pQ6DY",
+ "short": false,
+ "summarized": "2026-10-27T20:44Z"
+}

@@ -1,0 +1,71 @@
+{
+ "summary": "The creator demonstrates a Thunderbolt team against the Season 8 endgame boss, Lv. 260 Mekkatorque. The setup achieves over 1.25 billion total damage over a 7-minute fight. Perkunte serves as the primary carry, accounting for nearly 75% of the total output. Complete hero equipment, stat sheets, and skill timings (all set to default) are displayed at the conclusion of the battle.",
+ "topics": [
+  "Mekkatorque",
+  "Endgame Boss",
+  "Thunderbolt",
+  "Perkunte",
+  "Team Build"
+ ],
+ "heroes": [
+  {
+   "name": "Perkunte",
+   "verdict": "Primary DPS carry",
+   "note": "Dealt 932.4 million damage (74.6% of the team's total) against Mekkatorque.",
+   "known": true
+  },
+  {
+   "name": "Tariz",
+   "verdict": "Secondary DPS",
+   "note": "Contributed 184.7 million damage (14.8% of team output) via electricity buildup and Lightning Chains.",
+   "known": true
+  },
+  {
+   "name": "Shai'nachtan",
+   "verdict": "Sub-DPS and buffer",
+   "note": "Provided buffs, enhanced Lightning Chains, and dealt 122.8 million damage.",
+   "known": true
+  },
+  {
+   "name": "Alaura",
+   "verdict": "Enabler and Sub-DPS",
+   "note": "Enhanced Lightning Chains and dealt 28.6 million damage.",
+   "known": true
+  },
+  {
+   "name": "Nathaniel",
+   "verdict": "Defensive support and shielder",
+   "note": "Kept the team alive for the full encounter by cleansing debuffs and providing shields.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Endgame Boss (Mekkatorque)",
+   "heroes": [
+    "Perkunte",
+    "Alaura",
+    "Tariz",
+    "Shai'nachtan",
+    "Nathaniel"
+   ],
+   "note": "Scored 1,250,403,658 total damage using full auto with default skill timings."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "This Thunderbolt team composition can be run entirely on default auto skill timings against Mekkatorque.",
+  "Build Nathaniel with enough skill haste and enlightenment to maintain shield uptime against Mekkatorque's heavy attacks."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "_NDg3fzD4Ik",
+ "model": "gemini-3.8-flash",
+ "channel": "liveranov",
+ "title": "Thunderbolt vs Mekkatorque (Phase 1) | Endgame Boss | Season 8 | Dragonheir",
+ "published": "2026-10-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=_NDg3fzD4Ik",
+ "short": false,
+ "summarized": "2026-10-28T07:05Z"
+}

@@ -1,0 +1,122 @@
+{
+ "summary": "On Day 3 of Season 9, Skratch demonstrates how gear optimizations and team adjustments can significantly increase Temporal Vortex scores up to 1.77 Billion total damage. By introducing Solmo into the Radiance Aura team and prioritizing broken gear pieces with high Crit Damage on Talethia over suboptimal full set bonuses, team output jumped by over 100 Million. Additionally, utilizing the Orb of the Dragon God artifact on mono-element teams provides a 15% team-wide damage boost. Skratch also shares full gear builds, stat targets, and skill timing setups for both his Radiance and Toxic Vortex teams.",
+ "topics": [
+  "Temporal Vortex",
+  "Season 9",
+  "Gear Builds",
+  "Skill Timing",
+  "Team Compositions"
+ ],
+ "heroes": [
+  {
+   "name": "Solmo",
+   "verdict": "Solid Radiance Vortex support",
+   "note": "Provides shields, buffs, and enables full mono-Radiance synergy, though Celestine can be an upgrade.",
+   "known": true
+  },
+  {
+   "name": "Talethia",
+   "verdict": "Top Radiance Aura DPS",
+   "note": "Yields massive damage increases when geared with high Crit Damage broken pieces over full set bonuses.",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "Essential Radiance support",
+   "note": "Built with Sacred River's Revelation set pieces to grant damage reduction when healing or shielding.",
+   "known": true
+  },
+  {
+   "name": "Diantha",
+   "verdict": "Key Radiance Aura enabler",
+   "note": "Requires high Accuracy along with balanced Crit Rate and Crit Damage.",
+   "known": true
+  },
+  {
+   "name": "Lincos",
+   "verdict": "Radiance turn engine",
+   "note": "Equipped with the Puppeteer set to boost team action bar and ultimate energy.",
+   "known": true
+  },
+  {
+   "name": "Stegamoffyn",
+   "verdict": "Core Toxic healer and enabler",
+   "note": "Built with defensive/healing set pieces to sustain the Toxic team in Vortex.",
+   "known": true
+  },
+  {
+   "name": "Child of Chaos",
+   "verdict": "Essential Toxic support tank",
+   "note": "Equipped with Puppeteer set and high HP to tank hits and boost team damage.",
+   "known": true
+  },
+  {
+   "name": "Twitch",
+   "verdict": "High single-target Poison DPS",
+   "note": "Scales heavily with high Attack and Enlightenment stats.",
+   "known": true
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "Top-tier Poison damage dealer",
+   "note": "Deals massive damage and resistance reduction, benefitting from maximum Enlightenment and Attack.",
+   "known": true
+  },
+  {
+   "name": "Sleight",
+   "verdict": "Strong Poison sub-DPS",
+   "note": "Equipped with the Blazeland Followers set to stack damage rotation bonuses.",
+   "known": true
+  },
+  {
+   "name": "Celestine",
+   "verdict": "Top-tier Ice replacement for Solmo",
+   "note": "Increases max HP and damage output for the team in monoelement or hybrid setups.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Temporal Vortex - Team 1 (Radiance/Aura)",
+   "heroes": [
+    "Talethia",
+    "Anneliesis",
+    "Diantha",
+    "Lincos",
+    "Solmo"
+   ],
+   "note": "High-performing Radiance composition reaching 720M+ damage in Vortex when Talethia is geared for raw Crit Damage."
+  },
+  {
+   "mode": "Temporal Vortex - Team 2 (Toxic/Poison)",
+   "heroes": [
+    "Child of Chaos",
+    "Stegamoffyn",
+    "Serpentemis",
+    "Twitch",
+    "Sleight"
+   ],
+   "note": "Poison stack composition delivering over 1 Billion damage through high Enlightenment and rapid skill rotations."
+  }
+ ],
+ "meta_changes": [
+  "High Crit Damage off-set pieces can outperform complete 3-piece set bonuses if the stat gain is significant.",
+  "Orb of the Dragon God artifact grants a massive 15% team-wide damage boost when running 5 heroes of the same element."
+ ],
+ "tips": [
+  "Do not strictly stick to 3-piece set bonuses on primary DPS heroes if broken pieces provide dramatically higher Crit Damage.",
+  "Equip Orb of the Dragon God on a support hero in mono-element teams to secure an extra 15% damage increase.",
+  "Tune skill timings precise to 18-second recasts in Temporal Vortex to synchronize ultimate bursts with boss vulnerability windows."
+ ],
+ "season": "S9",
+ "server_scope": "mixed",
+ "value": "high",
+ "id": "ZTBevjYvrOo",
+ "model": "gemini-3.5-flash",
+ "channel": "Skratch Gaming",
+ "title": "DO THIS CHANGES To Double Your Temporal Vortex Damage! Dragonheir: Silent Gods x Dragonstride",
+ "published": "2026-10-26T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=ZTBevjYvrOo",
+ "short": false,
+ "summarized": "2026-10-28T10:21Z"
+}

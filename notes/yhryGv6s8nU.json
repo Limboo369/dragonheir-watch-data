@@ -1,0 +1,72 @@
+{
+ "summary": "Dragonheir is running the Candy Bean Battle Halloween event, offering Heliolite Dice, skill pages, and avatar cosmetics in the event exchange shop. The video reveals upcoming banners found in the in-game probability menu, detailing Selected Summons for Aura, Shadow, and Corrosion teams. Option Summons 1 is highlighted as the best banner of the season, giving players freedom to pick from all 12 damage schools with a chance at support exclusive heroes. Additionally, Anneliesis's banner will return in early November and is marked as an essential must-pull for all players who do not own her.",
+ "topics": [
+  "banners",
+  "Option Summons",
+  "Selected Summons",
+  "Halloween Event",
+  "Anneliesis"
+ ],
+ "heroes": [
+  {
+   "name": "Anneliesis",
+   "verdict": "Must-pull hero",
+   "note": "Top priority hero to summon when her banner returns in early November if you do not already have her.",
+   "known": true
+  },
+  {
+   "name": "Holfast",
+   "verdict": "Top pick for Aura teams",
+   "note": "New Aura damage dealer featured in Selected Summons 1 who replaces Lincos in Aura team lineups.",
+   "known": true
+  },
+  {
+   "name": "Syonis",
+   "verdict": "New exclusive Shadow damage dealer",
+   "note": "Featured in the upcoming Selected Summons 2 banner for Shadow teams alongside Saverio and Ozul.",
+   "known": true
+  },
+  {
+   "name": "Armonleyda",
+   "verdict": "Skip / Weak option",
+   "note": "Considered the weak pull in the Aura Selected Summons pool compared to Holfast and Talethia.",
+   "known": false
+  },
+  {
+   "name": "Szecedith",
+   "verdict": "Core Corrosion hero",
+   "note": "Featured in Selected Summons 3 with an exclusive artifact that helps make Corrosion teams viable.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "General / Bossing",
+   "heroes": [
+    "Holfast"
+   ],
+   "note": "Holfast replaces Lincos as the main damage dealer in Aura element team builds."
+  }
+ ],
+ "meta_changes": [
+  "Selected Summons banners will cycle through element archetypes: Aura (Holfast), Shadow (Syonis), and Corrosion (Riviell, Szecedith, Rook).",
+  "Option Summons 1 will be the premier banner of the season, letting players select from all 12 damage schools and pull support exclusive heroes.",
+  "Anneliesis banner returns in early November."
+ ],
+ "tips": [
+  "Save Heliolite Dice for Option Summons 1 if you want high versatility across all 12 damage schools and exclusive support characters.",
+  "Prioritize pulling Anneliesis over other upcoming banners if she is missing from your roster.",
+  "Complete daily tasks in the Candy Bean Battle Halloween event to purchase 5 Heliolite Dice, Master Pages, and exclusive frames in the Wondrous Candy Shop."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "yhryGv6s8nU",
+ "model": "gemini-3.5-flash",
+ "channel": "Skratch Gaming",
+ "title": "PLAN AHEAD!! The New Banners Revealed... Dragonheir: Silent Gods x Dragonstride",
+ "published": "2026-10-27T17:53:24+00:00",
+ "url": "https://www.youtube.com/watch?v=yhryGv6s8nU",
+ "short": false,
+ "summarized": "2026-10-28T10:18Z"
+}

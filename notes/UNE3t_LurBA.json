@@ -1,0 +1,73 @@
+{
+ "summary": "OddOneGaming demonstrates a single universal team that can clear Stage 14 across Grave of Curse, Grave of Rot, and Grave of Venom on Day 1 without changing gear. The composition relies on Talethia for main burst damage along with Vinyara, Diantha, Anneliesis, and Lincos. Deploying the Deluxe Mimic familiar places an immediate recharge penalty on the boss, suppressing their initial abilities. Meeting the 240 Accuracy threshold for Stage 14 is made significantly easier by utilizing Vinyara's Accuracy Aura.",
+ "topics": [
+  "Gear Dungeons",
+  "Grave of Curse",
+  "Grave of Rot",
+  "Grave of Venom",
+  "Stage 14"
+ ],
+ "heroes": [
+  {
+   "name": "Vinyara",
+   "verdict": "Essential control and turn-meter controller",
+   "note": "Needs ~200 Accuracy before aura and equipped with Rift Hourglass to delay boss ultimates.",
+   "known": true
+  },
+  {
+   "name": "Diantha",
+   "verdict": "Key debuffer and support",
+   "note": "Uses Witch's Remains artifact to inflict Defense Penalty on bosses.",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "Premier energy buffer for Vinyara",
+   "note": "Boosts Vinyara's initial energy; can be swapped for Sagomir if Vinyara is deployed first.",
+   "known": true
+  },
+  {
+   "name": "Talethia",
+   "verdict": "Primary burst DPS",
+   "note": "Delivers massive damage output to destroy Stage 14 bosses in around 15 seconds.",
+   "known": true
+  },
+  {
+   "name": "Lincos",
+   "verdict": "Flex support option",
+   "note": "Can wear Verdant Crystal for extra shield or be replaced by tanks like Ardreth or Eurion in Grave of Venom.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Gear Dungeons Stage 14 (Curse, Rot, Venom)",
+   "heroes": [
+    "Vinyara",
+    "Diantha",
+    "Anneliesis",
+    "Talethia",
+    "Lincos"
+   ],
+   "note": "Full auto team that beats all three Stage 14 dungeons using Deluxe Mimic familiar without swapping gear."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Aim for 240 Accuracy on Stage 14 dungeons; Vinyara's Accuracy Aura grants +40 to help reach this requirement.",
+  "Use Deluxe Mimic familiar to inflict an initial recharge penalty on bosses at the start of battle.",
+  "Position Anneliesis behind Vinyara to guarantee Vinyara receives the initial energy boost.",
+  "If Grave of Venom wipes your squad due to Lincos dying early, swap Lincos for a defensive tank like Ardreth or Eurion."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "UNE3t_LurBA",
+ "model": "gemini-3.5-flash",
+ "channel": "OddOneGaming RPGs",
+ "title": "💥 EASY Stage 14s Day 1 💥One Team Beats ALL Stage 14s Of Gear Dungeons | Dragonheir x Dragonstride",
+ "published": "2026-10-26T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=UNE3t_LurBA",
+ "short": false,
+ "summarized": "2026-10-28T10:23Z"
+}

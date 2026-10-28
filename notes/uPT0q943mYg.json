@@ -1,0 +1,85 @@
+{
+ "summary": "Fastidious highlights the power of Dragonheir's Resonance Level system, which automatically keeps all owned heroes leveled up to the current account cap, enabling risk-free roster experimentation. Players coming from other gacha games often make the mistake of neglecting talent trees and overlooking rare heroes that require very minimal investment. When pushing dungeons with severe elemental restrictions like Frost Domain stage 18, matching proper counter elements (such as Dauntless/Radiance) trivializes content compared to brute-forcing with an element-penalized core team. Free swapping of equipment and artifacts makes re-gearing alternate units fast and painless.",
+ "topics": [
+  "Resonance Level",
+  "Talents",
+  "Frost Domain",
+  "Rare Heroes",
+  "Progression"
+ ],
+ "heroes": [
+  {
+   "name": "Auster",
+   "verdict": "Top tier legendary DPS",
+   "note": "A beast of a legendary Ice/Frost damage dealer especially for early accounts, providing strong defensive shields when his talents are leveled.",
+   "known": true
+  },
+  {
+   "name": "Divine Ascetic",
+   "verdict": "Great standalone core unit for Dauntless teams",
+   "note": "Obtained for free via storyline quests and events; highly potent with his exclusive artifact Kul Crown without needing heavy skill upgrades.",
+   "known": true
+  },
+  {
+   "name": "Altair",
+   "verdict": "Extremely cost-effective Rare unit",
+   "note": "Synergizes well with Divine Ascetic by providing attack speed and bonus lightning damage, requiring only 8 rare scrolls to max out.",
+   "known": true
+  },
+  {
+   "name": "Haug",
+   "verdict": "Cheap and reliable Rare synergy unit",
+   "note": "Pairs perfectly in Dauntless lineups to enhance attack speed and lightning damage with minimal resource commitment.",
+   "known": true
+  },
+  {
+   "name": "Child of Chaos",
+   "verdict": "Flexible support",
+   "note": "Can switch elements on demand (such as Ice or Radiance) and ignores enemy resistance with Gaze of Chaos, making him build-friendly without requiring accuracy.",
+   "known": true
+  },
+  {
+   "name": "Garius",
+   "verdict": "Premier tank and healer",
+   "note": "Reliable staple frontline tank that can be slotted into virtually any dungeon team.",
+   "known": true
+  },
+  {
+   "name": "Hvitar",
+   "verdict": "Premium legendary Frost DPS",
+   "note": "Excels with deep talent node investments (talent node 6) for massive damage output.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Frost Domain (Stage 18)",
+   "heroes": [
+    "Divine Ascetic",
+    "Altair",
+    "Haug",
+    "Child of Chaos",
+    "Garius"
+   ],
+   "note": "Dauntless and Radiance elemental composition used to bypass the Frost Domain's 90% Cold/Necrotic damage reduction penalty."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Do not sleep on hero talents; unlocking higher talent nodes can make the difference when stuck on high-level dungeon bosses.",
+  "Pay attention to dungeon elemental affinities and stage properties; in Frost Domain, Cold and Necrotic heroes deal 90% less damage and take 90% increased damage.",
+  "Take advantage of Dragonheir's Resonance system to test rare heroes without spending leveling exp; rare hero skills cost only 8 apprentice scrolls to max completely.",
+  "Freely swap maxed gear and artifacts between your units when building new team archetypes for specific dungeon farming."
+ ],
+ "season": "S1",
+ "server_scope": "S1",
+ "value": "medium",
+ "id": "uPT0q943mYg",
+ "model": "gemini-3.8-flash",
+ "channel": "Fastidious Dragonheir",
+ "title": "This Game Is NEXT LEVEL For Doing This... ⁂ Dragonheir: Silent Gods",
+ "published": "2026-10-27T19:10:53+00:00",
+ "url": "https://www.youtube.com/watch?v=uPT0q943mYg",
+ "short": false,
+ "summarized": "2026-10-28T08:21Z"
+}

@@ -1,0 +1,126 @@
+{
+ "summary": "This video reviews the top-performing team compositions and hero builds from Week 1 of the Continental Challenge on Chinese servers in Season 9. The creator breaks down the #1 player's 4.5 billion damage runs featuring Dauntless and Aura teams, as well as high-ranking Corrosion, Shadow, and Ice Blast setups. Key gear recommendations include stacking 3-piece Dragonflame set bonuses across team members for a 24% total team damage boost. Detailed stat priorities and artifact setups are examined for key damage dealers and supports like Guinavivre, Nastjenka, Child of Chaos, and Rook.",
+ "topics": [
+  "Continental Challenge",
+  "China Servers",
+  "Dauntless",
+  "Aura",
+  "Corrosion",
+  "Dragonflame Set"
+ ],
+ "heroes": [
+  {
+   "name": "Guinavivre",
+   "verdict": "Core DPS for Dauntless team",
+   "note": "Built for Attack, Crit Rate, Crit Damage, and Attack Speed while wearing the Dragonflame set.",
+   "known": true
+  },
+  {
+   "name": "Nastjenka",
+   "verdict": "Top DPS for Dauntless team",
+   "note": "Prioritizes Crit Damage over raw Attack, and uses Resistance sub-stats.",
+   "known": true
+  },
+  {
+   "name": "Kurvida",
+   "verdict": "Key Dauntless support",
+   "note": "Built with Attack Speed, Attack, Accuracy, and Skill Haste.",
+   "known": true
+  },
+  {
+   "name": "Selva",
+   "verdict": "Essential Dauntless team buffer",
+   "note": "Enables 3-piece Dragonflame set stacking across the team.",
+   "known": true
+  },
+  {
+   "name": "Child of Chaos",
+   "verdict": "Core support in Aura, Corrosion, and Shadow teams",
+   "note": "Requires 80+ Skill Haste and either high Accuracy or the healing talent.",
+   "known": true
+  },
+  {
+   "name": "Holfast",
+   "verdict": "Strong DPS in Aura team",
+   "note": "Built for near 100% Crit Rate and high Crit Damage.",
+   "known": true
+  },
+  {
+   "name": "Rook",
+   "verdict": "Primary DPS for Corrosion team",
+   "note": "Built with Attack Speed, 100% Crit Rate, and maximum Crit Damage using Crimson Sonata artifact.",
+   "known": true
+  },
+  {
+   "name": "Saverio",
+   "verdict": "Top Shadow DPS at Inspiration 5",
+   "note": "Performs exceptionally well when heavily invested with exclusive artifact.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Continental Challenge - Stegamoffyn",
+   "heroes": [
+    "Guinavivre",
+    "Nastjenka",
+    "Kurvida",
+    "Maashtur",
+    "Selva"
+   ],
+   "note": "Top performing Dauntless team dealing 1.88 billion damage."
+  },
+  {
+   "mode": "Continental Challenge - Beldell",
+   "heroes": [
+    "Child of Chaos",
+    "Anneliesis",
+    "Talethia",
+    "Holfast",
+    "Diantha"
+   ],
+   "note": "Top performing Aura team dealing 2.62 billion damage."
+  },
+  {
+   "mode": "Continental Challenge - Rose",
+   "heroes": [
+    "Rook",
+    "Child of Chaos",
+    "Reytah",
+    "Sacredeia",
+    "Diantha"
+   ],
+   "note": "High performing Corrosion team achieving around 1.46 billion damage."
+  },
+  {
+   "mode": "Continental Challenge - Stegamoffyn",
+   "heroes": [
+    "Ernesto",
+    "Beldell",
+    "Fredegonda",
+    "Shinnah",
+    "Celestine"
+   ],
+   "note": "Alternative Ice Blast composition dealing 1 billion damage."
+  }
+ ],
+ "meta_changes": [
+  "Aura and Dauntless remain top-tier meta choices for Continental Challenge bosses.",
+  "Dragonflame gear set stacking on multiple heroes provides significant multiplicative team damage buffs."
+ ],
+ "tips": [
+  "Equip 3-piece Dragonflame sets on three separate heroes in your team to stack an 8% damage boost up to 3 times for a 24% total team damage increase.",
+  "When building Child of Chaos, either bring high Accuracy or select the healing talent to bypass Accuracy requirements completely."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "ArAmzrTA6nQ",
+ "model": "gemini-3.6-flash",
+ "channel": "Neff Gaming",
+ "title": "S9 CONTINENTAL CHALLENGE 🔥 BEST TEAMS REVEALED! Week 1 CN Rankings | Dragonheir: Silent Gods",
+ "published": "2026-10-26T22:31:31+00:00",
+ "url": "https://www.youtube.com/watch?v=ArAmzrTA6nQ",
+ "short": false,
+ "summarized": "2026-10-28T10:22Z"
+}

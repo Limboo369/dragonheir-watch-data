@@ -1,0 +1,83 @@
+{
+ "summary": "Volkin showcases Season 9 test server features for Dragonheir: Silent Gods, including the new Duskport map area and an upgraded Account Valuation event awarding up to 15,000 Wyrmarrow. Season 9 grants Amalfriede as a free limited Legendary Poison support hero through the Season Journey. The returning top-tier Radiant hero Anneliesis is highlighted as a high-priority summon target due to her passive 20% damage buff to key allies. Several upcoming Season 9 heroes are previewed, including Corrosion DPS Rhyviel and Necrosis support Sia. Existing players can also reuse creator links each season for bonus summon currency.",
+ "topics": [
+  "Season 9 preview",
+  "Account Valuation",
+  "Anneliesis",
+  "Amalfriede",
+  "Rhyviel",
+  "Sia",
+  "New Heroes",
+  "Duskport"
+ ],
+ "heroes": [
+  {
+   "name": "Anneliesis",
+   "verdict": "Top priority summon target",
+   "note": "Bonds with a main damage dealer at start of battle to grant 20% Max HP, 20% Damage Bonus, and 20% Ultimate Energy.",
+   "known": true
+  },
+  {
+   "name": "Amalfriede",
+   "verdict": "Free S9 limited Legendary support",
+   "note": "Poison support hero obtained for free in Season Journey who inflicts Attack Penalty II, Accuracy Penalty II, Buff Prohibition, and Healing Prohibition.",
+   "known": true
+  },
+  {
+   "name": "Rhyviel",
+   "verdict": "High-potential Corrosion DPS",
+   "note": "Poison damage dealer who inflicts Corrosion, lowers enemy Defense, and deals massive True Damage.",
+   "known": true
+  },
+  {
+   "name": "Sia",
+   "verdict": "Strong Necrosis sustain support",
+   "note": "Necrosis support hero who utilizes the Mercy mechanic to absorb damage, grant Parry, and heal allies.",
+   "known": true
+  },
+  {
+   "name": "Celestine",
+   "verdict": "Unique Ice tank",
+   "note": "Ice tank hero who stores incoming damage taken, heals allies, and increases team Max HP.",
+   "known": true
+  },
+  {
+   "name": "Syonis",
+   "verdict": "Necrosis DPS",
+   "note": "Necrotic damage dealer who lowers enemy Defense and enters an Energy Drain Zone.",
+   "known": true
+  },
+  {
+   "name": "Holfast",
+   "verdict": "Radiance buffer and DPS",
+   "note": "Radiance damage dealer who channels Aura Energy to grant buffs to team members.",
+   "known": true
+  },
+  {
+   "name": "Longbeau",
+   "verdict": "Ice dispel support",
+   "note": "Ice support hero who provides Healing Over Time, dispels debuffs, and reflects negative effects.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [
+  "Account Valuation event upgraded to give up to 15,000 Wyrmarrow for fresh or returning accounts.",
+  "Addition of new Season 9 region Duskport and free limited Legendary Poison hero Amalfriede."
+ ],
+ "tips": [
+  "Existing players can use creator download links once per season after a season resets to claim bonus summon rewards.",
+  "Save Heliolite Dice for Anneliesis returning banner to drastically increase your main DPS hero's damage output."
+ ],
+ "season": "S9",
+ "server_scope": "mixed",
+ "value": "medium",
+ "id": "riHiHpJVtjY",
+ "model": "gemini-3.5-flash",
+ "channel": "Volkin Dragonheir",
+ "title": "FREE HERO & More BIG News For Season 9!!! [Dragonheir: Silent Gods]",
+ "published": "2026-10-24T01:43:28+00:00",
+ "url": "https://www.youtube.com/watch?v=riHiHpJVtjY",
+ "short": false,
+ "summarized": "2026-10-27T20:44Z"
+}

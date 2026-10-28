@@ -1,0 +1,59 @@
+{
+ "summary": "Suzi shares her Season 9 Forthfaring Summons pulls recorded while reacting to her own mobile session. She secures two legendary heroes, Felosia and Tallyn, in just 20 pulls on the Legendary Support banner, followed by redeeming Hvitar from legendary soul fragments. She also selects Auster over Daphne from a legendary selector chest to bolster her Frost element roster. Finally, she breaks down why players should save their summons for the upcoming S9 Radiance hero Anneliesis due to her high-value inspiration upgrades.",
+ "topics": [
+  "Forthfaring Summons",
+  "Season 9 Banners",
+  "Hero Selection Chest",
+  "Anneliesis",
+  "Summon Strategy"
+ ],
+ "heroes": [
+  {
+   "name": "Felosia",
+   "verdict": "Great support hero for Aura and Radiance teams",
+   "note": "Pulled from the S9 Forthfaring banner; provides solid support and pairs exceptionally well with Aura and Radiance heroes.",
+   "known": true
+  },
+  {
+   "name": "Tallyn",
+   "verdict": "Solid Dauntless hero for Season 9",
+   "note": "Pulled from the Forthfaring banner; useful addition to Dauntless compositions in the new season.",
+   "known": true
+  },
+  {
+   "name": "Hvitar",
+   "verdict": "Key Frost element legendary",
+   "note": "Obtained from 50 Legendary Soul Fragments; offers strong Frost damage and synergy.",
+   "known": true
+  },
+  {
+   "name": "Auster",
+   "verdict": "Recommended Frost damage dealer from hero chest",
+   "note": "Selected from a legendary selection chest over Daphne to build a dedicated Frost team alongside Hvitar.",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "Must-pull S9 Radiance hero worth saving for",
+   "note": "Radiance damage dealer with extremely powerful inspiration nodes; saving around 2,000 pulls is recommended to get max copies.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [],
+ "tips": [
+  "Always do your Forthfaring Summons before doing Targeted Summons so your results can guide your targeted choices.",
+  "Save summon resources for the upcoming Anneliesis and Holdfast banners in Season 9 rather than overspending on standard banners."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "-QV5EZT6kXI",
+ "model": "gemini-3.5-flash",
+ "channel": "Suzi Plays",
+ "title": "My Forthfaring SUMMONS for S9 💥 2 Guarantees in 20! 🔥 Dragonheir x Dragonstride",
+ "published": "2026-10-27T07:51:02+00:00",
+ "url": "https://www.youtube.com/watch?v=-QV5EZT6kXI",
+ "short": false,
+ "summarized": "2026-10-28T10:19Z"
+}

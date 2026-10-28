@@ -1,0 +1,77 @@
+{
+ "summary": "Showcase of a full Shadow team against the Season 8 endgame boss Mekkatorque (Phase 1), achieving over 1.28 billion total damage. Seyir serves as the primary damage dealer, dishing out over 812 million damage. The video details hero gear setups, stats, and ultimate skill timing sequences. For players lacking Saverio, Daphne is recommended as an effective 1-to-1 substitute.",
+ "topics": [
+  "Mekkatorque",
+  "Endgame Boss",
+  "Shadow Team",
+  "Skill Timings",
+  "Boss Guide"
+ ],
+ "heroes": [
+  {
+   "name": "Seyir",
+   "verdict": "Core DPS carry",
+   "note": "Accounted for over 63% of the team's total damage against Mekkatorque, outputting 812M damage.",
+   "known": true
+  },
+  {
+   "name": "Saverio",
+   "verdict": "Viable DPS / Bloodmoon support",
+   "note": "Contributed Necrosis damage and Bloodmoon Power; can be substituted if unavailable.",
+   "known": true
+  },
+  {
+   "name": "Daphne",
+   "verdict": "Top substitute for Saverio",
+   "note": "Can replace Saverio against Mekkatorque and achieve a very similar score.",
+   "known": true
+  },
+  {
+   "name": "The Dark Lady",
+   "verdict": "Essential debuffer/support",
+   "note": "Provides Necrosis debuffs and strips shields while buffing allies.",
+   "known": true
+  },
+  {
+   "name": "Astaion",
+   "verdict": "Necrosis support/healer",
+   "note": "Provides healing, control effects, and supportive Necrosis damage.",
+   "known": true
+  },
+  {
+   "name": "Giacosa",
+   "verdict": "Necrosis buffer/sub-DPS",
+   "note": "Buffs Shadow allies with ultimate casts while maintaining steady Necrosis output.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Endgame Boss (Mekkatorque)",
+   "heroes": [
+    "Seyir",
+    "Giacosa",
+    "Astaion",
+    "The Dark Lady",
+    "Saverio"
+   ],
+   "note": "Full Shadow Necrosis composition scoring over 1.28B damage. Daphne can replace Saverio without major score loss."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Skill timings for Mekkatorque: Seyir 12.0s first cast / 15.0s recast; Giacosa 11.8s first cast / 15.0s recast; Astaion 11.0s first cast / 15.0s recast; The Dark Lady 11.4s first cast / 30.0s recast; Saverio on Default.",
+  "If you lack Saverio, substitute Daphne directly into the team lineup for comparable performance."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "rkDyn-FSv6M",
+ "model": "gemini-3.8-flash",
+ "channel": "liveranov",
+ "title": "Shadow vs Mekkatorque (Phase 1) | Endgame Boss | Season 8 | Dragonheir",
+ "published": "2026-10-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=rkDyn-FSv6M",
+ "short": false,
+ "summarized": "2026-10-28T07:00Z"
+}

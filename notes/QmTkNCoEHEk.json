@@ -1,0 +1,72 @@
+{
+ "summary": "OddOneGaming showcases a Toxin team capable of dealing over 1 billion damage against the Mekkatorque boss without requiring heavy inspiration on premium heroes. The team relies on Serpentemis as the primary carry alongside Twitch, Sley, Oggok, and Durango. The run was accomplished using default skill timings and an Accuracy aura without tight synchronization requirements.",
+ "topics": [
+  "Mekkatorque",
+  "Toxin Team",
+  "Boss Guide",
+  "Dragonstride"
+ ],
+ "heroes": [
+  {
+   "name": "Serpentemis",
+   "verdict": "Top DPS carry",
+   "note": "Deals over 1 billion damage against Mekkatorque even at Inspiration 0 on a full damage build.",
+   "known": true
+  },
+  {
+   "name": "Twitch",
+   "verdict": "Core poison enabler",
+   "note": "Built with Eluia's Fang to reliably apply and sustain Toxin stacks on the boss.",
+   "known": true
+  },
+  {
+   "name": "Sley",
+   "verdict": "Strong secondary DPS/support",
+   "note": "Best equipped with his exclusive artifact, though still contributes around 100M to 150M damage without it.",
+   "known": false
+  },
+  {
+   "name": "Oggok",
+   "verdict": "Essential support",
+   "note": "Equipped with Devout Prayer to sustain the team throughout the fight.",
+   "known": true
+  },
+  {
+   "name": "Durango",
+   "verdict": "Key debuffer",
+   "note": "Equipped with Witch's Remains and Misty Conch to maximize team damage debuffs.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Mekkatorque Boss",
+   "heroes": [
+    "Serpentemis",
+    "Twitch",
+    "Sley",
+    "Oggok",
+    "Durango"
+   ],
+   "note": "Achieves 1.088B total damage on full auto with default skill timings and an Accuracy aura."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Run an Accuracy aura to significantly reduce accuracy stat requirements on your heroes' gear.",
+  "Make sure at least one hero carries gear that inflicts derivative damage to boost overall Toxin damage.",
+  "Specific manual skill timings are not necessary; leaving skills on default auto works fine for 1B damage.",
+  "Equip Eluia's Fang on Twitch to boost the chance of applying extra Toxin stacks."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "QmTkNCoEHEk",
+ "model": "gemini-3.8-flash",
+ "channel": "OddOneGaming RPGs",
+ "title": "🚨 Toxin ROCKS! 🚨 Toxin vs Mekkatorque Boss S8 Boss | Dragonheir x Dragonstride",
+ "published": "2026-10-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=QmTkNCoEHEk",
+ "short": false,
+ "summarized": "2026-10-28T07:06Z"
+}

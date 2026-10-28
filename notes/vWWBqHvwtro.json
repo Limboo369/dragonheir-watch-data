@@ -1,0 +1,116 @@
+{
+ "summary": "Volkin and Gorax analyze the new hero banners for Season 9 to help players determine where to allocate their summon dice. Anneliesis stands out as the ultimate must-pull priority for both F2P and spenders due to her limited banner status and immense damage-boosting utility across PvE and PvP. Holfast serves as an immediate direct upgrade over Lincos for Aura teams, though F2P players can safely wait to pick him up later on Option banners. Advanced team archetypes like Corrosion (led by Rhyviel and an Inspiration 5 Rook) and PvP Shadow comps (featuring Sia and Syonis) require heavy investment and are recommended only for spenders. The overall recommended strategy for F2P is to secure one copy of Anneliesis with 300 dice and save remaining resources for late-season Option banners.",
+ "topics": [
+  "Season 9",
+  "Banners",
+  "Summoning Priority",
+  "Anneliesis",
+  "Holfast",
+  "Corrosion Meta",
+  "Aura Meta"
+ ],
+ "heroes": [
+  {
+   "name": "Anneliesis",
+   "verdict": "Must-pull top priority",
+   "note": "A limited hero providing huge HP, ultimate energy, and damage buffs to bonded allies; extremely versatile across PvE, PvP, and Magicless Chess.",
+   "known": true
+  },
+  {
+   "name": "Holfast",
+   "verdict": "Top priority Aura support (power creeps Lincos)",
+   "note": "Provides Aura energy and a 30% damage boost via his passive, outperforming an Inspiration 5 Lincos even at base copy.",
+   "known": true
+  },
+  {
+   "name": "Rhyviel",
+   "verdict": "Endgame PvE core for Corrosion",
+   "note": "The mandatory engine for Corrosion teams who replaces Sacredeia even at Inspiration 0, but only viable for high spenders.",
+   "known": true
+  },
+  {
+   "name": "Rook",
+   "verdict": "Endgame Corrosion carry (requires Inspiration 5)",
+   "note": "Serves as the main damage carry for Corrosion, but is very weak until maxed out at Inspiration 5.",
+   "known": true
+  },
+  {
+   "name": "Syonis",
+   "verdict": "PvP and Magicless Chess specialist (skip for PvE)",
+   "note": "A Necrosis DPS with energy drain mechanics that excels in PvP, but has poor PvE performance.",
+   "known": true
+  },
+  {
+   "name": "Sia",
+   "verdict": "Top-tier PvP Necrosis support (skip for F2P)",
+   "note": "Exceptional mitigation and parry support for PvP Shadow comps, but locked behind a 50/50 banner requiring up to 1,000 dice to guarantee.",
+   "known": true
+  },
+  {
+   "name": "Celestine",
+   "verdict": "Top-tier Aura tank (skip for F2P)",
+   "note": "Massively boosts team max HP to scale Aura damage past Dauntless comps, but too expensive for F2P when Solmo suffices.",
+   "known": true
+  },
+  {
+   "name": "Longbeau",
+   "verdict": "Strong PvP Ice support",
+   "note": "Applies debuff and control reflection via his rats, making him potent for PvP despite Frost being out of season.",
+   "known": true
+  },
+  {
+   "name": "Fyrenzur",
+   "verdict": "High-RNG Dodge support",
+   "note": "Fire support providing team dodge, healing, and counterattacks that can cheese one-shot boss mechanics with lucky retries.",
+   "known": true
+  },
+  {
+   "name": "Tallyn",
+   "verdict": "PvP and Fey Meander Lightning tank (weak in PvE)",
+   "note": "Provides resistance shred, heavy stuns, and shields for Lightning teams, but is the weakest overall for general PvE progression.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Endgame PvE / Temporal Vortex",
+   "heroes": [
+    "Rhyviel",
+    "Rook",
+    "Szecedith"
+   ],
+   "note": "High-end whale Corrosion setup that out-damages Poison/Toxin once Rook reaches Inspiration 5."
+  },
+  {
+   "mode": "PvP",
+   "heroes": [
+    "Sia",
+    "Saverio",
+    "Syonis"
+   ],
+   "note": "High-tier Shadow PvP composition focused on crowd control, damage mitigation, and ultimate energy drain."
+  }
+ ],
+ "meta_changes": [
+  "Corrosion surpasses Poison/Toxin in Temporal Vortex 4 and late-game PvE, driven by Rhyviel and high-inspiration Rook.",
+  "Aura teams power creep older archetypes like Dauntless in total damage when supported by Holfast, Anneliesis, and Celestine's max HP scaling."
+ ],
+ "tips": [
+  "Never pull on a banner unless you have enough dice to hit the guaranteed pity threshold (e.g., 300 dice).",
+  "F2P players should save 300 dice specifically for Anneliesis on November 8th, as she is limited and will not enter the general pool.",
+  "Skip the Holfast standalone banner as F2P; he can be targeted later in late-season Option banners and Wish Summons.",
+  "Do not chase 50/50 dual banners like Sia/Celestine unless you have 1,000 dice saved to guarantee your target.",
+  "F2P players should focus on building 3 to 4 stable, enjoyable teams rather than constantly pivoting to chase fast-shifting whale metas."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "vWWBqHvwtro",
+ "model": "gemini-3.8-flash",
+ "channel": "Volkin Dragonheir",
+ "title": "BEST NEW Season 9 BANNERS TO SAVE FOR!!! [Dragonheir: Silent Gods]",
+ "published": "2026-10-27T11:38:30+00:00",
+ "url": "https://www.youtube.com/watch?v=vWWBqHvwtro",
+ "short": false,
+ "summarized": "2026-10-28T08:26Z"
+}

@@ -1,0 +1,165 @@
+{
+ "summary": "This guide covers every top-performing team composition for Phase 2 of the Season 8 Endboss, Mekkatorque, on the China server. Phase 2 scales Mekkatorque to level 280 with 2.27 billion HP, higher accuracy/resistance checks, uncleansable defense down debuffs, and buff immunity windows. Toxin dominates the top spot hitting up to 2.4B damage, followed by Radiance, Shadow, and Frost (which surprisingly outperforms its Phase 1 damage). Fire suffers the heaviest damage drop and is not recommended for Phase 2 investment.",
+ "topics": [
+  "Mekkatorque",
+  "Endboss Phase 2",
+  "Toxin",
+  "Radiance",
+  "Shadow",
+  "Thunderbolt",
+  "Frost",
+  "Builds"
+ ],
+ "heroes": [
+  {
+   "name": "Twitch",
+   "verdict": "Top Toxin DPS",
+   "note": "Core damage dealer in the 2.4B top Toxin team; needs around 300 Accuracy for Phase 2.",
+   "known": true
+  },
+  {
+   "name": "Blah Blah",
+   "verdict": "Top Solo Tank for Toxin",
+   "note": "Requires Resistance main stats and the Holy River set instead of Hermit to survive Phase 2.",
+   "known": true
+  },
+  {
+   "name": "Calavera",
+   "verdict": "Key Toxin Support",
+   "note": "Built on the Holy River set with Defense as main stat for 1.5B Toxin runs.",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "Essential Radiance Dispeller",
+   "note": "Requires 260 Accuracy to strip boss buffs and keep the team rotation from drifting.",
+   "known": true
+  },
+  {
+   "name": "The Dark Lady",
+   "verdict": "Core Shadow Timed Dispeller",
+   "note": "Must be timed around the boss buff immunity windows and stacked over 300 Resistance.",
+   "known": true
+  },
+  {
+   "name": "Perkunte",
+   "verdict": "Thunderbolt Core",
+   "note": "Requires over 25 Haste alongside Alora or team damage drops significantly.",
+   "known": true
+  },
+  {
+   "name": "Vinyara",
+   "verdict": "Essential Frost Stripper",
+   "note": "Replaces Bolster units in Frost teams to strip Mekkatorque's 50% defense buff.",
+   "known": true
+  },
+  {
+   "name": "Shinnah",
+   "verdict": "Ice Blast Stripper",
+   "note": "Takes a specific talent to strip the boss's Defense buff in Ice Blast comps.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Mekkatorque Phase 2 - Toxin Meta",
+   "heroes": [
+    "Twitch",
+    "Serpentemis",
+    "Sleight",
+    "Lothair",
+    "Blah Blah"
+   ],
+   "note": "Top-damaging team hitting 2.4B damage with solo tank Blah Blah on Holy River set."
+  },
+  {
+   "mode": "Mekkatorque Phase 2 - Toxin Alternative",
+   "heroes": [
+    "Sleight",
+    "Serpentemis",
+    "Twitch",
+    "Stegamoffyn",
+    "Calavera"
+   ],
+   "note": "Clears 1.52B damage; requires 350 Res on Sleight and Stegamoffyn, 300 Acc on Twitch."
+  },
+  {
+   "mode": "Mekkatorque Phase 2 - Toxin Budget",
+   "heroes": [
+    "Serpentemis",
+    "Twitch",
+    "Durango",
+    "Oggok",
+    "Sacredeia"
+   ],
+   "note": "Full auto budget team clearing 1B+ damage; Sacredeia built for survival instead of DPS."
+  },
+  {
+   "mode": "Mekkatorque Phase 2 - Radiance",
+   "heroes": [
+    "Diantha",
+    "Eurion",
+    "Lincos",
+    "Rina",
+    "Anneliesis"
+   ],
+   "note": "Reaches ~1.92B damage; Diantha needs 240 Acc / 180 Res, Anneliesis needs 260 Acc."
+  },
+  {
+   "mode": "Mekkatorque Phase 2 - Necrosis (Shadow)",
+   "heroes": [
+    "Astaion",
+    "Seyir",
+    "Jacossa",
+    "The Dark Lady",
+    "Daphne"
+   ],
+   "note": "Clears 1.4B to 1.8B damage depending on Astaion inspiration level."
+  },
+  {
+   "mode": "Mekkatorque Phase 2 - Dauntless",
+   "heroes": [
+    "Nastjenka",
+    "Guinavivre",
+    "Kurvida",
+    "Maashtur",
+    "Selva"
+   ],
+   "note": "Hits ~1.46B damage using individual resistance gear setups."
+  },
+  {
+   "mode": "Mekkatorque Phase 2 - Frost",
+   "heroes": [
+    "Lossenia",
+    "Vinyara",
+    "Aethereal",
+    "Ripekas",
+    "Felosia"
+   ],
+   "note": "Only element that gets stronger in Phase 2 (up to 1.4B damage) by bringing Vinyara to strip boss defense."
+  }
+ ],
+ "meta_changes": [
+  "Mekkatorque Phase 2 Boss scales to Level 280 with 2.27B HP and 336 Acc/Res.",
+  "Boss applies uncleansable Tier 2 Defense Down, skill bar pushback, and 50% Defense self-buff.",
+  "Frost team performance improves in Phase 2 compared to Phase 1 due to buff stripping mechanics.",
+  "Fire Burn teams suffer a major damage drop (down to 500M-600M) and are not recommended."
+ ],
+ "tips": [
+  "Add about 30 Accuracy to all damage dealers over Phase 1 builds.",
+  "Stack 300+ Resistance on timing-control and dispeller heroes so their skill rotations do not drift.",
+  "Ensure disrupters/dispellers like Vinyara or Anneliesis strip the boss's 50% Defense buff promptly.",
+  "Maintain over 25 Haste on Thunderbolt heroes like Perkunte and Alora to prevent damage falloff."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "urx_maL6O6s",
+ "model": "gemini-3.5-flash",
+ "channel": "liveranov",
+ "title": "Dragonheir S8 Endboss — Mekkatorque Phase 2 | Every Meta Team & Build (CN Server)",
+ "published": "2026-10-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=urx_maL6O6s",
+ "short": false,
+ "summarized": "2026-10-28T06:44Z"
+}

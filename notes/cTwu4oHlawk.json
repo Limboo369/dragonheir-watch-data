@@ -1,0 +1,54 @@
+{
+ "summary": "OddOneGaming redeems a batch of anniversary creator promo codes, earning 1,700 Wyrmarrow, 170 Starlight Dice, and 3.4 million Gold. He reminds players that the Starweave Echo event is ending within hours and urges everyone to spend their Starlight Dice to chase the 0.2% Legendary drop chance. Duplicates or unwanted Legendaries can be exchanged into Starweave Fragments for the Lingering Echo shop. In that shop, he advises strictly prioritizing 800-fragment top-tier heroes or desirable 300-fragment champions, while completely ignoring 120-fragment options.",
+ "topics": [
+  "Starweave Echo",
+  "Lingering Echo",
+  "Temporal Corridor",
+  "Starlight Summons",
+  "Promo Codes"
+ ],
+ "heroes": [
+  {
+   "name": "Maashtur",
+   "verdict": "Top priority purchase",
+   "note": "Purchased by the creator for 800 Starweave Fragments from the Lingering Echo shop.",
+   "known": true
+  },
+  {
+   "name": "Szecedith",
+   "verdict": "Good buy",
+   "note": "Recommended as a solid 300-fragment option to pick up in the Lingering Echo shop.",
+   "known": true
+  },
+  {
+   "name": "Saverio",
+   "verdict": "Good buy",
+   "note": "Worth buying from the Lingering Echo shop for 300 fragments if you need him.",
+   "known": true
+  },
+  {
+   "name": "Talethia",
+   "verdict": "Good buy",
+   "note": "Recommended to purchase for 300 fragments if looking to acquire extra copies.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [],
+ "tips": [
+  "Spend all Starlight Dice during Starweave Echo; legendaries pulled at the 0.2% base rate can be converted into Starweave Fragments.",
+  "In the Temporal Corridor Lingering Echo shop, never buy heroes costing 120 fragments; only target 800-cost heroes like Maashtur or premium 300-cost heroes.",
+  "Complete all Starweave Echo exchanges before the event timer runs out, as the event may not return for months."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "low",
+ "id": "cTwu4oHlawk",
+ "model": "gemini-3.8-flash",
+ "channel": "OddOneGaming RPGs",
+ "title": "💥 17 Heliolites, 170 Starlights & More For EVERYONE 💥I 30+ Promo Codes | Dragonheir x Dragonstridea",
+ "published": "2026-10-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=cTwu4oHlawk",
+ "short": false,
+ "summarized": "2026-10-28T07:04Z"
+}

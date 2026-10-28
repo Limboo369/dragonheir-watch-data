@@ -1,0 +1,71 @@
+{
+ "summary": "This video showcases a full Fire/Burn team composition facing the Season 8 endgame boss Mekkatorque during Phase 2. The team hits over 1.05 billion total damage across a 7-minute fight. The setup relies on consistent Ignite/Burn synergy, shields, and debuff cleansing/dispelling to sustain and scale damage. Detailed gear builds, stats, and ultimate skill timings are provided at the end of the run.",
+ "topics": [
+  "Mekkatorque",
+  "Endgame Boss",
+  "Burn Team",
+  "Skill Timing",
+  "Season 8"
+ ],
+ "heroes": [
+  {
+   "name": "Paixton",
+   "verdict": "Core Burn DPS",
+   "note": "Serves as the highest single damage dealer in the team, dealing over 95 million personal damage.",
+   "known": true
+  },
+  {
+   "name": "Durem",
+   "verdict": "Strong Burn DPS",
+   "note": "Contributes over 83 million direct damage alongside steady Ignite application.",
+   "known": true
+  },
+  {
+   "name": "Karf",
+   "verdict": "Burn enabler and DPS",
+   "note": "Provides massive Ignite infliction and dealt over 70 million damage.",
+   "known": true
+  },
+  {
+   "name": "Journ",
+   "verdict": "Debuffer and energy controller",
+   "note": "Dispels enemy buffs, decreases boss Ultimate Energy, and sustains team damage.",
+   "known": true
+  },
+  {
+   "name": "Khrysos",
+   "verdict": "Essential Fire shielder",
+   "note": "Keeps the entire party alive through high boss incoming damage with allied shields and enemy dispels.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Mekkatorque Phase 2 (Endgame Boss)",
+   "heroes": [
+    "Durem",
+    "Paixton",
+    "Karf",
+    "Journ",
+    "Khrysos"
+   ],
+   "note": "Achieved 1,053,546,074 damage in a 7-minute battle with auto skill timings synchronized on a 15-second recast rotation."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Set all team member ultimate skill recasts to 15.0s to stay aligned with boss attack cycles.",
+  "Order initial skill releases carefully: Khrysos at 10.5s, Karf at 11.3s, Journ at 11.5s, Durem at 12.5s, and Paixton at 13.0s."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "daxkk04dRVk",
+ "model": "gemini-3.8-flash",
+ "channel": "liveranov",
+ "title": "Burn vs Mekkatorque (Phase 2) | Endgame Boss | Season 8 | Dragonheir",
+ "published": "2026-10-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=daxkk04dRVk",
+ "short": false,
+ "summarized": "2026-10-28T07:03Z"
+}

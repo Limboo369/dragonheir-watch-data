@@ -1,0 +1,78 @@
+{
+ "summary": "In Season 9, an Aura team replaces the old Thelendor Rally team as the top composition for Fallen Shadow Spire. Talethia serves as the core DPS for this strategy but requires at least Inspiration 2, preferably Inspiration 5, to perform effectively. The recommended Aura roster consists of Talethia, Anneliesis, Diantha, Lincos, and Shahla. Positioning is crucial: Anneliesis is placed behind Talethia, while Lincos and Shahla must be positioned close to the deer boss.",
+ "topics": [
+  "Fallen Shadow Spire",
+  "Aura team",
+  "Season 9"
+ ],
+ "heroes": [
+  {
+   "name": "Thelendor",
+   "verdict": "Not recommended to pull / skip",
+   "note": "Previously used for Fallen Shadow Spire, but is simply not good enough to justify pulling specifically for this fight.",
+   "known": true
+  },
+  {
+   "name": "Talethia",
+   "verdict": "Top core DPS for Fallen Shadow Spire",
+   "note": "Essential core damage dealer for the Aura team, but must be at least Inspiration 2 (ideally Inspiration 5) to work properly.",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "Recommended Aura support",
+   "note": "Deployed directly behind Talethia in the Fallen Shadow Spire Aura team setup.",
+   "known": true
+  },
+  {
+   "name": "Diantha",
+   "verdict": "Recommended Aura hero",
+   "note": "Used as part of the number one Aura team for Fallen Shadow Spire.",
+   "known": true
+  },
+  {
+   "name": "Lincos",
+   "verdict": "Recommended Aura hero",
+   "note": "Needs to be positioned close to the deer in the Fallen Shadow Spire fight.",
+   "known": true
+  },
+  {
+   "name": "Shahla",
+   "verdict": "Recommended Aura hero",
+   "note": "Must be positioned close to the deer alongside Lincos.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Fallen Shadow Spire",
+   "heroes": [
+    "Talethia",
+    "Anneliesis",
+    "Diantha",
+    "Lincos",
+    "Shahla"
+   ],
+   "note": "The #1 ranked team for Fallen Shadow Spire in S9. Place Anneliesis behind Talethia, and place Lincos and Shahla close to the deer."
+  }
+ ],
+ "meta_changes": [
+  "Aura teams (led by Talethia) have overtaken Thelendor Rally teams as the #1 strategy for Fallen Shadow Spire in Season 9."
+ ],
+ "tips": [
+  "Do not pull specifically for Thelendor for Fallen Shadow Spire; build an Aura team instead.",
+  "Ensure Talethia is at least Inspiration 2 (ideally Inspiration 5) before using her to carry Fallen Shadow Spire.",
+  "Position Lincos and Shahla close to the deer boss in Fallen Shadow Spire."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "mScAHcDJmSI",
+ "model": "gemini-3.8-flash",
+ "channel": "OddOneGaming RPGs",
+ "title": "🚨 She MELTS Them 🚨 Fallen Shadow Spire Aura Team GUIDE S9 #dragonheirsilentgods  #dragonheir",
+ "published": "2026-10-27T15:00:36+00:00",
+ "url": "https://www.youtube.com/shorts/mScAHcDJmSI",
+ "short": true,
+ "summarized": "2026-10-28T10:20Z"
+}

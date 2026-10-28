@@ -1,0 +1,72 @@
+{
+ "summary": "OddOneGaming showcases a Radiance Rally team setup capable of dealing 435M to 440M+ damage against the Mekkatorque boss. Monelisse serves as the primary damage dealer, maximized for critical damage and equipped with Hysteria Pan Flute. Gladys is geared with Calcined Ruin to apply Bleeding and help reach the 5-debuff threshold required to amplify damage against the boss. Lorentheel, Alton, and Yfeir provide stat sharing, protection, attack penalties, and buffs to sustain the team and push maximum DPS.",
+ "topics": [
+  "Mekkatorque",
+  "Rally Team",
+  "Season 8 Boss",
+  "Radiance",
+  "Boss Guide"
+ ],
+ "heroes": [
+  {
+   "name": "Monelisse",
+   "verdict": "Primary DPS",
+   "note": "Built for pure damage and Crit Damage using Hysteria Pan Flute to output the majority of the team's 440M damage.",
+   "known": true
+  },
+  {
+   "name": "Gladys",
+   "verdict": "Sub-DPS & Debuff Enabler",
+   "note": "Uses Witches Remains and Calcined Ruin armor to apply Bleeding and help achieve the required 5 debuffs on the boss.",
+   "known": true
+  },
+  {
+   "name": "Lorentheel",
+   "verdict": "Attack Buffer & Stat Sharer",
+   "note": "Equipped with Dawn Pipe Organ, Everburning Candleflame, and Whirling Edge sets positioned adjacent to Monelisse to boost her attack.",
+   "known": true
+  },
+  {
+   "name": "Alton",
+   "verdict": "Defensive Buffer",
+   "note": "Built with Chest of Radiance, Puppeteer set, and Everburning Candleflame with a defense focus to survive and support allies.",
+   "known": true
+  },
+  {
+   "name": "Yfeir",
+   "verdict": "Healer & Debuffer",
+   "note": "Uses Rift Hourglass with high Skill Haste and Accuracy to ensure consistent Attack Penalty placement on the boss.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Mekkatorque (Season 8)",
+   "heroes": [
+    "Monelisse",
+    "Gladys",
+    "Lorentheel",
+    "Alton",
+    "Yfeir"
+   ],
+   "note": "Radiance Rally team scoring between 417M and 440M+ damage by stacking 5 debuffs on the boss and funneling buffs into Monelisse."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Mekkatorque takes extra damage per debuff up to 5 debuffs; use Calcined Ruin to add a Bleed debuff to help cap the count.",
+  "Ensure Yfeir has enough Accuracy to reliably land Attack Penalty to reduce boss damage output.",
+  "If Gladys or Alton die early during the fight, sacrifice offensive substats for DEF% and defensive artifacts like Chest of Radiance."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "r9wn40_LN6w",
+ "model": "gemini-3.8-flash",
+ "channel": "OddOneGaming RPGs",
+ "title": "🚨 EASY 400m+ Damage🚨  Rally vs Mekkatorque Boss S8 Boss | Dragonheir x Dragonstride",
+ "published": "2026-10-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=r9wn40_LN6w",
+ "short": false,
+ "summarized": "2026-10-28T07:02Z"
+}

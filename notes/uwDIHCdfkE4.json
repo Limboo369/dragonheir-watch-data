@@ -1,0 +1,75 @@
+{
+ "summary": "This showcase features an endgame Shadow Necrosis team achieving over 1.75 billion damage against the Season 8 endgame boss Mekkatorque Phase 2. The team replaces Summoning comps with a powerful setup revolving around Seyir as the main damage dealer supported by Daphne, Giacosa, Astaion, and The Dark Lady. Detailed equipment, artifact choices, and stat priorities are provided for all five heroes. Specific skill timers and recast rotations ensure optimal buff synchronization and debuff uptime without requiring high skill haste on every unit.",
+ "topics": [
+  "Endgame Boss",
+  "Mekkatorque",
+  "Shadow Team",
+  "Seyir Build",
+  "Skill Timings"
+ ],
+ "heroes": [
+  {
+   "name": "Seyir",
+   "verdict": "Core damage dealer",
+   "note": "Main DPS built with high Enlightenment and ATK, leveraging Dragonblood Brand gear to convert his massive HP pool into extra ATK.",
+   "known": true
+  },
+  {
+   "name": "The Dark Lady",
+   "verdict": "Essential debuffer and ATK buffer",
+   "note": "Needs at least 240 Accuracy to reliably apply debuffs and dispel boss shields, running a 30-second ultimate rotation without requiring Skill Haste.",
+   "known": true
+  },
+  {
+   "name": "Daphne",
+   "verdict": "Top-tier Necrosis DPS",
+   "note": "Performs best when built with full ATK and ATK% rather than over-investing into Attack Speed.",
+   "known": true
+  },
+  {
+   "name": "Giacosa",
+   "verdict": "Crucial support and ATK buffer",
+   "note": "Equipped with Angelic Alliance and full ATK to share offensive buffs to Seyir and Daphne while maintaining a 15-second rotation.",
+   "known": true
+  },
+  {
+   "name": "Astaion",
+   "verdict": "Key Necrosis support",
+   "note": "Provides bleed debuffs, Accuracy sharing via Reverie of Carcass, and requires Skill Haste to sync on a 15-second rotation.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Endgame Boss (Mekkatorque Phase 2)",
+   "heroes": [
+    "Seyir",
+    "The Dark Lady",
+    "Daphne",
+    "Giacosa",
+    "Astaion"
+   ],
+   "note": "Reached 1.75B+ damage using HP Aura. Timings: Daphne on Default, Seyir (12.0s / 15.0s), Giacosa (11.5s / 15.0s), Astaion (11.0s / 15.0s), and The Dark Lady (11.0s / 30.0s)."
+  }
+ ],
+ "meta_changes": [
+  "Shadow Necrosis setups outperform Summoning comps on Season 8 Mekkatorque Phase 2 endgame boss."
+ ],
+ "tips": [
+  "Equip Seyir with a Dragonblood Brand piece to convert 4% bonus HP into up to 2,000 extra ATK.",
+  "Prioritize full ATK over Attack Speed on Daphne for superior damage output.",
+  "Aim for at least 240 Accuracy on The Dark Lady to consistently land debuffs on Mekkatorque.",
+  "Tune ultimate timings so The Dark Lady casts on a 30-second recast while Seyir, Giacosa, and Astaion cycle every 15 seconds."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "uwDIHCdfkE4",
+ "model": "gemini-3.8-flash",
+ "channel": "Neff Gaming",
+ "title": "INSANE SHADOW TEAM! 1.75B Damage vs Endgame Boss Phase 2 | Dragonheir: Silent Gods",
+ "published": "2026-10-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=uwDIHCdfkE4",
+ "short": false,
+ "summarized": "2026-10-28T06:45Z"
+}

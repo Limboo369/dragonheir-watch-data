@@ -1,0 +1,133 @@
+{
+ "summary": "This video breaks down the Otherworld Exploration event (Lament in the Snowland) and reviews top team performances from the Season 1 Continental Challenge settlement. Players learn how to earn Exploration Progress through story quests, Elemental Domains, Alliance quests, and Chaos Shadows boss battles to unlock passive exploration buffs. Gorax showcases damage rankings, demonstrating that spreading resources across six balanced teams often outperforms over-investing in a single team. Key high-performing team archetypes include high-inspiration Toxin, budget Burn (Duram/Carf/Paixton), Ice Blast with Beldelle's exclusive artifact, and Lelwanis Necrosis.",
+ "topics": [
+  "Otherworld Exploration",
+  "Lament in the Snowland",
+  "Continental Challenge",
+  "Chaos Shadows",
+  "Team Compositions"
+ ],
+ "heroes": [
+  {
+   "name": "Serpentemis",
+   "verdict": "Must-have Toxin DPS",
+   "note": "Crucial core piece for Toxin teams in Continental Challenge, especially at high inspiration levels.",
+   "known": true
+  },
+  {
+   "name": "Child of Chaos",
+   "verdict": "Top Toxin enabler",
+   "note": "Key partner alongside Serpentemis in high-investment Toxin lineups.",
+   "known": true
+  },
+  {
+   "name": "Talethia",
+   "verdict": "Top Aura DPS",
+   "note": "Delivers huge damage numbers in Aura teams when built with high inspiration.",
+   "known": true
+  },
+  {
+   "name": "Guinavivre",
+   "verdict": "Solid Dauntless DPS",
+   "note": "Performs decently in Dauntless lineups even at Inspiration 0.",
+   "known": true
+  },
+  {
+   "name": "Duram",
+   "verdict": "Great budget Burn DPS",
+   "note": "Key component of an affordable Burn team alongside Carf and Paixton.",
+   "known": false
+  },
+  {
+   "name": "Carf",
+   "verdict": "Great budget Burn enabler",
+   "note": "Helps form a highly budget-friendly, high-damage Burn team.",
+   "known": false
+  },
+  {
+   "name": "Paixton",
+   "verdict": "Great budget Burn enabler",
+   "note": "Works with Duram and Carf to produce high damage for low resource cost.",
+   "known": true
+  },
+  {
+   "name": "Lelwanis",
+   "verdict": "Top Necrosis DPS",
+   "note": "Requires her exclusive artifact to maximize damage against boss challenges like Vasska.",
+   "known": true
+  },
+  {
+   "name": "Beldelle",
+   "verdict": "Core Ice Blast DPS",
+   "note": "Extremely strong with her exclusive artifact, making Ice Blast teams very cost-effective.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Continental Challenge - Tamar",
+   "heroes": [
+    "Serpentemis",
+    "Child of Chaos",
+    "Frurbath",
+    "Corrin",
+    "Garius"
+   ],
+   "note": "High-investment Toxin team achieving massive single-boss damage."
+  },
+  {
+   "mode": "Continental Challenge - Twitch",
+   "heroes": [
+    "Duram",
+    "Carf",
+    "Paixton",
+    "Garius",
+    "Errich"
+   ],
+   "note": "Budget-friendly Burn team capable of delivering over 400M damage."
+  },
+  {
+   "mode": "Continental Challenge - Vasska",
+   "heroes": [
+    "Lelwanis",
+    "Bernade",
+    "Sintrellia",
+    "Giacosa",
+    "Seyir"
+   ],
+   "note": "Necrosis summon team using Lelwanis with exclusive artifact and Sintrellia."
+  },
+  {
+   "mode": "Continental Challenge - Kinyara",
+   "heroes": [
+    "Beldelle",
+    "Vinyara",
+    "Garius",
+    "Zhorak",
+    "Usha"
+   ],
+   "note": "Ice Blast team relying on Beldelle with exclusive artifact for high budget-friendly damage."
+  }
+ ],
+ "meta_changes": [
+  "Spreading investment across 6 solid teams yields higher total Continental Challenge rank than heavily stacking a single main team."
+ ],
+ "tips": [
+  "Clear Elemental Domain stages at Level 5 to maximize daily Exploration Progress gain.",
+  "Join an active Alliance to complete Alliance Quests for additional Exploration Progress and rewards.",
+  "Spend daily Otherworld Exploration Tickets on Chaos Shadows boss fights once unlocked rather than Elemental Domains.",
+  "Spread inspirations and hero investments across multiple teams to achieve a higher overall total score across all 6 Continental Challenge bosses.",
+  "Build a budget Burn team with Duram, Carf, and Paixton for high damage output at low build cost."
+ ],
+ "season": "S1",
+ "server_scope": "S1",
+ "value": "high",
+ "id": "YKXKm7v-bJA",
+ "model": "gemini-3.5-flash",
+ "channel": "Gorax",
+ "title": "Otherworld Exploration Explained! What to Do + Continental Settlement | Dragonheir",
+ "published": "2026-10-27T10:00:20+00:00",
+ "url": "https://www.youtube.com/watch?v=YKXKm7v-bJA",
+ "short": false,
+ "summarized": "2026-10-28T10:18Z"
+}

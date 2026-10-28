@@ -1,0 +1,138 @@
+{
+ "summary": "Suzi showcases her teams for clearing Stage 2 Challenge Difficulty across all three equipment dungeons (Grave of Curse, Grave of Rot, and Grave of Venom) in Season 9. She demonstrates full-send damage setups, gear sets, and familiar choices used to beat the bosses. Key takeaways include using Vinyara with high Accuracy to strip buffs in Grave of Curse, utilizing Infernal Hellfire Retainer or Eurion for survival against Deadly Harpy in Grave of Venom, and taking advantage of Dauntless teams for rapid clears.",
+ "topics": [
+  "Grave of Curse",
+  "Grave of Venom",
+  "Grave of Rot",
+  "Challenge Mode",
+  "Equipment Dungeons",
+  "Team Showcase"
+ ],
+ "heroes": [
+  {
+   "name": "Vinyara",
+   "verdict": "Dispel support for Grave of Curse",
+   "note": "Needs high Accuracy (260+) to consistently strip boss buffs in Challenge Mode.",
+   "known": true
+  },
+  {
+   "name": "Selva",
+   "verdict": "Tank option for Grave of Curse and Grave of Rot",
+   "note": "Geared with high HP and Defense to sustain boss damage in Dauntless lineups.",
+   "known": true
+  },
+  {
+   "name": "Guinavivre",
+   "verdict": "Core Lightning DPS for Dauntless teams",
+   "note": "Built in Blazeland Followers (Undying Faith) set for high single-target and multi-hit damage.",
+   "known": true
+  },
+  {
+   "name": "Nastjenka",
+   "verdict": "Core Lightning DPS for Dauntless teams",
+   "note": "Built with high Crit Rate and Attack to burst down equipment dungeon bosses quickly.",
+   "known": true
+  },
+  {
+   "name": "Kurvida",
+   "verdict": "Lightning DPS / support for Dauntless teams",
+   "note": "Equips Witch's Remains artifact to apply debuffs, requiring high Accuracy to bypass boss resistance.",
+   "known": true
+  },
+  {
+   "name": "Maashtur",
+   "verdict": "Lightning support for Dauntless teams",
+   "note": "Provides shields and defense buffs in Grave of Rot to help the team survive.",
+   "known": true
+  },
+  {
+   "name": "Rena",
+   "verdict": "Frontline Radiance tank for Grave of Venom",
+   "note": "Positioned in the front spot to absorb heavy single-target hits from Deadly Harpy.",
+   "known": true
+  },
+  {
+   "name": "Solmo",
+   "verdict": "Radiance support for Grave of Venom",
+   "note": "Placed directly behind the main tank so his passive grants shields and stat buffs to the unit in front.",
+   "known": true
+  },
+  {
+   "name": "Lincos",
+   "verdict": "Radiance buffer / support for Grave of Venom",
+   "note": "Built with Golden Antlers to assist the Radiance team in sustaining and buffing damage.",
+   "known": true
+  },
+  {
+   "name": "Talethia",
+   "verdict": "Main Radiance DPS for Grave of Venom",
+   "note": "Equipped in Blazeland Followers set to deal heavy damage and clear wisps and boss.",
+   "known": true
+  },
+  {
+   "name": "Diantha",
+   "verdict": "Radiance sub-DPS / support for Grave of Venom",
+   "note": "Equipped in Puppeteer's Light set and Witch's Remains to boost team energy and deal damage.",
+   "known": true
+  },
+  {
+   "name": "Eurion",
+   "verdict": "Recommended tank alternative for Grave of Venom",
+   "note": "His passive invincibility upon taking fatal damage buys extra time for DPS heroes to finish the boss.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Grave of Curse - Challenge Difficulty 2",
+   "heroes": [
+    "Selva",
+    "Vinyara",
+    "Guinavivre",
+    "Nastjenka",
+    "Kurvida"
+   ],
+   "note": "Uses Deluxe Mimic familiar for recharge speed penalty on the boss. Vinyara should be built with high Accuracy to dispel boss buffs."
+  },
+  {
+   "mode": "Grave of Rot - Challenge Difficulty 2",
+   "heroes": [
+    "Selva",
+    "Maashtur",
+    "Guinavivre",
+    "Nastjenka",
+    "Kurvida"
+   ],
+   "note": "Full-send Dauntless burst team. Debuff removal or immunity is recommended if struggling with Toxin stacks."
+  },
+  {
+   "mode": "Grave of Venom - Challenge Difficulty 2",
+   "heroes": [
+    "Rena",
+    "Solmo",
+    "Lincos",
+    "Talethia",
+    "Diantha"
+   ],
+   "note": "Radiance team using Infernal Hellfire Retainer familiar for its revive skill to buy time for Talethia to finish the boss."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Build high Accuracy (260+) on debuffers like Vinyara and Kurvida to bypass high boss resistance in Challenge Stage 2.",
+  "In Grave of Venom, position Solmo directly behind your main front tank so his passive grants extra shields and stats to that tank.",
+  "Use the Infernal Hellfire Retainer familiar in Grave of Venom for its revive capability, or substitute Eurion as tank for his death prevention passive to buy time for your DPS.",
+  "Complete Challenge Stage 2 in all three equipment dungeons to claim Trial of Courage rewards in the Season Assessment tab."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "ikpjPqQhRow",
+ "model": "gemini-3.5-flash",
+ "channel": "Suzi Plays",
+ "title": "Stage 2 Challenges 🔸 Team Showcase 🔸 ALL Equipment Dungeons 💥 Season 9 🔥 Dragonheir x Dragonstride",
+ "published": "2026-10-27T15:00:26+00:00",
+ "url": "https://www.youtube.com/watch?v=ikpjPqQhRow",
+ "short": false,
+ "summarized": "2026-10-28T10:20Z"
+}

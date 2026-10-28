@@ -1,0 +1,86 @@
+{
+ "summary": "OddOne showcases an Aura team composition that achieves over 1.1 billion damage against the Mekkatorque boss. The lineup relies on Talethia as the primary DPS, supported by Diantha, Lincos, Shahla, and Anneliesis as the solo sustain unit. Talethia must have the highest Attack on the team to properly receive targeted buffs from allies. Diantha should be placed adjacent to Talethia on the same row to maximize the Whirling Edge gear bonus. Players without Anneliesis are advised to run two supports with cleansing capabilities to deal with attack and recharge speed debuffs.",
+ "topics": [
+  "Mekkatorque",
+  "Aura Team",
+  "Boss Guide",
+  "Gear Builds"
+ ],
+ "heroes": [
+  {
+   "name": "Talethia",
+   "verdict": "Top DPS carry for Aura teams",
+   "note": "Requires the highest Attack on the team so that Lincos and Shahla target her with critical buffs.",
+   "known": true
+  },
+  {
+   "name": "Diantha",
+   "verdict": "Core Aura sub-DPS and buffer",
+   "note": "Must be positioned on the same row and adjacent to Talethia to activate the Whirling Edge damage bonus.",
+   "known": true
+  },
+  {
+   "name": "Lincos",
+   "verdict": "Core Aura support/buffer",
+   "note": "Grants Radiant damage buffs and Aura Energy to the ally with the highest Attack.",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "Top solo support for Mekkatorque",
+   "note": "Provides enough shielding and sustain to solo heal the team while boosting overall damage output.",
+   "known": true
+  },
+  {
+   "name": "Shahla",
+   "verdict": "Core Aura debuffer",
+   "note": "Uses an artifact to apply extra debuffs to ensure the boss maintains the 5 debuffs required for maximum damage.",
+   "known": true
+  },
+  {
+   "name": "Rose",
+   "verdict": "Viable budget support alternative",
+   "note": "Recommended substitute if lacking Anneliesis, offering cleansing against boss debuffs.",
+   "known": true
+  },
+  {
+   "name": "Acilia",
+   "verdict": "Viable support alternative",
+   "note": "Good defensive cleanse and debuff immunity option when running a two-support setup.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Mekkatorque (Rasp of Gears)",
+   "heroes": [
+    "Talethia",
+    "Diantha",
+    "Lincos",
+    "Anneliesis",
+    "Shahla"
+   ],
+   "note": "Deals 1.1B+ damage with default skill timings and Golden Tresym familiar; requires 5 debuffs on the boss."
+  }
+ ],
+ "meta_changes": [
+  "The Season 8 version of Mekkatorque spawns only 4 adds instead of 6 or 8."
+ ],
+ "tips": [
+  "Ensure you maintain 5 debuffs on Mekkatorque to maximize the total damage dealt by the team.",
+  "Tune gear so that Talethia has the highest Attack stat on the team, ensuring she receives single-target buffs from Lincos and Shahla.",
+  "Place Diantha within 1 tile of Talethia on the same row to trigger the Whirling Edge set damage increase.",
+  "If you do not have Anneliesis, replace a damage dealer with a second support (such as Rose, Acilia, Solmo, or Phaessa) to cleanse Attack and Recharge Speed penalties."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "PBPVabwsqG0",
+ "model": "gemini-3.8-flash",
+ "channel": "OddOneGaming RPGs",
+ "title": "🚨1B Damage! 🚨 Aura vs Mekkatorque Boss S8 Boss | Dragonheir x Dragonstride",
+ "published": "2026-10-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=PBPVabwsqG0",
+ "short": false,
+ "summarized": "2026-10-28T07:08Z"
+}

@@ -1,0 +1,72 @@
+{
+ "summary": "OddOneGaming showcases an unconventional Thunderbolt team build to tackle the Mekkatorque boss. Despite running only two actual Thunderbolt heroes and lacking ideal gear and exclusive artifacts, the hybrid team scored roughly 491 million damage. The composition relies on Perkunte and Shai'nachtan for damage, supported by Kurvida to apply Lightning Vulnerability and defense/healing supports Irmoush and Maashtur. The setup pairs Lightning and Necrosis elements along with the Lava Batwing familiar for extra boss debuffing.",
+ "topics": [
+  "Mekkatorque Boss",
+  "Thunderbolt Team",
+  "Team Building",
+  "Boss Guide"
+ ],
+ "heroes": [
+  {
+   "name": "Perkunte",
+   "verdict": "Core damage dealer",
+   "note": "Acts as the main DPS using Gory Injector instead of his exclusive artifact, dealing over 405M damage in the run.",
+   "known": true
+  },
+  {
+   "name": "Shai'nachtan",
+   "verdict": "Strong support DPS and aura provider",
+   "note": "Built full Attack with Dawn Pipe Organ and provides an Enlightenment aura for the team.",
+   "known": true
+  },
+  {
+   "name": "Kurvida",
+   "verdict": "Niche debuffer pick",
+   "note": "Equipped with Witch's Remains to apply Lightning Vulnerability and increase Perkunte's damage output.",
+   "known": true
+  },
+  {
+   "name": "Irmoush",
+   "verdict": "Solid defensive support",
+   "note": "Brought in to provide healing and survivability against Mekkatorque's damage.",
+   "known": true
+  },
+  {
+   "name": "Maashtur",
+   "verdict": "Effective Lightning/Necrosis healer",
+   "note": "Provides team shields and heals, and benefits heavily from high Defense.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Mekkatorque Boss",
+   "heroes": [
+    "Perkunte",
+    "Irmoush",
+    "Shai'nachtan",
+    "Maashtur",
+    "Kurvida"
+   ],
+   "note": "Scored ~491M damage; uses Shai'nachtan's Enlightenment aura and Lava Batwing familiar."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "If missing Perkunte's exclusive artifact, Gory Injector works well as an alternative.",
+  "Pair Kurvida with Witch's Remains to reliably inflict Lightning Vulnerability to amplify Thunderbolt DPS.",
+  "Stack plenty of Defense on Maashtur so that his healing output scales higher.",
+  "Lava Batwing familiar can be used over Golden Tressym to gain extra debuffs against Mekkatorque."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "BWGzLG7xTlI",
+ "model": "gemini-3.8-flash",
+ "channel": "OddOneGaming RPGs",
+ "title": "🚨 This Team SHOCKED Me 🚨 Thunderbolt vs Mekkatorque Boss S8 Boss | Dragonheir x Dragonstride",
+ "published": "2026-10-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=BWGzLG7xTlI",
+ "short": false,
+ "summarized": "2026-10-28T07:18Z"
+}

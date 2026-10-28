@@ -1,0 +1,56 @@
+{
+ "summary": "This video showcases Celestine, one of the five new exclusive heroes and two support units introduced in Season 9. Celestine is an Ice-element tank belonging to the Frostlight affinity who excels at soaking damage, healing allies, providing massive shields, and expanding party Max HP. Her kit also cleanses control effects and applies Karmic Sin to reduce enemy damage dealt while increasing damage taken. The guide covers her skills, talent tree options, inspiration milestones, and optimal gear/artifact setups focused heavily on Max HP and Resistance.",
+ "topics": [
+  "Celestine",
+  "Hero Showcase",
+  "S9 Exclusive Heroes",
+  "Frostlight",
+  "Hero Build"
+ ],
+ "heroes": [
+  {
+   "name": "Celestine",
+   "verdict": "Top-tier defensive support and tank",
+   "note": "Soaks damage to heal the team, cleanses debuffs, applies Karmic Sin damage mitigation/vulnerability, and significantly boosts ally Max HP and shield bulk.",
+   "known": true
+  },
+  {
+   "name": "Sia",
+   "verdict": "Alternative S9 exclusive support",
+   "note": "Mentioned as the other exclusive support hero alongside Celestine in Season 9.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Showcase / Testing",
+   "heroes": [
+    "Celestine"
+   ],
+   "note": "Solo showcase team used against goblin waves to demonstrate Celestine's skill AOE range, taunt, healing, and shield mechanics."
+  }
+ ],
+ "meta_changes": [
+  "Introduction of five brand new exclusive heroes in Season 9, including supports Celestine and Sia.",
+  "Frostlight element affinity pairing allows Frost and Radiance heroes to synergize in team compositions."
+ ],
+ "tips": [
+  "Celestine is an exclusive banner hero without guaranteed standard pity; saving around 1,000 Heliolite Dice is recommended to secure her.",
+  "Prioritize HP% on primary gear stats and runes, as her shields, heals, and HP-extension mechanics scale directly with her Max HP pool.",
+  "Build high Resistance on Celestine against boss encounters to trigger her passive buff generation upon resisting debuffs or control effects.",
+  "Inspiration 2 is a major sweet spot for high spenders, adding stacking permanent 5% Damage Bonus and 5% Damage Reduction (up to 15% each) to her passive.",
+  "Top artifact options include Golden Antlers, Angelic Alliance, Orb of the Dragon God (for mono-element setups), and Solar King's Horn.",
+  "Recommended gear sets include Secrecy Order's Chant (or combinations of Devout Prayer and Moonlight's Grace) rolling for HP% and Resistance."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "xQAdZVhn3js",
+ "model": "gemini-3.8-flash",
+ "channel": "Gorax",
+ "title": "S9 Hero Showcase: Celestine - Skills, Talents & Inspirations | Dragonheir x Dragonstride",
+ "published": "2026-10-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=xQAdZVhn3js",
+ "short": false,
+ "summarized": "2026-10-28T06:46Z"
+}

@@ -1,0 +1,86 @@
+{
+ "summary": "Skratch tests a full exclusive Dauntless team against an Aura team in Temporal Vortex (Arbor Hydra). Running the Aura team alongside a Toxin team resulted in 1.85 billion total damage, with Toxin contributing over 1.06 billion. Replacing Aura with Dauntless dropped total damage to 1.01 billion, cutting Toxin's damage in half because Dauntless failed to break the boss's Ironhide passive quickly enough.",
+ "topics": [
+  "Temporal Vortex",
+  "Dauntless",
+  "Aura",
+  "Arbor Hydra",
+  "Team Comparison"
+ ],
+ "heroes": [
+  {
+   "name": "Taletia",
+   "verdict": "Top Aura DPS",
+   "note": "Punches through boss mechanics quickly and drives massive overall damage in Temporal Vortex.",
+   "known": false
+  },
+  {
+   "name": "Nastjenka",
+   "verdict": "Core Dauntless DPS",
+   "note": "Main damage dealer in the Dauntless team, but requires top-tier gear to break boss Ironhide efficiently.",
+   "known": true
+  },
+  {
+   "name": "Maashtur",
+   "verdict": "Dauntless Enabler",
+   "note": "Key support/sub-DPS unit in Dauntless compositions.",
+   "known": true
+  },
+  {
+   "name": "Celestine",
+   "verdict": "Top Ice/Aura Tank",
+   "note": "Provides tremendous utility and survival, boosting high-ranking Aura teams significantly.",
+   "known": true
+  },
+  {
+   "name": "Guinavivre",
+   "verdict": "Dauntless DPS",
+   "note": "Solid Dauntless damage dealer used in the tested lineup.",
+   "known": true
+  },
+  {
+   "name": "Selva",
+   "verdict": "Dauntless Support",
+   "note": "Provides imbalance debuffs and support for Dauntless teams.",
+   "known": true
+  },
+  {
+   "name": "Kurvida",
+   "verdict": "Dauntless DPS",
+   "note": "Part of the 5-exclusive Dauntless setup.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Temporal Vortex",
+   "heroes": [
+    "Maashtur",
+    "Nastjenka",
+    "Selva",
+    "Guinavivre",
+    "Kurvida"
+   ],
+   "note": "Full Dauntless team paired with a Toxin team; scored 1.01B–1.10B total due to slow Ironhide breaking."
+  }
+ ],
+ "meta_changes": [
+  "Aura team significantly outperforms Dauntless in Arbor Hydra Temporal Vortex during early gear progression.",
+  "Boss Ironhide mechanics heavily favor teams with fast buff/debuff/hit counts to trigger Broken Armor status early."
+ ],
+ "tips": [
+  "Pay attention to boss passives like Arbor Hydra's Ironhide; failing to break it quickly severely reduces damage for both deployed teams.",
+  "Stick with Aura over Dauntless in early-season Temporal Vortex unless your Dauntless team has high-end gear upgrades."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "imsLKzDo5q0",
+ "model": "gemini-3.5-flash",
+ "channel": "Skratch Gaming",
+ "title": "This Is What The Dauntless Team Can Do! Dragonheir: Silent Gods x Dragonstride",
+ "published": "2026-10-26T16:56:44+00:00",
+ "url": "https://www.youtube.com/watch?v=imsLKzDo5q0",
+ "short": false,
+ "summarized": "2026-10-28T10:21Z"
+}
