@@ -1,5 +1,5 @@
 {
- "built": "2026-10-28T11:56Z",
+ "built": "2026-10-28T12:27Z",
  "last_fetch": "2026-10-28T11:17Z",
  "counts": {
   "summarized": 39,
@@ -66,7 +66,6 @@
   "quota_hit": 1793186283.6870267
  },
  "log_tail": [
-  "… Suzi Plays: My Forthfaring SUMMONS for S9 💥 2 Guarantees in 20! 🔥 Dragon",
   "saved bf4BKfGNUso",
   "+ Gorax: I Finally Got 50 R-Legendary Soul Fragments… Was It Worth It",
   "! Otherworld Exploration Explained! What to Do + Con: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
@@ -145,7 +144,8 @@
   "! s Celestine Worth It? Only Until Oct 28 ❄️ Season : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
   "saved AVZs5-x49BA",
   "+ liveranov: Trick or Treat! 🎃 Comment a Prank, Get 300 Wyrmarrow | Drago",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 39 videos, 90 heroes"
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 39 videos, 90 heroes",
+  "/bin/bash: line 1: /root/ytwatch/run.sh: Permission denied"
  ],
  "crontab": [],
  "channels": [
