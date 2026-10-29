@@ -1,10 +1,10 @@
 {
- "built": "2026-10-29T04:19Z",
+ "built": "2026-10-29T04:29Z",
  "last_fetch": "2026-10-29T04:18Z",
  "counts": {
-  "summarized": 48,
+  "summarized": 49,
   "skipped_giveaway": 17,
-  "retry": 12,
+  "retry": 11,
   "new": 505,
   "baseline": 22,
   "skipped_live": 1
@@ -53,12 +53,6 @@
    "error": ""
   },
   {
-   "title": "What Does Day 1 with a Server Transfer Look Like? ✅ Full Process Shown 🔥 Dragonheir x Dragonstride",
-   "channel": "Suzi Plays",
-   "status": "retry",
-   "error": ""
-  },
-  {
    "title": "15,000 Wyrmarrow for Playing ANOTHER Gacha!? 💥 Start NOW! 🔥 Dragonheir x Dragonstride",
    "channel": "Suzi Plays",
    "status": "retry",
@@ -90,8 +84,6 @@
   "quota_hit": 1793247532.8576033
  },
  "log_tail": [
-  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
-  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
   "  gemini-3.7-flash: 429, using gemini-3.6-flash",
   "! These Changes Got My Massive Gains In The Vortex! : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
   "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 41 videos, 92 heroes",
@@ -169,7 +161,9 @@
   "! ⛔ DO NOT SUMMON ⛔ Save Your Summons For Anneliesis: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
   "… Neff Gaming: SEASON 9 IS HERE! 🔥 Targeted Summons Session & S8 Recap | Dr",
   "! FREE REWARDS FOR EVERYONE! S9 Promo Code Dragonhei: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
-  "! SEASON 9 IS HERE! 🔥 Targeted Summons Session & S8 : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google."
+  "! SEASON 9 IS HERE! 🔥 Targeted Summons Session & S8 : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "saved Br4dlLPsv6A",
+  "+ Suzi Plays: What Does Day 1 with a Server Transfer Look Like? ✅ Full Pro"
  ],
  "crontab": [],
  "channels": [
