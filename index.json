@@ -6,8 +6,9 @@
   "skipped_giveaway": 17,
   "new": 498,
   "baseline": 22,
-  "retry": 2,
-  "skipped_live": 1
+  "retry": 1,
+  "skipped_live": 1,
+  "failed": 1
  },
- "pushed": "2026-10-29T09:52Z"
+ "pushed": "2026-10-29T10:22Z"
 }

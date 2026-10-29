@@ -1,13 +1,14 @@
 {
- "built": "2026-10-29T09:52Z",
- "last_fetch": "2026-10-29T09:18Z",
+ "built": "2026-10-29T10:22Z",
+ "last_fetch": "2026-10-29T10:17Z",
  "counts": {
   "summarized": 65,
   "skipped_giveaway": 17,
   "new": 498,
   "baseline": 22,
-  "retry": 2,
-  "skipped_live": 1
+  "retry": 1,
+  "skipped_live": 1,
+  "failed": 1
  },
  "problems": [
   {
@@ -19,24 +20,17 @@
   {
    "title": "Season 9 NEW INFO: 2 Free Heroes, New Affinities & Selectable Banner! | Dragonheir: Silent Gods",
    "channel": "liveranov",
-   "status": "retry",
+   "status": "failed",
    "error": "Expecting value: line 1 column 1 (char 0)"
   }
  ],
  "budget": {
   "day": "2026-10-29",
-  "seconds": 26563,
+  "seconds": 26733,
   "v2": 1,
   "quota_hit": 1793255001.7598484
  },
  "log_tail": [
-  "… Skratch Gaming: FREE REWARDS FOR EVERYONE! S9 Promo Code Dragonheir: Silent ",
-  "! ⛔ DO NOT SUMMON ⛔ Save Your Summons For Anneliesis: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
-  "… Neff Gaming: SEASON 9 IS HERE! 🔥 Targeted Summons Session & S8 Recap | Dr",
-  "! FREE REWARDS FOR EVERYONE! S9 Promo Code Dragonhei: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
-  "… liveranov: Season 9 NEW INFO: 2 Free Heroes, New Affinities & Selectabl",
-  "saved Mklcb7LtJqo (unknown hero names: Quirro)",
-  "… Neff Gaming: VORTEX IV Chinese Server - League Rankings! INSANE Damage Nu",
   "+ Neff Gaming: SEASON 9 IS HERE! 🔥 Targeted Summons Session & S8 Recap | Dr",
   "! Season 9 NEW INFO: 2 Free Heroes, New Affinities &: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
   "! VORTEX IV Chinese Server - League Rankings! INSANE: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
@@ -109,6 +103,13 @@
   "+ Suzi Plays: Get YOUR Redeem Codes NOW! 💥 Plus S9 Overview Reaction 🔥 Dra",
   "saved EZe7SqG0EUE",
   "+ liveranov: Anneliesis Returns! Full Guide: Kit, Best Team & Build | Dra",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 65 videos, 107 heroes",
+  "== 2026-10-29 10:17",
+  "fetch done: 0 new transcripts, 0 not available yet",
+  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
+  "… liveranov: Season 9 NEW INFO: 2 Free Heroes, New Affinities & Selectabl",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "! Season 9 NEW INFO: 2 Free Heroes, New Affinities &: JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
   "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 65 videos, 107 heroes"
  ],
  "crontab": [],
@@ -117,55 +118,55 @@
    "name": "Skratch Gaming",
    "id": "UCoSkzr1pXpt3d0jIxsc6ufw",
    "enabled": true,
-   "checked": "2026-10-29T09:18Z"
+   "checked": "2026-10-29T10:17Z"
   },
   {
    "name": "Gorax",
    "id": "UCNas7BnuOIjDEzY1D53kb1w",
    "enabled": true,
-   "checked": "2026-10-29T09:18Z"
+   "checked": "2026-10-29T10:17Z"
   },
   {
    "name": "Neff Gaming",
    "id": "UCsxs6YhNd_B36RgUAjbpJ_A",
    "enabled": true,
-   "checked": "2026-10-29T09:18Z"
+   "checked": "2026-10-29T10:17Z"
   },
   {
    "name": "Volkin Dragonheir",
    "id": "UCfRpOh_ywVjzhh9fxHbreGw",
    "enabled": true,
-   "checked": "2026-10-29T09:18Z"
+   "checked": "2026-10-29T10:17Z"
   },
   {
    "name": "Fastidious Dragonheir",
    "id": "UC16mpj5wEemSZX-uTlHe9Ww",
    "enabled": true,
-   "checked": "2026-10-29T09:18Z"
+   "checked": "2026-10-29T10:17Z"
   },
   {
    "name": "OddOneGaming RPGs",
    "id": "UC1ivUEf_poI9_R2eVKa8wRQ",
    "enabled": true,
-   "checked": "2026-10-29T09:18Z"
+   "checked": "2026-10-29T10:17Z"
   },
   {
    "name": "Suzi Plays",
    "id": "UCyo1-TkunhGcK6khU1h8Ypw",
    "enabled": true,
-   "checked": "2026-10-29T09:18Z"
+   "checked": "2026-10-29T10:17Z"
   },
   {
    "name": "Skyasterix Gaming",
    "id": "UCr5Gb3910rK7QPmKMmdagsA",
    "enabled": true,
-   "checked": "2026-10-29T09:18Z"
+   "checked": "2026-10-29T10:17Z"
   },
   {
    "name": "liveranov",
    "id": "UCqCR7ofFHhWwXy3Hg00fqEw",
    "enabled": true,
-   "checked": "2026-10-29T09:18Z"
+   "checked": "2026-10-29T10:17Z"
   }
  ]
 }
