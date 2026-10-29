@@ -1,0 +1,108 @@
+{
+ "summary": "Skratch shares his updated Temporal Vortex strategy after unlocking Max Difficulty Stage 20 dungeons, level 16 artifacts, and Resonance Level 79. He achieves over 6.28 billion total damage on Cloudtop Arbor Difficulty II using two dedicated teams: Aura and Poison. The video details hero gear sets, skill timings, and positioning for both teams. Additionally, he highlights that Azure Prophecy's debuff condition does not trigger on Corrosion DoT effects and demonstrates how upgrading artifacts to level 16 provided a 200 million damage boost.",
+ "topics": [
+  "Temporal Vortex",
+  "Aura Team",
+  "Poison Team",
+  "Artifact Upgrades",
+  "Skill Timing"
+ ],
+ "heroes": [
+  {
+   "name": "Diantha",
+   "verdict": "Core Aura DPS",
+   "note": "Equipped with Azure Prophecy gear set to maximize team damage through Fate stacks.",
+   "known": true
+  },
+  {
+   "name": "Lincos",
+   "verdict": "Temporary Aura Buffer",
+   "note": "Useful for boosting team attack, but advised not to max his talents as he gets replaced quickly.",
+   "known": true
+  },
+  {
+   "name": "Talethia",
+   "verdict": "Main Aura DPS",
+   "note": "Deals massive Radiant damage in Aura teams; benefits greatly from Crit Damage positive runes.",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "Aura Healer and Buffer",
+   "note": "Uses Sacred River set to provide essential healing and damage buffs for the Aura lineup.",
+   "known": true
+  },
+  {
+   "name": "Solmo",
+   "verdict": "Aura Shielder and Tank",
+   "note": "Provides shields and survival support; reflection set effects require same-row positioning to work.",
+   "known": true
+  },
+  {
+   "name": "Child of Chaos",
+   "verdict": "Solo Poison Support at Inspiration 2",
+   "note": "Can solo heal the Poison team only if he has Inspiration 2 unlocked.",
+   "known": true
+  },
+  {
+   "name": "Sacredeia",
+   "verdict": "Corrosion Poison DPS",
+   "note": "Applies Corrosion debuffs, but does not trigger Azure Prophecy's non-damage debuff condition.",
+   "known": true
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "Top Poison DPS",
+   "note": "Built with high Enlightenment and Attack to drive massive Poison damage over time.",
+   "known": true
+  },
+  {
+   "name": "Sleight",
+   "verdict": "Poison DPS",
+   "note": "Provides consistent Poison damage and debuffs alongside Serpentemis in the Vortex.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Temporal Vortex",
+   "heroes": [
+    "Talethia",
+    "Diantha",
+    "Lincos",
+    "Anneliesis",
+    "Solmo"
+   ],
+   "note": "Aura team dealing 1.64B damage on Cloudtop Arbor Difficulty II with synchronized 18-second recast skill timings."
+  },
+  {
+   "mode": "Temporal Vortex",
+   "heroes": [
+    "Child of Chaos",
+    "Sacredeia",
+    "Serpentemis",
+    "Sleight",
+    "Lincos"
+   ],
+   "note": "Poison team dealing 4.63B damage; relies on Child of Chaos for solo sustain."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Do not waste resources maxing Lincos talents if you plan to bench him for higher-tier Aura heroes soon.",
+  "Ensure all hero artifacts are upgraded to level 16, as maxing artifact stats can net over 200 million extra damage in Temporal Vortex.",
+  "Azure Prophecy set effect requires non-damage debuffs; DoT effects like Poison or Corrosion will not grant Fate stacks.",
+  "To use Child of Chaos as a solo healer in Temporal Vortex, ensure he has Inspiration 2; otherwise, run additional sustain like Stegamoffyn or Areita."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "AdMJvbFJWS0",
+ "model": "gemini-3.5-flash",
+ "channel": "Skratch Gaming",
+ "title": "These Changes Got My Massive Gains In The Vortex! Dragonheir: Silent Gods x Dragonstride",
+ "published": "2026-10-28T18:42:42+00:00",
+ "url": "https://www.youtube.com/watch?v=AdMJvbFJWS0",
+ "short": false,
+ "summarized": "2026-10-29T02:20Z"
+}

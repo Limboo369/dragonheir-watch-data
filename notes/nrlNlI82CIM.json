@@ -1,0 +1,71 @@
+{
+ "summary": "In Season 9, a single versatile Aura-based team can clear Stage 14 across three different gear dungeons: Grave of Curse, Grave of Wrath, and Grave of Venom. The team utilizes Talethia as the primary damage dealer alongside Lincos, Anneliesis, and Diantha to maintain Aura synergy. Vinyara provides essential crowd control and ultimate energy reduction, allowing the same setup to defeat all three bosses.",
+ "topics": [
+  "Grave of Curse",
+  "Grave of Wrath",
+  "Grave of Venom",
+  "team composition",
+  "Stage 14 clear"
+ ],
+ "heroes": [
+  {
+   "name": "Talethia",
+   "verdict": "Main DPS",
+   "note": "Acts as the primary damage dealer in the Aura team for clearing Stage 14 Grave dungeons.",
+   "known": true
+  },
+  {
+   "name": "Vinyara",
+   "verdict": "Key Control / Utility",
+   "note": "Provides vital ultimate energy reduction, Freeze, and Attack Penalty to neutralize boss mechanics.",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "Support / Buffer",
+   "note": "Buffs Vinyara and supports the overall team flow.",
+   "known": true
+  },
+  {
+   "name": "Lincos",
+   "verdict": "Aura Support",
+   "note": "Generates Aura Energy and grants coordinated attacks/damage buffs.",
+   "known": true
+  },
+  {
+   "name": "Diantha",
+   "verdict": "Aura Battery",
+   "note": "Restores Aura Energy for Radiance allies to maintain team skill rotations.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Grave of Curse / Grave of Wrath / Grave of Venom Stage 14",
+   "heroes": [
+    "Lincos",
+    "Vinyara",
+    "Anneliesis",
+    "Talethia",
+    "Diantha"
+   ],
+   "note": "A universal Stage 14 dungeon team combining Radiance Aura synergies with Vinyara's energy reduction and freeze control."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Pair Vinyara with Anneliesis to boost her efficiency in controlling boss ultimates across multiple dungeon types.",
+  "Use the Deluxe Mimic familiar to complement Aura team lineups."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "nrlNlI82CIM",
+ "model": "gemini-3.5-flash",
+ "channel": "OddOneGaming RPGs",
+ "title": "💥 Day 1 EASY Clear 💥 My 1 Team For All 3 Grave Dungeons Stage 14 #dragonheirsilentgods  #dragonheir",
+ "published": "2026-10-25T15:00:07+00:00",
+ "url": "https://www.youtube.com/shorts/nrlNlI82CIM",
+ "short": true,
+ "summarized": "2026-10-29T02:19Z"
+}

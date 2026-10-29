@@ -1,0 +1,176 @@
+{
+ "summary": "This video previews high-end Continental Challenge team compositions used on the Chinese server for Season 9. The creator breaks down optimal setups for Dauntless, Aura, Ice Blast, and Corrosion teams against various bosses. Key builds focus heavily on specific rotation timings (15-second vs. 18-second rotations) and high effect resistance to resist boss debuffs. A new mythic chest piece that stacks damage-amplifying debuffs is featured across multiple damage dealers.",
+ "topics": [
+  "Continental Challenge",
+  "S9 Meta",
+  "Team Compositions",
+  "Boss Guides",
+  "Gear Builds"
+ ],
+ "heroes": [
+  {
+   "name": "Guinavivre",
+   "verdict": "Top Dauntless DPS",
+   "note": "Needs 100% crit rate, followed by maximum attack and attack speed runes to maximize shield and damage scaling.",
+   "known": true
+  },
+  {
+   "name": "Nastjenka",
+   "verdict": "Core Dauntless secondary DPS",
+   "note": "Built with 75%+ crit rate and massive crit damage, requiring less attack speed than Guinavivre.",
+   "known": true
+  },
+  {
+   "name": "Kurvida",
+   "verdict": "Core Dauntless buffer/debuffer",
+   "note": "Built with high skill haste for a 15-second rotation, high accuracy, and attack to share via mythic gear.",
+   "known": true
+  },
+  {
+   "name": "Maashtur",
+   "verdict": "Essential Dauntless shielder",
+   "note": "Equipped with Antler's artifact and high accuracy to shield and boost the highest-attack ally.",
+   "known": true
+  },
+  {
+   "name": "Selva",
+   "verdict": "Core Dauntless debuffer",
+   "note": "Uses the Puppeteer set, high accuracy, and resistance to delay and extend debuffs on bosses.",
+   "known": true
+  },
+  {
+   "name": "Talethia",
+   "verdict": "Top Aura primary DPS",
+   "note": "Scales heavily off HP, crit rate, and crit damage, benefiting greatly when paired with max-HP buffers.",
+   "known": true
+  },
+  {
+   "name": "Holfast",
+   "verdict": "Must-pull Aura support",
+   "note": "Directly replaces Lincos even at Inspiration 0 and can deal substantial supplementary damage.",
+   "known": true
+  },
+  {
+   "name": "Rena",
+   "verdict": "Best Aura support option",
+   "note": "Provides team-wide haste enabling a 15-second skill rotation that outdamages Celestine and Sagomir variants.",
+   "known": true
+  },
+  {
+   "name": "Celestine",
+   "verdict": "Alternative Aura support / Ice Blast enabler",
+   "note": "Extends team HP to bolster Talethia's damage output, but is also used in Ice Blast setups.",
+   "known": true
+  },
+  {
+   "name": "Beldelle",
+   "verdict": "Top Ice Blast DPS",
+   "note": "Requires full crit rate and pure attack with her exclusive artifact, completely skipping crit damage.",
+   "known": true
+  },
+  {
+   "name": "Shinnah",
+   "verdict": "Mandatory Ice Blast support",
+   "note": "Built with 300+ resistance and 240+ accuracy to prevent team debuffs and shred enemy defenses.",
+   "known": true
+  },
+  {
+   "name": "Fredegonda",
+   "verdict": "Core Ice Blast DPS",
+   "note": "Built with maximum crit rate, crit damage, and over 250 resistance to stay debuff-free against Stegamoffyn.",
+   "known": true
+  },
+  {
+   "name": "Rook",
+   "verdict": "Top Corrosion DPS",
+   "note": "Prioritizes 100% crit rate, max crit damage, and skill haste over raw attack stats.",
+   "known": true
+  },
+  {
+   "name": "Szecedith",
+   "verdict": "Core Corrosion enabler",
+   "note": "Equipped with her exclusive artifact, built with high attack, crit rate, and crit damage to maintain corrosion stacks.",
+   "known": true
+  },
+  {
+   "name": "Child of Chaos",
+   "verdict": "Core Corrosion support",
+   "note": "Built with maximum HP, Puppeteer set, accuracy, and skill haste to enable a 15-second team rotation.",
+   "known": true
+  },
+  {
+   "name": "Reytah",
+   "verdict": "Vital Corrosion debuff extender",
+   "note": "Remains viable at Inspiration 0, building HP, accuracy, and skill haste to extend corrosion debuffs.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Continental Challenge (Bosses like Stegamoffyn)",
+   "heroes": [
+    "Guinavivre",
+    "Nastjenka",
+    "Kurvida",
+    "Maashtur",
+    "Selva"
+   ],
+   "note": "High-investment Dauntless team tuned around 18s (or 15s with haste) skill timings, utilizing Selva to extend debuffs."
+  },
+  {
+   "mode": "Continental Challenge (Bosses like Beldelle)",
+   "heroes": [
+    "Talethia",
+    "Diantha",
+    "Holfast",
+    "Anneliesis",
+    "Rena"
+   ],
+   "note": "Aura team hitting 2.58B damage; uses Rena for a fast 15-second rotation. Celestine or Sagomir can substitute Rena."
+  },
+  {
+   "mode": "Continental Challenge (Stegamoffyn)",
+   "heroes": [
+    "Beldelle",
+    "Shinnah",
+    "Fredegonda",
+    "Ernesto",
+    "Celestine"
+   ],
+   "note": "Ice Blast team dealing ~1.6B damage with 18-second skill timings and heavy team-wide resistance (250-300+)."
+  },
+  {
+   "mode": "Continental Challenge (Rose)",
+   "heroes": [
+    "Rook",
+    "Szecedith",
+    "Child of Chaos",
+    "Reytah",
+    "Sacredeia"
+   ],
+   "note": "Corrosion team dealing ~1B damage through AoE corrosion stacking, running Rook on default skill timings."
+  }
+ ],
+ "meta_changes": [
+  "A new mythic chest armor piece is introduced that stacks damage-amplifying debuffs on the boss.",
+  "Holfast replaces Lincos in Aura teams as the premier support even at Inspiration 0.",
+  "15-second rotation cycles enabled by Rena's haste significantly outperform standard 18-second rotations in Aura compositions."
+ ],
+ "tips": [
+  "For Guinavivre and Rook, guarantee 100% crit rate before focusing on secondary stats.",
+  "Beldelle in Ice Blast should skip crit damage completely and stack pure crit rate and attack.",
+  "Aim for 250-300+ effect resistance on supports when fighting bosses like Stegamoffyn to prevent deadly debuff loops.",
+  "Build Child of Chaos with accuracy and skill haste runes so your Corrosion team can sync on 15-second rotations."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "1yIYhy_Ce_w",
+ "model": "gemini-3.8-flash",
+ "channel": "Gorax",
+ "title": "CN Meta Watch: Continental Challenge Teams You Should Prepare For | Dragonheir x Dragonstride",
+ "published": "2026-10-26T08:05:20+00:00",
+ "url": "https://www.youtube.com/watch?v=1yIYhy_Ce_w",
+ "short": false,
+ "summarized": "2026-10-29T02:24Z"
+}

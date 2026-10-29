@@ -1,0 +1,79 @@
+{
+ "summary": "This guide demonstrates how to clear Grave of Venom Stage 15 and unlock Mythical gear farming on Day 6 of server launch. The strategy relies on the free legendary tank Eurion combined with Torrin's defensive stat sharing and Adolphus's constant shielding. Lossenia provides team attack aura and debuffs, while Hvitar or Auster provides massive AoE frost damage to instantly wipe minion waves before the boss can empower attacks. Using food buffs like Royal Fish Soup to fulfill Accuracy requirements is critical to success.",
+ "topics": [
+  "Grave of Venom",
+  "Mythical Gear",
+  "Day 6 Progression",
+  "Dungeon Guide",
+  "Frost Team"
+ ],
+ "heroes": [
+  {
+   "name": "Eurion",
+   "verdict": "Core frontline tank",
+   "note": "A free legendary tank whose passive Undying Glory gives invincibility and healing upon fatal damage, paired with ally protection and damage reduction buffs.",
+   "known": true
+  },
+  {
+   "name": "Adolphus",
+   "verdict": "MVP shielder",
+   "note": "Quickly generates massive shields with Aura of Protection to keep Eurion healthy and prevent his cheat-death passive from triggering early.",
+   "known": true
+  },
+  {
+   "name": "Hvitar",
+   "verdict": "Top AoE damage dealer",
+   "note": "Pumps out high frost AoE damage to clear harpy adds immediately so the boss cannot execute empowered attacks.",
+   "known": true
+  },
+  {
+   "name": "Auster",
+   "verdict": "Top tier alternative DPS",
+   "note": "Serves as an effective substitute for Hvitar to clear minion waves with heavy AoE frost damage.",
+   "known": true
+  },
+  {
+   "name": "Lossenia",
+   "verdict": "Essential aura buffer and debuffer",
+   "note": "Provides a 24% Attack Aura and debuffs, requiring high Accuracy to pass stage resistance checks.",
+   "known": true
+  },
+  {
+   "name": "Torrin",
+   "verdict": "Top defensive support",
+   "note": "Positions directly behind Eurion to boost Eurion's HP and Defense stats while carrying support artifacts like Solar King's Horn.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Grave of Venom Stage 15/16",
+   "heroes": [
+    "Eurion",
+    "Torrin",
+    "Adolphus",
+    "Lossenia",
+    "Hvitar"
+   ],
+   "note": "Position Torrin directly behind Eurion so Eurion gains defensive stats; Adolphus provides continuous shielding, Lossenia debuffs and buffs attack, and Hvitar (or Auster) wipes the minions."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Consume Royal Fish Soup before entering Grave of Venom to gain a Defense buff and +15 Accuracy.",
+  "Ensure debuffers like Lossenia reach high Accuracy (over 260 Accuracy against 240 Resistance enemies) to land critical debuffs.",
+  "Max out upgraded flat-stat gear pieces in the first week as functional progression gear until ideal percentage main-stat gear drops.",
+  "Repeatedly farm Grave of Venom Stage 15 to collect and upgrade gear before pushing into Stage 16 for first-time Mythical equipment drops."
+ ],
+ "season": "S1",
+ "server_scope": "S1",
+ "value": "high",
+ "id": "7vRRDbBivaU",
+ "model": "gemini-3.8-flash",
+ "channel": "Skratch Gaming",
+ "title": "GET MYTHICAL GEAR On Day 6 With This Team!! Grave Of Venom Guide Dragonheir x Dragonstride",
+ "published": "2026-10-28T19:50:29+00:00",
+ "url": "https://www.youtube.com/watch?v=7vRRDbBivaU",
+ "short": false,
+ "summarized": "2026-10-29T02:19Z"
+}

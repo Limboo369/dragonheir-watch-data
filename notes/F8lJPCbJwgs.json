@@ -1,0 +1,118 @@
+{
+ "summary": "This video showcases two Level 79 team compositions (Ice Blast and Toxin) designed for Temporal Vortex II and Vortex III in Season 9. The creator breaks down the exact stat requirements, artifact choices, alternative options, and skill order timings for each team. The Ice Blast lineup features Fredegonda, Ernesto, Beldelle, Shinnah, and Celestine, with pet buffs tuned to buff Beldelle. The Toxin lineup pairs Child of Chaos with Reytah for survival at lower inspiration levels alongside Serpentemis, Twitch, and Sleight.",
+ "topics": [
+  "Temporal Vortex",
+  "Ice Blast",
+  "Toxin",
+  "Team Compositions",
+  "Skill Timings",
+  "Gear Builds"
+ ],
+ "heroes": [
+  {
+   "name": "Celestine",
+   "verdict": "Great Ice support for Vortex",
+   "note": "Functions effectively at Inspiration 0 when built with Resistance, the Sacred gear set, and Chest of Radiance.",
+   "known": true
+  },
+  {
+   "name": "Ernesto",
+   "verdict": "Top Ice Blast pick",
+   "note": "Focus on Crit Rate and Crit Damage; uses Angelic Alliance or Golden Antlers as a budget alternative.",
+   "known": true
+  },
+  {
+   "name": "Beldelle",
+   "verdict": "Core Ice Blast DPS",
+   "note": "Prioritize Crit Rate and stack Attack so the pet's Attack Up buff targets her.",
+   "known": true
+  },
+  {
+   "name": "Fredegonda",
+   "verdict": "Core Ice Blast DPS",
+   "note": "Focus primarily on Crit Rate, Crit Damage, and her exclusive artifact.",
+   "known": true
+  },
+  {
+   "name": "Shinnah",
+   "verdict": "Solid Ice support",
+   "note": "Built with the Luminatory debuff reflection set, sufficient Accuracy, and the healing talent.",
+   "known": true
+  },
+  {
+   "name": "Child of Chaos",
+   "verdict": "Essential Toxin support",
+   "note": "Can solo-sustain at Inspiration 2, but at Inspiration 0 needs a secondary support like Reytah; equipped with Golden Antlers and Puppeteer set.",
+   "known": true
+  },
+  {
+   "name": "Reytah",
+   "verdict": "Secondary Toxin support",
+   "note": "Added for survivability in Vortex III; runs exclusive artifact or Mystic Conch alongside Vortex Illusion set.",
+   "known": true
+  },
+  {
+   "name": "Twitch",
+   "verdict": "Essential Toxin enabler",
+   "note": "Requires 200+ Accuracy and derivative damage boosting gear.",
+   "known": true
+  },
+  {
+   "name": "Sleight",
+   "verdict": "Strong Toxin DPS",
+   "note": "Built with high Attack, Accuracy, exclusive artifact, and derivative damage gear.",
+   "known": true
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "Toxin damage dealer",
+   "note": "Prioritize Enlightenment, Accuracy, and Attack.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Temporal Vortex II & III",
+   "heroes": [
+    "Fredegonda",
+    "Ernesto",
+    "Beldelle",
+    "Shinnah",
+    "Celestine"
+   ],
+   "note": "Ice Blast Vortex team. Pet is set at 10.0s to buff Beldelle's Attack. Skill timings: Ernesto 11.9s, Beldelle 11.9s, Celestine 12.5s, Shinnah 12.1s, Fredegonda 16.0s (all on 18.0s recharge)."
+  },
+  {
+   "mode": "Temporal Vortex II & III",
+   "heroes": [
+    "Reytah",
+    "Serpentemis",
+    "Twitch",
+    "Sleight",
+    "Child of Chaos"
+   ],
+   "note": "Double-support Toxin team allowing Child of Chaos at Inspiration 0 to survive Vortex III. Skill timings: Pet 5.0s, Serpentemis 10.0s, Child of Chaos 11.5s, Reytah 14.5s, Sleight 14.6s, Twitch 14.8s (all on 18.0s recharge)."
+  }
+ ],
+ "meta_changes": [
+  "Introduction of Celestine as a dedicated Ice support hero.",
+  "Season 9 introduces new gear sets such as the Luminatory debuff-reflection set."
+ ],
+ "tips": [
+  "If you lack the paid exclusive artifact Angelic Alliance for Ernesto, Golden Antlers serves as a functional alternative.",
+  "If you do not have Reytah's exclusive artifact, Mystic Conch is a viable replacement.",
+  "Tune the Dauntless pet's timing to 10.0s so its 10% Attack buff targets your primary DPS (Beldelle) right before skill casts.",
+  "When building Child of Chaos with Accuracy gear, consider swapping the resistance-ignore talent for the healing talent to improve team sustain."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "F8lJPCbJwgs",
+ "model": "gemini-3.8-flash",
+ "channel": "Neff Gaming",
+ "title": "VORTEX II LVL 79 🔥 ICEBLAST + TOXIN Team Setups! | Dragonheir: Silent Gods",
+ "published": "2026-10-28T18:44:08+00:00",
+ "url": "https://www.youtube.com/watch?v=F8lJPCbJwgs",
+ "short": false,
+ "summarized": "2026-10-29T02:21Z"
+}
