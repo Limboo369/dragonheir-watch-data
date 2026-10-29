@@ -1,5 +1,5 @@
 {
- "built": "2026-10-29T09:19Z",
+ "built": "2026-10-29T09:52Z",
  "last_fetch": "2026-10-29T09:18Z",
  "counts": {
   "summarized": 65,
@@ -30,7 +30,6 @@
   "quota_hit": 1793255001.7598484
  },
  "log_tail": [
-  "! I WHALED OUT On The New Banner... Should You!? Dra: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
   "… Skratch Gaming: FREE REWARDS FOR EVERYONE! S9 Promo Code Dragonheir: Silent ",
   "! ⛔ DO NOT SUMMON ⛔ Save Your Summons For Anneliesis: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
   "… Neff Gaming: SEASON 9 IS HERE! 🔥 Targeted Summons Session & S8 Recap | Dr",
@@ -109,7 +108,8 @@
   "saved -i_pyccY6L8 (unknown hero names: Quirro)",
   "+ Suzi Plays: Get YOUR Redeem Codes NOW! 💥 Plus S9 Overview Reaction 🔥 Dra",
   "saved EZe7SqG0EUE",
-  "+ liveranov: Anneliesis Returns! Full Guide: Kit, Best Team & Build | Dra"
+  "+ liveranov: Anneliesis Returns! Full Guide: Kit, Best Team & Build | Dra",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 65 videos, 107 heroes"
  ],
  "crontab": [],
  "channels": [
