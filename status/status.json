@@ -1,5 +1,5 @@
 {
- "built": "2026-10-29T00:57Z",
+ "built": "2026-10-29T01:27Z",
  "last_fetch": "2026-10-29T00:18Z",
  "counts": {
   "summarized": 41,
@@ -90,7 +90,6 @@
   "quota_hit": 1793233547.7372773
  },
  "log_tail": [
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 40 videos, 90 heroes",
   "== 2026-10-28 18:17",
   "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
@@ -169,7 +168,8 @@
   "  gemini-3.5-flash: 429, using gemini-3.7-flash",
   "  gemini-3.7-flash: 429, using gemini-3.6-flash",
   "! These Changes Got My Massive Gains In The Vortex! : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 41 videos, 92 heroes"
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 41 videos, 92 heroes",
+  "/bin/bash: line 1: /root/ytwatch/run.sh: Permission denied"
  ],
  "crontab": [],
  "channels": [
