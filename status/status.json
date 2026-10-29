@@ -1,6 +1,6 @@
 {
- "built": "2026-10-29T02:58Z",
- "last_fetch": "2026-10-29T02:18Z",
+ "built": "2026-10-29T03:28Z",
+ "last_fetch": "2026-10-29T03:18Z",
  "counts": {
   "summarized": 47,
   "skipped_giveaway": 17,
@@ -60,11 +60,6 @@
   "quota_hit": 1793240755.9922814
  },
  "log_tail": [
-  "== 2026-10-29 00:18",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "… Skratch Gaming: I RANKED All The Schools Of Damage In Dragonheir: Silent God",
-  "… Skratch Gaming: GET MYTHICAL GEAR On Day 6 With This Team!! Grave Of Venom G… Neff Gaming: VORTEX II LVL 79 🔥 ICEBLAST + TOXIN Team Setups! | Dragonhei",
   "",
   "… Skratch Gaming: These Changes Got My Massive Gains In The Vortex! Dragonheir",
   "  gemini-3.8-flash: 429, using gemini-3.5-flash",
@@ -139,6 +134,11 @@
   "+ Gorax: CN Meta Watch: Continental Challenge Teams You Should Prepar",
   "  gemini-3.7-flash: 429, using gemini-3.6-flash",
   "! Imperial Shadow Recast Week 3 – My 6 Teams + Codes: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 47 videos, 96 heroes",
+  "== 2026-10-29 03:18",
+  "fetch done: 0 new transcripts, 0 not available yet",
+  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
+  "Gemini quota was full less than an hour ago, trying again next round",
   "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 47 videos, 96 heroes"
  ],
  "crontab": [],
@@ -147,55 +147,55 @@
    "name": "Skratch Gaming",
    "id": "UCoSkzr1pXpt3d0jIxsc6ufw",
    "enabled": true,
-   "checked": "2026-10-29T02:18Z"
+   "checked": "2026-10-29T03:18Z"
   },
   {
    "name": "Gorax",
    "id": "UCNas7BnuOIjDEzY1D53kb1w",
    "enabled": true,
-   "checked": "2026-10-29T02:18Z"
+   "checked": "2026-10-29T03:18Z"
   },
   {
    "name": "Neff Gaming",
    "id": "UCsxs6YhNd_B36RgUAjbpJ_A",
    "enabled": true,
-   "checked": "2026-10-29T02:18Z"
+   "checked": "2026-10-29T03:18Z"
   },
   {
    "name": "Volkin Dragonheir",
    "id": "UCfRpOh_ywVjzhh9fxHbreGw",
    "enabled": true,
-   "checked": "2026-10-29T02:18Z"
+   "checked": "2026-10-29T03:18Z"
   },
   {
    "name": "Fastidious Dragonheir",
    "id": "UC16mpj5wEemSZX-uTlHe9Ww",
    "enabled": true,
-   "checked": "2026-10-29T02:18Z"
+   "checked": "2026-10-29T03:18Z"
   },
   {
    "name": "OddOneGaming RPGs",
    "id": "UC1ivUEf_poI9_R2eVKa8wRQ",
    "enabled": true,
-   "checked": "2026-10-29T02:18Z"
+   "checked": "2026-10-29T03:18Z"
   },
   {
    "name": "Suzi Plays",
    "id": "UCyo1-TkunhGcK6khU1h8Ypw",
    "enabled": true,
-   "checked": "2026-10-29T02:18Z"
+   "checked": "2026-10-29T03:18Z"
   },
   {
    "name": "Skyasterix Gaming",
    "id": "UCr5Gb3910rK7QPmKMmdagsA",
    "enabled": true,
-   "checked": "2026-10-29T02:18Z"
+   "checked": "2026-10-29T03:18Z"
   },
   {
    "name": "liveranov",
    "id": "UCqCR7ofFHhWwXy3Hg00fqEw",
    "enabled": true,
-   "checked": "2026-10-29T02:18Z"
+   "checked": "2026-10-29T03:18Z"
   }
  ]
 }
