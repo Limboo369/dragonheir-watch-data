@@ -1,0 +1,56 @@
+{
+ "summary": "Neff Gaming reviews his Season 8 achievements and transitions back to Server 9 for the start of Season 9: The Undertow Approaches. Season 9 introduces 15+ new heroes, fresh equipment sets, a revamped Season Boss, and the Hydra Temporal Vortex boss. During a 300-dice Targeted Summons session, he pulls Fyrenzur and Tallyn, eventually selecting Longbeau at the 300-summon pity threshold. He also inspects the kit of new Epic hero Quirro, concluding that while Quirro brings shield dispelling and buff transfers, he is nothing particularly special.",
+ "topics": [
+  "Season 9 launch",
+  "Targeted Summons",
+  "Season 8 recap",
+  "Quirro hero review",
+  "Longbeau",
+  "Fyrenzur",
+  "Tallyn"
+ ],
+ "heroes": [
+  {
+   "name": "Longbeau",
+   "verdict": "Top targeted pity pick",
+   "note": "Selected at the 300-summon milestone on the Targeted Summons banner to complete the featured Legendary trio.",
+   "known": true
+  },
+  {
+   "name": "Fyrenzur",
+   "verdict": "Decent Fire support Legendary",
+   "note": "Pulled directly from the Targeted Summons banner as a new Fire support addition.",
+   "known": true
+  },
+  {
+   "name": "Tallyn",
+   "verdict": "New S9 Legendary hero",
+   "note": "A new Lightning Fort Commander Legendary pulled during the Targeted Summons pulls.",
+   "known": true
+  },
+  {
+   "name": "Quirro",
+   "verdict": "Nothing special",
+   "note": "Fire Epic support capable of dispelling enemy shields, stealing enemy buffs to give to the highest Attack ally, and casting Defense Up II, but overall lacks game-changing power.",
+   "known": false
+  }
+ ],
+ "teams": [],
+ "meta_changes": [
+  "Season 9 (The Undertow Approaches) adds new gear sets, 15+ new Fire and Lightning heroes, a new Season Boss, and the Hydra boss to Temporal Vortex."
+ ],
+ "tips": [
+  "Completing 300 summons on the Targeted Summons banner allows players to pick one guaranteed featured Legendary hero of their choice."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "Mklcb7LtJqo",
+ "model": "gemini-3.6-flash",
+ "channel": "Neff Gaming",
+ "title": "SEASON 9 IS HERE! 🔥 Targeted Summons Session & S8 Recap | Dragonheir: Silent Gods",
+ "published": "2026-10-24T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=Mklcb7LtJqo",
+ "short": false,
+ "summarized": "2026-10-29T06:18Z"
+}

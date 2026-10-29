@@ -1,11 +1,11 @@
 {
- "built": "2026-10-29T06:00Z",
- "last_fetch": "2026-10-29T05:18Z",
+ "built": "2026-10-29T06:20Z",
+ "last_fetch": "2026-10-29T06:18Z",
  "counts": {
-  "summarized": 49,
+  "summarized": 50,
   "skipped_giveaway": 17,
-  "retry": 11,
-  "new": 505,
+  "retry": 12,
+  "new": 503,
   "baseline": 22,
   "skipped_live": 1
  },
@@ -41,7 +41,7 @@
    "error": ""
   },
   {
-   "title": "SEASON 9 IS HERE! 🔥 Targeted Summons Session & S8 Recap | Dragonheir: Silent Gods",
+   "title": "VORTEX IV Chinese Server - League Rankings! INSANE Damage Numbers | Dragonheir: Silent Gods",
    "channel": "Neff Gaming",
    "status": "retry",
    "error": ""
@@ -75,45 +75,21 @@
    "channel": "liveranov",
    "status": "retry",
    "error": ""
+  },
+  {
+   "title": "Season 9 NEW INFO: 2 Free Heroes, New Affinities & Selectable Banner! | Dragonheir: Silent Gods",
+   "channel": "liveranov",
+   "status": "retry",
+   "error": ""
   }
  ],
  "budget": {
   "day": "2026-10-29",
-  "seconds": 13629,
+  "seconds": 18028,
   "v2": 1,
-  "quota_hit": 1793247532.8576033
+  "quota_hit": 1793254737.3441155
  },
  "log_tail": [
-  "… Skratch Gaming: GET MYTHICAL GEAR On Day 6 With This Team!! Grave Of Venom G",
-  "… Neff Gaming: VORTEX II LVL 79 🔥 ICEBLAST + TOXIN Team Setups! | Dragonhei",
-  "… Skratch Gaming: These Changes Got My Massive Gains In The Vortex! Dragonheir",
-  "… Gorax: CN Meta Watch: Continental Challenge Teams You Should Prepar",
-  "… OddOneGaming RPGs: 💥 Day 1 EASY Clear 💥 My 1 Team For All 3 Grave Dungeons Stag",
-  "saved 7vRRDbBivaU",
-  "+ Skratch Gaming: GET MYTHICAL GEAR On Day 6 With This Team!! Grave Of Venom G",
-  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
-  "… liveranov: Community Giveaway  October (Round 2) | Entry OPEN",
-  "saved nrlNlI82CIM",
-  "+ OddOneGaming RPGs: 💥 Day 1 EASY Clear 💥 My 1 Team For All 3 Grave Dungeons Stag",
-  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
-  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
-  "… Gorax: Imperial Shadow Recast Week 3 – My 6 Teams + Codes | Dragonh",
-  "saved AdMJvbFJWS0",
-  "+ Skratch Gaming: These Changes Got My Massive Gains In The Vortex! Dragonheir",
-  "… Skratch Gaming: USE THESE TEAMS! Temporal Vortex S9 Dragonheir: Silent Gods ",
-  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
-  "saved F8lJPCbJwgs",
-  "+ Neff Gaming: VORTEX II LVL 79 🔥 ICEBLAST + TOXIN Team Setups! | Dragonhei",
-  "… Suzi Plays: What Does Day 1 with a Server Transfer Look Like? ✅ Full Pro",
-  "! USE THESE TEAMS! Temporal Vortex S9 Dragonheir: Si: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
-  "… liveranov: Is Sia Worth It? Only Until Oct 28 💀 Season 9 Targeted Summo",
-  "! What Does Day 1 with a Server Transfer Look Like? : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
-  "… Suzi Plays: NEW SEASON SUMMONS! 💥I Pulled But Should YOU!? 🔥 Dragonheir ",
-  "! Is Sia Worth It? Only Until Oct 28 💀 Season 9 Targ: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
-  "… Suzi Plays: 15,000 Wyrmarrow for Playing ANOTHER Gacha!? 💥 Start NOW! 🔥 ",
-  "! NEW SEASON SUMMONS! 💥I Pulled But Should YOU!? 🔥 D: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
-  "! 15,000 Wyrmarrow for Playing ANOTHER Gacha!? 💥 Sta: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
-  "saved yCX-g_qSvrI",
   "+ liveranov: Community Giveaway  October (Round 2) | Entry OPEN",
   "saved 1yIYhy_Ce_w",
   "+ Gorax: CN Meta Watch: Continental Challenge Teams You Should Prepar",
@@ -163,7 +139,37 @@
   "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "Gemini quota was full less than an hour ago, trying again next round",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 49 videos, 96 heroes"
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 49 videos, 96 heroes",
+  "== 2026-10-29 06:17",
+  "fetch done: 0 new transcripts, 0 not available yet",
+  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
+  "… Gorax: Imperial Shadow Recast Week 3 – My 6 Teams + Codes | Dragonh",
+  "… Skratch Gaming: USE THESE TEAMS! Temporal Vortex S9 Dragonheir: Silent Gods ",
+  "… Suzi Plays: NEW SEASON SUMMONS! 💥I Pulled But Should YOU!? 🔥 Dragonheir ",
+  "… Suzi Plays: 15,000 Wyrmarrow for Playing ANOTHER Gacha!? 💥 Start NOW! 🔥 ",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
+  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
+  "… Gorax: I Got Lucky Early… Then Wasted WAY Too Many Dice | Dragonhei",
+  "! NEW SEASON SUMMONS! 💥I Pulled But Should YOU!? 🔥 D: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "… liveranov: INSANE Luck? 300 Targeted Summons for Longbeau, Fyrenzur & T",
+  "! I Got Lucky Early… Then Wasted WAY Too Many Dice |: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "… Skratch Gaming: I WHALED OUT On The New Banner... Should You!? Dragonheir: S",
+  "! INSANE Luck? 300 Targeted Summons for Longbeau, Fy: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "… OddOneGaming RPGs: ⛔ DO NOT SUMMON ⛔ Save Your Summons For Anneliesis In 2 Week",
+  "! I WHALED OUT On The New Banner... Should You!? Dra: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "… Skratch Gaming: FREE REWARDS FOR EVERYONE! S9 Promo Code Dragonheir: Silent ",
+  "! ⛔ DO NOT SUMMON ⛔ Save Your Summons For Anneliesis: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "… Neff Gaming: SEASON 9 IS HERE! 🔥 Targeted Summons Session & S8 Recap | Dr",
+  "! FREE REWARDS FOR EVERYONE! S9 Promo Code Dragonhei: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "… liveranov: Season 9 NEW INFO: 2 Free Heroes, New Affinities & Selectabl",
+  "saved Mklcb7LtJqo (unknown hero names: Quirro)",
+  "… Neff Gaming: VORTEX IV Chinese Server - League Rankings! INSANE Damage Nu",
+  "+ Neff Gaming: SEASON 9 IS HERE! 🔥 Targeted Summons Session & S8 Recap | Dr",
+  "! Season 9 NEW INFO: 2 Free Heroes, New Affinities &: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "! VORTEX IV Chinese Server - League Rankings! INSANE: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google."
  ],
  "crontab": [],
  "channels": [
@@ -171,55 +177,55 @@
    "name": "Skratch Gaming",
    "id": "UCoSkzr1pXpt3d0jIxsc6ufw",
    "enabled": true,
-   "checked": "2026-10-29T05:17Z"
+   "checked": "2026-10-29T06:18Z"
   },
   {
    "name": "Gorax",
    "id": "UCNas7BnuOIjDEzY1D53kb1w",
    "enabled": true,
-   "checked": "2026-10-29T05:18Z"
+   "checked": "2026-10-29T06:18Z"
   },
   {
    "name": "Neff Gaming",
    "id": "UCsxs6YhNd_B36RgUAjbpJ_A",
    "enabled": true,
-   "checked": "2026-10-29T05:18Z"
+   "checked": "2026-10-29T06:18Z"
   },
   {
    "name": "Volkin Dragonheir",
    "id": "UCfRpOh_ywVjzhh9fxHbreGw",
    "enabled": true,
-   "checked": "2026-10-29T05:18Z"
+   "checked": "2026-10-29T06:18Z"
   },
   {
    "name": "Fastidious Dragonheir",
    "id": "UC16mpj5wEemSZX-uTlHe9Ww",
    "enabled": true,
-   "checked": "2026-10-29T05:18Z"
+   "checked": "2026-10-29T06:18Z"
   },
   {
    "name": "OddOneGaming RPGs",
    "id": "UC1ivUEf_poI9_R2eVKa8wRQ",
    "enabled": true,
-   "checked": "2026-10-29T05:18Z"
+   "checked": "2026-10-29T06:18Z"
   },
   {
    "name": "Suzi Plays",
    "id": "UCyo1-TkunhGcK6khU1h8Ypw",
    "enabled": true,
-   "checked": "2026-10-29T05:18Z"
+   "checked": "2026-10-29T06:18Z"
   },
   {
    "name": "Skyasterix Gaming",
    "id": "UCr5Gb3910rK7QPmKMmdagsA",
    "enabled": true,
-   "checked": "2026-10-29T05:18Z"
+   "checked": "2026-10-29T06:18Z"
   },
   {
    "name": "liveranov",
    "id": "UCqCR7ofFHhWwXy3Hg00fqEw",
    "enabled": true,
-   "checked": "2026-10-29T05:18Z"
+   "checked": "2026-10-29T06:18Z"
   }
  ]
 }
