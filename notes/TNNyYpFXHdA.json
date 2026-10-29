@@ -1,0 +1,69 @@
+{
+ "summary": "OddOne strongly advises players to skip current Targeted Summons and Shadow banners to save all summoning resources. According to the event calendar, the Radiant Wings banner featuring Anneliesis returns around November 8th, alongside a dedicated Aura banner. Anneliesis has not had a rerun in over a year, making her an absolute top summoning priority. Fortfaring Summons should still be used if you have Season Tickets, as the banner guarantees a Legendary support and lasts the entire season until completed.",
+ "topics": [
+  "banners",
+  "summoning guide",
+  "Anneliesis",
+  "event calendar",
+  "Fortfaring Summons"
+ ],
+ "heroes": [
+  {
+   "name": "Anneliesis",
+   "verdict": "Must-summon priority",
+   "note": "Featured on the upcoming Radiant Wings banner after more than a year; players should save to grab at least one or two copies.",
+   "known": true
+  },
+  {
+   "name": "Talethia",
+   "verdict": "Core Aura anchor",
+   "note": "Anchors Aura teams, which remain one of the strongest compositions in the game.",
+   "known": true
+  },
+  {
+   "name": "Tamar",
+   "verdict": "Potentially replaceable",
+   "note": "Mentioned as an Aura support that may be replaced by the upcoming new Aura banner hero.",
+   "known": true
+  },
+  {
+   "name": "Lincos",
+   "verdict": "Potentially replaceable",
+   "note": "Mentioned alongside Tamar as a hero likely to be phased out by the upcoming Aura hero.",
+   "known": true
+  },
+  {
+   "name": "Celestine",
+   "verdict": "Skip",
+   "note": "Premium hero on the Targeted Summon pool that is not guaranteed without spending up to 1,000 summons.",
+   "known": true
+  },
+  {
+   "name": "Astaion",
+   "verdict": "Solid pull",
+   "note": "Obtained as a non-maxed duplicate from the Fortfaring Summon guarantee.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [
+  "Upcoming Selected Summons || Aura banner is expected to introduce an Aura hero that can replace Tamar or Lincos in top Aura setups."
+ ],
+ "tips": [
+  "Do not spend Heliolite Dice on the current Targeted Summons or the upcoming Selected Summons || Shadow banners.",
+  "Save all summons for November 8th when the Radiant Wings (Anneliesis) and Aura banners go live.",
+  "The Fortfaring Summons banner persists all season until you complete your 20 summons, so pull it when you have Season Tickets.",
+  "When doing Fortfaring Summons, switch to single pulls after the first multi to avoid wasting tickets if a Legendary drops early."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "TNNyYpFXHdA",
+ "model": "gemini-3.8-flash",
+ "channel": "OddOneGaming RPGs",
+ "title": "⛔ DO NOT SUMMON ⛔ Save Your Summons For Anneliesis In 2 Weeks | Dragonheir x Dragonstride",
+ "published": "2026-10-24T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=TNNyYpFXHdA",
+ "short": false,
+ "summarized": "2026-10-29T08:23Z"
+}

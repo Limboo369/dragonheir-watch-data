@@ -1,21 +1,15 @@
 {
- "built": "2026-10-29T08:01Z",
- "last_fetch": "2026-10-29T07:17Z",
+ "built": "2026-10-29T08:31Z",
+ "last_fetch": "2026-10-29T08:17Z",
  "counts": {
-  "summarized": 52,
+  "summarized": 57,
   "skipped_giveaway": 17,
-  "retry": 10,
+  "retry": 5,
   "new": 503,
   "baseline": 22,
   "skipped_live": 1
  },
  "problems": [
-  {
-   "title": "I WHALED OUT On The New Banner... Should You!? Dragonheir: Silent Gods x Dragonstride",
-   "channel": "Skratch Gaming",
-   "status": "retry",
-   "error": ""
-  },
   {
    "title": "FREE REWARDS FOR EVERYONE! S9 Promo Code Dragonheir: Silent Gods x Dragonstride",
    "channel": "Skratch Gaming",
@@ -23,32 +17,8 @@
    "error": ""
   },
   {
-   "title": "Imperial Shadow Recast Week 3 – My 6 Teams + Codes | Dragonheir x Dragonstride",
-   "channel": "Gorax",
-   "status": "retry",
-   "error": "The read operation timed out"
-  },
-  {
-   "title": "I Got Lucky Early… Then Wasted WAY Too Many Dice | Dragonheir x Dragonstride",
-   "channel": "Gorax",
-   "status": "retry",
-   "error": ""
-  },
-  {
    "title": "VORTEX IV Chinese Server - League Rankings! INSANE Damage Numbers | Dragonheir: Silent Gods",
    "channel": "Neff Gaming",
-   "status": "retry",
-   "error": ""
-  },
-  {
-   "title": "⛔ DO NOT SUMMON ⛔ Save Your Summons For Anneliesis In 2 Weeks | Dragonheir x Dragonstride",
-   "channel": "OddOneGaming RPGs",
-   "status": "retry",
-   "error": ""
-  },
-  {
-   "title": "NEW SEASON SUMMONS! 💥I Pulled But Should YOU!? 🔥 Dragonheir x Dragonstride",
-   "channel": "Suzi Plays",
    "status": "retry",
    "error": ""
   },
@@ -68,41 +38,16 @@
    "title": "Season 9 NEW INFO: 2 Free Heroes, New Affinities & Selectable Banner! | Dragonheir: Silent Gods",
    "channel": "liveranov",
    "status": "retry",
-   "error": ""
+   "error": "Expecting value: line 1 column 1 (char 0)"
   }
  ],
  "budget": {
   "day": "2026-10-29",
-  "seconds": 16828,
+  "seconds": 25265,
   "v2": 1,
   "quota_hit": 1793255001.7598484
  },
  "log_tail": [
-  "… Gorax: Imperial Shadow Recast Week 3 – My 6 Teams + Codes | Dragonh",
-  "… Skratch Gaming: USE THESE TEAMS! Temporal Vortex S9 Dragonheir: Silent Gods ",
-  "… Suzi Plays: What Does Day 1 with a Server Transfer Look Like? ✅ Full Pro",
-  "… liveranov: Is Sia Worth It? Only Until Oct 28 💀 Season 9 Targeted Summo",
-  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
-  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
-  "… Suzi Plays: NEW SEASON SUMMONS! 💥I Pulled But Should YOU!? 🔥 Dragonheir ",
-  "saved QzYB3-CIaGE",
-  "+ liveranov: Is Sia Worth It? Only Until Oct 28 💀 Season 9 Targeted Summo",
-  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
-  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
-  "… Suzi Plays: 15,000 Wyrmarrow for Playing ANOTHER Gacha!? 💥 Start NOW! 🔥 ",
-  "! NEW SEASON SUMMONS! 💥I Pulled But Should YOU!? 🔥 D: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
-  "… Gorax: I Got Lucky Early… Then Wasted WAY Too Many Dice | Dragonhei",
-  "! 15,000 Wyrmarrow for Playing ANOTHER Gacha!? 💥 Sta: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
-  "… liveranov: INSANE Luck? 300 Targeted Summons for Longbeau, Fyrenzur & T",
-  "! I Got Lucky Early… Then Wasted WAY Too Many Dice |: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
-  "… Skratch Gaming: I WHALED OUT On The New Banner... Should You!? Dragonheir: S",
-  "! INSANE Luck? 300 Targeted Summons for Longbeau, Fy: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
-  "… OddOneGaming RPGs: ⛔ DO NOT SUMMON ⛔ Save Your Summons For Anneliesis In 2 Week",
-  "! I WHALED OUT On The New Banner... Should You!? Dra: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
-  "… Skratch Gaming: FREE REWARDS FOR EVERYONE! S9 Promo Code Dragonheir: Silent ",
-  "! ⛔ DO NOT SUMMON ⛔ Save Your Summons For Anneliesis: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
-  "… Neff Gaming: SEASON 9 IS HERE! 🔥 Targeted Summons Session & S8 Recap | Dr",
-  "! FREE REWARDS FOR EVERYONE! S9 Promo Code Dragonhei: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
   "! SEASON 9 IS HERE! 🔥 Targeted Summons Session & S8 : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
   "saved Br4dlLPsv6A",
   "+ Suzi Plays: What Does Day 1 with a Server Transfer Look Like? ✅ Full Pro",
@@ -157,7 +102,32 @@
   "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "Gemini quota was full less than an hour ago, trying again next round",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 52 videos, 97 heroes"
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 52 videos, 97 heroes",
+  "== 2026-10-29 08:17",
+  "fetch done: 0 new transcripts, 0 not available yet",
+  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
+  "… Gorax: Imperial Shadow Recast Week 3 – My 6 Teams + Codes | Dragonh",
+  "… Suzi Plays: NEW SEASON SUMMONS! 💥I Pulled But Should YOU!? 🔥 Dragonheir ",
+  "… Gorax: I Got Lucky Early… Then Wasted WAY Too Many Dice | Dragonhei",
+  "… liveranov: INSANE Luck? 300 Targeted Summons for Longbeau, Fyrenzur & T",
+  "… Skratch Gaming: I WHALED OUT On The New Banner... Should You!? Dragonheir: S",
+  "saved xoS9KUTB3Is",
+  "+ Suzi Plays: NEW SEASON SUMMONS! 💥I Pulled But Should YOU!? 🔥 Dragonheir ",
+  "… OddOneGaming RPGs: ⛔ DO NOT SUMMON ⛔ Save Your Summons For Anneliesis In 2 Week",
+  "saved NY1zsbF-vRM",
+  "+ Gorax: Imperial Shadow Recast Week 3 – My 6 Teams + Codes | Dragonh",
+  "… Skratch Gaming: FREE REWARDS FOR EVERYONE! S9 Promo Code Dragonheir: Silent ",
+  "saved TNNyYpFXHdA",
+  "+ OddOneGaming RPGs: ⛔ DO NOT SUMMON ⛔ Save Your Summons For Anneliesis In 2 Week",
+  "  gemini-3.8-flash: 503, using gemini-3.5-flash",
+  "… liveranov: Season 9 NEW INFO: 2 Free Heroes, New Affinities & Selectabl",
+  "saved p2wAxn2IAFQ (unknown hero names: Annalis)",
+  "+ Gorax: I Got Lucky Early… Then Wasted WAY Too Many Dice | Dragonhei",
+  "… Neff Gaming: VORTEX IV Chinese Server - League Rankings! INSANE Damage Nu",
+  "! Season 9 NEW INFO: 2 Free Heroes, New Affinities &: JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+  "… Skratch Gaming: GET READY! My Plan For The New Banners & Teams In S9 Dragonh",
+  "saved hEve9odLIs8",
+  "+ Skratch Gaming: I WHALED OUT On The New Banner... Should You!? Dragonheir: S"
  ],
  "crontab": [],
  "channels": [
@@ -165,55 +135,55 @@
    "name": "Skratch Gaming",
    "id": "UCoSkzr1pXpt3d0jIxsc6ufw",
    "enabled": true,
-   "checked": "2026-10-29T07:17Z"
+   "checked": "2026-10-29T08:17Z"
   },
   {
    "name": "Gorax",
    "id": "UCNas7BnuOIjDEzY1D53kb1w",
    "enabled": true,
-   "checked": "2026-10-29T07:17Z"
+   "checked": "2026-10-29T08:17Z"
   },
   {
    "name": "Neff Gaming",
    "id": "UCsxs6YhNd_B36RgUAjbpJ_A",
    "enabled": true,
-   "checked": "2026-10-29T07:17Z"
+   "checked": "2026-10-29T08:17Z"
   },
   {
    "name": "Volkin Dragonheir",
    "id": "UCfRpOh_ywVjzhh9fxHbreGw",
    "enabled": true,
-   "checked": "2026-10-29T07:17Z"
+   "checked": "2026-10-29T08:17Z"
   },
   {
    "name": "Fastidious Dragonheir",
    "id": "UC16mpj5wEemSZX-uTlHe9Ww",
    "enabled": true,
-   "checked": "2026-10-29T07:17Z"
+   "checked": "2026-10-29T08:17Z"
   },
   {
    "name": "OddOneGaming RPGs",
    "id": "UC1ivUEf_poI9_R2eVKa8wRQ",
    "enabled": true,
-   "checked": "2026-10-29T07:17Z"
+   "checked": "2026-10-29T08:17Z"
   },
   {
    "name": "Suzi Plays",
    "id": "UCyo1-TkunhGcK6khU1h8Ypw",
    "enabled": true,
-   "checked": "2026-10-29T07:17Z"
+   "checked": "2026-10-29T08:17Z"
   },
   {
    "name": "Skyasterix Gaming",
    "id": "UCr5Gb3910rK7QPmKMmdagsA",
    "enabled": true,
-   "checked": "2026-10-29T07:17Z"
+   "checked": "2026-10-29T08:17Z"
   },
   {
    "name": "liveranov",
    "id": "UCqCR7ofFHhWwXy3Hg00fqEw",
    "enabled": true,
-   "checked": "2026-10-29T07:17Z"
+   "checked": "2026-10-29T08:17Z"
   }
  ]
 }

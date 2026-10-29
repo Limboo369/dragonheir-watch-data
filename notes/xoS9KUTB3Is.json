@@ -1,0 +1,78 @@
+{
+ "summary": "This video discusses whether players should pull on the Total Selectable / Targeted Summons support banner featuring Longbeau, Fyrenzur, and Tallyn, alongside premium targets Celestine and Sia. The creator strongly advises roughly 99.5% of players to skip this banner and save their summons for Anneliesis returning on November 8th. The current support banner lacks guarantees for specific premium heroes and offers poor odds unless heavily invested. If pulling, players should always have at least 300 summons prepared to secure the guaranteed selectable hero of their choice. The creator performs 300 summons, pulls Longbeau from dice, and chooses Fyrenzur from the selectable milestone.",
+ "topics": [
+  "banners",
+  "summons",
+  "hero review",
+  "Anneliesis"
+ ],
+ "heroes": [
+  {
+   "name": "Anneliesis",
+   "verdict": "Must-save priority",
+   "note": "Top-tier enabler for Aura teams who gains massive value across her inspirations (especially I2, I3, and I5); returning in a banner on November 8th.",
+   "known": true
+  },
+  {
+   "name": "Celestine",
+   "verdict": "Top-tier Ice solo support",
+   "note": "Provides extensive healing, Karmic Sin damage reduction, shields, Defense Up, and full debuff/control cleansing for Ice comps.",
+   "known": true
+  },
+  {
+   "name": "Sia",
+   "verdict": "Strong Necrosis support",
+   "note": "Features unique Parry/Repentance mechanics, full-board Attack Penalty II, and damage reduction.",
+   "known": true
+  },
+  {
+   "name": "Longbeau",
+   "verdict": "Great PvP and utility support",
+   "note": "Ice support utilizing Black and White Rat mechanics to provide heal-over-time, buff prohibition, and healing reduction.",
+   "known": true
+  },
+  {
+   "name": "Fyrenzur",
+   "verdict": "Versatile Fire support",
+   "note": "Provides full-board Attack Penalty II, Recharge Speed Penalty, team Dodge Up II, and counter/dodge mechanics.",
+   "known": true
+  },
+  {
+   "name": "Tallyn",
+   "verdict": "Skip from selectable milestone",
+   "note": "Lightning tank with crowd control and shields, but easily pulled naturally later when summoning for Dauntless/Lightning element banners.",
+   "known": true
+  },
+  {
+   "name": "Huldork",
+   "verdict": "Good niche AoE boss damage dealer",
+   "note": "Useful for specific multi-target and boss encounters like Mechatorque.",
+   "known": true
+  },
+  {
+   "name": "Journ",
+   "verdict": "Great niche boss support",
+   "note": "Excels in specific boss encounters by boosting team turn speed.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [],
+ "tips": [
+  "Skip the current support banner and save at least 2,000 summons / dice for Anneliesis returning on November 8th.",
+  "Never pull on a selectable banner unless you have at least 300 summons saved to guarantee the milestone reward.",
+  "Do not hard-chase premium targeted heroes like Celestine or Sia on targeted banners because there is no mechanism to guarantee which specific premium hero drops.",
+  "Do not pick a hero from the 300-summon selector if you plan to pull heavily on elemental banners of that same school later, as you will likely obtain them naturally."
+ ],
+ "season": "S9",
+ "server_scope": "mixed",
+ "value": "medium",
+ "id": "xoS9KUTB3Is",
+ "model": "gemini-3.8-flash",
+ "channel": "Suzi Plays",
+ "title": "NEW SEASON SUMMONS! 💥I Pulled But Should YOU!? 🔥 Dragonheir x Dragonstride",
+ "published": "2026-10-24T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=xoS9KUTB3Is",
+ "short": false,
+ "summarized": "2026-10-29T08:21Z"
+}

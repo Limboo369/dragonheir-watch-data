@@ -1,0 +1,97 @@
+{
+ "summary": "Gorax reviews the Season 9 Targeted Summon banner available across servers and performs a 1,000-dice summon session. He evaluates key support heroes including Celestine, Sia, Longbeau, Fyrenzur, Tallyn, and upcoming must-have hero Annalis. He advises players on budgeting dice effectively between current support banners and upcoming key banners. Unpicked milestone legendary selections convert into inventory hero selection boxes, allowing players to save choices for future meta shifts.",
+ "topics": [
+  "Summons",
+  "Targeted Summons",
+  "Hero Review",
+  "Banner Advice",
+  "Season 9"
+ ],
+ "heroes": [
+  {
+   "name": "Celestine",
+   "verdict": "Strong future Aura support",
+   "note": "Provides HP extension and strong defensive support, becoming especially potent in seasons where Frost pairs with Radiant.",
+   "known": true
+  },
+  {
+   "name": "Sia",
+   "verdict": "Solid PvP support",
+   "note": "Dispels debuffs, grants shields, applies Attack Penalty, and provides passive damage boost and damage reduction for allies.",
+   "known": true
+  },
+  {
+   "name": "Longbeau",
+   "verdict": "Good Toxin counter in PvP",
+   "note": "Ice support hero that redirects debuffs and control effects, acting as a strong counter against Toxin teams.",
+   "known": true
+  },
+  {
+   "name": "Fyrenzur",
+   "verdict": "Decent PvP support",
+   "note": "Fire support that grants Dodge Up to allies while inflicting Attack Penalty and Recharge Speed Penalty on enemies.",
+   "known": true
+  },
+  {
+   "name": "Annalis",
+   "verdict": "Must-have Aura support",
+   "note": "Upcoming limited banner hero that provides a essential boost for Aura teams.",
+   "known": false
+  },
+  {
+   "name": "Bionphray",
+   "verdict": "Skip",
+   "note": "Outclassed by newer Lightning tanks and supports in current content.",
+   "known": true
+  },
+  {
+   "name": "Tallyn",
+   "verdict": "Strong PvP tank",
+   "note": "Offers heavy control with Stun, grants ally shields, and inflicts Resistance Penalty.",
+   "known": true
+  },
+  {
+   "name": "Lucien",
+   "verdict": "Decent PvP hero",
+   "note": "Target enemy backline with highest ultimate energy to Freeze them and grant starting battle shields to allies.",
+   "known": true
+  },
+  {
+   "name": "Eurion",
+   "verdict": "Great early-game dungeon tank",
+   "note": "Provides Ally Protection, immortality mechanic, and Defense Up buffs.",
+   "known": true
+  },
+  {
+   "name": "Victor",
+   "verdict": "Valuable boss and dungeon utility",
+   "note": "Useful toolkit for managing enemy buffs and applying multiple debuffs.",
+   "known": true
+  },
+  {
+   "name": "Journ",
+   "verdict": "Core Continental Challenge hero",
+   "note": "Increases ultimate energy for allies while controlling and dispelling enemy ultimate energy.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [
+  "Season 9 targeted exclusive summon banners are made accessible regardless of server season."
+ ],
+ "tips": [
+  "If you reach 300 summons on a targeted banner but remain undecided, do not select a hero before the banner ends; the choice converts into a select box in your inventory to open later.",
+  "Budget your Heliolite Dice carefully on support banners to ensure you have enough resources (300 to 1000 dice) for upcoming high-priority heroes like Annalis."
+ ],
+ "season": "S9",
+ "server_scope": "mixed",
+ "value": "high",
+ "id": "p2wAxn2IAFQ",
+ "model": "gemini-3.5-flash",
+ "channel": "Gorax",
+ "title": "I Got Lucky Early… Then Wasted WAY Too Many Dice | Dragonheir x Dragonstride",
+ "published": "2026-10-24T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=p2wAxn2IAFQ",
+ "short": false,
+ "summarized": "2026-10-29T08:24Z"
+}

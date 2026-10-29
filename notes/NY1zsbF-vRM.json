@@ -1,0 +1,183 @@
+{
+ "summary": "This guide covers team compositions, gear setups, skill timings, and export codes for Week 3 of the Continental Challenge (Imperial Shadow Recast), requiring six separate teams. Detailed breakdowns are provided for Tamar using Poison/Toxin, Khrysos using Dauntless, Vinyara using Necrosis/Shadow, Twitch using Aura, and Vasska using Frost/Necrosis. The video highlights both premium high-investment rosters capable of hundreds of millions in damage and accessible free-to-play alternatives utilizing epic and rare units to easily achieve the 12 million S-rank damage threshold. Specific encounter mechanics, such as positioning Lothair behind Tamar and utilizing Fitz's debuff transfers against Vasska, are explained.",
+ "topics": [
+  "Continental Challenge",
+  "Imperial Shadow Recast",
+  "Boss Guides",
+  "Team Builds",
+  "Skill Timings"
+ ],
+ "heroes": [
+  {
+   "name": "Lothair",
+   "verdict": "Top DPS for Tamar",
+   "note": "Needs Enlightenment and Attack; jumping behind Tamar at 40 poison stacks prevents attack penalties.",
+   "known": true
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "Core damage dealer for Poison teams",
+   "note": "Built with high Enlightenment, Attack, and Accuracy; stays safely in position and resists stuns due to self-buffs.",
+   "known": true
+  },
+  {
+   "name": "Child of Chaos",
+   "verdict": "Top Poison support",
+   "note": "Switched to Poison element with Dragonbone Catalyst and Puppeteer set to boost team damage.",
+   "known": true
+  },
+  {
+   "name": "Sleight",
+   "verdict": "Core Poison DPS / debuffer",
+   "note": "Requires over 250 Resistance to survive Tamar's targeted damage while stacking Accuracy and offensive stats.",
+   "known": true
+  },
+  {
+   "name": "Sacredeia",
+   "verdict": "Essential Poison debuffer",
+   "note": "Carries Misty Conch artifact to apply Defense Penalty and benefits from defensive stats and Resistance.",
+   "known": true
+  },
+  {
+   "name": "Guinavivre",
+   "verdict": "Core Dauntless DPS for Khrysos",
+   "note": "Built for Crit Rate, Crit Damage, Attack, Attack Speed, and Resistance to avoid Khrysos's attack speed debuffs.",
+   "known": true
+  },
+  {
+   "name": "Fathomdown",
+   "verdict": "Excellent Dauntless support/DPS",
+   "note": "Can enable versatile F2P teams to deal over 100M damage when built with high Skill Haste, Hourglass, and Resistance.",
+   "known": true
+  },
+  {
+   "name": "Deverick",
+   "verdict": "Best epic tank for Vinyara",
+   "note": "Applies Attack Penalty and dispels Vinyara's defensive buffs to neutralize her 30% damage reduction and 60% Defense Up.",
+   "known": true
+  },
+  {
+   "name": "Saverio",
+   "verdict": "Top Necrosis DPS for Vinyara",
+   "note": "Built with high Enlightenment and Attack to leverage Shadow energy resets for rapid damage bursts.",
+   "known": true
+  },
+  {
+   "name": "Talethia",
+   "verdict": "Core Aura carry for Twitch",
+   "note": "Scales directly with HP percentage stats across off-pieces and runes along with standard Crit stats.",
+   "known": true
+  },
+  {
+   "name": "Solmo",
+   "verdict": "Top defensive Aura support",
+   "note": "Provides team-wide shields, healing, and Resistance sharing against Twitch's heavy debuffs.",
+   "known": true
+  },
+  {
+   "name": "Fitz",
+   "verdict": "Key rare tech hero for Vasska",
+   "note": "Transfers attack penalties from the entire team back onto himself with his ultimate, enabling Frost allies to deal full damage.",
+   "known": true
+  },
+  {
+   "name": "Voresh",
+   "verdict": "Essential Frost debuffer for Vasska",
+   "note": "Applies Buff Prohibition via Puppeteer set and Witch's Remains to lower the boss's damage output.",
+   "known": true
+  },
+  {
+   "name": "Torrin",
+   "verdict": "Core Necrosis healer for Vasska",
+   "note": "Grants Invisibility and groups enemies together; requires enough Skill Haste to align his ultimate within an 18-second rotation.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Continental Challenge - Tamar",
+   "heroes": [
+    "Lothair",
+    "Serpentemis",
+    "Sleight",
+    "Sacredeia",
+    "Child of Chaos"
+   ],
+   "note": "Full Poison team running an 18-second rotation; capable of 800M–1.8B damage depending on Inspiration levels."
+  },
+  {
+   "mode": "Continental Challenge - Khrysos",
+   "heroes": [
+    "Guinavivre",
+    "Nastjenka",
+    "Tharivol",
+    "Kurvida",
+    "Maashtur"
+   ],
+   "note": "High-end Dauntless composition built with Resistance on an 18-second rotation dealing 200M–500M damage."
+  },
+  {
+   "mode": "Continental Challenge - Khrysos / Vinyara (F2P)",
+   "heroes": [
+    "Fathomdown",
+    "Guinavivre",
+    "Nastjenka",
+    "Kurvida",
+    "Maashtur"
+   ],
+   "note": "Versatile Dauntless variant utilizing Fathomdown with high Skill Haste to easily deal 70M–100M+ damage."
+  },
+  {
+   "mode": "Continental Challenge - Vinyara",
+   "heroes": [
+    "Saverio",
+    "Aspalta",
+    "Sia",
+    "Astaion",
+    "Deverick"
+   ],
+   "note": "Shadow/Necrosis composition running on default timing, hitting over 200M damage with Deverick handling boss buffs."
+  },
+  {
+   "mode": "Continental Challenge - Twitch",
+   "heroes": [
+    "Talethia",
+    "Diantha",
+    "Shahla",
+    "Lincos",
+    "Solmo"
+   ],
+   "note": "HP-scaling Aura team on an 18-second cycle dealing 500M–700M damage with Solmo providing sustain."
+  },
+  {
+   "mode": "Continental Challenge - Vasska",
+   "heroes": [
+    "Vidimir",
+    "Rava",
+    "Voresh",
+    "Torrin",
+    "Fitz"
+   ],
+   "note": "Frost/Necrosis team dealing 240M damage using Fitz's debuff redirection and Torrin's grouping on an 18-second cycle."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Against Tamar, manually time Lothair to leap behind the boss right at 40 poison stacks so he permanently avoids Tamar's attack penalties.",
+  "For boss encounters with heavy debuffs like Khrysos and Tamar, build key units with 200+ Resistance or utilize the 'Stand United' talent to share Resistance.",
+  "Against Vinyara, ensure you bring a buff dispeller like Deverick to strip her 30% damage reduction and 60% defense buffs.",
+  "Against Vasska, rare hero Fitz can redirect all attack penalties from allies to himself, allowing rare and epic Frost units to deal massive damage.",
+  "Standardize team ultimate cooldowns around an 18-second skill rotation cycle to align with Continental Challenge boss ability windows."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "NY1zsbF-vRM",
+ "model": "gemini-3.8-flash",
+ "channel": "Gorax",
+ "title": "Imperial Shadow Recast Week 3 – My 6 Teams + Codes | Dragonheir x Dragonstride",
+ "published": "2026-10-25T14:01:52+00:00",
+ "url": "https://www.youtube.com/watch?v=NY1zsbF-vRM",
+ "short": false,
+ "summarized": "2026-10-29T08:22Z"
+}

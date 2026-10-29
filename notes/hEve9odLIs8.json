@@ -1,0 +1,67 @@
+{
+ "summary": "Skratch performs a massive summon session on the Season 9 banner targeting the new support heroes, eventually securing Sia and Longbeau. He strongly warns players against over-investing dice into this banner, as the legendary pool is heavily diluted with older vanilla heroes. Upon reaching the 300-summon milestone, Tallyn is highlighted as the premier pick among the selectable legendaries due to his crowd control and shielding prowess in PvP. Additionally, players are reminded to conserve resources for confirmed rerun banners, notably Anneliesis returning in November.",
+ "topics": [
+  "Targeted Summons",
+  "Season 9",
+  "Hero Impressions",
+  "Banner Advice"
+ ],
+ "heroes": [
+  {
+   "name": "Tallyn",
+   "verdict": "Top pick from selectable chest / OP in PvP",
+   "note": "A Lightning element tank who excels at providing frequent stuns and team-wide shields, making him extremely strong in PvP and Magi-chess.",
+   "known": true
+  },
+  {
+   "name": "Sia",
+   "verdict": "OP Necrosis support",
+   "note": "Provides team-wide damage boost, damage reduction, debuff cleansing, and unique Parry and Mercy absorption mechanics.",
+   "known": true
+  },
+  {
+   "name": "Longbeau",
+   "verdict": "Interesting Ice support",
+   "note": "Offers healing over time, negative effect cleansing, debuff reflection, and healing prohibition alongside defensive White Rat buffs.",
+   "known": true
+  },
+  {
+   "name": "Fyrenzur",
+   "verdict": "Niche Fire support",
+   "note": "Grants Dodge buffs to allies and triggers healing and counter-damage when attacks are successfully dodged.",
+   "known": true
+  },
+  {
+   "name": "Celestine",
+   "verdict": "Strong Ice support",
+   "note": "An Ice hero capable of storing taken Cold damage to heal allies and boosting ally maximum HP.",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "High-priority rerun to save for",
+   "note": "Confirmed to return on a rerun banner in November without an exclusive artifact.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [
+  "Introduction of specialized defensive supports in Season 9 utilizing Dodge-healing mechanics (Fyrenzur) and Parry damage-mitigation (Sia)."
+ ],
+ "tips": [
+  "Avoid going deep into the S9 exclusive support banner unless fully committed to reach higher pity milestones, as the pool is flooded with older legendaries.",
+  "If reaching the 300-pull Selectable Legendary Hero box and owning none of the options, pick Tallyn for high-impact PvP utility.",
+  "Save Heliolite Dice for confirmed high-value hero reruns such as Anneliesis in November."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "hEve9odLIs8",
+ "model": "gemini-3.8-flash",
+ "channel": "Skratch Gaming",
+ "title": "I WHALED OUT On The New Banner... Should You!? Dragonheir: Silent Gods x Dragonstride",
+ "published": "2026-10-24T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=hEve9odLIs8",
+ "short": false,
+ "summarized": "2026-10-29T08:29Z"
+}
