@@ -1,10 +1,10 @@
 {
- "built": "2026-10-29T08:41Z",
+ "built": "2026-10-29T08:50Z",
  "last_fetch": "2026-10-29T08:17Z",
  "counts": {
-  "summarized": 62,
+  "summarized": 63,
   "skipped_giveaway": 17,
-  "new": 501,
+  "new": 500,
   "baseline": 22,
   "retry": 2,
   "skipped_live": 1
@@ -30,8 +30,6 @@
   "quota_hit": 1793255001.7598484
  },
  "log_tail": [
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "… Gorax: Imperial Shadow Recast Week 3 – My 6 Teams + Codes | Dragonh",
   "… Skratch Gaming: USE THESE TEAMS! Temporal Vortex S9 Dragonheir: Silent Gods ",
   "… Suzi Plays: NEW SEASON SUMMONS! 💥I Pulled But Should YOU!? 🔥 Dragonheir ",
   "… Suzi Plays: 15,000 Wyrmarrow for Playing ANOTHER Gacha!? 💥 Start NOW! 🔥 ",
@@ -109,7 +107,9 @@
   "saved yblGYoVUm-M",
   "+ Neff Gaming: VORTEX IV Chinese Server - League Rankings! INSANE Damage Nu",
   "saved te7U8TxlWPM",
-  "+ Skratch Gaming: GET READY! My Plan For The New Banners & Teams In S9 Dragonh"
+  "+ Skratch Gaming: GET READY! My Plan For The New Banners & Teams In S9 Dragonh",
+  "saved JpiH9ZLa2BU",
+  "+ Skyasterix Gaming: 🔥 S9 FREE HERO! Amalfriede Review | Dragonheir: Silent Gods"
  ],
  "crontab": [],
  "channels": [

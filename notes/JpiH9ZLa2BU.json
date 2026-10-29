@@ -1,0 +1,46 @@
+{
+ "summary": "This video reviews the new Season 9 Poison element support hero, Amalfriede, obtainable from the season hero event. The creator examines her inspirations, passive, battle skill, and ultimate skill to evaluate her overall viability. Her passive can inflict Attack Penalty, Accuracy Down, Buff Prohibition, or Healing Prohibition, while her battle skill provides AoE Silence and a personal shield. Her ultimate is a single-target 5-hit attack that boosts her accuracy and passive trigger damage. Overall, the creator finds her kit quite limited, particularly due to her single-target ultimate, making her far less impressive than meta heroes like Calavera or Ardreth.",
+ "topics": [
+  "Hero Review",
+  "Season 9",
+  "Amalfriede",
+  "Skills",
+  "Inspirations"
+ ],
+ "heroes": [
+  {
+   "name": "Amalfriede",
+   "verdict": "Limited / Not that powerful",
+   "note": "A Poison support hero with random debuff application on passive and an AoE Silence battle skill, but held back by a single-target ultimate that limits her value compared to top-tier heroes.",
+   "known": true
+  },
+  {
+   "name": "Calavera",
+   "verdict": "Top tier mention",
+   "note": "Mentioned as an example of a top-tier game-changing hero that outclasses Amalfriede.",
+   "known": true
+  },
+  {
+   "name": "Ardreth",
+   "verdict": "Top tier mention",
+   "note": "Referenced as a benchmark top-tier seasonal hero.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [],
+ "tips": [
+  "If building Amalfriede, prioritize Skill Haste and Accuracy so she cycles her skills fast enough to reliably apply her debuffs and Silence."
+ ],
+ "season": "S9",
+ "server_scope": "mixed",
+ "value": "medium",
+ "id": "JpiH9ZLa2BU",
+ "model": "gemini-3.8-flash",
+ "channel": "Skyasterix Gaming",
+ "title": "🔥 S9 FREE HERO! Amalfriede Review | Dragonheir: Silent Gods",
+ "published": "2026-10-23T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=JpiH9ZLa2BU",
+ "short": false,
+ "summarized": "2026-10-29T08:50Z"
+}
