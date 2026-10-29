@@ -4,11 +4,11 @@
  "queue": {
   "summarized": 65,
   "skipped_giveaway": 17,
-  "new": 498,
+  "new": 499,
   "baseline": 22,
   "retry": 1,
   "skipped_live": 1,
   "failed": 1
  },
- "pushed": "2026-10-29T12:54Z"
+ "pushed": "2026-10-29T13:24Z"
 }
