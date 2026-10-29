@@ -1,10 +1,10 @@
 {
- "built": "2026-10-29T08:50Z",
- "last_fetch": "2026-10-29T08:17Z",
+ "built": "2026-10-29T09:19Z",
+ "last_fetch": "2026-10-29T09:18Z",
  "counts": {
-  "summarized": 63,
+  "summarized": 65,
   "skipped_giveaway": 17,
-  "new": 500,
+  "new": 498,
   "baseline": 22,
   "retry": 2,
   "skipped_live": 1
@@ -25,26 +25,11 @@
  ],
  "budget": {
   "day": "2026-10-29",
-  "seconds": 25265,
+  "seconds": 26563,
   "v2": 1,
   "quota_hit": 1793255001.7598484
  },
  "log_tail": [
-  "… Skratch Gaming: USE THESE TEAMS! Temporal Vortex S9 Dragonheir: Silent Gods ",
-  "… Suzi Plays: NEW SEASON SUMMONS! 💥I Pulled But Should YOU!? 🔥 Dragonheir ",
-  "… Suzi Plays: 15,000 Wyrmarrow for Playing ANOTHER Gacha!? 💥 Start NOW! 🔥 ",
-  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
-  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
-  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
-  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
-  "… Gorax: I Got Lucky Early… Then Wasted WAY Too Many Dice | Dragonhei",
-  "! NEW SEASON SUMMONS! 💥I Pulled But Should YOU!? 🔥 D: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
-  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
-  "… liveranov: INSANE Luck? 300 Targeted Summons for Longbeau, Fyrenzur & T",
-  "! I Got Lucky Early… Then Wasted WAY Too Many Dice |: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
-  "… Skratch Gaming: I WHALED OUT On The New Banner... Should You!? Dragonheir: S",
-  "! INSANE Luck? 300 Targeted Summons for Longbeau, Fy: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
-  "… OddOneGaming RPGs: ⛔ DO NOT SUMMON ⛔ Save Your Summons For Anneliesis In 2 Week",
   "! I WHALED OUT On The New Banner... Should You!? Dra: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
   "… Skratch Gaming: FREE REWARDS FOR EVERYONE! S9 Promo Code Dragonheir: Silent ",
   "! ⛔ DO NOT SUMMON ⛔ Save Your Summons For Anneliesis: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
@@ -109,7 +94,22 @@
   "saved te7U8TxlWPM",
   "+ Skratch Gaming: GET READY! My Plan For The New Banners & Teams In S9 Dragonh",
   "saved JpiH9ZLa2BU",
-  "+ Skyasterix Gaming: 🔥 S9 FREE HERO! Amalfriede Review | Dragonheir: Silent Gods"
+  "+ Skyasterix Gaming: 🔥 S9 FREE HERO! Amalfriede Review | Dragonheir: Silent Gods",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 63 videos, 107 heroes",
+  "== 2026-10-29 09:17",
+  "fetch done: 0 new transcripts, 0 not available yet",
+  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
+  "… liveranov: Season 9 NEW INFO: 2 Free Heroes, New Affinities & Selectabl… liveranov: Anneliesis Returns! Full Guide: Kit, Best Team & Build | Dra",
+  "",
+  "… Suzi Plays: Get YOUR Redeem Codes NOW! 💥 Plus S9 Overview Reaction 🔥 Dra",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "! Season 9 NEW INFO: 2 Free Heroes, New Affinities &: JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+  "saved -i_pyccY6L8 (unknown hero names: Quirro)",
+  "+ Suzi Plays: Get YOUR Redeem Codes NOW! 💥 Plus S9 Overview Reaction 🔥 Dra",
+  "saved EZe7SqG0EUE",
+  "+ liveranov: Anneliesis Returns! Full Guide: Kit, Best Team & Build | Dra"
  ],
  "crontab": [],
  "channels": [
@@ -117,55 +117,55 @@
    "name": "Skratch Gaming",
    "id": "UCoSkzr1pXpt3d0jIxsc6ufw",
    "enabled": true,
-   "checked": "2026-10-29T08:17Z"
+   "checked": "2026-10-29T09:18Z"
   },
   {
    "name": "Gorax",
    "id": "UCNas7BnuOIjDEzY1D53kb1w",
    "enabled": true,
-   "checked": "2026-10-29T08:17Z"
+   "checked": "2026-10-29T09:18Z"
   },
   {
    "name": "Neff Gaming",
    "id": "UCsxs6YhNd_B36RgUAjbpJ_A",
    "enabled": true,
-   "checked": "2026-10-29T08:17Z"
+   "checked": "2026-10-29T09:18Z"
   },
   {
    "name": "Volkin Dragonheir",
    "id": "UCfRpOh_ywVjzhh9fxHbreGw",
    "enabled": true,
-   "checked": "2026-10-29T08:17Z"
+   "checked": "2026-10-29T09:18Z"
   },
   {
    "name": "Fastidious Dragonheir",
    "id": "UC16mpj5wEemSZX-uTlHe9Ww",
    "enabled": true,
-   "checked": "2026-10-29T08:17Z"
+   "checked": "2026-10-29T09:18Z"
   },
   {
    "name": "OddOneGaming RPGs",
    "id": "UC1ivUEf_poI9_R2eVKa8wRQ",
    "enabled": true,
-   "checked": "2026-10-29T08:17Z"
+   "checked": "2026-10-29T09:18Z"
   },
   {
    "name": "Suzi Plays",
    "id": "UCyo1-TkunhGcK6khU1h8Ypw",
    "enabled": true,
-   "checked": "2026-10-29T08:17Z"
+   "checked": "2026-10-29T09:18Z"
   },
   {
    "name": "Skyasterix Gaming",
    "id": "UCr5Gb3910rK7QPmKMmdagsA",
    "enabled": true,
-   "checked": "2026-10-29T08:17Z"
+   "checked": "2026-10-29T09:18Z"
   },
   {
    "name": "liveranov",
    "id": "UCqCR7ofFHhWwXy3Hg00fqEw",
    "enabled": true,
-   "checked": "2026-10-29T08:17Z"
+   "checked": "2026-10-29T09:18Z"
   }
  ]
 }

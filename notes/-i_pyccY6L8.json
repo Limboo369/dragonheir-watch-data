@@ -1,0 +1,58 @@
+{
+ "summary": "This video previews the upcoming Season 9 content for Dragonheir: Silent Gods, titled The Undertow Approaches. Key updates include the new Duskport region, nine new heroes, and an elemental affinity shift pairing Ice/Radiance, Fire/Lightning, and Necrosis/Poison. A new permanent cross-server PvP mode called Glory Colosseum is introduced alongside free event heroes Amalfriede and Quirro. Additionally, new Mythic artifacts, equipment sets, and a Magichess update themed Realm of Strife are featured.",
+ "topics": [
+  "Season 9 preview",
+  "Glory Colosseum",
+  "Elemental Affinities",
+  "New Heroes",
+  "Magichess"
+ ],
+ "heroes": [
+  {
+   "name": "Sia",
+   "verdict": "Featured targeted summon hero",
+   "note": "Necrosis element hero available in targeted summons early in Season 9.",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "High-priority limited summon",
+   "note": "A limited hero arriving on November 8th worth saving summons to acquire.",
+   "known": true
+  },
+  {
+   "name": "Amalfriede",
+   "verdict": "Free Legendary hero",
+   "note": "Obtainable for free through the Season 9 Continental Challenge event.",
+   "known": true
+  },
+  {
+   "name": "Quirro",
+   "verdict": "Free Epic hero",
+   "note": "Obtainable for free by progressing through Fey Meander.",
+   "known": false
+  }
+ ],
+ "teams": [],
+ "meta_changes": [
+  "Elemental affinities reshuffled for Season 9 into Limpidity (Ice/Radiance), Firestorm (Fire/Lightning), and Necrotoxin (Necrosis/Poison).",
+  "Glory Colosseum introduced as a permanent cross-server 3v3 PvP mode with seasonal equipment cost caps and mode-specific shops.",
+  "Magichess updated with the Realm of Strife theme, adding 3 heroes, 1 new Bond, new treasures, and the Reversal talent."
+ ],
+ "tips": [
+  "Save at least 300 summons before pulling on banners unless chasing limited-time heroes like Anneliesis.",
+  "Participate in Continental Challenge and Fey Meander to earn free Legendary and Epic heroes.",
+  "Enter creator code suziplays in the Treasure Market when purchasing in-game packs."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "-i_pyccY6L8",
+ "model": "gemini-3.5-flash",
+ "channel": "Suzi Plays",
+ "title": "Get YOUR Redeem Codes NOW! 💥 Plus S9 Overview Reaction 🔥 Dragonheir x Dragonstride",
+ "published": "2026-10-23T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=-i_pyccY6L8",
+ "short": false,
+ "summarized": "2026-10-29T09:19Z"
+}

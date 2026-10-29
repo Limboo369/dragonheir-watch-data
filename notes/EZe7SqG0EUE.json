@@ -1,0 +1,64 @@
+{
+ "summary": "Anneliesis returns to all servers on November 8, serving as a versatile Legendary Radiance Aura hero who fits into almost any team. Her passive allows her to possess an ally placed one tile ahead, boosting their Max HP, damage, and ultimate energy before descending 5 seconds into battle. Her ultimate delivers full-spectrum control with a knock-up, 5-second stun, enemy buff purge, ally debuff cleanse, and team-wide healing. To maximize her performance, stack Max HP and Attack on gear and pair her with Aura heroes in the S9 Limpidity (Ice and Radiance) affinity.",
+ "topics": [
+  "Anneliesis",
+  "Hero Guide",
+  "Radiance",
+  "Aura",
+  "Limpidity",
+  "Build Guide"
+ ],
+ "heroes": [
+  {
+   "name": "Anneliesis",
+   "verdict": "Must-have versatile support and DPS",
+   "note": "Possesses an ally for immediate stat boosts, then descends to deliver heavy AOE control, purges, cleanses, and heals.",
+   "known": true
+  },
+  {
+   "name": "Acilia",
+   "verdict": "Top healer synergy",
+   "note": "Provides additional sustain alongside Anneliesis in Radiance and Ice team compositions.",
+   "known": true
+  },
+  {
+   "name": "Holfast",
+   "verdict": "Strong S9 Aura teammate",
+   "note": "A new S9 Radiance Aura hero who channels Aura energy to his school.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "General / PvP / Bosses",
+   "heroes": [
+    "Anneliesis",
+    "Acilia",
+    "Holfast"
+   ],
+   "note": "Build around Aura heroes in S9 Limpidity (Ice + Radiance) using Rally, Frost, or Ice Blast DPS."
+  }
+ ],
+ "meta_changes": [
+  "Anneliesis re-banner returns to all servers on November 8.",
+  "S9 Limpidity affinity pairs Ice and Radiance elements together."
+ ],
+ "tips": [
+  "Place Anneliesis exactly 1 tile behind an ally to trigger her passive possession at battle start.",
+  "Possess your tank or main DPS depending on the match-up, which works great against backline divers.",
+  "Stack Max HP and Attack on gear since her damage and skill scaling benefit from both stats.",
+  "Recommended gear sets include Swift Shadow, Forbidden Aegis, and Puppeteer's Inspiration.",
+  "Top artifacts for Anneliesis are Golden Antlers, Chest of Radiance, and Rift Hourglass."
+ ],
+ "season": "S9",
+ "server_scope": "mixed",
+ "value": "high",
+ "id": "EZe7SqG0EUE",
+ "model": "gemini-3.5-flash",
+ "channel": "liveranov",
+ "title": "Anneliesis Returns! Full Guide: Kit, Best Team & Build | Dragonheir: Silent Gods",
+ "published": "2026-10-23T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=EZe7SqG0EUE",
+ "short": false,
+ "summarized": "2026-10-29T09:19Z"
+}
