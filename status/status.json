@@ -1,38 +1,20 @@
 {
- "built": "2026-10-29T08:31Z",
+ "built": "2026-10-29T08:41Z",
  "last_fetch": "2026-10-29T08:17Z",
  "counts": {
-  "summarized": 57,
+  "summarized": 62,
   "skipped_giveaway": 17,
-  "retry": 5,
-  "new": 503,
+  "new": 501,
   "baseline": 22,
+  "retry": 2,
   "skipped_live": 1
  },
  "problems": [
-  {
-   "title": "FREE REWARDS FOR EVERYONE! S9 Promo Code Dragonheir: Silent Gods x Dragonstride",
-   "channel": "Skratch Gaming",
-   "status": "retry",
-   "error": ""
-  },
-  {
-   "title": "VORTEX IV Chinese Server - League Rankings! INSANE Damage Numbers | Dragonheir: Silent Gods",
-   "channel": "Neff Gaming",
-   "status": "retry",
-   "error": ""
-  },
   {
    "title": "🚨SEASON 9 Promo Code with GREAT REWARDS | Dragonheir: Silent Gods",
    "channel": "Skyasterix Gaming",
    "status": "retry",
    "error": "504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}"
-  },
-  {
-   "title": "INSANE Luck? 300 Targeted Summons for Longbeau, Fyrenzur & Tallyn (Season 9) | Dragonheir",
-   "channel": "liveranov",
-   "status": "retry",
-   "error": ""
   },
   {
    "title": "Season 9 NEW INFO: 2 Free Heroes, New Affinities & Selectable Banner! | Dragonheir: Silent Gods",
@@ -48,19 +30,6 @@
   "quota_hit": 1793255001.7598484
  },
  "log_tail": [
-  "! SEASON 9 IS HERE! 🔥 Targeted Summons Session & S8 : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
-  "saved Br4dlLPsv6A",
-  "+ Suzi Plays: What Does Day 1 with a Server Transfer Look Like? ✅ Full Pro",
-  "! Imperial Shadow Recast Week 3 – My 6 Teams + Codes: ReadTimeout: The read operation timed out",
-  "! USE THESE TEAMS! Temporal Vortex S9 Dragonheir: Si: ReadTimeout: The read operation timed out",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 49 videos, 96 heroes",
-  "== 2026-10-29 05:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "Gemini quota was full less than an hour ago, trying again next round",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 49 videos, 96 heroes",
-  "== 2026-10-29 06:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "… Gorax: Imperial Shadow Recast Week 3 – My 6 Teams + Codes | Dragonh",
   "… Skratch Gaming: USE THESE TEAMS! Temporal Vortex S9 Dragonheir: Silent Gods ",
@@ -127,7 +96,20 @@
   "! Season 9 NEW INFO: 2 Free Heroes, New Affinities &: JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
   "… Skratch Gaming: GET READY! My Plan For The New Banners & Teams In S9 Dragonh",
   "saved hEve9odLIs8",
-  "+ Skratch Gaming: I WHALED OUT On The New Banner... Should You!? Dragonheir: S"
+  "+ Skratch Gaming: I WHALED OUT On The New Banner... Should You!? Dragonheir: S",
+  "… Gorax: Annelisis Banner Date Confirmed + More S9 Content Revealed |",
+  "saved NYMTkuUmfVk",
+  "+ Skratch Gaming: FREE REWARDS FOR EVERYONE! S9 Promo Code Dragonheir: Silent ",
+  "  gemini-3.8-flash: 504, using gemini-3.5-flash",
+  "… Skyasterix Gaming: 🔥 S9 FREE HERO! Amalfriede Review | Dragonheir: Silent Gods",
+  "saved kzj_Y2nZfe0",
+  "+ liveranov: INSANE Luck? 300 Targeted Summons for Longbeau, Fyrenzur & T",
+  "saved _mr028hQasE",
+  "+ Gorax: Annelisis Banner Date Confirmed + More S9 Content Revealed |",
+  "saved yblGYoVUm-M",
+  "+ Neff Gaming: VORTEX IV Chinese Server - League Rankings! INSANE Damage Nu",
+  "saved te7U8TxlWPM",
+  "+ Skratch Gaming: GET READY! My Plan For The New Banners & Teams In S9 Dragonh"
  ],
  "crontab": [],
  "channels": [

@@ -1,0 +1,116 @@
+{
+ "summary": "This video examines top-ranking Temporal Vortex IV teams from the Chinese server ahead of Season 9 launch. The meta showcases Dauntless teams leading the leaderboards at 60B to 68B damage, with alternative viable archetypes including Ice Blast (40B-45B), Aura (42B), and new Corrosion comps (39B). Neff highlights key build differences on the Chinese server, including building Kurvida with Skill Haste rather than Attack Speed, and running Child of Chaos with the Puppeteer set at Inspiration 5. Detailed gear setups emphasize stacking 8% team damage boosting mythic gear up to 3 times and sharing attack stats across key DPS heroes.",
+ "topics": [
+  "Temporal Vortex IV",
+  "Dauntless",
+  "Ice Blast",
+  "Corrosion",
+  "Gear Builds",
+  "League Rankings"
+ ],
+ "heroes": [
+  {
+   "name": "Kurvida",
+   "verdict": "Top-tier Vortex debuffer",
+   "note": "Built with roughly 60 Skill Haste and high Attack on the Chinese server instead of the standard Attack Speed build.",
+   "known": true
+  },
+  {
+   "name": "Child of Chaos",
+   "verdict": "Key Vortex sustain support",
+   "note": "Built with the Puppeteer set at Inspiration 5, requiring 48 to 55 Skill Haste and healing/accuracy talents to sustain without defensive sets.",
+   "known": true
+  },
+  {
+   "name": "Nastjenka",
+   "verdict": "Top Dauntless DPS/buffer",
+   "note": "Excels when equipped to share Attack and boost team damage with Dragonflame gear rather than stacking pure Crit Damage.",
+   "known": true
+  },
+  {
+   "name": "Scaarr",
+   "verdict": "Great alternative to Maashtur",
+   "note": "Allows Dauntless teams to hit 61.5B+ damage by pairing Lightning and Fire affinities, viable even at Inspiration 0 Selva.",
+   "known": true
+  },
+  {
+   "name": "Ernesto",
+   "verdict": "Core Ice Blast shield/support",
+   "note": "Provides vital shields and Attack sharing for Ice Blast Vortex teams reaching 40B to 45B damage.",
+   "known": true
+  },
+  {
+   "name": "Rhyviel",
+   "verdict": "Promising new Corrosion DPS",
+   "note": "Newly released hero built for raw damage and equipped with damage-amplifying artifacts in high-ranking Corrosion setups.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Temporal Vortex IV",
+   "heroes": [
+    "Guinavivre",
+    "Kurvida",
+    "Nastjenka",
+    "Maashtur",
+    "Selva"
+   ],
+   "note": "Top-ranking Dauntless Lightning comp hitting up to 68B damage; paired with Poison supports like Child of Chaos, Serpentemis, Sleight, Twitch, and Sacredeia."
+  },
+  {
+   "mode": "Temporal Vortex IV",
+   "heroes": [
+    "Guinavivre",
+    "Kurvida",
+    "Nastjenka",
+    "Scaarr",
+    "Selva"
+   ],
+   "note": "Fire/Lightning affinity Dauntless alternative hitting over 61B damage, ideal for players lacking Maashtur."
+  },
+  {
+   "mode": "Temporal Vortex IV",
+   "heroes": [
+    "Ernesto",
+    "Beldelle",
+    "Shinnah",
+    "Anselmo",
+    "Celestine"
+   ],
+   "note": "Ice Blast Vortex setup achieving 40B to 45B damage with Ernesto providing shields and Anselmo providing defense-scaled healing."
+  },
+  {
+   "mode": "Temporal Vortex IV",
+   "heroes": [
+    "Rhyviel",
+    "Twitch",
+    "Szecedith",
+    "Reytah",
+    "Solmo"
+   ],
+   "note": "Corrosion lineup achieving around 39B damage using Rhyviel as a primary DPS."
+  }
+ ],
+ "meta_changes": [
+  "Dauntless remains dominant in Vortex with scores approaching 70B, but Ice Blast (40B-45B), Aura (42B), and Corrosion (39B) are proven viable options on advanced servers.",
+  "Dragonflame 8% team damage boosting mythic armor stacks up to 3 times across separate friendly heroes for a maximum 24% damage boost.",
+  "Realm of the Fallen gear rotates out in upcoming seasonal transitions, requiring players to plan mythic gear exchanges."
+ ],
+ "tips": [
+  "When building Child of Chaos with the Puppeteer set, ensure 48 to 55 Skill Haste and select healing/accuracy talents rather than resistance-ignoring talents.",
+  "Stack the 8% team damage dragon armor piece across up to three heroes to gain a cumulative 24% total team damage increase.",
+  "Consider testing Skill Haste builds on Kurvida rather than pure Attack Speed to ensure maximum uptime on Defense Down and team utility."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "yblGYoVUm-M",
+ "model": "gemini-3.8-flash",
+ "channel": "Neff Gaming",
+ "title": "VORTEX IV Chinese Server - League Rankings! INSANE Damage Numbers | Dragonheir: Silent Gods",
+ "published": "2026-10-23T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=yblGYoVUm-M",
+ "short": false,
+ "summarized": "2026-10-29T08:39Z"
+}

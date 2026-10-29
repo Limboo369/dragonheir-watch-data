@@ -1,0 +1,48 @@
+{
+ "summary": "Season 9 'The Undertow Approaches' introduces the Duskport region, new boss Invertipolis Sentinel, and new heroes including Sia, Syonis, Holfast, Rhyviel, and Celestine. The limited Aura hero Anneliesis has a confirmed banner release date of November 8th, accessible to both Season 9 and Season 1 servers. The Account Valuation event returns for new accounts, offering up to 15,000 Wyrmarrow for submitting account screenshots within 14 days. Additional additions include a server-wide three-team PvP arena, new exclusive artifacts, shop expansions, and upcoming seasonal events.",
+ "topics": [
+  "banners",
+  "S9 preview",
+  "Anneliesis",
+  "Account Valuation",
+  "events",
+  "Magichess"
+ ],
+ "heroes": [
+  {
+   "name": "Anneliesis",
+   "verdict": "Must-save target",
+   "note": "Limited Aura hero confirmed to arrive on banner on November 8th for both Season 9 and Season 1 servers.",
+   "known": true
+  },
+  {
+   "name": "Auster",
+   "verdict": "Great starter legendary",
+   "note": "Recommended free legendary hero to pick up for building an early Frost team.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [
+  "New progression-based server-wide three-team PvP arena mode added.",
+  "Magichess enters Realm of Strife season featuring three new heroes and the Conqueror bond.",
+  "Account Valuation web event cap increased up to 15,000 Wyrmarrow for new accounts within 14 days.",
+  "Four new exclusive artifacts added to the Artifact Shop."
+ ],
+ "tips": [
+  "Save your Heliolite Dice for Anneliesis arriving on November 8th.",
+  "Prepare summons using the banner roadmap: Support banner -> Shadow heroes banner -> Aura banner -> Corrosion banner -> Option Summons 1 & 2 -> Wish Summons.",
+  "New accounts should upload screenshots to the Account Valuation event within the first 14 days of creation to receive up to 15,000 Wyrmarrow."
+ ],
+ "season": "S9",
+ "server_scope": "mixed",
+ "value": "medium",
+ "id": "_mr028hQasE",
+ "model": "gemini-3.8-flash",
+ "channel": "Gorax",
+ "title": "Annelisis Banner Date Confirmed + More S9 Content Revealed | Dragonheir x Dragonstride",
+ "published": "2026-10-23T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=_mr028hQasE",
+ "short": false,
+ "summarized": "2026-10-29T08:37Z"
+}

@@ -1,0 +1,79 @@
+{
+ "summary": "In this Season 9 video, liveranov completes 300 pulls on the Targeted Summons banner featuring Longbeau, Fyrenzur, and Tallyn. He successfully pulls six legendaries: Longbeau, Huldork, Victor, Vinyara, Tamar, and the new Season 9 ice support hero Celestine. After reaching the 300-summon milestone, he asks viewers to help him choose between an inspiration copy of Longbeau, Fyrenzur for dodge support, or Tallyn for shields and stuns.",
+ "topics": [
+  "targeted summons",
+  "season 9",
+  "summons",
+  "Longbeau",
+  "Fyrenzur",
+  "Tallyn"
+ ],
+ "heroes": [
+  {
+   "name": "Longbeau",
+   "verdict": "Featured banner option",
+   "note": "Ice support whose rats shield the team, cleanse debuffs, and shut down enemy healing and buffs.",
+   "known": true
+  },
+  {
+   "name": "Fyrenzur",
+   "verdict": "Featured banner option",
+   "note": "Fire support specialized in dodge support.",
+   "known": true
+  },
+  {
+   "name": "Tallyn",
+   "verdict": "Featured banner option",
+   "note": "Lightning support specialized in shields and stuns.",
+   "known": true
+  },
+  {
+   "name": "Celestine",
+   "verdict": "New S9 legendary pull",
+   "note": "Ice support who converts damage taken into team healing and cleanses, shields, and buffs Defense Up with her ultimate.",
+   "known": true
+  },
+  {
+   "name": "Huldork",
+   "verdict": "Legendary pull",
+   "note": "Pulled as a off-banner legendary during 300 targeted summons.",
+   "known": true
+  },
+  {
+   "name": "Victor",
+   "verdict": "Legendary pull",
+   "note": "Pulled as an off-banner legendary during 300 targeted summons.",
+   "known": true
+  },
+  {
+   "name": "Vinyara",
+   "verdict": "Legendary pull",
+   "note": "Pulled as an off-banner legendary during 300 targeted summons.",
+   "known": true
+  },
+  {
+   "name": "Tamar",
+   "verdict": "Legendary pull",
+   "note": "Pulled as an off-banner legendary during 300 targeted summons.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [
+  "Season 9 introduces a Targeted Summons banner allowing players to select 1 featured legendary hero (Longbeau, Fyrenzur, or Tallyn) after 300 summons."
+ ],
+ "tips": [
+  "Reaching 300 pulls on the Targeted Summons banner awards a free selector between Longbeau, Fyrenzur, and Tallyn."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "low",
+ "id": "kzj_Y2nZfe0",
+ "model": "gemini-3.5-flash",
+ "channel": "liveranov",
+ "title": "INSANE Luck? 300 Targeted Summons for Longbeau, Fyrenzur & Tallyn (Season 9) | Dragonheir",
+ "published": "2026-10-24T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=kzj_Y2nZfe0",
+ "short": false,
+ "summarized": "2026-10-29T08:35Z"
+}

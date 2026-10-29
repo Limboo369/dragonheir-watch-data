@@ -1,0 +1,69 @@
+{
+ "summary": "Preparing for the transition into Season 9, Skratch outlines his plan for the Cross-Boundary Storage gear carryover and summon banner prioritization. He warns players about the high resource risk on the upcoming Support banner and shares his focus on building Aura and Toxin/Corrosion teams for Temporal Vortex. He reviews which mythic gear pieces to carry over, noting regrets about not securing elemental affinity sets like Arcane Eye's Requiem ahead of time. In the Temporal Corridor shop, he aims to push Maashtur to Inspiration 3 and Serpentemis to Inspiration 5.",
+ "topics": [
+  "Season 9 Preparation",
+  "Cross-Boundary Storage",
+  "Banners",
+  "Gear Sets",
+  "Temporal Corridor"
+ ],
+ "heroes": [
+  {
+   "name": "Maashtur",
+   "verdict": "Priority shop purchase",
+   "note": "Aims to buy copies from the Temporal Corridor exchange to reach Inspiration 3.",
+   "known": true
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "Core Toxin hero",
+   "note": "Plans to invest in Temporal Corridor copies to reach Inspiration 5 for the Toxin team.",
+   "known": true
+  },
+  {
+   "name": "Irmoush",
+   "verdict": "Strong support consideration",
+   "note": "Would like to acquire him from the Temporal Corridor shop if currency permits.",
+   "known": true
+  },
+  {
+   "name": "Talethia",
+   "verdict": "Top Aura priority",
+   "note": "Bringing dedicated gear pieces into S9 for her, prioritizing Aura over Dauntless archetypes.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Temporal Vortex",
+   "heroes": [
+    "Talethia",
+    "Serpentemis",
+    "Maashtur"
+   ],
+   "note": "Skratch's plan focuses on running dedicated Aura and Toxin/Corrosion team archetypes as main priorities throughout Season 9."
+  }
+ ],
+ "meta_changes": [
+  "Derivative damage sets like Death Record and Curse of the Fallen are unavailable in Season 9, directly nerfing derivative damage dealers.",
+  "New Season 9 gear sets including Dragonflame Scorch and Might of the Inferno favor secondary activators and same-school derivative damage setups.",
+  "New Aura exclusive damage dealers arriving in Season 9 are expected to overshadow Dauntless team viability in competitive rankings."
+ ],
+ "tips": [
+  "Ensure you lock in your chosen gear pieces in the Cross-Boundary Storage before the season reset maintenance.",
+  "Be cautious on the opening Support banner, as chasing exclusive supports without enough resources can drain dice reserves without guarantee.",
+  "Prioritize carrying over elemental affinity sets (such as Arcane Eye's Requiem) when available, as they offer massive unconditional damage boosts to mono-element comps.",
+  "Focus your transferred gear on your single best team or split 3 pieces to main DPS and 1 to secondary rather than spreading across too many archetypes."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "te7U8TxlWPM",
+ "model": "gemini-3.8-flash",
+ "channel": "Skratch Gaming",
+ "title": "GET READY! My Plan For The New Banners & Teams In S9 Dragonheir: Silent Gods x Dragonstride",
+ "published": "2026-10-23T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=te7U8TxlWPM",
+ "short": false,
+ "summarized": "2026-10-29T08:40Z"
+}
