@@ -1,15 +1,21 @@
 {
- "built": "2026-10-29T00:16Z",
- "last_fetch": "2026-10-28T23:17Z",
+ "built": "2026-10-29T00:25Z",
+ "last_fetch": "2026-10-29T00:18Z",
  "counts": {
-  "summarized": 40,
+  "summarized": 41,
   "skipped_giveaway": 17,
-  "new": 518,
-  "retry": 7,
+  "retry": 12,
+  "new": 512,
   "baseline": 22,
   "skipped_live": 1
  },
  "problems": [
+  {
+   "title": "USE THESE TEAMS! Temporal Vortex S9 Dragonheir: Silent Gods x Dragonstride",
+   "channel": "Skratch Gaming",
+   "status": "retry",
+   "error": ""
+  },
   {
    "title": "CN Meta Watch: Continental Challenge Teams You Should Prepare For | Dragonheir x Dragonstride",
    "channel": "Gorax",
@@ -35,6 +41,12 @@
    "error": ""
   },
   {
+   "title": "NEW SEASON SUMMONS! 💥I Pulled But Should YOU!? 🔥 Dragonheir x Dragonstride",
+   "channel": "Suzi Plays",
+   "status": "retry",
+   "error": ""
+  },
+  {
    "title": "🚨SEASON 9 Promo Code with GREAT REWARDS | Dragonheir: Silent Gods",
    "channel": "Skyasterix Gaming",
    "status": "retry",
@@ -51,53 +63,33 @@
    "channel": "liveranov",
    "status": "retry",
    "error": ""
+  },
+  {
+   "title": "These Changes Got My Massive Gains In The Vortex! Dragonheir: Silent Gods x Dragonstride",
+   "channel": "Skratch Gaming",
+   "status": "retry",
+   "error": ""
+  },
+  {
+   "title": "VORTEX II LVL 79 🔥 ICEBLAST + TOXIN Team Setups! | Dragonheir: Silent Gods",
+   "channel": "Neff Gaming",
+   "status": "retry",
+   "error": ""
+  },
+  {
+   "title": "GET MYTHICAL GEAR On Day 6 With This Team!! Grave Of Venom Guide Dragonheir x Dragonstride",
+   "channel": "Skratch Gaming",
+   "status": "retry",
+   "error": ""
   }
  ],
  "budget": {
-  "day": "2026-10-28",
-  "seconds": 26619,
+  "day": "2026-10-29",
+  "seconds": 1737,
   "v2": 1,
-  "quota_hit": 1793186283.6870267
+  "quota_hit": 1793233547.7372773
  },
  "log_tail": [
-  "… liveranov: Trick or Treat! 🎃 Comment a Prank, Get 300 Wyrmarrow | Drago",
-  "… liveranov: s Celestine Worth It? Only Until Oct 28 ❄️ Season 9 Targeted",
-  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
-  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
-  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
-  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
-  "! s Celestine Worth It? Only Until Oct 28 ❄️ Season : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
-  "saved AVZs5-x49BA",
-  "+ liveranov: Trick or Treat! 🎃 Comment a Prank, Get 300 Wyrmarrow | Drago",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 39 videos, 90 heroes",
-  "/bin/bash: line 1: /root/ytwatch/run.sh: Permission denied",
-  "mv: cannot stat '.backlog.json.new': No such file or directory",
-  "== 2026-10-28 13:18",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "… liveranov: s Celestine Worth It? Only Until Oct 28 ❄️ Season 9 Targeted",
-  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
-  "saved JbVjivnfsI0",
-  "+ liveranov: s Celestine Worth It? Only Until Oct 28 ❄️ Season 9 Targeted",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 40 videos, 90 heroes",
-  "== 2026-10-28 14:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (443 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 40 videos, 90 heroes",
-  "== 2026-10-28 15:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (443 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 40 videos, 90 heroes",
-  "== 2026-10-28 16:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (443 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 40 videos, 90 heroes",
-  "== 2026-10-28 17:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "daily video budget used (443 min), waiting for tomorrow",
   "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 40 videos, 90 heroes",
   "== 2026-10-28 18:17",
@@ -139,7 +131,45 @@
   "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "daily video budget used (443 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 40 videos, 90 heroes"
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 40 videos, 90 heroes",
+  "== 2026-10-29 00:18",
+  "fetch done: 0 new transcripts, 0 not available yet",
+  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
+  "… Skratch Gaming: I RANKED All The Schools Of Damage In Dragonheir: Silent God",
+  "… Skratch Gaming: GET MYTHICAL GEAR On Day 6 With This Team!! Grave Of Venom G… Neff Gaming: VORTEX II LVL 79 🔥 ICEBLAST + TOXIN Team Setups! | Dragonhei",
+  "",
+  "… Skratch Gaming: These Changes Got My Massive Gains In The Vortex! Dragonheir",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
+  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
+  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
+  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
+  "… Gorax: CN Meta Watch: Continental Challenge Teams You Should Prepar",
+  "! GET MYTHICAL GEAR On Day 6 With This Team!! Grave : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "… OddOneGaming RPGs: 💥 Day 1 EASY Clear 💥 My 1 Team For All 3 Grave Dungeons Stag",
+  "… liveranov: Community Giveaway  October (Round 2) | Entry OPEN",
+  "! CN Meta Watch: Continental Challenge Teams You Sho: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "! VORTEX II LVL 79 🔥 ICEBLAST + TOXIN Team Setups! |: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "… Gorax: Imperial Shadow Recast Week 3 – My 6 Teams + Codes | Dragonh",
+  "… Skratch Gaming: USE THESE TEAMS! Temporal Vortex S9 Dragonheir: Silent Gods ",
+  "! 💥 Day 1 EASY Clear 💥 My 1 Team For All 3 Grave Dun: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "! Community Giveaway  October (Round 2) | Entry OPEN: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "… Suzi Plays: What Does Day 1 with a Server Transfer Look Like? ✅ Full Pro",
+  "! Imperial Shadow Recast Week 3 – My 6 Teams + Codes: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "… liveranov: Is Sia Worth It? Only Until Oct 28 💀 Season 9 Targeted Summo",
+  "! USE THESE TEAMS! Temporal Vortex S9 Dragonheir: Si: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "… Suzi Plays: NEW SEASON SUMMONS! 💥I Pulled But Should YOU!? 🔥 Dragonheir ",
+  "! What Does Day 1 with a Server Transfer Look Like? : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "! Is Sia Worth It? Only Until Oct 28 💀 Season 9 Targ: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "! NEW SEASON SUMMONS! 💥I Pulled But Should YOU!? 🔥 D: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "saved V2r59itUDMA",
+  "+ Skratch Gaming: I RANKED All The Schools Of Damage In Dragonheir: Silent God",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
+  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
+  "! These Changes Got My Massive Gains In The Vortex! : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google."
  ],
  "crontab": [],
  "channels": [
@@ -147,55 +177,55 @@
    "name": "Skratch Gaming",
    "id": "UCoSkzr1pXpt3d0jIxsc6ufw",
    "enabled": true,
-   "checked": "2026-10-28T23:17Z"
+   "checked": "2026-10-29T00:18Z"
   },
   {
    "name": "Gorax",
    "id": "UCNas7BnuOIjDEzY1D53kb1w",
    "enabled": true,
-   "checked": "2026-10-28T23:17Z"
+   "checked": "2026-10-29T00:18Z"
   },
   {
    "name": "Neff Gaming",
    "id": "UCsxs6YhNd_B36RgUAjbpJ_A",
    "enabled": true,
-   "checked": "2026-10-28T23:17Z"
+   "checked": "2026-10-29T00:18Z"
   },
   {
    "name": "Volkin Dragonheir",
    "id": "UCfRpOh_ywVjzhh9fxHbreGw",
    "enabled": true,
-   "checked": "2026-10-28T23:17Z"
+   "checked": "2026-10-29T00:18Z"
   },
   {
    "name": "Fastidious Dragonheir",
    "id": "UC16mpj5wEemSZX-uTlHe9Ww",
    "enabled": true,
-   "checked": "2026-10-28T23:17Z"
+   "checked": "2026-10-29T00:18Z"
   },
   {
    "name": "OddOneGaming RPGs",
    "id": "UC1ivUEf_poI9_R2eVKa8wRQ",
    "enabled": true,
-   "checked": "2026-10-28T23:17Z"
+   "checked": "2026-10-29T00:18Z"
   },
   {
    "name": "Suzi Plays",
    "id": "UCyo1-TkunhGcK6khU1h8Ypw",
    "enabled": true,
-   "checked": "2026-10-28T23:17Z"
+   "checked": "2026-10-29T00:18Z"
   },
   {
    "name": "Skyasterix Gaming",
    "id": "UCr5Gb3910rK7QPmKMmdagsA",
    "enabled": true,
-   "checked": "2026-10-28T23:17Z"
+   "checked": "2026-10-29T00:18Z"
   },
   {
    "name": "liveranov",
    "id": "UCqCR7ofFHhWwXy3Hg00fqEw",
    "enabled": true,
-   "checked": "2026-10-28T23:17Z"
+   "checked": "2026-10-29T00:18Z"
   }
  ]
 }

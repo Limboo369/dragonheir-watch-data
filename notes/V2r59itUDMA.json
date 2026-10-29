@@ -1,0 +1,124 @@
+{
+ "summary": "Skratch ranks all 12 damage schools in Dragonheir: Silent Gods based on their overall account impact, progression power, PvP viability, and endgame boss performance. Aura and Dauntless take top spots alongside Ice Blast and Toxin, while Thunderbolt and Frost land at the bottom. The video highlights how recent exclusive additions like Serpentemis and Monelisse transformed Toxin and Rally into powerhouse teams. Players are advised to focus on lower-cost, high-value schools like Aura and Toxin over RNG-heavy or stat-hungry setups like Wild and Thunderbolt.",
+ "topics": [
+  "tier list",
+  "schools of damage",
+  "team building",
+  "endgame meta"
+ ],
+ "heroes": [
+  {
+   "name": "Anneliesis",
+   "verdict": "S Tier Core",
+   "note": "One of two crucial exclusive enablers that make Aura the strongest overall school in the game.",
+   "known": true
+  },
+  {
+   "name": "Talethia",
+   "verdict": "S Tier Core",
+   "note": "Pairs with Anneliesis to enable top-tier Aura performance across all game modes.",
+   "known": true
+  },
+  {
+   "name": "Amalfriede",
+   "verdict": "Bench Unit",
+   "note": "Currently underperforming and benched in optimal Aura team compositions.",
+   "known": true
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "S Tier Enabler",
+   "note": "Massively revitalizes Toxin teams with exceptional AoE damage and fast dungeon clearing.",
+   "known": true
+  },
+  {
+   "name": "Lothair",
+   "verdict": "A Tier Toxin DPS",
+   "note": "Great Toxin damage dealer, though no longer strictly necessary with Serpentemis available.",
+   "known": true
+  },
+  {
+   "name": "Durem",
+   "verdict": "High Value Burn Core",
+   "note": "Easy to inspire to I5, making Burn teams extremely accessible and strong without requiring Exclusives.",
+   "known": true
+  },
+  {
+   "name": "Aschetius",
+   "verdict": "S Tier Wave Clearer",
+   "note": "Exclusive Burn hero capable of one-shotting dungeon waves, though Durem offers a cheaper alternative.",
+   "known": true
+  },
+  {
+   "name": "Monelisse",
+   "verdict": "Top Rally Enabler",
+   "note": "Elevates Rally teams significantly in boss content and Crown Contest.",
+   "known": true
+  },
+  {
+   "name": "Gladys",
+   "verdict": "Key Rally Hero",
+   "note": "Works alongside Monelisse as an essential core unit for high-damage Rally lineups.",
+   "known": true
+  },
+  {
+   "name": "Flora",
+   "verdict": "RNG Dependent DPS",
+   "note": "Heavily reliant on high dice rolls to deal top-end damage in Temporal Vortex.",
+   "known": true
+  },
+  {
+   "name": "Perkunte",
+   "verdict": "Underperforming Favorite",
+   "note": "Visually appealing hero, but Thunderbolt teams suffer from high stat demands and weak endgame scaling.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "General / Temporal Vortex / Speedrun",
+   "heroes": [
+    "Anneliesis",
+    "Talethia"
+   ],
+   "note": "Aura team dominates almost all content and requires fewer exclusives than Dauntless."
+  },
+  {
+   "mode": "Crown Contest / Boss Content",
+   "heroes": [
+    "Monelisse",
+    "Gladys"
+   ],
+   "note": "Rally team provides massive boss nuke damage and excellent single-target performance."
+  },
+  {
+   "mode": "Speedrunning / PvP / Bosses",
+   "heroes": [
+    "Serpentemis",
+    "Lothair"
+   ],
+   "note": "Toxin team delivers elite AoE and fast farming capabilities."
+  }
+ ],
+ "meta_changes": [
+  "Aura is ranked as the #1 overall school due to high efficiency across all content and low exclusive requirements.",
+  "Toxin and Rally gained massive power boosts from new seasonal exclusives Serpentemis and Monelisse.",
+  "Thunderbolt remains the worst school in the game due to extreme stat requirements and lack of endgame performance."
+ ],
+ "tips": [
+  "Prioritize building Aura and Toxin teams for high return on investment with fewer high-inspiration requirements.",
+  "Inspire Durem to I5 to run a budget-friendly, highly competitive Burn team.",
+  "Avoid heavy investment in Wild and Thunderbolt teams if your focus is reliable endgame bossing or speedruns."
+ ],
+ "season": "mixed",
+ "server_scope": "mixed",
+ "value": "high",
+ "id": "V2r59itUDMA",
+ "model": "gemini-3.5-flash",
+ "channel": "Skratch Gaming",
+ "title": "I RANKED All The Schools Of Damage In Dragonheir: Silent Gods x Dragonstride",
+ "published": "2026-08-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=V2r59itUDMA",
+ "short": false,
+ "summarized": "2026-10-29T00:21Z"
+}
