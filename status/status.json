@@ -1,21 +1,15 @@
 {
- "built": "2026-10-29T06:20Z",
+ "built": "2026-10-29T06:25Z",
  "last_fetch": "2026-10-29T06:18Z",
  "counts": {
-  "summarized": 50,
+  "summarized": 52,
   "skipped_giveaway": 17,
-  "retry": 12,
+  "retry": 10,
   "new": 503,
   "baseline": 22,
   "skipped_live": 1
  },
  "problems": [
-  {
-   "title": "USE THESE TEAMS! Temporal Vortex S9 Dragonheir: Silent Gods x Dragonstride",
-   "channel": "Skratch Gaming",
-   "status": "retry",
-   "error": "The read operation timed out"
-  },
   {
    "title": "I WHALED OUT On The New Banner... Should You!? Dragonheir: Silent Gods x Dragonstride",
    "channel": "Skratch Gaming",
@@ -53,12 +47,6 @@
    "error": ""
   },
   {
-   "title": "15,000 Wyrmarrow for Playing ANOTHER Gacha!? 💥 Start NOW! 🔥 Dragonheir x Dragonstride",
-   "channel": "Suzi Plays",
-   "status": "retry",
-   "error": ""
-  },
-  {
    "title": "NEW SEASON SUMMONS! 💥I Pulled But Should YOU!? 🔥 Dragonheir x Dragonstride",
    "channel": "Suzi Plays",
    "status": "retry",
@@ -85,19 +73,11 @@
  ],
  "budget": {
   "day": "2026-10-29",
-  "seconds": 18028,
+  "seconds": 16828,
   "v2": 1,
-  "quota_hit": 1793254737.3441155
+  "quota_hit": 1793255001.7598484
  },
  "log_tail": [
-  "+ liveranov: Community Giveaway  October (Round 2) | Entry OPEN",
-  "saved 1yIYhy_Ce_w",
-  "+ Gorax: CN Meta Watch: Continental Challenge Teams You Should Prepar",
-  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
-  "! Imperial Shadow Recast Week 3 – My 6 Teams + Codes: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 47 videos, 96 heroes",
-  "== 2026-10-29 03:18",
-  "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "Gemini quota was full less than an hour ago, trying again next round",
   "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 47 videos, 96 heroes",
@@ -169,7 +149,15 @@
   "… Neff Gaming: VORTEX IV Chinese Server - League Rankings! INSANE Damage Nu",
   "+ Neff Gaming: SEASON 9 IS HERE! 🔥 Targeted Summons Session & S8 Recap | Dr",
   "! Season 9 NEW INFO: 2 Free Heroes, New Affinities &: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
-  "! VORTEX IV Chinese Server - League Rankings! INSANE: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google."
+  "! VORTEX IV Chinese Server - League Rankings! INSANE: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
+  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
+  "saved scDahdyomBc",
+  "+ Suzi Plays: 15,000 Wyrmarrow for Playing ANOTHER Gacha!? 💥 Start NOW! 🔥 ",
+  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
+  "! Imperial Shadow Recast Week 3 – My 6 Teams + Codes: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "saved MzK7B1nM5ys",
+  "+ Skratch Gaming: USE THESE TEAMS! Temporal Vortex S9 Dragonheir: Silent Gods "
  ],
  "crontab": [],
  "channels": [

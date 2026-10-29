@@ -1,0 +1,178 @@
+{
+ "summary": "Dragonheir launched an Account Appraisal event allowing new and returning players to receive up to 15,000 Wyrmarrow by submitting gallery screenshots from other strategy RPGs. New players should create their in-game character on a server before submitting appraisal details to ensure rewards link properly. For hero prioritization entering Season 9, Aura and Toxin remain top damage schools, with Talethia and Serpentemis serving as essential carries. Rally and Burn are also strong AoE alternatives, featuring standout performances from Monelisse and Durem without requiring expensive premium units.",
+ "topics": [
+  "account appraisal",
+  "promo codes",
+  "Aura",
+  "Toxin",
+  "Burn",
+  "Rally",
+  "hero recommendations"
+ ],
+ "heroes": [
+  {
+   "name": "Talethia",
+   "verdict": "top priority carry",
+   "note": "The number one damage dealer to prioritize in Aura teams; acquire as many copies as possible.",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "high priority limited unit",
+   "note": "A powerful limited-time Aura core hero arriving on banner who provides strong crowd control and state manipulation.",
+   "known": true
+  },
+  {
+   "name": "Solmo",
+   "verdict": "best Aura support",
+   "note": "Outperforms legendary supports for Aura teams by providing buffs, shields, and debuff cleansing.",
+   "known": true
+  },
+  {
+   "name": "Diantha",
+   "verdict": "core Aura member",
+   "note": "Key unit to pair alongside Talethia for building a premier Aura core.",
+   "known": true
+  },
+  {
+   "name": "Aemonleyda",
+   "verdict": "skip",
+   "note": "Not worth pursuing unless pulled accidentally or needed specifically for Magic Chess.",
+   "known": true
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "top priority carry",
+   "note": "Essential Toxin damage dealer capable of delivering top-tier endgame damage.",
+   "known": true
+  },
+  {
+   "name": "Sleight",
+   "verdict": "core Toxin enabler",
+   "note": "A primary synergy partner required to make Toxin compositions function at their peak.",
+   "known": true
+  },
+  {
+   "name": "Twitch",
+   "verdict": "recommended 3rd DPS",
+   "note": "Serves as an ideal third damage dealer in standard Toxin lineups.",
+   "known": true
+  },
+  {
+   "name": "Sacredeia",
+   "verdict": "top flex pick for Toxin",
+   "note": "Even though she belongs to Corrosion, she inflicts Poison Vulnerability to massively amplify Toxin team damage.",
+   "known": true
+  },
+  {
+   "name": "Lothair",
+   "verdict": "skip",
+   "note": "Generally unnecessary to build for Toxin teams unless filling Magic Chess requirements.",
+   "known": true
+  },
+  {
+   "name": "Monelisse",
+   "verdict": "top Rally carry",
+   "note": "Significantly stronger in Season 9, scaling very well once you obtain her first duplicate and exclusive artifact.",
+   "known": true
+  },
+  {
+   "name": "Gladys",
+   "verdict": "core Rally partner",
+   "note": "Combines with Monelisse to form an excellent AoE-clearing core.",
+   "known": true
+  },
+  {
+   "name": "Durem",
+   "verdict": "best Burn damage dealer",
+   "note": "Outperforms other options as the primary Burn damage dealer without needing premium investment.",
+   "known": true
+  },
+  {
+   "name": "Aschetius",
+   "verdict": "skip",
+   "note": "Unnecessary for standard Burn progression unless targeting Magic Chess cores.",
+   "known": true
+  },
+  {
+   "name": "Karf",
+   "verdict": "recommended Burn enabler",
+   "note": "Serves as a better Burn enabler than Vyressa for supporting Durem.",
+   "known": true
+  },
+  {
+   "name": "Guinavivre",
+   "verdict": "high-investment carry",
+   "note": "Offers the highest single-target damage ceiling in Dauntless, but requires Inspiration 5 (6-7 copies) and her exclusive artifact.",
+   "known": true
+  },
+  {
+   "name": "Ernesto",
+   "verdict": "strong defensive carry",
+   "note": "Provides incredible survivability alongside respectable cold damage on Ice Blast teams.",
+   "known": true
+  },
+  {
+   "name": "Beldelle",
+   "verdict": "core Ice Blast DPS",
+   "note": "A primary damage dealer to run alongside Ernesto in Ice Blast lineups.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "General / Endgame",
+   "heroes": [
+    "Talethia",
+    "Diantha",
+    "Anneliesis",
+    "Holfast",
+    "Solmo"
+   ],
+   "note": "Premier pure Aura core team offering high damage scaling, defensive shields, and cleanse."
+  },
+  {
+   "mode": "General / Bossing",
+   "heroes": [
+    "Serpentemis",
+    "Sleight",
+    "Twitch",
+    "Sacredeia"
+   ],
+   "note": "High-tier Toxin composition utilizing Sacredeia for Poison Vulnerability amplification."
+  },
+  {
+   "mode": "AoE / General",
+   "heroes": [
+    "Durem",
+    "Paixton",
+    "Karf",
+    "Vyressa"
+   ],
+   "note": "High-efficiency Burn composition built around Durem as the primary damage source."
+  }
+ ],
+ "meta_changes": [
+  "Aura compositions gain significant power and new options with the introduction of heroes like Holfast and limited banners like Anneliesis.",
+  "Corrosion units like Sacredeia gain increased value in Season 9, synergizing across elements with poison vulnerability.",
+  "Monelisse receives high value in Season 9 Rally AoE compositions."
+ ],
+ "tips": [
+  "Create your character and log onto a server first before submitting account appraisal screenshots so the appraisal reward properly links to your account.",
+  "Account appraisal Wyrmarrow is unlocked progressively as your account hits Resonance levels in increments of 10 up to level 99.",
+  "When submitting strategy RPG screenshots for appraisal, use the Hero Gallery screen (showing maximum owned legendaries) rather than the roster screen.",
+  "Redeem the active gift code 'dragons9' in lowercase (case-sensitive) for 5 Heliolite Dice and 500 Wyrmarrow.",
+  "Bind your email address in the bonus event menu to receive free Heliolite Dice."
+ ],
+ "season": "S9",
+ "server_scope": "mixed",
+ "value": "high",
+ "id": "scDahdyomBc",
+ "model": "gemini-3.8-flash",
+ "channel": "Suzi Plays",
+ "title": "15,000 Wyrmarrow for Playing ANOTHER Gacha!? 💥 Start NOW! 🔥 Dragonheir x Dragonstride",
+ "published": "2026-10-24T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=scDahdyomBc",
+ "short": false,
+ "summarized": "2026-10-29T06:23Z"
+}

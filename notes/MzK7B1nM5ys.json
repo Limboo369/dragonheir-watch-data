@@ -1,0 +1,98 @@
+{
+ "summary": "Skratch covers Day 2 progression of Season 9, focusing on Temporal Vortex team optimization against Arbor Hydra. He explains how Puppeteer gear set access from Fey Meander impacts rotations, using Rena to maintain an 18-second cycle without multiple sets. Swapping Reytah for Stegamoffyn in the Poison lineup resulted in a massive damage increase, pushing the team to 534M damage and 875M total. Finally, he examines top leaderboard compositions featuring the new exclusive tank Celestine and reviews Sia's kit after pulling a duplicate.",
+ "topics": [
+  "Temporal Vortex",
+  "Arbor Hydra",
+  "Skill Timings",
+  "Gear RNG",
+  "Summons",
+  "Exclusive Heroes"
+ ],
+ "heroes": [
+  {
+   "name": "Rena",
+   "verdict": "Essential Aura cycle enabler",
+   "note": "Allows Radiance and Aura teams to sustain an 18-second skill cycle without needing multiple Puppeteer gear sets.",
+   "known": true
+  },
+  {
+   "name": "Stegamoffyn",
+   "verdict": "High-value Poison debuffer and sustain",
+   "note": "Substantially outperformed Reytah in Temporal Vortex, elevating team damage from 340M to 534M when equipped with Misty Conch.",
+   "known": true
+  },
+  {
+   "name": "Reytah",
+   "verdict": "Suboptimal for Temporal Vortex",
+   "note": "Replaced in favor of Stegamoffyn due to significantly lower overall team damage output.",
+   "known": true
+  },
+  {
+   "name": "Celestine",
+   "verdict": "Top-tier exclusive Ice tank",
+   "note": "Boosts maximum team HP and absorbs damage, making her exceptionally strong for high-end Vortex survivability and hybrid Aura teams.",
+   "known": true
+  },
+  {
+   "name": "Sia",
+   "verdict": "Versatile Necrosis support",
+   "note": "Provides team-wide Defense Up II at Inspiration 1 and reaches her sweet spot at Inspiration 3 with 15% Vulnerability application.",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "Fragile Radiance DPS",
+   "note": "Deals heavy damage but suffers from very low base defense, requiring defensive sets like Verdant Breath Cowl to avoid boss targeting.",
+   "known": true
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "Primary Poison carry",
+   "note": "Excels with Forge Master set bonus for stacking derivative damage, scaling drastically with higher Inspiration levels.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Temporal Vortex",
+   "heroes": [
+    "Talethia",
+    "Anneliesis",
+    "Lincos",
+    "Diantha",
+    "Rena"
+   ],
+   "note": "Radiance and Aura lineup timed to an 18-second rotation with Rena providing ultimate charge to bypass double Puppeteer set requirements."
+  },
+  {
+   "mode": "Temporal Vortex",
+   "heroes": [
+    "Child of Chaos",
+    "Stegamoffyn",
+    "Serpentemis",
+    "Sleight",
+    "Twitch"
+   ],
+   "note": "Poison team with Stegamoffyn holding Misty Conch, timed at 18-second recasts to deliver over 534M damage."
+  }
+ ],
+ "meta_changes": [
+  "Clearing elemental domains no longer awards Echo of Clepsydra points in the Season Assessment Trial of Courage, removing the rush to speed-clear domains on early days."
+ ],
+ "tips": [
+  "Hold stamina bread refills early in the season until Stage 18 talent and equipment dungeons unlock rather than farming low stages prematurely.",
+  "Equip Stegamoffyn with the Misty Conch artifact to optimize debuff uptime and team healing in Poison teams.",
+  "Carefully manage max HP and defense substats on squishy damage dealers like Anneliesis so they do not inadvertently draw the boss's single-target hits."
+ ],
+ "season": "S9",
+ "server_scope": "mixed",
+ "value": "high",
+ "id": "MzK7B1nM5ys",
+ "model": "gemini-3.7-flash",
+ "channel": "Skratch Gaming",
+ "title": "USE THESE TEAMS! Temporal Vortex S9 Dragonheir: Silent Gods x Dragonstride",
+ "published": "2026-10-25T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=MzK7B1nM5ys",
+ "short": false,
+ "summarized": "2026-10-29T06:25Z"
+}
