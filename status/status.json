@@ -1,5 +1,5 @@
 {
- "built": "2026-10-29T02:26Z",
+ "built": "2026-10-29T02:58Z",
  "last_fetch": "2026-10-29T02:18Z",
  "counts": {
   "summarized": 47,
@@ -60,7 +60,6 @@
   "quota_hit": 1793240755.9922814
  },
  "log_tail": [
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 40 videos, 90 heroes",
   "== 2026-10-29 00:18",
   "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
@@ -139,7 +138,8 @@
   "saved 1yIYhy_Ce_w",
   "+ Gorax: CN Meta Watch: Continental Challenge Teams You Should Prepar",
   "  gemini-3.7-flash: 429, using gemini-3.6-flash",
-  "! Imperial Shadow Recast Week 3 – My 6 Teams + Codes: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google."
+  "! Imperial Shadow Recast Week 3 – My 6 Teams + Codes: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 47 videos, 96 heroes"
  ],
  "crontab": [],
  "channels": [
