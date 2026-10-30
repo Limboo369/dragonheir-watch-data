@@ -1,6 +1,6 @@
 {
- "built": "2026-10-30T00:54Z",
- "last_fetch": "2026-10-30T00:18Z",
+ "built": "2026-10-30T01:24Z",
+ "last_fetch": "2026-10-30T01:18Z",
  "counts": {
   "summarized": 75,
   "skipped_giveaway": 17,
@@ -37,11 +37,6 @@
   "quota_hit": 1793319720.8001962
  },
  "log_tail": [
-  "mv: cannot stat '.ytwatch.py.new': No such file or directory",
-  "mv: cannot stat '.run.sh.new': No such file or directory",
-  "== 2026-10-29 17:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "daily video budget used (445 min), waiting for tomorrow",
   "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 65 videos, 107 heroes",
   "== 2026-10-29 18:17",
@@ -116,7 +111,12 @@
   "+ Skratch Gaming: GREAT NEWS!! S9 Brings A New Story & Map... Dragonheir: Sile",
   "! 💥 CHOOSE THE RIGHT ONES 💥Cross Boundary Storage S8: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
   "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 75 videos, 108 heroes",
-  "curl: (56) Recv failure: Connection reset by peer"
+  "curl: (56) Recv failure: Connection reset by peer",
+  "== 2026-10-30 01:17",
+  "fetch done: 0 new transcripts, 0 not available yet",
+  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
+  "Gemini quota was full less than an hour ago, trying again next round",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 75 videos, 108 heroes"
  ],
  "crontab": [],
  "channels": [
@@ -124,55 +124,55 @@
    "name": "Skratch Gaming",
    "id": "UCoSkzr1pXpt3d0jIxsc6ufw",
    "enabled": true,
-   "checked": "2026-10-30T00:17Z"
+   "checked": "2026-10-30T01:17Z"
   },
   {
    "name": "Gorax",
    "id": "UCNas7BnuOIjDEzY1D53kb1w",
    "enabled": true,
-   "checked": "2026-10-30T00:17Z"
+   "checked": "2026-10-30T01:17Z"
   },
   {
    "name": "Neff Gaming",
    "id": "UCsxs6YhNd_B36RgUAjbpJ_A",
    "enabled": true,
-   "checked": "2026-10-30T00:17Z"
+   "checked": "2026-10-30T01:17Z"
   },
   {
    "name": "Volkin Dragonheir",
    "id": "UCfRpOh_ywVjzhh9fxHbreGw",
    "enabled": true,
-   "checked": "2026-10-30T00:17Z"
+   "checked": "2026-10-30T01:17Z"
   },
   {
    "name": "Fastidious Dragonheir",
    "id": "UC16mpj5wEemSZX-uTlHe9Ww",
    "enabled": true,
-   "checked": "2026-10-30T00:17Z"
+   "checked": "2026-10-30T01:17Z"
   },
   {
    "name": "OddOneGaming RPGs",
    "id": "UC1ivUEf_poI9_R2eVKa8wRQ",
    "enabled": true,
-   "checked": "2026-10-30T00:17Z"
+   "checked": "2026-10-30T01:17Z"
   },
   {
    "name": "Suzi Plays",
    "id": "UCyo1-TkunhGcK6khU1h8Ypw",
    "enabled": true,
-   "checked": "2026-10-30T00:17Z"
+   "checked": "2026-10-30T01:17Z"
   },
   {
    "name": "Skyasterix Gaming",
    "id": "UCr5Gb3910rK7QPmKMmdagsA",
    "enabled": true,
-   "checked": "2026-10-30T00:17Z"
+   "checked": "2026-10-30T01:18Z"
   },
   {
    "name": "liveranov",
    "id": "UCqCR7ofFHhWwXy3Hg00fqEw",
    "enabled": true,
-   "checked": "2026-10-30T00:18Z"
+   "checked": "2026-10-30T01:18Z"
   }
  ]
 }
