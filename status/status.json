@@ -1,5 +1,5 @@
 {
- "built": "2026-10-30T02:20Z",
+ "built": "2026-10-30T02:56Z",
  "last_fetch": "2026-10-30T02:18Z",
  "counts": {
   "summarized": 77,
@@ -85,7 +85,6 @@
   "quota_hit": 1793326783.7476907
  },
  "log_tail": [
-  "… OddOneGaming RPGs: 💥 FREE Dragon Crystal 💥 39 Promo Codes Up For Grabs #dragonh… OddOneGaming RPGs: 💥 DON'T MISS OUT! 💥39 Promo Codes With Dragon Crystals Up Fo",
   "",
   "  gemini-3.8-flash: 429, using gemini-3.5-flash",
   "  gemini-3.8-flash: 429, using gemini-3.5-flash",
@@ -164,7 +163,8 @@
   "  gemini-3.7-flash: 429, using gemini-3.6-flash",
   "! Imperial Shadow Recast Week 2 – 4+ Teams, Multiple: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
   "saved L1z08k7Q5ns",
-  "+ OddOneGaming RPGs: 💥 CHOOSE THE RIGHT ONES 💥Cross Boundary Storage S8 GUIDE & M"
+  "+ OddOneGaming RPGs: 💥 CHOOSE THE RIGHT ONES 💥Cross Boundary Storage S8 GUIDE & M",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 77 videos, 108 heroes"
  ],
  "crontab": [],
  "channels": [
