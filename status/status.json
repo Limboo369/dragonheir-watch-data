@@ -1,10 +1,10 @@
 {
- "built": "2026-10-30T17:07Z",
- "last_fetch": "2026-10-30T15:17Z",
+ "built": "2026-10-30T17:38Z",
+ "last_fetch": "2026-10-30T17:17Z",
  "counts": {
   "summarized": 96,
   "skipped_giveaway": 17,
-  "new": 478,
+  "new": 479,
   "baseline": 22,
   "skipped_live": 1,
   "failed": 1
@@ -24,11 +24,6 @@
   "quota_hit": 1793341126.4954813
  },
  "log_tail": [
-  "saved EyhzdvZo08A",
-  "+ Gorax: S9 Hero Showcase: Syonis - Skills, Talents & Inspirations | ",
-  "… Skratch Gaming: EVERYTHING You Need To Know About The Upcoming Season! Drago",
-  "saved yTI3C6ck-Rk",
-  "+ Neff Gaming: S9 - AURA Setups, Team Composition & VORTEX New META | Drago",
   "… OddOneGaming RPGs: 🚨 Still Doing BIG Numbers! 🚨 My 6 Teams vs Phase 2 Mekkatorq",
   "saved H5-A51mtGFU",
   "+ Skratch Gaming: WHO TO PULL FOR?? Season 9 Brings 9 New Heroes... Dragonheir",
@@ -103,7 +98,12 @@
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "daily video budget used (444 min), waiting for tomorrow",
   "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 96 videos, 117 heroes",
-  "/bin/bash: line 1: /root/ytwatch/run.sh: Permission denied"
+  "/bin/bash: line 1: /root/ytwatch/run.sh: Permission denied",
+  "== 2026-10-30 17:17",
+  "fetch done: 0 new transcripts, 0 not available yet",
+  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
+  "daily video budget used (444 min), waiting for tomorrow",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 96 videos, 117 heroes"
  ],
  "crontab": [],
  "channels": [
@@ -111,55 +111,55 @@
    "name": "Skratch Gaming",
    "id": "UCoSkzr1pXpt3d0jIxsc6ufw",
    "enabled": true,
-   "checked": "2026-10-30T15:17Z"
+   "checked": "2026-10-30T17:17Z"
   },
   {
    "name": "Gorax",
    "id": "UCNas7BnuOIjDEzY1D53kb1w",
    "enabled": true,
-   "checked": "2026-10-30T15:17Z"
+   "checked": "2026-10-30T17:17Z"
   },
   {
    "name": "Neff Gaming",
    "id": "UCsxs6YhNd_B36RgUAjbpJ_A",
    "enabled": true,
-   "checked": "2026-10-30T15:17Z"
+   "checked": "2026-10-30T17:17Z"
   },
   {
    "name": "Volkin Dragonheir",
    "id": "UCfRpOh_ywVjzhh9fxHbreGw",
    "enabled": true,
-   "checked": "2026-10-30T15:17Z"
+   "checked": "2026-10-30T17:17Z"
   },
   {
    "name": "Fastidious Dragonheir",
    "id": "UC16mpj5wEemSZX-uTlHe9Ww",
    "enabled": true,
-   "checked": "2026-10-30T15:17Z"
+   "checked": "2026-10-30T17:17Z"
   },
   {
    "name": "OddOneGaming RPGs",
    "id": "UC1ivUEf_poI9_R2eVKa8wRQ",
    "enabled": true,
-   "checked": "2026-10-30T15:17Z"
+   "checked": "2026-10-30T17:17Z"
   },
   {
    "name": "Suzi Plays",
    "id": "UCyo1-TkunhGcK6khU1h8Ypw",
    "enabled": true,
-   "checked": "2026-10-30T15:17Z"
+   "checked": "2026-10-30T17:17Z"
   },
   {
    "name": "Skyasterix Gaming",
    "id": "UCr5Gb3910rK7QPmKMmdagsA",
    "enabled": true,
-   "checked": "2026-10-30T15:17Z"
+   "checked": "2026-10-30T17:17Z"
   },
   {
    "name": "liveranov",
    "id": "UCqCR7ofFHhWwXy3Hg00fqEw",
    "enabled": true,
-   "checked": "2026-10-30T15:17Z"
+   "checked": "2026-10-30T17:17Z"
   }
  ]
 }
