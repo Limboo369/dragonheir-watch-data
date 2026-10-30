@@ -1,5 +1,5 @@
 {
- "built": "2026-10-30T06:18Z",
+ "built": "2026-10-30T06:50Z",
  "last_fetch": "2026-10-30T06:17Z",
  "counts": {
   "summarized": 79,
@@ -91,7 +91,6 @@
   "quota_hit": 1793341126.4954813
  },
  "log_tail": [
-  "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "… Skratch Gaming: AURA Vs DAUNTLESS! Who Should You Use?? Dragonheir: Silent G",
   "… Gorax: Imperial Shadow Recast Week 2 – 4+ Teams, Multiple Variants ",
@@ -170,7 +169,8 @@
   "  gemini-3.8-flash: 429, using gemini-3.5-flash",
   "  gemini-3.5-flash: 429, using gemini-3.7-flash",
   "  gemini-3.7-flash: 429, using gemini-3.6-flash",
-  "! S9 NEW HERO Changes the Arena META?! Chinese Serve: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google."
+  "! S9 NEW HERO Changes the Arena META?! Chinese Serve: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 79 videos, 109 heroes"
  ],
  "crontab": [],
  "channels": [
