@@ -1,5 +1,5 @@
 {
- "built": "2026-10-30T00:22Z",
+ "built": "2026-10-30T00:54Z",
  "last_fetch": "2026-10-30T00:18Z",
  "counts": {
   "summarized": 75,
@@ -37,8 +37,6 @@
   "quota_hit": 1793319720.8001962
  },
  "log_tail": [
-  "daily video budget used (445 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 65 videos, 107 heroes",
   "mv: cannot stat '.ytwatch.py.new': No such file or directory",
   "mv: cannot stat '.run.sh.new': No such file or directory",
   "== 2026-10-29 17:17",
@@ -116,7 +114,9 @@
   "+ Gorax: Upcoming Summon Banners – Which Ones Are Worth Your Dice? | ",
   "saved wTuHdSbBISg",
   "+ Skratch Gaming: GREAT NEWS!! S9 Brings A New Story & Map... Dragonheir: Sile",
-  "! 💥 CHOOSE THE RIGHT ONES 💥Cross Boundary Storage S8: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google."
+  "! 💥 CHOOSE THE RIGHT ONES 💥Cross Boundary Storage S8: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 75 videos, 108 heroes",
+  "curl: (56) Recv failure: Connection reset by peer"
  ],
  "crontab": [],
  "channels": [
