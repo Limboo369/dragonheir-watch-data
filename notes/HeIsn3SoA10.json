@@ -1,0 +1,70 @@
+{
+ "summary": "This video showcases a high-performing Thunderbolt team against the Season 8 endgame boss Mekkatorque (Phase 2), achieving over 1.11 billion total damage. Perkunte serves as the primary damage carry, generating over 804 million damage alone. The full setup features Alaura, Tariz, Shai'nachtan, and Maashtur providing support, lightning synergies, and sustain. Detailed equipment, character stats, and skill timings are displayed at the end of the run.",
+ "topics": [
+  "Mekkatorque",
+  "Endgame Boss",
+  "Thunderbolt",
+  "Season 8"
+ ],
+ "heroes": [
+  {
+   "name": "Perkunte",
+   "verdict": "Top DPS carry",
+   "note": "Acted as the hyper-carry against Mekkatorque, dealing 804.8M damage (72.8% of the team's total damage).",
+   "known": true
+  },
+  {
+   "name": "Alaura",
+   "verdict": "Core Thunderbolt support/DPS",
+   "note": "Provided Lightning Chain enhancements and contributed 25.3M damage.",
+   "known": true
+  },
+  {
+   "name": "Tariz",
+   "verdict": "Thunderbolt enabler/DPS",
+   "note": "Helped stack Electricity and trigger Lightning Chain procs, doing 27.7M damage.",
+   "known": true
+  },
+  {
+   "name": "Shai'nachtan",
+   "verdict": "Core Thunderbolt buffer/DPS",
+   "note": "Granted team buffs, served as a Lightning Chain target, and contributed 22.8M damage with a tuned 15.0s recast on his Ultimate.",
+   "known": true
+  },
+  {
+   "name": "Maashtur",
+   "verdict": "Thunderbolt tank/support",
+   "note": "Absorbed team damage and provided defensive shields to keep the team alive through Mekkatorque's phases.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Mekkatorque (Phase 2)",
+   "heroes": [
+    "Perkunte",
+    "Alaura",
+    "Tariz",
+    "Shai'nachtan",
+    "Maashtur"
+   ],
+   "note": "Full Thunderbolt endgame team dealing 1,110,648,493 total damage. Shai'nachtan uses a 15.0s recast timing on his ultimate while all other heroes run default skill timings."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Tune Shai'nachtan's ultimate recast timing to 15.0s to optimize buff and chain alignment against Mekkatorque.",
+  "Perkunte requires heavy offensive investment as he accounts for the vast majority of Thunderbolt team damage in single-target boss fights."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "HeIsn3SoA10",
+ "model": "gemini-3.8-flash",
+ "channel": "liveranov",
+ "title": "Thunderbolt vs Mekkatorque (Phase 2) | Endgame Boss | Season 8 | Dragonheir",
+ "published": "2026-10-17T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=HeIsn3SoA10",
+ "short": false,
+ "summarized": "2026-10-30T09:23Z"
+}

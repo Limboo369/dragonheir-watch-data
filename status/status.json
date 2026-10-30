@@ -1,10 +1,10 @@
 {
- "built": "2026-10-30T09:21Z",
+ "built": "2026-10-30T09:26Z",
  "last_fetch": "2026-10-30T09:17Z",
  "counts": {
-  "summarized": 93,
+  "summarized": 96,
   "skipped_giveaway": 17,
-  "new": 476,
+  "new": 473,
   "baseline": 22,
   "skipped_live": 1,
   "failed": 1
@@ -24,12 +24,6 @@
   "quota_hit": 1793341126.4954813
  },
  "log_tail": [
-  "… Neff Gaming: S9 - AURA Setups, Team Composition & VORTEX New META | Drago",
-  "! WHO TO PULL FOR?? Season 9 Brings 9 New Heroes... : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
-  "… Skratch Gaming: EVERYTHING You Need To Know About The Upcoming Season! Drago",
-  "! S9 Hero Showcase: Syonis - Skills, Talents & Inspi: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
-  "… OddOneGaming RPGs: 🚨 Still Doing BIG Numbers! 🚨 My 6 Teams vs Phase 2 Mekkatorq",
-  "! S9 - AURA Setups, Team Composition & VORTEX New ME: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
   "… Gorax: S9 Hero Showcase: Rhyviel - Skills, Talents & Inspirations |",
   "! EVERYTHING You Need To Know About The Upcoming Sea: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
   "… Skyasterix Gaming: 💥New Season 9 Equipment are META? I checked them all! | Drag",
@@ -103,7 +97,13 @@
   "saved Zzd5qAz5B9E",
   "+ Neff Gaming: AURA TEAM! 1.75B Damage vs Endgame Boss Phase 2 | Dragonheir",
   "saved H-MlVKkQO5M",
-  "+ Neff Gaming: FROST TEAM! 1.5B Damage Guaranteed!  vs Endgame Boss Phase 2"
+  "+ Neff Gaming: FROST TEAM! 1.5B Damage Guaranteed!  vs Endgame Boss Phase 2",
+  "saved IByjt-bkgzo",
+  "+ Fastidious Dragonheir: DO NOT MAKE THIS MISTAKE! Be Smarter Than Me ⁂ Dragonheir: S",
+  "saved HeIsn3SoA10",
+  "+ liveranov: Thunderbolt vs Mekkatorque (Phase 2) | Endgame Boss | Season",
+  "saved lXIGOO_jApM",
+  "+ Suzi Plays: My WISH Pulls! 💥Pulling til PREMIUM! 🔥 Dragonheir x Dragonst"
  ],
  "crontab": [],
  "channels": [

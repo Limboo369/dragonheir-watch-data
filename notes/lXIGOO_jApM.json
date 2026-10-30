@@ -1,0 +1,77 @@
+{
+ "summary": "Suzi discusses optimal hero priorities and banner mechanics for the Wish Summon event ahead of Season 9. She emphasizes Talethia and Serpentemis as the highest overall priorities in the game, alongside building high inspirations for Dauntless (Guinavivre) and preparing for Corrosion (Rook, Sacredeia). She pulls over 800 summons, securing multiple legendaries including a natural Guinavivre pull, and explains how pity counters interact with milestone reward heroes.",
+ "topics": [
+  "Wish Summon",
+  "Pity System",
+  "Dauntless",
+  "Corrosion",
+  "Season 9"
+ ],
+ "heroes": [
+  {
+   "name": "Talethia",
+   "verdict": "Highest priority in the game",
+   "note": "Dominates 90% of content with versatile AoE and single-target damage, high survivability, and should be taken to Inspiration 5.",
+   "known": true
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "Must-have primary focus",
+   "note": "An essential pick if not already owned on the account.",
+   "known": true
+  },
+  {
+   "name": "Guinavivre",
+   "verdict": "Top tier Dauntless core",
+   "note": "Extremely powerful for Dauntless teams, though she relies heavily on high inspirations to reach full potential.",
+   "known": true
+  },
+  {
+   "name": "Rook",
+   "verdict": "Top Corrosion DPS pick",
+   "note": "The primary damage dealer for Corrosion teams and a great target to secure from guaranteed selector banners.",
+   "known": true
+  },
+  {
+   "name": "Sacredeia",
+   "verdict": "Core support for Toxin and Corrosion",
+   "note": "Provides significant overall damage amplification for both Toxin and Corrosion teams.",
+   "known": true
+  },
+  {
+   "name": "Oggok",
+   "verdict": "Top support at Inspiration 5",
+   "note": "At Inspiration 5, his skills ignore enemy resistance, removing the need for accuracy stats so he can be built purely for enlightenment or bulk.",
+   "known": true
+  },
+  {
+   "name": "Tharivol",
+   "verdict": "Solid Dauntless filler",
+   "note": "A useful non-exclusive legendary Dauntless support hero to fill team slots.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [
+  "Season 9 introduces a new Aura hero that will replace Lincos in top setups.",
+  "Season 9 brings a new Corrosion hero and an exclusive artifact for Blah Blah."
+ ],
+ "tips": [
+  "Milestone heroes claimed directly from Wish Summon count thresholds (100, 200, etc.) do not consume or reset your 70-pull legendary pity.",
+  "There is a hidden 1000-pull pity for guaranteed premium exclusive legendaries on standard banner pools.",
+  "Wish Summon hero pools only include DPS choices, unlike Option Summons which can include support heroes.",
+  "Always double-check your hero roster and existing inspiration levels before locking in your Wish Summon selections.",
+  "Avoid ending a summon session midway through a 70-pull pity cycle; aim to stop right after hitting a legendary."
+ ],
+ "season": "S9",
+ "server_scope": "mixed",
+ "value": "medium",
+ "id": "lXIGOO_jApM",
+ "model": "gemini-3.8-flash",
+ "channel": "Suzi Plays",
+ "title": "My WISH Pulls! 💥Pulling til PREMIUM! 🔥 Dragonheir x Dragonstride",
+ "published": "2026-10-16T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=lXIGOO_jApM",
+ "short": false,
+ "summarized": "2026-10-30T09:26Z"
+}
