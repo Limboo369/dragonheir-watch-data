@@ -1,5 +1,5 @@
 {
- "built": "2026-10-30T16:06Z",
+ "built": "2026-10-30T16:37Z",
  "last_fetch": "2026-10-30T15:17Z",
  "counts": {
   "summarized": 96,
@@ -24,7 +24,6 @@
   "quota_hit": 1793341126.4954813
  },
  "log_tail": [
-  "… Neff Gaming: S9 - AURA Setups, Team Composition & VORTEX New META | Drago",
   "saved EyhzdvZo08A",
   "+ Gorax: S9 Hero Showcase: Syonis - Skills, Talents & Inspirations | ",
   "… Skratch Gaming: EVERYTHING You Need To Know About The Upcoming Season! Drago",
@@ -103,7 +102,8 @@
   "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "daily video budget used (444 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 96 videos, 117 heroes"
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 96 videos, 117 heroes",
+  "/bin/bash: line 1: /root/ytwatch/run.sh: Permission denied"
  ],
  "crontab": [],
  "channels": [
