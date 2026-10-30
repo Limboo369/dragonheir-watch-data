@@ -1,0 +1,54 @@
+{
+ "summary": "Fastidious discusses a major summoning mistake he made on his free-to-play Season 1 account by spending resources on the First Blush banner without checking upcoming events. A few days later, a high-value Wish Summon event arrived featuring elite carries like Serpentemis and Talethia at the 300-summon milestone, which he can no longer guarantee. He strongly advises players to track the official Dragonheir Discord event and limited-time banner calendars before pulling on any temporary banners. For Wish Summon banners specifically, players should avoid pulling entirely unless they can guarantee hitting the 300-summon threshold for the premium hero.",
+ "topics": [
+  "banners",
+  "Wish Summon",
+  "summoning strategy",
+  "event calendar",
+  "F2P planning"
+ ],
+ "heroes": [
+  {
+   "name": "Serpentemis",
+   "verdict": "top tier DPS carry",
+   "note": "A game-changing poison DPS carry and premier target at the 300-pull milestone on the Wish Summon banner.",
+   "known": true
+  },
+  {
+   "name": "Talethia",
+   "verdict": "top tier choice",
+   "note": "One of the standout premium legendary options available to select on the Wish Summon banner.",
+   "known": true
+  },
+  {
+   "name": "Auster",
+   "verdict": "amazing free hero",
+   "note": "Functions as one of the chief DPS units on an account right from the start.",
+   "known": true
+  },
+  {
+   "name": "Elecebre",
+   "verdict": "strong support unit",
+   "note": "A strong support character, though not a broad dominant carry for early account progression.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [],
+ "tips": [
+  "Always check the official Dragonheir Discord announcements for limited-time event and summoning calendars covering up to 4 weeks in advance before spending summon dice.",
+  "Do not pull on the Wish Summon banner unless you are 100% sure you have enough resources to hit the 300-summon milestone (approx. 270 summons after rebate) for the guaranteed premium legendary hero.",
+  "If you cannot guarantee the 300-summon target on a Wish Summon banner, skip it completely and save your Heliolite Dice for a future premium banner instead of stopping halfway."
+ ],
+ "season": "S1",
+ "server_scope": "S1",
+ "value": "medium",
+ "id": "IByjt-bkgzo",
+ "model": "gemini-3.8-flash",
+ "channel": "Fastidious Dragonheir",
+ "title": "DO NOT MAKE THIS MISTAKE! Be Smarter Than Me ⁂ Dragonheir: Silent Gods",
+ "published": "2026-10-17T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=IByjt-bkgzo",
+ "short": false,
+ "summarized": "2026-10-30T09:21Z"
+}

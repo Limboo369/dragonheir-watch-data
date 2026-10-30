@@ -1,0 +1,118 @@
+{
+ "summary": "This guide showcases early Week 1 Level 59 team setups for Vortex 1 in Season 9 using Aura and Toxin compositions. Aura with Toxin performs better than Dauntless during early Season 9 because Dauntless lacks critical damage conversion talents early on. The video details specific gear, artifacts, skill timings, and replacements for two 5-man teams: an Aura team featuring the new Ice support Celestine and a Toxin team utilizing Child of Chaos and Ethyreis for survival.",
+ "topics": [
+  "Vortex",
+  "Season 9",
+  "Aura",
+  "Toxin",
+  "Team Builds"
+ ],
+ "heroes": [
+  {
+   "name": "Talethia",
+   "verdict": "Core Aura DPS",
+   "note": "Build primarily with high critical damage and critical rate, followed by HP.",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "Essential Aura support",
+   "note": "Equipped with Solar King's Horn artifact and stacked with HP% gear pieces.",
+   "known": true
+  },
+  {
+   "name": "Lincos",
+   "verdict": "Aura filler support",
+   "note": "Used at Level 59 as a substitute before new hero Holfast becomes available.",
+   "known": true
+  },
+  {
+   "name": "Diantha",
+   "verdict": "Core Aura debuffer",
+   "note": "Equipped with Witch's Remains and needs roughly 50 Accuracy for Vortex 1.",
+   "known": true
+  },
+  {
+   "name": "Celestine",
+   "verdict": "Top-tier new Ice support",
+   "note": "New Season 9 support who significantly amplifies total team damage and shield consistency; can be replaced by Solmo if not owned.",
+   "known": true
+  },
+  {
+   "name": "Child of Chaos",
+   "verdict": "Core Toxin enabler",
+   "note": "Works effectively at Inspiration 0 or 1; equipped with Puppeteer set and Chest of Radiance.",
+   "known": true
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "Core Toxin DPS",
+   "note": "Build with Enlightenment and Attack, along with roughly 20 Accuracy despite her innate requirement reduction.",
+   "known": true
+  },
+  {
+   "name": "Sleight",
+   "verdict": "Toxin damage/debuff support",
+   "note": "Equipped with exclusive artifact and built with Accuracy and Enlightenment.",
+   "known": true
+  },
+  {
+   "name": "Twitch",
+   "verdict": "Toxin debuffer",
+   "note": "Acts as the Witch's Remains debuff applier wearing Mystic Conch.",
+   "known": true
+  },
+  {
+   "name": "Ethyreis",
+   "verdict": "Top Toxin defensive support",
+   "note": "Provides vital shielding to ensure full team survival across the entire battle; can be replaced by Torrin if missing.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Vortex 1",
+   "heroes": [
+    "Talethia",
+    "Anneliesis",
+    "Lincos",
+    "Diantha",
+    "Celestine"
+   ],
+   "note": "Level 59 Aura setup for Season 9 Week 1 tuned to an 18-second skill rotation. Celestine can be swapped for Solmo if necessary."
+  },
+  {
+   "mode": "Vortex 1",
+   "heroes": [
+    "Serpentemis",
+    "Sleight",
+    "Twitch",
+    "Child of Chaos",
+    "Ethyreis"
+   ],
+   "note": "Level 59 Toxin setup for Season 9 Week 1 utilizing Puppeteer set on Child of Chaos and Ethyreis for total team survivability."
+  }
+ ],
+ "meta_changes": [
+  "Aura and Toxin outperform Dauntless and Toxin in early Season 9 due to missing early-game crit rate conversion talents.",
+  "Celestine enters the meta as a premier support that greatly elevates Aura and Ice compositions."
+ ],
+ "tips": [
+  "Prioritize Aura + Toxin rather than Dauntless + Toxin during the first week of Season 9.",
+  "Aim for roughly 50 Accuracy on Diantha when running Vortex 1.",
+  "Equip Child of Chaos with the Puppeteer set for optimal performance in the Toxin setup.",
+  "Serpentemis still needs around 20 Accuracy even with her 35% Accuracy requirement reduction.",
+  "If Celestine is unavailable, use Solmo as an Aura/Ice replacement; if Ethyreis is missing, Torrin can fill the defensive role."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "Z46YlrpnOfc",
+ "model": "gemini-3.8-flash",
+ "channel": "Neff Gaming",
+ "title": "BE READY FOR WEEK 1! Level 59 Aura & Toxin Vortex Setup | Dragonheir: Silent Gods",
+ "published": "2026-10-19T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=Z46YlrpnOfc",
+ "short": false,
+ "summarized": "2026-10-30T09:20Z"
+}

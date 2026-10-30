@@ -1,0 +1,83 @@
+{
+ "summary": "This guide showcases early Season 9 Vortex level 59 setups for both Dauntless and Toxin teams. Team 1 runs a Dauntless composition featuring Maashtur as the highest HP frontline soak alongside Guinavivre, Nastjenka, Kurvida, and Selva on a 20-second skill rotation without Puppeteer gear. Team 2 utilizes a Toxin composition with Child of Chaos acting as the solo support alongside Twitch, Sleight, Sacredeia, and Serpentemis on an 18-second rotation. Sacredeia wears a Puppeteer set acquired early via Walker's Trail or Fey Meander.",
+ "topics": [
+  "Vortex",
+  "Dauntless",
+  "Toxin",
+  "Skill Timings",
+  "Season 9"
+ ],
+ "heroes": [
+  {
+   "name": "Maashtur",
+   "verdict": "Core tank for Dauntless",
+   "note": "Needs to be built with the highest HP on the Dauntless team to soak hits.",
+   "known": true
+  },
+  {
+   "name": "Guinavivre",
+   "verdict": "Primary Dauntless DPS",
+   "note": "Equipped with her exclusive artifact and built prioritizing Critical Rate and damage.",
+   "known": true
+  },
+  {
+   "name": "Child of Chaos",
+   "verdict": "Solo support for Toxin",
+   "note": "Built with Rift Hourglass for Skill Haste and sufficient Accuracy to guarantee debuffs without needing an exclusive artifact.",
+   "known": true
+  },
+  {
+   "name": "Sacredeia",
+   "verdict": "Puppeteer holder for Toxin",
+   "note": "Utilized as the carrier for the 3-piece Puppeteer set to enable an 18-second team rotation.",
+   "known": true
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "Toxin DPS",
+   "note": "Built stacking high Enlightenment (over 350) and Accuracy for maximum damage.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Vortex Level 59",
+   "heroes": [
+    "Maashtur",
+    "Guinavivre",
+    "Nastjenka",
+    "Kurvida",
+    "Selva"
+   ],
+   "note": "Dauntless team running a 20.0s rotation without Puppeteer gear; Maashtur triggers at 12.0s, Kurvida at 12.6s, Guinavivre and Nastjenka at 13.0s, and Selva at 22.5s."
+  },
+  {
+   "mode": "Vortex Level 59",
+   "heroes": [
+    "Child of Chaos",
+    "Twitch",
+    "Sleight",
+    "Sacredeia",
+    "Serpentemis"
+   ],
+   "note": "Toxin team running an 18.0s rotation enabled by Puppeteer gear on Sacredeia; Child of Chaos triggers at 11.5s, Serpentemis default at 12.0s, Sacredeia at 13.0s, Sleight at 13.1s, Twitch at 13.2s, and pet at 5.0s."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Make sure Maashtur has the highest total HP on the Dauntless team so the boss targets him.",
+  "Prioritize getting high Enlightenment and sufficient Accuracy on Toxin heroes to maximize damage and debuff uptime.",
+  "If you obtain early Puppeteer gear pieces from Walker's Trail or the Fey Meander shop, you can lower team ultimate rotations to 18 seconds."
+ ],
+ "season": "S9",
+ "server_scope": "mixed",
+ "value": "high",
+ "id": "VMqR9QYdHaI",
+ "model": "gemini-3.8-flash",
+ "channel": "Neff Gaming",
+ "title": "BE READY FOR WEEK 1! Level 59 Dauntless & Toxin Vortex Setup | Dragonheir: Silent Gods",
+ "published": "2026-10-20T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=VMqR9QYdHaI",
+ "short": false,
+ "summarized": "2026-10-30T09:19Z"
+}

@@ -1,0 +1,73 @@
+{
+ "summary": "This guide showcases an Aura elemental team setup against the endgame boss Mekkatorque Phase 2, dealing between 1.68B and 1.75B damage (with potential up to 2.4B with optimized gear). The composition revolves around Talethia as the primary damage carry, buffed by Shahla's Attack share and supported by Anneliesis, Diantha, and Lincos. Strict Skill Haste benchmarks and specific skill timings are required to maintain a precise 15-second rotation. Due to missing high-roll Skill Haste runes, gear set combinations like Astrologer and Secrecy Order are utilized to hit haste requirements.",
+ "topics": [
+  "Endgame Boss",
+  "Mekkatorque",
+  "Aura Team",
+  "Skill Timings",
+  "Gear Builds"
+ ],
+ "heroes": [
+  {
+   "name": "Talethia",
+   "verdict": "Main Aura Damage Carry",
+   "note": "Requires 100% Crit Rate and maximum Crit Damage (each +10% Crit Damage adds ~100M+ damage); does not require Accuracy, Resistance, or Skill Haste.",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "Core Aura Support / Debuffer",
+   "note": "Requires 60+ Skill Haste to ensure ultimate aligns with the 15-second team rotation; built with Titan Rib artifact, Secrecy Order set, and Wildsand Devotion.",
+   "known": true
+  },
+  {
+   "name": "Shahla",
+   "verdict": "Attack Buffer / Aura Support",
+   "note": "Shares Attack to Talethia via Everlasting Candleflame set; built with Resistance, Puppeteer set, and Angelic Alliance without needing Skill Haste.",
+   "known": true
+  },
+  {
+   "name": "Diantha",
+   "verdict": "Aura Debuffer / Energy Battery",
+   "note": "Equipped with Punisher's Whip and Conflagration of Bones (Bleed debuff); targets 320+ to 356 Accuracy and Resistance.",
+   "known": true
+  },
+  {
+   "name": "Lincos",
+   "verdict": "Aura Enabler / Support",
+   "note": "Needs 72+ Skill Haste to sustain the 15-second rotation, which may require running two 2-piece Skill Haste sets (Astrologer and Secrecy Order) if rune substats fall short.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Endgame Boss Phase 2 (Mekkatorque)",
+   "heroes": [
+    "Anneliesis",
+    "Talethia",
+    "Diantha",
+    "Lincos",
+    "Shahla"
+   ],
+   "note": "Deals 1.68B to 1.75B+ damage using a 15-second rotation (Talethia recasts at 13.8s, Pet at 30s) alongside the Golden Tressym pet."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Ensure Talethia has the highest Attack on the team so Shahla shares her Attack buff directly to her.",
+  "Hit at least 60 Skill Haste on Anneliesis and 72 Skill Haste on Lincos to maintain proper ultimate sync on a 15-second recast cycle.",
+  "If rune rolls lack enough Skill Haste substats, combine 2-piece Secrecy Order with 2-piece Astrologer to gain an extra +40 Skill Haste from set bonuses.",
+  "Aim for 320+ (ideally up to 356) Accuracy and Resistance on Diantha to reliably land debuffs and withstand boss mechanics."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "Zzd5qAz5B9E",
+ "model": "gemini-3.8-flash",
+ "channel": "Neff Gaming",
+ "title": "AURA TEAM! 1.75B Damage vs Endgame Boss Phase 2 | Dragonheir: Silent Gods",
+ "published": "2026-10-17T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=Zzd5qAz5B9E",
+ "short": false,
+ "summarized": "2026-10-30T09:21Z"
+}

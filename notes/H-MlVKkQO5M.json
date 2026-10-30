@@ -1,0 +1,93 @@
+{
+ "summary": "This guide showcases endgame boss Mekkatorque Phase 2 team setups achieving over 1.5 billion damage. The creator demonstrates that replacing Hvitar with Durango in a Frost core yields superior results due to Durango's defense-shredding talent Biting Erosion. Feenja is strictly mandatory in the lineup to provide resistance-sharing through her Stand United talent. All damage dealers and debuffers require precise tuning of accuracy, resistance, and skill haste to maintain a rigid 15-second skill rotation.",
+ "topics": [
+  "Endgame Boss",
+  "Mekkatorque",
+  "Frost Team",
+  "Skill Timings",
+  "Durango"
+ ],
+ "heroes": [
+  {
+   "name": "Durango",
+   "verdict": "Top pick over Hvitar for Mekkatorque Phase 2",
+   "note": "His Biting Erosion talent shreds boss defense by 0.5% per stack and provides massive damage amplification when paired with Physio Core talent 8.",
+   "known": true
+  },
+  {
+   "name": "Hvitar",
+   "verdict": "Viable alternative, but deals less overall team damage than Durango",
+   "note": "Used in Chinese server setups for roughly 1.37B to 1.6B damage, but falls behind Durango's defense shredding.",
+   "known": true
+  },
+  {
+   "name": "Feenja",
+   "verdict": "Mandatory support healer",
+   "note": "Essential for her Stand United talent which shares 20% of her high resistance to adjacent front-line allies, preventing boss debuffs.",
+   "known": true
+  },
+  {
+   "name": "Aethereal",
+   "verdict": "Primary DPS",
+   "note": "Requires high Enlightenment, Attack, Attack Speed for her exclusive talent, and skill haste to align with the 15-second rotation.",
+   "known": true
+  },
+  {
+   "name": "Lossenia",
+   "verdict": "Core damage dealer and buffer",
+   "note": "Built for Attack and Accuracy while sharing Accuracy to allies through the Reverie of Carcass set.",
+   "known": true
+  },
+  {
+   "name": "Vinyara",
+   "verdict": "Essential debuffer",
+   "note": "Must be built with full native Accuracy and Resistance since she is positioned out of range of Feenja's resistance-sharing aura.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Endgame Boss Mekkatorque Phase 2",
+   "heroes": [
+    "Durango",
+    "Aethereal",
+    "Lossenia",
+    "Vinyara",
+    "Feenja"
+   ],
+   "note": "Achieves 1.52B+ damage using a synchronized 15-second skill rotation with Enlightenment Aura; Durango casts at 12.0s, Aethereal at 13.5s, Lossenia at 11.5s, and Vinyara at 12.0s."
+  },
+  {
+   "mode": "Endgame Boss Mekkatorque Phase 2",
+   "heroes": [
+    "Hvitar",
+    "Aethereal",
+    "Lossenia",
+    "Vinyara",
+    "Feenja"
+   ],
+   "note": "Alternative pure Frost composition popularized on Chinese servers hitting around 1.37B to 1.6B damage."
+  }
+ ],
+ "meta_changes": [
+  "Durango's Biting Erosion defense reduction outperforms traditional Frost damage dealers like Hvitar in high-tier Mekkatorque Phase 2 boss teams."
+ ],
+ "tips": [
+  "Mekkatorque Phase 2 recommends roughly 356 Accuracy and 356 Resistance; aim to hit these thresholds across your roster.",
+  "Do not swap Feenja for pure offensive buffers like Anselm, because the team will fail without her Stand United resistance sharing.",
+  "Place the Lava Batwing pet in the same row/column as Aethereal to trigger the 5-stack Converging Flames damage penetration bonus from Raging Wildfire.",
+  "Always run an Enlightenment Aura if accuracy benchmarks are met; switch to an Accuracy Aura only if you cannot hit minimum accuracy on gear.",
+  "Maintain strict 15-second skill recast intervals on all ultimate skills to prevent the team from falling out of sync."
+ ],
+ "season": "unknown",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "H-MlVKkQO5M",
+ "model": "gemini-3.8-flash",
+ "channel": "Neff Gaming",
+ "title": "FROST TEAM! 1.5B Damage Guaranteed!  vs Endgame Boss Phase 2 | Dragonheir: Silent Gods",
+ "published": "2026-10-17T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=H-MlVKkQO5M",
+ "short": false,
+ "summarized": "2026-10-30T09:21Z"
+}
