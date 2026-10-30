@@ -1,0 +1,87 @@
+{
+ "summary": "Skratch provides a comprehensive first look on the test server at all nine new legendary heroes arriving in Season 9. The new roster includes exclusive support, damage, and control units across Fire, Ice, Necrosis, Radiance, Lightning, and Poison elements. Top highlights include Celestine and Sia as game-changing exclusive supports, Syonis offering permanent area defense reduction based on Enlightenment, and Rhyviel providing massive Corrosion scaling and True Damage. Holfast is singled out as an essential priority hero to empower Aura teams alongside Talethia.",
+ "topics": [
+  "Season 9 Heroes",
+  "Hero Showcase",
+  "Summons",
+  "Aura",
+  "Corrosion"
+ ],
+ "heroes": [
+  {
+   "name": "Fyrenzur",
+   "verdict": "Decent dodge support",
+   "note": "Provides team-wide Dodge Up II, passive healing and counterattacks when allies dodge, but offers average overall utility.",
+   "known": true
+  },
+  {
+   "name": "Longbeau",
+   "verdict": "Solid niche support for PvP and PvE",
+   "note": "Dispels debuffs via White Rat stacks and reflects non-CC debuffs back to attackers with Black Rat, though lacks direct burst healing.",
+   "known": true
+  },
+  {
+   "name": "Celestine",
+   "verdict": "Extremely powerful exclusive support tank",
+   "note": "Absorbs damage into permanent ally stat buffs, cleanses, applies Karmic Sin, and reaches peak efficiency at Inspiration 2.",
+   "known": true
+  },
+  {
+   "name": "Sia",
+   "verdict": "Top-tier exclusive Necrosis support",
+   "note": "Stores damage as Mercy for huge party shields, grants Parry, and punishes enemies with Repentance and ultimate energy drain.",
+   "known": true
+  },
+  {
+   "name": "Syonis",
+   "verdict": "Top pick exclusive Necrosis DPS and debuffer",
+   "note": "Passively reduces enemy defense up to 50% to 60% based on Enlightenment without needing debuff checks, completely replacing the need for Witch's Remains.",
+   "known": true
+  },
+  {
+   "name": "Holfast",
+   "verdict": "Must-have exclusive Radiance Aura enabler",
+   "note": "Generates Aura energy and grants 30% Damage Up and crit buffs to allied Aura heroes, making him a high priority targeting Inspiration 5.",
+   "known": true
+  },
+  {
+   "name": "Tallyn",
+   "verdict": "Monster control tank for PvP and MagiChess",
+   "note": "Features heavy crowd control through repeated stuns, knock-ups, and a Gatekeeper effect that continually stuns nearby foes.",
+   "known": true
+  },
+  {
+   "name": "Amalfriede",
+   "verdict": "Underwhelming free Poison support",
+   "note": "Offers multi-debuff chances and Silence, but self-stacking damage increases do not make up for low overall impact.",
+   "known": true
+  },
+  {
+   "name": "Rhyviel",
+   "verdict": "Insane exclusive Corrosion damage dealer",
+   "note": "Shreds defense, directly magnifies total target Corrosion by a percentage, and deals massive True Damage through hound clones.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [
+  "Syonis introduces passive area defense reduction scaled by Enlightenment, bypassing the need for artifact debuffers like Witch's Remains.",
+  "Holfast and Rhyviel heavily boost the viability of dedicated Aura and Corrosion archetype team compositions."
+ ],
+ "tips": [
+  "If building an Aura team, prioritize pulling and ascending Holfast to Inspiration 5 to maximize team Radiant damage and vulnerability.",
+  "Target Inspiration 2 on Celestine for a permanent 15% team damage reduction and 15% damage bonus.",
+  "Build Syonis with very high Enlightenment to cap out his passive defense reduction aura at 50% (or 60% at Inspiration 5)."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "H5-A51mtGFU",
+ "model": "gemini-3.8-flash",
+ "channel": "Skratch Gaming",
+ "title": "WHO TO PULL FOR?? Season 9 Brings 9 New Heroes... Dragonheir: Silent Gods x Dragonstride",
+ "published": "2026-10-19T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=H5-A51mtGFU",
+ "short": false,
+ "summarized": "2026-10-30T08:28Z"
+}

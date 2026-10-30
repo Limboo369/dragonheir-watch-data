@@ -1,0 +1,80 @@
+{
+ "summary": "This video previews the upcoming Season 9 Temporal Vortex 4 meta using data and leaderboards from the Chinese test and live servers. The creator demonstrates that Aura teams featuring the new hero Holfast and exclusive Frost support Celestine can deliver massive early-season damage (over 15.5 billion), significantly outperforming older supports like Solmo. High-end competitive leaderboards show Dauntless teams hitting 58 billion, but Aura and new Corrosion compositions show tremendous potential to redefine the high-end PvE rankings. Advice is provided on key gear pieces to carry over into Season 9 and summon plans focused on Corrosion.",
+ "topics": [
+  "Temporal Vortex",
+  "Aura Team",
+  "Season 9 Meta",
+  "Gear Transfer",
+  "Holfast",
+  "Celestine"
+ ],
+ "heroes": [
+  {
+   "name": "Holfast",
+   "verdict": "Must-have Aura booster",
+   "note": "Provides a 30% damage boost via his passive and gains stacking Radiance Vulnerability at Inspiration 5, giving huge damage amplification to Aura compositions.",
+   "known": true
+  },
+  {
+   "name": "Celestine",
+   "verdict": "Overpowered support booster",
+   "note": "An exclusive Frost support that substantially boosts team HP and survivability while raising overall team damage by roughly 4.5 billion compared to using Solmo.",
+   "known": true
+  },
+  {
+   "name": "Solmo",
+   "verdict": "Budget booster alternative",
+   "note": "Can boost damage when Celestine is unavailable, but provides much less team survivability, causing units to die before the end of Vortex fights.",
+   "known": true
+  },
+  {
+   "name": "Child of Chaos",
+   "verdict": "Crucial high-end enabler",
+   "note": "Powers top leaderboard comps to 58 billion+ damage when utilized at Inspiration 5 in Dauntless and Corrosion setups.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Temporal Vortex IV",
+   "heroes": [
+    "Talethia",
+    "Diantha",
+    "Holfast",
+    "Anneliesis",
+    "Celestine"
+   ],
+   "note": "Early S9 Aura lineup reaching 15.5B damage with Holfast (I1) and Celestine (I0). Uses Puppeteer set on Holfast and Celestine tuned to 18-second rotations."
+  },
+  {
+   "mode": "Temporal Vortex IV",
+   "heroes": [
+    "Talethia",
+    "Diantha",
+    "Holfast",
+    "Anneliesis",
+    "Solmo"
+   ],
+   "note": "Alternative Aura variant scoring roughly 11B damage, though it struggles with sustain compared to the Celestine version."
+  }
+ ],
+ "meta_changes": [
+  "Aura teams enter the top-tier Vortex meta in Season 9 alongside Dauntless due to Holfast and Celestine.",
+  "Corrosion teams are capable of reaching 50B to 72B damage on test/live servers, potentially supplanting Toxin in the dual-team Vortex format."
+ ],
+ "tips": [
+  "When transferring gear into Season 9, prioritize 1 crafted Toxin piece, 1 Aura HP%/Crit piece (gloves/hands), and 2 high-crit offensive pieces for Dauntless carries like Guinavivre.",
+  "Target summoning on the Corrosion banner in Season 9 as Corrosion teams show extreme damage ceilings."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "yTI3C6ck-Rk",
+ "model": "gemini-3.8-flash",
+ "channel": "Neff Gaming",
+ "title": "S9 - AURA Setups, Team Composition & VORTEX New META | Dragonheir: Silent Gods",
+ "published": "2026-10-18T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=yTI3C6ck-Rk",
+ "short": false,
+ "summarized": "2026-10-30T08:25Z"
+}

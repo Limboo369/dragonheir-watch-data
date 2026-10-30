@@ -1,34 +1,16 @@
 {
- "built": "2026-10-30T08:21Z",
+ "built": "2026-10-30T08:31Z",
  "last_fetch": "2026-10-30T08:17Z",
  "counts": {
-  "summarized": 79,
+  "summarized": 85,
   "skipped_giveaway": 17,
-  "retry": 11,
   "new": 479,
   "baseline": 22,
+  "retry": 5,
   "skipped_live": 1,
   "failed": 1
  },
  "problems": [
-  {
-   "title": "WHO TO PULL FOR?? Season 9 Brings 9 New Heroes... Dragonheir: Silent Gods x Dragonstride",
-   "channel": "Skratch Gaming",
-   "status": "retry",
-   "error": ""
-  },
-  {
-   "title": "EVERYTHING You Need To Know About The Upcoming Season! Dragonheir: Silent Gods x Dragonstride",
-   "channel": "Skratch Gaming",
-   "status": "retry",
-   "error": ""
-  },
-  {
-   "title": "S9 Hero Showcase: Syonis - Skills, Talents & Inspirations | Dragonheir x Dragonstride",
-   "channel": "Gorax",
-   "status": "retry",
-   "error": ""
-  },
   {
    "title": "S9 Hero Showcase: Rhyviel - Skills, Talents & Inspirations | Dragonheir x Dragonstride",
    "channel": "Gorax",
@@ -43,18 +25,6 @@
   },
   {
    "title": "BE READY FOR WEEK 1! Level 59 Aura & Toxin Vortex Setup | Dragonheir: Silent Gods",
-   "channel": "Neff Gaming",
-   "status": "retry",
-   "error": ""
-  },
-  {
-   "title": "S9 NEW HERO Changes the Arena META?! Chinese Server TOP Rankings | Dragonheir: Silent Gods",
-   "channel": "Neff Gaming",
-   "status": "retry",
-   "error": ""
-  },
-  {
-   "title": "S9 - AURA Setups, Team Composition & VORTEX New META | Dragonheir: Silent Gods",
    "channel": "Neff Gaming",
    "status": "retry",
    "error": ""
@@ -76,12 +46,6 @@
    "channel": "liveranov",
    "status": "failed",
    "error": "Expecting value: line 1 column 1 (char 0)"
-  },
-  {
-   "title": "AURA Vs DAUNTLESS! Who Should You Use?? Dragonheir: Silent Gods x Dragonstride",
-   "channel": "Skratch Gaming",
-   "status": "retry",
-   "error": ""
   }
  ],
  "budget": {
@@ -91,24 +55,6 @@
   "quota_hit": 1793341126.4954813
  },
  "log_tail": [
-  "… Neff Gaming: S9 NEW HERO Changes the Arena META?! Chinese Server TOP Rank",
-  "! AURA Vs DAUNTLESS! Who Should You Use?? Dragonheir: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
-  "… Neff Gaming: BE READY FOR WEEK 1! Level 59 Aura & Toxin Vortex Setup | Dr",
-  "! S9 Vault Preparation! Which Items Am I Keeping? | : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.… Skratch Gaming: WHO TO PULL FOR?? Season 9 Brings 9 New Heroes... Dragonheir",
-  "",
-  "! S9 NEW HERO Changes the Arena META?! Chinese Serve: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
-  "… Gorax: S9 Hero Showcase: Syonis - Skills, Talents & Inspirations | ",
-  "… Neff Gaming: S9 - AURA Setups, Team Composition & VORTEX New META | Drago",
-  "! WHO TO PULL FOR?? Season 9 Brings 9 New Heroes... : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
-  "! BE READY FOR WEEK 1! Level 59 Aura & Toxin Vortex : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
-  "… Skratch Gaming: EVERYTHING You Need To Know About The Upcoming Season! Drago",
-  "! S9 Hero Showcase: Syonis - Skills, Talents & Inspi: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
-  "… OddOneGaming RPGs: 🚨 Still Doing BIG Numbers! 🚨 My 6 Teams vs Phase 2 Mekkatorq",
-  "! S9 - AURA Setups, Team Composition & VORTEX New ME: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
-  "… Gorax: S9 Hero Showcase: Rhyviel - Skills, Talents & Inspirations |",
-  "! EVERYTHING You Need To Know About The Upcoming Sea: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
-  "! 🚨 Still Doing BIG Numbers! 🚨 My 6 Teams vs Phase 2: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
-  "! S9 Hero Showcase: Rhyviel - Skills, Talents & Insp: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
   "  gemini-3.5-flash: 429, using gemini-3.7-flash",
   "  gemini-3.7-flash: 429, using gemini-3.6-flash",
   "! BE READY FOR WEEK 1! Level 59 Dauntless & Toxin Vo: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
@@ -170,7 +116,25 @@
   "… Skratch Gaming: AURA Vs DAUNTLESS! Who Should You Use?? Dragonheir: Silent G",
   "… Neff Gaming: BE READY FOR WEEK 1! Level 59 Dauntless & Toxin Vortex Setup",
   "… Neff Gaming: S9 NEW HERO Changes the Arena META?! Chinese Server TOP Rank",
-  "… Neff Gaming: BE READY FOR WEEK 1! Level 59 Aura & Toxin Vortex Setup | Dr"
+  "… Neff Gaming: BE READY FOR WEEK 1! Level 59 Aura & Toxin Vortex Setup | Dr",
+  "… Skratch Gaming: WHO TO PULL FOR?? Season 9 Brings 9 New Heroes... Dragonheir",
+  "saved O9tGozaro1g",
+  "+ Skratch Gaming: AURA Vs DAUNTLESS! Who Should You Use?? Dragonheir: Silent G",
+  "… Gorax: S9 Hero Showcase: Syonis - Skills, Talents & Inspirations | ",
+  "saved a5s7exfCy4U",
+  "+ Neff Gaming: S9 NEW HERO Changes the Arena META?! Chinese Server TOP Rank",
+  "… Neff Gaming: S9 - AURA Setups, Team Composition & VORTEX New META | Drago",
+  "saved EyhzdvZo08A",
+  "+ Gorax: S9 Hero Showcase: Syonis - Skills, Talents & Inspirations | ",
+  "… Skratch Gaming: EVERYTHING You Need To Know About The Upcoming Season! Drago",
+  "saved yTI3C6ck-Rk",
+  "+ Neff Gaming: S9 - AURA Setups, Team Composition & VORTEX New META | Drago",
+  "… OddOneGaming RPGs: 🚨 Still Doing BIG Numbers! 🚨 My 6 Teams vs Phase 2 Mekkatorq",
+  "saved H5-A51mtGFU",
+  "+ Skratch Gaming: WHO TO PULL FOR?? Season 9 Brings 9 New Heroes... Dragonheir",
+  "… Gorax: S9 Hero Showcase: Rhyviel - Skills, Talents & Inspirations |",
+  "saved j4_0OuYJeHU",
+  "+ Skratch Gaming: EVERYTHING You Need To Know About The Upcoming Season! Drago"
  ],
  "crontab": [],
  "channels": [

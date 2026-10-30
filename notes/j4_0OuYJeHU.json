@@ -1,0 +1,77 @@
+{
+ "summary": "This preview explores upcoming Season 9 content tested on the test server, covering shops, banners, gear sets, and new heroes. Most exchange and season shops remain identical to the previous season, while new exclusive artifacts and support/damage heroes are introduced. The creator highlights new gear sets including Molten Hellshadow and Crimson Dragonflame, explaining which heroes should equip them. Psychic Core element pairings for Season 9 are Necrosis/Poison, Lightning/Fire, and Frost/Radiance. Players are advised on summoning strategies across the new support and exclusive damage banners.",
+ "topics": [
+  "Season 9",
+  "Banners",
+  "Gear Sets",
+  "Psychic Core",
+  "Artifacts",
+  "Tavern Gambit"
+ ],
+ "heroes": [
+  {
+   "name": "Holfast",
+   "verdict": "Top priority Aura hero",
+   "note": "Replaces Lincos in Aura teams because his damage buffs pair better alongside Diantha and do not stack redundantly.",
+   "known": true
+  },
+  {
+   "name": "Rhyviel",
+   "verdict": "Top tier AoE Corrosion damage dealer",
+   "note": "Combines with Szecedith and the new artifact to dominate AoE damage, though he requires high Inspiration investment to reach full potential.",
+   "known": true
+  },
+  {
+   "name": "Szecedith",
+   "verdict": "Excellent pairing with Rhyviel",
+   "note": "Becomes extremely dominant in AoE damage when paired with Rhyviel and the new exclusive Corrosion artifact.",
+   "known": true
+  },
+  {
+   "name": "Sia",
+   "verdict": "High priority exclusive support",
+   "note": "Crucial Necrosis exclusive support that the creator aims to pull to strengthen Necrosis and Shadow teams.",
+   "known": true
+  },
+  {
+   "name": "Amalfriede",
+   "verdict": "Expected free seasonal hero",
+   "note": "A Poison support hero expected to be obtainable for free from the Ancient Rune Oath seasonal challenge.",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "Must-save priority target",
+   "note": "Key Radiant Aura damage dealer expected to return soon, making resource management critical between current banners and her rerun.",
+   "known": true
+  },
+  {
+   "name": "Maashtur",
+   "verdict": "Solid shop purchase for Inspiration",
+   "note": "Available in the Temporal Corridor shop; bought by the creator to push him to Inspiration level 3.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [
+  "Season 9 elemental affinity pairings are Necrotoxin (Necrosis & Poison), Firestorm (Lightning & Fire), and Frostflight (Frost & Radiance).",
+  "Tavern Gambit (formerly Magic Chess) appears to be introducing Support-class heroes, which risks making the mode feel like standard Arena.",
+  "Team Arena / Blade Colosseum is returning completely revamped during Season 9."
+ ],
+ "tips": [
+  "Equip the Molten Hellshadow glove set on team activators like Twitch or Sleight rather than your primary damage dealer, providing up to a 20% derivative damage bonus to adjacent school allies.",
+  "Equip Crimson Dragonflame gloves across up to 3 separate heroes to rapidly apply and maintain the maximum 3 stacks of Dragonflame (24% bonus damage) on the lowest HP target.",
+  "Prepare for the seasonal support banner risk: pulling beyond 300 summons to hunt exclusive supports like Sia or Celestine is a 50/50 gamble that could consume up to 1,000 dice."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "j4_0OuYJeHU",
+ "model": "gemini-3.8-flash",
+ "channel": "Skratch Gaming",
+ "title": "EVERYTHING You Need To Know About The Upcoming Season! Dragonheir: Silent Gods x Dragonstride",
+ "published": "2026-10-18T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=j4_0OuYJeHU",
+ "short": false,
+ "summarized": "2026-10-30T08:28Z"
+}

@@ -1,0 +1,110 @@
+{
+ "summary": "This video compares the performance of Dauntless and Aura teams in Temporal Vortex against the Arbor Hydra boss. The Dauntless composition outperforms Aura by roughly 800 million damage (~2.5B vs ~1.7B), even with incomplete talent trees on Kurvida and Selva. Maashtur's Inspiration 3 is identified as the single biggest factor behind Dauntless's dominance due to his team-wide 15% damage bonus and damage reduction. While Aura is easier and cheaper to build, it will remain behind Dauntless until upcoming exclusive supports and higher inspiration levels become available. Additionally, players without Selva can easily substitute other supports like Reytah or Synarell since 5-hero Psychocore elemental affinity is not yet required.",
+ "topics": [
+  "Temporal Vortex",
+  "Dauntless vs Aura",
+  "Maashtur",
+  "Talethia",
+  "Team Comparison"
+ ],
+ "heroes": [
+  {
+   "name": "Maashtur",
+   "verdict": "Essential Dauntless core",
+   "note": "Reaching Inspiration 3 makes him game-changing, granting marked allies +15% damage dealt and 15% damage reduction.",
+   "known": true
+  },
+  {
+   "name": "Guinavivre",
+   "verdict": "Top-tier Dauntless DPS",
+   "note": "Deals massive lightning penetration damage even when equipped with suboptimal runes.",
+   "known": true
+  },
+  {
+   "name": "Nastjenka",
+   "verdict": "Core Dauntless DPS",
+   "note": "Provides consistent high lightning damage by boosting attack speed and crit damage through Black Stork's Feather.",
+   "known": true
+  },
+  {
+   "name": "Kurvida",
+   "verdict": "Core Dauntless DPS",
+   "note": "Applies Omen debuffs and strong lightning damage; highly effective even with unmaxed talents.",
+   "known": true
+  },
+  {
+   "name": "Selva",
+   "verdict": "Strong support but replaceable",
+   "note": "Steals damage reduction and inflicts Imbalance, but can be safely swapped out until 5-hero Psychocore affinity is active.",
+   "known": true
+  },
+  {
+   "name": "Talethia",
+   "verdict": "Core Aura DPS",
+   "note": "Primary radiant damage dealer for Aura, but cannot outdamage Dauntless on her own without upcoming exclusive supports.",
+   "known": true
+  },
+  {
+   "name": "Lincos",
+   "verdict": "Temporary Aura filler",
+   "note": "Avoid investing talent books into him because he will be replaced once upcoming exclusive Aura supports release.",
+   "known": true
+  },
+  {
+   "name": "Scaarr",
+   "verdict": "Viable Dauntless sub/support",
+   "note": "Can enable high-damage Dauntless runs at Inspiration 2 or 3 as an alternative buffer.",
+   "known": true
+  },
+  {
+   "name": "Reytah",
+   "verdict": "Great Selva replacement",
+   "note": "Provides team cleanses, damage reduction, and extended Defense Down debuffs with her artifact.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Temporal Vortex",
+   "heroes": [
+    "Guinavivre",
+    "Nastjenka",
+    "Kurvida",
+    "Maashtur",
+    "Selva"
+   ],
+   "note": "Top-performing Dauntless team dealing ~2.5B damage; vastly superior to Aura even without maxed talent investments."
+  },
+  {
+   "mode": "Temporal Vortex",
+   "heroes": [
+    "Talethia",
+    "Diantha",
+    "Lincos",
+    "Anneliesis",
+    "Solmo"
+   ],
+   "note": "Full Aura team dealing ~1.7B damage; solid and cheaper to gear, but currently falls behind Dauntless."
+  }
+ ],
+ "meta_changes": [
+  "Dauntless remains dominant over Aura in Temporal Vortex boss scoring due to Maashtur's team-wide buffs and multi-DPS scaling.",
+  "Aura teams require future exclusive support heroes and higher inspiration investments to overtake high-end Dauntless setups."
+ ],
+ "tips": [
+  "Prioritize purchasing Maashtur copies from the Temporal Corridor shop (800 Lingering Echoes) to unlock his Inspiration 3 damage spike.",
+  "Do not worry if you lack Selva; substitutes like Reytah, Synarell, or Ardreth work effectively because 5-man elemental affinity bonuses are not yet needed on the Psychocore.",
+  "Save skill scrolls and talent materials by skipping talent maxing on temporary Aura supports like Lincos."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "O9tGozaro1g",
+ "model": "gemini-3.8-flash",
+ "channel": "Skratch Gaming",
+ "title": "AURA Vs DAUNTLESS! Who Should You Use?? Dragonheir: Silent Gods x Dragonstride",
+ "published": "2026-10-29T18:37:32+00:00",
+ "url": "https://www.youtube.com/watch?v=O9tGozaro1g",
+ "short": false,
+ "summarized": "2026-10-30T08:21Z"
+}

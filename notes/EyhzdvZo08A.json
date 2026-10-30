@@ -1,0 +1,60 @@
+{
+ "summary": "Syonis is a new Necrosis element DPS hero from the Shadow school debuting in Season 9 as the first DPS banner hero. His kit revolves around granting Attack Up to Shadow allies, shredding enemy Defense based on Enlightenment, and isolating the enemy's highest Attack unit into a 1v1 Energy Drain Zone. He is tailored specifically for PvP and Magic Chess, capable of shutting down dangerous burst carries like Serpentemis, bypassing immortality buffs at Inspiration 2. However, because Shadow teams remain lackluster in PvE content, he is generally considered a lower-priority pull for players seeking broad PvE progression.",
+ "topics": [
+  "Syonis",
+  "Hero Showcase",
+  "Shadow School",
+  "PvP Meta",
+  "Season 9"
+ ],
+ "heroes": [
+  {
+   "name": "Syonis",
+   "verdict": "PvP specialist / Skip for PvE",
+   "note": "Dominates PvP by locking down the highest Attack enemy in a 1v1 zone and bypassing immortality, but is the least worthy pick if looking to build PvE teams.",
+   "known": true
+  },
+  {
+   "name": "Saverio",
+   "verdict": "Top PvP partner for Syonis",
+   "note": "Combines with Syonis to quickly wipe enemy squads in early PvP rotations thanks to fast initial Shadow Energy gains.",
+   "known": true
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "Target counter",
+   "note": "A top-tier PvP threat whose AoE burst can be neutralized by Syonis pulling her into his Energy Drain Zone.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "PvP / Magic Chess",
+   "heroes": [
+    "Syonis",
+    "Saverio"
+   ],
+   "note": "Fast Shadow burst composition designed to rapidly generate Shadow Energy and demolish enemy teams within the first two rotations."
+  }
+ ],
+ "meta_changes": [
+  "Syonis introduces the Energy Drain Zone mechanic, isolating the highest Attack enemy and himself into a 1v1 duel where outside units cannot target them, energy regeneration is locked, and immortality can be bypassed at Inspiration 2.",
+  "His passive aura reduces enemy Defense based on Enlightenment (up to 50%, or 60% with Inspiration 5), but prevents affected targets from receiving other Defense Reduction debuffs like Witch's Remains."
+ ],
+ "tips": [
+  "Build Enlightenment on Syonis to maximize the passive Defense Reduction aura in front of him.",
+  "Target Inspiration 2 if building him for high-end PvP, as it cleanses crowd control upon casting his Ultimate and allows his damage to completely ignore immortality effects.",
+  "Avoid prioritizing Syonis if your primary goal is PvE progression, as Shadow school teams remain weak in PvE environments compared to other schools."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "EyhzdvZo08A",
+ "model": "gemini-3.8-flash",
+ "channel": "Gorax",
+ "title": "S9 Hero Showcase: Syonis - Skills, Talents & Inspirations | Dragonheir x Dragonstride",
+ "published": "2026-10-19T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=EyhzdvZo08A",
+ "short": false,
+ "summarized": "2026-10-30T08:23Z"
+}

@@ -1,0 +1,114 @@
+{
+ "summary": "This video examines the top 10 Arena team compositions on the Chinese server during Day 22 of Season 9. The creator highlights the new Season 9 non-exclusive Ice support hero Longbeau (Duke Rhapsody), who has rapidly entered high-rank Arena defenses even at Inspiration 0 due to his damage reduction, dispelling, and debuff reflection mechanics. Other prevalent heroes dominating the top ranks include Saverio, Berengar, The Dark Lady, Child of Chaos, Talethia, and Aspalta. Additionally, the Season 8 resurrection pet remains universally equipped across the leaderboard.",
+ "topics": [
+  "Arena",
+  "Season 9 Meta",
+  "Longbeau",
+  "Chinese Server Leaderboard",
+  "PvP Builds"
+ ],
+ "heroes": [
+  {
+   "name": "Longbeau",
+   "verdict": "High-tier PvP support",
+   "note": "Provides up to 60% damage resistance and healing via White Rat, dispels debuffs, inflicts healing reduction and buff prohibition, and his Black Rat reflects incoming debuffs and control effects back to enemies ignoring resistance.",
+   "known": true
+  },
+  {
+   "name": "Saverio",
+   "verdict": "Top Arena core",
+   "note": "Frequently featured across high-ranking teams built with Enlightenment and paired with his exclusive artifact.",
+   "known": true
+  },
+  {
+   "name": "Berengar",
+   "verdict": "Top Arena tank",
+   "note": "Consistently run in high-tier Arena teams with high Accuracy and his exclusive artifact.",
+   "known": true
+  },
+  {
+   "name": "The Dark Lady",
+   "verdict": "Top Arena debuffer",
+   "note": "Commonly geared with high Accuracy, HP, and defensive artifacts like Rift Hourglass.",
+   "known": true
+  },
+  {
+   "name": "Child of Chaos",
+   "verdict": "Meta PvP support",
+   "note": "Built with high Skill Haste and Berserker Mask to quickly cycle utility and defenses.",
+   "known": true
+  },
+  {
+   "name": "Talethia",
+   "verdict": "Top Arena damage dealer",
+   "note": "Built with massive critical damage (over 300%) and equipped with an artifact that ignores enemy shields.",
+   "known": true
+  },
+  {
+   "name": "Aspalta",
+   "verdict": "Meta Arena DPS",
+   "note": "Utilized in top lineups built with high critical damage and attack speed.",
+   "known": true
+  },
+  {
+   "name": "Sia",
+   "verdict": "Niche/unproven in PvP",
+   "note": "The new Necrosis exclusive hero boosts ally damage and damage reduction by 10%, but does not appear widely optimized for Arena yet.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Arena",
+   "heroes": [
+    "Saverio",
+    "Rena",
+    "Berengar",
+    "The Dark Lady",
+    "Child of Chaos"
+   ],
+   "note": "Rank 1 Arena defense setup utilizing the S8 resurrection pet and exclusive artifacts on Saverio and Berengar."
+  },
+  {
+   "mode": "Arena",
+   "heroes": [
+    "Longbeau",
+    "Aemonleyda",
+    "Child of Chaos",
+    "Anneliesis",
+    "Talethia"
+   ],
+   "note": "Rank 3 Arena team showcasing Longbeau built with high Skill Haste alongside shield-piercing Talethia burst."
+  },
+  {
+   "mode": "Arena",
+   "heroes": [
+    "Saverio",
+    "Grishnaar",
+    "Rena",
+    "Child of Chaos",
+    "Aspalta"
+   ],
+   "note": "Rank 4 Arena lineup focusing on high burst damage from Aspalta and Enlightenment-focused Saverio."
+  }
+ ],
+ "meta_changes": [
+  "Longbeau (Duke Rhapsody), a non-exclusive S9 Ice hero, has become a prominent meta support in PvP due to White Rat's stacking damage resistance and Black Rat's debuff reflection.",
+  "The Season 8 resurrection pet continues to be universally run across almost every top 10 Arena team."
+ ],
+ "tips": [
+  "Build Longbeau primarily with Skill Haste and moderate Accuracy so his passive and ultimate shield/debuff cycles trigger rapidly.",
+  "Rift Hourglass and Immortality gear remain premier defensive artifact choices for PvP supports and debuffers."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "a5s7exfCy4U",
+ "model": "gemini-3.8-flash",
+ "channel": "Neff Gaming",
+ "title": "S9 NEW HERO Changes the Arena META?! Chinese Server TOP Rankings | Dragonheir: Silent Gods",
+ "published": "2026-10-19T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=a5s7exfCy4U",
+ "short": false,
+ "summarized": "2026-10-30T08:22Z"
+}
