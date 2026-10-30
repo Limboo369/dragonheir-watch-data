@@ -1,45 +1,27 @@
 {
- "built": "2026-10-30T08:31Z",
+ "built": "2026-10-30T08:35Z",
  "last_fetch": "2026-10-30T08:17Z",
  "counts": {
-  "summarized": 85,
+  "summarized": 89,
   "skipped_giveaway": 17,
-  "new": 479,
+  "new": 478,
   "baseline": 22,
-  "retry": 5,
+  "retry": 2,
   "skipped_live": 1,
   "failed": 1
  },
  "problems": [
   {
-   "title": "S9 Hero Showcase: Rhyviel - Skills, Talents & Inspirations | Dragonheir x Dragonstride",
-   "channel": "Gorax",
-   "status": "retry",
-   "error": ""
-  },
-  {
    "title": "BE READY FOR WEEK 1! Level 59 Dauntless & Toxin Vortex Setup | Dragonheir: Silent Gods",
    "channel": "Neff Gaming",
    "status": "retry",
-   "error": ""
+   "error": "The read operation timed out"
   },
   {
    "title": "BE READY FOR WEEK 1! Level 59 Aura & Toxin Vortex Setup | Dragonheir: Silent Gods",
    "channel": "Neff Gaming",
    "status": "retry",
-   "error": ""
-  },
-  {
-   "title": "🚨 Still Doing BIG Numbers! 🚨 My 6 Teams vs Phase 2 Mekkatorque Boss S8 | Dragonheir x Dragonstride",
-   "channel": "OddOneGaming RPGs",
-   "status": "retry",
-   "error": ""
-  },
-  {
-   "title": "💥New Season 9 Equipment are META? I checked them all! | Dragonheir: Silent Gods",
-   "channel": "Skyasterix Gaming",
-   "status": "retry",
-   "error": ""
+   "error": "The read operation timed out"
   },
   {
    "title": "Season 9 NEW INFO: 2 Free Heroes, New Affinities & Selectable Banner! | Dragonheir: Silent Gods",
@@ -55,18 +37,6 @@
   "quota_hit": 1793341126.4954813
  },
  "log_tail": [
-  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
-  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
-  "! BE READY FOR WEEK 1! Level 59 Dauntless & Toxin Vo: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
-  "saved iQN8FFgvVTk",
-  "+ Gorax: Imperial Shadow Recast Week 2 – 4+ Teams, Multiple Variants ",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 78 videos, 109 heroes",
-  "== 2026-10-30 05:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "Gemini quota was full less than an hour ago, trying again next round",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 78 videos, 109 heroes",
-  "== 2026-10-30 06:17",
   "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "… Skratch Gaming: AURA Vs DAUNTLESS! Who Should You Use?? Dragonheir: Silent G",
@@ -134,7 +104,19 @@
   "+ Skratch Gaming: WHO TO PULL FOR?? Season 9 Brings 9 New Heroes... Dragonheir",
   "… Gorax: S9 Hero Showcase: Rhyviel - Skills, Talents & Inspirations |",
   "saved j4_0OuYJeHU",
-  "+ Skratch Gaming: EVERYTHING You Need To Know About The Upcoming Season! Drago"
+  "+ Skratch Gaming: EVERYTHING You Need To Know About The Upcoming Season! Drago",
+  "… Skyasterix Gaming: 💥New Season 9 Equipment are META? I checked them all! | Drag",
+  "… Gorax: S9 Hero Showcase: Holfast - Skills, Talents & Inspirations |",
+  "! BE READY FOR WEEK 1! Level 59 Aura & Toxin Vortex : ReadTimeout: The read operation timed out",
+  "! BE READY FOR WEEK 1! Level 59 Dauntless & Toxin Vo: ReadTimeout: The read operation timed out",
+  "saved fT3qqfBNas4",
+  "+ Gorax: S9 Hero Showcase: Rhyviel - Skills, Talents & Inspirations |",
+  "saved hMbPhfixtdg",
+  "+ OddOneGaming RPGs: 🚨 Still Doing BIG Numbers! 🚨 My 6 Teams vs Phase 2 Mekkatorq",
+  "saved sQYC7VdWNeE",
+  "+ Gorax: S9 Hero Showcase: Holfast - Skills, Talents & Inspirations |",
+  "saved vTE6LOerEtE",
+  "+ Skyasterix Gaming: 💥New Season 9 Equipment are META? I checked them all! | Drag"
  ],
  "crontab": [],
  "channels": [

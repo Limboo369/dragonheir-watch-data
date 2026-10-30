@@ -1,0 +1,154 @@
+{
+ "summary": "OddOneGaming showcases his six Phase 2 Mekkatorque boss teams in Season 8, adjusting compositions and builds to handle the boss's increased damage and ultimate energy drain mechanics. Building high Resistance and using Resistance Up supports like Feenja is critical to prevent heroes from having their ultimate energy delayed or drained. Swapping Rose into the Rally team and Calavera into the Toxin team yielded significant score improvements. Multiple teams, including Toxin and Necrosis/Shadow, performed effectively on full auto without precise manual timing.",
+ "topics": [
+  "Mekkatorque",
+  "Phase 2 Boss",
+  "Team Lineups",
+  "Season 8",
+  "Boss Guide"
+ ],
+ "heroes": [
+  {
+   "name": "Rose",
+   "verdict": "Great Rally support alternative",
+   "note": "Replaced Yfeir in the Rally team, bringing consistent healing and debuff management to push the team past 308M damage.",
+   "known": true
+  },
+  {
+   "name": "Yfeir",
+   "verdict": "Decent support",
+   "note": "Provides healing and attack penalty, but yielded lower overall damage than Rose in the Rally setup.",
+   "known": true
+  },
+  {
+   "name": "Zeffi",
+   "verdict": "Key Thunderbolt support",
+   "note": "Brings Defense Up, invincibility, and buff dispelling to strip Mekkatorque's Defense Up.",
+   "known": true
+  },
+  {
+   "name": "Shahla",
+   "verdict": "Core Aura battery",
+   "note": "Built with high Resistance and Prismatic Cloak to reflect attack penalties and cycle ultimate energy into the team on a 15-second rotation.",
+   "known": true
+  },
+  {
+   "name": "Feenja",
+   "verdict": "Essential Corrosion/Ice support",
+   "note": "Provides Resistance Up II, shields, and bonus Resistance sharing via Stand United to stop Mekkatorque from draining ultimate energy.",
+   "known": true
+  },
+  {
+   "name": "Rook",
+   "verdict": "Top Corrosion damage dealer",
+   "note": "Needs high Resistance gear to avoid having his ultimate energy drained by the boss.",
+   "known": true
+  },
+  {
+   "name": "Calavera",
+   "verdict": "High-performing Toxin support",
+   "note": "Replaced Durango alongside Serpentemis and Twitch, helping the Toxin team reach 900M damage.",
+   "known": true
+  },
+  {
+   "name": "Twitch",
+   "verdict": "Crucial Toxin DPS/debuffer",
+   "note": "Built with Misty Conch and elevated Resistance to ensure clean 15-second skill cycling against Mekkatorque.",
+   "known": true
+  },
+  {
+   "name": "Astaion",
+   "verdict": "Key Necrosis support",
+   "note": "Rebuilt with high HP, Resistance, and accuracy on Witch's Remains to survive boss burst and sustain the Shadow team.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Mekkatorque Phase 2",
+   "heroes": [
+    "Monelisse",
+    "Gladys",
+    "Lorentheel",
+    "Philto",
+    "Rose"
+   ],
+   "note": "Rally team; uses Rose for survivability and debuff control, hitting over 308M on full auto."
+  },
+  {
+   "mode": "Mekkatorque Phase 2",
+   "heroes": [
+    "Traveler (Lightning)",
+    "Grishnaar",
+    "Tamar",
+    "Irzillas",
+    "Zeffi"
+   ],
+   "note": "Thunderbolt team; relies on Zeffi for dispel and survival, hitting over 413M damage with 30s rotation timers."
+  },
+  {
+   "mode": "Mekkatorque Phase 2",
+   "heroes": [
+    "Talethia",
+    "Diantha",
+    "Lincos",
+    "Monelisse",
+    "Shahla"
+   ],
+   "note": "Aura team; built around a 15s ultimate rotation once Diantha stacks skill haste, producing 1.2B to 1.5B damage."
+  },
+  {
+   "mode": "Mekkatorque Phase 2",
+   "heroes": [
+    "Sacredeia",
+    "Rook",
+    "Careth",
+    "Feenja",
+    "Ghul'ende"
+   ],
+   "note": "Corrosion team; Feenja and high-Resistance gear prevent the boss from delaying Rook's ultimate energy."
+  },
+  {
+   "mode": "Mekkatorque Phase 2",
+   "heroes": [
+    "Caspar",
+    "Twitch",
+    "Serpentemis",
+    "Oggok",
+    "Calavera"
+   ],
+   "note": "Toxin team; Calavera and Twitch running with high Resistance and Oggok's aura to easily hit 900M damage on auto."
+  },
+  {
+   "mode": "Mekkatorque Phase 2",
+   "heroes": [
+    "Lothair",
+    "Adolphus",
+    "Torrin",
+    "Astaion",
+    "Shai'nachtan"
+   ],
+   "note": "Shadow/Necrosis team; tanky Astaion with high Resistance enables the team to survive and deal over 829M damage."
+  }
+ ],
+ "meta_changes": [
+  "Phase 2 of Mekkatorque introduces heavy ultimate energy drain and recharge penalties alongside increased boss attack power, making Resistance and Resistance Up buffs mandatory to maintain damage rotations."
+ ],
+ "tips": [
+  "Prioritize Resistance on your main DPS heroes (like Rook and Twitch) or bring Resistance Up buffers like Feenja so Mekkatorque cannot deplete their ultimate charge.",
+  "Equip Shahla with Prismatic Cloak to reflect the boss's attack penalties back onto him.",
+  "Equip Feenja with Gatekeeper's Staff and Secrecy Order's Chant to boost allied attack through shielding.",
+  "Do not overcomplicate skill timings; running teams like Toxin and Shadow on full auto can produce equal or higher damage than rigid timing presets."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "hMbPhfixtdg",
+ "model": "gemini-3.8-flash",
+ "channel": "OddOneGaming RPGs",
+ "title": "🚨 Still Doing BIG Numbers! 🚨 My 6 Teams vs Phase 2 Mekkatorque Boss S8 | Dragonheir x Dragonstride",
+ "published": "2026-10-18T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=hMbPhfixtdg",
+ "short": false,
+ "summarized": "2026-10-30T08:35Z"
+}

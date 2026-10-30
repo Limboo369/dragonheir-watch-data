@@ -1,0 +1,85 @@
+{
+ "summary": "Gorax showcases the Season 9 exclusive Radiant DPS and support hero Holfast, who officially replaces Lincos in Aura team compositions. Even at Inspiration 0, Holfast outperforms an Inspiration 5 Lincos in Temporal Vortex damage tests due to his energy feeding and massive team damage buffs. Holfast's exclusive talent extends his 30% team Damage Up buff to 20 seconds, allowing for near 100% uptime with proper gear like the Puppeteer set. His high-tier inspirations provide Radiance Vulnerability and bonus Radiant damage, making him a critical pickup on the guaranteed 1,000-dice banner. The video also highlights the synergy of upcoming tank Celestine and new Season 9 gear like the Crimson Dragonflame set.",
+ "topics": [
+  "Holfast",
+  "Aura Team",
+  "Temporal Vortex",
+  "Hero Showcase",
+  "S9 Banners",
+  "Gear Sets"
+ ],
+ "heroes": [
+  {
+   "name": "Holfast",
+   "verdict": "Must-pull Aura enabler and DPS",
+   "note": "Replaces Lincos completely, providing huge energy channeling, a 20s 30% Damage Up buff via talent, and outdamaging I5 Lincos even at I0.",
+   "known": true
+  },
+  {
+   "name": "Lincos",
+   "verdict": "Replaced by Holfast",
+   "note": "His spot in top Aura teams is taken over by Holfast, who beats his I5 output even at I0.",
+   "known": true
+  },
+  {
+   "name": "Celestine",
+   "verdict": "Strong tank for Aura teams",
+   "note": "Ice defense tank providing Max HP increases and Defense Up II, which synergizes directly with Aura scaling.",
+   "known": true
+  },
+  {
+   "name": "Talethia",
+   "verdict": "Core Aura DPS",
+   "note": "The primary single-target damage dealer in the Aura comp who heavily benefits from Holfast's buffs.",
+   "known": true
+  },
+  {
+   "name": "Diantha",
+   "verdict": "Core Aura enabler",
+   "note": "Functions as the main applier of the Witch's Remains artifact in the standard Aura composition.",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "Core Aura enabler",
+   "note": "Essential member of the Aura roster whose banner is expected to return around November.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Temporal Vortex",
+   "heroes": [
+    "Holfast",
+    "Talethia",
+    "Anneliesis",
+    "Diantha",
+    "Celestine"
+   ],
+   "note": "The new premier Aura team for Season 9; reaches roughly 9.8B damage at high investment on level 100 testing."
+  }
+ ],
+ "meta_changes": [
+  "Holfast replaces Lincos as the cornerstone support/DPS hybrid in Radiant Aura compositions.",
+  "Aura teams gain significantly higher Damage Up buff uptime (20s duration via Holfast's exclusive talent).",
+  "The new Season 9 Crimson Dragonflame gear set provides stacking damage boosts (up to 24%) against the lowest HP enemy."
+ ],
+ "tips": [
+  "Save your dice for the S9 Aura banner to secure at least one guaranteed copy of Holfast at 1,000 dice.",
+  "Do not over-invest in Crit Rate on Talethia (aim around 80%) if pairing with Holfast, as his skill provides a 20% Crit Rate buff.",
+  "Equip Holfast with Puppeteer set to lower skill cooldowns to 18 seconds, ensuring 100% uptime on his 20-second 30% Damage Up talent buff.",
+  "Run Golden Antlers on Holfast, or alternatively Orb of the Dragon God or Angelic Alliance if Antlers is on another unit.",
+  "Utilize the new Crimson Dragonflame set across multiple heroes against single-target bosses for up to 3 stacks of 8% bonus damage."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "sQYC7VdWNeE",
+ "model": "gemini-3.8-flash",
+ "channel": "Gorax",
+ "title": "S9 Hero Showcase: Holfast - Skills, Talents & Inspirations | Dragonheir x Dragonstride",
+ "published": "2026-10-17T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=sQYC7VdWNeE",
+ "short": false,
+ "summarized": "2026-10-30T08:35Z"
+}

@@ -1,0 +1,72 @@
+{
+ "summary": "Skyasterix previews the new equipment sets arriving in Season 9 ('The Undertow Approaches'). The preview covers three new Legendary sets (Blazeland Followers, Verdant Breath, and Luminary Order Blesser) and four new Mythic sets (Crimson Dragonflame, Molten Hellshadow, Azure Prophecy, and Northern Gale). The new sets introduce strong mechanics tailored for attack-speed damage dealers, tank survivability through regenerating shields, debuff reflection in PvP, derivative damage amplification, and targeted crowd control/ultimate energy reduction. Several older gear sets such as Forbidden Aegis, Sylvan Refuge, and Curse of the Fallen will rotate out when the new season launches.",
+ "topics": [
+  "Season 9",
+  "New Equipment Sets",
+  "Legendary Gear",
+  "Mythic Gear",
+  "PvP Meta"
+ ],
+ "heroes": [
+  {
+   "name": "Guinavivre",
+   "verdict": "Primary beneficiary of Blazeland Followers set",
+   "note": "Takes full advantage of the set's cycling bonuses to Attack, Attack Speed, and Critical Damage.",
+   "known": true
+  },
+  {
+   "name": "Kurvida",
+   "verdict": "Strong user of Blazeland Followers",
+   "note": "Benefits as a Dauntless hero requiring high attack frequency and damage scaling.",
+   "known": true
+  },
+  {
+   "name": "Ardreth",
+   "verdict": "Ideal user of Verdant Breath set",
+   "note": "Gains massive survivability from a renewable max HP shield, helping in Grave of Venom, Temporal Vortex, and Arena.",
+   "known": true
+  },
+  {
+   "name": "Blah Blah",
+   "verdict": "Great user of Luminary Order Blesser set",
+   "note": "Acts as an anti-debuff PvP countermeasure by granting rows of allies stacks of Reflect.",
+   "known": true
+  },
+  {
+   "name": "Amalfriede",
+   "verdict": "Recommended user of Azure Prophecy set",
+   "note": "Frequently applies non-damaging debuffs to build stacks and amplify damage taken by targets.",
+   "known": true
+  },
+  {
+   "name": "Maashtur",
+   "verdict": "Top candidate for Northern Gale set",
+   "note": "Applies taunt to the farthest enemy and drains their ultimate energy, effective in Fey Corridor and Arena.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [
+  "New Legendary set 'Blazeland Followers' boosts Attack, Attack Speed, and Crit Damage in cycles for multi-hit dealers.",
+  "New Legendary set 'Verdant Breath' grants a shield based on max HP that re-applies shortly after breaking.",
+  "New Legendary set 'Luminary Order Blesser' introduces a Reflect buff at battle start to bounce incoming debuffs back to enemies.",
+  "New Mythic sets enhance Derivative Damage for Enlightenment schools, increase single-target focus damage (Azure Prophecy), and add crowd control/energy drain (Northern Gale).",
+  "Older sets rotating out: Forbidden Aegis, Sylvan Refuge, Cervidynus's Call, Curse of the Fallen, Death Record, Imperial Oath, and Whirling Doom."
+ ],
+ "tips": [
+  "Prepare for PvP shifts where debuff-heavy opening teams can be countered using the Luminary Order Blesser set.",
+  "Equip multiple damage dealers with the Azure Prophecy set in Continental Challenge to stack damage amplification on low-HP boss targets.",
+  "Build Northern Gale on tanks to disrupt enemy backline carries in Arena and high-difficulty Fey Corridor stages."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "vTE6LOerEtE",
+ "model": "gemini-3.8-flash",
+ "channel": "Skyasterix Gaming",
+ "title": "💥New Season 9 Equipment are META? I checked them all! | Dragonheir: Silent Gods",
+ "published": "2026-10-17T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=vTE6LOerEtE",
+ "short": false,
+ "summarized": "2026-10-30T08:35Z"
+}

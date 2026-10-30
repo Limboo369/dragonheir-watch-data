@@ -1,0 +1,68 @@
+{
+ "summary": "This video provides an early kit showcase and test server analysis of Rhyviel, a new Legendary Poison/Corrosion damage dealer introduced in Season 9. Rhyviel applies Rending Bite, which shreds enemy Defense by up to 35%, reduces incoming damage, amplifies Corrosion accumulation, and applies 30% Poison Vulnerability via talents. In a low-level Temporal Vortex test against Arbor Hydra Diana, Rhyviel demonstrated strong secondary DPS capabilities behind Rook while providing massive team utility. Gorax breaks down Rhyviel's skills, inspirations, recommended gear stats, and his role in late-game Corrosion compositions.",
+ "topics": [
+  "Rhyviel Showcase",
+  "Corrosion Team",
+  "Hero Kit Breakdown",
+  "Temporal Vortex",
+  "Season 9"
+ ],
+ "heroes": [
+  {
+   "name": "Rhyviel",
+   "verdict": "High-tier secondary DPS and essential Corrosion amplifier",
+   "note": "Applies 35% Defense reduction and 30% Poison Vulnerability via Rending Bite, amplifies Corrosion accumulation, and deals high True Damage based on active Corrosion.",
+   "known": true
+  },
+  {
+   "name": "Rook",
+   "verdict": "Top-tier primary Corrosion carry",
+   "note": "Remains the highest damage dealer in Corrosion setups by consuming Corrosion stacks to deal massive True Damage.",
+   "known": true
+  },
+  {
+   "name": "Szecedith",
+   "verdict": "Core Corrosion enabler",
+   "note": "Acts as a reliable Corrosion applier to fuel Rhyviel and Rook's True Damage scaling.",
+   "known": true
+  },
+  {
+   "name": "Sacredeia",
+   "verdict": "Strong Corrosion debuffer and sub-DPS",
+   "note": "Provides Poison Vulnerability and Corrosion application, synergizing well with the Misty Conch artifact.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Temporal Vortex",
+   "heroes": [
+    "Rhyviel",
+    "Rook",
+    "Szecedith",
+    "Sacredeia"
+   ],
+   "note": "Corrosion boss team where Szecedith and Sacredeia ramp up Corrosion stacks, Rhyviel shreds Defense and inflicts Poison Vulnerability, and Rook deals massive True Damage."
+  }
+ ],
+ "meta_changes": [
+  "Rhyviel introduces guaranteed high Defense shred (35%) and Poison Vulnerability into Corrosion teams, significantly elevating overall Corrosion archetype viability."
+ ],
+ "tips": [
+  "Build Rhyviel with standard offensive stats: Attack, Crit Rate, and Crit Damage; his exclusive artifact Swamp Toadstool is an excellent choice.",
+  "Target Inspiration 2 on Rhyviel if possible, as it raises Rending Bite application to 100% chance (removing RNG) and gives a 5% team damage boost against afflicted targets.",
+  "Corrosion compositions require heavy stat min-maxing and proper stat optimization to shine, making them primarily tailored for endgame content.",
+  "In Season 9, the Corrosion banner is scheduled as the third DPS banner, following the Shadow and Aura banners, featuring a 300-pull guarantee."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "fT3qqfBNas4",
+ "model": "gemini-3.8-flash",
+ "channel": "Gorax",
+ "title": "S9 Hero Showcase: Rhyviel - Skills, Talents & Inspirations | Dragonheir x Dragonstride",
+ "published": "2026-10-18T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=fT3qqfBNas4",
+ "short": false,
+ "summarized": "2026-10-30T08:33Z"
+}
