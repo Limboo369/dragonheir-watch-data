@@ -1,5 +1,5 @@
 {
- "built": "2026-10-30T22:43Z",
+ "built": "2026-10-30T23:13Z",
  "last_fetch": "2026-10-30T22:17Z",
  "counts": {
   "summarized": 96,
@@ -24,7 +24,6 @@
   "quota_hit": 1793341126.4954813
  },
  "log_tail": [
-  "… Fastidious Dragonheir: DO NOT MAKE THIS MISTAKE! Be Smarter Than Me ⁂ Dragonheir: S",
   "… liveranov: Thunderbolt vs Mekkatorque (Phase 2) | Endgame Boss | Season",
   "saved VMqR9QYdHaI",
   "+ Neff Gaming: BE READY FOR WEEK 1! Level 59 Dauntless & Toxin Vortex Setup",
@@ -103,7 +102,8 @@
   "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "daily video budget used (444 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 96 videos, 117 heroes"
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 96 videos, 117 heroes",
+  "curl: (56) Recv failure: Connection reset by peer"
  ],
  "crontab": [],
  "channels": [
