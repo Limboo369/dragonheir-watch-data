@@ -1,0 +1,77 @@
+{
+ "summary": "This video breaks down the author's strategy for selecting gear pieces to store in the Cross-Boundary Storage Vault when transitioning into the next season. The focus is on preserving top-tier crafted equipment and high-stat mythic gear that will convert into Precise Carnage sets in S9. Gear choices are tailored to supply key damage dealers in the Temporal Vortex Dauntless team as well as preparing for an expected Aura meta resurgence. The author also explains stat priorities for specific hero builds, such as balancing Crit Rate and Crit Damage.",
+ "topics": [
+  "Cross-Boundary Storage",
+  "Vault Preparation",
+  "Gear Build",
+  "Temporal Vortex"
+ ],
+ "heroes": [
+  {
+   "name": "Guinavivre",
+   "verdict": "Main Dauntless damage dealer",
+   "note": "Primary DPS for Temporal Vortex whose performance relies on high-tier attack and crit damage gear.",
+   "known": true
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "Core Poison DPS",
+   "note": "Utilizes crafted Precise Carnage gloves with Attack percentage and Enlightenment stats.",
+   "known": true
+  },
+  {
+   "name": "Nastjenka",
+   "verdict": "Early season DPS option",
+   "note": "Can temporarily wear high Crit Damage Precise Carnage gloves before gear is transitioned to other heroes.",
+   "known": true
+  },
+  {
+   "name": "Szecedith",
+   "verdict": "Strong Corrosion DPS",
+   "note": "Benefits greatly from Crit Damage gloves when paired with her exclusive artifact.",
+   "known": true
+  },
+  {
+   "name": "Talethia",
+   "verdict": "Key Aura DPS for upcoming meta",
+   "note": "Expected to regain strong viability in S9 due to new Aura hero synergy and content boss design.",
+   "known": true
+  },
+  {
+   "name": "Holfast",
+   "verdict": "Upcoming Aura hero",
+   "note": "New season hero expected to give a massive boost to Aura teams.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Temporal Vortex",
+   "heroes": [
+    "Guinavivre",
+    "Serpentemis"
+   ],
+   "note": "Dauntless core team used to secure high ranking damage scores in Temporal Vortex."
+  }
+ ],
+ "meta_changes": [
+  "Realm of Fallen Souls gear sets from S8 will automatically convert to Precise Carnage gear sets upon entering S9.",
+  "Aura teams are anticipated to receive a substantial power boost in S9 with the arrival of Holfast and targeted boss mechanics."
+ ],
+ "tips": [
+  "Prioritize saving crafted gear items into the Vault as they retain optimal sub-stats across seasons.",
+  "Store gear targeting your primary boss-killing team (such as Dauntless for Temporal Vortex) to hit high scores immediately in the new season.",
+  "Reserve gear with high Crit Damage sub-stats for heroes that receive bonus Crit Rate from external artifacts or abilities."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "5E5nhm0Y6zE",
+ "model": "gemini-3.5-flash",
+ "channel": "Neff Gaming",
+ "title": "S9 Vault Preparation! Which Items Am I Keeping? | Dragonheir: Silent Gods",
+ "published": "2026-10-20T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=5E5nhm0Y6zE",
+ "short": false,
+ "summarized": "2026-10-30T06:18Z"
+}

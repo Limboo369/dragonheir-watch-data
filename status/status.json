@@ -1,11 +1,11 @@
 {
- "built": "2026-10-30T05:59Z",
- "last_fetch": "2026-10-30T05:18Z",
+ "built": "2026-10-30T06:18Z",
+ "last_fetch": "2026-10-30T06:17Z",
  "counts": {
-  "summarized": 78,
+  "summarized": 79,
   "skipped_giveaway": 17,
   "retry": 11,
-  "new": 480,
+  "new": 479,
   "baseline": 22,
   "skipped_live": 1,
   "failed": 1
@@ -42,12 +42,6 @@
    "error": ""
   },
   {
-   "title": "S9 Vault Preparation! Which Items Am I Keeping? | Dragonheir: Silent Gods",
-   "channel": "Neff Gaming",
-   "status": "retry",
-   "error": ""
-  },
-  {
    "title": "BE READY FOR WEEK 1! Level 59 Aura & Toxin Vortex Setup | Dragonheir: Silent Gods",
    "channel": "Neff Gaming",
    "status": "retry",
@@ -72,6 +66,12 @@
    "error": ""
   },
   {
+   "title": "💥New Season 9 Equipment are META? I checked them all! | Dragonheir: Silent Gods",
+   "channel": "Skyasterix Gaming",
+   "status": "retry",
+   "error": ""
+  },
+  {
    "title": "Season 9 NEW INFO: 2 Free Heroes, New Affinities & Selectable Banner! | Dragonheir: Silent Gods",
    "channel": "liveranov",
    "status": "failed",
@@ -86,49 +86,11 @@
  ],
  "budget": {
   "day": "2026-10-30",
-  "seconds": 11364,
+  "seconds": 11745,
   "v2": 1,
-  "quota_hit": 1793333922.6821558
+  "quota_hit": 1793341126.4954813
  },
  "log_tail": [
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "… Skratch Gaming: AURA Vs DAUNTLESS! Who Should You Use?? Dragonheir: Silent G",
-  "… OddOneGaming RPGs: 💥 CHOOSE THE RIGHT ONES 💥Cross Boundary Storage S8 GUIDE & M",
-  "… Gorax: S9 Hero Showcase: 3 Legendary Supports - Skills, Talents & I",
-  "… Gorax: Imperial Shadow Recast Week 2 – 4+ Teams, Multiple Variants ",
-  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
-  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
-  "… Neff Gaming: BE READY FOR WEEK 1! Level 59 Dauntless & Toxin Vortex Setup",
-  "saved ijYoLPcqnjE",
-  "+ Gorax: S9 Hero Showcase: 3 Legendary Supports - Skills, Talents & I",
-  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
-  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
-  "… Neff Gaming: S9 Vault Preparation! Which Items Am I Keeping? | Dragonheir",
-  "! BE READY FOR WEEK 1! Level 59 Dauntless & Toxin Vo: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
-  "… Neff Gaming: S9 NEW HERO Changes the Arena META?! Chinese Server TOP Rank",
-  "! S9 Vault Preparation! Which Items Am I Keeping? | : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
-  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
-  "… Neff Gaming: BE READY FOR WEEK 1! Level 59 Aura & Toxin Vortex Setup | Dr",
-  "! S9 NEW HERO Changes the Arena META?! Chinese Serve: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
-  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
-  "… Skratch Gaming: WHO TO PULL FOR?? Season 9 Brings 9 New Heroes... Dragonheir",
-  "… Gorax: S9 Hero Showcase: Syonis - Skills, Talents & Inspirations | ",
-  "! BE READY FOR WEEK 1! Level 59 Aura & Toxin Vortex : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
-  "! AURA Vs DAUNTLESS! Who Should You Use?? Dragonheir: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
-  "… Neff Gaming: S9 - AURA Setups, Team Composition & VORTEX New META | Drago",
-  "! WHO TO PULL FOR?? Season 9 Brings 9 New Heroes... : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
-  "… Skratch Gaming: EVERYTHING You Need To Know About The Upcoming Season! Drago",
-  "! S9 Hero Showcase: Syonis - Skills, Talents & Inspi: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
-  "! S9 - AURA Setups, Team Composition & VORTEX New ME: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
-  "! EVERYTHING You Need To Know About The Upcoming Sea: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
-  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
-  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
-  "! Imperial Shadow Recast Week 2 – 4+ Teams, Multiple: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
-  "saved L1z08k7Q5ns",
-  "+ OddOneGaming RPGs: 💥 CHOOSE THE RIGHT ONES 💥Cross Boundary Storage S8 GUIDE & M",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 77 videos, 108 heroes",
-  "/bin/bash: line 1: /root/ytwatch/run.sh: Permission denied",
-  "== 2026-10-30 04:17",
   "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "… Skratch Gaming: AURA Vs DAUNTLESS! Who Should You Use?? Dragonheir: Silent G",
@@ -170,7 +132,45 @@
   "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "Gemini quota was full less than an hour ago, trying again next round",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 78 videos, 109 heroes"
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 78 videos, 109 heroes",
+  "== 2026-10-30 06:17",
+  "fetch done: 0 new transcripts, 0 not available yet",
+  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
+  "… Skratch Gaming: AURA Vs DAUNTLESS! Who Should You Use?? Dragonheir: Silent G",
+  "… Neff Gaming: BE READY FOR WEEK 1! Level 59 Dauntless & Toxin Vortex Setup",
+  "… Neff Gaming: S9 Vault Preparation! Which Items Am I Keeping? | Dragonheir",
+  "… Neff Gaming: S9 NEW HERO Changes the Arena META?! Chinese Server TOP Rank",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
+  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
+  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
+  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
+  "… Neff Gaming: BE READY FOR WEEK 1! Level 59 Aura & Toxin Vortex Setup | Dr",
+  "… Skratch Gaming: WHO TO PULL FOR?? Season 9 Brings 9 New Heroes... Dragonheir",
+  "! BE READY FOR WEEK 1! Level 59 Dauntless & Toxin Vo: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "… Gorax: S9 Hero Showcase: Syonis - Skills, Talents & Inspirations | ",
+  "! AURA Vs DAUNTLESS! Who Should You Use?? Dragonheir: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "! BE READY FOR WEEK 1! Level 59 Aura & Toxin Vortex : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "… Neff Gaming: S9 - AURA Setups, Team Composition & VORTEX New META | Drago",
+  "! WHO TO PULL FOR?? Season 9 Brings 9 New Heroes... : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "… Skratch Gaming: EVERYTHING You Need To Know About The Upcoming Season! Drago",
+  "! S9 Hero Showcase: Syonis - Skills, Talents & Inspi: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "… OddOneGaming RPGs: 🚨 Still Doing BIG Numbers! 🚨 My 6 Teams vs Phase 2 Mekkatorq",
+  "! S9 - AURA Setups, Team Composition & VORTEX New ME: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "… Gorax: S9 Hero Showcase: Rhyviel - Skills, Talents & Inspirations |",
+  "! EVERYTHING You Need To Know About The Upcoming Sea: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "… Skyasterix Gaming: 💥New Season 9 Equipment are META? I checked them all! | Drag",
+  "! S9 Hero Showcase: Rhyviel - Skills, Talents & Insp: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "! 🚨 Still Doing BIG Numbers! 🚨 My 6 Teams vs Phase 2: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "! 💥New Season 9 Equipment are META? I checked them a: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "saved 5E5nhm0Y6zE",
+  "+ Neff Gaming: S9 Vault Preparation! Which Items Am I Keeping? | Dragonheir",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
+  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
+  "! S9 NEW HERO Changes the Arena META?! Chinese Serve: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google."
  ],
  "crontab": [],
  "channels": [
@@ -178,55 +178,55 @@
    "name": "Skratch Gaming",
    "id": "UCoSkzr1pXpt3d0jIxsc6ufw",
    "enabled": true,
-   "checked": "2026-10-30T05:17Z"
+   "checked": "2026-10-30T06:17Z"
   },
   {
    "name": "Gorax",
    "id": "UCNas7BnuOIjDEzY1D53kb1w",
    "enabled": true,
-   "checked": "2026-10-30T05:17Z"
+   "checked": "2026-10-30T06:17Z"
   },
   {
    "name": "Neff Gaming",
    "id": "UCsxs6YhNd_B36RgUAjbpJ_A",
    "enabled": true,
-   "checked": "2026-10-30T05:18Z"
+   "checked": "2026-10-30T06:17Z"
   },
   {
    "name": "Volkin Dragonheir",
    "id": "UCfRpOh_ywVjzhh9fxHbreGw",
    "enabled": true,
-   "checked": "2026-10-30T05:18Z"
+   "checked": "2026-10-30T06:17Z"
   },
   {
    "name": "Fastidious Dragonheir",
    "id": "UC16mpj5wEemSZX-uTlHe9Ww",
    "enabled": true,
-   "checked": "2026-10-30T05:18Z"
+   "checked": "2026-10-30T06:17Z"
   },
   {
    "name": "OddOneGaming RPGs",
    "id": "UC1ivUEf_poI9_R2eVKa8wRQ",
    "enabled": true,
-   "checked": "2026-10-30T05:18Z"
+   "checked": "2026-10-30T06:17Z"
   },
   {
    "name": "Suzi Plays",
    "id": "UCyo1-TkunhGcK6khU1h8Ypw",
    "enabled": true,
-   "checked": "2026-10-30T05:18Z"
+   "checked": "2026-10-30T06:17Z"
   },
   {
    "name": "Skyasterix Gaming",
    "id": "UCr5Gb3910rK7QPmKMmdagsA",
    "enabled": true,
-   "checked": "2026-10-30T05:18Z"
+   "checked": "2026-10-30T06:17Z"
   },
   {
    "name": "liveranov",
    "id": "UCqCR7ofFHhWwXy3Hg00fqEw",
    "enabled": true,
-   "checked": "2026-10-30T05:18Z"
+   "checked": "2026-10-30T06:17Z"
   }
  ]
 }
