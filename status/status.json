@@ -1,5 +1,5 @@
 {
- "built": "2026-10-30T04:20Z",
+ "built": "2026-10-30T04:58Z",
  "last_fetch": "2026-10-30T04:17Z",
  "counts": {
   "summarized": 78,
@@ -91,7 +91,6 @@
   "quota_hit": 1793333922.6821558
  },
  "log_tail": [
-  "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "Gemini quota was full less than an hour ago, trying again next round",
   "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 75 videos, 108 heroes",
@@ -170,7 +169,8 @@
   "  gemini-3.7-flash: 429, using gemini-3.6-flash",
   "! BE READY FOR WEEK 1! Level 59 Dauntless & Toxin Vo: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
   "saved iQN8FFgvVTk",
-  "+ Gorax: Imperial Shadow Recast Week 2 – 4+ Teams, Multiple Variants "
+  "+ Gorax: Imperial Shadow Recast Week 2 – 4+ Teams, Multiple Variants ",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 78 videos, 109 heroes"
  ],
  "crontab": [],
  "channels": [
