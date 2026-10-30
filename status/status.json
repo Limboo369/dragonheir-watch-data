@@ -1,5 +1,5 @@
 {
- "built": "2026-10-30T08:35Z",
+ "built": "2026-10-30T09:11Z",
  "last_fetch": "2026-10-30T08:17Z",
  "counts": {
   "summarized": 89,
@@ -37,7 +37,6 @@
   "quota_hit": 1793341126.4954813
  },
  "log_tail": [
-  "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "… Skratch Gaming: AURA Vs DAUNTLESS! Who Should You Use?? Dragonheir: Silent G",
   "… Neff Gaming: BE READY FOR WEEK 1! Level 59 Dauntless & Toxin Vortex Setup",
@@ -116,7 +115,8 @@
   "saved sQYC7VdWNeE",
   "+ Gorax: S9 Hero Showcase: Holfast - Skills, Talents & Inspirations |",
   "saved vTE6LOerEtE",
-  "+ Skyasterix Gaming: 💥New Season 9 Equipment are META? I checked them all! | Drag"
+  "+ Skyasterix Gaming: 💥New Season 9 Equipment are META? I checked them all! | Drag",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 89 videos, 113 heroes"
  ],
  "crontab": [],
  "channels": [
