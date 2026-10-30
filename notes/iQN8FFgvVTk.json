@@ -1,0 +1,142 @@
+{
+ "summary": "This guide covers four optimized teams and variations for Week 2 of Continental Challenge against Vasska, Twitch, Khrysos, and Tamar. For Vasska, a Frost/Necrosis team utilizes Fitz's ultimate to absorb undispellable Attack penalties alongside Voresh's Buff Prohibition. The Twitch encounter is tackled using a high-Resistance Radiance Aura team that capitalizes on stage damage buffs triggered by resisting debuffs. Against Khrysos, a Lightning Dauntless team stacks Attack Speed and Resistance, while Tamar is countered with a high-damage Toxin team using a manual targeting trick on Lothair.",
+ "topics": [
+  "Continental Challenge",
+  "Boss Guides",
+  "Team Builds",
+  "Skill Timings",
+  "Skill Haste"
+ ],
+ "heroes": [
+  {
+   "name": "Fitz",
+   "verdict": "Core tank and debuff cleanser for Vasska",
+   "note": "Transfers the boss's undispellable Attack penalties from allies to himself using his ultimate.",
+   "known": true
+  },
+  {
+   "name": "Voresh",
+   "verdict": "Top support for Vasska",
+   "note": "Applies Buff Prohibition to prevent Vasska's Attack and Attack Speed buffs while providing healing and Defense Penalty.",
+   "known": true
+  },
+  {
+   "name": "Torrin",
+   "verdict": "Top Necrosis support for Vasska",
+   "note": "Built with high Skill Haste to cycle Puppeteer set buffs on an 18-second rotation while sharing defensive stats with Fitz.",
+   "known": true
+  },
+  {
+   "name": "Vidimir",
+   "verdict": "Main Cold DPS for Vasska",
+   "note": "Deals massive damage without needing Accuracy when geared with 100% Critical Rate and high Critical Damage.",
+   "known": true
+  },
+  {
+   "name": "Solmo",
+   "verdict": "Core shielder for Twitch",
+   "note": "Built with over 500 Resistance and Titan Rib to provide team-wide shields and damage buffs upon resisting debuffs.",
+   "known": true
+  },
+  {
+   "name": "Talethia",
+   "verdict": "Top Radiance Aura DPS for Twitch",
+   "note": "Scales heavily with Max HP% and Critical stats to deliver the bulk of the Aura team's AoE damage.",
+   "known": true
+  },
+  {
+   "name": "Maashtur",
+   "verdict": "Best Dauntless support for Khrysos",
+   "note": "Reduces boss Attack and Recharge Speed while providing massive shields and taking damage for allies.",
+   "known": true
+  },
+  {
+   "name": "Nathaniel",
+   "verdict": "Best budget replacement for Maashtur",
+   "note": "Epic Lightning support that dispels debuffs, provides shielding with Aurelium Vest, and shares Resistance through talents.",
+   "known": true
+  },
+  {
+   "name": "Child of Chaos",
+   "verdict": "Core cleanser and buffer for Tamar",
+   "note": "Uses the Puppeteer set and high Attack to reliably cleanse crowd control and debuffs from the team.",
+   "known": true
+  },
+  {
+   "name": "Lothair",
+   "verdict": "Top Poison DPS for Tamar",
+   "note": "Deals immense damage when geared with Enlightenment and Resistance, especially when manually positioned to avoid boss debuffs.",
+   "known": true
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "Premier Toxin DPS for Tamar",
+   "note": "Achieves massive scaling with high Enlightenment, Attack, and at least 150 Accuracy.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Continental Challenge - Vasska",
+   "heroes": [
+    "Fitz",
+    "Torrin",
+    "Voresh",
+    "Vidimir",
+    "Rava"
+   ],
+   "note": "Budget-friendly Frost/Necrosis setup capable of over 200M damage; Fitz absorbs Attack penalties while Voresh prevents boss self-buffs."
+  },
+  {
+   "mode": "Continental Challenge - Twitch",
+   "heroes": [
+    "Solmo",
+    "Talethia",
+    "Lincos",
+    "Diantha",
+    "Shahla"
+   ],
+   "note": "Radiance Aura composition stacking high Resistance to quickly cap the stage's 200-stack Attack buff and trigger Titan Rib."
+  },
+  {
+   "mode": "Continental Challenge - Khrysos",
+   "heroes": [
+    "Guinavivre",
+    "Kurvida",
+    "Tharivol",
+    "Nastjenka",
+    "Maashtur"
+   ],
+   "note": "Lightning Dauntless team tuned with Resistance runes to negate Attack Speed debuffs; Nathaniel can replace Maashtur if needed."
+  },
+  {
+   "mode": "Continental Challenge - Tamar",
+   "heroes": [
+    "Child of Chaos",
+    "Serpentemis",
+    "Lothair",
+    "Sacredeia",
+    "Sleight"
+   ],
+   "note": "High-scoring Toxin team reaching over 1B damage; manually time Lothair's first ultimate to keep him out of Tamar's debuff cone."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Align all skill timings to an 18-second recast interval when triggering the Puppeteer armor set bonus.",
+  "Against Twitch and Tamar, build high Resistance (ideally 300+) on your heroes to prevent crippling Attack penalties and trigger bonus stage buffs.",
+  "On Tamar, manually trigger Lothair's first ultimate after reaching 40 Poison stacks and aim it away from the center to prevent him from being targeted by Tamar's Attack Penalty II.",
+  "Tune Fitz's ultimate cast to 23 seconds on Vasska so he cleanses and redirects the boss's undispellable Attack penalty right before your DPS heroes burst."
+ ],
+ "season": "S1",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "iQN8FFgvVTk",
+ "model": "gemini-3.8-flash",
+ "channel": "Gorax",
+ "title": "Imperial Shadow Recast Week 2 – 4+ Teams, Multiple Variants & Codes | Dragonheir x Dragonstride",
+ "published": "2026-10-20T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=iQN8FFgvVTk",
+ "short": false,
+ "summarized": "2026-10-30T04:20Z"
+}
