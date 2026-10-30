@@ -1,0 +1,62 @@
+{
+ "summary": "Season 9 introduces a Targeted Summons banner allowing players to select one of three new legendary support heroes after 300 pulls. Longbeau provides unmatched utility by dispelling and reflecting debuffs via Black Rat while inflicting Buff Prohibition and Healing Restriction. Fyrenzur introduces allied Dodge mechanics and counter-attacks, though her heavy RNG reliance makes her more suited for PvP or Magi-Chess than reliable PvE. Tallyn offers exceptional crowd control and survivability as a Lightning tank, making him a great disrupter against backline threats in PvP and Fey Meander.",
+ "topics": [
+  "Targeted Summons",
+  "Hero Showcase",
+  "S9 Banners",
+  "PvP",
+  "Support Heroes"
+ ],
+ "heroes": [
+  {
+   "name": "Longbeau",
+   "verdict": "Best overall pick of the three supports",
+   "note": "Counters debuff-heavy enemies like Serpentemis by reflecting negative effects, inflicting 100% Buff Prohibition, and giving massive damage resistance shields.",
+   "known": true
+  },
+  {
+   "name": "Fyrenzur",
+   "verdict": "Niche PvP and Magi-Chess support",
+   "note": "Provides team-wide Dodge buffs and retaliatory healing/damage upon dodging, but high RNG makes her inconsistent for PvE boss encounters.",
+   "known": true
+  },
+  {
+   "name": "Tallyn",
+   "verdict": "Strong crowd control tank for PvP and Fey Meander",
+   "note": "Charges furthest backline threats to apply Knock Up and Attack Penalty, while dishing out constant stuns, Resistance Penalty, and ultimate energy reduction.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "PvP / General",
+   "heroes": [
+    "Tallyn",
+    "Perkunte",
+    "Tariz"
+   ],
+   "note": "Tallyn tanks and provides AoE Resistance Penalty and stuns to set up high damage from Thunderbolt carries."
+  }
+ ],
+ "meta_changes": [
+  "S9 Targeted Summons banner allows selecting a targeted new legendary support at 300 summons, with a guaranteed exclusive support at 1,000 summons.",
+  "Introduction of true debuff reflection mechanics via Longbeau's Black Rat, bypassing enemy resistance.",
+  "Introduction of team-wide Dodge mechanics and dodge-triggered counters via Fyrenzur."
+ ],
+ "tips": [
+  "Save 300 Heliolite Dice for the start of Season 9 to secure a selectable legendary support from the Targeted Summons banner.",
+  "Pick Longbeau if you prioritize guaranteed reliability in PvE and anti-debuff utility in PvP over RNG dodge mechanics.",
+  "Consider equipping Mystic Horn on Fyrenzur to maximize value from her frequent Attack Penalty applications."
+ ],
+ "season": "S9",
+ "server_scope": "mixed",
+ "value": "high",
+ "id": "ijYoLPcqnjE",
+ "model": "gemini-3.8-flash",
+ "channel": "Gorax",
+ "title": "S9 Hero Showcase: 3 Legendary Supports - Skills, Talents & Inspirations | Dragonheir x Dragonstride",
+ "published": "2026-10-20T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=ijYoLPcqnjE",
+ "short": false,
+ "summarized": "2026-10-30T02:19Z"
+}

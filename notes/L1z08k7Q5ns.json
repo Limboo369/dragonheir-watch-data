@@ -1,0 +1,52 @@
+{
+ "summary": "OddOne covers Cross Boundary Storage recommendations when transitioning from Season 8 into Season 9. He reviews the Season 9 gear set pool, highlighting which sets rotate out (such as Curse of the Fallen) and new additions like Dragonflame Scorch and Might of the Inferno. He breaks down ideal gear combinations for both raw damage dealers (like Talethia) and Enlightenment derivative DPS (like Serpentemis). Finally, he showcases his four selected storage gear pieces, urging players to take at least one piece of Nocturnal Hunt due to its late unlock in S9.",
+ "topics": [
+  "Cross Boundary Storage",
+  "Season 9 Preparation",
+  "Gear Sets",
+  "Builds"
+ ],
+ "heroes": [
+  {
+   "name": "Serpentemis",
+   "verdict": "Top Enlightenment DPS",
+   "note": "Excels with Molten Reforging and Dragonblood Brand on top gear slots, gaining huge boosts from adjacent supports equipped with Might of the Inferno.",
+   "known": true
+  },
+  {
+   "name": "Talethia",
+   "verdict": "Top raw damage dealer",
+   "note": "Performs best with Nocturnal Hunt and Dragonblood Brand on top slots, paired with Strike the Unprepared on bottom slots.",
+   "known": true
+  },
+  {
+   "name": "Guinavivre",
+   "verdict": "Strong raw DPS option",
+   "note": "Benefits from the standard raw damage setup combining Strike the Unprepared with Nocturnal Hunt and Dragonblood Brand.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [
+  "Curse of the Fallen and Death Record are unavailable in Season 9.",
+  "Dragonflame Scorch is introduced in Season 9, stacking up to 24% bonus damage against the enemy with the lowest HP if multiple allies equip it.",
+  "Might of the Inferno is introduced in Season 9, providing an adjacent school-based Derivative Damage aura for supports."
+ ],
+ "tips": [
+  "Lock at least one piece of Nocturnal Hunt (weapon or helmet) in storage since the trial dungeon required to farm it unlocks late in Season 9.",
+  "Store god-rolled pieces from retiring sets like Curse of the Fallen, as Season 9 will allow you to convert them into an available S9 set piece.",
+  "Equip Might of the Inferno on supports positioned adjacent to Serpentemis at battle start to provide her a stacking 20% Derivative Damage boost.",
+  "For raw damage dealers, target Strike the Unprepared on the bottom slots combined with Arcane Eye's Requiem or Dragonflame Scorch."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "L1z08k7Q5ns",
+ "model": "gemini-3.8-flash",
+ "channel": "OddOneGaming RPGs",
+ "title": "💥 CHOOSE THE RIGHT ONES 💥Cross Boundary Storage S8 GUIDE & My Picks | Dragonheir x Dragonstride",
+ "published": "2026-10-21T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=L1z08k7Q5ns",
+ "short": false,
+ "summarized": "2026-10-30T02:20Z"
+}
