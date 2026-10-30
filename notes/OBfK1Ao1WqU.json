@@ -1,0 +1,64 @@
+{
+ "summary": "Season 9 introduces a structured summon banner order starting with a Support Banner featuring selectable legendary supports at 300 summons and new exclusives Sia and Celestine. Following this, three DPS banners will launch for the Shadow, Aura, and Corrosion schools. The Shadow banner features Syonis as the exclusive and includes Saverio, a high-value PvP option. The Aura banner offers Holfast, while the Corrosion banner features Rhyviel as the guaranteed exclusive at 300 summons.",
+ "topics": [
+  "banners",
+  "summons",
+  "Season 9",
+  "pity system"
+ ],
+ "heroes": [
+  {
+   "name": "Saverio",
+   "verdict": "Top PvP choice",
+   "note": "A powerful PvP-oriented Shadow hero available in the first DPS banner.",
+   "known": true
+  },
+  {
+   "name": "Syonis",
+   "verdict": "Shadow banner exclusive",
+   "note": "The guaranteed exclusive Shadow school DPS hero at 300 summons.",
+   "known": true
+  },
+  {
+   "name": "Holfast",
+   "verdict": "Aura banner exclusive",
+   "note": "The guaranteed exclusive Aura school hero at the 300-summon pity threshold.",
+   "known": true
+  },
+  {
+   "name": "Rhyviel",
+   "verdict": "Corrosion banner exclusive",
+   "note": "A brand new Corrosion DPS hero guaranteed at 300 summons in the Corrosion banner.",
+   "known": true
+  },
+  {
+   "name": "Sia",
+   "verdict": "Exclusive Necrosis support",
+   "note": "New exclusive Necrosis support hero available in the targeted Support banner.",
+   "known": true
+  },
+  {
+   "name": "Celestine",
+   "verdict": "Exclusive Ice support",
+   "note": "New exclusive Ice tank and support hero available in the targeted Support banner.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [],
+ "tips": [
+  "Save at least 270 Heliolite Dice to reach the 300-summon pity on DPS banners, as milestone rewards provide 30 extra free summons along the way.",
+  "Targeted support banners require roughly 1,000 dice for a guaranteed exclusive hero pity unless you pull them early."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "OBfK1Ao1WqU",
+ "model": "gemini-3.5-flash",
+ "channel": "Gorax",
+ "title": "Upcoming Summon Banners – Which Ones Are Worth Your Dice? | Dragonheir x Dragonstride",
+ "published": "2026-10-22T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=OBfK1Ao1WqU",
+ "short": false,
+ "summarized": "2026-10-30T00:21Z"
+}

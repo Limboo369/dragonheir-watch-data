@@ -1,0 +1,70 @@
+{
+ "summary": "Skratch previews the upcoming Season 9 update titled 'The Undertow Approaches' for Dragonheir: Silent Gods. The season introduces a new region called Duskport with new storyline quests and map exploration. A reworked PvP game mode called Glory Colosseum is arriving, combining multi-team arena battles with a dedicated shop for gear and heroes. The preview also reveals new season boss encounters in the Continental Challenge and a new battle pass skin for Saverio.",
+ "topics": [
+  "Season 9 Preview",
+  "Glory Colosseum",
+  "Duskport",
+  "New Heroes",
+  "Continental Challenge",
+  "Saverio Skin"
+ ],
+ "heroes": [
+  {
+   "name": "Sia",
+   "verdict": "New S9 Hero",
+   "note": "Featured in the S9 teaser trailer as the Weeping Nun.",
+   "known": true
+  },
+  {
+   "name": "Syonis",
+   "verdict": "New S9 Hero",
+   "note": "Featured in the S9 teaser trailer as the Librarian.",
+   "known": true
+  },
+  {
+   "name": "Holfast",
+   "verdict": "New S9 Hero",
+   "note": "Featured in the S9 teaser trailer as the Harping Scholar.",
+   "known": true
+  },
+  {
+   "name": "Rhyviel",
+   "verdict": "New S9 Hero",
+   "note": "Featured in the S9 teaser trailer as Bloodspike.",
+   "known": true
+  },
+  {
+   "name": "Celestine",
+   "verdict": "New S9 Hero",
+   "note": "Featured in the S9 teaser trailer as the Wailer.",
+   "known": true
+  },
+  {
+   "name": "Saverio",
+   "verdict": "Battle Pass Skin Recipient",
+   "note": "Receives the Molten Amethyst Blade skin in the new season battle pass.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [
+  "Glory Colosseum replaces or reworks Team Arena and Blade Colosseum into a streamlined 3-team competitive mode with a dedicated shop.",
+  "New region Duskport adds fresh campaign map exploration and questing.",
+  "Season 9 Continental Challenge boss lineup features Rose, Quaesitia, Stegamoffyn, Beldelle, Synarell, and Guinavivre."
+ ],
+ "tips": [
+  "Season 9 starts on October 23rd following the maintenance update on October 22nd.",
+  "Save your summoning resources and dice for the upcoming Season 9 hero banners."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "wTuHdSbBISg",
+ "model": "gemini-3.5-flash",
+ "channel": "Skratch Gaming",
+ "title": "GREAT NEWS!! S9 Brings A New Story & Map... Dragonheir: Silent Gods x Dragonstride",
+ "published": "2026-10-21T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=wTuHdSbBISg",
+ "short": false,
+ "summarized": "2026-10-30T00:21Z"
+}

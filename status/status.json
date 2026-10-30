@@ -1,77 +1,42 @@
 {
- "built": "2026-10-30T00:13Z",
- "last_fetch": "2026-10-29T23:17Z",
+ "built": "2026-10-30T00:22Z",
+ "last_fetch": "2026-10-30T00:18Z",
  "counts": {
-  "summarized": 65,
+  "summarized": 75,
   "skipped_giveaway": 17,
-  "new": 503,
+  "new": 492,
   "baseline": 22,
-  "retry": 1,
+  "retry": 2,
   "skipped_live": 1,
   "failed": 1
  },
  "problems": [
   {
-   "title": "🚨SEASON 9 Promo Code with GREAT REWARDS | Dragonheir: Silent Gods",
-   "channel": "Skyasterix Gaming",
+   "title": "💥 CHOOSE THE RIGHT ONES 💥Cross Boundary Storage S8 GUIDE & My Picks | Dragonheir x Dragonstride",
+   "channel": "OddOneGaming RPGs",
    "status": "retry",
-   "error": "504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}"
+   "error": ""
   },
   {
    "title": "Season 9 NEW INFO: 2 Free Heroes, New Affinities & Selectable Banner! | Dragonheir: Silent Gods",
    "channel": "liveranov",
    "status": "failed",
    "error": "Expecting value: line 1 column 1 (char 0)"
+  },
+  {
+   "title": "AURA Vs DAUNTLESS! Who Should You Use?? Dragonheir: Silent Gods x Dragonstride",
+   "channel": "Skratch Gaming",
+   "status": "retry",
+   "error": ""
   }
  ],
  "budget": {
-  "day": "2026-10-29",
-  "seconds": 26733,
+  "day": "2026-10-30",
+  "seconds": 8163,
   "v2": 1,
-  "quota_hit": 1793255001.7598484
+  "quota_hit": 1793319720.8001962
  },
  "log_tail": [
-  "! Season 9 NEW INFO: 2 Free Heroes, New Affinities &: JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-  "saved -i_pyccY6L8 (unknown hero names: Quirro)",
-  "+ Suzi Plays: Get YOUR Redeem Codes NOW! 💥 Plus S9 Overview Reaction 🔥 Dra",
-  "saved EZe7SqG0EUE",
-  "+ liveranov: Anneliesis Returns! Full Guide: Kit, Best Team & Build | Dra",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 65 videos, 107 heroes",
-  "== 2026-10-29 10:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "… liveranov: Season 9 NEW INFO: 2 Free Heroes, New Affinities & Selectabl",
-  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
-  "! Season 9 NEW INFO: 2 Free Heroes, New Affinities &: JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 65 videos, 107 heroes",
-  "== 2026-10-29 11:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (445 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 65 videos, 107 heroes",
-  "== 2026-10-29 12:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (445 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 65 videos, 107 heroes",
-  "== 2026-10-29 13:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (445 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 65 videos, 107 heroes",
-  "== 2026-10-29 14:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (445 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 65 videos, 107 heroes",
-  "== 2026-10-29 15:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (445 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 65 videos, 107 heroes",
-  "== 2026-10-29 16:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "daily video budget used (445 min), waiting for tomorrow",
   "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 65 videos, 107 heroes",
   "mv: cannot stat '.ytwatch.py.new': No such file or directory",
@@ -110,7 +75,48 @@
   "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "daily video budget used (445 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 65 videos, 107 heroes"
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 65 videos, 107 heroes",
+  "== 2026-10-30 00:17",
+  "fetch done: 0 new transcripts, 0 not available yet",
+  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
+  "… Neff Gaming: VORTEX IV NEW META! 🔥 Meet the MVP Taking Over! | Dragonheir",
+  "… Skratch Gaming: AURA Vs DAUNTLESS! Who Should You Use?? Dragonheir: Silent G",
+  "… OddOneGaming RPGs: 💥 FREE Dragon Crystal 💥 39 Promo Codes Up For Grabs #dragonh… OddOneGaming RPGs: 💥 DON'T MISS OUT! 💥39 Promo Codes With Dragon Crystals Up Fo",
+  "",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "… Fastidious Dragonheir: Farm This Dungeon And Get Mythic Gear EASILY ⁂ Dragonheir: S",
+  "saved HYMQvFT_5Ig",
+  "+ OddOneGaming RPGs: 💥 FREE Dragon Crystal 💥 39 Promo Codes Up For Grabs #dragonh",
+  "… Skyasterix Gaming: 🚨SEASON 9 Promo Code with GREAT REWARDS | Dragonheir: Silent",
+  "saved EYvHCBvb8X4",
+  "+ Fastidious Dragonheir: Farm This Dungeon And Get Mythic Gear EASILY ⁂ Dragonheir: S",
+  "… liveranov: Dragonheir Season 9: The Undertow Approaches | 9 New Heroes,",
+  "saved C-7sxyArW00",
+  "+ Skyasterix Gaming: 🚨SEASON 9 Promo Code with GREAT REWARDS | Dragonheir: Silent",
+  "… Fastidious Dragonheir: Most OP Hero Is Coming Back? Anneliesis Banner Talk ft. @Odd",
+  "saved XhGCS6xvTRc",
+  "+ liveranov: Dragonheir Season 9: The Undertow Approaches | 9 New Heroes,",
+  "… Gorax: Upcoming Summon Banners – Which Ones Are Worth Your Dice? | ",
+  "saved P0FQYqP34Xk",
+  "+ Fastidious Dragonheir: Most OP Hero Is Coming Back? Anneliesis Banner Talk ft. @Odd",
+  "… Gorax: Free Dragon Crystals - Don’t Miss This | Dragonheir x Dragon",
+  "saved QY6-x79h2QE",
+  "+ OddOneGaming RPGs: 💥 DON'T MISS OUT! 💥39 Promo Codes With Dragon Crystals Up Fo",
+  "… Skratch Gaming: GREAT NEWS!! S9 Brings A New Story & Map... Dragonheir: Sile",
+  "saved zmqNPe3TGRQ",
+  "+ Gorax: Free Dragon Crystals - Don’t Miss This | Dragonheir x Dragon",
+  "  gemini-3.5-flash: 503, using gemini-3.7-flash",
+  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
+  "… OddOneGaming RPGs: 💥 CHOOSE THE RIGHT ONES 💥Cross Boundary Storage S8 GUIDE & M",
+  "! AURA Vs DAUNTLESS! Who Should You Use?? Dragonheir: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "saved 9WZfkPWafpo",
+  "+ Neff Gaming: VORTEX IV NEW META! 🔥 Meet the MVP Taking Over! | Dragonheir",
+  "saved OBfK1Ao1WqU",
+  "+ Gorax: Upcoming Summon Banners – Which Ones Are Worth Your Dice? | ",
+  "saved wTuHdSbBISg",
+  "+ Skratch Gaming: GREAT NEWS!! S9 Brings A New Story & Map... Dragonheir: Sile",
+  "! 💥 CHOOSE THE RIGHT ONES 💥Cross Boundary Storage S8: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google."
  ],
  "crontab": [],
  "channels": [
@@ -118,55 +124,55 @@
    "name": "Skratch Gaming",
    "id": "UCoSkzr1pXpt3d0jIxsc6ufw",
    "enabled": true,
-   "checked": "2026-10-29T23:17Z"
+   "checked": "2026-10-30T00:17Z"
   },
   {
    "name": "Gorax",
    "id": "UCNas7BnuOIjDEzY1D53kb1w",
    "enabled": true,
-   "checked": "2026-10-29T23:17Z"
+   "checked": "2026-10-30T00:17Z"
   },
   {
    "name": "Neff Gaming",
    "id": "UCsxs6YhNd_B36RgUAjbpJ_A",
    "enabled": true,
-   "checked": "2026-10-29T23:17Z"
+   "checked": "2026-10-30T00:17Z"
   },
   {
    "name": "Volkin Dragonheir",
    "id": "UCfRpOh_ywVjzhh9fxHbreGw",
    "enabled": true,
-   "checked": "2026-10-29T23:17Z"
+   "checked": "2026-10-30T00:17Z"
   },
   {
    "name": "Fastidious Dragonheir",
    "id": "UC16mpj5wEemSZX-uTlHe9Ww",
    "enabled": true,
-   "checked": "2026-10-29T23:17Z"
+   "checked": "2026-10-30T00:17Z"
   },
   {
    "name": "OddOneGaming RPGs",
    "id": "UC1ivUEf_poI9_R2eVKa8wRQ",
    "enabled": true,
-   "checked": "2026-10-29T23:17Z"
+   "checked": "2026-10-30T00:17Z"
   },
   {
    "name": "Suzi Plays",
    "id": "UCyo1-TkunhGcK6khU1h8Ypw",
    "enabled": true,
-   "checked": "2026-10-29T23:17Z"
+   "checked": "2026-10-30T00:17Z"
   },
   {
    "name": "Skyasterix Gaming",
    "id": "UCr5Gb3910rK7QPmKMmdagsA",
    "enabled": true,
-   "checked": "2026-10-29T23:17Z"
+   "checked": "2026-10-30T00:17Z"
   },
   {
    "name": "liveranov",
    "id": "UCqCR7ofFHhWwXy3Hg00fqEw",
    "enabled": true,
-   "checked": "2026-10-29T23:17Z"
+   "checked": "2026-10-30T00:18Z"
   }
  ]
 }

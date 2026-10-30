@@ -1,0 +1,26 @@
+{
+ "summary": "This video is a giveaway announcement hosted by Gorax and sponsored by BuffBuff. Forty winners will receive 350 Dragon Crystals each in their in-game mail. To enter, viewers must subscribe, like the video, and comment with their favorite Season 9 hero and who they plan to summon. Entries are accepted until October 24th at 7:00 AM London time. The creator also promotes discounted Dragonair packs on BuffBuff using their creator code.",
+ "topics": [
+  "giveaway",
+  "Dragon Crystal",
+  "BuffBuff",
+  "Season 9"
+ ],
+ "heroes": [],
+ "teams": [],
+ "meta_changes": [],
+ "tips": [
+  "To enter the giveaway, subscribe to the channel, like the video, and comment which Season 9 hero is your favorite before October 24th at 7:00 AM London time."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "low",
+ "id": "zmqNPe3TGRQ",
+ "model": "gemini-3.5-flash",
+ "channel": "Gorax",
+ "title": "Free Dragon Crystals - Don’t Miss This | Dragonheir x Dragonstride.",
+ "published": "2026-10-21T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=zmqNPe3TGRQ",
+ "short": false,
+ "summarized": "2026-10-30T00:20Z"
+}

@@ -1,0 +1,72 @@
+{
+ "summary": "This video explains how to consistently beat and farm Grave of Rot Stage 19 to get 100% Mythic gear drop rates without needing Stage 20. Fastidious demonstrates a team consisting of Garius, Gillian, Child of Chaos, Hvitar, and Auster. He highlights two critical mechanics: tuning Skill Timings to delay DPS ultimates until after the Colossal Scavenger devours the tank, and utilizing Familiar Fusion to gain substantial attack and damage talent bonuses.",
+ "topics": [
+  "Grave of Rot 19",
+  "Skill Timing",
+  "Familiars",
+  "Familiar Fusion",
+  "Mythic Gear Farming"
+ ],
+ "heroes": [
+  {
+   "name": "Auster",
+   "verdict": "Core Frost DPS",
+   "note": "Provides high Cold damage and Frost synergy to help burst down the boss during devour phases.",
+   "known": true
+  },
+  {
+   "name": "Hvitar",
+   "verdict": "Top-tier Frost DPS",
+   "note": "Deals massive Cold damage and applies Frost, acting as the primary damage dealer in Frost comps.",
+   "known": true
+  },
+  {
+   "name": "Child of Chaos",
+   "verdict": "Versatile support/DPS",
+   "note": "Configured to Ice element for Permafrost affinity, providing periodic debuff dispels and Defense Penalty II via Witch's Remains.",
+   "known": true
+  },
+  {
+   "name": "Gillian",
+   "verdict": "Essential Radiance Healer",
+   "note": "Provides team-wide healing, Defense Up buffs, and AoE debuff cleansing on her ultimate.",
+   "known": true
+  },
+  {
+   "name": "Garius",
+   "verdict": "Premier Frontline Tank",
+   "note": "Serves as the frontline tank to absorb the boss's Devour ability while self-cleansing and stacking defense.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Grave of Rot 19",
+   "heroes": [
+    "Garius",
+    "Gillian",
+    "Child of Chaos",
+    "Hvitar",
+    "Auster"
+   ],
+   "note": "Combines 3 Ice / Permafrost and 2 Radiance elemental affinity. DPS ultimates are delayed to 20s–20.5s to burst down 10% boss HP while Garius is devoured."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Aim to farm Grave of Rot Stage 19 instead of Stage 20, as Stage 19 already guarantees maximum 3/3 Mythic gear drop rates.",
+  "Use Skill Timing in team setup to delay DPS ultimates to 20s–20.5s so they cast immediately after Colossal Scavenger devours your frontline tank at 18s.",
+  "Fuse sub-familiars in the Hatchery to reroll talent bonuses like Thalarin's Resonance or Greenfield's Blessing to boost team damage."
+ ],
+ "season": "unknown",
+ "server_scope": "S1",
+ "value": "high",
+ "id": "EYvHCBvb8X4",
+ "model": "gemini-3.5-flash",
+ "channel": "Fastidious Dragonheir",
+ "title": "Farm This Dungeon And Get Mythic Gear EASILY ⁂ Dragonheir: Silent Gods",
+ "published": "2026-10-29T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=EYvHCBvb8X4",
+ "short": false,
+ "summarized": "2026-10-30T00:19Z"
+}

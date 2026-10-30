@@ -1,0 +1,85 @@
+{
+ "summary": "Analysis of the top Chinese server Vortex IV leaderboard reveals a major meta shift to Corrosion, reaching 72.8+ billion damage. The top-ranking team transitioned away from traditional pure Toxin to a Corrosion composition centered on Rhyviel and supported by Sia. Child of Chaos requires high Skill Haste (73–78) to optimize cycling at Inspiration 5. Meanwhile, high-performing Dauntless teams are pairing Fire with Lightning affinity, replacing Maashtur with an Inspiration 5 Scaarr.",
+ "topics": [
+  "Vortex IV",
+  "Corrosion Meta",
+  "Hero Builds",
+  "Chinese Server Meta"
+ ],
+ "heroes": [
+  {
+   "name": "Sia",
+   "verdict": "Top-tier Corrosion support",
+   "note": "Serves as an essential support for Rhyviel in high-scoring Corrosion teams, benefiting heavily from the Secrecy gear set, Accuracy, and Skill Haste.",
+   "known": true
+  },
+  {
+   "name": "Rhyviel",
+   "verdict": "Top Corrosion DPS",
+   "note": "The premier damage dealer driving record-breaking 72B+ scores in Vortex IV.",
+   "known": true
+  },
+  {
+   "name": "Child of Chaos",
+   "verdict": "Core enabler for Toxin/Corrosion",
+   "note": "Requires high Skill Haste (around 73 to 78) to maximize efficiency, especially at Inspiration 5.",
+   "known": true
+  },
+  {
+   "name": "Scaarr",
+   "verdict": "Top Dauntless DPS alternative",
+   "note": "Replaced Maashtur at Inspiration 5 in the Fire and Lightning affinity Dauntless team.",
+   "known": true
+  },
+  {
+   "name": "Rook",
+   "verdict": "High-tier Corrosion DPS",
+   "note": "Built primarily with high Critical Rate, Critical Damage, and supplementary Skill Haste from runes.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Vortex IV (Corrosion Team)",
+   "heroes": [
+    "Rhyviel",
+    "Sia",
+    "Szecedith",
+    "Rook",
+    "Child of Chaos"
+   ],
+   "note": "The new top-performing team on Chinese servers pushing over 72 billion total damage."
+  },
+  {
+   "mode": "Vortex IV (Dauntless Team)",
+   "heroes": [
+    "Vicana",
+    "Nastjenka",
+    "Kurvida",
+    "Schaltar",
+    "Scaarr"
+   ],
+   "note": "High-end Dauntless composition utilizing Lightning and Fire affinity pairing with Scaarr replacing Maashtur."
+  }
+ ],
+ "meta_changes": [
+  "Vortex IV meta on the Chinese server has shifted toward Corrosion teams featuring Rhyviel and Sia, outdamaging previous Toxin setups by billions.",
+  "Inspiration 5 Scaarr has replaced Maashtur in top Dauntless Lightning/Fire affinity rosters."
+ ],
+ "tips": [
+  "Build Child of Chaos with 73 to 78 Skill Haste to ensure optimal ultimate rotation.",
+  "Equip Sia with the Secrecy set and prioritize both Accuracy and Skill Haste.",
+  "Ensure damage dealers like Rook maintain high Crit Rate and Crit Damage while picking up Skill Haste on runes."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "9WZfkPWafpo",
+ "model": "gemini-3.8-flash",
+ "channel": "Neff Gaming",
+ "title": "VORTEX IV NEW META! 🔥 Meet the MVP Taking Over! | Dragonheir: Silent Gods",
+ "published": "2026-10-29T21:37:42+00:00",
+ "url": "https://www.youtube.com/watch?v=9WZfkPWafpo",
+ "short": false,
+ "summarized": "2026-10-30T00:21Z"
+}

@@ -1,0 +1,43 @@
+{
+ "summary": "OddOne demonstrates how to redeem Dragon Crystal promo codes via the external platform BuffBuff and explains optimal spending strategies in Dragonheir. When purchasing Dragon Crystals, players should time their spending at the beginning of a season to stack the seasonal 2x first-time top-up bonus with the Glory Tribute event. Glory Tribute returns up to a 100% Dragon Crystal rebate (capped at 10,000 Dragon Crystals) while unlocking Heliolite Dice, Ticket Stubs, and Legendary Hero option chests. Additionally, he highlights using high-season material conversions in the Temporal Corridor to acquire Starwave Fragments for the Lingering Echo shop.",
+ "topics": [
+  "Spending Guide",
+  "Glory Tribute",
+  "Dragon Crystals",
+  "Temporal Corridor",
+  "Promo Codes"
+ ],
+ "heroes": [
+  {
+   "name": "Twitch",
+   "verdict": "Desired chest pick",
+   "note": "Mentioned as a favored target from the Legendary Hero Option Chest I.",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "Anticipated upcoming hero",
+   "note": "Mentioned as an upcoming hero to prepare resources and summons for.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [],
+ "tips": [
+  "Time any real-money purchases for the start of a new season when the 2x Dragon Crystal first-purchase tier bonuses reset and the Glory Tribute event is active.",
+  "Glory Tribute grants milestone rewards including Heliolite Dice and Dragon Crystal Ticket Stubs alongside up to 10,000 rebated Dragon Crystals at maximum tier.",
+  "Only the six standard individual tiers qualify for the 2x seasonal first-purchase Dragon Crystal reset; larger bundles do not grant double.",
+  "Convert spare Season 4 and Season 5 materials into Starwave Fragments in the Temporal Corridor to purchase heroes in the Lingering Echo shop."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "low",
+ "id": "QY6-x79h2QE",
+ "model": "gemini-3.8-flash",
+ "channel": "OddOneGaming RPGs",
+ "title": "💥 DON'T MISS OUT! 💥39 Promo Codes With Dragon Crystals Up For Grabs | Dragonheir x Dragonstride",
+ "published": "2026-10-29T13:00:04+00:00",
+ "url": "https://www.youtube.com/watch?v=QY6-x79h2QE",
+ "short": false,
+ "summarized": "2026-10-30T00:20Z"
+}

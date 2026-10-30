@@ -1,0 +1,60 @@
+{
+ "summary": "This video discusses rumors and confirmation from the Chinese servers regarding the return of Anneliesis, one of the most powerful and versatile support heroes in Dragonheir: Silent Gods. The creators detail her unique kit, which provides massive team buffs, crowd control, buff removal, cleansing, shields, and target-HP-scaled healing. They strongly advise all players, including free-to-play players, to start saving at least 300 Heliolite Dice to guarantee acquiring her on her upcoming banner.",
+ "topics": [
+  "Anneliesis",
+  "banner rumor",
+  "hero analysis",
+  "Aura faction",
+  "dice saving"
+ ],
+ "heroes": [
+  {
+   "name": "Anneliesis",
+   "verdict": "Must-have S-tier overall support",
+   "note": "Provides possess buffs to bonded allies, full-board knockup/stun, complete buff removal, full debuff cleansing, shields, and massive healing scaling off target HP.",
+   "known": true
+  },
+  {
+   "name": "Talethia",
+   "verdict": "Top-tier Aura damage dealer",
+   "note": "Scales heavily off HP damage and pairs exceptionally well with Anneliesis's HP and damage boost passive.",
+   "known": true
+  },
+  {
+   "name": "Lincos",
+   "verdict": "Great Aura battery and buffer",
+   "note": "Provides Aura energy and damage buffs that synergize with Anneliesis in pure Aura comps.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "General / Arena / Bosses",
+   "heroes": [
+    "Anneliesis",
+    "Talethia",
+    "Lincos"
+   ],
+   "note": "A core Aura comp where Anneliesis provides shields, healing, CC, and massive HP/damage scaling to Talethia."
+  }
+ ],
+ "meta_changes": [
+  "Re-run of limited event/exclusive hero Anneliesis on a dedicated banner, allowing newer accounts access to the premier Aura support."
+ ],
+ "tips": [
+  "Always save 300 Heliolite Dice (or equivalent Wyrmarrow) so you can hit full pity on key hero banners like Anneliesis.",
+  "Farm all available story, journey, and Fey Corridor content to accumulate missing Heliolite Dice before the banner arrives.",
+  "Build Anneliesis with high Accuracy if you need her buff removal/CC, or high Resistance/Defense for general survivability; her healing scales on target Max HP rather than her own stats."
+ ],
+ "season": "unknown",
+ "server_scope": "S1",
+ "value": "high",
+ "id": "P0FQYqP34Xk",
+ "model": "gemini-3.5-flash",
+ "channel": "Fastidious Dragonheir",
+ "title": "Most OP Hero Is Coming Back? Anneliesis Banner Talk ft. @OddOneGamingRPGs⁂ Dragonheir: Silent Gods",
+ "published": "2026-10-22T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=P0FQYqP34Xk",
+ "short": false,
+ "summarized": "2026-10-30T00:20Z"
+}

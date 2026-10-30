@@ -1,0 +1,89 @@
+{
+ "summary": "Season 9 'The Undertow Approaches' launches on October 23, introducing the underground region Duskport along with 9 new heroes. The update features 4 exclusive Mythic Artifacts tailored to specific heroes and 7 new gear sets (3 Legendary and 4 Mythic). Additionally, mid-season content introduces the Glory Colosseum multi-team PvP mode, the Ancient Rune Oath event, Magichess Season 4 (Realm of Strife), and a new skin for Saverio.",
+ "topics": [
+  "Season 9",
+  "New Heroes",
+  "Mythic Artifacts",
+  "Gear Sets",
+  "Glory Colosseum",
+  "Magichess S4"
+ ],
+ "heroes": [
+  {
+   "name": "Sia",
+   "verdict": "Necrosis support converting damage to shields and heals",
+   "note": "Converts reduced damage into Mercy to apply shields, heals, and cleanses while inflicting Attack and Recharging Speed penalties on enemies.",
+   "known": true
+  },
+  {
+   "name": "Celestine",
+   "verdict": "Ice support granting permanent team buffs on debuff resist",
+   "note": "Grants random permanent buffs to allies upon resisting debuffs, alongside heals, shields, max HP boosts, and enemy damage output reductions.",
+   "known": true
+  },
+  {
+   "name": "Syonis",
+   "verdict": "Necrosis Shadow hero with a 1v1 Energy Drain Zone",
+   "note": "Reduces enemy Defense, boosts Shadow allies' Attack, and pulls himself and the highest-Attack enemy into an isolated 1v1 duel zone.",
+   "known": true
+  },
+  {
+   "name": "Rhyviel",
+   "verdict": "Poison Corrosion hero that scales Corrosion stacks",
+   "note": "Reduces enemy Defense with Rending Bite, applies Corrosion directly once maxed, and takes reduced damage from affected targets.",
+   "known": true
+  },
+  {
+   "name": "Holfast",
+   "verdict": "Radiance Aura engine and damage buffer",
+   "note": "Channels Aura energy and damage buffs to same-school allies and triggers extra attacks for Aura heroes following his ultimate.",
+   "known": true
+  },
+  {
+   "name": "Fyrenzur",
+   "verdict": "Fire support centered around Dodge synergy",
+   "note": "Grants Dodge Up to allies, heals them when dodging, cleanses debuffs, and inflicts Attack and Recharging Speed penalties.",
+   "known": true
+  },
+  {
+   "name": "Amalfriede",
+   "verdict": "Werewolf Rune Mage with random debuffs and AoE Silence",
+   "note": "Applies random debuffs on hit, scales her ultimate damage based on debuffs inflicted, grants self Accuracy and Shield, and silences AoE targets.",
+   "known": true
+  },
+  {
+   "name": "Longbeau",
+   "verdict": "Ice support utilizing White and Black rat effects",
+   "note": "Uses White Rat to mitigate damage and heal allies, and Black Rat to reflect debuffs or control effects back onto enemy attackers.",
+   "known": true
+  },
+  {
+   "name": "Tallyn",
+   "verdict": "Lightning support with stuns, shields, and Gatekeeper effect",
+   "note": "Accumulates Static stacks to stun enemies and shield allies, while his ultimate grants team shields and the Gatekeeper damage/stun effect.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [
+  "Season 9 launches October 23 introducing Duskport, 9 new heroes, 4 exclusive Mythic Artifacts, and 7 new gear sets.",
+  "Glory Colosseum introduces a multi-team PvP format mid-season with Support Legacy Mark bonuses.",
+  "Magichess Season 4 (Realm of Strife) adds new heroes, the Conqueror bond, Reversal talent branch, and 20 tactical adventure stages."
+ ],
+ "tips": [
+  "Look out for hero-exclusive Mythic Artifacts: Wings of Resentment (Szecedith), Duskmire Crystalwing (Larclys), Moonlit Gemstone Necklace (Monelisse), and Death-Knell Horn (Blah Blah).",
+  "Explore new Mythic gear sets like Azure Prophecy to convert non-damaging debuffs into increased damage taken by target enemies.",
+  "Prepare multi-team compositions for the mid-season Glory Colosseum PvP mode to capitalize on school-specific Support Legacy Marks."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "XhGCS6xvTRc",
+ "model": "gemini-3.5-flash",
+ "channel": "liveranov",
+ "title": "Dragonheir Season 9: The Undertow Approaches | 9 New Heroes, Mythic Sets & Glory Colosseum",
+ "published": "2026-10-22T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=XhGCS6xvTRc",
+ "short": false,
+ "summarized": "2026-10-30T00:19Z"
+}
