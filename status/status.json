@@ -1,5 +1,5 @@
 {
- "built": "2026-10-30T09:26Z",
+ "built": "2026-10-30T10:02Z",
  "last_fetch": "2026-10-30T09:17Z",
  "counts": {
   "summarized": 96,
@@ -24,7 +24,6 @@
   "quota_hit": 1793341126.4954813
  },
  "log_tail": [
-  "… Gorax: S9 Hero Showcase: Rhyviel - Skills, Talents & Inspirations |",
   "! EVERYTHING You Need To Know About The Upcoming Sea: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
   "… Skyasterix Gaming: 💥New Season 9 Equipment are META? I checked them all! | Drag",
   "! S9 Hero Showcase: Rhyviel - Skills, Talents & Insp: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
@@ -103,7 +102,8 @@
   "saved HeIsn3SoA10",
   "+ liveranov: Thunderbolt vs Mekkatorque (Phase 2) | Endgame Boss | Season",
   "saved lXIGOO_jApM",
-  "+ Suzi Plays: My WISH Pulls! 💥Pulling til PREMIUM! 🔥 Dragonheir x Dragonst"
+  "+ Suzi Plays: My WISH Pulls! 💥Pulling til PREMIUM! 🔥 Dragonheir x Dragonst",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 96 videos, 117 heroes"
  ],
  "crontab": [],
  "channels": [
