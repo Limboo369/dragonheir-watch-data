@@ -1,5 +1,5 @@
 {
- "built": "2026-10-31T00:23Z",
+ "built": "2026-10-31T00:55Z",
  "last_fetch": "2026-10-31T00:17Z",
  "counts": {
   "summarized": 108,
@@ -23,7 +23,6 @@
   "v2": 1
  },
  "log_tail": [
-  "== 2026-10-30 17:17",
   "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "daily video budget used (444 min), waiting for tomorrow",
@@ -102,7 +101,8 @@
   "saved j2FsBiDB1ak",
   "+ OddOneGaming RPGs: 🚨 This Team MELTS All Bosses 🚨 Same Lvl 79 Only Team Beats A",
   "saved gTzILPNg-ek",
-  "+ Suzi Plays: Prepare for Season 9 NOW! 💥 New Hero Analysis🔥 Dragonheir x "
+  "+ Suzi Plays: Prepare for Season 9 NOW! 💥 New Hero Analysis🔥 Dragonheir x ",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 108 videos, 126 heroes"
  ],
  "crontab": [],
  "channels": [
