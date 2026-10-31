@@ -1,5 +1,5 @@
 {
- "built": "2026-10-31T01:18Z",
+ "built": "2026-10-31T01:56Z",
  "last_fetch": "2026-10-31T01:17Z",
  "counts": {
   "summarized": 109,
@@ -91,7 +91,6 @@
   "quota_hit": 1793409483.8792322
  },
  "log_tail": [
-  "… Neff Gaming: Vortex II Made EASY! Aura + Toxin Low Inspiration Setup | Dr",
   "… Skratch Gaming: Should We Pull On The New Banner?? Dragonheir: Silent Gods x",
   "… Skyasterix Gaming: 👉 SHOULD YOU PULL SYONIS? Check my Review! | Dragonheir: Sil",
   "… OddOneGaming RPGs: 🚨 LVL 79 ONLY! 🚨 1 Team ALL Dungeons Max Stage Cleared #drag",
@@ -170,7 +169,8 @@
   "! Best Summon Teams vs Mekkatorque | S8 Endgame Boss: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
   "! Best Frost Teams vs Mekkatorque | S8 Endgame Boss : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
   "saved yzljKIdSKP8",
-  "+ Neff Gaming: Best Aura Teams vs Mekkatorque | S8 Endgame Boss Phase 1 | D"
+  "+ Neff Gaming: Best Aura Teams vs Mekkatorque | S8 Endgame Boss Phase 1 | D",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 109 videos, 127 heroes"
  ],
  "crontab": [],
  "channels": [
