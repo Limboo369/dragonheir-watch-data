@@ -1,0 +1,94 @@
+{
+ "summary": "Gorax undertakes an 800+ dice Wish Summon session targeting key Exclusive heroes to assemble an Aura team for Continental Challenge and push Serpentemis to Inspiration 5. He highlights the high efficiency of the Wish Summon mechanic for beginners and veterans alike to construct tailored teams with around 300 dice. Throughout the pulls, he details how Inspiration stat boosts benefit Aura teams through HP scaling and explains why main DPS heroes gain massive performance spikes at Inspiration 5. He also warns that Lincos will be replaced by a new upcoming Aura hero in the next season, advising against over-prioritizing inspirations on pure supports.",
+ "topics": [
+  "Wish Summons",
+  "Continental Challenge",
+  "Aura Team",
+  "Toxin Team",
+  "Inspirations"
+ ],
+ "heroes": [
+  {
+   "name": "Talethia",
+   "verdict": "Top tier Aura DPS",
+   "note": "At Inspiration 5 she deals massive damage that can even out-damage established Dauntless teams.",
+   "known": true
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "Top tier Toxin DPS",
+   "note": "A core Toxin damage dealer whose Inspiration 5 gives a massive damage boost; worth targeting from selection chests.",
+   "known": true
+  },
+  {
+   "name": "Diantha",
+   "verdict": "Essential Aura support",
+   "note": "Crucial Witch's Remains applier for Aura teams whose survivability and team damage scale well with the HP provided by inspirations.",
+   "known": true
+  },
+  {
+   "name": "Shahla",
+   "verdict": "Solid Aura support",
+   "note": "Good addition to flesh out a full 4-hero or 5-hero Aura roster.",
+   "known": true
+  },
+  {
+   "name": "Lincos",
+   "verdict": "Temporary Aura support",
+   "note": "Functional Aura buffer for now, but will be replaced next season by a new Aura hero that outperforms him even at Inspiration 0.",
+   "known": true
+  },
+  {
+   "name": "Ergander",
+   "verdict": "Fallen off meta",
+   "note": "Used to be a meta PvP hero, but is no longer prominent due to shifting meta dynamics.",
+   "known": true
+  },
+  {
+   "name": "Jathalea",
+   "verdict": "Budget Poison/Toxin alternative",
+   "note": "Not used much unless you are missing premier options like Lothair or Serpentemis.",
+   "known": true
+  },
+  {
+   "name": "Oggok",
+   "verdict": "Top tier support",
+   "note": "An amazing all-around support hero that players should ideally aim to get to Inspiration 5.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Continental Challenge",
+   "heroes": [
+    "Talethia",
+    "Diantha",
+    "Shahla",
+    "Lincos"
+   ],
+   "note": "A core Aura team built to deliver high damage even at low investment and low inspirations."
+  }
+ ],
+ "meta_changes": [
+  "Ergander has fallen out of the top tier PvP meta.",
+  "Lincos will be powercrept and replaced in the upcoming season by a brand-new Aura hero."
+ ],
+ "tips": [
+  "Newer players should prioritize building either an Aura or a Toxin team first using Wish Summons.",
+  "Wish Summons allows you to curate a concentrated hero pool and assemble a complete, viable team within roughly 300 dice.",
+  "Aura heroes scale heavily with HP, meaning inspirations provide double value by boosting both survivability (HP/DEF) and offensive output.",
+  "Pushing a primary DPS hero from Inspiration 4 to Inspiration 5 typically provides a massive 60% to 70% damage increase.",
+  "Avoid heavily investing inspiration resources into pure supports like Lincos who do not scale the team's direct damage output."
+ ],
+ "season": "S9",
+ "server_scope": "mixed",
+ "value": "medium",
+ "id": "soNuRXPx71Y",
+ "model": "gemini-3.8-flash",
+ "channel": "Gorax",
+ "title": "This Wish Summon Session Was Absolutely INSANE | Dragonheir x Dragonstride",
+ "published": "2026-10-14T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=soNuRXPx71Y",
+ "short": false,
+ "summarized": "2026-10-31T06:20Z"
+}

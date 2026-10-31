@@ -1,0 +1,146 @@
+{
+ "summary": "Gorax showcases the top team compositions for the Season 8 endgame boss Mekkatorque (Rasp of Gears, Phase 1). He compares damage outputs between Inspiration 5 and Inspiration 0 to help both competitive spenders and free-to-play players. High-performing setups include Thunderbolt reaching nearly 6 billion damage and Poison/Toxin hitting over 6.1 billion with Child of Chaos. He also highlights an accessible budget Ice team led by Aethereal that deals over 1.2 billion damage even at Inspiration 0.",
+ "topics": [
+  "Mekkatorque",
+  "Rasp of Gears",
+  "End Game Boss",
+  "Team Compositions",
+  "Inspiration 0 vs 5"
+ ],
+ "heroes": [
+  {
+   "name": "Child of Chaos",
+   "verdict": "Best support for Poison/Toxin teams",
+   "note": "Provides team survivability with extra healing at Inspiration 2 and enables the Poison composition to break 6 billion damage.",
+   "known": true
+  },
+  {
+   "name": "Perkunte",
+   "verdict": "Top-tier Lightning damage dealer",
+   "note": "Serves as the cornerstone of the Thunderbolt team, which achieved nearly 6 billion damage at high inspiration and 1.5 billion at Inspiration 0.",
+   "known": true
+  },
+  {
+   "name": "Aethereal",
+   "verdict": "Outstanding low-inspiration carry",
+   "note": "Core damage dealer in a highly accessible Cold team that deals roughly 1.24 billion damage regardless of whether she is at Inspiration 0 or high inspiration.",
+   "known": true
+  },
+  {
+   "name": "Saverio",
+   "verdict": "Premier Shadow DPS",
+   "note": "Substantially outdamages Daphne when built as the main DPS at high inspiration, pushing Shadow team output past 2.3 billion.",
+   "known": true
+  },
+  {
+   "name": "Irmoush",
+   "verdict": "Essential Lightning support",
+   "note": "Keeps the Thunderbolt team alive even at Inspiration 0 as long as he has sufficient Skill Haste for a 15-second rotation.",
+   "known": true
+  },
+  {
+   "name": "Lothair",
+   "verdict": "Main Poison carry",
+   "note": "Benefits heavily from Enlightenment and Attack stacking, performing best with his second talent selection.",
+   "known": true
+  },
+  {
+   "name": "Beldelle",
+   "verdict": "Top Ice Blast carry",
+   "note": "Demands the highest Attack stat on the squad to receive all priority buffs and Master Genie scaling.",
+   "known": true
+  },
+  {
+   "name": "Nastjenka",
+   "verdict": "Lead Dauntless carry",
+   "note": "Must be built with higher Attack than Guinavivre to properly direct team and pet buffs in AoE scenarios.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Mekkatorque Phase 1 (Thunderbolt)",
+   "heroes": [
+    "Perkunte",
+    "Irmoush",
+    "Shai'nachtan",
+    "Tariz",
+    "Alaura"
+   ],
+   "note": "Top-performing Lightning squad capable of 5.97B damage at I5 and nearly 1.5B damage at I0."
+  },
+  {
+   "mode": "Mekkatorque Phase 1 (Poison / Toxin)",
+   "heroes": [
+    "Lothair",
+    "Serpentemis",
+    "Sleight",
+    "Sacredeia",
+    "Child of Chaos"
+   ],
+   "note": "Deals over 6.1B damage at high investment and over 1.2B at I0 with 15-second or 30-second skill rotations."
+  },
+  {
+   "mode": "Mekkatorque Phase 1 (Budget Cold)",
+   "heroes": [
+    "Aethereal",
+    "Durango",
+    "Lossenia",
+    "Vinyara",
+    "Feenja"
+   ],
+   "note": "F2P-friendly team dealing 1.24B damage at Inspiration 0 by stacking diverse debuffs and sharing Resistance."
+  },
+  {
+   "mode": "Mekkatorque Phase 1 (Aura)",
+   "heroes": [
+    "Talethia",
+    "Diantha",
+    "Lincos",
+    "Anneliesis",
+    "Shahla"
+   ],
+   "note": "Reaches 2.88B to 3B damage; requires strict 15-second Skill Haste tuning on Diantha, Lincos, and Anneliesis."
+  },
+  {
+   "mode": "Mekkatorque Phase 1 (Shadow / Necrosis)",
+   "heroes": [
+    "Saverio",
+    "Seyir",
+    "Giacosa",
+    "The Dark Lady",
+    "Astaion"
+   ],
+   "note": "Hits 2.3B damage at high inspiration and over 880M at I0; switch main DPS priority to Seyir if Saverio lacks artifacts or inspiration."
+  },
+  {
+   "mode": "Mekkatorque Phase 1 (Ice Blast)",
+   "heroes": [
+    "Beldelle",
+    "Ernesto",
+    "Shinnah",
+    "Fredegonda",
+    "Anselmo"
+   ],
+   "note": "Achieves 2.1B to 2.8B at I5 and 626M at I0; relies on Ernesto shielding and buffing Beldelle."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Ensure your designated primary damage dealer (such as Beldelle, Talethia, or Nastjenka) has the absolute highest Attack stat on the team so pet and artifact buffs target them.",
+  "Tune Skill Haste on critical supports and enablers (like Diantha, Lincos, and Irmoush) to hit consistent 15-second skill rotation timings.",
+  "Do not feel forced to chase high inspiration on all heroes: the Aethereal debuff team produces roughly the same 1.24B damage at I0 as it does at max inspiration.",
+  "Shadow and certain DoT setups are projected to deal even higher damage when transitioning into Phase 2 of Mekkatorque."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "vPergNPCG8I",
+ "model": "gemini-3.8-flash",
+ "channel": "Gorax",
+ "title": "Best Teams for Rasp of Gears S8 | Mekkatorque Guide + Team Codes | Dragonheir x Dragonstride",
+ "published": "2026-10-14T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=vPergNPCG8I",
+ "short": false,
+ "summarized": "2026-10-31T06:19Z"
+}
