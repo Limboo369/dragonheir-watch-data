@@ -1,22 +1,16 @@
 {
- "built": "2026-10-31T05:59Z",
- "last_fetch": "2026-10-31T05:17Z",
+ "built": "2026-10-31T06:19Z",
+ "last_fetch": "2026-10-31T06:17Z",
  "counts": {
-  "summarized": 112,
+  "summarized": 113,
   "skipped_giveaway": 17,
   "new": 456,
-  "retry": 10,
   "baseline": 22,
+  "retry": 9,
   "skipped_live": 1,
   "failed": 1
  },
  "problems": [
-  {
-   "title": "MY 6 TEAMS For The Endgame Boss! Dragonheir: Silent Gods x Dragonstride",
-   "channel": "Skratch Gaming",
-   "status": "retry",
-   "error": ""
-  },
   {
    "title": "F2P Summons For My NEW TEAM!!! [Dragonheir: Silent Gods]",
    "channel": "Volkin Dragonheir",
@@ -80,37 +74,11 @@
  ],
  "budget": {
   "day": "2026-10-31",
-  "seconds": 17843,
+  "seconds": 21693,
   "v2": 1,
-  "quota_hit": 1793420301.1213825
+  "quota_hit": 1793427487.6146405
  },
  "log_tail": [
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 109 videos, 127 heroes",
-  "mv: cannot stat '.backlog.json.new': No such file or directory",
-  "mv: cannot stat '.web.py.new': No such file or directory",
-  "== 2026-10-31 03:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "… OddOneGaming RPGs: 💥 Am I Crazy? 💥NEW S9 Artifacts & Gear + Guaranteed Blah Bla",
-  "… Gorax: Build Your Temporal Vortex Teams the Right Way! Toxin, Daunt… Neff Gaming: Best Corrosion Teams vs Mekkatorque | S8 Endgame Boss Phase ",
-  "",
-  "… Skratch Gaming: NECROSIS Vs. The Endgame Boss S8! Dragonheir: Silent Gods x ",
-  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
-  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
-  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
-  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
-  "… Gorax: Best Teams for Rasp of Gears S8 | Mekkatorque Guide + Team C",
-  "! Best Corrosion Teams vs Mekkatorque | S8 Endgame B: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
-  "… Skratch Gaming: MY 6 TEAMS For The Endgame Boss! Dragonheir: Silent Gods x D",
-  "! Best Teams for Rasp of Gears S8 | Mekkatorque Guid: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
-  "… Gorax: This Wish Summon Session Was Absolutely INSANE | Dragonheir ",
-  "! MY 6 TEAMS For The Endgame Boss! Dragonheir: Silen: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
-  "… Volkin Dragonheir: F2P Summons For My NEW TEAM!!! [Dragonheir: Silent Gods]",
-  "! This Wish Summon Session Was Absolutely INSANE | D: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
-  "… Skratch Gaming: Toxin Vs Mekkatorque! Endgame Boss S8 Dragonheir: Silent God",
-  "! F2P Summons For My NEW TEAM!!! [Dragonheir: Silent: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
-  "… Neff Gaming: Best Summon Teams vs Mekkatorque | S8 Endgame Boss Phase 1 |",
-  "! Toxin Vs Mekkatorque! Endgame Boss S8 Dragonheir: : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
   "… Neff Gaming: Best Frost Teams vs Mekkatorque | S8 Endgame Boss Phase 1 | ",
   "! Best Summon Teams vs Mekkatorque | S8 Endgame Boss: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
   "… Gorax: My 2 Teams for Imperial Shadow Recast – Multiple Variants + ",
@@ -164,7 +132,33 @@
   "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "Gemini quota was full less than an hour ago, trying again next round",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 112 videos, 132 heroes"
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 112 videos, 132 heroes",
+  "== 2026-10-31 06:17",
+  "fetch done: 0 new transcripts, 0 not available yet",
+  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
+  "… Neff Gaming: Best Corrosion Teams vs Mekkatorque | S8 Endgame Boss Phase ",
+  "… Gorax: Best Teams for Rasp of Gears S8 | Mekkatorque Guide + Team C",
+  "… Skratch Gaming: MY 6 TEAMS For The Endgame Boss! Dragonheir: Silent Gods x D",
+  "… Gorax: This Wish Summon Session Was Absolutely INSANE | Dragonheir ",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
+  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
+  "… Volkin Dragonheir: F2P Summons For My NEW TEAM!!! [Dragonheir: Silent Gods]",
+  "! Best Corrosion Teams vs Mekkatorque | S8 Endgame B: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "… Skratch Gaming: Toxin Vs Mekkatorque! Endgame Boss S8 Dragonheir: Silent God",
+  "! F2P Summons For My NEW TEAM!!! [Dragonheir: Silent: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "… Neff Gaming: Best Summon Teams vs Mekkatorque | S8 Endgame Boss Phase 1 |",
+  "! Toxin Vs Mekkatorque! Endgame Boss S8 Dragonheir: : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "… Neff Gaming: Best Frost Teams vs Mekkatorque | S8 Endgame Boss Phase 1 | ",
+  "! Best Summon Teams vs Mekkatorque | S8 Endgame Boss: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "… Gorax: My 2 Teams for Imperial Shadow Recast – Multiple Variants + ",
+  "! Best Frost Teams vs Mekkatorque | S8 Endgame Boss : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "… Neff Gaming: Best Dauntless Teams vs Mekkatorque | S8 Endgame Boss Phase ",
+  "! My 2 Teams for Imperial Shadow Recast – Multiple V: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "! Best Dauntless Teams vs Mekkatorque | S8 Endgame B: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "saved svroY6v2YuU",
+  "+ Skratch Gaming: MY 6 TEAMS For The Endgame Boss! Dragonheir: Silent Gods x D"
  ],
  "crontab": [],
  "channels": [
@@ -172,55 +166,55 @@
    "name": "Skratch Gaming",
    "id": "UCoSkzr1pXpt3d0jIxsc6ufw",
    "enabled": true,
-   "checked": "2026-10-31T05:17Z"
+   "checked": "2026-10-31T06:17Z"
   },
   {
    "name": "Gorax",
    "id": "UCNas7BnuOIjDEzY1D53kb1w",
    "enabled": true,
-   "checked": "2026-10-31T05:17Z"
+   "checked": "2026-10-31T06:17Z"
   },
   {
    "name": "Neff Gaming",
    "id": "UCsxs6YhNd_B36RgUAjbpJ_A",
    "enabled": true,
-   "checked": "2026-10-31T05:17Z"
+   "checked": "2026-10-31T06:17Z"
   },
   {
    "name": "Volkin Dragonheir",
    "id": "UCfRpOh_ywVjzhh9fxHbreGw",
    "enabled": true,
-   "checked": "2026-10-31T05:17Z"
+   "checked": "2026-10-31T06:17Z"
   },
   {
    "name": "Fastidious Dragonheir",
    "id": "UC16mpj5wEemSZX-uTlHe9Ww",
    "enabled": true,
-   "checked": "2026-10-31T05:17Z"
+   "checked": "2026-10-31T06:17Z"
   },
   {
    "name": "OddOneGaming RPGs",
    "id": "UC1ivUEf_poI9_R2eVKa8wRQ",
    "enabled": true,
-   "checked": "2026-10-31T05:17Z"
+   "checked": "2026-10-31T06:17Z"
   },
   {
    "name": "Suzi Plays",
    "id": "UCyo1-TkunhGcK6khU1h8Ypw",
    "enabled": true,
-   "checked": "2026-10-31T05:17Z"
+   "checked": "2026-10-31T06:17Z"
   },
   {
    "name": "Skyasterix Gaming",
    "id": "UCr5Gb3910rK7QPmKMmdagsA",
    "enabled": true,
-   "checked": "2026-10-31T05:17Z"
+   "checked": "2026-10-31T06:17Z"
   },
   {
    "name": "liveranov",
    "id": "UCqCR7ofFHhWwXy3Hg00fqEw",
    "enabled": true,
-   "checked": "2026-10-31T05:17Z"
+   "checked": "2026-10-31T06:17Z"
   }
  ]
 }

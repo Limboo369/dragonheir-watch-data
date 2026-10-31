@@ -1,0 +1,157 @@
+{
+ "summary": "Skratch presents six complete team compositions for the Mekkatongue (Rasp of Gears) endgame boss. The video details gear, artifact choices, skill timing, and damage results for Shadow, Thunder, Dauntless, Aura, Necrosis, and Toxin teams. The Toxin team achieved the highest damage output at over 3.5 billion, followed by the Aura team at 2.4 billion. Key strategic takeaways include reaching 70+ Skill Haste for 15-second skill rotation cycles and stacking extra debuffs with artifacts like Punisher's Whip and Witch's Remains.",
+ "topics": [
+  "Rasp of Gears",
+  "Mekkatongue",
+  "Endgame Boss",
+  "Team Compositions",
+  "Skill Timing"
+ ],
+ "heroes": [
+  {
+   "name": "Seyir",
+   "verdict": "Core Shadow DPS",
+   "note": "Primary damage dealer in Shadow setup; requires melee Mythic gear and maximum Attack and Enlightenment stats.",
+   "known": true
+  },
+  {
+   "name": "Saverio",
+   "verdict": "High-damage Necrosis DPS",
+   "note": "Performs best when paired with his exclusive artifact Bloodmoon Thorncrown Shard or Vile Ink.",
+   "known": true
+  },
+  {
+   "name": "Ghul'ende",
+   "verdict": "Shadow Support/Debuffer",
+   "note": "Replaces The Dark Lady in Shadow teams to provide healing, attack sharing, and extra debuffs via Punisher's Whip.",
+   "known": true
+  },
+  {
+   "name": "Tariz",
+   "verdict": "Thunder DPS",
+   "note": "Gains a noticeable damage increase when equipped with Witch's Remains over Misty Conch.",
+   "known": true
+  },
+  {
+   "name": "Kurvida",
+   "verdict": "Essential Thunder/Dauntless Debuffer",
+   "note": "Requires 70+ Skill Haste to maintain a 15-second cooldown cycle for continuous DEF Down and Lightning Vulnerability.",
+   "known": true
+  },
+  {
+   "name": "Diantha",
+   "verdict": "Core Aura Buffer/DPS",
+   "note": "Must have 70+ Skill Haste to avoid desynchronizing her ultimate before Talethia casts.",
+   "known": true
+  },
+  {
+   "name": "Talethia",
+   "verdict": "Top Radiant/Aura DPS",
+   "note": "Requires maximum HP and Crit Damage while keeping her ATK slightly below Lincos.",
+   "known": true
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "Top Toxin DPS",
+   "note": "Acts as the primary damage engine in 30-second Toxin rotations; stack Attack and Enlightenment.",
+   "known": true
+  },
+  {
+   "name": "Sacredeia",
+   "verdict": "Toxin Accuracy Provider",
+   "note": "Essential in Toxin compositions to share Accuracy and maintain Corrosion debuffs.",
+   "known": true
+  },
+  {
+   "name": "The Dark Lady",
+   "verdict": "Necrosis Debuffer",
+   "note": "Applies DEF Down and gains Ultimate Energy when inflicting debuffs.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Mekkatongue (Rasp of Gears)",
+   "heroes": [
+    "Seyir",
+    "Giacosa",
+    "Saverio",
+    "Ghul'ende",
+    "Astaion"
+   ],
+   "note": "Shadow/Necrosis derivative team dealing around 1.1 billion damage without skill timing restrictions."
+  },
+  {
+   "mode": "Mekkatongue (Rasp of Gears)",
+   "heroes": [
+    "Nathaniel",
+    "Shai'nachtan",
+    "Perkunte",
+    "Alaura",
+    "Tariz"
+   ],
+   "note": "Thunder team scoring ~1.3 billion damage; uses Witch's Remains on Tariz for optimal debuffer support."
+  },
+  {
+   "mode": "Mekkatongue (Rasp of Gears)",
+   "heroes": [
+    "Nastjenka",
+    "Guinavivre",
+    "Kurvida",
+    "Maashtur",
+    "Selva"
+   ],
+   "note": "Dauntless team outputting ~900M to 1B damage; highly dependent on Kurvida and Maashtur hitting 70+ Skill Haste."
+  },
+  {
+   "mode": "Mekkatongue (Rasp of Gears)",
+   "heroes": [
+    "Diantha",
+    "Lincos",
+    "Talethia",
+    "Shahla",
+    "Anneliesis"
+   ],
+   "note": "Aura/Radiant team producing 2.39 billion damage on strict 15-second skill rotation timings."
+  },
+  {
+   "mode": "Mekkatongue (Rasp of Gears)",
+   "heroes": [
+    "Larclys",
+    "Lelwanis",
+    "Sintrellia",
+    "The Dark Lady",
+    "Bernade"
+   ],
+   "note": "Necrosis summon team achieving ~1.45 billion damage using Angelic Alliance on Sintrellia."
+  },
+  {
+   "mode": "Mekkatongue (Rasp of Gears)",
+   "heroes": [
+    "Child of Chaos",
+    "Serpentemis",
+    "Sleight",
+    "Sacredeia",
+    "Lothair"
+   ],
+   "note": "Highest damage composition overall, reaching over 3.56 billion damage with a 30-second skill timing rotation."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "For heroes operating on 15-second ultimate cycles (such as Kurvida, Maashtur, and Diantha), aim for at least 70 Skill Haste to prevent skill desync.",
+  "Equip supports with Punisher's Whip or Witch's Remains to consistently apply extra debuffs that multiply team derivative damage.",
+  "Ensure melee Necrosis heroes do not accidentally equip ranged-only Mythic pieces, as they negate crucial stat bonuses."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "svroY6v2YuU",
+ "model": "gemini-3.5-flash",
+ "channel": "Skratch Gaming",
+ "title": "MY 6 TEAMS For The Endgame Boss! Dragonheir: Silent Gods x Dragonstride",
+ "published": "2026-10-14T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=svroY6v2YuU",
+ "short": false,
+ "summarized": "2026-10-31T06:19Z"
+}
