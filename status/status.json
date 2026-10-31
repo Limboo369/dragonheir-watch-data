@@ -1,98 +1,29 @@
 {
- "built": "2026-10-31T08:00Z",
- "last_fetch": "2026-10-31T07:17Z",
+ "built": "2026-10-31T08:27Z",
+ "last_fetch": "2026-10-31T08:17Z",
  "counts": {
-  "summarized": 115,
+  "summarized": 122,
   "skipped_giveaway": 17,
   "new": 456,
   "baseline": 22,
-  "retry": 7,
   "skipped_live": 1,
   "failed": 1
  },
  "problems": [
   {
-   "title": "F2P Summons For My NEW TEAM!!! [Dragonheir: Silent Gods]",
-   "channel": "Volkin Dragonheir",
-   "status": "retry",
-   "error": ""
-  },
-  {
    "title": "Season 9 NEW INFO: 2 Free Heroes, New Affinities & Selectable Banner! | Dragonheir: Silent Gods",
    "channel": "liveranov",
    "status": "failed",
    "error": "Expecting value: line 1 column 1 (char 0)"
-  },
-  {
-   "title": "Toxin Vs Mekkatorque! Endgame Boss S8 Dragonheir: Silent Gods x Dragonstride",
-   "channel": "Skratch Gaming",
-   "status": "retry",
-   "error": ""
-  },
-  {
-   "title": "My 2 Teams for Imperial Shadow Recast – Multiple Variants + Team Codes | Dragonheir x Dragonstride",
-   "channel": "Gorax",
-   "status": "retry",
-   "error": ""
-  },
-  {
-   "title": "Best Corrosion Teams vs Mekkatorque | S8 Endgame Boss Phase 1 | Dragonheir",
-   "channel": "Neff Gaming",
-   "status": "retry",
-   "error": ""
-  },
-  {
-   "title": "Best Summon Teams vs Mekkatorque | S8 Endgame Boss Phase 1 | Dragonheir",
-   "channel": "Neff Gaming",
-   "status": "retry",
-   "error": ""
-  },
-  {
-   "title": "Best Frost Teams vs Mekkatorque | S8 Endgame Boss Phase 1 | Dragonheir",
-   "channel": "Neff Gaming",
-   "status": "retry",
-   "error": ""
-  },
-  {
-   "title": "Best Dauntless Teams vs Mekkatorque | S8 Endgame Boss Phase 1 | Dragonheir",
-   "channel": "Neff Gaming",
-   "status": "retry",
-   "error": ""
   }
  ],
  "budget": {
   "day": "2026-10-31",
-  "seconds": 21693,
+  "seconds": 26610,
   "v2": 1,
   "quota_hit": 1793427487.6146405
  },
  "log_tail": [
-  "saved xQsiosr7QFU",
-  "+ Skratch Gaming: NECROSIS Vs. The Endgame Boss S8! Dragonheir: Silent Gods x ",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 112 videos, 132 heroes",
-  "== 2026-10-31 04:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "… Neff Gaming: Best Corrosion Teams vs Mekkatorque | S8 Endgame Boss Phase ",
-  "… Gorax: Best Teams for Rasp of Gears S8 | Mekkatorque Guide + Team C",
-  "… Skratch Gaming: MY 6 TEAMS For The Endgame Boss! Dragonheir: Silent Gods x D",
-  "… Gorax: This Wish Summon Session Was Absolutely INSANE | Dragonheir ",
-  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
-  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
-  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
-  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
-  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
-  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
-  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
-  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
-  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
-  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
-  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
-  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
-  "… Volkin Dragonheir: F2P Summons For My NEW TEAM!!! [Dragonheir: Silent Gods]",
-  "! Best Corrosion Teams vs Mekkatorque | S8 Endgame B: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
-  "… Skratch Gaming: Toxin Vs Mekkatorque! Endgame Boss S8 Dragonheir: Silent God",
-  "… Neff Gaming: Best Summon Teams vs Mekkatorque | S8 Endgame Boss Phase 1 |",
   "… Neff Gaming: Best Frost Teams vs Mekkatorque | S8 Endgame Boss Phase 1 | ",
   "… Gorax: My 2 Teams for Imperial Shadow Recast – Multiple Variants + ",
   "! This Wish Summon Session Was Absolutely INSANE | D: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
@@ -146,7 +77,33 @@
   "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "Gemini quota was full less than an hour ago, trying again next round",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 115 videos, 134 heroes"
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 115 videos, 134 heroes",
+  "== 2026-10-31 08:17",
+  "fetch done: 0 new transcripts, 0 not available yet",
+  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
+  "… Neff Gaming: Best Corrosion Teams vs Mekkatorque | S8 Endgame Boss Phase ",
+  "… Volkin Dragonheir: F2P Summons For My NEW TEAM!!! [Dragonheir: Silent Gods]… Skratch Gaming: Toxin Vs Mekkatorque! Endgame Boss S8 Dragonheir: Silent God",
+  "",
+  "… Neff Gaming: Best Summon Teams vs Mekkatorque | S8 Endgame Boss Phase 1 |",
+  "… Neff Gaming: Best Frost Teams vs Mekkatorque | S8 Endgame Boss Phase 1 | ",
+  "… Gorax: My 2 Teams for Imperial Shadow Recast – Multiple Variants + ",
+  "saved qUrDNsAZh-A",
+  "+ Skratch Gaming: Toxin Vs Mekkatorque! Endgame Boss S8 Dragonheir: Silent God",
+  "saved qBCdZsqhVk8",
+  "+ Neff Gaming: Best Summon Teams vs Mekkatorque | S8 Endgame Boss Phase 1 |",
+  "… Neff Gaming: Best Dauntless Teams vs Mekkatorque | S8 Endgame Boss Phase ",
+  "saved zwqb59YlmvY",
+  "+ Neff Gaming: Best Corrosion Teams vs Mekkatorque | S8 Endgame Boss Phase ",
+  "  gemini-3.8-flash: 503, using gemini-3.5-flash",
+  "saved q3M5jmrUWjc (unknown hero names: Vitar)",
+  "+ Neff Gaming: Best Frost Teams vs Mekkatorque | S8 Endgame Boss Phase 1 | ",
+  "  gemini-3.8-flash: 503, using gemini-3.5-flash",
+  "saved pnqyc0Mm_X4",
+  "+ Neff Gaming: Best Dauntless Teams vs Mekkatorque | S8 Endgame Boss Phase ",
+  "saved q-5Iqzt_0VI",
+  "+ Gorax: My 2 Teams for Imperial Shadow Recast – Multiple Variants + ",
+  "saved sWDYLD9S2yE",
+  "+ Volkin Dragonheir: F2P Summons For My NEW TEAM!!! [Dragonheir: Silent Gods]"
  ],
  "crontab": [],
  "channels": [
@@ -154,55 +111,55 @@
    "name": "Skratch Gaming",
    "id": "UCoSkzr1pXpt3d0jIxsc6ufw",
    "enabled": true,
-   "checked": "2026-10-31T07:17Z"
+   "checked": "2026-10-31T08:17Z"
   },
   {
    "name": "Gorax",
    "id": "UCNas7BnuOIjDEzY1D53kb1w",
    "enabled": true,
-   "checked": "2026-10-31T07:17Z"
+   "checked": "2026-10-31T08:17Z"
   },
   {
    "name": "Neff Gaming",
    "id": "UCsxs6YhNd_B36RgUAjbpJ_A",
    "enabled": true,
-   "checked": "2026-10-31T07:17Z"
+   "checked": "2026-10-31T08:17Z"
   },
   {
    "name": "Volkin Dragonheir",
    "id": "UCfRpOh_ywVjzhh9fxHbreGw",
    "enabled": true,
-   "checked": "2026-10-31T07:17Z"
+   "checked": "2026-10-31T08:17Z"
   },
   {
    "name": "Fastidious Dragonheir",
    "id": "UC16mpj5wEemSZX-uTlHe9Ww",
    "enabled": true,
-   "checked": "2026-10-31T07:17Z"
+   "checked": "2026-10-31T08:17Z"
   },
   {
    "name": "OddOneGaming RPGs",
    "id": "UC1ivUEf_poI9_R2eVKa8wRQ",
    "enabled": true,
-   "checked": "2026-10-31T07:17Z"
+   "checked": "2026-10-31T08:17Z"
   },
   {
    "name": "Suzi Plays",
    "id": "UCyo1-TkunhGcK6khU1h8Ypw",
    "enabled": true,
-   "checked": "2026-10-31T07:17Z"
+   "checked": "2026-10-31T08:17Z"
   },
   {
    "name": "Skyasterix Gaming",
    "id": "UCr5Gb3910rK7QPmKMmdagsA",
    "enabled": true,
-   "checked": "2026-10-31T07:17Z"
+   "checked": "2026-10-31T08:17Z"
   },
   {
    "name": "liveranov",
    "id": "UCqCR7ofFHhWwXy3Hg00fqEw",
    "enabled": true,
-   "checked": "2026-10-31T07:17Z"
+   "checked": "2026-10-31T08:17Z"
   }
  ]
 }

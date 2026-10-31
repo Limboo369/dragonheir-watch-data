@@ -1,0 +1,114 @@
+{
+ "summary": "Neff showcases three Dauntless team setups to beat the S8 endgame boss Mekkatorque, sourced from top-performing Chinese server builds. The classic team with Nathaniel reaches 1.6 billion damage, while the high-end Vortex team featuring Selva reaches over 2 billion damage. A lower-budget option utilizing Tharivol and Torrin delivers around 850 million damage with lower inspiration levels.",
+ "topics": [
+  "Mekkatorque",
+  "Dauntless Teams",
+  "Endgame Boss",
+  "Team Compositions",
+  "Skill Timings"
+ ],
+ "heroes": [
+  {
+   "name": "Nastjenka",
+   "verdict": "Core Dauntless DPS",
+   "note": "Built for pure damage with high attack and crit metrics while maintaining sufficient resistance.",
+   "known": true
+  },
+  {
+   "name": "Guinavivre",
+   "verdict": "Primary Attack Buff Target",
+   "note": "Requires highest attack on the team to receive pet and skill buffs.",
+   "known": true
+  },
+  {
+   "name": "Kurvida",
+   "verdict": "Core Dauntless Enabler",
+   "note": "On Chinese servers, Kurvida is often built with skill haste rather than attack speed to maximize Omen debuff uptime.",
+   "known": true
+  },
+  {
+   "name": "Maashtur",
+   "verdict": "Essential Support Debuffer",
+   "note": "Equipped with Secrecy set, Angelic Alliance, high accuracy, and resistance.",
+   "known": true
+  },
+  {
+   "name": "Nathaniel",
+   "verdict": "Classic Defensive Support",
+   "note": "Provides team survivability and resistance sharing using Puppeteer set and Golden Antlers.",
+   "known": true
+  },
+  {
+   "name": "Selva",
+   "verdict": "Best-in-Slot Support for Top Damage",
+   "note": "Enables the 2B+ damage Vortex setup through 15-second rotations with Rift Hourglass and Puppeteer set.",
+   "known": true
+  },
+  {
+   "name": "Tharivol",
+   "verdict": "Budget Dauntless Option",
+   "note": "Used in lower-inspiration setups with Vortex Illusion, Puppeteer set, and high resistance.",
+   "known": true
+  },
+  {
+   "name": "Torrin",
+   "verdict": "Budget Support Option",
+   "note": "Built with high skill haste (157+) and Secrecy set to achieve 850M+ damage.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Mekkatorque Boss (Classic 1.6B Team)",
+   "heroes": [
+    "Nastjenka",
+    "Guinavivre",
+    "Kurvida",
+    "Maashtur",
+    "Nathaniel"
+   ],
+   "note": "Deals 1.6B damage using 17.5s skill rotations and Nathaniel for team protection."
+  },
+  {
+   "mode": "Mekkatorque Boss (Vortex 2B+ Team)",
+   "heroes": [
+    "Nastjenka",
+    "Guinavivre",
+    "Kurvida",
+    "Maashtur",
+    "Selva"
+   ],
+   "note": "Highest damaging setup reaching 2B+ damage with 15s skill rotations on Kurvida and Selva."
+  },
+  {
+   "mode": "Mekkatorque Boss (Budget 850M Team)",
+   "heroes": [
+    "Kurvida",
+    "Guinavivre",
+    "Nastjenka",
+    "Tharivol",
+    "Torrin"
+   ],
+   "note": "F2P-friendly team achieving ~850M damage with low hero inspiration requirements."
+  }
+ ],
+ "meta_changes": [
+  "Chinese server meta builds Kurvida with skill haste instead of attack speed to increase Omen debuff application."
+ ],
+ "tips": [
+  "Ensure Guinavivre has the highest attack on the team so pet and support buffs target her.",
+  "Use Secrecy set and Angelic Alliance artifact on Maashtur for necessary accuracy and resistance stats.",
+  "Build Selva with Rift Hourglass and high skill haste to sync her 15-second ultimate rotation."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "pnqyc0Mm_X4",
+ "model": "gemini-3.5-flash",
+ "channel": "Neff Gaming",
+ "title": "Best Dauntless Teams vs Mekkatorque | S8 Endgame Boss Phase 1 | Dragonheir",
+ "published": "2026-10-14T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=pnqyc0Mm_X4",
+ "short": false,
+ "summarized": "2026-10-31T08:24Z"
+}

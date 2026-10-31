@@ -1,0 +1,70 @@
+{
+ "summary": "Volkin outlines his summon strategy between the First Blush and Wish Summon banners on a Season 1 account. He opts to pull to the 150 milestone on First Blush to secure guaranteed heroes for both Summoner and Toxin teams at lower pull thresholds. The First Blush banner offers guaranteed selected heroes at 50, 100, and 150 pulls rather than requiring 300 pulls like the Wish Summon. During the summons, he reaches pity on regular pulls, securing Sintrellia, Twitch, and Lelwanis from milestones, while pulling Jathalea and a Torrin duplicate from standard pity.",
+ "topics": [
+  "First Blush Summons",
+  "Wish Summon",
+  "Banner Strategy",
+  "Summoner Team",
+  "Toxin Team"
+ ],
+ "heroes": [
+  {
+   "name": "Lelwanis",
+   "verdict": "Top-tier summoner carry",
+   "note": "Consumes battlefield summons to gain stacks, transforming into an extremely durable, high-damage dragon at 20 stacks.",
+   "known": true
+  },
+  {
+   "name": "Sintrellia",
+   "verdict": "Essential summoner support",
+   "note": "Duplicates your team's strongest summon and directly buffs Lelwanis when Lelwanis is transformed into a dragon.",
+   "known": true
+  },
+  {
+   "name": "Twitch",
+   "verdict": "Core poison damage dealer",
+   "note": "A vital core DPS pick needed to complete and optimize Toxin/Poison team compositions.",
+   "known": true
+  },
+  {
+   "name": "Jathalea",
+   "verdict": "Skip / Weak",
+   "note": "Described as 'spud cakes' and not considered a good legendary to pull or invest in.",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "Top-tier universal support",
+   "note": "An exclusive Aura support from CN servers who fits into any team and is worth saving 300 summons for if she arrives globally.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "General",
+   "heroes": [
+    "Lelwanis",
+    "Sintrellia"
+   ],
+   "note": "Sintrellia provides summon duplication and direct dragon buffs while Lelwanis consumes summons to transform and carry."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Be careful when choosing heroes on the First Blush banner: once you confirm and lock in your choices, they cannot be changed.",
+  "First Blush is much more accessible for low spenders and F2P, giving guaranteed heroes at 50, 100, and 150 pulls compared to Wish Summon's 300-pull requirement.",
+  "First Blush milestones grant the chosen hero directly rather than bonus summon dice like some other special banners.",
+  "Plan around hitting worst-case pity (70 pulls) rather than hoping for early legendary luck."
+ ],
+ "season": "S1",
+ "server_scope": "S1",
+ "value": "medium",
+ "id": "sWDYLD9S2yE",
+ "model": "gemini-3.8-flash",
+ "channel": "Volkin Dragonheir",
+ "title": "F2P Summons For My NEW TEAM!!! [Dragonheir: Silent Gods]",
+ "published": "2026-10-14T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=sWDYLD9S2yE",
+ "short": false,
+ "summarized": "2026-10-31T08:27Z"
+}

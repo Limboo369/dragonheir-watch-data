@@ -1,0 +1,157 @@
+{
+ "summary": "Gorax showcases optimized team compositions and rotation timings for the Imperial Shadow Recast (Continental Challenge) event. For the Tamar boss, he details a high-performing Toxin setup featuring Lothair and Child of Chaos capable of dealing over 600M to 1B damage, alongside an Oggok-based safe variant. For Khrysos and Vinyara, he demonstrates a Dauntless Lightning setup centered around Guinavivre, Kurvida, and Nastjenka. Finally, he outlines an accessible Necrosis summoner lineup for Thelendor that achieves over 78M damage using summon mechanics to absorb deadly boss hits.",
+ "topics": [
+  "Imperial Shadow Recast",
+  "Continental Challenge",
+  "Boss Guide",
+  "Team Building",
+  "Tamar",
+  "Khrysos",
+  "Thelendor"
+ ],
+ "heroes": [
+  {
+   "name": "Child of Chaos",
+   "verdict": "Top tier universal support",
+   "note": "Provides control immunity, AoE damage immunity, and steady buff/debuff dispels across multiple Continental Challenge bosses.",
+   "known": true
+  },
+  {
+   "name": "Lothair",
+   "verdict": "Top pick DPS for Tamar",
+   "note": "Acts as the primary poison DPS against Tamar when geared with high Enlightenment, Attack, and sufficient Resistance.",
+   "known": true
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "Core secondary Toxin DPS",
+   "note": "Applies consistent poison stacks to ramp Tamar's damage taken modifier up to the 50-stack cap.",
+   "known": true
+  },
+  {
+   "name": "Sleight",
+   "verdict": "Essential derivative amplifier",
+   "note": "Carries the Death Record set to increase derivative damage taken by the boss by 20%.",
+   "known": true
+  },
+  {
+   "name": "Sacredeia",
+   "verdict": "Top tier elemental buffer",
+   "note": "Applies Corrosion and Defense Penalty while wearing the Three-Ears Emblem set to elevate team elemental damage.",
+   "known": true
+  },
+  {
+   "name": "Oggok",
+   "verdict": "Top defensive cleanse alternative",
+   "note": "Shares 20% Resistance with adjacent allies via Stand United, enabling the team to hit the debuff cap against Tamar.",
+   "known": true
+  },
+  {
+   "name": "Guinavivre",
+   "verdict": "Top Dauntless DPS",
+   "note": "Deals massive single-target lightning damage against Khrysos and Vinyara, scaling heavily with Crit Rate and Attack Speed.",
+   "known": true
+  },
+  {
+   "name": "Kurvida",
+   "verdict": "Core Dauntless enabler",
+   "note": "Provides reliable Dauntless synergy and carries the Puppeteer set to recharge ally ultimate energy.",
+   "known": true
+  },
+  {
+   "name": "Nastjenka",
+   "verdict": "Strong Dauntless DPS",
+   "note": "Deals heavy lightning damage and ramps attack speed when paired with Guinavivre.",
+   "known": true
+  },
+  {
+   "name": "Maashtur",
+   "verdict": "Top Lightning support",
+   "note": "Provides shields, damage reduction, and attack penalty to keep Dauntless attackers alive through boss attacks.",
+   "known": true
+  },
+  {
+   "name": "Tharivol",
+   "verdict": "Great Dauntless buffer",
+   "note": "Boosts Dauntless damage through attack buffs and rapid multi-hit attacks timed right before primary DPS bursts.",
+   "known": true
+  },
+  {
+   "name": "Vinyara",
+   "verdict": "Key debuffer for Thelendor",
+   "note": "Dispels enemy buffs and depletes boss ultimate energy to prevent devastating skill casts.",
+   "known": true
+  },
+  {
+   "name": "Torrin",
+   "verdict": "Top Necrosis sustain tank",
+   "note": "Grants damage reduction and sustained healing to keep backline units alive against Thelendor.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Continental Challenge - Tamar",
+   "heroes": [
+    "Child of Chaos",
+    "Lothair",
+    "Serpentemis",
+    "Sleight",
+    "Sacredeia"
+   ],
+   "note": "Toxin team dealing 600M+ to 1B damage; uses 18-second synced rotations and 150+ Resistance on DPS to prevent Tamar's Attack Penalty II and Stun."
+  },
+  {
+   "mode": "Continental Challenge - Tamar (Safe Variant)",
+   "heroes": [
+    "Oggok",
+    "Lothair",
+    "Serpentemis",
+    "Sleight",
+    "Child of Chaos"
+   ],
+   "note": "Replaces Sacredeia with Oggok to share team Resistance, providing reliable survivability and over 600M damage even with zero hero inspirations."
+  },
+  {
+   "mode": "Continental Challenge - Khrysos",
+   "heroes": [
+    "Guinavivre",
+    "Kurvida",
+    "Nastjenka",
+    "Maashtur",
+    "Tharivol"
+   ],
+   "note": "Dauntless Lightning team breaking Khrysos's shield for the 50% Attack bonus and outputting 390M to 410M+ damage."
+  },
+  {
+   "mode": "Continental Challenge - Thelendor",
+   "heroes": [
+    "Torrin",
+    "Vinyara",
+    "Zadok",
+    "Isitarian",
+    "Eleuia"
+   ],
+   "note": "F2P-accessible Necrosis summon team scoring 78M+ by letting summoned minions absorb Thelendor's single-target ultimate bursts."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Aim for at least 12,000,000 damage on any boss to unlock maximum milestone S-rank rewards (Shadow Amethysts) without worrying about leaderboard ranking.",
+  "Build at least 150 Resistance plus Psychic Core bonuses on your damage dealers against Tamar to resist her 50% Attack Penalty II and Stuns.",
+  "Equip the Puppeteer set on enablers like Child of Chaos or Kurvida to grant 10% ultimate energy to teammates, ensuring consistent 18-second skill rotation cycles.",
+  "Equip the Death Record gear set on the lowest-damage supporting hero (such as Sleight) to inflict a 20% derivative damage amplification on the boss.",
+  "Against Thelendor, bring summoner heroes like Eleuia because her minions absorb the boss's single-target attacks and protect key heroes."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "q-5Iqzt_0VI",
+ "model": "gemini-3.8-flash",
+ "channel": "Gorax",
+ "title": "My 2 Teams for Imperial Shadow Recast – Multiple Variants + Team Codes | Dragonheir x Dragonstride",
+ "published": "2026-10-14T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=q-5Iqzt_0VI",
+ "short": false,
+ "summarized": "2026-10-31T08:27Z"
+}

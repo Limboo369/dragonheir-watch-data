@@ -1,0 +1,89 @@
+{
+ "summary": "This video showcases two top-performing Frost team compositions for the Season 8 Phase 1 endgame boss, Mekkatorque, capable of dealing over 1 billion damage. The first build is F2P-friendly with low inspiration requirements using Lossenia, Aethereal, Vitar, Olgan, and Feenja to achieve 1.2 billion damage. Replacing Feenja with Anselmo boosts the team's damage up to 1.5 billion. Proper gearing, high Accuracy, and carefully tuned Skill Haste for aligned 15-second skill rotations are crucial for maximizing damage output.",
+ "topics": [
+  "Frost team",
+  "Mekkatorque",
+  "Endgame Boss",
+  "Gear builds",
+  "Skill timing"
+ ],
+ "heroes": [
+  {
+   "name": "Lossenia",
+   "verdict": "Core Frost enabler",
+   "note": "Requires around 500 Accuracy and Mystic Conch to share Accuracy and apply debuffs consistently.",
+   "known": true
+  },
+  {
+   "name": "Aethereal",
+   "verdict": "Core Frost DPS",
+   "note": "Build with over 500 Enlightenment, high Attack, and proper Skill Haste to align with 15-second rotations.",
+   "known": true
+  },
+  {
+   "name": "Vitar",
+   "verdict": "Core Frost DPS",
+   "note": "Built for Derivative damage with Attack, Accuracy, and Skill Haste to share damage stats.",
+   "known": false
+  },
+  {
+   "name": "Olgan",
+   "verdict": "Essential Frost support",
+   "note": "Equipped with the Puppeteer set and Golden Antler to share Attack and Accuracy with the team.",
+   "known": true
+  },
+  {
+   "name": "Feenja",
+   "verdict": "Great defensive support for 1.2B team",
+   "note": "Built with high Skill Haste (~125), Resistance, Enlightenment, and Resistance-sharing talent.",
+   "known": true
+  },
+  {
+   "name": "Anselmo",
+   "verdict": "Top offensive upgrade over Feenja",
+   "note": "Pushes team damage to 1.5B with high Skill Haste (~126), Secrecy set, and debuff prolongation talent.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Mekkatorque Phase 1 (Season 8 Endgame Boss)",
+   "heroes": [
+    "Lossenia",
+    "Aethereal",
+    "Vitar",
+    "Olgan",
+    "Feenja"
+   ],
+   "note": "F2P-friendly Frost lineup reaching 1.2B damage using 0-inspiration characters and aligned 15s rotations."
+  },
+  {
+   "mode": "Mekkatorque Phase 1 (Season 8 Endgame Boss)",
+   "heroes": [
+    "Lossenia",
+    "Aethereal",
+    "Anselmo",
+    "Vitar",
+    "Olgan"
+   ],
+   "note": "High-output Frost lineup reaching 1.5B damage by using Anselmo to extend debuffs and boost team DPS."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Tune Skill Haste across all heroes to ensure skill activations align on a clean 15-second rotation.",
+  "Build Lossenia with 500+ Accuracy and Mystic Conch to ensure debuffs land reliably and Accuracy is shared.",
+  "Equip Olgan with the Puppeteer set and Golden Antler artifact to maximize team Attack sharing."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "q3M5jmrUWjc",
+ "model": "gemini-3.5-flash",
+ "channel": "Neff Gaming",
+ "title": "Best Frost Teams vs Mekkatorque | S8 Endgame Boss Phase 1 | Dragonheir",
+ "published": "2026-10-14T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=q3M5jmrUWjc",
+ "short": false,
+ "summarized": "2026-10-31T08:23Z"
+}

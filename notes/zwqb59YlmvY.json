@@ -1,0 +1,113 @@
+{
+ "summary": "This guide showcases three high-performing Corrosion team setups used on Chinese servers against the Season 8 endgame boss, Mekkatorque. The optimal team achieves over 2 billion damage in Phase 1 using Sacredeia, Rook, Szecedith, Reytah, and Whisk. Alternative team builds swap in Durango or defensive supports like Alarick and Oggok if specific heroes are unavailable or for Phase 2 survival. Critical setup mechanics include tuning debuffers to a strict 15-second rotation and maintaining accurate skill timing for ultimate abilities.",
+ "topics": [
+  "Corrosion Teams",
+  "Mekkatorque",
+  "Endgame Boss",
+  "Skill Timing",
+  "Gear Builds"
+ ],
+ "heroes": [
+  {
+   "name": "Sacredeia",
+   "verdict": "Core Corrosion DPS",
+   "note": "Provides Poison Vulnerability and high damage; needs high Accuracy along with Crit Rate and Crit Damage.",
+   "known": true
+  },
+  {
+   "name": "Rook",
+   "verdict": "Top Corrosion DPS",
+   "note": "Deals massive damage using high Crit Rate, Crit Damage, and Skill Haste while sharing Attack through support gear.",
+   "known": true
+  },
+  {
+   "name": "Szecedith",
+   "verdict": "Top Corrosion DPS",
+   "note": "Exceptional damage dealer built with maximum Crit Rate, Crit Damage, and Attack.",
+   "known": true
+  },
+  {
+   "name": "Reytah",
+   "verdict": "Best Corrosion Solo Healer",
+   "note": "Can solo sustain the entire team even at Inspiration 0, while debuffing with Puppet Master set and exclusive artifact.",
+   "known": true
+  },
+  {
+   "name": "Whisk",
+   "verdict": "Top Corrosion Support",
+   "note": "Equips The Witch's Remains and Vortex Illusion, tuned with enough Skill Haste to maintain a 15-second ultimate rotation.",
+   "known": true
+  },
+  {
+   "name": "Durango",
+   "verdict": "Alternative Support",
+   "note": "Serves as an accessible substitute to carry The Witch's Remains on a 15-second rotation.",
+   "known": true
+  },
+  {
+   "name": "Alarick",
+   "verdict": "Viable Alternative Support",
+   "note": "Functions as a defensive support on a 15-second rotation, performing noticeably better at Inspiration 2 to boost team damage.",
+   "known": true
+  },
+  {
+   "name": "Oggok",
+   "verdict": "Viable Support",
+   "note": "Built with Secrecy set and Skill Haste; requires Accuracy unless at Inspiration 5.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Endgame Boss Mekkatorque (Phase 1)",
+   "heroes": [
+    "Sacredeia",
+    "Rook",
+    "Szecedith",
+    "Reytah",
+    "Whisk"
+   ],
+   "note": "Best performing Corrosion team capable of over 2B damage. Positioned in a single line. Sacredeia and Szecedith on 17.3s rotations, Reytah and Whisk tuned to 15.0s rotations."
+  },
+  {
+   "mode": "Endgame Boss Mekkatorque (Phase 1 or 2)",
+   "heroes": [
+    "Sacredeia",
+    "Rook",
+    "Szecedith",
+    "Reytah",
+    "Durango"
+   ],
+   "note": "Alternative setup replacing Whisk with Durango to carry The Witch's Remains on a 15-second rotation. Add Resistance to gear if used in Phase 2."
+  },
+  {
+   "mode": "Endgame Boss Mekkatorque (Phase 1)",
+   "heroes": [
+    "Szecedith",
+    "Rook",
+    "Sacredeia",
+    "Alarick",
+    "Oggok"
+   ],
+   "note": "Alternative team utilizing Alarick and Oggok for support. Szecedith and Sacredeia set to 17.3s or 18s rotations, with Alarick tuned to a 15s rotation."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Ensure your Witch's Remains carrier (such as Whisk or Durango) and Reytah are speed-tuned with enough Skill Haste to hit a consistent 15.0-second ultimate rotation.",
+  "Reytah is sufficient as a solo sustain healer for full Corrosion teams even at Inspiration 0.",
+  "For Phase 1 of the endgame boss, skip Resistance substats entirely and focus purely on offensive stats and Skill Haste; Resistance is only needed starting in Phase 2.",
+  "If you do not own Szecedith, Whisk can take her gear and position, allowing Durango to step in as the Witch's Remains carrier."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "zwqb59YlmvY",
+ "model": "gemini-3.8-flash",
+ "channel": "Neff Gaming",
+ "title": "Best Corrosion Teams vs Mekkatorque | S8 Endgame Boss Phase 1 | Dragonheir",
+ "published": "2026-10-14T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=zwqb59YlmvY",
+ "short": false,
+ "summarized": "2026-10-31T08:21Z"
+}

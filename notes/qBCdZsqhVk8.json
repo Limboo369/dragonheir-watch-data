@@ -1,0 +1,96 @@
+{
+ "summary": "This guide showcases two proven Summoning school team compositions from the Chinese servers to tackle the Season 8 endgame boss Mekkatorque. The first setup relies on Lelwanis, Irzillas, Sintrellia, Astaion, and Torrin, achieving 700M to 800M damage at low Inspiration. The second setup swaps out Torrin and Irzillas for The Dark Lady and Bernade, pushing damage past 1 Billion to 1.5 Billion. Detailed stat priorities, gear sets, artifact recommendations, and skill timing rotations are broken down for each hero.",
+ "topics": [
+  "Mekkatorque",
+  "Summon Team",
+  "Boss Guide",
+  "Endgame Builds"
+ ],
+ "heroes": [
+  {
+   "name": "Lelwanis",
+   "verdict": "Top DPS",
+   "note": "Main damage dealer of both setups, requiring 100% Critical Rate, high Attack, heavy Critical Damage, and her exclusive artifact.",
+   "known": true
+  },
+  {
+   "name": "Sintrellia",
+   "verdict": "Key Attack Buffer",
+   "note": "Provides Attack sharing and team buffs using artifacts like Angelica's Lions, Immortality Helm, Orb of the Dragon Blood, or Golden Antlers.",
+   "known": true
+  },
+  {
+   "name": "Astaion",
+   "verdict": "Essential Support",
+   "note": "Extends boss debuffs and applies Bleeding or debuffs via Witch's Remains and Puppeteer gear, built tanky with high Accuracy and Skill Haste.",
+   "known": true
+  },
+  {
+   "name": "Torrin",
+   "verdict": "Solid Support Tank",
+   "note": "Acts as the defensive anchor in setup 1, stacking over 3,000 Defense alongside Skill Haste and Enlightenment gear.",
+   "known": true
+  },
+  {
+   "name": "Irzillas",
+   "verdict": "Attack Buffer & Bleed Applier",
+   "note": "Shares Attack while applying Bleeding in the first setup; requires Accuracy, Resistance, and Attack sharing gear.",
+   "known": true
+  },
+  {
+   "name": "Bernade",
+   "verdict": "High-End Summon Support",
+   "note": "Enables the team to break 1 Billion damage; built with Attack sharing, Skill Haste, and Resistance, using either her exclusive artifact or Downpipe Organ.",
+   "known": true
+  },
+  {
+   "name": "The Dark Lady",
+   "verdict": "Top-Tier Summon Enabler",
+   "note": "Built with high Skill Haste, Attack, Accuracy, and the Strings Sonata artifact to grant Skill Haste upon casting her Ultimate.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Mekkatorque (Endgame Boss Phase 1)",
+   "heroes": [
+    "Lelwanis",
+    "Sintrellia",
+    "Irzillas",
+    "Astaion",
+    "Torrin"
+   ],
+   "note": "Achieves 700M-800M damage; uses Astaion timed at 15.0s and Irzillas/Lelwanis timed at 17.37s."
+  },
+  {
+   "mode": "Mekkatorque (Endgame Boss Phase 1)",
+   "heroes": [
+    "Lelwanis",
+    "Sintrellia",
+    "Bernade",
+    "The Dark Lady",
+    "Astaion"
+   ],
+   "note": "Higher investment variant exceeding 1B-1.5B damage; features Bernade timed at 15.01s and Astaion at 15.0s."
+  }
+ ],
+ "meta_changes": [
+  "Summoning school returns to the endgame boss PvE meta against Mekkatorque, competing with other top elemental archetypes."
+ ],
+ "tips": [
+  "Ensure Astaion has sufficient Accuracy and Skill Haste to consistently extend debuffs and maintain Bleed on Mekkatorque.",
+  "If exclusive artifacts are unavailable for Bernade or Sintrellia, substitute them with Attack-boosting artifacts such as Downpipe Organ, Golden Antlers, or Orb of the Dragon Blood.",
+  "Tune skill timers specifically for debuff refreshers: set Astaion to 15.0s and Bernade to 15.01s in the second setup."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "qBCdZsqhVk8",
+ "model": "gemini-3.8-flash",
+ "channel": "Neff Gaming",
+ "title": "Best Summon Teams vs Mekkatorque | S8 Endgame Boss Phase 1 | Dragonheir",
+ "published": "2026-10-14T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=qBCdZsqhVk8",
+ "short": false,
+ "summarized": "2026-10-31T08:20Z"
+}

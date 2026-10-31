@@ -1,0 +1,91 @@
+{
+ "summary": "This guide covers the top-performing Toxin team against Mekkatorque, the Season 8 endgame boss in Rasp of Gears. Using a core setup of Serpentemis, Lothair, Sleight, Sacredeia, and Child of Chaos, the team achieves over 2.5 billion damage. Proper skill timings are critical: abilities must be synced to a 30-second recast rotation to hit the boss's summoned orbs and prevent desynchronization. For players struggling with survivability or lacking Child of Chaos, support substitutions like Reytah or Stegamoffyn can stabilize the fight.",
+ "topics": [
+  "Mekkatorque",
+  "Rasp of Gears",
+  "Toxin Team",
+  "Endgame Boss",
+  "Skill Timing"
+ ],
+ "heroes": [
+  {
+   "name": "Serpentemis",
+   "verdict": "Top Toxin DPS",
+   "note": "Serves as the primary damage dealer against Mekkatorque, benefiting hugely from high Attack, Enlightenment, and Inspiration levels.",
+   "known": true
+  },
+  {
+   "name": "Lothair",
+   "verdict": "High-tier Toxin DPS",
+   "note": "Acts as the secondary DPS; should be built with high Attack, Enlightenment, and enough HP to leverage conversion gear sets.",
+   "known": true
+  },
+  {
+   "name": "Sleight",
+   "verdict": "Crucial Toxin support DPS",
+   "note": "Inflicts Potent Medicine and shares 15% Attack and Defense to adjacent allies in the row when equipped with Everlasting Candleflame armor.",
+   "known": true
+  },
+  {
+   "name": "Sacredeia",
+   "verdict": "Top Accuracy buffer & debuffer",
+   "note": "Should hold the highest Accuracy on the team with Bone Resonance gear to share Accuracy across all allies, ensuring debuffs land.",
+   "known": true
+  },
+  {
+   "name": "Child of Chaos",
+   "verdict": "Best-in-slot cleanser/healer",
+   "note": "Provides passive and active cleansing, healing, and Attack Penalty II to keep the team alive without needing manual skill syncing.",
+   "known": true
+  },
+  {
+   "name": "Twitch",
+   "verdict": "Viable budget replacement",
+   "note": "Can substitute for Lothair to support Serpentemis as the main carry if Lothair is missing.",
+   "known": true
+  },
+  {
+   "name": "Reytah",
+   "verdict": "Defensive substitute",
+   "note": "Can replace Child of Chaos or Sacredeia if additional healing and cleansing are needed to survive the boss.",
+   "known": true
+  },
+  {
+   "name": "Stegamoffyn",
+   "verdict": "Alternative defensive support",
+   "note": "Provides an Attack aura and survivability boost if struggling to survive with a full-offensive lineup.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Rasp of Gears (Mekkatorque)",
+   "heroes": [
+    "Serpentemis",
+    "Lothair",
+    "Sleight",
+    "Sacredeia",
+    "Child of Chaos"
+   ],
+   "note": "Deals 2.5B+ damage using a 30s skill recast cycle for Lothair, Serpentemis, Sleight, and Sacredeia to match orb summons, while Child of Chaos remains on default timing."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Set ultimate recasts to 30 seconds rather than 15 seconds to ensure damage cycles match the boss's summoned orb phases.",
+  "Equip Sleight with Everlasting Candleflame armor and position him in the center of a row to grant adjacent heroes bonus Attack and Defense.",
+  "Build the highest possible Accuracy on Sacredeia with Bone Resonance to boost the entire team's Accuracy and avoid debuff resists.",
+  "If dying before the timer ends, swap Sacredeia out for a second dedicated cleanser/healer like Reytah or Stegamoffyn."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "qUrDNsAZh-A",
+ "model": "gemini-3.8-flash",
+ "channel": "Skratch Gaming",
+ "title": "Toxin Vs Mekkatorque! Endgame Boss S8 Dragonheir: Silent Gods x Dragonstride",
+ "published": "2026-10-14T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=qUrDNsAZh-A",
+ "short": false,
+ "summarized": "2026-10-31T08:20Z"
+}
