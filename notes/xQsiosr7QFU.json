@@ -1,0 +1,104 @@
+{
+ "summary": "Skratch showcases a Necrosis Summoner team against the endgame boss Mekkatorque in Otherworld Exploration. He details team positioning, gear, and cleanser choices to deal with Mekkatorque's global Attack Penalty II debuff. The video demonstrates how micro-tuning ultimate skill timings by even 0.5 seconds to align Defense Down before Lelwanis's ultimate dramatically increases team damage from 490M to over 850M. He also provides alternative timing adjustments for players without Inspiration 5 on Lelwanis.",
+ "topics": [
+  "Otherworld Exploration",
+  "Mekkatorque",
+  "Necrosis Team",
+  "Skill Timing",
+  "Boss Guide"
+ ],
+ "heroes": [
+  {
+   "name": "Lelwanis",
+   "verdict": "Top tier Necrosis DPS",
+   "note": "Primary damage engine who achieves 850M+ damage when tuned to a 15s rotation with Inspiration 5, or ~455M at Inspiration 0 with a 17s rotation.",
+   "known": true
+  },
+  {
+   "name": "Viliana",
+   "verdict": "Best Necrosis cleanser and shielder",
+   "note": "Provides team shields and consistently cleanses Attack Penalty II right before Lelwanis casts her ultimate.",
+   "known": true
+  },
+  {
+   "name": "Bernade",
+   "verdict": "Essential Necrosis debuffer and summoner support",
+   "note": "Inflicts Defense Down and requires high skill haste to ensure debuffs land before main DPS ultimate hits.",
+   "known": true
+  },
+  {
+   "name": "Sintrellia",
+   "verdict": "Essential Necrosis buffer",
+   "note": "Equipped in Puppeteer set to boost attack for Lelwanis and duplicate summoned units.",
+   "known": true
+  },
+  {
+   "name": "The Dark Lady",
+   "verdict": "Strong Necrosis DPS and buffer",
+   "note": "Provides attack boosts and additional necrotic damage to complement Lelwanis.",
+   "known": true
+  },
+  {
+   "name": "Selva",
+   "verdict": "Alternative cleanser option",
+   "note": "Can cleanse debuffs via ultimate but requires careful skill haste tuning and timing.",
+   "known": true
+  },
+  {
+   "name": "Torrin",
+   "verdict": "Alternative support pick",
+   "note": "Provides Debuff Immunity and invisibility to protect key allies.",
+   "known": true
+  },
+  {
+   "name": "Ghul'ende",
+   "verdict": "Alternative Necrosis cleanser",
+   "note": "Has high ultimate cooldowns, making a 15-second rotation difficult without extreme skill haste.",
+   "known": true
+  },
+  {
+   "name": "Nathaniel",
+   "verdict": "Budget cleanser alternative",
+   "note": "Cleanses through his battle skill, making exact ultimate timing control impossible.",
+   "known": true
+  },
+  {
+   "name": "Gladros",
+   "verdict": "Alternative Epic shielder",
+   "note": "Grants Debuff Immunity under shields, but may be too slow to prevent initial debuffs.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Otherworld Exploration: Mekkatorque",
+   "heroes": [
+    "Lelwanis",
+    "Sintrellia",
+    "Bernade",
+    "The Dark Lady",
+    "Viliana"
+   ],
+   "note": "Premier Necrosis team reaching 850M+ total damage when timing Bernade and Viliana before Lelwanis."
+  }
+ ],
+ "meta_changes": [
+  "Necrosis Summoner composition remains a top-tier strategy for Mekkatorque in Otherworld Exploration."
+ ],
+ "tips": [
+  "Always bring a cleanser or Debuff Immunity hero against Mekkatorque to remove Attack Penalty II before your primary DPS casts ultimates.",
+  "Small adjustments of 0.5s to 1.0s in ultimate skill timings can boost total team damage by over 350M by guaranteeing Defense Down is applied before Lelwanis attacks.",
+  "If Lelwanis lacks Inspiration 5, increase her recast timing from 15s to 17s to account for slower energy recharge."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "xQsiosr7QFU",
+ "model": "gemini-3.5-flash",
+ "channel": "Skratch Gaming",
+ "title": "NECROSIS Vs. The Endgame Boss S8! Dragonheir: Silent Gods x Dragonstride",
+ "published": "2026-10-14T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=xQsiosr7QFU",
+ "short": false,
+ "summarized": "2026-10-31T03:23Z"
+}

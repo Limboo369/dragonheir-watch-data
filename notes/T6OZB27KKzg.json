@@ -1,0 +1,65 @@
+{
+ "summary": "OddOneGaming previews the upcoming S9 'The Undertow Approaches' exclusive mythic artifacts and gear sets. He analyzes new exclusive artifacts for Szecedith, Larclys, Monelisse, and Blah Blah, speculating that Blah Blah may finally receive a guaranteed banner. He also reviews new legendary and mythic sets including Molten Hellshadow, Crimson Dragonflame, Azure Prophecy, and Northern Gall, highlighting their impact on Toxin teams, crowd control, and debuff utility.",
+ "topics": [
+  "S9 Gear Preview",
+  "Mythic Artifacts",
+  "Legendary Gear Sets",
+  "Mythic Gear Sets",
+  "Blah Blah Banner Speculation"
+ ],
+ "heroes": [
+  {
+   "name": "Szecedith",
+   "verdict": "High value Corrosion enabler",
+   "note": "Serves as a strong replacement for Whisk in Corrosion teams; her new exclusive mythic artifact enhances Mire Toxin and boosts Attack when consuming Corrosion.",
+   "known": true
+  },
+  {
+   "name": "Larclys",
+   "verdict": "Skip / Low priority",
+   "note": "Has been largely powercrept, making it hard to recommend pulling for him or his exclusive artifact unless already heavily invested.",
+   "known": true
+  },
+  {
+   "name": "Monelisse",
+   "verdict": "Top tier Rally DPS",
+   "note": "A powerful premium Rally hero whose new exclusive artifact permanently ramps her Attack upon consuming Rally stacks.",
+   "known": true
+  },
+  {
+   "name": "Blah Blah",
+   "verdict": "Premium support hero",
+   "note": "Extremely rare hero receiving a new exclusive artifact; multiple preview mentions suggest a guaranteed banner might be coming in S9.",
+   "known": true
+  },
+  {
+   "name": "Maashtur",
+   "verdict": "Solid Crowd Control hero",
+   "note": "Recommended user for the Northern Gale set to apply Taunt and drain ultimate energy in Fey Corridor and Arena.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [
+  "Introduction of new S9 Exclusive Mythic Artifacts for Szecedith, Larclys, Monelisse, and Blah Blah.",
+  "Molten Hellshadow mythic set boosts derivative damage for allies of the same school (Wild, Thunderbolt, Toxin).",
+  "Azure Prophecy mythic set increases target damage taken when support heroes land non-damaging debuffs.",
+  "Northern Gale legendary set introduces periodic Taunt and ultimate energy reduction mechanics."
+ ],
+ "tips": [
+  "If you already own Szecedith, consider pulling for her new exclusive artifact to boost Corrosion team output.",
+  "Save resources if you want Monelisse's exclusive artifact, as its scaling attack bonus is potential game-changer for Rally comps.",
+  "Keep an eye out for a potential Blah Blah banner in S9 based on frequent developer teasers."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "T6OZB27KKzg",
+ "model": "gemini-3.5-flash",
+ "channel": "OddOneGaming RPGs",
+ "title": "💥 Am I Crazy? 💥NEW S9 Artifacts & Gear + Guaranteed Blah Blah Incoming? | Dragonheir x Dragonstride",
+ "published": "2026-10-15T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=T6OZB27KKzg",
+ "short": false,
+ "summarized": "2026-10-31T03:18Z"
+}

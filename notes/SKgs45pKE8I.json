@@ -1,0 +1,169 @@
+{
+ "summary": "This guide breaks down three top-performing team archetypes for Temporal Vortex (stages I through IV): Toxin, Aura, and Dauntless. The boss operates on a strict 20-second skill rotation featuring a massive single-target nuke aimed at the ally with the highest HP, making HP stat manipulation on tanks crucial. Teams utilizing a 3-piece Puppeteer set synchronize their DPS ultimates to an 18-second cycle, timed precisely around debuffs and buffs. Toxin provides massive derivative damage when built around Serpentemis and Lothair/Sleight, while Aura relies on Talethia scaling with max HP, and Dauntless functions as an ultra-high ceiling single-target whale setup led by Guinavivre and Maashtur.",
+ "topics": [
+  "Temporal Vortex",
+  "Toxin Team",
+  "Aura Team",
+  "Dauntless Team",
+  "Skill Timing",
+  "Boss Mechanics"
+ ],
+ "heroes": [
+  {
+   "name": "Serpentemis",
+   "verdict": "Essential core DPS for Toxin",
+   "note": "Primary damage dealer for Toxin teams who scales massively off Enlightenment and Attack with Fearless Challenge and Precise Carnage gear.",
+   "known": true
+  },
+  {
+   "name": "Lothair",
+   "verdict": "Top Toxin DPS",
+   "note": "Excels as a secondary damage dealer whose damage scales on active Toxin stacks; works best with his exclusive artifact Nightfall Pallium.",
+   "known": true
+  },
+  {
+   "name": "Sleight",
+   "verdict": "Top Toxin support/enabler",
+   "note": "Provides vital Toxin and Potent Medicine application; equipped with Three-Ears Emblem to amplify team elemental damage.",
+   "known": true
+  },
+  {
+   "name": "Oggok",
+   "verdict": "Best standard Toxin tank/healer",
+   "note": "Must be built with highest team HP to absorb the boss's single-target nuke; his 5-second immortality skill must be timed to 26.5s initial and 20s recast.",
+   "known": true
+  },
+  {
+   "name": "Child of Chaos",
+   "verdict": "S-tier universal support",
+   "note": "Provides team-wide buffs, debuffs, and cleanses, while his Death's Portent deals massive bonus damage scaling entirely off his Attack stat.",
+   "known": true
+  },
+  {
+   "name": "Talethia",
+   "verdict": "Top Aura main DPS",
+   "note": "Deals massive damage scaling on max HP, requiring an HP% chest and negative rune while keeping the highest Attack in the Aura team to receive Lincos's buff.",
+   "known": true
+  },
+  {
+   "name": "Lincos",
+   "verdict": "Essential Aura buffer",
+   "note": "Provides a crucial 30% damage boost for 10s to the Aura ally with highest Attack and wears Puppeteer to enable the 18-second rotation.",
+   "known": true
+  },
+  {
+   "name": "Diantha",
+   "verdict": "Key Aura debuffer",
+   "note": "Secondary damage dealer built with 230+ Accuracy and Witch's Remains to reliably inflict Defense Penalty II.",
+   "known": true
+  },
+  {
+   "name": "Solmo",
+   "verdict": "Best Aura tank/shielder",
+   "note": "Must be geared with highest team HP and Aurelium Vest to tank the single-target boss hit while providing ramping shield value.",
+   "known": true
+  },
+  {
+   "name": "Shahla",
+   "verdict": "Solid Aura buffer",
+   "note": "Increases Critical Damage for the highest Attack Aura ally, though replaceable by Child of Chaos or Anneliesis.",
+   "known": true
+  },
+  {
+   "name": "Maashtur",
+   "verdict": "Top-tier Dauntless tank/support",
+   "note": "Absorbs the boss's nuke with maximum HP while applying crucial Attack Penalty and team buffs.",
+   "known": true
+  },
+  {
+   "name": "Guinavivre",
+   "verdict": "Top Dauntless main DPS",
+   "note": "Primary single-target damage dealer requiring high Attack Speed, Crit Rate, and Crit Damage to maximize output.",
+   "known": true
+  },
+  {
+   "name": "Nastjenka",
+   "verdict": "Strong Dauntless secondary DPS",
+   "note": "Pairs with Guinavivre to unleash rapid basic attack follow-ups; should have lower Attack than Guinavivre.",
+   "known": true
+  },
+  {
+   "name": "Kurvida",
+   "verdict": "Essential Dauntless debuffer",
+   "note": "Built with high Attack Speed and Witch's Remains to consistently apply Defense Penalty; can be replaced by Tharivol.",
+   "known": true
+  },
+  {
+   "name": "Tharivol",
+   "verdict": "Strong Dauntless alternative",
+   "note": "Converts excess Crit Rate into bonus Attack Speed, allowing him to replace Kurvida if built with high Crit Rate.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Temporal Vortex IV",
+   "heroes": [
+    "Oggok",
+    "Serpentemis",
+    "Sleight",
+    "Lothair",
+    "Child of Chaos"
+   ],
+   "note": "Toxin team running an 18s recast Puppeteer rotation for DPS, with Oggok on a 20s recast (26.5s first cast) to maintain Immortality against the single-target nuke."
+  },
+  {
+   "mode": "Temporal Vortex IV",
+   "heroes": [
+    "Solmo",
+    "Talethia",
+    "Diantha",
+    "Lincos",
+    "Shahla"
+   ],
+   "note": "Pure Aura team where Talethia must have highest Attack to get Lincos's 30% damage buff, while Solmo stacks highest HP to tank single-target hits."
+  },
+  {
+   "mode": "Temporal Vortex IV",
+   "heroes": [
+    "Solmo",
+    "Talethia",
+    "Diantha",
+    "Lincos",
+    "Child of Chaos"
+   ],
+   "note": "Upgraded Aura variant substituting Shahla for Child of Chaos in Puppeteer gear, yielding 2.8B+ total damage."
+  },
+  {
+   "mode": "Temporal Vortex IV",
+   "heroes": [
+    "Maashtur",
+    "Guinavivre",
+    "Nastjenka",
+    "Kurvida",
+    "Child of Chaos"
+   ],
+   "note": "High-investment Dauntless whale team utilizing Starlight Stoneborn familiar and 18s rotations to deliver immense single-target damage."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Always ensure your designated tank (Oggok, Solmo, Maashtur, or Frurbath) has the absolute highest maximum HP on the team to intercept the boss's 20-second single-target nuke.",
+  "Do not make Child of Chaos your highest HP hero because his passive immunity prevents him from receiving Oggok's Immortality buff, which will get him one-shot.",
+  "Equip one support hero with a 3-piece Puppeteer set to recharge 10% ultimate energy, cutting full skill rotations from 20s down to 18s.",
+  "Set Oggok's ultimate timing to a 26.5s initial cast and 20.0s recast so Immortality always aligns with the boss's single-target strike.",
+  "For Talethia, run HP% on the chest and negative rune rather than pure Attack, because her skills scale heavily with maximum HP.",
+  "Time your damage amplifying familiar (such as Lava Batwing or Starlight Stoneborn) to cast roughly 2 seconds prior to your main damage dealers' ultimates."
+ ],
+ "season": "unknown",
+ "server_scope": "mixed",
+ "value": "high",
+ "id": "SKgs45pKE8I",
+ "model": "gemini-3.8-flash",
+ "channel": "Gorax",
+ "title": "Build Your Temporal Vortex Teams the Right Way! Toxin, Dauntless & Aura Guide | Dragonheir",
+ "published": "2026-10-15T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=SKgs45pKE8I",
+ "short": false,
+ "summarized": "2026-10-31T03:21Z"
+}
