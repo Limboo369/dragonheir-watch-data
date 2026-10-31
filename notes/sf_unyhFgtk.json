@@ -1,0 +1,61 @@
+{
+ "summary": "Switching Lelwanis from a traditional Crit Rate, Crit Damage, and Attack build to an Enlightenment and Crit Rate build significantly increases Necrosis summon team damage. Against the Mekkatorque boss in Rasp of Gears, this gearing change boosted damage from 1.6 billion to over 2.0 billion. The key is prioritizing high Enlightenment while maintaining close to 100% Crit Rate. Players with Larclys can substitute Irzillas in the team to push overall damage even higher.",
+ "topics": [
+  "Lelwanis Build",
+  "Mekkatorque",
+  "Rasp of Gears",
+  "Necrosis Summon Team"
+ ],
+ "heroes": [
+  {
+   "name": "Lelwanis",
+   "verdict": "Top DPS for Necrosis Summoning",
+   "note": "Performs much better when built with Enlightenment and high Crit Rate rather than standard Crit Damage and Attack.",
+   "known": true
+  },
+  {
+   "name": "Irzillas",
+   "verdict": "Solid summon team support",
+   "note": "Provides attack and skill haste buffs but can be upgraded to Larclys if available.",
+   "known": true
+  },
+  {
+   "name": "Larclys",
+   "verdict": "Premium upgrade over Irzillas",
+   "note": "Replaces Irzillas in the Necrosis summon lineup to increase boss damage by hundreds of millions.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Mekkatorque",
+   "heroes": [
+    "Lelwanis",
+    "The Dark Lady",
+    "Irzillas",
+    "Sintrellia",
+    "Bernade"
+   ],
+   "note": "Achieves over 2.0B damage using a 15-second rotation and an Enlightenment-focused Lelwanis build."
+  }
+ ],
+ "meta_changes": [
+  "Lelwanis stat priority shifts from Crit Damage/Attack to Enlightenment and Crit Rate for maximum summon output."
+ ],
+ "tips": [
+  "Prioritize Enlightenment and close to 100% Crit Rate on Lelwanis instead of traditional Crit Damage.",
+  "Maintain a 15-second rotation timing for ultimate skills in the Lelwanis summon lineup.",
+  "Replace Irzillas with Larclys if you have him to further boost team damage."
+ ],
+ "season": "unknown",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "sf_unyhFgtk",
+ "model": "gemini-3.5-flash",
+ "channel": "Neff Gaming",
+ "title": "Lelwanis with Enlightenment is INSANE! 400M+ Damage vs Mekkatorque | Dragonheir: Silent Gods",
+ "published": "2026-10-15T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=sf_unyhFgtk",
+ "short": false,
+ "summarized": "2026-10-31T00:21Z"
+}

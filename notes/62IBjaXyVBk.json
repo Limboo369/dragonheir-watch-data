@@ -1,0 +1,105 @@
+{
+ "summary": "Reflecting on 30 days on a new Season 1 celebration server, Gorax highlights the excitement and rapid progression available to new and returning players. Early banner chains, option summons, and event rewards allow players to build targeted teams much faster than standard servers. As Continental Challenge unlocks requiring four distinct teams, players must utilize Rare and Epic heroes alongside Legendaries. Fine-tuning skill timings by split seconds is essential for maximizing boss damage. Building a core Frost team around free heroes like Auster, Lossenia, and Hochadir allows players to clear almost all PvE content.",
+ "topics": [
+  "new player guide",
+  "Season 1",
+  "Continental Challenge",
+  "Temporal Vortex",
+  "Tavern Gambit",
+  "banners"
+ ],
+ "heroes": [
+  {
+   "name": "Serpentemis",
+   "verdict": "Top tier Poison DPS",
+   "note": "Dominates Temporal Vortex, Continental Challenge, and Tavern Gambit modes with massive Poison damage.",
+   "known": true
+  },
+  {
+   "name": "Urgoula",
+   "verdict": "Strong Poison PvP tank/DPS",
+   "note": "High inspiration levels make him an exceptionally impactful tank and damage dealer in PvP and PvE.",
+   "known": true
+  },
+  {
+   "name": "Auster",
+   "verdict": "Essential free Frost DPS",
+   "note": "Obtained for free via tutorial/download rewards, serving as a top-tier Frost damage dealer.",
+   "known": true
+  },
+  {
+   "name": "Lossenia",
+   "verdict": "Great free Frost control/DPS",
+   "note": "Provided via early login events to apply Frost debuffs and heavy area damage.",
+   "known": true
+  },
+  {
+   "name": "Hochadir",
+   "verdict": "Free Frost enabler",
+   "note": "Rewarded upon finishing the tutorial to round out a strong free Frost composition.",
+   "known": true
+  },
+  {
+   "name": "Eurion",
+   "verdict": "Top-tier immortal tank",
+   "note": "Provides unmatched survivability with immortality mechanics to protect teams in difficult bosses.",
+   "known": true
+  },
+  {
+   "name": "Vinyara",
+   "verdict": "High utility support",
+   "note": "Offers turn control and defensive utility needed for advanced dungeon stages and Fey Meander.",
+   "known": true
+  },
+  {
+   "name": "Torrin",
+   "verdict": "Solid defensive support",
+   "note": "Helps protect fragile teams against heavy boss damage across early content.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "General PvE / Fey Meander",
+   "heroes": [
+    "Auster",
+    "Lossenia",
+    "Hochadir",
+    "Vidimir",
+    "Eurion"
+   ],
+   "note": "Free-to-play friendly Frost core backed by top defensive supports clears nearly all PvE content."
+  },
+  {
+   "mode": "Continental Challenge",
+   "heroes": [
+    "Sigrid",
+    "Corrin",
+    "Twitch",
+    "Serpentemis",
+    "Child of Chaos"
+   ],
+   "note": "Utilizing strong Epics and Rares alongside Poison Legendaries allows multi-team boss progression."
+  }
+ ],
+ "meta_changes": [
+  "Continental Challenge week 2 requires four distinct teams, forcing players to rely on Epic and Rare heroes.",
+  "Temporal Corridor Exchange shop lets players purchase top Legendaries such as Maashtur and Talethia via Starweave Fragments."
+ ],
+ "tips": [
+  "Adjust ultimate skill cast timings in team presets by 0.5-second intervals to sync debuffs and dramatically boost damage.",
+  "Build a complete Frost team around free login and tutorial heroes (Auster, Lossenia, Hochadir) for reliable PvE clearing.",
+  "Take advantage of early Option Summons and First Blush banners to recruit specific team enablers early in Season 1."
+ ],
+ "season": "S1",
+ "server_scope": "S1",
+ "value": "high",
+ "id": "62IBjaXyVBk",
+ "model": "gemini-3.5-flash",
+ "channel": "Gorax",
+ "title": "30 Days From Zero in Dragonheir – My New Player Experience | DragonHeir x Dragonstride",
+ "published": "2026-10-16T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=62IBjaXyVBk",
+ "short": false,
+ "summarized": "2026-10-31T00:22Z"
+}

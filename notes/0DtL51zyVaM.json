@@ -1,0 +1,27 @@
+{
+ "summary": "The official Dragonheir Discord is hosting the Halloween Revelry event until November 9. Players can participate in Trick or Treat by typing `!trickortreat` or tagging friends in the event channel to earn Candy. Rolling 95 or higher with `!ghost` or responding to ghost knocks with `!open` grants exclusive CDK codes. If the server reaches 50,000 total Candy, all participants receive 300 Wyrmarrow, 1 Mini Stamina Bread, and 5 Million Gold. Players must link their Discord account to their game account to receive rewards.",
+ "topics": [
+  "Halloween Revelry",
+  "Discord Event",
+  "Event Rewards"
+ ],
+ "heroes": [],
+ "teams": [],
+ "meta_changes": [],
+ "tips": [
+  "Link your Discord account to your game account to receive Halloween Revelry event rewards.",
+  "Tag a friend using `!trickortreat @friend` in the Discord event channel so both of you receive Candy.",
+  "Type `!ghost` to roll a D100 for a chance to win an exclusive CDK code if you roll 95 or higher."
+ ],
+ "season": "unknown",
+ "server_scope": "S1",
+ "value": "low",
+ "id": "0DtL51zyVaM",
+ "model": "gemini-3.5-flash",
+ "channel": "liveranov",
+ "title": "Halloween Revelry 🎃 Roll 95+ for a Code! Official Discord Event | Dragonheir #shorts",
+ "published": "2026-10-30T10:26:03+00:00",
+ "url": "https://www.youtube.com/shorts/0DtL51zyVaM",
+ "short": true,
+ "summarized": "2026-10-31T00:21Z"
+}

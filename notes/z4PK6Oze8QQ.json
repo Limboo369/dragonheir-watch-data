@@ -1,0 +1,86 @@
+{
+ "summary": "This video showcases a high-performing Vortex II composition from Chinese Season 9 servers utilizing Celestine and Sia alongside support banner heroes. Even at hero level 79 at the start of Vortex II without vault items, the setup achieves close to 5 billion damage. The video breaks down the full gear, artifact selection, set bonuses, and exact skill auto-timing parameters for both teams. Key build advice includes placing Puppeteer sets on heroes like Diantha, Celestine, and Twitch, while equipping Sia with Rift Hourglass.",
+ "topics": [
+  "Vortex II",
+  "Celestine",
+  "Sia",
+  "Team Builds",
+  "Skill Timings",
+  "Season 9 Meta"
+ ],
+ "heroes": [
+  {
+   "name": "Celestine",
+   "verdict": "Top support pick for Vortex II",
+   "note": "Key unit in high-damage Vortex II lineups; perform exceptionally well with a Puppeteer set.",
+   "known": true
+  },
+  {
+   "name": "Sia",
+   "verdict": "Essential support hero in S9",
+   "note": "Crucial hero for S9 Vortex II teams; should be equipped with Rift Hourglass if not using a Puppeteer set to ensure sufficient skill haste.",
+   "known": true
+  },
+  {
+   "name": "Diantha",
+   "verdict": "Key support enabler",
+   "note": "Provides vital team utility in Vortex II compositions when equipped with a Puppeteer set.",
+   "known": true
+  },
+  {
+   "name": "Twitch",
+   "verdict": "Strong support buffer",
+   "note": "Utilized with a Puppeteer set, boosting team Attack while maintaining high Accuracy.",
+   "known": true
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "Primary damage dealer",
+   "note": "Built with high Enlightenment and Attack stats for maximum damage output in Toxin teams.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Vortex II",
+   "heroes": [
+    "Talethia",
+    "Lincos",
+    "Anneliesis",
+    "Diantha",
+    "Celestine"
+   ],
+   "note": "High-damage light synergy lineup optimized for Vortex II auto-timings."
+  },
+  {
+   "mode": "Vortex II",
+   "heroes": [
+    "Serpentemis",
+    "Twitch",
+    "Sia",
+    "Sleight",
+    "Sacredeia"
+   ],
+   "note": "Toxin team build designed for Vortex II boss mechanics."
+  }
+ ],
+ "meta_changes": [
+  "Celestine and Sia support combinations establish a top-tier Vortex II meta in Season 9."
+ ],
+ "tips": [
+  "Equip Puppeteer sets on support heroes such as Celestine, Diantha, and Twitch to optimize ultimate timing and team buffs.",
+  "Use Rift Hourglass on Sia to compensate for skill haste if she isn't running a Puppeteer set.",
+  "Configure precise skill timing delays in auto-combat settings to synchronize ultimate abilities before the boss actions."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "z4PK6Oze8QQ",
+ "model": "gemini-3.5-flash",
+ "channel": "Neff Gaming",
+ "title": "THIS VORTEX II COMBO IS INSANE! 🔥 Celestine + Sia | Dragonheir: Silent Gods",
+ "published": "2026-10-30T11:11:29+00:00",
+ "url": "https://www.youtube.com/shorts/z4PK6Oze8QQ",
+ "short": true,
+ "summarized": "2026-10-31T00:20Z"
+}

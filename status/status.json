@@ -1,10 +1,10 @@
 {
- "built": "2026-10-31T00:14Z",
- "last_fetch": "2026-10-30T23:17Z",
+ "built": "2026-10-31T00:23Z",
+ "last_fetch": "2026-10-31T00:17Z",
  "counts": {
-  "summarized": 96,
+  "summarized": 108,
   "skipped_giveaway": 17,
-  "new": 482,
+  "new": 470,
   "baseline": 22,
   "skipped_live": 1,
   "failed": 1
@@ -18,56 +18,11 @@
   }
  ],
  "budget": {
-  "day": "2026-10-30",
-  "seconds": 26677,
-  "v2": 1,
-  "quota_hit": 1793341126.4954813
+  "day": "2026-10-31",
+  "seconds": 13263,
+  "v2": 1
  },
  "log_tail": [
-  "+ Neff Gaming: BE READY FOR WEEK 1! Level 59 Aura & Toxin Vortex Setup | Dr",
-  "… Suzi Plays: My WISH Pulls! 💥Pulling til PREMIUM! 🔥 Dragonheir x Dragonst",
-  "saved Zzd5qAz5B9E",
-  "+ Neff Gaming: AURA TEAM! 1.75B Damage vs Endgame Boss Phase 2 | Dragonheir",
-  "saved H-MlVKkQO5M",
-  "+ Neff Gaming: FROST TEAM! 1.5B Damage Guaranteed!  vs Endgame Boss Phase 2",
-  "saved IByjt-bkgzo",
-  "+ Fastidious Dragonheir: DO NOT MAKE THIS MISTAKE! Be Smarter Than Me ⁂ Dragonheir: S",
-  "saved HeIsn3SoA10",
-  "+ liveranov: Thunderbolt vs Mekkatorque (Phase 2) | Endgame Boss | Season",
-  "saved lXIGOO_jApM",
-  "+ Suzi Plays: My WISH Pulls! 💥Pulling til PREMIUM! 🔥 Dragonheir x Dragonst",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 96 videos, 117 heroes",
-  "== 2026-10-30 10:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (444 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 96 videos, 117 heroes",
-  "== 2026-10-30 11:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (444 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 96 videos, 117 heroes",
-  "== 2026-10-30 12:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (444 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 96 videos, 117 heroes",
-  "== 2026-10-30 13:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (444 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 96 videos, 117 heroes",
-  "== 2026-10-30 14:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (444 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 96 videos, 117 heroes",
-  "== 2026-10-30 15:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (444 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 96 videos, 117 heroes",
-  "/bin/bash: line 1: /root/ytwatch/run.sh: Permission denied",
   "== 2026-10-30 17:17",
   "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
@@ -103,7 +58,51 @@
   "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "daily video budget used (444 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 96 videos, 117 heroes"
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 96 videos, 117 heroes",
+  "== 2026-10-31 00:17",
+  "fetch done: 0 new transcripts, 0 not available yet",
+  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
+  "… Neff Gaming: Vortex II Made EASY! Aura + Toxin Low Inspiration Setup | Dr",
+  "… Skratch Gaming: Should We Pull On The New Banner?? Dragonheir: Silent Gods x",
+  "… Skyasterix Gaming: 👉 SHOULD YOU PULL SYONIS? Check my Review! | Dragonheir: Sil",
+  "… OddOneGaming RPGs: 🚨 LVL 79 ONLY! 🚨 1 Team ALL Dungeons Max Stage Cleared #drag",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "… Gorax: 10 FREE Halloween Codes + Bonus Discord Rewards! | Dragonhei",
+  "saved v07uYiQIt_M",
+  "+ Neff Gaming: Vortex II Made EASY! Aura + Toxin Low Inspiration Setup | Dr",
+  "… OddOneGaming RPGs: 🚨 This Team MELTS All Bosses 🚨 Same Lvl 79 Only Team Beats A",
+  "saved YHXmpm2KoJI (unknown hero names: Anneliersis)",
+  "+ Skratch Gaming: Should We Pull On The New Banner?? Dragonheir: Silent Gods x",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "… liveranov: Is Syonis Worth It? Oct 31 – Nov 5 Only 🔮 Season 9 Selected ",
+  "saved I2wsiqvliYg",
+  "+ Gorax: 10 FREE Halloween Codes + Bonus Discord Rewards! | Dragonhei",
+  "… Neff Gaming: THIS VORTEX II COMBO IS INSANE! 🔥 Celestine + Sia | Dragonhe",
+  "saved 1m_XUtCo3Jo",
+  "+ OddOneGaming RPGs: 🚨 LVL 79 ONLY! 🚨 1 Team ALL Dungeons Max Stage Cleared #drag",
+  "… liveranov: Halloween Revelry 🎃 Roll 95+ for a Code! Official Discord Ev",
+  "saved z4PK6Oze8QQ",
+  "+ Neff Gaming: THIS VORTEX II COMBO IS INSANE! 🔥 Celestine + Sia | Dragonhe",
+  "… Gorax: 30 Days From Zero in Dragonheir – My New Player Experience |",
+  "saved 0DtL51zyVaM",
+  "+ liveranov: Halloween Revelry 🎃 Roll 95+ for a Code! Official Discord Ev",
+  "  gemini-3.5-flash: 503, using gemini-3.7-flash",
+  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
+  "… Neff Gaming: Lelwanis with Enlightenment is INSANE! 400M+ Damage vs Mekka",
+  "saved Ubjs3-YG7L0",
+  "+ Skyasterix Gaming: 👉 SHOULD YOU PULL SYONIS? Check my Review! | Dragonheir: Sil",
+  "… Suzi Plays: Prepare for Season 9 NOW! 💥 New Hero Analysis🔥 Dragonheir x ",
+  "saved jRAc1SgkQqk",
+  "+ liveranov: Is Syonis Worth It? Oct 31 – Nov 5 Only 🔮 Season 9 Selected ",
+  "saved sf_unyhFgtk",
+  "+ Neff Gaming: Lelwanis with Enlightenment is INSANE! 400M+ Damage vs Mekka",
+  "saved 62IBjaXyVBk",
+  "+ Gorax: 30 Days From Zero in Dragonheir – My New Player Experience |",
+  "saved j2FsBiDB1ak",
+  "+ OddOneGaming RPGs: 🚨 This Team MELTS All Bosses 🚨 Same Lvl 79 Only Team Beats A",
+  "saved gTzILPNg-ek",
+  "+ Suzi Plays: Prepare for Season 9 NOW! 💥 New Hero Analysis🔥 Dragonheir x "
  ],
  "crontab": [],
  "channels": [
@@ -111,55 +110,55 @@
    "name": "Skratch Gaming",
    "id": "UCoSkzr1pXpt3d0jIxsc6ufw",
    "enabled": true,
-   "checked": "2026-10-30T23:17Z"
+   "checked": "2026-10-31T00:17Z"
   },
   {
    "name": "Gorax",
    "id": "UCNas7BnuOIjDEzY1D53kb1w",
    "enabled": true,
-   "checked": "2026-10-30T23:17Z"
+   "checked": "2026-10-31T00:17Z"
   },
   {
    "name": "Neff Gaming",
    "id": "UCsxs6YhNd_B36RgUAjbpJ_A",
    "enabled": true,
-   "checked": "2026-10-30T23:17Z"
+   "checked": "2026-10-31T00:17Z"
   },
   {
    "name": "Volkin Dragonheir",
    "id": "UCfRpOh_ywVjzhh9fxHbreGw",
    "enabled": true,
-   "checked": "2026-10-30T23:17Z"
+   "checked": "2026-10-31T00:17Z"
   },
   {
    "name": "Fastidious Dragonheir",
    "id": "UC16mpj5wEemSZX-uTlHe9Ww",
    "enabled": true,
-   "checked": "2026-10-30T23:17Z"
+   "checked": "2026-10-31T00:17Z"
   },
   {
    "name": "OddOneGaming RPGs",
    "id": "UC1ivUEf_poI9_R2eVKa8wRQ",
    "enabled": true,
-   "checked": "2026-10-30T23:17Z"
+   "checked": "2026-10-31T00:17Z"
   },
   {
    "name": "Suzi Plays",
    "id": "UCyo1-TkunhGcK6khU1h8Ypw",
    "enabled": true,
-   "checked": "2026-10-30T23:17Z"
+   "checked": "2026-10-31T00:17Z"
   },
   {
    "name": "Skyasterix Gaming",
    "id": "UCr5Gb3910rK7QPmKMmdagsA",
    "enabled": true,
-   "checked": "2026-10-30T23:17Z"
+   "checked": "2026-10-31T00:17Z"
   },
   {
    "name": "liveranov",
    "id": "UCqCR7ofFHhWwXy3Hg00fqEw",
    "enabled": true,
-   "checked": "2026-10-30T23:17Z"
+   "checked": "2026-10-31T00:17Z"
   }
  ]
 }

@@ -1,0 +1,85 @@
+{
+ "summary": "Skratch evaluates the upcoming Selected Summons banner featuring the new Necrosis/Shadow hero Syonis. Syonis offers passive defense reduction scaled on Enlightenment, attack buffs for Shadow allies, and an energy drain ultimate that makes him exceptional for PvP and dungeon speedruns. However, with the supreme support hero Anneliersis and a new Aura hero banner arriving soon, Skratch recommends skipping Syonis unless you are a competitive PvP or speedrun enthusiast. Anneliersis remains the top priority for all players due to her unmatched utility in every game mode.",
+ "topics": [
+  "banners",
+  "hero review",
+  "summon strategy",
+  "Syonis",
+  "Anneliersis"
+ ],
+ "heroes": [
+  {
+   "name": "Syonis",
+   "verdict": "Skip for most, pull for PvP/Speedruns",
+   "note": "Provides passive defense reduction based on Enlightenment and strong Shadow team energy/attack buffs, making him top-tier for speedruns and PvP.",
+   "known": true
+  },
+  {
+   "name": "Anneliersis",
+   "verdict": "Must-have / Priority #1",
+   "note": "The most versatile support hero in the game whose passive granting HP and damage bonuses fits into every team comp.",
+   "known": false
+  },
+  {
+   "name": "Ozul",
+   "verdict": "Skip / Trash",
+   "note": "Considered weak and not worth investing resources in.",
+   "known": true
+  },
+  {
+   "name": "Saverio",
+   "verdict": "Core Shadow DPS",
+   "note": "A prime Necrosis damage dealer that synergizes strongly with Syonis and other Shadow heroes.",
+   "known": true
+  },
+  {
+   "name": "Daphne",
+   "verdict": "Good Shadow support",
+   "note": "Provides buffs and energy support within Shadow element teams.",
+   "known": true
+  },
+  {
+   "name": "Seyir",
+   "verdict": "Good Shadow hero",
+   "note": "Offers invisibility, healing, and Shadow buffs for Necrosis compositions.",
+   "known": true
+  },
+  {
+   "name": "Aspalta",
+   "verdict": "Good Shadow hero",
+   "note": "Solid Necrosis damage dealer that gains Shadow Energy.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Dungeons / PvP / Speedruns",
+   "heroes": [
+    "Syonis",
+    "Saverio",
+    "Daphne",
+    "Seyir",
+    "Aspalta"
+   ],
+   "note": "High-synergy Shadow element speedrun and PvP team utilizing Syonis as an activator and defense-shredder."
+  }
+ ],
+ "meta_changes": [
+  "Syonis introduces passive defense reduction scaled off Enlightenment (up to 50%) that does not rely on standard Defense Penalty debuff landing."
+ ],
+ "tips": [
+  "Save summons for the Anneliersis banner starting November 8th, as she is the most versatile support hero in the game.",
+  "If you miss Syonis now, you can target him on future selective banners that allow picking heroes from all damage schools."
+ ],
+ "season": "S9",
+ "server_scope": "mixed",
+ "value": "high",
+ "id": "YHXmpm2KoJI",
+ "model": "gemini-3.5-flash",
+ "channel": "Skratch Gaming",
+ "title": "Should We Pull On The New Banner?? Dragonheir: Silent Gods x Dragonstride",
+ "published": "2026-10-30T20:45:09+00:00",
+ "url": "https://www.youtube.com/watch?v=YHXmpm2KoJI",
+ "short": false,
+ "summarized": "2026-10-31T00:18Z"
+}

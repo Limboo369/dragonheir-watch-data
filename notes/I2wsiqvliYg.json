@@ -1,0 +1,67 @@
+{
+ "summary": "This video is a giveaway announcement for Dragonheir players offering Heliolite Dice and Wyrmarrow. To enter the YouTube giveaway, viewers need to subscribe, like, and comment with their favorite Epic hero team. Additional giveaways and rewards are available on the creator's Discord server. The creator also notes that an Analysis Banner will arrive on November 8th.",
+ "topics": [
+  "giveaway",
+  "discord",
+  "banners"
+ ],
+ "heroes": [
+  {
+   "name": "Nimbus",
+   "verdict": "Epic Dauntless DPS",
+   "note": "Mentioned as an example hero for a budget Dauntless team pairing with Vani.",
+   "known": true
+  },
+  {
+   "name": "Vani",
+   "verdict": "Epic Dauntless DPS",
+   "note": "Mentioned as an example hero for a budget Dauntless team pairing with Nimbus.",
+   "known": true
+  },
+  {
+   "name": "Vidimir",
+   "verdict": "Epic Frost hero",
+   "note": "Mentioned as an example hero for an Epic Frost team pairing with Rava.",
+   "known": true
+  },
+  {
+   "name": "Rava",
+   "verdict": "Epic Frost hero",
+   "note": "Mentioned as an example hero for an Epic Frost team pairing with Vidimir.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "General",
+   "heroes": [
+    "Nimbus",
+    "Vani"
+   ],
+   "note": "Example budget Dauntless Epic team mentioned for giveaway entry."
+  },
+  {
+   "mode": "General",
+   "heroes": [
+    "Vidimir",
+    "Rava"
+   ],
+   "note": "Example Epic Frost team mentioned for giveaway entry."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Save Heliolite Dice for the Analysis Banner starting November 8th."
+ ],
+ "season": "unknown",
+ "server_scope": "S1",
+ "value": "low",
+ "id": "I2wsiqvliYg",
+ "model": "gemini-3.5-flash",
+ "channel": "Gorax",
+ "title": "10 FREE Halloween Codes + Bonus Discord Rewards! | Dragonheir",
+ "published": "2026-10-30T14:00:27+00:00",
+ "url": "https://www.youtube.com/watch?v=I2wsiqvliYg",
+ "short": false,
+ "summarized": "2026-10-31T00:19Z"
+}

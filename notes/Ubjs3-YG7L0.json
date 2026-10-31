@@ -1,0 +1,67 @@
+{
+ "summary": "Skyasterix reviews Syonis, a new Legendary Shadow element hero in Dragonheir: Silent Gods. Syonis introduces a unique Energy Drain Zone mechanic via his Ultimate skill, locking himself and the enemy with the highest Attack into a duel where neither unit can gain energy or target other heroes. With his Battle Skill boosting Shadow allies' Attack and Shadow Energy, his Passive lowering enemy Defense in a forward zone, and his Inspired 2 upgrade enabling damage that ignores immortality, Syonis elevates Shadow teams to top-tier status across Arena, Vortex, and dungeons.",
+ "topics": [
+  "Syonis review",
+  "Shadow team meta",
+  "Arena PvP",
+  "Selected Summons",
+  "Inspiration skills"
+ ],
+ "heroes": [
+  {
+   "name": "Syonis",
+   "verdict": "Game-changing pull for Shadow teams",
+   "note": "Locks down high-attack enemies with Energy Drain Zone, boosts Shadow allies' attack, reduces enemy defense, and ignores immortality at Inspired 2.",
+   "known": true
+  },
+  {
+   "name": "Saverio",
+   "verdict": "Core Shadow DPS",
+   "note": "Gains massive damage synergy when paired with Syonis's Shadow team attack and energy buffs.",
+   "known": true
+  },
+  {
+   "name": "Ozul",
+   "verdict": "High value Shadow legendary",
+   "note": "Synergizes well within the rising Shadow meta alongside Syonis and Saverio.",
+   "known": true
+  },
+  {
+   "name": "Szecedith",
+   "verdict": "Strong Arena option",
+   "note": "Remains a powerful Corrosion hero in Arena alongside the new Shadow meta.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Arena / Vortex / Dungeons",
+   "heroes": [
+    "Syonis",
+    "Saverio",
+    "Ozul"
+   ],
+   "note": "Shadow element squad leveraging Syonis's team-wide Shadow Attack buff and Energy Drain control."
+  }
+ ],
+ "meta_changes": [
+  "Shadow teams become dominant in Arena with Syonis locking down main enemy DPS heroes and bypassing immortality at Inspired 2.",
+  "Passive Defense reduction on frontline enemies enables faster boss clears in dungeons and Temporal Vortex."
+ ],
+ "tips": [
+  "Prioritize pulling for Syonis if running or building a Shadow team.",
+  "Aim for Inspired 2 (I2) on Syonis for high-level PvP to bypass enemy immortality effects.",
+  "Place Syonis strategically on the field so his Passive aura covers enemy frontline tanks or threats."
+ ],
+ "season": "S9",
+ "server_scope": "mixed",
+ "value": "high",
+ "id": "Ubjs3-YG7L0",
+ "model": "gemini-3.5-flash",
+ "channel": "Skyasterix Gaming",
+ "title": "👉 SHOULD YOU PULL SYONIS? Check my Review! | Dragonheir: Silent Gods",
+ "published": "2026-10-30T18:21:04+00:00",
+ "url": "https://www.youtube.com/watch?v=Ubjs3-YG7L0",
+ "short": false,
+ "summarized": "2026-10-31T00:21Z"
+}

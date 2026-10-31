@@ -1,0 +1,81 @@
+{
+ "summary": "OddOne Gaming showcases a unified level-79 Radiance team capable of clearing all major equipment and rune dungeons (Grave of Venom 20, Grave of Curse 20, Grave of Rot 20, and Heretical Ruins 12) in 10 to 13 seconds. The core strategy relies on exact hero placement order so Sagomir feeds ultimate energy to Lincos, while Anneliesis feeds Talethia for synchronized ultimate bursts. Diantha further boosts team damage using Elite's Key and stat-sharing gear. Detailed gear setups, artifacts, and alternative options like Journ are provided to optimize speedruns.",
+ "topics": [
+  "speedrun team",
+  "equipment dungeons",
+  "Grave of Venom",
+  "Grave of Curse",
+  "Grave of Rot",
+  "Heretical Ruins",
+  "Radiance team"
+ ],
+ "heroes": [
+  {
+   "name": "Sagomir",
+   "verdict": "Core speedrun tank",
+   "note": "Provides early ultimate energy to Lincos via his Brave and Hungry passive when placed at full HP.",
+   "known": true
+  },
+  {
+   "name": "Lincos",
+   "verdict": "Core Radiance buffer and debuffer",
+   "note": "Applies defense penalties with Witch's Remains and syncs ultimates alongside Talethia.",
+   "known": true
+  },
+  {
+   "name": "Talethia",
+   "verdict": "Primary burst DPS",
+   "note": "Deals massive damage to erase dungeon bosses within seconds when buffed with ultimate energy.",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "Core Radiance ultimate battery",
+   "note": "Feeds ultimate energy directly to Talethia through her passive mechanics.",
+   "known": true
+  },
+  {
+   "name": "Diantha",
+   "verdict": "Key support and stat buffer",
+   "note": "Boosts early team burst using Elite's Key and shares attack and defense stats with Talethia using Everlasting Candleflame.",
+   "known": true
+  },
+  {
+   "name": "Journ",
+   "verdict": "Viable alternative support",
+   "note": "Can replace Anneliesis or Diantha to dispel boss buffs and provide team-wide energy through his backfire passive.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Equipment & Rune Dungeons (Grave of Venom, Grave of Curse, Grave of Rot, Heretical Ruins)",
+   "heroes": [
+    "Sagomir",
+    "Lincos",
+    "Talethia",
+    "Anneliesis",
+    "Diantha"
+   ],
+   "note": "A level-79 all-Radiance team that beats Grave of Venom 20, Grave of Curse 20, Grave of Rot 20, and Heretical Ruins 12 in 10-13 seconds."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Deploy Lincos first during manual hero placement so Sagomir's passive carrot targets him at start when all heroes are at max HP.",
+  "Position Anneliesis directly behind Talethia so her passive charges Talethia's ultimate energy immediately.",
+  "Equip Diantha with Elite's Key for an instant 15% team damage increase during the first 18 seconds of the battle.",
+  "Use Everlasting Candleflame on Diantha to transfer attack and defense stats to adjacent DPS heroes like Talethia."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "j2FsBiDB1ak",
+ "model": "gemini-3.6-flash",
+ "channel": "OddOneGaming RPGs",
+ "title": "🚨 This Team MELTS All Bosses 🚨 Same Lvl 79 Only Team Beats ALL Dungeons | Dragonheir x Dragonstride",
+ "published": "2026-10-30T14:00:04+00:00",
+ "url": "https://www.youtube.com/watch?v=j2FsBiDB1ak",
+ "short": false,
+ "summarized": "2026-10-31T00:22Z"
+}

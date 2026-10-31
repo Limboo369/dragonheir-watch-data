@@ -1,0 +1,72 @@
+{
+ "summary": "OddOne showcases a universal five-hero team capable of speedrunning all stage 12 gear and rune dungeons at only hero level 79. The lineup consists of Sagomir, Lincos, Talethia, Diantha, and Anneliesis. The core mechanic relies on Sagomir buffing Lincos while Anneliesis buffs primary damage dealer Talethia to explode dungeon bosses. The exact same heroes, gear builds, and grid placements can be copied across Grave of Venom, Grave of Curse, Grave of Rot, and Heretical Ruins.",
+ "topics": [
+  "Dungeon Speedrun",
+  "Grave of Venom",
+  "Grave of Curse",
+  "Grave of Rot",
+  "Heretical Ruins",
+  "Team Comp"
+ ],
+ "heroes": [
+  {
+   "name": "Talethia",
+   "verdict": "Main dungeon carry",
+   "note": "Serves as the primary damage dealer, dealing explosive burst to bosses when buffed by Anneliesis.",
+   "known": true
+  },
+  {
+   "name": "Sagomir",
+   "verdict": "Core dungeon tank & buffer",
+   "note": "Provides frontline defense and boosts Lincos's offensive output.",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "Core dungeon offensive buffer",
+   "note": "Enhances ally output and heavily boosts Talethia to melt dungeon bosses quickly.",
+   "known": true
+  },
+  {
+   "name": "Lincos",
+   "verdict": "Key dungeon DPS",
+   "note": "Acts as secondary Radiance damage dealer powered up by Sagomir's buffs.",
+   "known": true
+  },
+  {
+   "name": "Diantha",
+   "verdict": "Universal dungeon support",
+   "note": "Rounds out the 5-hero lineup used across all stage 12 rune and gear dungeons.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Gear & Rune Dungeons Stage 12",
+   "heroes": [
+    "Sagomir",
+    "Lincos",
+    "Talethia",
+    "Diantha",
+    "Anneliesis"
+   ],
+   "note": "Universal team that clears Grave of Venom, Grave of Curse, Grave of Rot, and Heretical Ruins stage 12 at level 79 using the identical positioning and builds."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Pair Sagomir to buff Lincos and Anneliesis to buff Talethia to rapidly burn down dungeon bosses.",
+  "The exact same team lineup, gear builds, and grid placement can be used across all four stage 12 gear and rune dungeons."
+ ],
+ "season": "unknown",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "1m_XUtCo3Jo",
+ "model": "gemini-3.8-flash",
+ "channel": "OddOneGaming RPGs",
+ "title": "🚨 LVL 79 ONLY! 🚨 1 Team ALL Dungeons Max Stage Cleared #dragonheirsilentgods  #dragonheir",
+ "published": "2026-10-30T15:30:35+00:00",
+ "url": "https://www.youtube.com/shorts/1m_XUtCo3Jo",
+ "short": true,
+ "summarized": "2026-10-31T00:20Z"
+}

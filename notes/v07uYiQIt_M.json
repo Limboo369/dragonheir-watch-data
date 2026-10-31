@@ -1,0 +1,57 @@
+{
+ "summary": "This video showcases a low-inspiration Aura and Toxin dual-team setup for Vortex 2 that remains effective for upcoming Vortex 3 challenges. The presenter demonstrates that key heroes like Serpentemis and Child of Chaos function well even at Inspiration 0 or 1 without specialized artifacts. Stegamoffyn is highlighted as a strong option within the Toxin composition. Complete gear setups, hero builds, positioning, and exact skill timings for both teams are shown on screen.",
+ "topics": [
+  "Vortex",
+  "Aura Team",
+  "Toxin Team",
+  "Low Inspiration Builds",
+  "Skill Timings"
+ ],
+ "heroes": [
+  {
+   "name": "Serpentemis",
+   "verdict": "Viable at Inspiration 0",
+   "note": "Performs reliably in Vortex dual-team setups even without extra inspiration levels.",
+   "known": true
+  },
+  {
+   "name": "Child of Chaos",
+   "verdict": "Viable at Inspiration 0 or 1",
+   "note": "Functions effectively in Vortex comps without requiring specialized artifacts or high inspiration.",
+   "known": true
+  },
+  {
+   "name": "Stegamoffyn",
+   "verdict": "Key pick for Toxin team",
+   "note": "Provides solid utility and damage synergy in Toxin comps for Vortex 2 and Vortex 3.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Vortex",
+   "heroes": [
+    "Serpentemis",
+    "Child of Chaos",
+    "Stegamoffyn"
+   ],
+   "note": "Aura and Toxin combined team approach designed for budget/low-inspiration accounts in Vortex 2 and 3."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Match the explicit skill delay timings shown in the video for both Aura and Toxin comps to maintain correct rotation order in Vortex.",
+  "Do not feel forced to chase high inspiration or perfect vault gear; proper team composition and timing matter more for reaching required damage thresholds."
+ ],
+ "season": "S9",
+ "server_scope": "mixed",
+ "value": "high",
+ "id": "v07uYiQIt_M",
+ "model": "gemini-3.5-flash",
+ "channel": "Neff Gaming",
+ "title": "Vortex II Made EASY! Aura + Toxin Low Inspiration Setup | Dragonheir: Silent Gods",
+ "published": "2026-10-30T22:13:41+00:00",
+ "url": "https://www.youtube.com/shorts/v07uYiQIt_M",
+ "short": true,
+ "summarized": "2026-10-31T00:18Z"
+}

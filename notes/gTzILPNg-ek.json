@@ -1,0 +1,124 @@
+{
+ "summary": "Suzi Plays breaks down the Season 9 hero teases and meta predictions for Dragonheir: Silent Gods. Key team archetypes like Aura, Corrosion, Frost/Ice Blast, and Rally receive massive upgrades with new heroes such as Holfast, Rhyviel, Celestine, and Monelisse taking core roles. Holfast acts as the new premier Aura engine replacing Lyncos, while Rhyviel boosts Corrosion damage alongside Rook. Players are advised to focus their resources on one or two dedicated teams rather than chasing every new hero.",
+ "topics": [
+  "Season 9",
+  "Hero Analysis",
+  "Meta Preview",
+  "Team Building",
+  "Tier List"
+ ],
+ "heroes": [
+  {
+   "name": "Holfast",
+   "verdict": "Top-tier Aura engine replacing Lyncos",
+   "note": "Channels Aura energy to same-school heroes, grants damage output buffs, and assists Aura heroes in triggering extra attacks.",
+   "known": true
+  },
+  {
+   "name": "Rhyviel",
+   "verdict": "Key Corrosion hero replacing Sacredeia",
+   "note": "Applies Rending Bite to shred defense and ramp target Corrosion while reducing incoming damage based on stacks.",
+   "known": true
+  },
+  {
+   "name": "Celestine",
+   "verdict": "Major upgrade for Frost / Ice Blast teams",
+   "note": "Grants permanent random buffs on resisting debuffs, teamwide cleanse, shields, healing, max HP increase, and Karmic Sin debuff on enemies.",
+   "known": true
+  },
+  {
+   "name": "Syonis",
+   "verdict": "Strong Shadow support and energy controller",
+   "note": "Reduces enemy defense, boosts Shadow ally attack, and pulls heroes into Energy Drain Zone preventing energy restoration.",
+   "known": true
+  },
+  {
+   "name": "Sia",
+   "verdict": "Versatile Necrosis defensive support",
+   "note": "Converts damage into Mercy to grant shields, healing, dispel debuffs, and inflict attack and recharge speed penalties on enemies.",
+   "known": true
+  },
+  {
+   "name": "Fyrenzur",
+   "verdict": "Fire dodge and defensive support",
+   "note": "Grants Dodge Up, dispels negative effects, heals allies on successful dodges, and inflicts attack/recharge speed penalties on enemies.",
+   "known": true
+  },
+  {
+   "name": "Amalfriede",
+   "verdict": "Random debuffer and silence utility mage",
+   "note": "Inflicts random debuffs on hit, boosts ultimate damage via debuffs, self-buffs accuracy/shield, and silences AOE targets.",
+   "known": true
+  },
+  {
+   "name": "Longbeau",
+   "verdict": "Defensive support with debuff reflect counter-mechanic",
+   "note": "Grants shields/cleanse, applies White Rat for damage reduction and HP recovery, and inflicts Black Rat to reflect debuffs back to enemies.",
+   "known": true
+  },
+  {
+   "name": "Tallyn",
+   "verdict": "Stun and shield controller tank",
+   "note": "Accumulates Static stacks to inflict Stun and grant Shields/Gatekeeper, plus Knock Up and defense/attack penalties.",
+   "known": true
+  },
+  {
+   "name": "Monelisse",
+   "verdict": "Breakout Rally carry hero",
+   "note": "Her artifact adds massive damage scaling and permanent attack growth, making her the primary Rally carry over Thelendor.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "General / Bosses",
+   "heroes": [
+    "Talethia",
+    "Anneliesis",
+    "Holfast"
+   ],
+   "note": "Safe long-term Aura team upgrade where Holfast acts as the primary engine feeding energy and enabling extra attacks."
+  },
+  {
+   "mode": "General / Bosses",
+   "heroes": [
+    "Monelisse",
+    "Gladys",
+    "Lorentheel",
+    "Alton"
+   ],
+   "note": "High-upside Rally sleeper team with Monelisse as the main carry backed by Gladys' crit-damage synergy."
+  },
+  {
+   "mode": "Endgame / Bosses",
+   "heroes": [
+    "Rook",
+    "Rhyviel",
+    "Szecedith"
+   ],
+   "note": "High ceiling, gear-hungry late-game Corrosion team with Rook as centerpiece damage dealer supported by Rhyviel."
+  }
+ ],
+ "meta_changes": [
+  "Aura team receives a major upgrade with Holfast replacing Lyncos in the core engine slot.",
+  "Corrosion damage ceiling rises significantly with Rhyviel replacing Sacredeia and new artifact synergies.",
+  "Frost / Ice Blast teams get a top-tier premium support in Celestine, replacing Anselmo in top setups.",
+  "Rally team transitions to Monelisse as the main damage carry, phasing out reliance on Thelendor."
+ ],
+ "tips": [
+  "Do not chase every new hero; commit resources to one or two focused element schools.",
+  "Test server and high-end whale team numbers may not accurately reflect low-spend or early-server reality.",
+  "Toxin and Dauntless remain reliable and strong options in Season 9 even without chasing every new unit."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "gTzILPNg-ek",
+ "model": "gemini-3.5-flash",
+ "channel": "Suzi Plays",
+ "title": "Prepare for Season 9 NOW! 💥 New Hero Analysis🔥 Dragonheir x Dragonstride",
+ "published": "2026-10-15T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=gTzILPNg-ek",
+ "short": false,
+ "summarized": "2026-10-31T00:23Z"
+}
