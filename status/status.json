@@ -1,5 +1,5 @@
 {
- "built": "2026-10-31T13:35Z",
+ "built": "2026-10-31T14:05Z",
  "last_fetch": "2026-10-31T13:18Z",
  "counts": {
   "summarized": 122,
@@ -24,7 +24,6 @@
   "quota_hit": 1793427487.6146405
  },
  "log_tail": [
-  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
   "  gemini-3.7-flash: 429, using gemini-3.6-flash",
   "… Volkin Dragonheir: F2P Summons For My NEW TEAM!!! [Dragonheir: Silent Gods]",
   "! Best Corrosion Teams vs Mekkatorque | S8 Endgame B: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
@@ -103,7 +102,8 @@
   "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "daily video budget used (443 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 122 videos, 138 heroes"
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 122 videos, 138 heroes",
+  "curl: (35) Recv failure: Connection reset by peer"
  ],
  "crontab": [],
  "channels": [
