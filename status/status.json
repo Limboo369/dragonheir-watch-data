@@ -1,10 +1,10 @@
 {
- "built": "2026-10-31T19:42Z",
- "last_fetch": "2026-10-31T19:17Z",
+ "built": "2026-10-31T20:18Z",
+ "last_fetch": "2026-10-31T20:18Z",
  "counts": {
   "summarized": 122,
   "skipped_giveaway": 17,
-  "new": 462,
+  "new": 464,
   "baseline": 22,
   "skipped_live": 1,
   "failed": 1
@@ -24,10 +24,6 @@
   "quota_hit": 1793427487.6146405
  },
  "log_tail": [
-  "… Neff Gaming: Best Summon Teams vs Mekkatorque | S8 Endgame Boss Phase 1 |",
-  "… Neff Gaming: Best Frost Teams vs Mekkatorque | S8 Endgame Boss Phase 1 | ",
-  "… Gorax: My 2 Teams for Imperial Shadow Recast – Multiple Variants + ",
-  "saved qUrDNsAZh-A",
   "+ Skratch Gaming: Toxin Vs Mekkatorque! Endgame Boss S8 Dragonheir: Silent God",
   "saved qBCdZsqhVk8",
   "+ Neff Gaming: Best Summon Teams vs Mekkatorque | S8 Endgame Boss Phase 1 |",
@@ -103,7 +99,11 @@
   "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "daily video budget used (443 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 122 videos, 138 heroes"
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 122 videos, 138 heroes",
+  "== 2026-10-31 20:17",
+  "fetch done: 0 new transcripts, 0 not available yet",
+  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
+  "daily video budget used (443 min), waiting for tomorrow"
  ],
  "crontab": [],
  "channels": [
@@ -111,55 +111,55 @@
    "name": "Skratch Gaming",
    "id": "UCoSkzr1pXpt3d0jIxsc6ufw",
    "enabled": true,
-   "checked": "2026-10-31T19:17Z"
+   "checked": "2026-10-31T20:17Z"
   },
   {
    "name": "Gorax",
    "id": "UCNas7BnuOIjDEzY1D53kb1w",
    "enabled": true,
-   "checked": "2026-10-31T19:17Z"
+   "checked": "2026-10-31T20:17Z"
   },
   {
    "name": "Neff Gaming",
    "id": "UCsxs6YhNd_B36RgUAjbpJ_A",
    "enabled": true,
-   "checked": "2026-10-31T19:17Z"
+   "checked": "2026-10-31T20:18Z"
   },
   {
    "name": "Volkin Dragonheir",
    "id": "UCfRpOh_ywVjzhh9fxHbreGw",
    "enabled": true,
-   "checked": "2026-10-31T19:17Z"
+   "checked": "2026-10-31T20:18Z"
   },
   {
    "name": "Fastidious Dragonheir",
    "id": "UC16mpj5wEemSZX-uTlHe9Ww",
    "enabled": true,
-   "checked": "2026-10-31T19:17Z"
+   "checked": "2026-10-31T20:18Z"
   },
   {
    "name": "OddOneGaming RPGs",
    "id": "UC1ivUEf_poI9_R2eVKa8wRQ",
    "enabled": true,
-   "checked": "2026-10-31T19:17Z"
+   "checked": "2026-10-31T20:18Z"
   },
   {
    "name": "Suzi Plays",
    "id": "UCyo1-TkunhGcK6khU1h8Ypw",
    "enabled": true,
-   "checked": "2026-10-31T19:17Z"
+   "checked": "2026-10-31T20:18Z"
   },
   {
    "name": "Skyasterix Gaming",
    "id": "UCr5Gb3910rK7QPmKMmdagsA",
    "enabled": true,
-   "checked": "2026-10-31T19:17Z"
+   "checked": "2026-10-31T20:18Z"
   },
   {
    "name": "liveranov",
    "id": "UCqCR7ofFHhWwXy3Hg00fqEw",
    "enabled": true,
-   "checked": "2026-10-31T19:17Z"
+   "checked": "2026-10-31T20:18Z"
   }
  ]
 }
