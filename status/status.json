@@ -1,5 +1,5 @@
 {
- "built": "2026-10-31T20:18Z",
+ "built": "2026-10-31T20:52Z",
  "last_fetch": "2026-10-31T20:18Z",
  "counts": {
   "summarized": 122,
@@ -24,7 +24,6 @@
   "quota_hit": 1793427487.6146405
  },
  "log_tail": [
-  "+ Skratch Gaming: Toxin Vs Mekkatorque! Endgame Boss S8 Dragonheir: Silent God",
   "saved qBCdZsqhVk8",
   "+ Neff Gaming: Best Summon Teams vs Mekkatorque | S8 Endgame Boss Phase 1 |",
   "… Neff Gaming: Best Dauntless Teams vs Mekkatorque | S8 Endgame Boss Phase ",
@@ -103,7 +102,8 @@
   "== 2026-10-31 20:17",
   "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (443 min), waiting for tomorrow"
+  "daily video budget used (443 min), waiting for tomorrow",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 122 videos, 138 heroes"
  ],
  "crontab": [],
  "channels": [
