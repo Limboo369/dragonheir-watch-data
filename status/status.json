@@ -1,6 +1,6 @@
 {
- "built": "2026-10-31T07:00Z",
- "last_fetch": "2026-10-31T06:17Z",
+ "built": "2026-10-31T07:30Z",
+ "last_fetch": "2026-10-31T07:17Z",
  "counts": {
   "summarized": 115,
   "skipped_giveaway": 17,
@@ -67,11 +67,6 @@
   "quota_hit": 1793427487.6146405
  },
  "log_tail": [
-  "saved T6OZB27KKzg",
-  "+ OddOneGaming RPGs: 💥 Am I Crazy? 💥NEW S9 Artifacts & Gear + Guaranteed Blah Bla",
-  "saved SKgs45pKE8I",
-  "+ Gorax: Build Your Temporal Vortex Teams the Right Way! Toxin, Daunt",
-  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
   "saved xQsiosr7QFU",
   "+ Skratch Gaming: NECROSIS Vs. The Endgame Boss S8! Dragonheir: Silent Gods x ",
   "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 112 videos, 132 heroes",
@@ -146,6 +141,11 @@
   "+ Gorax: Best Teams for Rasp of Gears S8 | Mekkatorque Guide + Team C",
   "saved soNuRXPx71Y",
   "+ Gorax: This Wish Summon Session Was Absolutely INSANE | Dragonheir ",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 115 videos, 134 heroes",
+  "== 2026-10-31 07:17",
+  "fetch done: 0 new transcripts, 0 not available yet",
+  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
+  "Gemini quota was full less than an hour ago, trying again next round",
   "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 115 videos, 134 heroes"
  ],
  "crontab": [],
@@ -154,55 +154,55 @@
    "name": "Skratch Gaming",
    "id": "UCoSkzr1pXpt3d0jIxsc6ufw",
    "enabled": true,
-   "checked": "2026-10-31T06:17Z"
+   "checked": "2026-10-31T07:17Z"
   },
   {
    "name": "Gorax",
    "id": "UCNas7BnuOIjDEzY1D53kb1w",
    "enabled": true,
-   "checked": "2026-10-31T06:17Z"
+   "checked": "2026-10-31T07:17Z"
   },
   {
    "name": "Neff Gaming",
    "id": "UCsxs6YhNd_B36RgUAjbpJ_A",
    "enabled": true,
-   "checked": "2026-10-31T06:17Z"
+   "checked": "2026-10-31T07:17Z"
   },
   {
    "name": "Volkin Dragonheir",
    "id": "UCfRpOh_ywVjzhh9fxHbreGw",
    "enabled": true,
-   "checked": "2026-10-31T06:17Z"
+   "checked": "2026-10-31T07:17Z"
   },
   {
    "name": "Fastidious Dragonheir",
    "id": "UC16mpj5wEemSZX-uTlHe9Ww",
    "enabled": true,
-   "checked": "2026-10-31T06:17Z"
+   "checked": "2026-10-31T07:17Z"
   },
   {
    "name": "OddOneGaming RPGs",
    "id": "UC1ivUEf_poI9_R2eVKa8wRQ",
    "enabled": true,
-   "checked": "2026-10-31T06:17Z"
+   "checked": "2026-10-31T07:17Z"
   },
   {
    "name": "Suzi Plays",
    "id": "UCyo1-TkunhGcK6khU1h8Ypw",
    "enabled": true,
-   "checked": "2026-10-31T06:17Z"
+   "checked": "2026-10-31T07:17Z"
   },
   {
    "name": "Skyasterix Gaming",
    "id": "UCr5Gb3910rK7QPmKMmdagsA",
    "enabled": true,
-   "checked": "2026-10-31T06:17Z"
+   "checked": "2026-10-31T07:17Z"
   },
   {
    "name": "liveranov",
    "id": "UCqCR7ofFHhWwXy3Hg00fqEw",
    "enabled": true,
-   "checked": "2026-10-31T06:17Z"
+   "checked": "2026-10-31T07:17Z"
   }
  ]
 }
