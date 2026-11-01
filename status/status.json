@@ -1,10 +1,10 @@
 {
- "built": "2026-10-31T23:55Z",
- "last_fetch": "2026-10-31T23:18Z",
+ "built": "2026-11-01T00:21Z",
+ "last_fetch": "2026-11-01T00:17Z",
  "counts": {
-  "summarized": 122,
+  "summarized": 134,
   "skipped_giveaway": 17,
-  "new": 464,
+  "new": 452,
   "baseline": 22,
   "skipped_live": 1,
   "failed": 1
@@ -18,52 +18,11 @@
   }
  ],
  "budget": {
-  "day": "2026-10-31",
-  "seconds": 26610,
-  "v2": 1,
-  "quota_hit": 1793427487.6146405
+  "day": "2026-11-01",
+  "seconds": 13366,
+  "v2": 1
  },
  "log_tail": [
-  "== 2026-10-31 09:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (443 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 122 videos, 138 heroes",
-  "== 2026-10-31 10:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (443 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 122 videos, 138 heroes",
-  "== 2026-10-31 11:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (443 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 122 videos, 138 heroes",
-  "curl: (35) Send failure: Connection reset by peer",
-  "== 2026-10-31 12:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (443 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 122 videos, 138 heroes",
-  "== 2026-10-31 13:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (443 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 122 videos, 138 heroes",
-  "curl: (35) Recv failure: Connection reset by peer",
-  "== 2026-10-31 14:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (443 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 122 videos, 138 heroes",
-  "mv: cannot stat '.dashboard.html.new': No such file or directory",
-  "mv: cannot stat '.publish.sh.new': No such file or directory",
-  "== 2026-10-31 15:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (443 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 122 videos, 138 heroes",
-  "== 2026-10-31 16:17",
   "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "daily video budget used (443 min), waiting for tomorrow",
@@ -103,7 +62,47 @@
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "daily video budget used (443 min), waiting for tomorrow",
   "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 122 videos, 138 heroes",
-  "curl: (56) Recv failure: Connection reset by peer"
+  "curl: (56) Recv failure: Connection reset by peer",
+  "== 2026-11-01 00:17",
+  "fetch done: 0 new transcripts, 0 not available yet",
+  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
+  "… liveranov: Thunderbolt Team (Lv 79) vs Fire Guardians | Crown Contest R",
+  "… Skratch Gaming: GET FREE REWARDS! Dragonheir: Silent Gods x Dragonstride",
+  "… Skyasterix Gaming: 🔥300 Dice PULLS FOR SYONIS | Dragonheir: Silent Gods",
+  "… Fastidious Dragonheir: These 3 Reasons Will Make You Want To Start Playing Today! ⁂",
+  "… liveranov: New Halloween Code! 🎃 5 Heliolite Dice + 20 Thunder Gummy | ",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "saved k5r_YS0v7fU",
+  "+ Skratch Gaming: GET FREE REWARDS! Dragonheir: Silent Gods x Dragonstride",
+  "… Volkin Dragonheir: BEST START November 2026!!! [Dragonheir: Silent Gods]",
+  "saved 1f6qpIekEsg",
+  "+ Skyasterix Gaming: 🔥300 Dice PULLS FOR SYONIS | Dragonheir: Silent Gods",
+  "… Gorax: I Did 300 Summons on This Banner… Was It Worth It? | Dragonh",
+  "saved UFlHhZ0cqUA",
+  "+ liveranov: New Halloween Code! 🎃 5 Heliolite Dice + 20 Thunder Gummy | ",
+  "… Neff Gaming: 300 DICE SPENT! Did I Make a Mistake?! 💀 | Dragonheir: Silen",
+  "saved wM0sFqru6M4",
+  "+ Fastidious Dragonheir: These 3 Reasons Will Make You Want To Start Playing Today! ⁂",
+  "… Neff Gaming: Best Ice Blast Teams vs Mekkatorque | S8 Endgame Boss Phase ",
+  "saved 1yXOtLaqU-Q",
+  "+ Gorax: I Did 300 Summons on This Banner… Was It Worth It? | Dragonh",
+  "… Volkin Dragonheir: ULTIMATE F2P Progression Tips!!! [Dragonheir: Silent Gods]",
+  "saved r6R18doSyz8",
+  "+ Volkin Dragonheir: BEST START November 2026!!! [Dragonheir: Silent Gods]",
+  "… Neff Gaming: Best Shadow Teams vs Mekkatorque | S8 Endgame Boss Phase 1 |",
+  "saved bHhRgpjf1UM",
+  "+ Neff Gaming: 300 DICE SPENT! Did I Make a Mistake?! 💀 | Dragonheir: Silen",
+  "… Skyasterix Gaming: 👉My LAST SUMMONS! Did I Get Lucky? | Dragonheir: Silent Gods",
+  "saved pCYtUDqkYMc",
+  "+ Neff Gaming: Best Ice Blast Teams vs Mekkatorque | S8 Endgame Boss Phase ",
+  "saved p6_LHvgp4bs",
+  "+ Volkin Dragonheir: ULTIMATE F2P Progression Tips!!! [Dragonheir: Silent Gods]",
+  "saved Pk4MoXaEvxk",
+  "+ liveranov: Thunderbolt Team (Lv 79) vs Fire Guardians | Crown Contest R",
+  "saved oEsP_IFBWjw",
+  "+ Neff Gaming: Best Shadow Teams vs Mekkatorque | S8 Endgame Boss Phase 1 |",
+  "saved lazeVsyO7_g",
+  "+ Skyasterix Gaming: 👉My LAST SUMMONS! Did I Get Lucky? | Dragonheir: Silent Gods"
  ],
  "crontab": [],
  "channels": [
@@ -111,55 +110,55 @@
    "name": "Skratch Gaming",
    "id": "UCoSkzr1pXpt3d0jIxsc6ufw",
    "enabled": true,
-   "checked": "2026-10-31T23:17Z"
+   "checked": "2026-11-01T00:17Z"
   },
   {
    "name": "Gorax",
    "id": "UCNas7BnuOIjDEzY1D53kb1w",
    "enabled": true,
-   "checked": "2026-10-31T23:17Z"
+   "checked": "2026-11-01T00:17Z"
   },
   {
    "name": "Neff Gaming",
    "id": "UCsxs6YhNd_B36RgUAjbpJ_A",
    "enabled": true,
-   "checked": "2026-10-31T23:17Z"
+   "checked": "2026-11-01T00:17Z"
   },
   {
    "name": "Volkin Dragonheir",
    "id": "UCfRpOh_ywVjzhh9fxHbreGw",
    "enabled": true,
-   "checked": "2026-10-31T23:17Z"
+   "checked": "2026-11-01T00:17Z"
   },
   {
    "name": "Fastidious Dragonheir",
    "id": "UC16mpj5wEemSZX-uTlHe9Ww",
    "enabled": true,
-   "checked": "2026-10-31T23:18Z"
+   "checked": "2026-11-01T00:17Z"
   },
   {
    "name": "OddOneGaming RPGs",
    "id": "UC1ivUEf_poI9_R2eVKa8wRQ",
    "enabled": true,
-   "checked": "2026-10-31T23:18Z"
+   "checked": "2026-11-01T00:17Z"
   },
   {
    "name": "Suzi Plays",
    "id": "UCyo1-TkunhGcK6khU1h8Ypw",
    "enabled": true,
-   "checked": "2026-10-31T23:18Z"
+   "checked": "2026-11-01T00:17Z"
   },
   {
    "name": "Skyasterix Gaming",
    "id": "UCr5Gb3910rK7QPmKMmdagsA",
    "enabled": true,
-   "checked": "2026-10-31T23:18Z"
+   "checked": "2026-11-01T00:17Z"
   },
   {
    "name": "liveranov",
    "id": "UCqCR7ofFHhWwXy3Hg00fqEw",
    "enabled": true,
-   "checked": "2026-10-31T23:18Z"
+   "checked": "2026-11-01T00:17Z"
   }
  ]
 }

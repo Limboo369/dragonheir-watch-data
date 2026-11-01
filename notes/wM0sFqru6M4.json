@@ -1,0 +1,74 @@
+{
+ "summary": "This overview outlines why Dragonheir: Silent Gods is worth playing, focusing on seasonal freshness, generous free-to-play summon rates, and visual hero designs. Seasonal rotations keep gameplay varied by reshuffling dual-element pairings each season and introducing distinct one-piece Mythic gear sets. Free-to-play players can obtain hundreds of premium Heliolite Dice per season through the Season Journey and daily events, easily exceeding 700 to 1,000 pulls. Top-tier heroes like Anneliesis and Serpentemis stand out for their supreme visual detail and gameplay power. Players are urged to stockpile 300 pulls for the return of Anneliesis.",
+ "topics": [
+  "New Player Guide",
+  "Free to Play",
+  "Summon Economy",
+  "Anneliesis Banner",
+  "Seasonal Mechanics"
+ ],
+ "heroes": [
+  {
+   "name": "Anneliesis",
+   "verdict": "Must-pull / arguably best hero in the game",
+   "note": "Ultra-premium Radiance unit whose limited banner requires saving up to 300 summons.",
+   "known": true
+  },
+  {
+   "name": "Auster",
+   "verdict": "Top Frost AoE DPS",
+   "note": "One of the creator's favorite AoE damage dealers and a cornerstone for Frost compositions.",
+   "known": true
+  },
+  {
+   "name": "Cervinia",
+   "verdict": "Solid Epic support",
+   "note": "A capable Lightning support that damages enemies and inflicts debuffs.",
+   "known": true
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "Best Toxin hero in the game",
+   "note": "The undisputed queen of AoE poison damage capable of transforming the battlefield into a toxic swamp.",
+   "known": true
+  },
+  {
+   "name": "Beldelle",
+   "verdict": "Top-tier Frost DPS",
+   "note": "One of the strongest characters in the game, utilizing Ice Crystal mechanics to deal heavy damage.",
+   "known": true
+  },
+  {
+   "name": "Fredegonda",
+   "verdict": "Excellent Ice Blast unit",
+   "note": "Replenishes Ice Crystals for allies while granting powerful buffs and cold damage.",
+   "known": true
+  },
+  {
+   "name": "Hvitar",
+   "verdict": "Top Ice damage dealer",
+   "note": "Serves as an exceptional Frost carry with high cold damage and execution on low-HP enemies.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [
+  "Elemental affinity combinations cycle every season; Season 1 pairs Frost with Necrosis (Permafrost), Fire with Poison (Wildfire), and Lightning with Radiance (Resplendence).",
+  "Mythic equipment acts as 1-piece set bonuses that introduce unique, powerful effects every season."
+ ],
+ "tips": [
+  "Save up to 300 Heliolite Dice (or Wyrmarrow converted at 100:1) to guarantee Anneliesis on her limited rerun banner.",
+  "Complete all 25 chapters of the Season Journey to secure 110 Heliolite Dice plus extensive Wyrmarrow and stamina rewards."
+ ],
+ "season": "S1",
+ "server_scope": "S1",
+ "value": "medium",
+ "id": "wM0sFqru6M4",
+ "model": "gemini-3.8-flash",
+ "channel": "Fastidious Dragonheir",
+ "title": "These 3 Reasons Will Make You Want To Start Playing Today! ⁂ Dragonheir: Silent Gods",
+ "published": "2026-10-31T19:30:33+00:00",
+ "url": "https://www.youtube.com/watch?v=wM0sFqru6M4",
+ "short": false,
+ "summarized": "2026-11-01T00:19Z"
+}

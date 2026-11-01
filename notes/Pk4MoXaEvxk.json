@@ -1,0 +1,72 @@
+{
+ "summary": "This guide showcases a Thunderbolt team tackling the Fire Guardians in Season 9 Crown Contest Round 1. Despite using only Level 79 heroes and no negative runes, the team achieves over 1.44 billion total damage. The strategy exploits the boss's +30% Enlightenment Damage vulnerability by stacking full Enlightenment on Perkunte and Alaura. Additionally, building around 200 Resistance on all heroes completely counters the boss's 150 Accuracy Recharging Speed Penalty, requiring no custom skill timings.",
+ "topics": [
+  "Crown Contest",
+  "Fire Guardians",
+  "Thunderbolt Team",
+  "Hero Builds",
+  "Boss Guide"
+ ],
+ "heroes": [
+  {
+   "name": "Perkunte",
+   "verdict": "Main DPS",
+   "note": "Built with full Enlightenment and Attack using Crown of Order to capitalize on the boss's 30% Enlightenment Damage weakness.",
+   "known": true
+  },
+  {
+   "name": "Alaura",
+   "verdict": "Secondary DPS",
+   "note": "Built with full Enlightenment and Attack using Flowering Lyre to assist with team Lightning chain and damage.",
+   "known": true
+  },
+  {
+   "name": "Tariz",
+   "verdict": "Tank / Resistance Buffer",
+   "note": "Geared with HP and Defense alongside the highest Resistance on the team (278) and Misty Conch.",
+   "known": true
+  },
+  {
+   "name": "Shai'nachtan",
+   "verdict": "Support / Buffer",
+   "note": "Built with over 80,000 HP, some Accuracy, 213 Resistance, and Golden Antlers.",
+   "known": true
+  },
+  {
+   "name": "Maashtur",
+   "verdict": "Support / Shielder",
+   "note": "Built for survivability with full HP, some Accuracy, 247 Resistance, and Orb of the Dragon God.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Crown Contest Round 1 (Fire Guardians)",
+   "heroes": [
+    "Perkunte",
+    "Alaura",
+    "Tariz",
+    "Shai'nachtan",
+    "Maashtur"
+   ],
+   "note": "Full Level 79 Thunderbolt team dealing 1.44B damage with default skill timings and no negative runes by meeting a ~200 Resistance threshold across all units."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Aim for around 200 Resistance on every hero to reliably resist the 150 Accuracy Recharging Speed Penalty inflicted by the Fire Guardians' Sacrifice skill.",
+  "Capitalize on Round 1's boss vulnerability (+30% Enlightenment and Necrotic damage taken) by stacking full Enlightenment on damage dealers like Perkunte.",
+  "Leave all hero ultimate skill timings on default, as custom delays or manual interventions are not required for this composition."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "Pk4MoXaEvxk",
+ "model": "gemini-3.8-flash",
+ "channel": "liveranov",
+ "title": "Thunderbolt Team (Lv 79) vs Fire Guardians | Crown Contest Round 1 | Dragonheir | Season 9",
+ "published": "2026-10-31T19:53:48+00:00",
+ "url": "https://www.youtube.com/watch?v=Pk4MoXaEvxk",
+ "short": false,
+ "summarized": "2026-11-01T00:20Z"
+}

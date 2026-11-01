@@ -1,0 +1,89 @@
+{
+ "summary": "This video details two high-performing Ice Blast team compositions against the Season 8 endgame boss Mekkatorque. The primary setup using Anselmo as support can achieve up to 1.8 billion damage when fully optimized with Inspiration 5. A second variation replaces Anselmo with Felosia for a resistance-focused build. The video covers hero builds, stat priorities, artifacts, and skill rotation timing for both setups.",
+ "topics": [
+  "Mekkatorque",
+  "Ice Blast",
+  "Team Compositions",
+  "Boss Guide",
+  "Hero Builds"
+ ],
+ "heroes": [
+  {
+   "name": "Beldelle",
+   "verdict": "Primary Ice Blast DPS",
+   "note": "Must have the highest Attack in the team to receive the pet's 10% Attack buff; focus on Attack and Crit Rate.",
+   "known": true
+  },
+  {
+   "name": "Fredegonda",
+   "verdict": "Core Ice Blast DPS",
+   "note": "Build with Crit Rate, Crit Damage, and Puppeteer set; functions well even at Inspiration 0.",
+   "known": true
+  },
+  {
+   "name": "Shinnah",
+   "verdict": "Ice Blast Enabler",
+   "note": "Requires high Attack along with sufficient Accuracy and Resistance.",
+   "known": true
+  },
+  {
+   "name": "Ernesto",
+   "verdict": "Ice Blast Healer",
+   "note": "Build with high Attack and Healing talent to sustain the team.",
+   "known": true
+  },
+  {
+   "name": "Anselmo",
+   "verdict": "Skill Haste Support",
+   "note": "Equipped with Secrecy set and Skill Haste to align skills to a 17.2-second rotation.",
+   "known": true
+  },
+  {
+   "name": "Felosia",
+   "verdict": "Resistance Support Alternative",
+   "note": "Built with high Resistance and Prismatic Cloak to reflect debuffs back to the boss.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Mekkatorque (S8 Endgame Boss)",
+   "heroes": [
+    "Beldelle",
+    "Fredegonda",
+    "Shinnah",
+    "Ernesto",
+    "Anselmo"
+   ],
+   "note": "Anselmo support setup capable of dealing up to 1.8 billion damage with a 17.2s skill rotation."
+  },
+  {
+   "mode": "Mekkatorque (S8 Endgame Boss)",
+   "heroes": [
+    "Beldelle",
+    "Fredegonda",
+    "Shinnah",
+    "Ernesto",
+    "Felosia"
+   ],
+   "note": "Felosia resistance setup utilizing Prismatic Cloak for debuff reflection and higher team survivability."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Ensure Beldelle has the highest Attack stat in the team so the pet grants her the bonus 10% Attack.",
+  "Use HP regeneration talents on DPS heroes to ensure survivability without relying on a second pure healer.",
+  "If Fredegonda lacks her exclusive artifact, alternative Attack-boosting options like Orb of the Dragon Blood or Antlers can be used."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "pCYtUDqkYMc",
+ "model": "gemini-3.5-flash",
+ "channel": "Neff Gaming",
+ "title": "Best Ice Blast Teams vs Mekkatorque | S8 Endgame Boss Phase 1 | Dragonheir",
+ "published": "2026-10-14T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=pCYtUDqkYMc",
+ "short": false,
+ "summarized": "2026-11-01T00:19Z"
+}

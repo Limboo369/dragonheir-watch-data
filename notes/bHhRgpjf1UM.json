@@ -1,0 +1,46 @@
+{
+ "summary": "The video features a 300 Heliolite Dice summoning session on the Selected Summons banner to obtain the new Legendary hero Syonis. The creator discusses a strategy shift from skipping banners to hunt maxed Inspiration meta heroes to pulling for every new hero. Over 300 pulls, five Legendary heroes were summoned: Daphne (twice), Torrin, Aspalta, and Stanguem. Syonis was claimed as the 300-pull milestone reward. The creator highlights Syonis's potential, especially his Inspiration 5 skill which can reduce enemy Defense by up to 60% based on Enlightenment.",
+ "topics": [
+  "Selected Summons",
+  "Syonis",
+  "Summoning Strategy",
+  "Heliolite Dice"
+ ],
+ "heroes": [
+  {
+   "name": "Syonis",
+   "verdict": "Strong Necrosis damage dealer and defense debuffer",
+   "note": "His Inspiration 5 passive reduces enemy Defense by up to 60% based on Enlightenment, boosting team damage significantly in Arena and PvE.",
+   "known": true
+  },
+  {
+   "name": "Torrin",
+   "verdict": "Niche healer used mostly in early seasons",
+   "note": "Useful in Season 1 and Season 2 for healing and debuff immunity, but largely forgotten in later seasons.",
+   "known": true
+  },
+  {
+   "name": "Saverio",
+   "verdict": "Top-tier damage dealer",
+   "note": "Synergizes strongly with Syonis, whose Defense reduction can significantly amplify Saverio's overall damage output.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [],
+ "tips": [
+  "Save enough Heliolite Dice to hit the 300-summon selector threshold to guarantee target seasonal Legendary heroes.",
+  "Build Syonis with high Enlightenment to maximize his passive Defense penalty, which scales up to a 60% Defense reduction."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "bHhRgpjf1UM",
+ "model": "gemini-3.5-flash",
+ "channel": "Neff Gaming",
+ "title": "300 DICE SPENT! Did I Make a Mistake?! 💀 | Dragonheir: Silent Gods",
+ "published": "2026-10-31T09:01:22+00:00",
+ "url": "https://www.youtube.com/watch?v=bHhRgpjf1UM",
+ "short": false,
+ "summarized": "2026-11-01T00:19Z"
+}

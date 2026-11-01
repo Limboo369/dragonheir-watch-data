@@ -1,0 +1,70 @@
+{
+ "summary": "This beginner start guide for November 2026 outlines optimal resource gathering, event participation, and summoning strategies for new Dragonheir accounts. Players can claim a free Auster via creator links and earn up to 15,000 Wyrmarrow from the buffed Account Valuation event. For summoning, avoid spending 20 Heliolite dice on the standard Heliolite banner. Instead, buy the discounted daily First Blush pulls for 800 Wyrmarrow and aim for 150 pulls to get a key enabler like Premtsa. Save all remaining summons to guarantee Anneliesis (300 pulls) when her limited banner returns in early November.",
+ "topics": [
+  "beginner guide",
+  "banners",
+  "summoning strategy",
+  "account valuation",
+  "Anneliesis"
+ ],
+ "heroes": [
+  {
+   "name": "Auster",
+   "verdict": "Great early game hero",
+   "note": "Claimable for free via creator download links and KOL events; helpful for early progression and Magichess.",
+   "known": true
+  },
+  {
+   "name": "Vinyara",
+   "verdict": "Skip / Not worth pulling",
+   "note": "A weak hero from the standard pool; pulling her from the 20-pity Heliolite banner demonstrates why that pool should be avoided.",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "Must-have limited support",
+   "note": "An outstanding Radiant support hero returning in early November; highly recommended to save 300 summons to guarantee her.",
+   "known": true
+  },
+  {
+   "name": "Premtsa",
+   "verdict": "Top First Blush wishlist pick",
+   "note": "Essential core hero for Summoner teams; recommended pick at the 150-pull milestone on the First Blush banner.",
+   "known": true
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "Strong Option Banner target",
+   "note": "A top-tier Poison enabler to consider targeting during end-of-season Option banners.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Early Game / General Progression",
+   "heroes": [
+    "Premtsa"
+   ],
+   "note": "Summoner team setup built around Premtsa and accessible epic summoners provides a strong, reliable early-game core."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Claim the Account Valuation event rewards to receive up to 15,000 Wyrmarrow as your account levels up.",
+  "Do not spend 20 Heliolite dice on the standard Heliolite Summons beginner pity, as non-premium legendaries are weak.",
+  "Bypass the forced tutorial 10-pull by exiting on PC or pressing the back button on Android.",
+  "Purchase the daily First Blush 10-pull discount for 800 Wyrmarrow every day.",
+  "Target 150 pulls on the First Blush banner for a core DPS hero like Premtsa, then save for Anneliesis's limited banner."
+ ],
+ "season": "S1",
+ "server_scope": "S1",
+ "value": "high",
+ "id": "r6R18doSyz8",
+ "model": "gemini-3.5-flash",
+ "channel": "Volkin Dragonheir",
+ "title": "BEST START November 2026!!! [Dragonheir: Silent Gods]",
+ "published": "2026-10-31T10:21:29+00:00",
+ "url": "https://www.youtube.com/watch?v=r6R18doSyz8",
+ "short": false,
+ "summarized": "2026-11-01T00:19Z"
+}

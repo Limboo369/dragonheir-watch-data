@@ -1,0 +1,79 @@
+{
+ "summary": "Gorax breaks down the Total Selectable Summons banner featuring Syonis, Saverio, and Ozul. He strongly advises free-to-play and low-spending PvE players to skip this banner and save for the November 8 banner featuring Annaliesis and the new Aura hero. However, players dedicated to PvP or completing a high-end Shadow team will find great value in Saverio and Syonis. Gorax performs 300 summons to expand his Shadow roster, pulling Seyir, Daphne, and extra inspirations for Aspalta. He also explains the mechanic where unselected 300-summon rewards convert into a selector chest delivered to your mailbox once the banner expires.",
+ "topics": [
+  "banners",
+  "summoning",
+  "Syonis",
+  "Saverio",
+  "Shadow team"
+ ],
+ "heroes": [
+  {
+   "name": "Syonis",
+   "verdict": "PvP Niche / Conditional",
+   "note": "Has a unique Energy Drain Zone mechanic that isolates targets, but is risky and not recommended for PvE-focused players.",
+   "known": true
+  },
+  {
+   "name": "Saverio",
+   "verdict": "Meta Shadow DPS",
+   "note": "Top-tier necrotic damage dealer for PvP and PvE who deals massive damage even without his exclusive artifact.",
+   "known": true
+  },
+  {
+   "name": "Ozul",
+   "verdict": "Skip",
+   "note": "Has undergone balance changes that leave him far less effective in the current meta compared to alternative Shadow options.",
+   "known": true
+  },
+  {
+   "name": "Seyir",
+   "verdict": "Strong Shadow Support / DPS",
+   "note": "Provides team-wide healing, derived damage, and substantial attack/enlightenment buffs in long boss fights and Magic Chess.",
+   "known": true
+  },
+  {
+   "name": "Daphne",
+   "verdict": "High Priority Shadow Hero",
+   "note": "Essential piece for high-end Shadow team compositions alongside Saverio to achieve top boss scores.",
+   "known": true
+  },
+  {
+   "name": "Giacosa",
+   "verdict": "Meta Epic Shadow Support",
+   "note": "Grants 20% Enlightenment buff to Shadow allies, significantly boosting their derived skill scaling.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Continental Challenge / PvE Bosses",
+   "heroes": [
+    "Saverio",
+    "Daphne",
+    "Aspalta"
+   ],
+   "note": "Core Shadow damage composition capable of reaching over 200 million damage on continental boss encounters."
+  }
+ ],
+ "meta_changes": [
+  "Introduction of legendary Necrosis hero Syonis with the Energy Drain Zone targeting suppression mechanic.",
+  "Upcoming November 8 banner will feature Annaliesis rerun alongside a new Aura hero, setting the next PvE meta standard."
+ ],
+ "tips": [
+  "PvE-focused F2P and low spenders should skip the Selectable Summons banner to save heliolite dice for the November 8 Annaliesis/Aura banner.",
+  "If you reach 300 summons on the banner but do not pick a hero immediately, the choice is automatically sent to your mailbox as an optional selection chest when the event ends.",
+  "Pair Giacosa with Shadow heroes like Saverio to benefit from Enlightenment scaling."
+ ],
+ "season": "S9",
+ "server_scope": "mixed",
+ "value": "high",
+ "id": "1yXOtLaqU-Q",
+ "model": "gemini-3.5-flash",
+ "channel": "Gorax",
+ "title": "I Did 300 Summons on This Banner… Was It Worth It? | Dragonheir x Dragonstride",
+ "published": "2026-10-31T10:00:27+00:00",
+ "url": "https://www.youtube.com/watch?v=1yXOtLaqU-Q",
+ "short": false,
+ "summarized": "2026-11-01T00:19Z"
+}

@@ -1,0 +1,82 @@
+{
+ "summary": "Volkin consults top player Gorax to discuss F2P and low-spender progression strategies for early season gameplay. They cover mythic gear refinement priorities, stamina and bread management for mid-season double drop events, and familiar fusion mechanics using friend assists. They also analyze banner strategies, recommending 150 pulls on the First Blush banner to secure a budget second team core like Summoners, and highlight claiming Clepsydra season assessment quests for ranking rewards.",
+ "topics": [
+  "progression tips",
+  "gear refinement",
+  "stamina management",
+  "familiars",
+  "banners",
+  "Clepsydra Trail"
+ ],
+ "heroes": [
+  {
+   "name": "Serpentemis",
+   "verdict": "Top Poison DPS",
+   "note": "Extremely strong Poison damage dealer that benefits heavily from Carnage gear and skill upgrades.",
+   "known": true
+  },
+  {
+   "name": "Oggok",
+   "verdict": "Essential Poison support",
+   "note": "Provides immortality, healing, and debuff dispel; ultimate skill upgrade is high priority.",
+   "known": true
+  },
+  {
+   "name": "Talethia",
+   "verdict": "Key Aura DPS option",
+   "note": "Available via Wish Summon and option banners, serving as a primary DPS component for Radiant and Aura teams.",
+   "known": true
+  },
+  {
+   "name": "Lelwanis",
+   "verdict": "Best pick from First Blush milestone",
+   "note": "Top choice from the 150-pull milestone box to build an effective Summon team core.",
+   "known": true
+  },
+  {
+   "name": "The Dark Lady",
+   "verdict": "Strong Summon team anchor",
+   "note": "Pairs exceptionally well with Lelwanis and Twitch to form a robust second team core.",
+   "known": true
+  },
+  {
+   "name": "Twitch",
+   "verdict": "Great Summon team enabler",
+   "note": "Provides excellent synergy when building secondary teams for multi-team boss fights.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Continental Challenge / Multi-Team Bosses",
+   "heroes": [
+    "The Dark Lady",
+    "Lelwanis",
+    "Twitch"
+   ],
+   "note": "Budget-friendly Summon team core acquired via First Blush banner milestones to handle multi-team boss requirements."
+  }
+ ],
+ "meta_changes": [
+  "Seasonal boss challenges require multiple teams scaling from 2 teams in Week 1, to 4 teams in Week 2, and up to 6 teams in Week 3.",
+  "Fully skill-scrolled Epic heroes often outperform unscrolled Legendary heroes due to the scarcity of Master Scrolls for F2P and low-spending players."
+ ],
+ "tips": [
+  "Save stamina bread for mid-season double drop events rather than spending all resources immediately upon unlocking Mythic gear.",
+  "When refining or ascending gear early on, prioritize Weapons for a guaranteed flat Attack bonus, or Gloves/Chest for maximum DPS set effects.",
+  "Use Assist Fusion with friends' profiled familiars to target specific talent perks like Spiker Pursuit for extra damage against targets with Defense Penalty.",
+  "Pulling 150 dice on the First Blush banner provides a selectable Legendary DPS core at half the cost of completing 300 Wish Summons.",
+  "Check Clepsydra Trail -> Trial of Courage to manually claim Season Assessment points from dungeon milestones to raise seasonal leaderboard rankings."
+ ],
+ "season": "S1",
+ "server_scope": "S1",
+ "value": "high",
+ "id": "p6_LHvgp4bs",
+ "model": "gemini-3.5-flash",
+ "channel": "Volkin Dragonheir",
+ "title": "ULTIMATE F2P Progression Tips!!! [Dragonheir: Silent Gods]",
+ "published": "2026-10-14T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=p6_LHvgp4bs",
+ "short": false,
+ "summarized": "2026-11-01T00:20Z"
+}

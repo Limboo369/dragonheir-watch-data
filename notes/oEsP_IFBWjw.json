@@ -1,0 +1,89 @@
+{
+ "summary": "This video showcases two Shadow element team setups for the Mekkatorque endgame boss in Season 8. The first setup relies on Aspalta and Saverio alongside Seyir, Daphne, and Jar'ah, achieving around 700 million damage on default skill timings. The second setup replaces Aspalta and Saverio with Astaion and The Dark Lady, reaching up to 1.8 billion damage. Seyir serves as the core DPS in both builds, benefiting heavily from attack speed, high Enlightenment, and Inspiration 5. Using custom skill timings on the second team enables it to deal nearly three times the damage of the first team.",
+ "topics": [
+  "Mekkatorque",
+  "Shadow Team",
+  "Endgame Boss",
+  "Seyir",
+  "Team Showcase"
+ ],
+ "heroes": [
+  {
+   "name": "Seyir",
+   "verdict": "Top Shadow DPS",
+   "note": "Acts as the primary damage dealer against Mekkatorque; with high Enlightenment, attack speed, and Inspiration 5, Seyir enables teams to achieve up to 1.8 billion damage.",
+   "known": true
+  },
+  {
+   "name": "Saverio",
+   "verdict": "High investment option",
+   "note": "Requires full mythic gear and exclusive artifact in the first setup, but results in lower damage (700M) compared to the Astaion setup.",
+   "known": true
+  },
+  {
+   "name": "Aspalta",
+   "verdict": "Shadow team enabler",
+   "note": "Built with attack speed, accuracy, and witch's remains gear set to trigger bleeding synergies in the first showcase.",
+   "known": true
+  },
+  {
+   "name": "The Dark Lady",
+   "verdict": "Essential for 1.8B damage setup",
+   "note": "Runs with Golden Antlers and attack-sharing gear on a 30-second skill timing rotation.",
+   "known": true
+  },
+  {
+   "name": "Astaion",
+   "verdict": "High-value support DPS",
+   "note": "Provides accuracy sharing and resistance stats, operating on a 15-second skill timing rotation.",
+   "known": true
+  },
+  {
+   "name": "Daphne",
+   "verdict": "Consistent Shadow support",
+   "note": "Equipped with attack-sharing gear and attack speed, running on default skill timing in both compositions.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Mekkatorque Endgame Boss",
+   "heroes": [
+    "Aspalta",
+    "Daphne",
+    "Saverio",
+    "Seyir",
+    "Jar'ah"
+   ],
+   "note": "Full auto default timing team that hits around 700 million damage."
+  },
+  {
+   "mode": "Mekkatorque Endgame Boss",
+   "heroes": [
+    "Astaion",
+    "The Dark Lady",
+    "Seyir",
+    "Daphne",
+    "Jar'ah"
+   ],
+   "note": "Optimized timing team reaching 1.8 billion damage with a 15s rotation for Seyir/Astaion/Jar'ah and 30s for The Dark Lady."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Prioritize Enlightenment, attack speed, and Inspiration on Seyir to drastically increase total damage output.",
+  "Equip attack-sharing gear sets across multiple support heroes to multiply the damage of your main DPS.",
+  "Manual skill timing adjustments (15s rotation for DPS/supports and 30s for long buffs) yield significantly higher damage than default auto timing."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "oEsP_IFBWjw",
+ "model": "gemini-3.5-flash",
+ "channel": "Neff Gaming",
+ "title": "Best Shadow Teams vs Mekkatorque | S8 Endgame Boss Phase 1 | Dragonheir",
+ "published": "2026-10-14T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=oEsP_IFBWjw",
+ "short": false,
+ "summarized": "2026-11-01T00:21Z"
+}
