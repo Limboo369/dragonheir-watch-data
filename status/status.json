@@ -1,5 +1,5 @@
 {
- "built": "2026-11-01T08:22Z",
+ "built": "2026-11-01T08:52Z",
  "last_fetch": "2026-11-01T08:17Z",
  "counts": {
   "summarized": 153,
@@ -43,7 +43,6 @@
   "quota_hit": 1793513949.9802036
  },
  "log_tail": [
-  "! Best Dauntless Team vs Mekkatorque | Rasp of Gears: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
   "",
   "! ⛔ DON'T FORGET THIS! ⛔ Piece Of Treasury 2 S8 BEST: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
   "! FROST Vs. MEKKATORQUE! Endgame Boss Guide Dragonhe: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
@@ -122,7 +121,8 @@
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "… Gorax: NEW Promo Code CANDYTIDE – Get 5 FREE Heliolite Dice! | Drag",
   "saved n_aU5LqudJM",
-  "+ Gorax: NEW Promo Code CANDYTIDE – Get 5 FREE Heliolite Dice! | Drag"
+  "+ Gorax: NEW Promo Code CANDYTIDE – Get 5 FREE Heliolite Dice! | Drag",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 153 videos, 148 heroes"
  ],
  "crontab": [],
  "channels": [
