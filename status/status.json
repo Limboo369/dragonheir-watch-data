@@ -1,5 +1,5 @@
 {
- "built": "2026-11-01T04:19Z",
+ "built": "2026-11-01T04:49Z",
  "last_fetch": "2026-11-01T04:18Z",
  "counts": {
   "summarized": 149,
@@ -27,7 +27,7 @@
    "title": "⛔ DON'T FORGET THIS! ⛔ Piece Of Treasury 2 S8 BEST Choice And My Pick | Dragonheir x Dragonstride",
    "channel": "OddOneGaming RPGs",
    "status": "retry",
-   "error": ""
+   "error": "[Errno 104] Connection reset by peer"
   },
   {
    "title": "Season 9 NEW INFO: 2 Free Heroes, New Affinities & Selectable Banner! | Dragonheir: Silent Gods",
@@ -56,17 +56,11 @@
  ],
  "budget": {
   "day": "2026-11-01",
-  "seconds": 24391,
+  "seconds": 23038,
   "v2": 1,
-  "quota_hit": 1793506690.6330516
+  "quota_hit": 1793506753.3195076
  },
  "log_tail": [
-  "… Gorax: Best Toxin Team vs Mekkatorque | Rasp of Gears S8 | Dragonhe",
-  "saved W4rSEt-GRmw",
-  "+ OddOneGaming RPGs: 🚨 You're NOT Gonna Believe It!🚨 Shadow vs Mekkatorque Boss S",
-  "saved TkIOonRZ0Cw",
-  "+ Gorax: Best Frost Team vs Mekkatorque | Rasp of Gears S8 | Dragonhe",
-  "… Gorax: Best Ice Blast Team vs Mekkatorque | Rasp of Gears S8 | Drag",
   "saved Z4SDepe8od0",
   "+ Skratch Gaming: The SERVER TRANSFER Feature Is Not Good Enough! Dragonheir: ",
   "… Fastidious Dragonheir: GREATEST PULL RATES of ALL-TIME? I got 16 legendaries on my ",
@@ -140,7 +134,13 @@
   "! Best Corrosion Team vs Mekkatorque | Rasp of Gears: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
   "! Toxin vs Mekkatorque (Phase 1) | Endgame Boss | Se: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
   "saved JBZIqowodJY",
-  "+ Gorax: Best Dauntless Team vs Mekkatorque | Rasp of Gears S8 | Drag"
+  "+ Gorax: Best Dauntless Team vs Mekkatorque | Rasp of Gears S8 | Drag",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "! ⛔ DON'T FORGET THIS! ⛔ Piece Of Treasury 2 S8 BEST: ConnectError: [Errno 104] Connection reset by peer",
+  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
+  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
+  "! WE NEED MORE CHANGES!! The Gear Drops Are Still No: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 149 videos, 145 heroes"
  ],
  "crontab": [],
  "channels": [
