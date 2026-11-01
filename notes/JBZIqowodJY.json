@@ -1,0 +1,74 @@
+{
+ "summary": "Gorax showcases a top-tier Dauntless team strategy against the Season 8 endgame boss Mekkatorque. The lineup consists of Guinavivre, Kurvida, Nastjenka, Selva, and Maashtur, achieving 600M+ damage at Inspiration 0 and over 1.78B+ at higher Inspiration levels. Key requirements include building at least 150 Resistance on core heroes to resist boss debuffs and tuning Kurvida and Selva to a 15-second rotation for continuous defense penalties. Maashtur utilizes the Secrecy Order set to maximize team Attack and Damage output under shields.",
+ "topics": [
+  "Mekkatorque",
+  "Dauntless",
+  "Rasp of Gears",
+  "Boss Guide"
+ ],
+ "heroes": [
+  {
+   "name": "Guinavivre",
+   "verdict": "Core Dauntless DPS",
+   "note": "Requires at least 150 Resistance to survive boss debuffs while dealing heavy damage.",
+   "known": true
+  },
+  {
+   "name": "Kurvida",
+   "verdict": "Essential Support / Debuffer",
+   "note": "Requires high Accuracy and Skill Haste to target a 15-second skill rotation for maintaining defense penalties.",
+   "known": true
+  },
+  {
+   "name": "Nastjenka",
+   "verdict": "Top Dauntless DPS",
+   "note": "Built with high Resistance alongside standard Attack, Crit Rate, and Crit Damage stats.",
+   "known": true
+  },
+  {
+   "name": "Selva",
+   "verdict": "High-Value Support",
+   "note": "Built with Skill Haste, Resistance, Accuracy, and Attack sharing for Guinavivre.",
+   "known": true
+  },
+  {
+   "name": "Maashtur",
+   "verdict": "Key Shield Support",
+   "note": "Equipped with Secrecy Order set, high Accuracy, and Resistance to provide shields and team-wide damage buffs.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Rasp of Gears (Mekkatorque)",
+   "heroes": [
+    "Guinavivre",
+    "Kurvida",
+    "Nastjenka",
+    "Selva",
+    "Maashtur"
+   ],
+   "note": "Reuses the Dauntless/Vortex setup from Iola. Delivers 600M+ at Inspiration 0 and up to 1.78B+ at full Inspiration when optimized with high Resistance."
+  }
+ ],
+ "meta_changes": [
+  "Dauntless/Vortex teams built for previous single-target/AoE bosses like Iola remain the premier meta choice for Mekkatorque in Season 8."
+ ],
+ "tips": [
+  "Build a minimum of 150 Resistance on Guinavivre, Nastjenka, Selva, and Maashtur to consistently resist Mekkatorque's control and debuffs.",
+  "Equip Maashtur with the Secrecy Order gear set to grant additional Attack and Damage boosts while shield buffs are active.",
+  "Tune Kurvida and Selva to a 15-second recast rotation (or an 18-second rotation if gear Haste is insufficient) to maintain permanent defense penalties on the boss.",
+  "Use Geni (or the Abyssal Starshade Servitor skin) as the deployed familiar for team support benefits."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "JBZIqowodJY",
+ "model": "gemini-3.5-flash",
+ "channel": "Gorax",
+ "title": "Best Dauntless Team vs Mekkatorque | Rasp of Gears S8 | Dragonheir x Dragonstride",
+ "published": "2026-10-14T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=JBZIqowodJY",
+ "short": false,
+ "summarized": "2026-11-01T04:18Z"
+}
