@@ -1,0 +1,50 @@
+{
+ "summary": "The video reminds players to use their Piece of Treasury event forge before it expires for the season. OddOneGaming explains how to evaluate gear gaps by auditing existing option chests, current gear rolls, and main Temporal Vortex teams. He advises targeting hard-to-farm bottom pieces like Gloves or Armor with ideal main stats and substats rather than weapons or helmets. Ultimately, he forges Strike the Unprepared Mythic+ Gloves with Crit Damage primary and heavy HP% substats to maximize his primary DPS, Talethia.",
+ "topics": [
+  "Piece of Treasury",
+  "Equipment Forging",
+  "Gear Build",
+  "Temporal Vortex"
+ ],
+ "heroes": [
+  {
+   "name": "Talethia",
+   "verdict": "Primary DPS focus for custom gear forging",
+   "note": "Creator specifically forged Strike the Unprepared Crit Damage gloves stacked with HP% substats to boost her damage.",
+   "known": true
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "Key Toxin DPS for Temporal Vortex",
+   "note": "Performs best with high Enlightenment and ATK% rolls on Strike the Unprepared or Curse of the Fallen gear.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Temporal Vortex",
+   "heroes": [
+    "Talethia",
+    "Serpentemis"
+   ],
+   "note": "Uses an Aura team for single-target boss phases and a Toxin team centered on Serpentemis for multi-target phases."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Audit your unopened Mythic Option Chests in your inventory before forging to ensure you do not pick gear you can easily select elsewhere.",
+  "Prioritize forging bottom pieces like Gloves or Armor because obtaining optimal main stat and triple-offense substat combinations on them via normal farming is significantly harder than top pieces.",
+  "Tailor your Piece of Treasury forge specifically to empower your highest-performing Temporal Vortex damage dealers."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "BfwvF26B9qo",
+ "model": "gemini-3.5-flash",
+ "channel": "OddOneGaming RPGs",
+ "title": "⛔ DON'T FORGET THIS! ⛔ Piece Of Treasury 2 S8 BEST Choice And My Pick | Dragonheir x Dragonstride",
+ "published": "2026-10-14T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=BfwvF26B9qo",
+ "short": false,
+ "summarized": "2026-11-01T06:18Z"
+}
