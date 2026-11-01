@@ -1,6 +1,6 @@
 {
- "built": "2026-11-01T02:58Z",
- "last_fetch": "2026-11-01T02:18Z",
+ "built": "2026-11-01T03:28Z",
+ "last_fetch": "2026-11-01T03:18Z",
  "counts": {
   "summarized": 148,
   "skipped_giveaway": 17,
@@ -67,12 +67,6 @@
   "quota_hit": 1793499518.138477
  },
  "log_tail": [
-  "saved lazeVsyO7_g",
-  "+ Skyasterix Gaming: 👉My LAST SUMMONS! Did I Get Lucky? | Dragonheir: Silent Gods",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 134 videos, 142 heroes",
-  "== 2026-11-01 01:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "… Neff Gaming: Best Toxin Teams vs Mekkatorque | S8 Endgame Boss Phase 1 | ",
   "… liveranov: Dragonheir S8 Endboss — Mekkatorque Phase 1 | Every Meta Tea",
   "… Gorax: Who Should You Pick in Wish Summons? My Current Recommendati",
@@ -146,7 +140,13 @@
   "+ Suzi Plays: How Do Server Transfers Work? ✅ Full Process Shown 🔥 Dragonh",
   "saved K9okWpmVk0A",
   "+ liveranov: Dauntless vs Mekkatorque (Phase 1) | Endgame Boss | Season 8",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 148 videos, 145 heroes"
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 148 videos, 145 heroes",
+  "== 2026-11-01 03:17",
+  "fetch done: 0 new transcripts, 0 not available yet",
+  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
+  "Gemini quota was full less than an hour ago, trying again next round",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 148 videos, 145 heroes",
+  "curl: (56) Recv failure: Connection reset by peer"
  ],
  "crontab": [],
  "channels": [
@@ -154,55 +154,55 @@
    "name": "Skratch Gaming",
    "id": "UCoSkzr1pXpt3d0jIxsc6ufw",
    "enabled": true,
-   "checked": "2026-11-01T02:18Z"
+   "checked": "2026-11-01T03:18Z"
   },
   {
    "name": "Gorax",
    "id": "UCNas7BnuOIjDEzY1D53kb1w",
    "enabled": true,
-   "checked": "2026-11-01T02:18Z"
+   "checked": "2026-11-01T03:18Z"
   },
   {
    "name": "Neff Gaming",
    "id": "UCsxs6YhNd_B36RgUAjbpJ_A",
    "enabled": true,
-   "checked": "2026-11-01T02:18Z"
+   "checked": "2026-11-01T03:18Z"
   },
   {
    "name": "Volkin Dragonheir",
    "id": "UCfRpOh_ywVjzhh9fxHbreGw",
    "enabled": true,
-   "checked": "2026-11-01T02:18Z"
+   "checked": "2026-11-01T03:18Z"
   },
   {
    "name": "Fastidious Dragonheir",
    "id": "UC16mpj5wEemSZX-uTlHe9Ww",
    "enabled": true,
-   "checked": "2026-11-01T02:18Z"
+   "checked": "2026-11-01T03:18Z"
   },
   {
    "name": "OddOneGaming RPGs",
    "id": "UC1ivUEf_poI9_R2eVKa8wRQ",
    "enabled": true,
-   "checked": "2026-11-01T02:18Z"
+   "checked": "2026-11-01T03:18Z"
   },
   {
    "name": "Suzi Plays",
    "id": "UCyo1-TkunhGcK6khU1h8Ypw",
    "enabled": true,
-   "checked": "2026-11-01T02:18Z"
+   "checked": "2026-11-01T03:18Z"
   },
   {
    "name": "Skyasterix Gaming",
    "id": "UCr5Gb3910rK7QPmKMmdagsA",
    "enabled": true,
-   "checked": "2026-11-01T02:18Z"
+   "checked": "2026-11-01T03:18Z"
   },
   {
    "name": "liveranov",
    "id": "UCqCR7ofFHhWwXy3Hg00fqEw",
    "enabled": true,
-   "checked": "2026-11-01T02:18Z"
+   "checked": "2026-11-01T03:18Z"
   }
  ]
 }
