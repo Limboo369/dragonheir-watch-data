@@ -1,5 +1,5 @@
 {
- "built": "2026-11-01T00:21Z",
+ "built": "2026-11-01T00:56Z",
  "last_fetch": "2026-11-01T00:17Z",
  "counts": {
   "summarized": 134,
@@ -23,7 +23,6 @@
   "v2": 1
  },
  "log_tail": [
-  "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "daily video budget used (443 min), waiting for tomorrow",
   "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 122 videos, 138 heroes",
@@ -102,7 +101,8 @@
   "saved oEsP_IFBWjw",
   "+ Neff Gaming: Best Shadow Teams vs Mekkatorque | S8 Endgame Boss Phase 1 |",
   "saved lazeVsyO7_g",
-  "+ Skyasterix Gaming: 👉My LAST SUMMONS! Did I Get Lucky? | Dragonheir: Silent Gods"
+  "+ Skyasterix Gaming: 👉My LAST SUMMONS! Did I Get Lucky? | Dragonheir: Silent Gods",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 134 videos, 142 heroes"
  ],
  "crontab": [],
  "channels": [
