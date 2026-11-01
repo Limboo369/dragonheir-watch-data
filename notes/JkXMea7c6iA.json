@@ -1,0 +1,33 @@
+{
+ "summary": "This video walks through the Server Transfer Pre-registration system in Dragonheir: Silent Gods. Suzi explains the application process, requirements such as receiving approvals from three top-30 Clepsydra players on the target server within 48 hours, and consuming a Realm Compass within 24 hours of approval. Realm Compasses cost Dragon Crystals, scaling from 2,000 for the first purchase up to 10,000 for the third. Actual server transfers occur upon season settlement, and players incur a 180-day cooldown before transferring again.",
+ "topics": [
+  "server transfer",
+  "realm compass",
+  "pre-registration",
+  "season settlement"
+ ],
+ "heroes": [],
+ "teams": [],
+ "meta_changes": [
+  "Server Transfer Pre-registration system introduced, allowing players meeting server settlement requirements to transfer servers upon season end after receiving target server player approvals."
+ ],
+ "tips": [
+  "Pre-register for a server transfer before season day 62, as applications lock after day 62.",
+  "Ensure you obtain three approval invitations from top-30 Clepsydra players on the target server within 48 hours of applying.",
+  "Be ready to consume a Realm Compass within 24 hours once your transfer application is approved.",
+  "Budget Dragon Crystals for Realm Compasses: 2,000 for the 1st transfer, 5,000 for the 2nd, and 10,000 for the 3rd.",
+  "Step down as Alliance Leader before applying, as Alliance Leaders cannot use the server transfer feature.",
+  "Avoid transferring before Peak Gambit ends if you are a top 16 contender, or you will lose eligibility for same-server honor rewards."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "JkXMea7c6iA",
+ "model": "gemini-3.5-flash",
+ "channel": "Suzi Plays",
+ "title": "How Do Server Transfers Work? ✅ Full Process Shown 🔥 Dragonheir x Dragonstride",
+ "published": "2026-10-14T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=JkXMea7c6iA",
+ "short": false,
+ "summarized": "2026-11-01T02:18Z"
+}

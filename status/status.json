@@ -1,61 +1,72 @@
 {
- "built": "2026-11-01T01:57Z",
- "last_fetch": "2026-11-01T01:18Z",
+ "built": "2026-11-01T02:19Z",
+ "last_fetch": "2026-11-01T02:18Z",
  "counts": {
-  "summarized": 146,
+  "summarized": 148,
   "skipped_giveaway": 17,
-  "new": 440,
+  "retry": 7,
   "baseline": 22,
+  "new": 431,
   "skipped_live": 1,
   "failed": 1
  },
  "problems": [
   {
+   "title": "FROST Vs. MEKKATORQUE! Endgame Boss Guide Dragonheir: Silent Gods x Dragonstride",
+   "channel": "Skratch Gaming",
+   "status": "retry",
+   "error": ""
+  },
+  {
+   "title": "GOD-TIER RATES! Huge Pulls for Elecebre + DARK LADY STATUE WINNER! ⁂ Dragonheir: Silent Gods",
+   "channel": "Fastidious Dragonheir",
+   "status": "retry",
+   "error": ""
+  },
+  {
+   "title": "⛔ DON'T FORGET THIS! ⛔ Piece Of Treasury 2 S8 BEST Choice And My Pick | Dragonheir x Dragonstride",
+   "channel": "OddOneGaming RPGs",
+   "status": "retry",
+   "error": ""
+  },
+  {
    "title": "Season 9 NEW INFO: 2 Free Heroes, New Affinities & Selectable Banner! | Dragonheir: Silent Gods",
    "channel": "liveranov",
    "status": "failed",
    "error": "Expecting value: line 1 column 1 (char 0)"
+  },
+  {
+   "title": "WE NEED MORE CHANGES!! The Gear Drops Are Still Not Good Enough!? Dragonheir: Silent Gods",
+   "channel": "Skratch Gaming",
+   "status": "retry",
+   "error": ""
+  },
+  {
+   "title": "Best Corrosion Team vs Mekkatorque | Rasp of Gears S8 | Dragonheir x Dragonstride",
+   "channel": "Gorax",
+   "status": "retry",
+   "error": ""
+  },
+  {
+   "title": "Best Dauntless Team vs Mekkatorque | Rasp of Gears S8 | Dragonheir x Dragonstride",
+   "channel": "Gorax",
+   "status": "retry",
+   "error": ""
+  },
+  {
+   "title": "Toxin vs Mekkatorque (Phase 1) | Endgame Boss | Season 8 | Dragonheir",
+   "channel": "liveranov",
+   "status": "retry",
+   "error": ""
   }
  ],
  "budget": {
   "day": "2026-11-01",
-  "seconds": 20567,
-  "v2": 1
+  "seconds": 21986,
+  "v2": 1,
+  "quota_hit": 1793499518.138477
  },
  "log_tail": [
-  "… Skratch Gaming: GET FREE REWARDS! Dragonheir: Silent Gods x Dragonstride",
-  "… Skyasterix Gaming: 🔥300 Dice PULLS FOR SYONIS | Dragonheir: Silent Gods",
-  "… Fastidious Dragonheir: These 3 Reasons Will Make You Want To Start Playing Today! ⁂",
-  "… liveranov: New Halloween Code! 🎃 5 Heliolite Dice + 20 Thunder Gummy | ",
-  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
-  "saved k5r_YS0v7fU",
-  "+ Skratch Gaming: GET FREE REWARDS! Dragonheir: Silent Gods x Dragonstride",
-  "… Volkin Dragonheir: BEST START November 2026!!! [Dragonheir: Silent Gods]",
-  "saved 1f6qpIekEsg",
-  "+ Skyasterix Gaming: 🔥300 Dice PULLS FOR SYONIS | Dragonheir: Silent Gods",
-  "… Gorax: I Did 300 Summons on This Banner… Was It Worth It? | Dragonh",
-  "saved UFlHhZ0cqUA",
-  "+ liveranov: New Halloween Code! 🎃 5 Heliolite Dice + 20 Thunder Gummy | ",
-  "… Neff Gaming: 300 DICE SPENT! Did I Make a Mistake?! 💀 | Dragonheir: Silen",
-  "saved wM0sFqru6M4",
-  "+ Fastidious Dragonheir: These 3 Reasons Will Make You Want To Start Playing Today! ⁂",
-  "… Neff Gaming: Best Ice Blast Teams vs Mekkatorque | S8 Endgame Boss Phase ",
-  "saved 1yXOtLaqU-Q",
-  "+ Gorax: I Did 300 Summons on This Banner… Was It Worth It? | Dragonh",
-  "… Volkin Dragonheir: ULTIMATE F2P Progression Tips!!! [Dragonheir: Silent Gods]",
-  "saved r6R18doSyz8",
-  "+ Volkin Dragonheir: BEST START November 2026!!! [Dragonheir: Silent Gods]",
-  "… Neff Gaming: Best Shadow Teams vs Mekkatorque | S8 Endgame Boss Phase 1 |",
-  "saved bHhRgpjf1UM",
-  "+ Neff Gaming: 300 DICE SPENT! Did I Make a Mistake?! 💀 | Dragonheir: Silen",
-  "… Skyasterix Gaming: 👉My LAST SUMMONS! Did I Get Lucky? | Dragonheir: Silent Gods",
-  "saved pCYtUDqkYMc",
-  "+ Neff Gaming: Best Ice Blast Teams vs Mekkatorque | S8 Endgame Boss Phase ",
-  "saved p6_LHvgp4bs",
-  "+ Volkin Dragonheir: ULTIMATE F2P Progression Tips!!! [Dragonheir: Silent Gods]",
-  "saved Pk4MoXaEvxk",
-  "+ liveranov: Thunderbolt Team (Lv 79) vs Fire Guardians | Crown Contest R",
-  "saved oEsP_IFBWjw",
   "+ Neff Gaming: Best Shadow Teams vs Mekkatorque | S8 Endgame Boss Phase 1 |",
   "saved lazeVsyO7_g",
   "+ Skyasterix Gaming: 👉My LAST SUMMONS! Did I Get Lucky? | Dragonheir: Silent Gods",
@@ -102,7 +113,40 @@
   "+ Gorax: Best Toxin Team vs Mekkatorque | Rasp of Gears S8 | Dragonhe",
   "saved KzauN75qkjQ",
   "+ Fastidious Dragonheir: GREATEST PULL RATES of ALL-TIME? I got 16 legendaries on my ",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 146 videos, 145 heroes"
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 146 videos, 145 heroes",
+  "mv: cannot stat '.run.sh.new': No such file or directory",
+  "mv: cannot stat '.dashboard.html.new': No such file or directory",
+  "mv: cannot stat '.backlog.json.new': No such file or directory",
+  "== 2026-11-01 02:17",
+  "fetch done: 0 new transcripts, 0 not available yet",
+  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
+  "… liveranov: Dauntless vs Mekkatorque (Phase 1) | Endgame Boss | Season 8",
+  "… Suzi Plays: How Do Server Transfers Work? ✅ Full Process Shown 🔥 Dragonh",
+  "… Gorax: Best Dauntless Team vs Mekkatorque | Rasp of Gears S8 | Drag",
+  "… Skratch Gaming: WE NEED MORE CHANGES!! The Gear Drops Are Still Not Good Eno",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
+  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
+  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
+  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
+  "… OddOneGaming RPGs: ⛔ DON'T FORGET THIS! ⛔ Piece Of Treasury 2 S8 BEST Choice An",
+  "… Skratch Gaming: FROST Vs. MEKKATORQUE! Endgame Boss Guide Dragonheir: Silent",
+  "! WE NEED MORE CHANGES!! The Gear Drops Are Still No: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "… Fastidious Dragonheir: GOD-TIER RATES! Huge Pulls for Elecebre + DARK LADY STATUE W… Gorax: Best Corrosion Team vs Mekkatorque | Rasp of Gears S8 | Drag",
+  "! Best Dauntless Team vs Mekkatorque | Rasp of Gears: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "",
+  "! ⛔ DON'T FORGET THIS! ⛔ Piece Of Treasury 2 S8 BEST: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "! FROST Vs. MEKKATORQUE! Endgame Boss Guide Dragonhe: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "… liveranov: Toxin vs Mekkatorque (Phase 1) | Endgame Boss | Season 8 | D",
+  "! Best Corrosion Team vs Mekkatorque | Rasp of Gears: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "! GOD-TIER RATES! Huge Pulls for Elecebre + DARK LAD: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "! Toxin vs Mekkatorque (Phase 1) | Endgame Boss | Se: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "saved JkXMea7c6iA",
+  "+ Suzi Plays: How Do Server Transfers Work? ✅ Full Process Shown 🔥 Dragonh",
+  "saved K9okWpmVk0A",
+  "+ liveranov: Dauntless vs Mekkatorque (Phase 1) | Endgame Boss | Season 8"
  ],
  "crontab": [],
  "channels": [
@@ -110,55 +154,55 @@
    "name": "Skratch Gaming",
    "id": "UCoSkzr1pXpt3d0jIxsc6ufw",
    "enabled": true,
-   "checked": "2026-11-01T01:18Z"
+   "checked": "2026-11-01T02:18Z"
   },
   {
    "name": "Gorax",
    "id": "UCNas7BnuOIjDEzY1D53kb1w",
    "enabled": true,
-   "checked": "2026-11-01T01:18Z"
+   "checked": "2026-11-01T02:18Z"
   },
   {
    "name": "Neff Gaming",
    "id": "UCsxs6YhNd_B36RgUAjbpJ_A",
    "enabled": true,
-   "checked": "2026-11-01T01:18Z"
+   "checked": "2026-11-01T02:18Z"
   },
   {
    "name": "Volkin Dragonheir",
    "id": "UCfRpOh_ywVjzhh9fxHbreGw",
    "enabled": true,
-   "checked": "2026-11-01T01:18Z"
+   "checked": "2026-11-01T02:18Z"
   },
   {
    "name": "Fastidious Dragonheir",
    "id": "UC16mpj5wEemSZX-uTlHe9Ww",
    "enabled": true,
-   "checked": "2026-11-01T01:18Z"
+   "checked": "2026-11-01T02:18Z"
   },
   {
    "name": "OddOneGaming RPGs",
    "id": "UC1ivUEf_poI9_R2eVKa8wRQ",
    "enabled": true,
-   "checked": "2026-11-01T01:18Z"
+   "checked": "2026-11-01T02:18Z"
   },
   {
    "name": "Suzi Plays",
    "id": "UCyo1-TkunhGcK6khU1h8Ypw",
    "enabled": true,
-   "checked": "2026-11-01T01:18Z"
+   "checked": "2026-11-01T02:18Z"
   },
   {
    "name": "Skyasterix Gaming",
    "id": "UCr5Gb3910rK7QPmKMmdagsA",
    "enabled": true,
-   "checked": "2026-11-01T01:18Z"
+   "checked": "2026-11-01T02:18Z"
   },
   {
    "name": "liveranov",
    "id": "UCqCR7ofFHhWwXy3Hg00fqEw",
    "enabled": true,
-   "checked": "2026-11-01T01:18Z"
+   "checked": "2026-11-01T02:18Z"
   }
  ]
 }

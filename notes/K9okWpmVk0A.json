@@ -1,0 +1,70 @@
+{
+ "summary": "liveranov demonstrates a high-performing Dauntless team setup against the Season 8 endgame boss Mekkatorque at level 260. The team is composed of Guinavivre, Nastjenka, Kurvida, Maashtur, and Tharivol. The fight reaches an S rank with a total score of 904,930,686 damage. Guinavivre acts as the primary damage carry, outputting over 58% of total damage, supported heavily by Nastjenka at over 40%. Complete hero stat sheets, gear sets, artifacts, and default skill timing setups are showcased at the end of the run.",
+ "topics": [
+  "Mekkatorque",
+  "Dauntless",
+  "Endgame Boss",
+  "Season 8",
+  "Team Build"
+ ],
+ "heroes": [
+  {
+   "name": "Guinavivre",
+   "verdict": "Top DPS against Mekkatorque",
+   "note": "Carried the encounter by dealing 525.4M damage (58.1% of the total team damage).",
+   "known": true
+  },
+  {
+   "name": "Nastjenka",
+   "verdict": "Core Dauntless DPS",
+   "note": "Dealt 365.8M damage (40.4% of the total team damage) alongside Guinavivre.",
+   "known": true
+  },
+  {
+   "name": "Kurvida",
+   "verdict": "Dauntless sub-DPS",
+   "note": "Provided utility and supplementary damage, dealing 82.1M damage (9.1% total).",
+   "known": true
+  },
+  {
+   "name": "Maashtur",
+   "verdict": "Dauntless defensive support",
+   "note": "Granted team shielding and damage reduction to survive Mekkatorque's heavy mechanics.",
+   "known": true
+  },
+  {
+   "name": "Tharivol",
+   "verdict": "Dauntless buffer",
+   "note": "Provided synergy and attack amplification to maximize the main carries' output.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Mekkatorque (Endgame Boss)",
+   "heroes": [
+    "Guinavivre",
+    "Nastjenka",
+    "Kurvida",
+    "Maashtur",
+    "Tharivol"
+   ],
+   "note": "Achieved 904,930,686 total damage (S rank) against level 260 Mekkatorque running on auto with default skill timings."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "The Dauntless roster can run Mekkatorque comfortably on full auto using default skill timings without complex timing overrides."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "K9okWpmVk0A",
+ "model": "gemini-3.8-flash",
+ "channel": "liveranov",
+ "title": "Dauntless vs Mekkatorque (Phase 1) | Endgame Boss | Season 8 | Dragonheir",
+ "published": "2026-10-14T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=K9okWpmVk0A",
+ "short": false,
+ "summarized": "2026-11-01T02:19Z"
+}
