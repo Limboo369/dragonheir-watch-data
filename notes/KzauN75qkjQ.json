@@ -1,0 +1,59 @@
+{
+ "summary": "Fastidious performs 300 pulls on the First Blush Summons wishlist banner on a 21-day-old F2P account. He explains the unique mechanics of this starter banner, where milestone wishlist hero claims at 50, 100, 150, 200, 250, and 300 pulls do not consume or reset the standard 70-pull legendary pity counter. Demonstrating extraordinary luck with two double-legendary 10-pulls and a triple-legendary 10-pull, he finishes the session with 16 total legendaries.",
+ "topics": [
+  "First Blush Summons",
+  "gacha summons",
+  "wishlist banner",
+  "F2P strategy"
+ ],
+ "heroes": [
+  {
+   "name": "Auster",
+   "verdict": "Great Frost DPS carry",
+   "note": "Excellent ice element DPS carry for starting new accounts.",
+   "known": true
+  },
+  {
+   "name": "Hvitar",
+   "verdict": "Premium Frost DPS carry",
+   "note": "Top-tier premium Frost damage dealer featuring cold damage infliction and low-HP executions.",
+   "known": true
+  },
+  {
+   "name": "Lothair",
+   "verdict": "Core Toxin/Poison DPS",
+   "note": "Premium poison hero chosen to build up a high-end Toxin team composition.",
+   "known": true
+  },
+  {
+   "name": "Felosia",
+   "verdict": "Top tier normal legendary support",
+   "note": "One of the best normal legendary shielder and support units available for new accounts.",
+   "known": true
+  },
+  {
+   "name": "Hochadir",
+   "verdict": "Free starter legendary",
+   "note": "Given 100% free to all players upon completing the initial Magic Chess tutorial.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [],
+ "tips": [
+  "Stockpile Heliolite Dice early on a new account to complete the First Blush Summons banner up to 300 pulls.",
+  "Milestone legendary unlocks on the First Blush Summons banner do not reset or interfere with your standard 70-pull pity count.",
+  "Target premium legendaries at the 150 and 300 pull milestones to secure rare high-impact carries."
+ ],
+ "season": "S1",
+ "server_scope": "S1",
+ "value": "medium",
+ "id": "KzauN75qkjQ",
+ "model": "gemini-3.5-flash",
+ "channel": "Fastidious Dragonheir",
+ "title": "GREATEST PULL RATES of ALL-TIME? I got 16 legendaries on my 100% F2P ⁂ Dragonheir: Silent Gods",
+ "published": "2026-10-14T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=KzauN75qkjQ",
+ "short": false,
+ "summarized": "2026-11-01T01:20Z"
+}

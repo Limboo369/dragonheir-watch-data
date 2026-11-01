@@ -1,0 +1,73 @@
+{
+ "summary": "This video showcases a budget Frost team setup for the Season 8 endgame boss Mekkatorque in Dragonheir. The lineup features Aethereal, Hvitar, Olgan, Lossenia, and Feenja, demonstrating top-tier damage output even at low or zero Inspiration levels. At Inspiration 0, this setup achieved 845M+ damage, outperforming Dauntless and several other team comps, while hitting over 1.2B with optimal gear. Detailed instructions are provided for gearing, stat priority, pet selection (Lava Batwing), and tuning a strict 15-second skill rotation.",
+ "topics": [
+  "Mekkatorque",
+  "Frost Team",
+  "Endgame Boss",
+  "Rasp of Gears"
+ ],
+ "heroes": [
+  {
+   "name": "Aethereal",
+   "verdict": "Primary DPS",
+   "note": "Built with stacked Attack and Enlightenment using the Gory Injector artifact to maximize derivative cold damage.",
+   "known": true
+  },
+  {
+   "name": "Hvitar",
+   "verdict": "Support Buffer / Enabler",
+   "note": "Built with Attack and Accuracy to share stats and trigger derivative damage buffs for the team.",
+   "known": true
+  },
+  {
+   "name": "Olgan",
+   "verdict": "Top Epic Frost Support",
+   "note": "Grants Frost allies +25% Attack Up; requires Accuracy and extra HP/Defense stats if struggling with survivability.",
+   "known": true
+  },
+  {
+   "name": "Lossenia",
+   "verdict": "Accuracy Share Support",
+   "note": "Equipped with Mystic Conch and built with maximum Accuracy to share with teammates, reducing their stat requirements.",
+   "known": true
+  },
+  {
+   "name": "Feenja",
+   "verdict": "Healer & Resistance Support",
+   "note": "Provides Resistance Up II and shares Resistance with adjacent allies, built with Skill Haste to maintain team rotation.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Mekkatorque (Endgame Boss)",
+   "heroes": [
+    "Aethereal",
+    "Hvitar",
+    "Olgan",
+    "Lossenia",
+    "Feenja"
+   ],
+   "note": "Budget Frost composition tuned for a 15-second skill rotation using Lava Batwing pet and Skill Haste runes."
+  }
+ ],
+ "meta_changes": [
+  "Budget Frost team utilizing Epic hero Olgan outdamages Dauntless and other premium comps at low Inspiration on Mekkatorque."
+ ],
+ "tips": [
+  "Aim for a strict 15-second skill recast rotation by equipping Skill Haste runes and tuning skill timings.",
+  "Stack maximum Accuracy on Lossenia to share stats via Bone Resonance, lowering Accuracy requirements for other heroes.",
+  "If Olgan dies early due to low Inspiration levels, replace some of his Attack gear with HP and Defense to keep him alive."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "TkIOonRZ0Cw",
+ "model": "gemini-3.5-flash",
+ "channel": "Gorax",
+ "title": "Best Frost Team vs Mekkatorque | Rasp of Gears S8 | Dragonheir x Dragonstride",
+ "published": "2026-10-14T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=TkIOonRZ0Cw",
+ "short": false,
+ "summarized": "2026-11-01T01:19Z"
+}

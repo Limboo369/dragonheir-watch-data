@@ -1,0 +1,35 @@
+{
+ "summary": "The creator reviews the upcoming Server Transfer pre-registration feature and criticizes its heavy limitations. Transferring requires a new item called Realm Compass, which costs Dragon Crystals (2,000 for the first transfer, 5,000 for the second, and 10,000 for the third), completely excluding free-to-play players. To transfer, players must receive invitations from three players ranked in the top 30 of the target server's Time Sand leaderboard, and each target server is strictly capped at receiving only three travelers. Transfers must be initiated before Season Day 62 on servers that have completed at least three seasons, followed by a 180-day cooldown. The creator argues this feature fails to revive low-population servers and urges developers to implement server merges instead.",
+ "topics": [
+  "server transfer",
+  "realm compass",
+  "server merge",
+  "system update",
+  "dragon crystals"
+ ],
+ "heroes": [],
+ "teams": [],
+ "meta_changes": [
+  "Introduction of the Server Transfer Pre-registration feature using the new Realm Compass item.",
+  "Servers that have completed at least three seasons can receive incoming transfers, capped at a maximum of three travelers per server.",
+  "Transfers require approvals from three target-server players who are ranked in the top 30 of Time Sand rankings.",
+  "Server transfers incur a 180-day account cooldown upon completion."
+ ],
+ "tips": [
+  "Transfer reservations must be submitted before Season Day 62; transfers cannot be initiated past this cutoff.",
+  "Ensure you have contact with top 30 ranked players on your intended target server before applying, as you need three invites within 48 hours.",
+  "Budget Dragon Crystals if you plan to transfer: the Realm Compass costs 2,000 Dragon Crystals for the first transfer, 5,000 for the second, and 10,000 for the third, and cannot be bought with Wyrmarrow.",
+  "Consider the 180-day transfer cooldown carefully before locking yourself into a new server."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "Z4SDepe8od0",
+ "model": "gemini-3.8-flash",
+ "channel": "Skratch Gaming",
+ "title": "The SERVER TRANSFER Feature Is Not Good Enough! Dragonheir: Silent Gods x Dragonstride",
+ "published": "2026-10-14T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=Z4SDepe8od0",
+ "short": false,
+ "summarized": "2026-11-01T01:20Z"
+}

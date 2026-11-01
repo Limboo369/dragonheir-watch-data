@@ -1,0 +1,138 @@
+{
+ "summary": "This video breaks down top-performing China server team compositions and strategies for Phase 1 of the Season 8 Endboss, Mekkatorque (Tol of Gears). Phase 1 is a pure damage race with minimal survival checks, where maintaining proper skill rotation speed and stats like Accuracy or Resistance is key. High-performing comps include Radiance Heavy-DMG (pushing past 2.2B), Necrosis Shadow (over 2B), Poison Corrosion/Toxin, and Lightning Dauntless. Gear builds, positioning, and skill timings for each elemental affinity are outlined so players can prepare before the boss releases globally.",
+ "topics": [
+  "Mekkatorque",
+  "Season 8 Endboss",
+  "Phase 1 Teams",
+  "China Server Meta",
+  "Damage Race"
+ ],
+ "heroes": [
+  {
+   "name": "Talethia",
+   "verdict": "Top Phase 1 Radiance carry",
+   "note": "Powers the Radiance comp to over 2.2B damage when paired with Rena and Anneliesis.",
+   "known": true
+  },
+  {
+   "name": "Sighir",
+   "verdict": "Top Necrosis carry",
+   "note": "Drives Shadow Necrosis teams to over 2B damage through rapid skill cycling.",
+   "known": false
+  },
+  {
+   "name": "Astaion",
+   "verdict": "Key defense stripper for Necrosis",
+   "note": "Strips boss defense and cycles skills fast to amplify team burst.",
+   "known": true
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "Toxin DoT carry",
+   "note": "Main damage dealer in Poison Toxin setups, stacking damage over time.",
+   "known": true
+  },
+  {
+   "name": "Sacredeia",
+   "verdict": "Essential Poison support",
+   "note": "Shares attack and strips boss defense using the Conch artifact.",
+   "known": true
+  },
+  {
+   "name": "Rook",
+   "verdict": "Top Corrosion carry",
+   "note": "Pairs with Szecedith in high-performing Corrosion teams hitting ~1.4B damage.",
+   "known": true
+  },
+  {
+   "name": "Guinavivre",
+   "verdict": "Dauntless crit carry",
+   "note": "Receives team buffs to deliver heavy crits in Lightning Dauntless comps.",
+   "known": true
+  },
+  {
+   "name": "Durem",
+   "verdict": "Fire Burn carry",
+   "note": "Leads Fire Burn teams hitting 700M to 800M damage on full auto.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Mekkatorque Phase 1",
+   "heroes": [
+    "Talethia",
+    "Anneliesis",
+    "Rena",
+    "Lincos",
+    "Dirk"
+   ],
+   "note": "Radiance Heavy-DMG comp achieving 2.2B+ damage using a 15-second rotation with Rena as an attack battery."
+  },
+  {
+   "mode": "Mekkatorque Phase 1",
+   "heroes": [
+    "Sighir",
+    "Astaion",
+    "Durem",
+    "The Dark Lady",
+    "Cykkol"
+   ],
+   "note": "Necrosis Shadow comp reaching over 2B damage with fast skill cycling and defense stripping."
+  },
+  {
+   "mode": "Mekkatorque Phase 1",
+   "heroes": [
+    "Rook",
+    "Szecedith",
+    "Whisk",
+    "Sacredeia",
+    "Frurbath"
+   ],
+   "note": "Poison Corrosion comp hitting ~1.4B damage; requires over 200 Accuracy on heroes to counter boss debuff resistance."
+  },
+  {
+   "mode": "Mekkatorque Phase 1",
+   "heroes": [
+    "Guinavivre",
+    "Selva",
+    "Maashtur",
+    "Nastjenka",
+    "Sutha"
+   ],
+   "note": "Lightning Dauntless comp hitting ~1.5B damage by funneling buffs and shields into Guinavivre crits."
+  },
+  {
+   "mode": "Mekkatorque Phase 1",
+   "heroes": [
+    "Durem",
+    "Carf",
+    "Paixton",
+    "Vyressa",
+    "Cinnerel"
+   ],
+   "note": "Fire Burn comp hitting 700M to 800M damage with mostly full auto execution."
+  }
+ ],
+ "meta_changes": [
+  "Mekkatorque Phase 1 is strictly a DPS race with negligible survival pressure.",
+  "Debuff-focused teams scale extremely well due to the boss's Misfire passive amplifying incoming debuffs."
+ ],
+ "tips": [
+  "Keep skill rotations clean so Mekkatorque cannot scramble your cast order.",
+  "Build high Resistance (to prevent cast order scramble) or over 200 Accuracy (to overcome boss accuracy debuffs) based on team type.",
+  "Frontload damage before 12 seconds to maximize the Emergency Calibration burst window.",
+  "Position your tank carefully to mitigate damage fall-off from the boss's left-to-right sweep attack."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "e05LIFMVHBA",
+ "model": "gemini-3.5-flash",
+ "channel": "liveranov",
+ "title": "Dragonheir S8 Endboss — Mekkatorque Phase 1 | Every Meta Team & Build (CN Server)",
+ "published": "2026-10-14T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=e05LIFMVHBA",
+ "short": false,
+ "summarized": "2026-11-01T01:19Z"
+}

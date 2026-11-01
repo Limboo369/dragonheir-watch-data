@@ -1,0 +1,79 @@
+{
+ "summary": "Gorax presents the top-tier Aura affinity team setup for facing the Season 8 endgame boss Mekkatorque. The setup relies on Talethia as the primary HP-scaling DPS supported by Diantha, Lincos, Anneliesis, and Rena. The team achieves massive damage scores ranging from 400M+ at zero inspiration to over 2.6B+ with min-maxed gear. The guide details exact gear priorities, artifact choices, debuff-reflection mechanics, and automated 15-second skill timings.",
+ "topics": [
+  "Mekkatorque",
+  "Aura Team",
+  "Boss Guide",
+  "Skill Timing",
+  "Hero Builds"
+ ],
+ "heroes": [
+  {
+   "name": "Talethia",
+   "verdict": "Top DPS for Mekkatorque",
+   "note": "Primary HP-scaling Aura damage dealer built with HP%, Crit Rate, Crit Damage, and Golden Alarm artifact.",
+   "known": true
+  },
+  {
+   "name": "Lincos",
+   "verdict": "Core debuff reflector & attack buffer",
+   "note": "Built with high Resistance and Prismatic Cloak to reflect boss debuffs while sharing Attack with the team.",
+   "known": true
+  },
+  {
+   "name": "Diantha",
+   "verdict": "Core debuffer & sub-DPS",
+   "note": "Applies Defense Penalty and Bleed debuffs using Witch's Remains and Conflagration of Bones to amplify team damage.",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "Key shielder & support",
+   "note": "Provides team shielding and attack buffs built with high Accuracy and HP.",
+   "known": true
+  },
+  {
+   "name": "Rena",
+   "verdict": "Best-in-slot support for 15s rotation",
+   "note": "Provides critical buffs and enables a tight 15-second skill rotation built with Defense and Haste.",
+   "known": true
+  },
+  {
+   "name": "Solmo",
+   "verdict": "Solid substitute for Rena",
+   "note": "Can replace Rena if unowned, though the team rotation extends from 15s to 18s.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Mekkatorque",
+   "heroes": [
+    "Talethia",
+    "Anneliesis",
+    "Lincos",
+    "Diantha",
+    "Rena"
+   ],
+   "note": "Best performing Aura composition vs Season 8 endgame boss Mekkatorque using Golden Tressem familiar."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Prioritize HP%, Crit Rate, and Crit Damage over Attack on Aura heroes like Talethia since their damage scales with HP.",
+  "Equip Lincos with high Resistance and Prismatic Cloak to reflect freezing debuffs back onto the boss to boost Talethia's damage multiplier.",
+  "Equip Diantha with Witch's Remains and Conflagration of Bones to apply additional debuffs (Def Penalty, Bleed) on Mekkatorque.",
+  "Set hero skill recast timings to 15.0 seconds (18.0s if using Solmo instead of Rena) and pet recast timing to 30.0 seconds."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "WEpc_QIKnRM",
+ "model": "gemini-3.5-flash",
+ "channel": "Gorax",
+ "title": "Best Aura Team vs Mekkatorque | Rasp of Gears S8 | Dragonheir x Dragonstride",
+ "published": "2026-10-14T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=WEpc_QIKnRM",
+ "short": false,
+ "summarized": "2026-11-01T01:19Z"
+}

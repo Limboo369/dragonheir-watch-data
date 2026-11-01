@@ -1,0 +1,90 @@
+{
+ "summary": "OddOne showcases two Shadow (Necrosis) team compositions against the Season 8 boss Mekkatorque, reaching over 818 million damage without exclusive artifacts or high hero inspirations. The first build uses Seyir as the main damage dealer alongside Daphne, Astaion, The Dark Lady, and Giacosa. The second, higher-performing composition uses Saverio as the primary DPS with Seyir acting as a secondary buffer. Equipping Solar King's Horn on Seyir grants teamwide damage buffs through his passive healing, while skill timings set to 15-second recasts ensure debuffs land during the boss's orb summon phases.",
+ "topics": [
+  "Mekkatorque",
+  "Shadow Team",
+  "Necrosis",
+  "Boss Fight",
+  "Hero Builds"
+ ],
+ "heroes": [
+  {
+   "name": "Seyir",
+   "verdict": "Essential buffer and sub-DPS for Shadow teams",
+   "note": "Grants Enlightenment and Attack to Shadow allies during ultimate and consistently triggers Solar King's Horn team buffs via continuous healing.",
+   "known": true
+  },
+  {
+   "name": "Saverio",
+   "verdict": "Top Necrosis DPS for Mekkatorque",
+   "note": "Deals massive damage when paired with Shadow energy generators like Giacosa and stat buffers like Seyir.",
+   "known": true
+  },
+  {
+   "name": "Giacosa",
+   "verdict": "Crucial Epic Shadow enabler",
+   "note": "Replenishes Shadow energy with ultimate and applies derivative damage amplification when using derivative damage gear.",
+   "known": true
+  },
+  {
+   "name": "Astaion",
+   "verdict": "Key Necrosis support",
+   "note": "Provides healing and debuffs, helping reach the necessary 5 total debuffs on the boss when equipped with Witch's Remains.",
+   "known": true
+  },
+  {
+   "name": "The Dark Lady",
+   "verdict": "High-tier Necrosis debuffer",
+   "note": "Applies essential defense penalties and extra debuffs required to maximize damage on Mekkatorque.",
+   "known": true
+  },
+  {
+   "name": "Daphne",
+   "verdict": "Solid Necrosis DPS option",
+   "note": "Functions as an effective primary damage dealer in budget Shadow setups when Saverio is unavailable.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Mekkatorque Boss (Season 8)",
+   "heroes": [
+    "Seyir",
+    "Daphne",
+    "Astaion",
+    "The Dark Lady",
+    "Giacosa"
+   ],
+   "note": "Seyir-led Necrosis composition capable of reaching over 688 million damage with synchronized 15-second skill recasts."
+  },
+  {
+   "mode": "Mekkatorque Boss (Season 8)",
+   "heroes": [
+    "Saverio",
+    "Seyir",
+    "Giacosa",
+    "Astaion",
+    "The Dark Lady"
+   ],
+   "note": "Top-performing Shadow team scoring 818M+ by using Saverio as main DPS and Seyir equipped with Solar King's Horn."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Maintain at least 5 total debuffs on Mekkatorque to trigger maximum damage multiplier bonuses.",
+  "Tune ultimate timings (11.5s to 12.0s initial cast, 15.0s recast) so defense penalties land right as the boss summons magic orbs.",
+  "Equip Solar King's Horn on Seyir to take advantage of his passive tick healing and grant the entire team free damage buffs.",
+  "Use derivative damage gear such as Erwinding Flesh on Giacosa to boost overall Necrosis derivative damage."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "W4rSEt-GRmw",
+ "model": "gemini-3.5-flash",
+ "channel": "OddOneGaming RPGs",
+ "title": "🚨 You're NOT Gonna Believe It!🚨 Shadow vs Mekkatorque Boss S8 Boss | Dragonheir x Dragonstride",
+ "published": "2026-10-14T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=W4rSEt-GRmw",
+ "short": false,
+ "summarized": "2026-11-01T01:19Z"
+}

@@ -1,0 +1,75 @@
+{
+ "summary": "Gorax showcases the top-performing Thunderbolt team against the Mekkatorque boss in Rasp of Gears. The team comprises Perkunte, Tariz, Shai'nachtan, Alaura, and Irmoush, achieving 1.2B to 1.9B damage depending on Inspiration levels. The guide covers gear requirements, stat priorities such as Haste alignment and Enlightenment, and essential skill timings for survival and max DPS.",
+ "topics": [
+  "Mekkatorque",
+  "Thunderbolt",
+  "Team Build",
+  "Boss Guide",
+  "Rasp of Gears"
+ ],
+ "heroes": [
+  {
+   "name": "Perkunte",
+   "verdict": "Primary Thunderbolt DPS",
+   "note": "Build with maximum Enlightenment and Attack; keep Skill Haste aligned near the team's threshold.",
+   "known": true
+  },
+  {
+   "name": "Tariz",
+   "verdict": "Essential Thunderbolt Enabler",
+   "note": "Mandatory for high damage; build with high Haste, Accuracy, Resistance, and max Attack to share via Everburning Netherfire.",
+   "known": true
+  },
+  {
+   "name": "Shai'nachtan",
+   "verdict": "Core Thunderbolt Support",
+   "note": "Increases Attack cap for Thunderbolt heroes, wears Puppeteer set, and shares Attack with Perkunte.",
+   "known": true
+  },
+  {
+   "name": "Alaura",
+   "verdict": "High Damage Thunderbolt Ally",
+   "note": "Build with Enlightenment, Attack, and Accuracy; use Golden Antlers or her exclusive artifact.",
+   "known": true
+  },
+  {
+   "name": "Irmoush",
+   "verdict": "Essential Defensive Support",
+   "note": "Grants Control and Debuff Immunity; stack Defense and Accuracy, and time ultimate to 12s initial cast / 15s recast.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Mekkatorque",
+   "heroes": [
+    "Perkunte",
+    "Tariz",
+    "Shai'nachtan",
+    "Alaura",
+    "Irmoush"
+   ],
+   "note": "Top Thunderbolt team capable of dealing 1.2B to 1.9B damage vs Mekkatorque."
+  }
+ ],
+ "meta_changes": [
+  "Tariz acts as a fundamental cornerstone hero for high-end Thunderbolt compositions."
+ ],
+ "tips": [
+  "Equip Everburning Netherfire gear on Tariz and Shai'nachtan to share extra Attack with Perkunte.",
+  "Keep Skill Haste values across all team heroes closely synchronized.",
+  "Manually time Irmoush's ultimate to first cast at 12.0s and recast at 15.0s, leaving other heroes on Default timing.",
+  "Use Lava Batwing as the deployed pet to scale damage from Enlightenment."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "Q4tRdkMQIlo",
+ "model": "gemini-3.5-flash",
+ "channel": "Gorax",
+ "title": "Best Thunderbolt Team vs Mekkatorque | Rasp of Gears S8 | Dragonheir x Dragonstride",
+ "published": "2026-10-14T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=Q4tRdkMQIlo",
+ "short": false,
+ "summarized": "2026-11-01T01:20Z"
+}

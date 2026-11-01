@@ -1,0 +1,115 @@
+{
+ "summary": "This video showcases five Toxin team setups against the Season 8 endgame boss Mekkatorque (Phase 1). The guide highlights how hero inspiration levels, particularly on Lothair and Serpentemis, dictate team damage potential ranging from 1B to 4.8B damage. It emphasizes proper skill timing rotations and gear stat prioritization to maintain synchronization during combat. Alternative support options like Blah Blah, Sacredeia, and Anselmo are detailed for optimal performance.",
+ "topics": [
+  "Mekkatorque",
+  "Toxin Team Compositions",
+  "Endgame Boss Phase 1",
+  "Hero Inspirations",
+  "Skill Timing Rotations"
+ ],
+ "heroes": [
+  {
+   "name": "Lothair",
+   "verdict": "Top-tier Toxin DPS at Inspiration 3+",
+   "note": "Requires Inspiration 3 or higher to outperform Serpentemis as primary damage dealer, enabling teams to deal 4B+ damage.",
+   "known": true
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "Primary Toxin DPS for lower Lothair inspiration",
+   "note": "Serves as the main damage dealer when Lothair is at low or zero inspiration.",
+   "known": true
+  },
+  {
+   "name": "Blah Blah",
+   "verdict": "Premium Toxin support",
+   "note": "Significantly boosts overall team output and stability in endgame boss fights.",
+   "known": true
+  },
+  {
+   "name": "Sacredeia",
+   "verdict": "High-end support replacement for Twitch",
+   "note": "Enables the highest-performing Lothair setups to push damage beyond 4B.",
+   "known": true
+  },
+  {
+   "name": "Anselmo",
+   "verdict": "Versatile Toxin support for Phase 1 and 2",
+   "note": "Replaces Blah Blah to yield around 4.5B damage while remaining effective when transitioning into Phase 2.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Mekkatorque (S8 Endgame Boss Phase 1)",
+   "heroes": [
+    "Twitch",
+    "Serpentemis",
+    "Stegamoffyn",
+    "Sleight",
+    "Durango"
+   ],
+   "note": "Entry-level setup using Serpentemis as main DPS, capable of dealing ~1B damage at high inspiration."
+  },
+  {
+   "mode": "Mekkatorque (S8 Endgame Boss Phase 1)",
+   "heroes": [
+    "Blah Blah",
+    "Twitch",
+    "Serpentemis",
+    "Sleight",
+    "Durango"
+   ],
+   "note": "Incorporates Blah Blah for support, achieving up to 2.2B damage with Inspiration 5 across the team."
+  },
+  {
+   "mode": "Mekkatorque (S8 Endgame Boss Phase 1)",
+   "heroes": [
+    "Twitch",
+    "Serpentemis",
+    "Sleight",
+    "Blah Blah",
+    "Lothair"
+   ],
+   "note": "Used when Lothair is low inspiration (I0-I2); Serpentemis remains main DPS to reach 3B damage."
+  },
+  {
+   "mode": "Mekkatorque (S8 Endgame Boss Phase 1)",
+   "heroes": [
+    "Sleight",
+    "Serpentemis",
+    "Lothair",
+    "Blah Blah",
+    "Sacredeia"
+   ],
+   "note": "Replaces Twitch with Sacredeia; with Lothair at I5 as primary DPS, reaches 4.0B to 4.8B damage."
+  },
+  {
+   "mode": "Mekkatorque (S8 Endgame Boss Phase 1)",
+   "heroes": [
+    "Lothair",
+    "Serpentemis",
+    "Sleight",
+    "Sacredeia",
+    "Anselmo"
+   ],
+   "note": "Uses Anselmo instead of Blah Blah to achieve ~4.5B damage and works into Phase 2."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Only build Lothair as your main DPS if he is at Inspiration 3 or higher; otherwise, build Serpentemis as main DPS.",
+  "Pay attention to Skill Haste on gear, as unexpected haste can desynchronize team skill rotations; adjust skill delay timing (e.g. 17.2s or 17.5s) to maintain sync."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "jQe6NkOHUL4",
+ "model": "gemini-3.5-flash",
+ "channel": "Neff Gaming",
+ "title": "Best Toxin Teams vs Mekkatorque | S8 Endgame Boss Phase 1 | Dragonheir",
+ "published": "2026-10-14T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=jQe6NkOHUL4",
+ "short": false,
+ "summarized": "2026-11-01T01:19Z"
+}

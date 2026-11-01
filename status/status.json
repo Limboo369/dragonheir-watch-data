@@ -1,10 +1,10 @@
 {
- "built": "2026-11-01T00:56Z",
- "last_fetch": "2026-11-01T00:17Z",
+ "built": "2026-11-01T01:20Z",
+ "last_fetch": "2026-11-01T01:18Z",
  "counts": {
-  "summarized": 134,
+  "summarized": 146,
   "skipped_giveaway": 17,
-  "new": 452,
+  "new": 440,
   "baseline": 22,
   "skipped_live": 1,
   "failed": 1
@@ -19,52 +19,10 @@
  ],
  "budget": {
   "day": "2026-11-01",
-  "seconds": 13366,
+  "seconds": 20567,
   "v2": 1
  },
  "log_tail": [
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (443 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 122 videos, 138 heroes",
-  "== 2026-10-31 17:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (443 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 122 videos, 138 heroes",
-  "== 2026-10-31 18:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (443 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 122 videos, 138 heroes",
-  "== 2026-10-31 19:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (443 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 122 videos, 138 heroes",
-  "== 2026-10-31 20:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (443 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 122 videos, 138 heroes",
-  "== 2026-10-31 21:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (443 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 122 videos, 138 heroes",
-  "== 2026-10-31 22:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (443 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 122 videos, 138 heroes",
-  "== 2026-10-31 23:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (443 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 122 videos, 138 heroes",
-  "curl: (56) Recv failure: Connection reset by peer",
-  "== 2026-11-01 00:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "… liveranov: Thunderbolt Team (Lv 79) vs Fire Guardians | Crown Contest R",
   "… Skratch Gaming: GET FREE REWARDS! Dragonheir: Silent Gods x Dragonstride",
   "… Skyasterix Gaming: 🔥300 Dice PULLS FOR SYONIS | Dragonheir: Silent Gods",
@@ -102,7 +60,49 @@
   "+ Neff Gaming: Best Shadow Teams vs Mekkatorque | S8 Endgame Boss Phase 1 |",
   "saved lazeVsyO7_g",
   "+ Skyasterix Gaming: 👉My LAST SUMMONS! Did I Get Lucky? | Dragonheir: Silent Gods",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 134 videos, 142 heroes"
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 134 videos, 142 heroes",
+  "== 2026-11-01 01:17",
+  "fetch done: 0 new transcripts, 0 not available yet",
+  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
+  "… Neff Gaming: Best Toxin Teams vs Mekkatorque | S8 Endgame Boss Phase 1 | ",
+  "… liveranov: Dragonheir S8 Endboss — Mekkatorque Phase 1 | Every Meta Tea",
+  "… Gorax: Who Should You Pick in Wish Summons? My Current Recommendati",
+  "… Skratch Gaming: The SERVER TRANSFER Feature Is Not Good Enough! Dragonheir: ",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "… Gorax: Best Aura Team vs Mekkatorque | Rasp of Gears S8 | Dragonhei",
+  "saved ZQS3vb4JuWU",
+  "+ Gorax: Who Should You Pick in Wish Summons? My Current Recommendati",
+  "… OddOneGaming RPGs: 🚨 You're NOT Gonna Believe It!🚨 Shadow vs Mekkatorque Boss S",
+  "saved jQe6NkOHUL4",
+  "+ Neff Gaming: Best Toxin Teams vs Mekkatorque | S8 Endgame Boss Phase 1 | ",
+  "… Gorax: Best Frost Team vs Mekkatorque | Rasp of Gears S8 | Dragonhe",
+  "saved e05LIFMVHBA (unknown hero names: Sighir)",
+  "+ liveranov: Dragonheir S8 Endboss — Mekkatorque Phase 1 | Every Meta Tea",
+  "… Neff Gaming: 950 Dice and a Ton of Luck! Wish Banner Summons | Dragonheir",
+  "saved WEpc_QIKnRM",
+  "+ Gorax: Best Aura Team vs Mekkatorque | Rasp of Gears S8 | Dragonhei",
+  "… Gorax: Best Thunderbolt Team vs Mekkatorque | Rasp of Gears S8 | Dr",
+  "… Gorax: Best Toxin Team vs Mekkatorque | Rasp of Gears S8 | Dragonhe",
+  "saved W4rSEt-GRmw",
+  "+ OddOneGaming RPGs: 🚨 You're NOT Gonna Believe It!🚨 Shadow vs Mekkatorque Boss S",
+  "saved TkIOonRZ0Cw",
+  "+ Gorax: Best Frost Team vs Mekkatorque | Rasp of Gears S8 | Dragonhe",
+  "… Gorax: Best Ice Blast Team vs Mekkatorque | Rasp of Gears S8 | Drag",
+  "saved Z4SDepe8od0",
+  "+ Skratch Gaming: The SERVER TRANSFER Feature Is Not Good Enough! Dragonheir: ",
+  "… Fastidious Dragonheir: GREATEST PULL RATES of ALL-TIME? I got 16 legendaries on my ",
+  "saved Lg9-TodNV1k",
+  "+ Gorax: Best Ice Blast Team vs Mekkatorque | Rasp of Gears S8 | Drag",
+  "saved Q4tRdkMQIlo",
+  "+ Gorax: Best Thunderbolt Team vs Mekkatorque | Rasp of Gears S8 | Dr",
+  "saved RIMqZDo7CUU",
+  "+ Neff Gaming: 950 Dice and a Ton of Luck! Wish Banner Summons | Dragonheir",
+  "saved OggIn5hmQpA",
+  "+ Gorax: Best Toxin Team vs Mekkatorque | Rasp of Gears S8 | Dragonhe",
+  "saved KzauN75qkjQ",
+  "+ Fastidious Dragonheir: GREATEST PULL RATES of ALL-TIME? I got 16 legendaries on my "
  ],
  "crontab": [],
  "channels": [
@@ -110,55 +110,55 @@
    "name": "Skratch Gaming",
    "id": "UCoSkzr1pXpt3d0jIxsc6ufw",
    "enabled": true,
-   "checked": "2026-11-01T00:17Z"
+   "checked": "2026-11-01T01:18Z"
   },
   {
    "name": "Gorax",
    "id": "UCNas7BnuOIjDEzY1D53kb1w",
    "enabled": true,
-   "checked": "2026-11-01T00:17Z"
+   "checked": "2026-11-01T01:18Z"
   },
   {
    "name": "Neff Gaming",
    "id": "UCsxs6YhNd_B36RgUAjbpJ_A",
    "enabled": true,
-   "checked": "2026-11-01T00:17Z"
+   "checked": "2026-11-01T01:18Z"
   },
   {
    "name": "Volkin Dragonheir",
    "id": "UCfRpOh_ywVjzhh9fxHbreGw",
    "enabled": true,
-   "checked": "2026-11-01T00:17Z"
+   "checked": "2026-11-01T01:18Z"
   },
   {
    "name": "Fastidious Dragonheir",
    "id": "UC16mpj5wEemSZX-uTlHe9Ww",
    "enabled": true,
-   "checked": "2026-11-01T00:17Z"
+   "checked": "2026-11-01T01:18Z"
   },
   {
    "name": "OddOneGaming RPGs",
    "id": "UC1ivUEf_poI9_R2eVKa8wRQ",
    "enabled": true,
-   "checked": "2026-11-01T00:17Z"
+   "checked": "2026-11-01T01:18Z"
   },
   {
    "name": "Suzi Plays",
    "id": "UCyo1-TkunhGcK6khU1h8Ypw",
    "enabled": true,
-   "checked": "2026-11-01T00:17Z"
+   "checked": "2026-11-01T01:18Z"
   },
   {
    "name": "Skyasterix Gaming",
    "id": "UCr5Gb3910rK7QPmKMmdagsA",
    "enabled": true,
-   "checked": "2026-11-01T00:17Z"
+   "checked": "2026-11-01T01:18Z"
   },
   {
    "name": "liveranov",
    "id": "UCqCR7ofFHhWwXy3Hg00fqEw",
    "enabled": true,
-   "checked": "2026-11-01T00:17Z"
+   "checked": "2026-11-01T01:18Z"
   }
  ]
 }

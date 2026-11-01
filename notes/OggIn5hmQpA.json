@@ -1,0 +1,90 @@
+{
+ "summary": "This video showcases high-performing Toxin team configurations against the endgame boss Mekkatorque in the Rasp of Gears event. Gorax demonstrates both high-inspiration and inspiration 0 setups, highlighting a primary Lothair team alongside a Child of Chaos alternative for players lacking Lothair. Detailed hero stat priorities, gear sets, stat-sharing synergies (Resistance, Accuracy, Attack), and precise ultimate skill timings are provided to achieve maximum damage.",
+ "topics": [
+  "Mekkatorque",
+  "Toxin Team",
+  "Rasp of Gears",
+  "Boss Guide",
+  "Skill Timings"
+ ],
+ "heroes": [
+  {
+   "name": "Lothair",
+   "verdict": "Top Toxin DPS",
+   "note": "Delivers immense single-target damage against Mekkatorque in fully optimized Toxin setups.",
+   "known": true
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "Core Toxin DPS",
+   "note": "Requires high Enlightenment, Attack, and Resistance; must have higher Enlightenment than Lothair to claim the Lava Batwing familiar buff.",
+   "known": true
+  },
+  {
+   "name": "Sleight",
+   "verdict": "Key Toxin Buffer",
+   "note": "Equipped with Shell of Gilded Doom artifact and high Attack to share stats via Everburning Netherfire gear.",
+   "known": true
+  },
+  {
+   "name": "Twitch",
+   "verdict": "Accuracy & Defense Penalty Support",
+   "note": "Built with Misty Conch for Defense Penalty and max Accuracy to share with teammates via the Bone Resonance set.",
+   "known": true
+  },
+  {
+   "name": "Blah Blah",
+   "verdict": "Haste & Resistance Support",
+   "note": "Built with Haste gear and high Resistance to share 20% Resistance with adjacent allies via Stand United.",
+   "known": true
+  },
+  {
+   "name": "Child of Chaos",
+   "verdict": "Best Lothair Substitute",
+   "note": "Provides Control Immunity and Ethereal team buffs, allowing teams to survive and deal heavy damage without Lothair.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Mekkatorque Boss",
+   "heroes": [
+    "Lothair",
+    "Serpentemis",
+    "Sleight",
+    "Twitch",
+    "Blah Blah"
+   ],
+   "note": "Primary Toxin team capable of reaching billions in damage against Mekkatorque."
+  },
+  {
+   "mode": "Mekkatorque Boss",
+   "heroes": [
+    "Child of Chaos",
+    "Serpentemis",
+    "Sleight",
+    "Twitch",
+    "Blah Blah"
+   ],
+   "note": "Budget/alternative Toxin team substituting Lothair with Child of Chaos for superior team survival."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Ensure Serpentemis has higher Enlightenment than Lothair so the Lava Batwing familiar buff targets her.",
+  "Stack maximum Accuracy on Twitch so he triggers the Bone Resonance set and shares Accuracy with the rest of the team.",
+  "Build high Resistance on Blah Blah to share 20% of his Resistance with adjacent allies via Stand United.",
+  "Use standard initial skill timings (Twitch 12.0s, Serpentemis ~9.4s, Sleight ~11.8s, Blah Blah ~12.2s) and let recasts remain on default."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "OggIn5hmQpA",
+ "model": "gemini-3.5-flash",
+ "channel": "Gorax",
+ "title": "Best Toxin Team vs Mekkatorque | Rasp of Gears S8 | Dragonheir x Dragonstride",
+ "published": "2026-10-14T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=OggIn5hmQpA",
+ "short": false,
+ "summarized": "2026-11-01T01:20Z"
+}

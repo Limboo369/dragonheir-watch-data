@@ -1,0 +1,45 @@
+{
+ "summary": "Neff Gaming pulls 950 Heliolite Dice on the Wish Banner with the main goal of upgrading Sleight to Inspiration 5. He selects Sleight for his 300-summon milestone reward and chooses Aethereal at the 800-summon milestone to fill a missing slot needed for endgame boss content. Over 950 pulls across two days, he summons multiple Legendaries including Vicana, Hochadir, Lossenia, Aethereal, and an extra Sleight at 950 pulls, successfully reaching Inspiration 5 for Sleight.",
+ "topics": [
+  "Wish Banner",
+  "Summons",
+  "Inspiration",
+  "Heliolite Dice"
+ ],
+ "heroes": [
+  {
+   "name": "Sleight",
+   "verdict": "High priority for I5",
+   "note": "A core Poison hero that the creator spent 950 dice to upgrade from Inspiration 3 to Inspiration 5.",
+   "known": true
+  },
+  {
+   "name": "Aethereal",
+   "verdict": "Key endgame hero",
+   "note": "Selected at the 800 wish banner milestone because she is needed for endgame boss fights.",
+   "known": true
+  },
+  {
+   "name": "Vicana",
+   "verdict": "Outdated / Niche",
+   "note": "Was top tier against Season 2 endgame boss Mekkatorque, but is less useful in the current meta.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [],
+ "tips": [
+  "Plan Wish Banner milestones strategically to secure missing core legendaries at 800 pulls or reach critical Inspiration milestones like Sleight I5."
+ ],
+ "season": "S9",
+ "server_scope": "mixed",
+ "value": "medium",
+ "id": "RIMqZDo7CUU",
+ "model": "gemini-3.5-flash",
+ "channel": "Neff Gaming",
+ "title": "950 Dice and a Ton of Luck! Wish Banner Summons | Dragonheir: Silent Gods",
+ "published": "2026-10-14T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=RIMqZDo7CUU",
+ "short": false,
+ "summarized": "2026-11-01T01:20Z"
+}

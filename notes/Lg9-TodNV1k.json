@@ -1,0 +1,87 @@
+{
+ "summary": "Gorax presents a top-performing Ice Blast team composition for the Season 8 boss Mekkatorque in Dragonheir: Silent Gods. The team relies on Beldelle as the main DPS, supported by Ernesto, Fredegonda, Shinnah, and Anselmo. This setup deals over 600 million damage at Inspiration 0 and scales up to 1.78 billion damage with higher Inspirations. The video details stat priorities, itemization, spatial positioning, skill timing setups, and budget hero substitutes like Felosia and Feenja.",
+ "topics": [
+  "Mekkatorque",
+  "Ice Blast",
+  "Season 8",
+  "Boss Strategy",
+  "Team Build"
+ ],
+ "heroes": [
+  {
+   "name": "Beldelle",
+   "verdict": "Primary Ice Blast DPS",
+   "note": "Stack as much Attack and Crit Rate as possible; Crit Damage can be skipped unless positive runes have exceptional offensive sub-stats.",
+   "known": true
+  },
+  {
+   "name": "Shinnah",
+   "verdict": "Debuffer & Ice Blast enabler",
+   "note": "Applies Witches Remain and requires high Accuracy; ensure her Attack stat remains lower than Beldelle's.",
+   "known": true
+  },
+  {
+   "name": "Ernesto",
+   "verdict": "Core Ice Blast buffer & shielder",
+   "note": "Buffs Beldelle and grants team shields to ensure survival; prioritize Skill Haste, Attack, and defensive stats.",
+   "known": true
+  },
+  {
+   "name": "Fredegonda",
+   "verdict": "Support DPS for Ice Blast",
+   "note": "Build with high Crit Rate and Crit Damage; her passive buffs the Ice Blast ally placed directly in front of her.",
+   "known": true
+  },
+  {
+   "name": "Anselmo",
+   "verdict": "Debuffer & utility tank",
+   "note": "Requires high Skill Haste, Accuracy, and Defense; equipped with Conflagration of Bones set to inflict additional Bleed debuffs.",
+   "known": true
+  },
+  {
+   "name": "Felosia",
+   "verdict": "Budget substitute for Anselmo",
+   "note": "Can directly replace Anselmo in the Ice Blast rotation if Anselmo is not available.",
+   "known": true
+  },
+  {
+   "name": "Feenja",
+   "verdict": "Alternative resistance support",
+   "note": "Can be slotted into the team when building for high Resistance strategy against boss mechanics.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Mekkatorque (Season 8 Boss)",
+   "heroes": [
+    "Ernesto",
+    "Beldelle",
+    "Shinnah",
+    "Fredegonda",
+    "Anselmo"
+   ],
+   "note": "Top single-target Ice Blast team achieving up to 1.78B damage with high Inspiration and over 600M at Inspiration 0. Position Beldelle in front of Fredegonda."
+  }
+ ],
+ "meta_changes": [
+  "Single-target Ice Blast teams are top-tier damage competitors against Season 8 Mekkatorque boss, proving viable even at zero Inspiration."
+ ],
+ "tips": [
+  "Always position Beldelle directly in front of Fredegonda so Fredegonda's passive ice crystal buffs apply to Beldelle.",
+  "Keep Shinnah's total Attack lower than Beldelle's so attack buffs go to the correct main carry.",
+  "Set ultimate timing to Fredegonda at 12.0s, Beldelle at 12.2s, and Shinnah at 16.0s, leaving Ernesto and Anselmo on Default.",
+  "If missing Anselmo, replace him with Felosia and move Fredegonda forward in the formation."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "Lg9-TodNV1k",
+ "model": "gemini-3.5-flash",
+ "channel": "Gorax",
+ "title": "Best Ice Blast Team vs Mekkatorque | Rasp of Gears S8 | Dragonheir x Dragonstride",
+ "published": "2026-10-14T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=Lg9-TodNV1k",
+ "short": false,
+ "summarized": "2026-11-01T01:20Z"
+}

@@ -1,0 +1,99 @@
+{
+ "summary": "This video breaks down the best hero picks for the Wish Summon banner in Dragonheir: Silent Gods. It evaluates choices for both new players and free-to-play veterans based on current endgame boss performance on global servers. Aura and Toxin teams dominate the top damage leaderboards, with Serpentemis and Talethia standing out as top exclusive hero picks. Players are advised to plan their dice usage around upcoming banners like Anneliesis in November to maximize team synergy.",
+ "topics": [
+  "Wish Summons",
+  "Banners",
+  "Endgame Boss",
+  "Aura Team",
+  "Toxin Team"
+ ],
+ "heroes": [
+  {
+   "name": "Talethia",
+   "verdict": "Top Pick",
+   "note": "Essential core DPS for Aura teams; scales immensely with inspirations up to 2.8B+ damage on endgame bosses.",
+   "known": true
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "Top Pick",
+   "note": "Extremely solid exclusive hero capable of clearing pretty much all content easily and dealing 1.2B+ damage.",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "Must-have Aura Support",
+   "note": "Key support for the Aura team whose analysis banner is expected in November.",
+   "known": true
+  },
+  {
+   "name": "Lincos",
+   "verdict": "Core Aura Pick",
+   "note": "Mandatory Aura damage dealer until replaced by upcoming new season Aura heroes.",
+   "known": true
+  },
+  {
+   "name": "Diantha",
+   "verdict": "Core Aura Pick",
+   "note": "Mandatory non-exclusive pick to complete early Aura team setups.",
+   "known": true
+  },
+  {
+   "name": "Acilia",
+   "verdict": "High Priority Support",
+   "note": "Hard-to-get support hero worth selecting if key DPS heroes are already owned.",
+   "known": true
+  },
+  {
+   "name": "Phaessa",
+   "verdict": "High Priority Support",
+   "note": "Rare support option recommended for filling non-exclusive hero slots.",
+   "known": true
+  },
+  {
+   "name": "Oggok",
+   "verdict": "Recommended Support",
+   "note": "Solid support choice for Toxin or general teams if not already in your roster.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Endgame Boss",
+   "heroes": [
+    "Talethia",
+    "Lincos",
+    "Diantha",
+    "Child of Chaos"
+   ],
+   "note": "High-performing Aura team capable of 776M damage at I0/I1 and up to 2.88B at high inspirations."
+  },
+  {
+   "mode": "Endgame Boss",
+   "heroes": [
+    "Serpentemis"
+   ],
+   "note": "Reliable damage team capable of outputting over 1.2B damage."
+  }
+ ],
+ "meta_changes": [
+  "Aura teams are currently rivaling Toxin teams for second-highest endgame boss damage output.",
+  "Toxin teams at high inspiration still hold the top endgame boss damage spot at over 6B total damage."
+ ],
+ "tips": [
+  "If saving 300 dice and sure you can get Anneliesis in November, lock in Talethia now for your Aura core.",
+  "Pair Talethia with Serpentemis in your exclusive slots so your pool only contains these two top-tier exclusive heroes.",
+  "Utilize buff-buff links during recharge to maximize dice value and save money on top-ups."
+ ],
+ "season": "S9",
+ "server_scope": "mixed",
+ "value": "high",
+ "id": "ZQS3vb4JuWU",
+ "model": "gemini-3.5-flash",
+ "channel": "Gorax",
+ "title": "Who Should You Pick in Wish Summons? My Current Recommendations | Dragonheir x Dragonstride",
+ "published": "2026-10-14T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=ZQS3vb4JuWU",
+ "short": false,
+ "summarized": "2026-11-01T01:18Z"
+}
