@@ -1,6 +1,6 @@
 {
- "built": "2026-11-01T04:49Z",
- "last_fetch": "2026-11-01T04:18Z",
+ "built": "2026-11-01T05:19Z",
+ "last_fetch": "2026-11-01T05:18Z",
  "counts": {
   "summarized": 149,
   "skipped_giveaway": 17,
@@ -61,11 +61,6 @@
   "quota_hit": 1793506753.3195076
  },
  "log_tail": [
-  "saved Z4SDepe8od0",
-  "+ Skratch Gaming: The SERVER TRANSFER Feature Is Not Good Enough! Dragonheir: ",
-  "… Fastidious Dragonheir: GREATEST PULL RATES of ALL-TIME? I got 16 legendaries on my ",
-  "saved Lg9-TodNV1k",
-  "+ Gorax: Best Ice Blast Team vs Mekkatorque | Rasp of Gears S8 | Drag",
   "saved Q4tRdkMQIlo",
   "+ Gorax: Best Thunderbolt Team vs Mekkatorque | Rasp of Gears S8 | Dr",
   "saved RIMqZDo7CUU",
@@ -140,6 +135,11 @@
   "  gemini-3.5-flash: 429, using gemini-3.7-flash",
   "  gemini-3.7-flash: 429, using gemini-3.6-flash",
   "! WE NEED MORE CHANGES!! The Gear Drops Are Still No: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 149 videos, 145 heroes",
+  "== 2026-11-01 05:17",
+  "fetch done: 0 new transcripts, 0 not available yet",
+  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
+  "Gemini quota was full less than an hour ago, trying again next round",
   "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 149 videos, 145 heroes"
  ],
  "crontab": [],
@@ -148,55 +148,55 @@
    "name": "Skratch Gaming",
    "id": "UCoSkzr1pXpt3d0jIxsc6ufw",
    "enabled": true,
-   "checked": "2026-11-01T04:17Z"
+   "checked": "2026-11-01T05:18Z"
   },
   {
    "name": "Gorax",
    "id": "UCNas7BnuOIjDEzY1D53kb1w",
    "enabled": true,
-   "checked": "2026-11-01T04:17Z"
+   "checked": "2026-11-01T05:18Z"
   },
   {
    "name": "Neff Gaming",
    "id": "UCsxs6YhNd_B36RgUAjbpJ_A",
    "enabled": true,
-   "checked": "2026-11-01T04:17Z"
+   "checked": "2026-11-01T05:18Z"
   },
   {
    "name": "Volkin Dragonheir",
    "id": "UCfRpOh_ywVjzhh9fxHbreGw",
    "enabled": true,
-   "checked": "2026-11-01T04:17Z"
+   "checked": "2026-11-01T05:18Z"
   },
   {
    "name": "Fastidious Dragonheir",
    "id": "UC16mpj5wEemSZX-uTlHe9Ww",
    "enabled": true,
-   "checked": "2026-11-01T04:17Z"
+   "checked": "2026-11-01T05:18Z"
   },
   {
    "name": "OddOneGaming RPGs",
    "id": "UC1ivUEf_poI9_R2eVKa8wRQ",
    "enabled": true,
-   "checked": "2026-11-01T04:17Z"
+   "checked": "2026-11-01T05:18Z"
   },
   {
    "name": "Suzi Plays",
    "id": "UCyo1-TkunhGcK6khU1h8Ypw",
    "enabled": true,
-   "checked": "2026-11-01T04:17Z"
+   "checked": "2026-11-01T05:18Z"
   },
   {
    "name": "Skyasterix Gaming",
    "id": "UCr5Gb3910rK7QPmKMmdagsA",
    "enabled": true,
-   "checked": "2026-11-01T04:17Z"
+   "checked": "2026-11-01T05:18Z"
   },
   {
    "name": "liveranov",
    "id": "UCqCR7ofFHhWwXy3Hg00fqEw",
    "enabled": true,
-   "checked": "2026-11-01T04:18Z"
+   "checked": "2026-11-01T05:18Z"
   }
  ]
 }
