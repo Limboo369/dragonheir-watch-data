@@ -1,0 +1,65 @@
+{
+ "summary": "This video features an in-depth breakdown of the premium legendary hero Elecebre alongside a 300-pull summoning session on her dedicated banner. Elecebre is highlighted as a top-tier crowd control support featuring AoE Charm, ultimate meter drain, team defensive buffs, and a passive that matches her Resistance to her Accuracy. Her exclusive artifact, Beguiling Circlet, is analyzed as best-in-slot for granting extensive damage mitigation via Aegis stacks. Brief commentary is also provided for other legendary supports pulled during the session, including Talwer, Oggok, Ripekas, Donella, and Solmo.",
+ "topics": [
+  "Elecebre",
+  "Hero Review",
+  "Summoning",
+  "Artifacts",
+  "Crowd Control"
+ ],
+ "heroes": [
+  {
+   "name": "Elecebre",
+   "verdict": "Top-tier premium CC support",
+   "note": "Provides AoE Charm to turn enemies against each other, 50% ultimate gauge reduction, team healing/defense buffs, start-of-battle Blind, and automatically scales Resistance to match Accuracy.",
+   "known": true
+  },
+  {
+   "name": "Talwer",
+   "verdict": "Strong Poison control debuffer",
+   "note": "Brings extensive utility including Accuracy Penalty, Attack Penalty, Heal Reduction, Taunt, and Stuns.",
+   "known": true
+  },
+  {
+   "name": "Oggok",
+   "verdict": "High-value Poison support",
+   "note": "Summons a totem granting allies temporary immortality (immunity to death) alongside solid healing and Attack Penalty II.",
+   "known": true
+  },
+  {
+   "name": "Ripekas",
+   "verdict": "Solid Necrotic control support",
+   "note": "Deals AoE Knock-Up and Stun while decreasing ultimate energy and inflicting random debuffs.",
+   "known": true
+  },
+  {
+   "name": "Donella",
+   "verdict": "Good Radiant debuffer and disabler",
+   "note": "Inflicts Stun, Accuracy Penalty, Attack Penalty, and passive Heal Prohibition.",
+   "known": true
+  },
+  {
+   "name": "Solmo",
+   "verdict": "Versatile Radiant shielder",
+   "note": "Grants team shields, Debuff Immunity, Defense Up, and boosts ally Enlightenment and Max HP through Tempered stacks.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [],
+ "tips": [
+  "Building Accuracy on Elecebre simultaneously builds her Resistance thanks to her Blinding Beauty passive equalizer.",
+  "Prioritize getting Elecebre's exclusive artifact, Beguiling Circlet, because it applies Aegis (70% damage reduction) to low-health allies when she lands CC."
+ ],
+ "season": "unknown",
+ "server_scope": "mixed",
+ "value": "medium",
+ "id": "8DjovIyXzCw",
+ "model": "gemini-3.8-flash",
+ "channel": "Fastidious Dragonheir",
+ "title": "GOD-TIER RATES! Huge Pulls for Elecebre + DARK LADY STATUE WINNER! ⁂ Dragonheir: Silent Gods",
+ "published": "2026-10-14T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=8DjovIyXzCw",
+ "short": false,
+ "summarized": "2026-11-01T06:20Z"
+}

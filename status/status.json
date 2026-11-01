@@ -2,27 +2,15 @@
  "built": "2026-11-01T06:20Z",
  "last_fetch": "2026-11-01T06:18Z",
  "counts": {
-  "summarized": 150,
+  "summarized": 152,
   "skipped_giveaway": 17,
-  "retry": 5,
   "baseline": 22,
   "new": 431,
   "skipped_live": 1,
-  "failed": 1
+  "failed": 1,
+  "retry": 3
  },
  "problems": [
-  {
-   "title": "FROST Vs. MEKKATORQUE! Endgame Boss Guide Dragonheir: Silent Gods x Dragonstride",
-   "channel": "Skratch Gaming",
-   "status": "retry",
-   "error": ""
-  },
-  {
-   "title": "GOD-TIER RATES! Huge Pulls for Elecebre + DARK LADY STATUE WINNER! ⁂ Dragonheir: Silent Gods",
-   "channel": "Fastidious Dragonheir",
-   "status": "retry",
-   "error": ""
-  },
   {
    "title": "Season 9 NEW INFO: 2 Free Heroes, New Affinities & Selectable Banner! | Dragonheir: Silent Gods",
    "channel": "liveranov",
@@ -55,10 +43,6 @@
   "quota_hit": 1793513949.9802036
  },
  "log_tail": [
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "… liveranov: Dauntless vs Mekkatorque (Phase 1) | Endgame Boss | Season 8",
-  "… Suzi Plays: How Do Server Transfers Work? ✅ Full Process Shown 🔥 Dragonh",
-  "… Gorax: Best Dauntless Team vs Mekkatorque | Rasp of Gears S8 | Drag",
   "… Skratch Gaming: WE NEED MORE CHANGES!! The Gear Drops Are Still Not Good Eno",
   "  gemini-3.8-flash: 429, using gemini-3.5-flash",
   "  gemini-3.8-flash: 429, using gemini-3.5-flash",
@@ -134,7 +118,11 @@
   "+ OddOneGaming RPGs: ⛔ DON'T FORGET THIS! ⛔ Piece Of Treasury 2 S8 BEST Choice An",
   "  gemini-3.5-flash: 429, using gemini-3.7-flash",
   "  gemini-3.7-flash: 429, using gemini-3.6-flash",
-  "! WE NEED MORE CHANGES!! The Gear Drops Are Still No: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google."
+  "! WE NEED MORE CHANGES!! The Gear Drops Are Still No: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "saved 8DjovIyXzCw",
+  "+ Fastidious Dragonheir: GOD-TIER RATES! Huge Pulls for Elecebre + DARK LADY STATUE W",
+  "saved AlyVJMw1LyU",
+  "+ Skratch Gaming: FROST Vs. MEKKATORQUE! Endgame Boss Guide Dragonheir: Silent"
  ],
  "crontab": [],
  "channels": [

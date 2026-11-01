@@ -1,0 +1,104 @@
+{
+ "summary": "This guide showcases an endgame Frost team achieving over 1.1 billion damage against the Mekkatorque boss in Rasp of Gears. Aethereal functions as the primary carry, responsible for nearly all of the team's total damage output through stacked Attack and Enlightenment. The support core consists of Feenja for healing and buffs, Vinyara for dispels and energy generation via the Puppeteer set, Lossenia for Defense Down, and Hvitar for derivative damage synergy. For players lacking Hvitar, Durango can act as a viable derivative damage substitute to reach around 900 million damage. The creator also stresses synchronizing all ultimate recast timers to a strict 15-second cycle and gearing for high Resistance.",
+ "topics": [
+  "Mekkatorque",
+  "Rasp of Gears",
+  "Frost Team",
+  "Endgame Boss",
+  "Gear Builds",
+  "Skill Timing"
+ ],
+ "heroes": [
+  {
+   "name": "Aethereal",
+   "verdict": "Essential top-tier DPS",
+   "note": "Deals virtually all the team's damage; requires high Attack, high Enlightenment, and enough Skill Haste to prevent skill desyncing.",
+   "known": true
+  },
+  {
+   "name": "Hvitar",
+   "verdict": "Core Frost enabler",
+   "note": "Provides derivative damage amplification and attack sharing with Aethereal using the Death Record gear piece.",
+   "known": true
+  },
+  {
+   "name": "Lossenia",
+   "verdict": "Key debuffer / sub-DPS",
+   "note": "Applies Defense Down and Frost, but can alternately be built for pure damage if another hero provides Defense Down.",
+   "known": true
+  },
+  {
+   "name": "Vinyara",
+   "verdict": "Top support / debuffer",
+   "note": "Dispels boss buffs, reduces boss ultimate energy, and supplies team energy using the Puppeteer set.",
+   "known": true
+  },
+  {
+   "name": "Feenja",
+   "verdict": "Essential support healer",
+   "note": "Requires 70+ Skill Haste to maintain a 15-second ultimate cycle while providing vital sustain and shields.",
+   "known": true
+  },
+  {
+   "name": "Durango",
+   "verdict": "Viable Hvitar substitute",
+   "note": "Brings derivative poison damage, debuffs, and fast ultimate recharge to hit roughly 900M team damage.",
+   "known": true
+  },
+  {
+   "name": "Olgan",
+   "verdict": "Alternative buffer",
+   "note": "Can boost team attack if building Lossenia as the main damage dealer instead of Aethereal.",
+   "known": true
+  },
+  {
+   "name": "Lelwanis",
+   "verdict": "Alternative Frost debuffer",
+   "note": "Can provide Frost stacks and support if Lossenia is shifted into a pure damage build.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Endgame Boss (Rasp of Gears / Mekkatorque)",
+   "heroes": [
+    "Aethereal",
+    "Hvitar",
+    "Lossenia",
+    "Vinyara",
+    "Feenja"
+   ],
+   "note": "Top-performing Frost setup hitting 1.1B+ damage; requires high team Resistance and synchronized 15-second ultimate recasts."
+  },
+  {
+   "mode": "Endgame Boss (Rasp of Gears / Mekkatorque)",
+   "heroes": [
+    "Aethereal",
+    "Durango",
+    "Lossenia",
+    "Vinyara",
+    "Feenja"
+   ],
+   "note": "Budget derivative alternative substituting Hvitar with Durango; capable of reaching around 900M damage."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Tune all heroes in the Frost team to a strict 15-second recast cycle for ultimates to keep buffs, debuffs, and damage phases perfectly synchronized.",
+  "Prioritize Resistance across all heroes to prevent the boss from landing attack reduction and crippling debuffs.",
+  "Ensure Aethereal has sufficient Skill Haste in addition to Attack and Enlightenment so she does not desync from the team rotation.",
+  "Do not build a dedicated Frost endgame team without Aethereal unless you are prepared for significantly lower total damage.",
+  "Remember to forge and claim upgraded mythic armor pieces from the treasury furnace before submitting and saving your daily boss challenge attempts."
+ ],
+ "season": "unknown",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "AlyVJMw1LyU",
+ "model": "gemini-3.8-flash",
+ "channel": "Skratch Gaming",
+ "title": "FROST Vs. MEKKATORQUE! Endgame Boss Guide Dragonheir: Silent Gods x Dragonstride",
+ "published": "2026-10-14T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=AlyVJMw1LyU",
+ "short": false,
+ "summarized": "2026-11-01T06:20Z"
+}
