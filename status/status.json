@@ -1,5 +1,5 @@
 {
- "built": "2026-11-01T14:56Z",
+ "built": "2026-11-01T15:27Z",
  "last_fetch": "2026-11-01T14:17Z",
  "counts": {
   "summarized": 153,
@@ -43,7 +43,6 @@
   "quota_hit": 1793513949.9802036
  },
  "log_tail": [
-  "! FROST Vs. MEKKATORQUE! Endgame Boss Guide Dragonhe: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
   "… Gorax: Best Corrosion Team vs Mekkatorque | Rasp of Gears S8 | Drag",
   "! GOD-TIER RATES! Huge Pulls for Elecebre + DARK LAD: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
   "… liveranov: Toxin vs Mekkatorque (Phase 1) | Endgame Boss | Season 8 | D",
@@ -122,7 +121,8 @@
   "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "daily video budget used (444 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 153 videos, 148 heroes"
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 153 videos, 148 heroes",
+  "/bin/bash: line 1: /root/ytwatch/run.sh: Permission denied"
  ],
  "crontab": [],
  "channels": [
