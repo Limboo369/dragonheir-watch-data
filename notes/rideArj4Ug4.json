@@ -1,0 +1,70 @@
+{
+ "summary": "This video showcases an endgame Aura element team competing in Crisis Rally against Chaos Hunter (Area Boss 1). The team achieves a total damage score of 14,257,940,956. Detailed equipment builds, stats, and skill timings are displayed at the end of the video to help players replicate the setup.",
+ "topics": [
+  "Crisis Rally",
+  "Chaos Hunter",
+  "Aura",
+  "Area Boss 1"
+ ],
+ "heroes": [
+  {
+   "name": "Talethia",
+   "verdict": "Top Aura DPS",
+   "note": "Deals 47.9% of total team damage against Chaos Hunter with optimal skill timing.",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "Core Aura DPS",
+   "note": "Contributes 26.1% of team damage using default skill timing settings.",
+   "known": true
+  },
+  {
+   "name": "Diantha",
+   "verdict": "Core Aura DPS",
+   "note": "Accounts for 21.6% of overall damage in the Aura boss showcase.",
+   "known": true
+  },
+  {
+   "name": "Mithrasea",
+   "verdict": "Core Support/Healer",
+   "note": "Provides team sustain and resurrection utility to keep the team alive through full battle duration.",
+   "known": true
+  },
+  {
+   "name": "Lincos",
+   "verdict": "Core Support",
+   "note": "Buffers team skill rotation and utility to maximize Aura synergy.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Crisis Rally - Chaos Hunter",
+   "heroes": [
+    "Talethia",
+    "Anneliesis",
+    "Diantha",
+    "Mithrasea",
+    "Lincos"
+   ],
+   "note": "Achieved 14.25B total damage against 300 Chaos Hunter with synchronized ultimate timings."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Set ultimate recast times to 18.0s for Talethia, Diantha, Mithrasea, and Lincos to maintain aura rotation alignment.",
+  "Tune first cast timings: Diantha at 12.0s, Lincos at 14.0s, Talethia at 14.1s, and Mithrasea at 17.5s."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "rideArj4Ug4",
+ "model": "gemini-3.5-flash",
+ "channel": "liveranov",
+ "title": "Aura vs Chaos Hunter (Area Boss 1) | Crisis Rally | Season 8 | Dragonheir",
+ "published": "2026-10-07T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=rideArj4Ug4",
+ "short": false,
+ "summarized": "2026-11-02T01:20Z"
+}

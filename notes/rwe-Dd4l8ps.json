@@ -1,0 +1,67 @@
+{
+ "summary": "This video showcases a full Toxin element team fighting Level 300 Queen of Blasphemy (Area Boss 4) in the Crisis Rally event. The lineup consisting of Serpentemis, Sleight, Reytah, Sacredeia, and Twitch reached S-rank with a total damage score of 4,853,169,208. Sacredeia and Reytah dominated the damage charts, producing over 2.0 billion and 1.75 billion damage respectively. Full equipment, stats, and artifact loadouts for all five heroes are displayed at the end of the run.",
+ "topics": [
+  "Crisis Rally",
+  "Queen of Blasphemy",
+  "Toxin Team",
+  "Area Boss"
+ ],
+ "heroes": [
+  {
+   "name": "Sacredeia",
+   "verdict": "Primary DPS for Crisis Rally Area Boss 4",
+   "note": "Dealt over 2 billion damage (41.3% of team total) against Queen of Blasphemy.",
+   "known": true
+  },
+  {
+   "name": "Reytah",
+   "verdict": "Secondary DPS for Crisis Rally Area Boss 4",
+   "note": "Dealt 1.75 billion damage (36.1% of team total) in the Toxin Crisis Rally team.",
+   "known": true
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "Key Toxin team member for Queen of Blasphemy",
+   "note": "Provided core utility and over 405 million damage (8.4% of team total).",
+   "known": true
+  },
+  {
+   "name": "Twitch",
+   "verdict": "Solid Toxin enabler for Crisis Rally",
+   "note": "Contributed over 380 million damage (7.8% of team total).",
+   "known": true
+  },
+  {
+   "name": "Sleight",
+   "verdict": "Support/DPS in Toxin Crisis Rally lineup",
+   "note": "Dealt over 310 million damage (6.4% of team total) to help achieve S-rank.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Crisis Rally - Queen of Blasphemy (Area Boss 4)",
+   "heroes": [
+    "Serpentemis",
+    "Sleight",
+    "Reytah",
+    "Sacredeia",
+    "Twitch"
+   ],
+   "note": "Achieved 4.85 billion total damage (S rank) using full auto timing with a pure Toxin element lineup."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [],
+ "season": "Season 8",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "rwe-Dd4l8ps",
+ "model": "gemini-3.5-flash",
+ "channel": "liveranov",
+ "title": "Toxin vs Queen of Blasphemy (Area Boss 4) | Crisis Rally | Season 8 | Dragonheir",
+ "published": "2026-10-07T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=rwe-Dd4l8ps",
+ "short": false,
+ "summarized": "2026-11-02T01:20Z"
+}

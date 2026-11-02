@@ -1,0 +1,84 @@
+{
+ "summary": "This guide explains which equipment pieces and stats to choose in the Piece of Treasury event's Furnace. Players should skip helmets and weapons, focusing instead on either Chest armor or Gloves. For Enlightenment-focused damage dealers like Serpentemis, crafting a chest piece with Enlightenment main stat from the Strike the Unprepared set is recommended. For crit-scaling damage teams like Dauntless, Summons, Rally, or Aura, crafting Crit Damage gloves with ATK% and Crit Rate sub-stats provides high universal value. Players are also advised to hoard stamina bread until the Continental Challenge event opens, as it offers increased dungeon drop rates.",
+ "topics": [
+  "Piece of Treasury",
+  "Equipment Crafting",
+  "Furnace",
+  "Serpentemis",
+  "Gear Guide"
+ ],
+ "heroes": [
+  {
+   "name": "Serpentemis",
+   "verdict": "Craft Enlightenment Chest",
+   "note": "Build with Enlightenment primary stat chest from the Strike the Unprepared set, aiming for ATK% and Accuracy sub-stats.",
+   "known": true
+  },
+  {
+   "name": "Guinevere",
+   "verdict": "Craft Crit Damage Gloves",
+   "note": "Benefits from Crit Damage primary gloves with ATK% and Crit Rate secondary stats.",
+   "known": false
+  },
+  {
+   "name": "Rook",
+   "verdict": "Craft Crit Damage Gloves",
+   "note": "Requires Crit Damage gloves to maximize damage output.",
+   "known": true
+  },
+  {
+   "name": "Lelwanis",
+   "verdict": "Craft Crit Damage Gloves",
+   "note": "Does not require Accuracy; benefits from Crit Damage gloves with ATK% and Crit Rate.",
+   "known": true
+  },
+  {
+   "name": "Beldelle",
+   "verdict": "Craft Crit Rate Gloves",
+   "note": "Scales directly with Crit Rate, making Crit Rate primary gloves ideal.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Enlightenment / Poison",
+   "heroes": [
+    "Serpentemis"
+   ],
+   "note": "Focus on Enlightenment main stat chest armor with ATK% and Accuracy secondary stats."
+  },
+  {
+   "mode": "Dauntless / Summons / Rally / Aura",
+   "heroes": [
+    "Guinevere",
+    "Rook",
+    "Lelwanis"
+   ],
+   "note": "Focus on Crit Damage gloves with ATK% and Crit Rate secondary stats for broad utility."
+  },
+  {
+   "mode": "Ice Blast",
+   "heroes": [
+    "Beldelle"
+   ],
+   "note": "Focus on Crit Rate primary gloves with ATK% and Crit Damage secondary stats."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Never craft helmets or weapons in the Piece of Treasury Furnace; always pick Chest or Gloves for maximum stat value.",
+  "Pick Strike the Unprepared set for chest pieces to maximize damage against targets under Defense Penalty.",
+  "Save stamina bread until Continental Challenge (Imperial Shadow Recast) unlocks at mid-season due to increased equipment drop rates."
+ ],
+ "season": "S1",
+ "server_scope": "S1",
+ "value": "high",
+ "id": "z3tO57-B6Gs",
+ "model": "gemini-3.5-flash",
+ "channel": "Gorax",
+ "title": "What Should You Craft in Piece of Treasury? | DragonHeir x Dragonstride",
+ "published": "2026-10-07T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=z3tO57-B6Gs",
+ "short": false,
+ "summarized": "2026-11-02T01:20Z"
+}

@@ -1,0 +1,71 @@
+{
+ "summary": "Skratch pulls on the final custom wishlist banner of Season 8 and advises players on whether it is worth their resources. He strongly recommends that free-to-play and low-spending players skip this banner entirely to save dice for Season 9 and the upcoming Anneliesis banner expected in December. He explains that this banner lacks the usual 30-dice rebate at 270 summons, making reaching the 300-summon milestone costly. As a high spender chasing Inspiration 5 for Serpentemis, he pulls to pity at 300 summons, acquiring copies of Vicana, Twitch, Durango, and multiple copies of Stegamoffyn along the way.",
+ "topics": [
+  "banners",
+  "summons",
+  "resource management",
+  "wishlist banner"
+ ],
+ "heroes": [
+  {
+   "name": "Serpentemis",
+   "verdict": "Whale priority for Inspiration 5",
+   "note": "A top-tier damage dealer whose extra inspirations are vital for high-end competitive play, but too expensive for F2P to chase.",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "Must-save priority",
+   "note": "Considered vastly more important than standard banner heroes, with an unconfirmed banner expected around December.",
+   "known": true
+  },
+  {
+   "name": "Durango",
+   "verdict": "Very good for Poison speed runs",
+   "note": "A strong pickup for Poison team speed farming if a player does not already own him.",
+   "known": true
+  },
+  {
+   "name": "Twitch",
+   "verdict": "Solid Poison team option",
+   "note": "A very capable Poison archetype unit worth having if missing from your roster.",
+   "known": true
+  },
+  {
+   "name": "Stegamoffyn",
+   "verdict": "Decent DPS when inspired",
+   "note": "A legendary damage dealer who benefits heavily from full inspiration levels.",
+   "known": true
+  },
+  {
+   "name": "Vicana",
+   "verdict": "Niche boss DPS",
+   "note": "Previously very strong against the Season 2 endgame boss, but generally lower priority now.",
+   "known": true
+  },
+  {
+   "name": "Szecedith",
+   "verdict": "Future investment option",
+   "note": "Mentioned as an option because she is slated to receive an exclusive artifact in the future.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [],
+ "tips": [
+  "F2P and low spenders should skip end-of-season wishlist banners and hoard summons for Season 9 and Anneliesis.",
+  "This wishlist banner format does not grant the 30 bonus dice rebate at 270 pulls, requiring a full 300 summons to guarantee the first milestone.",
+  "Never pull on milestone banners unless you possess enough dice to reach the guaranteed 300-pull mark, as early legendary drops cannot be relied on."
+ ],
+ "season": "S8",
+ "server_scope": "mixed",
+ "value": "low",
+ "id": "21_BZz5E0XM",
+ "model": "gemini-3.8-flash",
+ "channel": "Skratch Gaming",
+ "title": "I PULLED On The New Banner! Should You?? Dragonheir: Silent Gods x Dragonstride",
+ "published": "2026-10-14T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=21_BZz5E0XM",
+ "short": false,
+ "summarized": "2026-11-02T01:20Z"
+}

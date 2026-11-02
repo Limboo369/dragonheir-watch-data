@@ -1,0 +1,92 @@
+{
+ "summary": "This guide covers the optimal Corrosion team setup for the Season 8 endgame boss Mekkatorque. The core composition features Rook, Szecedith, Sacredeia, Reytah, and Whisk, capable of dealing over 1 billion damage at high inspiration and over 400 million at Inspiration 0. Build requirements are heavily dependent on min-maxed Crit stats, Skill Haste on Rook, and high HP on Reytah following her talent change. Players struggling to survive at low inspiration can swap Whisk for Child of Chaos to stabilize the run.",
+ "topics": [
+  "Mekkatorque",
+  "Corrosion Team",
+  "Endgame Boss",
+  "Skill Timings",
+  "Gear Builds"
+ ],
+ "heroes": [
+  {
+   "name": "Rook",
+   "verdict": "Top Corrosion DPS",
+   "note": "His True Damage does not scale with Attack, so build him strictly with Skill Haste, Crit Rate, Crit Damage, and defensive main stats.",
+   "known": true
+  },
+  {
+   "name": "Szecedith",
+   "verdict": "Core Corrosion DPS",
+   "note": "Requires 100% Crit Rate, high Crit Damage, and as much Attack as possible.",
+   "known": true
+  },
+  {
+   "name": "Sacredeia",
+   "verdict": "Essential Corrosion Core",
+   "note": "Needs Accuracy to land debuffs alongside high Crit Rate and Crit Damage for personal damage output.",
+   "known": true
+  },
+  {
+   "name": "Reytah",
+   "verdict": "Best healer for Corrosion",
+   "note": "After her recent talent rework, she no longer needs Crit stats and should be built with maximum HP in the Puppeteer set.",
+   "known": true
+  },
+  {
+   "name": "Whisk",
+   "verdict": "Strong debuffer and Attack buffer",
+   "note": "Built with Accuracy and Attack to trigger Which is Remain and share Attack with Szecedith.",
+   "known": true
+  },
+  {
+   "name": "Child of Chaos",
+   "verdict": "Top budget survival substitute",
+   "note": "Can replace Whisk at lower inspirations if your team is wiping before the timer ends.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Endgame Boss (Mekkatorque)",
+   "heroes": [
+    "Rook",
+    "Szecedith",
+    "Sacredeia",
+    "Whisk",
+    "Reytah"
+   ],
+   "note": "Endgame Corrosion team. Uses an AoE pet with Attack Aura. At 0 Skill Haste, set recast timings to 18.0s for Szecedith, Whisk, and Sacredeia (with first casts at 11.3s, 11.1s, and 11.0s respectively), keeping Rook and Reytah on Default."
+  },
+  {
+   "mode": "Endgame Boss (Mekkatorque - Low Inspiration)",
+   "heroes": [
+    "Rook",
+    "Szecedith",
+    "Sacredeia",
+    "Child of Chaos",
+    "Reytah"
+   ],
+   "note": "Survival variation for Inspiration 0 players dying to boss mechanics. Replacing Whisk with Child of Chaos ensures full fight survival and higher overall damage."
+  }
+ ],
+ "meta_changes": [
+  "Reytah talent rework: Healing now scales off her Max HP and negative effects rather than requiring Crit Rate and Crit Damage."
+ ],
+ "tips": [
+  "Do not build Attack on Rook; True Damage ignores Attack scaling, making Skill Haste and Crit stats the only priorities.",
+  "Stack as much Skill Haste on Rook as possible to enable frequent ultimate casts and dramatically increase team damage.",
+  "If your team wipes early at low inspirations, replace Whisk with Child of Chaos instead of trying to force full offensive debuffs.",
+  "Tune ultimate recasts between 17.1s and 18.0s depending on your gear's Skill Haste to ensure smooth rotation loops."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "3KZIsOF6xYY",
+ "model": "gemini-3.8-flash",
+ "channel": "Gorax",
+ "title": "Best Corrosion Team vs Mekkatorque | Rasp of Gears S8 | Dragonheir x Dragonstride",
+ "published": "2026-10-14T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=3KZIsOF6xYY",
+ "short": false,
+ "summarized": "2026-11-02T01:19Z"
+}

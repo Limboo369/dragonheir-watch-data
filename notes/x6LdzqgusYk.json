@@ -1,0 +1,69 @@
+{
+ "summary": "This showcase video demonstrates an Aura team composition facing Queen of Blasphemy (Area Boss 4) in Crisis Rally. The team features Talethia as the primary damage dealer alongside Anneliesis, Diantha, Lincos, and Child of Chaos. The team achieves 8.745 billion total damage in the 5-minute battle, with Talethia contributing over 95% of the overall damage. Gear builds and stats for all heroes are shown at the end of the video.",
+ "topics": [
+  "Crisis Rally",
+  "Queen of Blasphemy",
+  "Aura",
+  "Talethia"
+ ],
+ "heroes": [
+  {
+   "name": "Talethia",
+   "verdict": "Top Aura DPS for Crisis Rally",
+   "note": "Dealt 8.33 billion damage (95.3% of total team output) against Lv. 300 Queen of Blasphemy.",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "Aura support",
+   "note": "Provides key buffs and utility for the Aura team against Area Boss 4.",
+   "known": true
+  },
+  {
+   "name": "Diantha",
+   "verdict": "Aura sub-DPS/support",
+   "note": "Contributed 217 million damage while sustaining team buffs.",
+   "known": true
+  },
+  {
+   "name": "Lincos",
+   "verdict": "Aura support",
+   "note": "Enables team synergy and supports overall team damage output.",
+   "known": true
+  },
+  {
+   "name": "Child of Chaos",
+   "verdict": "Aura support",
+   "note": "Provides supplemental support and utility to maximize Talethia's DPS.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Crisis Rally - Queen of Blasphemy (Area Boss 4)",
+   "heroes": [
+    "Talethia",
+    "Anneliesis",
+    "Diantha",
+    "Lincos",
+    "Child of Chaos"
+   ],
+   "note": "Scored 8.745 billion damage with Talethia dealing 95.3% of the total damage."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Focus stats on Attack, Crit Rate, and Crit Damage for Talethia to maximize single-target Aura DPS in boss fights."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "x6LdzqgusYk",
+ "model": "gemini-3.5-flash",
+ "channel": "liveranov",
+ "title": "Aura vs Queen of Blasphemy (Area Boss 4) | Crisis Rally | Season 8 | Dragonheir",
+ "published": "2026-10-07T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=x6LdzqgusYk",
+ "short": false,
+ "summarized": "2026-11-02T01:20Z"
+}

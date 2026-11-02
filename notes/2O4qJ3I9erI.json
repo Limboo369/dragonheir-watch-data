@@ -1,0 +1,71 @@
+{
+ "summary": "This video showcases a full Toxin team setup against the Season 8 endgame boss Mekkatorque, dealing over 1.45 billion damage to achieve an S rank. The core damage dealer of the composition is Serpentemis, who outputs the vast majority of the team's total damage. Full hero stat priorities, gear profiles, and precise skill timings are detailed to ensure optimal uptime and debuff application.",
+ "topics": [
+  "Mekkatorque",
+  "Season 8 Endgame Boss",
+  "Toxin Team",
+  "Boss Guide"
+ ],
+ "heroes": [
+  {
+   "name": "Serpentemis",
+   "verdict": "Top damage dealer for Mekkatorque",
+   "note": "Carried the majority of the team's DPS (over 962M damage); build for full damage with ideally 160+ Accuracy.",
+   "known": true
+  },
+  {
+   "name": "Twitch",
+   "verdict": "Essential Toxin support/enabler",
+   "note": "Contributed over 250M damage; build with full Accuracy and Skill Haste.",
+   "known": true
+  },
+  {
+   "name": "Sleight",
+   "verdict": "Core Poison/Toxin enabler",
+   "note": "Build full Attack and aim for 160+ Accuracy.",
+   "known": true
+  },
+  {
+   "name": "Lothair",
+   "verdict": "DPS and debuffer",
+   "note": "Build for full DPS.",
+   "known": true
+  },
+  {
+   "name": "Stegamoffyn",
+   "verdict": "Support healer and debuffer",
+   "note": "Provides team sustain and debuffs; build for full Attack and Skill Haste.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Mekkatorque (Season 8 Endboss)",
+   "heroes": [
+    "Serpentemis",
+    "Twitch",
+    "Sleight",
+    "Lothair",
+    "Stegamoffyn"
+   ],
+   "note": "Achieved 1.459B total damage. Skill recast times are synced to 17.2000s across heroes, with initial casts offset around 11.1999s to 11.6000s for smooth skill rotation."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Aim for at least 160+ Accuracy on debuffers like Serpentemis and Sleight against Mekkatorque.",
+  "Synchronize ultimate recast timings to 17.2 seconds to maintain consistent skill rotations throughout the fight.",
+  "Focus full Skill Haste and Accuracy on Twitch to keep Toxin application rolling smoothly."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "2O4qJ3I9erI",
+ "model": "gemini-3.8-flash",
+ "channel": "liveranov",
+ "title": "Toxin vs Mekkatorque (Phase 1) | Endgame Boss | Season 8 | Dragonheir",
+ "published": "2026-10-14T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=2O4qJ3I9erI",
+ "short": false,
+ "summarized": "2026-11-02T01:20Z"
+}

@@ -1,14 +1,14 @@
 {
- "built": "2026-11-02T01:04Z",
- "last_fetch": "2026-11-02T00:17Z",
+ "built": "2026-11-02T01:22Z",
+ "last_fetch": "2026-11-02T01:18Z",
  "counts": {
-  "summarized": 164,
+  "summarized": 175,
   "skipped_giveaway": 17,
   "baseline": 22,
-  "new": 431,
+  "new": 422,
   "skipped_live": 1,
   "failed": 1,
-  "retry": 3
+  "retry": 1
  },
  "problems": [
   {
@@ -16,18 +16,6 @@
    "channel": "liveranov",
    "status": "failed",
    "error": "Expecting value: line 1 column 1 (char 0)"
-  },
-  {
-   "title": "Best Corrosion Team vs Mekkatorque | Rasp of Gears S8 | Dragonheir x Dragonstride",
-   "channel": "Gorax",
-   "status": "retry",
-   "error": ""
-  },
-  {
-   "title": "Toxin vs Mekkatorque (Phase 1) | Endgame Boss | Season 8 | Dragonheir",
-   "channel": "liveranov",
-   "status": "retry",
-   "error": ""
   },
   {
    "title": "🔥 Season 9 FIRST CROWN CONTEST! Code: SKYASTERIX | Dragonheir: Silent Gods",
@@ -38,49 +26,10 @@
  ],
  "budget": {
   "day": "2026-11-02",
-  "seconds": 14553,
+  "seconds": 20467,
   "v2": 1
  },
  "log_tail": [
-  "/bin/bash: line 1: /root/ytwatch/run.sh: Permission denied",
-  "== 2026-11-01 16:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (444 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 153 videos, 148 heroes",
-  "== 2026-11-01 17:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (444 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 153 videos, 148 heroes",
-  "== 2026-11-01 18:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (444 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 153 videos, 148 heroes",
-  "== 2026-11-01 19:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (444 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 153 videos, 148 heroes",
-  "== 2026-11-01 20:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (444 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 153 videos, 148 heroes",
-  "== 2026-11-01 21:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (444 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 153 videos, 148 heroes",
-  "== 2026-11-01 22:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (444 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 153 videos, 148 heroes",
-  "== 2026-11-01 23:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "daily video budget used (444 min), waiting for tomorrow",
   "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 153 videos, 148 heroes",
   "== 2026-11-02 00:17",
@@ -121,7 +70,46 @@
   "+ Skratch Gaming: WE NEED MORE CHANGES!! The Gear Drops Are Still Not Good Eno",
   "saved G8YVnlncNMo",
   "+ Skratch Gaming: THE BEST EVENT IS BACK!! Dragonheir: Silent Gods x Dragonstr",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 164 videos, 148 heroes"
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 164 videos, 148 heroes",
+  "== 2026-11-02 01:17",
+  "fetch done: 0 new transcripts, 0 not available yet",
+  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
+  "… Skyasterix Gaming: 🔥 Season 9 FIRST CROWN CONTEST! Code: SKYASTERIX | Dragonhei",
+  "… Gorax: Best Corrosion Team vs Mekkatorque | Rasp of Gears S8 | Drag",
+  "… liveranov: Toxin vs Mekkatorque (Phase 1) | Endgame Boss | Season 8 | D… Skratch Gaming: I PULLED On The New Banner! Should You?? Dragonheir: Silent ",
+  "",
+  "… Neff Gaming: Best Thunderbolt Teams vs Mekkatorque | S8 Endgame Boss Phas",
+  "! 🔥 Season 9 FIRST CROWN CONTEST! Code: SKYASTERIX |: ClientError: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
+  "… Skratch Gaming: Worth Pulling For Elecebre?? Dragonheir: Silent Gods x Drago",
+  "saved 3KZIsOF6xYY",
+  "+ Gorax: Best Corrosion Team vs Mekkatorque | Rasp of Gears S8 | Drag",
+  "… Gorax: What Should You Craft in Piece of Treasury? | DragonHeir x D",
+  "saved 2O4qJ3I9erI",
+  "+ liveranov: Toxin vs Mekkatorque (Phase 1) | Endgame Boss | Season 8 | D",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "… Neff Gaming: CRUSHING THE CHAOS HUNTER BOSS: Dauntless & Iceblast Team Se",
+  "saved -x8SiA7B3Lg",
+  "+ Neff Gaming: Best Thunderbolt Teams vs Mekkatorque | S8 Endgame Boss Phas",
+  "… liveranov: Aura vs Queen of Blasphemy (Area Boss 4) | Crisis Rally | Se",
+  "saved 21_BZz5E0XM",
+  "+ Skratch Gaming: I PULLED On The New Banner! Should You?? Dragonheir: Silent ",
+  "… liveranov: Thunderbolt vs Abyssal Emissary (Area Boss 3) | Crisis Rally",
+  "saved z3tO57-B6Gs (unknown hero names: Guinevere)",
+  "+ Gorax: What Should You Craft in Piece of Treasury? | DragonHeir x D",
+  "… liveranov: Toxin vs Queen of Blasphemy (Area Boss 4) | Crisis Rally | S",
+  "saved wWFEFO70B9Q",
+  "+ liveranov: Thunderbolt vs Abyssal Emissary (Area Boss 3) | Crisis Rally",
+  "… liveranov: Aura vs Chaos Hunter (Area Boss 1) | Crisis Rally | Season 8",
+  "saved x6LdzqgusYk",
+  "+ liveranov: Aura vs Queen of Blasphemy (Area Boss 4) | Crisis Rally | Se",
+  "saved xW7fJsl5GJM",
+  "+ Neff Gaming: CRUSHING THE CHAOS HUNTER BOSS: Dauntless & Iceblast Team Se",
+  "saved rwe-Dd4l8ps",
+  "+ liveranov: Toxin vs Queen of Blasphemy (Area Boss 4) | Crisis Rally | S",
+  "saved rideArj4Ug4",
+  "+ liveranov: Aura vs Chaos Hunter (Area Boss 1) | Crisis Rally | Season 8",
+  "saved zlkDqeP9Des",
+  "+ Skratch Gaming: Worth Pulling For Elecebre?? Dragonheir: Silent Gods x Drago"
  ],
  "crontab": [],
  "channels": [
@@ -129,55 +117,55 @@
    "name": "Skratch Gaming",
    "id": "UCoSkzr1pXpt3d0jIxsc6ufw",
    "enabled": true,
-   "checked": "2026-11-02T00:17Z"
+   "checked": "2026-11-02T01:17Z"
   },
   {
    "name": "Gorax",
    "id": "UCNas7BnuOIjDEzY1D53kb1w",
    "enabled": true,
-   "checked": "2026-11-02T00:17Z"
+   "checked": "2026-11-02T01:17Z"
   },
   {
    "name": "Neff Gaming",
    "id": "UCsxs6YhNd_B36RgUAjbpJ_A",
    "enabled": true,
-   "checked": "2026-11-02T00:17Z"
+   "checked": "2026-11-02T01:17Z"
   },
   {
    "name": "Volkin Dragonheir",
    "id": "UCfRpOh_ywVjzhh9fxHbreGw",
    "enabled": true,
-   "checked": "2026-11-02T00:17Z"
+   "checked": "2026-11-02T01:17Z"
   },
   {
    "name": "Fastidious Dragonheir",
    "id": "UC16mpj5wEemSZX-uTlHe9Ww",
    "enabled": true,
-   "checked": "2026-11-02T00:17Z"
+   "checked": "2026-11-02T01:17Z"
   },
   {
    "name": "OddOneGaming RPGs",
    "id": "UC1ivUEf_poI9_R2eVKa8wRQ",
    "enabled": true,
-   "checked": "2026-11-02T00:17Z"
+   "checked": "2026-11-02T01:18Z"
   },
   {
    "name": "Suzi Plays",
    "id": "UCyo1-TkunhGcK6khU1h8Ypw",
    "enabled": true,
-   "checked": "2026-11-02T00:17Z"
+   "checked": "2026-11-02T01:18Z"
   },
   {
    "name": "Skyasterix Gaming",
    "id": "UCr5Gb3910rK7QPmKMmdagsA",
    "enabled": true,
-   "checked": "2026-11-02T00:17Z"
+   "checked": "2026-11-02T01:18Z"
   },
   {
    "name": "liveranov",
    "id": "UCqCR7ofFHhWwXy3Hg00fqEw",
    "enabled": true,
-   "checked": "2026-11-02T00:17Z"
+   "checked": "2026-11-02T01:18Z"
   }
  ]
 }

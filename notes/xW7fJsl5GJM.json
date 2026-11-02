@@ -1,0 +1,116 @@
+{
+ "summary": "This video details two high-performing team setups against the Chaos Hunter boss in Crisis Rally Battle: an Ice Blast team and a Dauntless team. The Ice Blast composition features Beldelle, Vinyara, Shinnah, Fredegonda, and Ernesto, capable of outputting 3B to 6.5B damage when Vinyara meets strict Accuracy, Resistance, and Skill Haste benchmarks. The Dauntless lineup uses Selva, Guinavivre, Kurvida, Nastjenka, and Maashtur, reaching up to 18.7B damage by incorporating high Resistance on all heroes alongside Attack-sharing gear. Detailed skill timings, artifact choices, and stat requirements are provided for both teams.",
+ "topics": [
+  "Chaos Hunter",
+  "Crisis Rally Battle",
+  "Ice Blast Team",
+  "Dauntless Team",
+  "Boss Strategy"
+ ],
+ "heroes": [
+  {
+   "name": "Vinyara",
+   "verdict": "Crucial controller for Chaos Hunter",
+   "note": "Requires 300+ Accuracy, ~300 Resistance, and 85+ Skill Haste to consistently land ultimate turn meter controls.",
+   "known": true
+  },
+  {
+   "name": "Beldelle",
+   "verdict": "Core Ice Blast DPS",
+   "note": "Focus purely on Crit Rate and Attack stats without needing Resistance.",
+   "known": true
+  },
+  {
+   "name": "Fredegonda",
+   "verdict": "Key Ice Blast DPS and enabler",
+   "note": "Build for Crit Rate and Crit Damage, ideally equipped with Feather of Frostfall or damage-boosting artifacts.",
+   "known": true
+  },
+  {
+   "name": "Ernesto",
+   "verdict": "Ice Blast Attack Buffer",
+   "note": "Equipped with Secrecy Order set and Angelic Alliance, stacking as much Attack as possible to share with allies.",
+   "known": true
+  },
+  {
+   "name": "Shinnah",
+   "verdict": "Secondary Ice Blast DPS",
+   "note": "Built for pure damage using Arcane Whirling or damage set options.",
+   "known": true
+  },
+  {
+   "name": "Selva",
+   "verdict": "Core Dauntless Support",
+   "note": "Built with high Resistance and Everburning Netherfire armor to share Attack and Defense.",
+   "known": true
+  },
+  {
+   "name": "Guinavivre",
+   "verdict": "Top Dauntless DPS",
+   "note": "Requires full damage stats alongside high Resistance, Attack Speed, and Swerving Shears artifact.",
+   "known": true
+  },
+  {
+   "name": "Kurvida",
+   "verdict": "Dauntless Debuffer & Buffer",
+   "note": "Build with high Accuracy, Resistance, and Witch's Remains artifact for Defense Penalty application.",
+   "known": true
+  },
+  {
+   "name": "Nastjenka",
+   "verdict": "High-tier Dauntless DPS",
+   "note": "Build for damage while ensuring enough Resistance to survive boss attacks.",
+   "known": true
+  },
+  {
+   "name": "Maashtur",
+   "verdict": "Dauntless Buffer",
+   "note": "Provides Great River's Favor buff, which must properly target the highest attack hero.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Crisis Rally Battle - Chaos Hunter",
+   "heroes": [
+    "Beldelle",
+    "Vinyara",
+    "Shinnah",
+    "Fredegonda",
+    "Ernesto"
+   ],
+   "note": "Ice Blast setup achieving 3B+ damage. Uses Deluxe Mimic pet for Skill Haste and synchronized 17.1s recast timing."
+  },
+  {
+   "mode": "Crisis Rally Battle - Chaos Hunter",
+   "heroes": [
+    "Selva",
+    "Guinavivre",
+    "Kurvida",
+    "Nastjenka",
+    "Maashtur"
+   ],
+   "note": "Top-performing Dauntless team reaching up to 18.7B damage. Relies on high Resistance across all members and Attack-sharing sets."
+  }
+ ],
+ "meta_changes": [
+  "The Dauntless team featuring Selva, Guinavivre, Kurvida, Nastjenka, and Maashtur outperforms older Maashtur + Fathomdown setups on Chaos Hunter, capable of reaching up to 18.7B damage."
+ ],
+ "tips": [
+  "Build Vinyara with 300+ Accuracy, 300+ Resistance, and 85+ Skill Haste to prevent Chaos Hunter from targeting damage dealers.",
+  "Equip a pet with Skill Haste (such as Deluxe Mimic with Flapping Wings) to maintain seamless ultimate rotations.",
+  "Ensure all Dauntless team heroes have around 200+ Resistance to avoid boss debuffs.",
+  "Check battle status logs to confirm Maashtur's Great River's Favor targets Guinavivre instead of secondary units."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "xW7fJsl5GJM",
+ "model": "gemini-3.5-flash",
+ "channel": "Neff Gaming",
+ "title": "CRUSHING THE CHAOS HUNTER BOSS: Dauntless & Iceblast Team Setups! | Dragonheir: Silent Gods",
+ "published": "2026-10-07T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=xW7fJsl5GJM",
+ "short": false,
+ "summarized": "2026-11-02T01:20Z"
+}

@@ -1,0 +1,70 @@
+{
+ "summary": "This video showcases a Thunderbolt team battling Area Boss 3 (Abyssal Emissary) in Crisis Rally. The team composition features Perkunte, Alaura, Tariz, Shai'nachtan, and Maashtur. Together, they achieve over 10.95 billion total damage to reach S rank score. Full equipment builds, stats, and skill timing configurations are shown at the end of the run.",
+ "topics": [
+  "Crisis Rally",
+  "Abyssal Emissary",
+  "Thunderbolt Team",
+  "Area Boss 3",
+  "Build Showcase"
+ ],
+ "heroes": [
+  {
+   "name": "Perkunte",
+   "verdict": "High damage Thunderbolt DPS",
+   "note": "Acts as a main damage dealer in the Thunderbolt Crisis Rally team composition.",
+   "known": true
+  },
+  {
+   "name": "Alaura",
+   "verdict": "Thunderbolt DPS / Support",
+   "note": "Contributes secondary damage and team synergies against Abyssal Emissary.",
+   "known": true
+  },
+  {
+   "name": "Tariz",
+   "verdict": "Thunderbolt Enabler",
+   "note": "Provides vital team buffs and skill synergies for the Thunderbolt lineup.",
+   "known": true
+  },
+  {
+   "name": "Shai'nachtan",
+   "verdict": "Thunderbolt DPS",
+   "note": "Deals massive single-target damage to the boss.",
+   "known": true
+  },
+  {
+   "name": "Maashtur",
+   "verdict": "Frontline Support / Tank",
+   "note": "Maintains team stability and tanking requirements throughout the battle.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Crisis Rally Area Boss 3 (Abyssal Emissary)",
+   "heroes": [
+    "Perkunte",
+    "Alaura",
+    "Tariz",
+    "Shai'nachtan",
+    "Maashtur"
+   ],
+   "note": "Achieved 10,954,231,795 total damage for S rank using default skill timings."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Default skill timings work effectively for this full Thunderbolt setup in auto battle against Abyssal Emissary."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "wWFEFO70B9Q",
+ "model": "gemini-3.5-flash",
+ "channel": "liveranov",
+ "title": "Thunderbolt vs Abyssal Emissary (Area Boss 3) | Crisis Rally | Season 8 | Dragonheir",
+ "published": "2026-10-07T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=wWFEFO70B9Q",
+ "short": false,
+ "summarized": "2026-11-02T01:20Z"
+}

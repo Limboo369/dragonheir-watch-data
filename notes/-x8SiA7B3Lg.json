@@ -1,0 +1,107 @@
+{
+ "summary": "This guide covers three proven Thunderbolt team setups from Chinese servers to battle the Season 8 endgame boss, Mekkatorque. The primary lineup features Perkunte as main DPS alongside Shai'nachtan, Alaura, Tariz, and Irmoush, achieving 1.65B damage at low inspiration and up to 3.5B at full inspiration. Alternative configurations demonstrate budget flexibility, showing that Alaura does not require her exclusive artifact and Irmoush works effectively at Inspiration 0 without an exclusive artifact. For players lacking Tariz or Alaura's artifact, an alternate setup with Astaion and The Dark Lady reaches 1.5B damage. Precise skill timing (12s initial, 15s recurrence) on debuffers like Irmoush, Astaion, and The Dark Lady is essential to match Mekkatorque's 30-second skill cycle.",
+ "topics": [
+  "Mekkatorque",
+  "Thunderbolt",
+  "Boss Guide",
+  "Endgame Teams",
+  "Skill Timing"
+ ],
+ "heroes": [
+  {
+   "name": "Perkunte",
+   "verdict": "Top DPS against Mekkatorque",
+   "note": "Deals massive damage reaching 1.65B at Inspiration 2 and scaling up to 3.5B with a fully inspired team.",
+   "known": true
+  },
+  {
+   "name": "Shai'nachtan",
+   "verdict": "Core Thunderbolt offensive support/DPS",
+   "note": "Provides significant ATK sharing and can wear the Puppeteer set when needed.",
+   "known": true
+  },
+  {
+   "name": "Alaura",
+   "verdict": "Essential Thunderbolt buffer and sub-DPS",
+   "note": "Effective even without her exclusive artifact, boosting team damage with Vortex Illusion or Puppeteer set.",
+   "known": true
+  },
+  {
+   "name": "Tariz",
+   "verdict": "Key ATK-sharing support",
+   "note": "Built with Orb of the Dragon Blood, Accuracy, and Skill Haste to share over 4,000 ATK.",
+   "known": true
+  },
+  {
+   "name": "Irmoush",
+   "verdict": "Crucial support and debuffer",
+   "note": "Does not require Inspiration 1 or his exclusive artifact; can be acquired from the Temporal Corridor shop.",
+   "known": true
+  },
+  {
+   "name": "Astaion",
+   "verdict": "Viable alternative debuffer",
+   "note": "Can substitute into Thunderbolt teams wearing Puppeteer set with Accuracy and Skill Haste.",
+   "known": true
+  },
+  {
+   "name": "The Dark Lady",
+   "verdict": "Strong alternative debuffer",
+   "note": "Works well with Witherhorn and Vortex Illusion on a 15-second rotation to support Thunderbolt DPS.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Mekkatorque (S8 Endgame Boss)",
+   "heroes": [
+    "Perkunte",
+    "Shai'nachtan",
+    "Alaura",
+    "Tariz",
+    "Irmoush"
+   ],
+   "note": "Top setup achieving 1.65B damage with I2 Perkunte and exclusive artifacts on Perkunte and Alaura; Irmoush runs Puppeteer with 12s/15s timing."
+  },
+  {
+   "mode": "Mekkatorque (S8 Endgame Boss)",
+   "heroes": [
+    "Perkunte",
+    "Shai'nachtan",
+    "Alaura",
+    "Tariz",
+    "Irmoush"
+   ],
+   "note": "Budget variant where Alaura lacks her exclusive artifact and Shai'nachtan wears Puppeteer while Irmoush uses 3-piece Secrecy, still reaching 1.65B damage."
+  },
+  {
+   "mode": "Mekkatorque (S8 Endgame Boss)",
+   "heroes": [
+    "Perkunte",
+    "Shai'nachtan",
+    "Alaura",
+    "Astaion",
+    "The Dark Lady"
+   ],
+   "note": "Alternative setup without Tariz and without Alaura's artifact, dealing around 1.5B damage with Astaion and The Dark Lady timed at 12s/15s."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Set Irmoush (or Astaion and The Dark Lady) to cast at 12.0s initially and every 15.0s thereafter to perfectly sync two 15-second rotations with Mekkatorque's 30-second skill loop.",
+  "Ensure Irmoush has enough Skill Haste when wearing the Puppeteer set to maintain the 15-second skill rotation.",
+  "Leave the rest of the Thunderbolt team on default skill timing.",
+  "Irmoush does not need Inspiration 1 or his exclusive artifact to perform his role against Mekkatorque and can be picked up in the Temporal Corridor shop."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "-x8SiA7B3Lg",
+ "model": "gemini-3.8-flash",
+ "channel": "Neff Gaming",
+ "title": "Best Thunderbolt Teams vs Mekkatorque | S8 Endgame Boss Phase 1 | Dragonheir",
+ "published": "2026-10-14T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=-x8SiA7B3Lg",
+ "short": false,
+ "summarized": "2026-11-02T01:20Z"
+}
