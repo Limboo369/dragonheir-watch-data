@@ -1,0 +1,119 @@
+{
+ "summary": "Skratch tests team setups for the Season 9 Crown Contest Ice Fortress against the Ice Guardian boss. The boss gains permanent Defense Up and Attack Up whenever an enemy unit dies, making summoners like Lincos risky to run. Aura and Dauntless teams struggled around 700M to 900M damage due to suboptimal gear and boss buff mechanics. In contrast, a Poison/Toxin squad featuring Child of Chaos, Serpentemis, Sacredeia, Sleight, and Twitch scored an easy 2.38 billion damage, which could reach even higher with Lothair.",
+ "topics": [
+  "Crown Contest",
+  "Ice Fortress",
+  "Aura Team",
+  "Dauntless Team",
+  "Poison Team",
+  "Skill Timing"
+ ],
+ "heroes": [
+  {
+   "name": "Celestine",
+   "verdict": "Top tier Aura support",
+   "note": "New exclusive support who boosts HP and provides massive team sustain, making her the premier Aura choice if available.",
+   "known": true
+  },
+  {
+   "name": "Solmo",
+   "verdict": "Best Aura replacement for Celestine",
+   "note": "Provides HP boosts, shields, and buffs, outperforming alternatives like Anselmo and Rena.",
+   "known": true
+  },
+  {
+   "name": "Lincos",
+   "verdict": "Risky vs Ice Guardian",
+   "note": "His summoned accompanist feeds the boss permanent Defense Up and Attack Up stacks whenever it dies.",
+   "known": true
+  },
+  {
+   "name": "Shahla",
+   "verdict": "Good Aura alternative",
+   "note": "Viable replacement for Lincos to avoid feeding the boss death triggers.",
+   "known": true
+  },
+  {
+   "name": "Tharivol",
+   "verdict": "Best fifth slot for Dauntless",
+   "note": "Achieved around 907M damage, beating out alternatives like Selva and Acilia.",
+   "known": true
+  },
+  {
+   "name": "Selva",
+   "verdict": "Underperformed in Ice Fortress",
+   "note": "Brought for cleansing boss debuffs but resulted in lower team damage (around 696M) compared to Tharivol.",
+   "known": true
+  },
+  {
+   "name": "Acilia",
+   "verdict": "Poor fit for Dauntless here",
+   "note": "Added debuff immunity and healing, but tanked total Dauntless team damage down to 515M.",
+   "known": true
+  },
+  {
+   "name": "Lothair",
+   "verdict": "Optimal Toxin DPS",
+   "note": "Top poison damage dealer who could add roughly 500M more damage over Twitch if properly geared.",
+   "known": true
+  },
+  {
+   "name": "Twitch",
+   "verdict": "Solid budget Toxin DPS",
+   "note": "Serves as an effective substitute for Lothair in a 2.38B damage Poison setup.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Crown Contest - Ice Fortress",
+   "heroes": [
+    "Serpentemis",
+    "Twitch",
+    "Sleight",
+    "Child of Chaos",
+    "Sacredeia"
+   ],
+   "note": "Top performing squad scoring 2.384B damage; Child of Chaos provides adequate healing, while Lothair can replace Twitch for higher scores."
+  },
+  {
+   "mode": "Crown Contest - Ice Fortress",
+   "heroes": [
+    "Talethia",
+    "Diantha",
+    "Anneliesis",
+    "Lincos",
+    "Solmo"
+   ],
+   "note": "Aura setup scoring ~894M damage; Anneliesis is timed to strip the boss's Defense Up buff."
+  },
+  {
+   "mode": "Crown Contest - Ice Fortress",
+   "heroes": [
+    "Guinavivre",
+    "Nastjenka",
+    "Kurvida",
+    "Maashtur",
+    "Tharivol"
+   ],
+   "note": "Best Dauntless variant tested, scoring ~907M damage without dedicated cleansers."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Avoid bringing summoner heroes against the Ice Guardian, as summoned minion deaths grant the boss permanent Defense Up and Attack Up.",
+  "If using Anneliesis against the Ice Guardian, tune her ultimate skill timing to roughly 5 seconds to dispel the boss's early Defense Up buff.",
+  "Poison/Toxin compositions heavily outperform Dauntless and Aura on the Ice Fortress when gear quality is lacking."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "0ZADnrn_jh0",
+ "model": "gemini-3.8-flash",
+ "channel": "Skratch Gaming",
+ "title": "Crown Contest Teams Season 9 Ice Fortress! Dragonheir: Silent Gods x Dragonstride",
+ "published": "2026-11-01T16:28:49+00:00",
+ "url": "https://www.youtube.com/watch?v=0ZADnrn_jh0",
+ "short": false,
+ "summarized": "2026-11-02T00:21Z"
+}

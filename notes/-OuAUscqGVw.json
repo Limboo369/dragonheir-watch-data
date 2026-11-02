@@ -1,0 +1,73 @@
+{
+ "summary": "This video showcases a Radiance Aura team tackling Round 1 of the Season 9 Crown Contest against the Fire Guardians using Level 79 heroes without negative runes. The composition deals over 1.62 billion damage by stacking HP across all heroes, as Aura damage scales directly with maximum HP. Ardreth serves as the core utility hero with 326 Resistance to ignore the boss's energy recharge penalty and buff team damage via Titan Rib. Skill timing is carefully calibrated to cast ultimates at 19.5s and every 18.0s immediately after the boss's Cinderburn energy-drain ability.",
+ "topics": [
+  "Crown Contest",
+  "Fire Guardians",
+  "Aura Team",
+  "Boss Guide",
+  "Skill Timing"
+ ],
+ "heroes": [
+  {
+   "name": "Talethia",
+   "verdict": "Main DPS",
+   "note": "Dealt 85% of total damage; built with over 52k HP, 96% Crit Rate, 244% Crit Damage, and Golden Alarm.",
+   "known": true
+  },
+  {
+   "name": "Diantha",
+   "verdict": "Core Aura sub-DPS and debuffer",
+   "note": "Equipped with Witch's Remains to apply Defense Penalty II on the guardians while building HP and Accuracy.",
+   "known": true
+  },
+  {
+   "name": "Lincos",
+   "verdict": "Aura energy battery",
+   "note": "Built with over 65k HP, 150 Resistance, and Chest of Radiance to feed Aura energy into the team.",
+   "known": true
+  },
+  {
+   "name": "Ardreth",
+   "verdict": "Key support and cleanser",
+   "note": "Runs 326 Resistance to counter the boss's 150 Accuracy, sharing 20% Resistance to adjacent allies via Stand United and boosting team damage via Titan Rib.",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "Main healer",
+   "note": "Handled nearly 90% of team healing, geared with over 67k HP, 235 Resistance, and Golden Antlers.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Crown Contest Season 9 Round 1",
+   "heroes": [
+    "Talethia",
+    "Diantha",
+    "Lincos",
+    "Ardreth",
+    "Anneliesis"
+   ],
+   "note": "Radiance Aura team reaching 1.62B damage against Fire Guardians at Lv 79. Aura ultimates timed for 19.5s first cast and 18.0s recast."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Stack maximum HP on all heroes in a Radiance Aura composition since Aura damage scales with HP.",
+  "Ensure Ardreth exceeds 150 Resistance (optimally 300+) to resist the Fire Guardians' energy recharge speed penalty and trigger the Titan Rib damage bonus.",
+  "Position adjacent allies next to Ardreth so they receive 20% of her Resistance from the Stand United talent.",
+  "Set the first cast of Talethia, Diantha, and Lincos to 19.5s with an 18.0s recast to trigger immediately after the boss's Cinderburn attack at 18s, preventing wasted ultimate energy."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "-OuAUscqGVw",
+ "model": "gemini-3.8-flash",
+ "channel": "liveranov",
+ "title": "Aura Team (Lv 79) vs Fire Guardians | Crown Contest Round 1 | Dragonheir | Season 9",
+ "published": "2026-11-01T19:35:27+00:00",
+ "url": "https://www.youtube.com/watch?v=-OuAUscqGVw",
+ "short": false,
+ "summarized": "2026-11-02T00:19Z"
+}

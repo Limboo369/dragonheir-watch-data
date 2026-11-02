@@ -1,0 +1,41 @@
+{
+ "summary": "Gorax breaks down the Crimson Crow's Feast event and why it offers high value for spenders. The event features Silver-Plated Invitations and rare Gold-Leaf Invitations that offer chances at limited Sagomir figurines or Legendary hero chests. Even without winning the grand prizes, standard rewards include Heliolite Dice, Wyrmarrow, Master Scrolls, and Legendary Hero chests. Spenders are advised to take advantage of these packs to stock up resources ahead of the upcoming Anneliesis banner.",
+ "topics": [
+  "Crimson Crow's Feast",
+  "event breakdown",
+  "spending value",
+  "gacha / summons"
+ ],
+ "heroes": [
+  {
+   "name": "Sagomir",
+   "verdict": "Exclusive physical collectible",
+   "note": "A limited physical figurine obtainable via the rare Gold-Leaf Invitation first prize (3 per server).",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "Save summons for upcoming banner",
+   "note": "Scheduled to return on November 8th, making this spending event a prime way to hoard resources beforehand.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [],
+ "tips": [
+  "Crimson Crow's Feast packs match or exceed standard double top-up efficiency, offering massive amounts of Wyrmarrow, Heliolite Dice, and invitation draws.",
+  "Free-to-play players can still acquire some free invitations from the event pass track without spending.",
+  "Save resources and Heliolite Dice gathered during this event for the Anneliesis banner returning on November 8th."
+ ],
+ "season": "S9",
+ "server_scope": "mixed",
+ "value": "medium",
+ "id": "oeExx0bLKOE",
+ "model": "gemini-3.8-flash",
+ "channel": "Gorax",
+ "title": "Crimson Crow’s Feast – Is This the BEST Value Event for Spenders? | Dragonheir x Dragonstride",
+ "published": "2026-11-01T11:00:35+00:00",
+ "url": "https://www.youtube.com/watch?v=oeExx0bLKOE",
+ "short": false,
+ "summarized": "2026-11-02T00:23Z"
+}

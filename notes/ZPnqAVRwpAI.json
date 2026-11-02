@@ -1,0 +1,56 @@
+{
+ "summary": "Season 9 Crown Contest has begun, and OddOne achieved a top 5 ranking with a total of 3.476 billion damage across two teams. His first lineup scored over 2 billion damage using Flora and a high-inspiration Talethia. His second team is a Toxin composition that dealt 1.45 billion damage without relying on high inspiration across all premium units. Full team codes, hero positioning, and detailed setups are covered in a dedicated follow-up video.",
+ "topics": [
+  "Crown Contest",
+  "Season 9",
+  "Boss Teams",
+  "Toxin Team"
+ ],
+ "heroes": [
+  {
+   "name": "Talethia",
+   "verdict": "Top-tier Crown Contest DPS",
+   "note": "Deals insane damage when built with high inspiration, carrying a team past 2 billion damage.",
+   "known": true
+  },
+  {
+   "name": "Flora",
+   "verdict": "Crown Contest core",
+   "note": "Paired alongside Talethia in the 2 billion damage Crown Contest composition.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Crown Contest",
+   "heroes": [
+    "Flora",
+    "Talethia"
+   ],
+   "note": "Dealt 2,019,465,100 damage leveraging high inspiration on Talethia."
+  },
+  {
+   "mode": "Crown Contest",
+   "heroes": [
+    "Jathalea"
+   ],
+   "note": "Toxin team that dealt 1,457,321,941 damage without needing high inspiration on all premium heroes."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "High inspiration on premium DPS like Talethia enables reaching 2B+ damage thresholds in Season 9 Crown Contest.",
+  "A Toxin team can reliably break 1.4B damage in Crown Contest even without high inspiration levels across the board."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "low",
+ "id": "ZPnqAVRwpAI",
+ "model": "gemini-3.8-flash",
+ "channel": "OddOneGaming RPGs",
+ "title": "💥 Build The BEST Teams 💥 My 2 Teams For Crown Contest S9 #dragonheirsilentgods  #dragonheir",
+ "published": "2026-11-01T16:00:19+00:00",
+ "url": "https://www.youtube.com/shorts/ZPnqAVRwpAI",
+ "short": true,
+ "summarized": "2026-11-02T00:20Z"
+}

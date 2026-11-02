@@ -1,14 +1,14 @@
 {
- "built": "2026-11-02T00:03Z",
- "last_fetch": "2026-11-01T23:18Z",
+ "built": "2026-11-02T00:23Z",
+ "last_fetch": "2026-11-02T00:17Z",
  "counts": {
-  "summarized": 153,
+  "summarized": 161,
   "skipped_giveaway": 17,
   "baseline": 22,
-  "new": 442,
+  "new": 433,
   "skipped_live": 1,
   "failed": 1,
-  "retry": 3
+  "retry": 4
  },
  "problems": [
   {
@@ -34,47 +34,20 @@
    "channel": "liveranov",
    "status": "retry",
    "error": ""
+  },
+  {
+   "title": "🔥 Season 9 FIRST CROWN CONTEST! Code: SKYASTERIX | Dragonheir: Silent Gods",
+   "channel": "Skyasterix Gaming",
+   "status": "retry",
+   "error": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}"
   }
  ],
  "budget": {
-  "day": "2026-11-01",
-  "seconds": 26644,
-  "v2": 1,
-  "quota_hit": 1793513949.9802036
+  "day": "2026-11-02",
+  "seconds": 14553,
+  "v2": 1
  },
  "log_tail": [
-  "Gemini quota was full less than an hour ago, trying again next round",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 152 videos, 148 heroes",
-  "== 2026-11-01 08:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "… Gorax: NEW Promo Code CANDYTIDE – Get 5 FREE Heliolite Dice! | Drag",
-  "saved n_aU5LqudJM",
-  "+ Gorax: NEW Promo Code CANDYTIDE – Get 5 FREE Heliolite Dice! | Drag",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 153 videos, 148 heroes",
-  "== 2026-11-01 09:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (444 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 153 videos, 148 heroes",
-  "== 2026-11-01 10:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (444 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 153 videos, 148 heroes",
-  "== 2026-11-01 11:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (444 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 153 videos, 148 heroes",
-  "== 2026-11-01 12:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (444 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 153 videos, 148 heroes",
-  "== 2026-11-01 13:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "daily video budget used (444 min), waiting for tomorrow",
   "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 153 videos, 148 heroes",
   "== 2026-11-01 14:17",
@@ -122,7 +95,39 @@
   "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "daily video budget used (444 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 153 videos, 148 heroes"
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 153 videos, 148 heroes",
+  "== 2026-11-02 00:17",
+  "fetch done: 0 new transcripts, 0 not available yet",
+  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
+  "… Neff Gaming: Dragonheir NEW EVENT! Crimson Crow's Feast Guide + Best Pack",
+  "… liveranov: Aura Team (Lv 79) vs Fire Guardians | Crown Contest Round 1 ",
+  "… Skyasterix Gaming: 🔥 Season 9 FIRST CROWN CONTEST! Code: SKYASTERIX | Dragonhei",
+  "… Skyasterix Gaming: 🔥 Season 9 FIRST CROWN CONTEST! Code: SKYASTERIX | Dragonhei",
+  "… Skratch Gaming: Crown Contest Teams Season 9 Ice Fortress! Dragonheir: Silen",
+  "! 🔥 Season 9 FIRST CROWN CONTEST! Code: SKYASTERIX |: ClientError: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
+  "… OddOneGaming RPGs: 💥 Build The BEST Teams 💥 My 2 Teams For Crown Contest S9 #dr",
+  "saved -OuAUscqGVw",
+  "+ liveranov: Aura Team (Lv 79) vs Fire Guardians | Crown Contest Round 1 ",
+  "… liveranov: Up to 27% OFF Crimson Crow Gifts on BuffBuff 💰 Dragonheir De",
+  "saved yxXzRk7q3JM",
+  "+ Neff Gaming: Dragonheir NEW EVENT! Crimson Crow's Feast Guide + Best Pack",
+  "… Skratch Gaming: THE BEST EVENT IS BACK!! Dragonheir: Silent Gods x Dragonstr",
+  "saved ZPnqAVRwpAI",
+  "+ OddOneGaming RPGs: 💥 Build The BEST Teams 💥 My 2 Teams For Crown Contest S9 #dr",
+  "… OddOneGaming RPGs: 💥 These Teams DESTROY Crown Contest 💥 My 2 Teams S9 Crown Co",
+  "saved 0ZADnrn_jh0",
+  "+ Skratch Gaming: Crown Contest Teams Season 9 Ice Fortress! Dragonheir: Silen",
+  "… OddOneGaming RPGs: 💥 HUGE Rewards 💥 5 NEW Promo Codes Up For Grabs For EVERYONE",
+  "saved PXXHUnxFJRc",
+  "+ liveranov: Up to 27% OFF Crimson Crow Gifts on BuffBuff 💰 Dragonheir De",
+  "… Gorax: Crimson Crow’s Feast – Is This the BEST Value Event for Spen",
+  "saved O28V9w5PJdA",
+  "+ OddOneGaming RPGs: 💥 These Teams DESTROY Crown Contest 💥 My 2 Teams S9 Crown Co",
+  "… Skratch Gaming: WE NEED MORE CHANGES!! The Gear Drops Are Still Not Good Eno",
+  "saved 96hi_nPJh2I",
+  "+ OddOneGaming RPGs: 💥 HUGE Rewards 💥 5 NEW Promo Codes Up For Grabs For EVERYONE",
+  "saved oeExx0bLKOE",
+  "+ Gorax: Crimson Crow’s Feast – Is This the BEST Value Event for Spen"
  ],
  "crontab": [],
  "channels": [
@@ -130,55 +135,55 @@
    "name": "Skratch Gaming",
    "id": "UCoSkzr1pXpt3d0jIxsc6ufw",
    "enabled": true,
-   "checked": "2026-11-01T23:17Z"
+   "checked": "2026-11-02T00:17Z"
   },
   {
    "name": "Gorax",
    "id": "UCNas7BnuOIjDEzY1D53kb1w",
    "enabled": true,
-   "checked": "2026-11-01T23:17Z"
+   "checked": "2026-11-02T00:17Z"
   },
   {
    "name": "Neff Gaming",
    "id": "UCsxs6YhNd_B36RgUAjbpJ_A",
    "enabled": true,
-   "checked": "2026-11-01T23:17Z"
+   "checked": "2026-11-02T00:17Z"
   },
   {
    "name": "Volkin Dragonheir",
    "id": "UCfRpOh_ywVjzhh9fxHbreGw",
    "enabled": true,
-   "checked": "2026-11-01T23:17Z"
+   "checked": "2026-11-02T00:17Z"
   },
   {
    "name": "Fastidious Dragonheir",
    "id": "UC16mpj5wEemSZX-uTlHe9Ww",
    "enabled": true,
-   "checked": "2026-11-01T23:17Z"
+   "checked": "2026-11-02T00:17Z"
   },
   {
    "name": "OddOneGaming RPGs",
    "id": "UC1ivUEf_poI9_R2eVKa8wRQ",
    "enabled": true,
-   "checked": "2026-11-01T23:17Z"
+   "checked": "2026-11-02T00:17Z"
   },
   {
    "name": "Suzi Plays",
    "id": "UCyo1-TkunhGcK6khU1h8Ypw",
    "enabled": true,
-   "checked": "2026-11-01T23:17Z"
+   "checked": "2026-11-02T00:17Z"
   },
   {
    "name": "Skyasterix Gaming",
    "id": "UCr5Gb3910rK7QPmKMmdagsA",
    "enabled": true,
-   "checked": "2026-11-01T23:17Z"
+   "checked": "2026-11-02T00:17Z"
   },
   {
    "name": "liveranov",
    "id": "UCqCR7ofFHhWwXy3Hg00fqEw",
    "enabled": true,
-   "checked": "2026-11-01T23:18Z"
+   "checked": "2026-11-02T00:17Z"
   }
  ]
 }

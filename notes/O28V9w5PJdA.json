@@ -1,0 +1,114 @@
+{
+ "summary": "OddOneGaming showcases two top-performing teams for the Season 9 Crown Contest against Lightning Guardian (Lightning Fortress), scoring over 3.4 billion total damage. Team one is a Toxin composition led by Serpentemis that hits ~1.45 billion, utilizing specific support sets and a 9.0s ultimate timing on Child of Chaos to ensure an extra ultimate rotation. Team two is a full Radiant Aura lineup starring Talethia that operates on full auto and hits 2.0 billion. The video details exact gear sets, artifact setups, and synergy mechanics like Dragonflame Scorch stacking and derivative damage sharing.",
+ "topics": [
+  "Crown Contest",
+  "Lightning Guardian",
+  "Toxin Team",
+  "Aura Team",
+  "Gear Builds"
+ ],
+ "heroes": [
+  {
+   "name": "Child of Chaos",
+   "verdict": "Essential Toxin support/battery",
+   "note": "Equipped with Puppeteer's Inspiration and timed to cast ultimate at 9.0s to feed energy to allies so team rotations start earlier.",
+   "known": true
+  },
+  {
+   "name": "Sacredeia",
+   "verdict": "Core debuffer for Toxin",
+   "note": "Uses Misty Conch, Prophecy Bind for damage-taken amplification, and Bone Resonance to share high Accuracy across the team.",
+   "known": true
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "Main Toxin DPS",
+   "note": "Built for pure damage with Statue of the Serpent Deity, Dragonblood Brand, and Strike the Unprepared while utilizing passive enemy Resistance shred.",
+   "known": true
+  },
+  {
+   "name": "Twitch",
+   "verdict": "Toxin buffer & sub-DPS",
+   "note": "Equipped with Might of the Inferno and Everlasting Candleflame to grant derivative damage and share stats with Serpentemis.",
+   "known": true
+  },
+  {
+   "name": "Sleight",
+   "verdict": "Toxin buffer & sub-DPS",
+   "note": "Uses exclusive artifact Shell of Gilded Doom, Might of the Inferno, and Whirling Edge to boost allied damage.",
+   "known": true
+  },
+  {
+   "name": "Talethia",
+   "verdict": "Top Radiant Aura DPS",
+   "note": "Carried the Aura team to 2 billion damage at Inspiration 5 with Golden Alarm Bell, Nocturnal Hunt, and Strike the Unprepared.",
+   "known": true
+  },
+  {
+   "name": "Shahla",
+   "verdict": "Core Aura debuffer & buffer",
+   "note": "Equipped with Witch's Remains, Bone Resonance, and Darknight Canticle to lower enemy defense and grant allied stats.",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "Core Aura healer & buffer",
+   "note": "Builds Moonlight's Grace, Devout Prayer, and Solar King's Horn for massive team-wide offensive buffs.",
+   "known": true
+  },
+  {
+   "name": "Lincos",
+   "verdict": "Aura stat-sharer",
+   "note": "Runs Orb of the Dragon God, Whirling Edge, and Everlasting Candleflame to share Attack and Defense with Talethia.",
+   "known": true
+  },
+  {
+   "name": "Diantha",
+   "verdict": "Aura support battery",
+   "note": "Equips Golden Antlers, Puppeteer's Inspiration, and Everlasting Candleflame to sustain Aura energy and boost damage.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Crown Contest - Lightning Guardian",
+   "heroes": [
+    "Serpentemis",
+    "Twitch",
+    "Sleight",
+    "Sacredeia",
+    "Child of Chaos"
+   ],
+   "note": "Scored ~1.45B damage. Relies on Might of the Inferno stacking on Twitch/Sleight, Bone Resonance accuracy sharing, and manual 9.0s ultimate timing on Child of Chaos to prevent losing the final ultimate phase."
+  },
+  {
+   "mode": "Crown Contest - Lightning Guardian",
+   "heroes": [
+    "Shahla",
+    "Anneliesis",
+    "Lincos",
+    "Diantha",
+    "Talethia"
+   ],
+   "note": "Scored 2.019B damage on full auto. Talethia acts as primary carry supported by dual Everlasting Candleflame stat sharing, Witch's Remains, and team damage amps."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "In Toxin teams, set Child of Chaos to cast his ultimate at 9.0s so Puppeteer's Inspiration grants energy early; starting rotations at 12s causes you to miss the final ultimate rotation and lose 100M-200M damage.",
+  "Stack Might of the Inferno on two supports positioned within 1 tile of your main Toxin carry to maximize derivative damage without sacrificing the carry's own offensive gear set.",
+  "On Radiant Aura teams, run Everlasting Candleflame on adjacent supports to funnel 15% of their Attack and Defense directly into Talethia.",
+  "Equipping Dragonflame Scorch across 3 team members stacks up to 4 times on the lowest HP enemy, granting a 24% increased damage taken debuff."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "O28V9w5PJdA",
+ "model": "gemini-3.8-flash",
+ "channel": "OddOneGaming RPGs",
+ "title": "💥 These Teams DESTROY Crown Contest 💥 My 2 Teams S9 Crown Contest GUIDE | Dragonheir x Dragonstride",
+ "published": "2026-11-01T14:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=O28V9w5PJdA",
+ "short": false,
+ "summarized": "2026-11-02T00:22Z"
+}
