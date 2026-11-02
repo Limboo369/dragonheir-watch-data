@@ -1,0 +1,97 @@
+{
+ "summary": "In this video, Skyasterix tackles the Season 9 Crown Contest against the Fire Guardian boss. He emphasizes that gearing for high Resistance and synchronizing ultimate skill timings are mandatory to prevent heroes from being interrupted or debuffed. After struggling with control effects on a Dauntless Lightning comp and achieving moderate success with Radiance, he builds an optimized Poison squad that surpasses 3.18 billion damage.",
+ "topics": [
+  "Crown Contest",
+  "Fire Guardian",
+  "Skill Timing",
+  "Resistance",
+  "Poison Team"
+ ],
+ "heroes": [
+  {
+   "name": "Lothair",
+   "verdict": "Top Poison DPS for Fire Guardian",
+   "note": "Delivers massive AoE and Poison damage once his Stage 6 talent (Deep Midnight) is unlocked and he is geared with sufficient Accuracy and Enlightenment.",
+   "known": true
+  },
+  {
+   "name": "Oggok",
+   "verdict": "Essential Poison support",
+   "note": "Provides vital healing, debuff cleansing, and team survival while sharing Resistance via positioning talents.",
+   "known": true
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "Core Poison damage dealer",
+   "note": "Applies consistent Poison damage and enemy resistance reduction to sustain high team DPS.",
+   "known": true
+  },
+  {
+   "name": "Sleight",
+   "verdict": "Strong Poison damage dealer",
+   "note": "Contributes steady Poison application and damage scaling against the multiple boss units.",
+   "known": true
+  },
+  {
+   "name": "Sacredeia",
+   "verdict": "Solid Poison debuffer",
+   "note": "Inflicts Corrosion and Poison damage to amplify overall team output.",
+   "known": true
+  },
+  {
+   "name": "Guinavivre",
+   "verdict": "Struggles without extreme Resistance",
+   "note": "Her damage collapsed below 700 million when her control and attack mechanics were repeatedly resisted by the boss.",
+   "known": true
+  },
+  {
+   "name": "Talethia",
+   "verdict": "Viable Radiance DPS",
+   "note": "Reaches roughly 1.73 billion damage in a Radiance comp but is extremely sensitive to minor skill timing desynchronization.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Crown Contest - Fire Guardian",
+   "heroes": [
+    "Lothair",
+    "Sleight",
+    "Serpentemis",
+    "Oggok",
+    "Sacredeia"
+   ],
+   "note": "Premier Poison composition reaching over 3.18 billion damage; requires fine-tuned ultimate timings and Oggok for cleansing and sustain."
+  },
+  {
+   "mode": "Crown Contest - Fire Guardian",
+   "heroes": [
+    "Talethia",
+    "Eurion",
+    "Lincos",
+    "Karetha",
+    "Horrus"
+   ],
+   "note": "Radiance setup hitting approximately 1.73 billion damage; demands strict ultimate skill synchronization to avoid boss interrupts."
+  }
+ ],
+ "meta_changes": [
+  "Fire Guardian boss encounters heavily penalize teams lacking sufficient gear Resistance and strict skill timing synchronization."
+ ],
+ "tips": [
+  "Equip Resistance-primary armor or Resistance secondary stats on damage dealers and supports to prevent Fire Guardian debuffs and control effects.",
+  "Carefully calibrate hero First Cast and Recast skill timings down to tenths of a second to prevent ultimate desynchronization.",
+  "Prioritize unlocking high-tier hero talents (such as Lothair's Stage 6 talent) before committing high-score Crown Contest attempts."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "S_vEulOev_0",
+ "model": "gemini-3.8-flash",
+ "channel": "Skyasterix Gaming",
+ "title": "🔥 Season 9 FIRST CROWN CONTEST! Code: SKYASTERIX | Dragonheir: Silent Gods",
+ "published": "2026-11-01T18:50:15+00:00",
+ "url": "https://www.youtube.com/watch?v=S_vEulOev_0",
+ "short": false,
+ "summarized": "2026-11-02T00:24Z"
+}

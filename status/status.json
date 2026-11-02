@@ -1,14 +1,14 @@
 {
- "built": "2026-11-02T00:23Z",
+ "built": "2026-11-02T00:25Z",
  "last_fetch": "2026-11-02T00:17Z",
  "counts": {
-  "summarized": 161,
+  "summarized": 164,
   "skipped_giveaway": 17,
   "baseline": 22,
-  "new": 433,
+  "new": 431,
   "skipped_live": 1,
   "failed": 1,
-  "retry": 4
+  "retry": 3
  },
  "problems": [
   {
@@ -16,12 +16,6 @@
    "channel": "liveranov",
    "status": "failed",
    "error": "Expecting value: line 1 column 1 (char 0)"
-  },
-  {
-   "title": "WE NEED MORE CHANGES!! The Gear Drops Are Still Not Good Enough!? Dragonheir: Silent Gods",
-   "channel": "Skratch Gaming",
-   "status": "retry",
-   "error": ""
   },
   {
    "title": "Best Corrosion Team vs Mekkatorque | Rasp of Gears S8 | Dragonheir x Dragonstride",
@@ -48,12 +42,6 @@
   "v2": 1
  },
  "log_tail": [
-  "daily video budget used (444 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 153 videos, 148 heroes",
-  "== 2026-11-01 14:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (444 min), waiting for tomorrow",
   "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 153 videos, 148 heroes",
   "/bin/bash: line 1: /root/ytwatch/run.sh: Permission denied",
   "== 2026-11-01 16:17",
@@ -127,7 +115,13 @@
   "saved 96hi_nPJh2I",
   "+ OddOneGaming RPGs: 💥 HUGE Rewards 💥 5 NEW Promo Codes Up For Grabs For EVERYONE",
   "saved oeExx0bLKOE",
-  "+ Gorax: Crimson Crow’s Feast – Is This the BEST Value Event for Spen"
+  "+ Gorax: Crimson Crow’s Feast – Is This the BEST Value Event for Spen",
+  "saved S_vEulOev_0",
+  "+ Skyasterix Gaming: 🔥 Season 9 FIRST CROWN CONTEST! Code: SKYASTERIX | Dragonhei",
+  "saved EPflcyTpzw0",
+  "+ Skratch Gaming: WE NEED MORE CHANGES!! The Gear Drops Are Still Not Good Eno",
+  "saved G8YVnlncNMo",
+  "+ Skratch Gaming: THE BEST EVENT IS BACK!! Dragonheir: Silent Gods x Dragonstr"
  ],
  "crontab": [],
  "channels": [

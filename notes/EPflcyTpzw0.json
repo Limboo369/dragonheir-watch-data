@@ -1,0 +1,64 @@
+{
+ "summary": "Season 8 is concluding and transitioning into Season 9, prompting players to finalize their gear carryover through Cross-Boundary Storage and the Piece of Treasury forge. Despite the removal of flat main stats from gear drops, standard dungeon farming remains largely unrewarding due to low Mythic+ drop rates and heavy RNG on substats. The creator demonstrates that purchasing all 100 Mythic+ Equipment Option Chests from the Crisis Rally Shop is far more effective for obtaining usable pieces than spending stamina on dungeons. He rolls several chest and glove pieces targeting HP% and high Critical Damage to prepare for an upcoming Radiance/Aura team centered around Talethia.",
+ "topics": [
+  "Gear Farming",
+  "Crisis Rally Shop",
+  "Cross-Boundary Storage",
+  "Piece of Treasury",
+  "Grave of Curse",
+  "Season Transition"
+ ],
+ "heroes": [
+  {
+   "name": "Talethia",
+   "verdict": "High priority build for next season",
+   "note": "Prepared with high Crit Damage and HP% Precise Carnage and Curse of the Fallen gear to lead an Aura team into Season 9.",
+   "known": true
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "Priority carryover recipient",
+   "note": "Target hero for forged Curse of the Fallen gear transitioning into the new season.",
+   "known": true
+  },
+  {
+   "name": "Nastjenka",
+   "verdict": "Situational bench option",
+   "note": "Likely to sit on the bench at the start of Season 9 in favor of an Aura-focused roster.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Grave of Curse (Challenge 6)",
+   "heroes": [
+    "Talethia",
+    "Sacredeia",
+    "Flora",
+    "Philto"
+   ],
+   "note": "A slower team setup designed to cast frequent ultimate skills rather than nuking the boss, maximizing buff crystal triggers and challenge chest drop procs."
+  }
+ ],
+ "meta_changes": [
+  "Flat primary stats (HP, ATK, DEF) were removed from gear drops, but secondary roll variance still makes direct dungeon farming inefficient.",
+  "Crisis Rally Mythic+ Equipment Option Chests have become the primary reliable source for acquiring high-end Mythic+ seasonal gear."
+ ],
+ "tips": [
+  "Prioritize buying all 100 Mythic+ Equipment Option Chests from the Crisis Rally Shop over purchasing stamina bread.",
+  "Do not waste resources heavily farming standard gear dungeons expecting top-tier Mythic+ rolls, as drop rates for usable gear are extremely low.",
+  "Select and temper high Critical Damage pieces (such as Precise Carnage Armor+ or Curse of the Fallen Gloves+) to preserve in Cross-Boundary Storage for the next season.",
+  "In dungeon Challenge Modes, utilize teams that cycle multiple ultimates to trigger modifier crystals and increase chest drop rates."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "EPflcyTpzw0",
+ "model": "gemini-3.8-flash",
+ "channel": "Skratch Gaming",
+ "title": "WE NEED MORE CHANGES!! The Gear Drops Are Still Not Good Enough!? Dragonheir: Silent Gods",
+ "published": "2026-10-14T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=EPflcyTpzw0",
+ "short": false,
+ "summarized": "2026-11-02T00:24Z"
+}

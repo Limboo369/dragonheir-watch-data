@@ -1,0 +1,42 @@
+{
+ "summary": "Skratch highlights the return of the Crimson Crow's Feast event, calling it the single best event for spenders in Dragonheir. He explains that event packs offer significantly better value than standard Dragon Crystal top-ups, granting substantial Heliolite Dice alongside bonus Silver-Plated Invitation tickets. He demonstrates rolling through his accumulated invitation tickets to showcase standard reward yields, which include extra Heliolite Dice and Wyrmarrow. Finally, he advises players to hoard these resources rather than spending on the current banners, specifically saving for the upcoming mid-November Anneliesis and Aura banners.",
+ "topics": [
+  "Crimson Crow's Feast",
+  "Banquet Overture",
+  "Spending Guide",
+  "Upcoming Banners"
+ ],
+ "heroes": [
+  {
+   "name": "Anneliesis",
+   "verdict": "Save Heliolite Dice for rerun",
+   "note": "Recommended as the primary upcoming target to pull for when her banner returns in mid-November.",
+   "known": true
+  },
+  {
+   "name": "Sagomir",
+   "verdict": "Low interest reward",
+   "note": "Appears as the first-prize limited figurine in the event rewards, but has little practical appeal.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [],
+ "tips": [
+  "Crimson Crow's Feast packs provide higher overall value than standard 1+1 Dragon Crystal packs because they grant both Heliolite Dice/crystals and bonus invitation tickets for extra roll rewards.",
+  "For low spenders, the Banquet Overture pass offers great value, yielding 24 Heliolite Dice and 20 event tickets.",
+  "Skip the current banners and hoard Heliolite Dice for upcoming high-priority releases, including Anneliesis, Aura banners, and elemental school banners.",
+  "Do not expect massive pack sales or celebration discounts during the mid-November Anneliesis banner, as the game rarely runs celebration packs outside dedicated seasonal events."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "G8YVnlncNMo",
+ "model": "gemini-3.8-flash",
+ "channel": "Skratch Gaming",
+ "title": "THE BEST EVENT IS BACK!! Dragonheir: Silent Gods x Dragonstride",
+ "published": "2026-11-01T15:34:07+00:00",
+ "url": "https://www.youtube.com/watch?v=G8YVnlncNMo",
+ "short": false,
+ "summarized": "2026-11-02T00:25Z"
+}
