@@ -1,5 +1,5 @@
 {
- "built": "2026-11-02T16:07Z",
+ "built": "2026-11-02T16:37Z",
  "last_fetch": "2026-11-02T15:17Z",
  "counts": {
   "summarized": 183,
@@ -29,7 +29,6 @@
   "v2": 1
  },
  "log_tail": [
-  "… Gorax: MUST WATCH! Anneliesis Return Looks Very Likely | Dragonheir",
   "saved kmI10_fvl-c",
   "+ Gorax: I Kept Summoning in Option Summons II… Big Mistake? | Dragon",
   "saved gMlGFaRzzQM",
@@ -108,7 +107,8 @@
   "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "daily video budget used (436 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 183 videos, 151 heroes"
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 183 videos, 151 heroes",
+  "/bin/bash: line 1: /root/ytwatch/run.sh: Permission denied"
  ],
  "crontab": [],
  "channels": [
