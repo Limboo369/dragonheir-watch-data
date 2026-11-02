@@ -1,0 +1,103 @@
+{
+ "summary": "This guide covers three team setups—Dauntless, Thunderbolt, and Aura—to maximize damage against the third Crisis Rally boss, Abyssal Emissary. The Dauntless team utilizes Tharivol over Selva alongside Nastjenka for over 15 billion damage. The Thunderbolt team relies on Child of Chaos built with high Skill Haste and Attack to boost team damage up to 10.7 billion. Finally, the Aura team achieves around 9 billion damage using Anneliesis tuned to 62 Skill Haste alongside Diantha and Talethia.",
+ "topics": [
+  "Crisis Rally",
+  "Abyssal Emissary",
+  "Dauntless",
+  "Thunderbolt",
+  "Aura",
+  "Boss Teams"
+ ],
+ "heroes": [
+  {
+   "name": "Tharivol",
+   "verdict": "Superior Dauntless option over Selva",
+   "note": "Performs better than Selva against Abyssal Emissary; build with high Crit Rate, Attack Speed, Thornvine set, and Orb of the Dragon God.",
+   "known": true
+  },
+  {
+   "name": "Nastjenka",
+   "verdict": "Main DPS for Dauntless team",
+   "note": "Build full Attack and Crit Damage; keep her Attack highest in the team so she absorbs pet and Maashtur buffs.",
+   "known": true
+  },
+  {
+   "name": "Child of Chaos",
+   "verdict": "Key Thunderbolt buffer",
+   "note": "Build with maximum Skill Haste and high Attack, as his Attack stat now scales his damage buff after the recent update.",
+   "known": true
+  },
+  {
+   "name": "Perkunte",
+   "verdict": "Main DPS for Thunderbolt team",
+   "note": "Equip Raging Wildfire weapon and line up team members (including pet) in the same row/column for massive Defense Penetration.",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "Core support for Aura team",
+   "note": "Requires exactly 62 Skill Haste for proper rotation, equipped with Secrecy Order set, Golden Antlers, and Wildsand Devotion.",
+   "known": true
+  },
+  {
+   "name": "Diantha",
+   "verdict": "DPS and debuffer for Aura team",
+   "note": "Build for damage and Accuracy using Arcane Whirling set and Witch's Remains.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Crisis Rally - Abyssal Emissary",
+   "heroes": [
+    "Nastjenka",
+    "Guinavivre",
+    "Kurvida",
+    "Tharivol",
+    "Maashtur"
+   ],
+   "note": "Dauntless lineup delivering 15+ Billion damage using a 17.5s ultimate rotation."
+  },
+  {
+   "mode": "Crisis Rally - Abyssal Emissary",
+   "heroes": [
+    "Perkunte",
+    "Shai'nachtan",
+    "Tariz",
+    "Alaura",
+    "Child of Chaos"
+   ],
+   "note": "Thunderbolt team achieving 10.7+ Billion damage using an 18s ultimate rotation."
+  },
+  {
+   "mode": "Crisis Rally - Abyssal Emissary",
+   "heroes": [
+    "Diantha",
+    "Lincos",
+    "Talethia",
+    "Rena",
+    "Anneliesis"
+   ],
+   "note": "Aura team delivering ~9+ Billion damage using a 15s ultimate rotation."
+  }
+ ],
+ "meta_changes": [
+  "Child of Chaos's Attack stat now scales the damage buff provided to the team following a hero update."
+ ],
+ "tips": [
+  "Ensure your primary damage dealer has the single highest Attack stat on the team to receive targeted buffs from pets and Maashtur.",
+  "When equipping Raging Wildfire set on heroes like Perkunte, place allies and the pet in the same row or column to stack up to 200 Defense Penetration.",
+  "Target 62 Skill Haste on Anneliesis to seamlessly sync the Aura team's 15-second rotation."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "e3O_XZvWCPo",
+ "model": "gemini-3.5-flash",
+ "channel": "Neff Gaming",
+ "title": "CRUSHING THE Abyssal EMISSARY BOSS: Dauntless, Thunderbolt & Aura Setups! | Dragonheir: Silent Gods",
+ "published": "2026-10-07T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=e3O_XZvWCPo",
+ "short": false,
+ "summarized": "2026-11-02T02:21Z"
+}

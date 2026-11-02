@@ -1,0 +1,101 @@
+{
+ "summary": "Gorax performs a massive summoning session on the Option Summons II banner aiming for premium support heroes like Selva. He discusses summoning strategies, highlighting that premium supports are harder to get than DPS heroes which can easily be obtained from Wish banners. He covers hero reworks such as Stegamoffyn's healing addition for Temporal Vortex and reviews duplicate hero dust conversion via the Starweave Echo event. Additionally, he highlights shop rotations in the Temporal Corridor for obtaining hero copies like Maashtur and Sleight.",
+ "topics": [
+  "Option Summons II",
+  "Summoning Strategy",
+  "Starweave Echo",
+  "Temporal Corridor Shop",
+  "Temporal Vortex",
+  "Dauntless Team"
+ ],
+ "heroes": [
+  {
+   "name": "Stegamoffyn",
+   "verdict": "Meta in Temporal Vortex",
+   "note": "Received a rework adding a healing passive when damaging debuffed enemies, making him excellent alongside Child of Chaos.",
+   "known": true
+  },
+  {
+   "name": "Zeffi",
+   "verdict": "High-tier PvE Support",
+   "note": "Provides team invincibility; highly recommends achieving Inspiration 3 for the +30 Haste bonus.",
+   "known": true
+  },
+  {
+   "name": "Stanguem",
+   "verdict": "Niche Boss Counter",
+   "note": "Provides team Control Immunity which is very useful in specific mid-to-end season boss encounters.",
+   "known": true
+  },
+  {
+   "name": "Ivellios",
+   "verdict": "Outdated / Skip",
+   "note": "Used to be the core of Dauntless teams in early seasons but is no longer good in current meta.",
+   "known": true
+  },
+  {
+   "name": "Garett",
+   "verdict": "Food / Dust",
+   "note": "Performs poorly in Dauntless compositions and has no practical place in current teams.",
+   "known": true
+  },
+  {
+   "name": "Vicana",
+   "verdict": "Niche / Outclassed",
+   "note": "Decent in Maji Chess, but completely outclassed as a damage dealer by Serpentemis and Lufir.",
+   "known": true
+  },
+  {
+   "name": "Jathalea",
+   "verdict": "Food / Dust",
+   "note": "Lacks space in competitive teams due to stronger alternatives like Serpentemis.",
+   "known": true
+  },
+  {
+   "name": "Twitch",
+   "verdict": "High Priority Meta Hero",
+   "note": "Core unit worth keeping duplicate copies of to reach Inspiration 5 for main teams.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Dauntless Core",
+   "heroes": [
+    "Guinavivre",
+    "Kurvida",
+    "Nastjenka",
+    "Maashtur",
+    "Selva"
+   ],
+   "note": "The ideal end-game Dauntless composition featuring key exclusive and premium supports."
+  },
+  {
+   "mode": "Temporal Vortex",
+   "heroes": [
+    "Stegamoffyn",
+    "Child of Chaos"
+   ],
+   "note": "Stegamoffyn's debuff-triggered healing pairs exceptionally well with Child of Chaos."
+  }
+ ],
+ "meta_changes": [
+  "Stegamoffyn reworked: added passive healing triggered when damaging debuffed enemies, elevating his status in Temporal Vortex."
+ ],
+ "tips": [
+  "Save duplicate Legendary hero imprints for the Starweave Echo event to convert them into dust for selective shop heroes like Talethia.",
+  "Prioritize pulling premium support heroes on Option Summons banners because top DPS heroes are easier to target on Wish banners.",
+  "Monitor Temporal Corridor Exchange rotations (every 22 days) to buy key duplicates like Maashtur or Sleight over time."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "kmI10_fvl-c",
+ "model": "gemini-3.5-flash",
+ "channel": "Gorax",
+ "title": "I Kept Summoning in Option Summons II… Big Mistake? | Dragonheir x Dragonstride",
+ "published": "2026-10-07T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=kmI10_fvl-c",
+ "short": false,
+ "summarized": "2026-11-02T02:19Z"
+}

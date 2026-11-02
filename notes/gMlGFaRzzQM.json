@@ -1,0 +1,78 @@
+{
+ "summary": "Fastidious showcases a 100% free-to-play team setup built within the first week of a new account that can clear Stage 14 across Grave of Venom, Grave of Rot, and Grave of Curse. The strategy pairs two Frost DPS heroes (Auster and Lossenia) with three sustain supports (Garius, Gillian, and Child of Chaos). Detailed skill breakdowns, budget gear setups, and gameplay examples demonstrate how heavy sustain allows early progression through time-gated dungeon content.",
+ "topics": [
+  "F2P team",
+  "early game progression",
+  "Grave of Venom",
+  "Grave of Rot",
+  "Grave of Curse"
+ ],
+ "heroes": [
+  {
+   "name": "Auster",
+   "verdict": "top DPS for early game progression",
+   "note": "Delivers high cold splash and AoE damage that ignores defense while synergizing perfectly with Frost appliers.",
+   "known": true
+  },
+  {
+   "name": "Lossenia",
+   "verdict": "essential Frost enabler",
+   "note": "Free new-account hero providing reliable Frost application, AoE crowd control, and setup for Auster.",
+   "known": true
+  },
+  {
+   "name": "Garius",
+   "verdict": "top-tier epic tank",
+   "note": "Free Day 2 login hero who stacks up to 60% extra Defense passively, provides self-sustain, and heals the entire team based on his Defense.",
+   "known": true
+  },
+  {
+   "name": "Gillian",
+   "verdict": "reliable standard healer",
+   "note": "Straightforward healer that provides single-target damage reduction, map-wide AoE heals, debuff cleansing, and Defense Up II.",
+   "known": true
+  },
+  {
+   "name": "Child of Chaos",
+   "verdict": "top-tier versatile support",
+   "note": "Passively dispels debuffs/buffs every 5 seconds to heal allies, while providing team-wide Control Immunity and Ethereal AoE damage protection.",
+   "known": true
+  },
+  {
+   "name": "Vinyara",
+   "verdict": "great alternative for Grave of Curse",
+   "note": "Free hero from Heroic Journey who dispels enemy buffs, lowers ultimate energy, and applies Attack Penalty.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "All Graves (Venom, Rot, Curse)",
+   "heroes": [
+    "Auster",
+    "Lossenia",
+    "Garius",
+    "Gillian",
+    "Child of Chaos"
+   ],
+   "note": "A heavy-sustain F2P composition pairing two Frost damage dealers with three supports to reliably clear early equipment dungeons."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Running three supports alongside two DPS is key to surviving high dungeon stages with low-tier gear.",
+  "Prioritize farming Goblin Lair to keep your entire roster at the highest possible Resonance Level.",
+  "Bring buff dispels or buff prohibition (such as Child of Chaos or Vinyara) when fighting the Blood Prince Xenos in Grave of Curse."
+ ],
+ "season": "S1",
+ "server_scope": "S1",
+ "value": "high",
+ "id": "gMlGFaRzzQM",
+ "model": "gemini-3.5-flash",
+ "channel": "Fastidious Dragonheir",
+ "title": "MAXIMIZE Your Progress With This Day 7 F2P Team! ⁂ Dragonheir: Silent Gods",
+ "published": "2026-10-07T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=gMlGFaRzzQM",
+ "short": false,
+ "summarized": "2026-11-02T02:19Z"
+}

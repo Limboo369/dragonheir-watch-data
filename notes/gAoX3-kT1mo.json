@@ -1,0 +1,113 @@
+{
+ "summary": "This video details two top-performing team compositions against the Lv. 300 Tainted Guard boss in Crisis Rally Battle: a Toxin team and an Aura team. The creator breaks down the exact hero builds, artifact choices, skill timing rotations, and inspiration test results for Child of Chaos. The Toxin setup delivers over 7 billion damage, while the 5-DPS Aura setup achieves up to 8.9 billion damage.",
+ "topics": [
+  "Crisis Rally Battle",
+  "Tainted Guard",
+  "Toxin Team",
+  "Aura Team",
+  "Skill Timings"
+ ],
+ "heroes": [
+  {
+   "name": "Serpentemis",
+   "verdict": "Core booster/enabler for Toxin team",
+   "note": "Built with Angelic Alliance artifact, high attack, accuracy, and around 6 skill haste for smooth rotation synchronization.",
+   "known": true
+  },
+  {
+   "name": "Child of Chaos",
+   "verdict": "High-tier damage dealer in Toxin team",
+   "note": "Requires exclusive artifact Dragonbone Catalyst; increasing inspiration from level 2 to 5 increased overall team damage by roughly 1 billion.",
+   "known": true
+  },
+  {
+   "name": "Sacredeia",
+   "verdict": "Essential buffer/debuffer in Toxin team",
+   "note": "Built with high attack and Misty Conch artifact to inflict Defense Penalty II.",
+   "known": true
+  },
+  {
+   "name": "Lothair",
+   "verdict": "Main DPS in Toxin team",
+   "note": "Requires high attack bonus (+5.5k) and high enlightenment (+600) to maximize damage output.",
+   "known": true
+  },
+  {
+   "name": "Sleight",
+   "verdict": "DPS and debuffer in Toxin team",
+   "note": "Equipped with Puppeteer set and built with attack and accuracy.",
+   "known": true
+  },
+  {
+   "name": "Aemonleyda",
+   "verdict": "Key survival tank for Aura team",
+   "note": "Built pure tank with high HP/Defense and Golden Antlers artifact; operates on default auto timing without manual rotation setup.",
+   "known": true
+  },
+  {
+   "name": "Lincos",
+   "verdict": "Attack buffer in Aura team",
+   "note": "Uses Puppeteer set to maximize shared attack bonus to team damage dealers.",
+   "known": true
+  },
+  {
+   "name": "Diantha",
+   "verdict": "Attack buffer and Aura field trigger",
+   "note": "Uses 2-piece Puppeteer and Vortex Illusion with first cast set to around 11.5s to 11.7s.",
+   "known": true
+  },
+  {
+   "name": "Talethia",
+   "verdict": "Primary DPS in Aura team",
+   "note": "Built with over 90k HP and critical damage to output massive damage under Aura fields.",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "Support buffer in Aura team",
+   "note": "Equipped with Angelic Alliance, Wildsand Devotion, and Secrecy sets; left on default timing with high skill haste.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Crisis Rally Battle - Tainted Guard",
+   "heroes": [
+    "Serpentemis",
+    "Child of Chaos",
+    "Sacredeia",
+    "Lothair",
+    "Sleight"
+   ],
+   "note": "Toxin team running a synchronized 17.2s recast rotation, outputting 6.2B to 7.0B+ damage per run."
+  },
+  {
+   "mode": "Crisis Rally Battle - Tainted Guard",
+   "heroes": [
+    "Aemonleyda",
+    "Lincos",
+    "Diantha",
+    "Talethia",
+    "Anneliesis"
+   ],
+   "note": "Full Aura team operating on a 17.5s recast loop, achieving up to 8.9B total damage."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Synchronize your team's recast skill timings (e.g., 17.2s for Toxin, 17.5s for Aura) so ultimate abilities line up with debuffs and buffs.",
+  "Equip attack-sharing heroes like Lincos and Diantha with Puppeteer set pieces to stack Attack % bonuses across the entire team.",
+  "Build Aemonleyda with high HP and Defense so she withstands boss crowd control and single-target attacks without needing skill timing delays."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "gAoX3-kT1mo",
+ "model": "gemini-3.5-flash",
+ "channel": "Neff Gaming",
+ "title": "CRUSHING THE TAINTED GUARD BOSS: Toxin & Aura Team Setups! | Dragonheir: Silent Gods",
+ "published": "2026-10-07T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=gAoX3-kT1mo",
+ "short": false,
+ "summarized": "2026-11-02T02:22Z"
+}

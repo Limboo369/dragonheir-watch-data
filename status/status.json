@@ -1,14 +1,13 @@
 {
- "built": "2026-11-02T01:55Z",
- "last_fetch": "2026-11-02T01:18Z",
+ "built": "2026-11-02T02:22Z",
+ "last_fetch": "2026-11-02T02:18Z",
  "counts": {
-  "summarized": 175,
+  "summarized": 183,
   "skipped_giveaway": 17,
   "baseline": 22,
-  "new": 422,
+  "new": 414,
   "skipped_live": 1,
-  "failed": 1,
-  "retry": 1
+  "failed": 2
  },
  "problems": [
   {
@@ -20,49 +19,16 @@
   {
    "title": "🔥 Season 9 FIRST CROWN CONTEST! Code: SKYASTERIX | Dragonheir: Silent Gods",
    "channel": "Skyasterix Gaming",
-   "status": "retry",
+   "status": "failed",
    "error": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}"
   }
  ],
  "budget": {
   "day": "2026-11-02",
-  "seconds": 20467,
+  "seconds": 26181,
   "v2": 1
  },
  "log_tail": [
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 153 videos, 148 heroes",
-  "== 2026-11-02 00:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "… Neff Gaming: Dragonheir NEW EVENT! Crimson Crow's Feast Guide + Best Pack",
-  "… liveranov: Aura Team (Lv 79) vs Fire Guardians | Crown Contest Round 1 ",
-  "… Skyasterix Gaming: 🔥 Season 9 FIRST CROWN CONTEST! Code: SKYASTERIX | Dragonhei",
-  "… Skyasterix Gaming: 🔥 Season 9 FIRST CROWN CONTEST! Code: SKYASTERIX | Dragonhei",
-  "… Skratch Gaming: Crown Contest Teams Season 9 Ice Fortress! Dragonheir: Silen",
-  "! 🔥 Season 9 FIRST CROWN CONTEST! Code: SKYASTERIX |: ClientError: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
-  "… OddOneGaming RPGs: 💥 Build The BEST Teams 💥 My 2 Teams For Crown Contest S9 #dr",
-  "saved -OuAUscqGVw",
-  "+ liveranov: Aura Team (Lv 79) vs Fire Guardians | Crown Contest Round 1 ",
-  "… liveranov: Up to 27% OFF Crimson Crow Gifts on BuffBuff 💰 Dragonheir De",
-  "saved yxXzRk7q3JM",
-  "+ Neff Gaming: Dragonheir NEW EVENT! Crimson Crow's Feast Guide + Best Pack",
-  "… Skratch Gaming: THE BEST EVENT IS BACK!! Dragonheir: Silent Gods x Dragonstr",
-  "saved ZPnqAVRwpAI",
-  "+ OddOneGaming RPGs: 💥 Build The BEST Teams 💥 My 2 Teams For Crown Contest S9 #dr",
-  "… OddOneGaming RPGs: 💥 These Teams DESTROY Crown Contest 💥 My 2 Teams S9 Crown Co",
-  "saved 0ZADnrn_jh0",
-  "+ Skratch Gaming: Crown Contest Teams Season 9 Ice Fortress! Dragonheir: Silen",
-  "… OddOneGaming RPGs: 💥 HUGE Rewards 💥 5 NEW Promo Codes Up For Grabs For EVERYONE",
-  "saved PXXHUnxFJRc",
-  "+ liveranov: Up to 27% OFF Crimson Crow Gifts on BuffBuff 💰 Dragonheir De",
-  "… Gorax: Crimson Crow’s Feast – Is This the BEST Value Event for Spen",
-  "saved O28V9w5PJdA",
-  "+ OddOneGaming RPGs: 💥 These Teams DESTROY Crown Contest 💥 My 2 Teams S9 Crown Co",
-  "… Skratch Gaming: WE NEED MORE CHANGES!! The Gear Drops Are Still Not Good Eno",
-  "saved 96hi_nPJh2I",
-  "+ OddOneGaming RPGs: 💥 HUGE Rewards 💥 5 NEW Promo Codes Up For Grabs For EVERYONE",
-  "saved oeExx0bLKOE",
-  "+ Gorax: Crimson Crow’s Feast – Is This the BEST Value Event for Spen",
   "saved S_vEulOev_0",
   "+ Skyasterix Gaming: 🔥 Season 9 FIRST CROWN CONTEST! Code: SKYASTERIX | Dragonhei",
   "saved EPflcyTpzw0",
@@ -109,7 +75,40 @@
   "+ liveranov: Aura vs Chaos Hunter (Area Boss 1) | Crisis Rally | Season 8",
   "saved zlkDqeP9Des",
   "+ Skratch Gaming: Worth Pulling For Elecebre?? Dragonheir: Silent Gods x Drago",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 175 videos, 149 heroes"
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 175 videos, 149 heroes",
+  "== 2026-11-02 02:17",
+  "fetch done: 0 new transcripts, 0 not available yet",
+  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
+  "… Skyasterix Gaming: 🔥 Season 9 FIRST CROWN CONTEST! Code: SKYASTERIX | Dragonhei… liveranov: Aura vs Tainted Guard (Area Boss 2) | Crisis Rally | Season … Gorax: I Kept Summoning in Option Summons II… Big Mistake? | Dragon",
+  "",
+  "",
+  "… Gorax: Win Heliolite Dice & Wyrmarrow! Enter Before It Ends | Drago",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "… Skratch Gaming: IT'S FINALLY COMING!! Server Transfer & More... Dragonheir: ",
+  "! 🔥 Season 9 FIRST CROWN CONTEST! Code: SKYASTERIX |: ClientError: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
+  "… Fastidious Dragonheir: MAXIMIZE Your Progress With This Day 7 F2P Team! ⁂ Dragonhei",
+  "saved jH3FNP014ws",
+  "+ Gorax: Win Heliolite Dice & Wyrmarrow! Enter Before It Ends | Drago",
+  "… Neff Gaming: CRUSHING THE TAINTED GUARD BOSS: Toxin & Aura Team Setups! |",
+  "saved ql--QLIbiZQ",
+  "+ liveranov: Aura vs Tainted Guard (Area Boss 2) | Crisis Rally | Season ",
+  "… Neff Gaming: CRUSHING THE Abyssal EMISSARY BOSS: Dauntless, Thunderbolt &",
+  "saved iXHpxcRH8W0",
+  "+ Skratch Gaming: IT'S FINALLY COMING!! Server Transfer & More... Dragonheir: ",
+  "… Gorax: MUST WATCH! Anneliesis Return Looks Very Likely | Dragonheir",
+  "saved kmI10_fvl-c",
+  "+ Gorax: I Kept Summoning in Option Summons II… Big Mistake? | Dragon",
+  "saved gMlGFaRzzQM",
+  "+ Fastidious Dragonheir: MAXIMIZE Your Progress With This Day 7 F2P Team! ⁂ Dragonhei",
+  "saved e3O_XZvWCPo",
+  "+ Neff Gaming: CRUSHING THE Abyssal EMISSARY BOSS: Dauntless, Thunderbolt &",
+  "saved dff1T986Zg8",
+  "+ Gorax: MUST WATCH! Anneliesis Return Looks Very Likely | Dragonheir",
+  "saved gAoX3-kT1mo",
+  "+ Neff Gaming: CRUSHING THE TAINTED GUARD BOSS: Toxin & Aura Team Setups! |"
  ],
  "crontab": [],
  "channels": [
@@ -117,55 +116,55 @@
    "name": "Skratch Gaming",
    "id": "UCoSkzr1pXpt3d0jIxsc6ufw",
    "enabled": true,
-   "checked": "2026-11-02T01:17Z"
+   "checked": "2026-11-02T02:17Z"
   },
   {
    "name": "Gorax",
    "id": "UCNas7BnuOIjDEzY1D53kb1w",
    "enabled": true,
-   "checked": "2026-11-02T01:17Z"
+   "checked": "2026-11-02T02:17Z"
   },
   {
    "name": "Neff Gaming",
    "id": "UCsxs6YhNd_B36RgUAjbpJ_A",
    "enabled": true,
-   "checked": "2026-11-02T01:17Z"
+   "checked": "2026-11-02T02:17Z"
   },
   {
    "name": "Volkin Dragonheir",
    "id": "UCfRpOh_ywVjzhh9fxHbreGw",
    "enabled": true,
-   "checked": "2026-11-02T01:17Z"
+   "checked": "2026-11-02T02:17Z"
   },
   {
    "name": "Fastidious Dragonheir",
    "id": "UC16mpj5wEemSZX-uTlHe9Ww",
    "enabled": true,
-   "checked": "2026-11-02T01:17Z"
+   "checked": "2026-11-02T02:18Z"
   },
   {
    "name": "OddOneGaming RPGs",
    "id": "UC1ivUEf_poI9_R2eVKa8wRQ",
    "enabled": true,
-   "checked": "2026-11-02T01:18Z"
+   "checked": "2026-11-02T02:18Z"
   },
   {
    "name": "Suzi Plays",
    "id": "UCyo1-TkunhGcK6khU1h8Ypw",
    "enabled": true,
-   "checked": "2026-11-02T01:18Z"
+   "checked": "2026-11-02T02:18Z"
   },
   {
    "name": "Skyasterix Gaming",
    "id": "UCr5Gb3910rK7QPmKMmdagsA",
    "enabled": true,
-   "checked": "2026-11-02T01:18Z"
+   "checked": "2026-11-02T02:18Z"
   },
   {
    "name": "liveranov",
    "id": "UCqCR7ofFHhWwXy3Hg00fqEw",
    "enabled": true,
-   "checked": "2026-11-02T01:18Z"
+   "checked": "2026-11-02T02:18Z"
   }
  ]
 }

@@ -1,0 +1,71 @@
+{
+ "summary": "This video showcases an Aura element team competing in Crisis Rally Area Boss 2 against the Level 300 Tainted Guard. Using a lineup of Talethia, Anneliesis, Diantha, Lincos, and Child of Chaos, the setup achieves over 7.64 billion total damage. Talethia serves as the hyper-carry, dealing over 7 billion damage on her own. Complete hero stats, gear builds, and precise skill timing presets are shown at the end of the video.",
+ "topics": [
+  "Crisis Rally",
+  "Area Boss",
+  "Aura Team",
+  "Tainted Guard",
+  "Talethia"
+ ],
+ "heroes": [
+  {
+   "name": "Talethia",
+   "verdict": "Top DPS Hyper-carry",
+   "note": "Dealt over 7 billion damage alone against Tainted Guard in Crisis Rally.",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "Core Aura Support",
+   "note": "Provides vital buffs and ultimate alignment for the Aura composition.",
+   "known": true
+  },
+  {
+   "name": "Diantha",
+   "verdict": "Key Aura Enabler",
+   "note": "Maintains elemental synergy and damage amplification for the team.",
+   "known": true
+  },
+  {
+   "name": "Lincos",
+   "verdict": "Solid Aura Utility Support",
+   "note": "Helps maintain optimal skill cycles and team survival.",
+   "known": true
+  },
+  {
+   "name": "Child of Chaos",
+   "verdict": "Essential Aura Buffer/Enabler",
+   "note": "Contributes to overall team rotation and damage scaling.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Crisis Rally Area Boss 2 - Tainted Guard",
+   "heroes": [
+    "Talethia",
+    "Anneliesis",
+    "Diantha",
+    "Lincos",
+    "Child of Chaos"
+   ],
+   "note": "Scored 7.64B total damage with synced recast timings set to 17.5s."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Set recast timers for all ultimates to 17.5s to synchronize buff windows and maximize Talethia's damage bursts.",
+  "Build Talethia with high Crit Rate (90%+) and high Attack/Crit Damage to maximize Aura execution damage."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "ql--QLIbiZQ",
+ "model": "gemini-3.5-flash",
+ "channel": "liveranov",
+ "title": "Aura vs Tainted Guard (Area Boss 2) | Crisis Rally | Season 8 | Dragonheir",
+ "published": "2026-10-07T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=ql--QLIbiZQ",
+ "short": false,
+ "summarized": "2026-11-02T02:19Z"
+}

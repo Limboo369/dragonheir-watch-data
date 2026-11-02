@@ -1,0 +1,33 @@
+{
+ "summary": "The October 9 update preloads Season 9, which officially begins on October 23 alongside the new Magichess season, Realm of Strife. A long-awaited Server Transfer Pre-registration system is being introduced, allowing players to transfer servers during seasonal settlement with a target server invitation code and approval. Glory Colosseum returns on December 1 as a revamped monthly 3-team server-wide PvP mode with refreshed battle mechanics and rewards. Additional QoL updates include auto-processing custom equipment settings, quick-leveling features for the Legacy Coffer, and Magichess talent rebalances.",
+ "topics": [
+  "server transfer",
+  "Season 9",
+  "Magichess",
+  "Glory Colosseum",
+  "patch notes"
+ ],
+ "heroes": [],
+ "teams": [],
+ "meta_changes": [
+  "Server Transfer Pre-registration added, allowing server changes during seasonal settlement under target server approval.",
+  "Glory Colosseum returns December 1 as a revamped server-wide 3-team PvP competitive mode.",
+  "Magichess updates include the new Conqueror bond, three upcoming heroes, talent rebalances (Bounty and Alchemy), and additional Tactical Adventure stages."
+ ],
+ "tips": [
+  "Avoid blindly transferring servers thinking it will be easier, as many competitive players will be attempting the same move.",
+  "Ensure you obtain an invitation code from the target server before submitting a server transfer reservation.",
+  "Server transfers can only be executed during your current server's seasonal settlement period."
+ ],
+ "season": "S9",
+ "server_scope": "mixed",
+ "value": "medium",
+ "id": "iXHpxcRH8W0",
+ "model": "gemini-3.5-flash",
+ "channel": "Skratch Gaming",
+ "title": "IT'S FINALLY COMING!! Server Transfer & More... Dragonheir: Silent Gods x Dragonstride",
+ "published": "2026-10-07T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=iXHpxcRH8W0",
+ "short": false,
+ "summarized": "2026-11-02T02:19Z"
+}
