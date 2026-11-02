@@ -1,5 +1,5 @@
 {
- "built": "2026-11-02T01:22Z",
+ "built": "2026-11-02T01:55Z",
  "last_fetch": "2026-11-02T01:18Z",
  "counts": {
   "summarized": 175,
@@ -30,7 +30,6 @@
   "v2": 1
  },
  "log_tail": [
-  "daily video budget used (444 min), waiting for tomorrow",
   "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 153 videos, 148 heroes",
   "== 2026-11-02 00:17",
   "fetch done: 0 new transcripts, 0 not available yet",
@@ -109,7 +108,8 @@
   "saved rideArj4Ug4",
   "+ liveranov: Aura vs Chaos Hunter (Area Boss 1) | Crisis Rally | Season 8",
   "saved zlkDqeP9Des",
-  "+ Skratch Gaming: Worth Pulling For Elecebre?? Dragonheir: Silent Gods x Drago"
+  "+ Skratch Gaming: Worth Pulling For Elecebre?? Dragonheir: Silent Gods x Drago",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 175 videos, 149 heroes"
  ],
  "crontab": [],
  "channels": [
