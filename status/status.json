@@ -1,5 +1,5 @@
 {
- "built": "2026-11-02T00:25Z",
+ "built": "2026-11-02T01:04Z",
  "last_fetch": "2026-11-02T00:17Z",
  "counts": {
   "summarized": 164,
@@ -42,7 +42,6 @@
   "v2": 1
  },
  "log_tail": [
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 153 videos, 148 heroes",
   "/bin/bash: line 1: /root/ytwatch/run.sh: Permission denied",
   "== 2026-11-01 16:17",
   "fetch done: 0 new transcripts, 0 not available yet",
@@ -121,7 +120,8 @@
   "saved EPflcyTpzw0",
   "+ Skratch Gaming: WE NEED MORE CHANGES!! The Gear Drops Are Still Not Good Eno",
   "saved G8YVnlncNMo",
-  "+ Skratch Gaming: THE BEST EVENT IS BACK!! Dragonheir: Silent Gods x Dragonstr"
+  "+ Skratch Gaming: THE BEST EVENT IS BACK!! Dragonheir: Silent Gods x Dragonstr",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 164 videos, 148 heroes"
  ],
  "crontab": [],
  "channels": [
