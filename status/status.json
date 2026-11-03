@@ -1,6 +1,6 @@
 {
- "built": "2026-11-03T17:05Z",
- "last_fetch": "2026-11-03T16:17Z",
+ "built": "2026-11-03T17:36Z",
+ "last_fetch": "2026-11-03T17:17Z",
  "counts": {
   "summarized": 214,
   "skipped_giveaway": 17,
@@ -29,11 +29,6 @@
   "v2": 1
  },
  "log_tail": [
-  "+ OddOneGaming RPGs: 🚨 Some Unexpected Teams 🚨 My 6 Teams For CC Bosses S8 Last W",
-  "saved e1p87KNEq0g",
-  "+ Fastidious Dragonheir: After 7 Days Completely F2P — How Far Did I Get? ⁂ Dragonhei",
-  "  gemini-3.5-flash: 503, using gemini-3.7-flash",
-  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
   "saved o_jfaB478PE",
   "+ Neff Gaming: SEASON 9 FIRST LOOK: Discovering the New Heroes and Updates ",
   "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 214 videos, 165 heroes",
@@ -108,6 +103,11 @@
   "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "daily video budget used (449 min), waiting for tomorrow",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 214 videos, 165 heroes",
+  "== 2026-11-03 17:17",
+  "fetch done: 0 new transcripts, 0 not available yet",
+  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
+  "daily video budget used (449 min), waiting for tomorrow",
   "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 214 videos, 165 heroes"
  ],
  "crontab": [],
@@ -116,55 +116,55 @@
    "name": "Skratch Gaming",
    "id": "UCoSkzr1pXpt3d0jIxsc6ufw",
    "enabled": true,
-   "checked": "2026-11-03T16:17Z"
+   "checked": "2026-11-03T17:17Z"
   },
   {
    "name": "Gorax",
    "id": "UCNas7BnuOIjDEzY1D53kb1w",
    "enabled": true,
-   "checked": "2026-11-03T16:17Z"
+   "checked": "2026-11-03T17:17Z"
   },
   {
    "name": "Neff Gaming",
    "id": "UCsxs6YhNd_B36RgUAjbpJ_A",
    "enabled": true,
-   "checked": "2026-11-03T16:17Z"
+   "checked": "2026-11-03T17:17Z"
   },
   {
    "name": "Volkin Dragonheir",
    "id": "UCfRpOh_ywVjzhh9fxHbreGw",
    "enabled": true,
-   "checked": "2026-11-03T16:17Z"
+   "checked": "2026-11-03T17:17Z"
   },
   {
    "name": "Fastidious Dragonheir",
    "id": "UC16mpj5wEemSZX-uTlHe9Ww",
    "enabled": true,
-   "checked": "2026-11-03T16:17Z"
+   "checked": "2026-11-03T17:17Z"
   },
   {
    "name": "OddOneGaming RPGs",
    "id": "UC1ivUEf_poI9_R2eVKa8wRQ",
    "enabled": true,
-   "checked": "2026-11-03T16:17Z"
+   "checked": "2026-11-03T17:17Z"
   },
   {
    "name": "Suzi Plays",
    "id": "UCyo1-TkunhGcK6khU1h8Ypw",
    "enabled": true,
-   "checked": "2026-11-03T16:17Z"
+   "checked": "2026-11-03T17:17Z"
   },
   {
    "name": "Skyasterix Gaming",
    "id": "UCr5Gb3910rK7QPmKMmdagsA",
    "enabled": true,
-   "checked": "2026-11-03T16:17Z"
+   "checked": "2026-11-03T17:17Z"
   },
   {
    "name": "liveranov",
    "id": "UCqCR7ofFHhWwXy3Hg00fqEw",
    "enabled": true,
-   "checked": "2026-11-03T16:17Z"
+   "checked": "2026-11-03T17:17Z"
   }
  ]
 }
