@@ -1,0 +1,71 @@
+{
+ "summary": "This showcase demonstrates an Aura-element team tackling the Abyssal Emissary (Area Boss 3) in the Crisis Rally event. The deployed lineup features Talethia, Anneliesis, Diantha, Lincos, and Child of Chaos, reaching over 8 billion damage in the encounter. Full stat sheets, equipment configurations, and precise skill timing delays are provided at the end of the run. All team members' ultimates are synchronized on a 17.5-second recast rotation.",
+ "topics": [
+  "Crisis Rally",
+  "Abyssal Emissary",
+  "Aura Team",
+  "Area Boss",
+  "Skill Timing"
+ ],
+ "heroes": [
+  {
+   "name": "Talethia",
+   "verdict": "Core Aura DPS",
+   "note": "Serves as the primary damage dealer in the Aura composition against Abyssal Emissary.",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "Aura buffer and support",
+   "note": "Supports the team with a delayed 28.0s first cast ultimate followed by a 17.5s recast cycle.",
+   "known": true
+  },
+  {
+   "name": "Diantha",
+   "verdict": "Key Aura enabler",
+   "note": "Provides team synergy timed to cast first at 11.0s to precede the DPS rotations.",
+   "known": true
+  },
+  {
+   "name": "Lincos",
+   "verdict": "Aura team support/DPS",
+   "note": "Contributes to the synchronized burst rotation with an 11.5s initial skill timing.",
+   "known": true
+  },
+  {
+   "name": "Child of Chaos",
+   "verdict": "Aura team support/tank",
+   "note": "Maintains team stability and rotation timing timed at 11.5s first cast.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Crisis Rally - Abyssal Emissary (Area Boss 3)",
+   "heroes": [
+    "Talethia",
+    "Anneliesis",
+    "Diantha",
+    "Lincos",
+    "Child of Chaos"
+   ],
+   "note": "Aura team setup reaching over 8 billion damage on Abyssal Emissary. Skill timings: Diantha at 11.0s, Talethia, Lincos, and Child of Chaos at 11.5s, and Anneliesis delayed to 28.0s, all cycling every 17.5s."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Tune all heroes in this Aura composition to a 17.5-second recast interval to ensure synchronized ultimate cycles.",
+  "Delay Anneliesis's first ultimate cast to 28.0 seconds while triggering Diantha at 11.0s and the rest of the team at 11.5s."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "VMnggAEkhNU",
+ "model": "gemini-3.8-flash",
+ "channel": "liveranov",
+ "title": "Aura vs Abyssal Emissary (Area Boss 3) | Crisis Rally | Season 8 | Dragonheir",
+ "published": "2026-10-07T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=VMnggAEkhNU",
+ "short": false,
+ "summarized": "2026-11-03T00:22Z"
+}

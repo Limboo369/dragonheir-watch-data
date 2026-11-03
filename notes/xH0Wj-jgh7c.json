@@ -1,0 +1,35 @@
+{
+ "summary": "Syonis is a Shadow School support hero specialized in extended fights such as Continental Challenge. His passive reduces enemy Defense in an area in front of him, scaling with his Enlightenment. Upon casting his Battle Skill, he boosts the Attack of allied Shadow School heroes. He can also unlock healing utility through his Complete Cataloging talent when enemies are defeated in his Energy Drain Zone.",
+ "topics": [
+  "Syonis",
+  "Hero Spotlight",
+  "Shadow School",
+  "Continental Challenge"
+ ],
+ "heroes": [
+  {
+   "name": "Syonis",
+   "verdict": "S tier PvE / A tier PvP Shadow support",
+   "note": "Lowers enemy Defense based on Enlightenment, buffs allied Shadow heroes' Attack after using his Battle Skill, and gains healing utility through his talents.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [],
+ "tips": [
+  "Build Enlightenment on Syonis to increase the Defense reduction applied to enemies in front of him.",
+  "Activate the Complete Cataloging talent to unlock bonus healing whenever enemies are eliminated within his Energy Drain Zone.",
+  "Pair Syonis with Shadow School allies in long-duration battles like Continental Challenge to maximize team damage output."
+ ],
+ "season": "S9",
+ "server_scope": "mixed",
+ "value": "medium",
+ "id": "xH0Wj-jgh7c",
+ "model": "gemini-3.8-flash",
+ "channel": "Gorax",
+ "title": "Syonis Explained in 30 Seconds! ⚡ Is He Worth Using? | Dragonheir x Dragonstride",
+ "published": "2026-11-02T09:00:02+00:00",
+ "url": "https://www.youtube.com/shorts/xH0Wj-jgh7c",
+ "short": true,
+ "summarized": "2026-11-03T00:21Z"
+}

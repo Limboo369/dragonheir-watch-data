@@ -1,0 +1,84 @@
+{
+ "summary": "Neff Gaming showcases an alternative Vortex III team composition combining an Ice Blast team with a Toxin team featuring Child of Chaos and Reytah, hitting 7 billion damage. Reytah is used as an alternative to Stegamoffyn and performs similarly well. The video covers hero positioning, stat thresholds such as accuracy requirements, gear choices, and exact skill timings. Proper positioning is crucial so that attack-sharing buffs from Reytah and Sleight affect the main damage dealer, Serpentemis.",
+ "topics": [
+  "Vortex III",
+  "Toxin Team",
+  "Ice Blast Team",
+  "Hero Builds",
+  "Skill Timings"
+ ],
+ "heroes": [
+  {
+   "name": "Reytah",
+   "verdict": "Viable alternative to Stegamoffyn in Vortex III",
+   "note": "Performs similarly to Stegamoffyn in Vortex III toxin compositions and shares attack buffs; equip Mystic Conch if her exclusive artifact is missing.",
+   "known": true
+  },
+  {
+   "name": "Child of Chaos",
+   "verdict": "Key frontline enabler for Vortex III Toxin team",
+   "note": "Positioned at the front line and geared with a Puppeteer set to tank and support the squad.",
+   "known": true
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "Primary Toxin damage dealer",
+   "note": "Achieves high damage output even at Inspiration 0 when positioned adjacent to Reytah to receive attack sharing.",
+   "known": true
+  },
+  {
+   "name": "Twitch",
+   "verdict": "Core debuffer/DPS for Vortex III",
+   "note": "Requires around 200 Accuracy to consistently land debuffs against the increased boss resistance.",
+   "known": true
+  },
+  {
+   "name": "Sleight",
+   "verdict": "Strong support/buffer",
+   "note": "Provides attack sharing buffs to neighboring units in the Vortex III formation.",
+   "known": true
+  },
+  {
+   "name": "Stegamoffyn",
+   "verdict": "Top-tier Vortex III pick",
+   "note": "Previously used in Child of Chaos setups before Reytah was showcased as a comparable alternative.",
+   "known": true
+  },
+  {
+   "name": "Celestine",
+   "verdict": "Core unit in Ice Blast Vortex III composition",
+   "note": "Featured in the first half of the Vortex III dual-team setup.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Temporal Vortex / Vortex III",
+   "heroes": [
+    "Child of Chaos",
+    "Reytah",
+    "Serpentemis",
+    "Twitch",
+    "Sleight"
+   ],
+   "note": "Toxin half of the Vortex III composition; Child of Chaos tanks in front, Twitch sits near the pet, and Reytah is placed near Serpentemis for attack sharing."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Ensure debuffers like Twitch reach roughly 200 Accuracy to overcome higher resistance scaling in Vortex III.",
+  "Position Reytah and Sleight adjacent to Serpentemis so their attack-sharing gear and mechanics buff your main carry.",
+  "If you do not have Reytah's exclusive artifact, equip Mystic Conch instead."
+ ],
+ "season": "unknown",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "3uP3hZ785mM",
+ "model": "gemini-3.8-flash",
+ "channel": "Neff Gaming",
+ "title": "VORTEX III 🔥 Child of Chaos + Reytah Team Setup! | Dragonheir: Silent Gods",
+ "published": "2026-11-02T12:59:25+00:00",
+ "url": "https://www.youtube.com/shorts/3uP3hZ785mM",
+ "short": true,
+ "summarized": "2026-11-03T00:18Z"
+}

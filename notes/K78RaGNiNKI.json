@@ -1,0 +1,74 @@
+{
+ "summary": "This video breaks down a high-scoring Vortex III team setup imported from Chinese servers featuring an Aura team and a Toxin team. The spotlight is on the Toxin composition utilizing Child of Chaos and Stegamoffyn to ensure team survivability throughout the entire encounter. Notably, the Toxin team achieved 8.2 billion damage with an Inspiration 0 Serpentemis. For players without high Inspiration on Stegamoffyn, survivability can be compensated by stacking higher HP% and Defense% stats on damage dealers. The creator also displays exact hero positioning, vault gear, artifacts like Puppeteer, and skill timings for both teams.",
+ "topics": [
+  "Vortex III",
+  "Toxin Team",
+  "Team Composition",
+  "Stegamoffyn",
+  "Child of Chaos"
+ ],
+ "heroes": [
+  {
+   "name": "Serpentemis",
+   "verdict": "Core damage dealer for Vortex III Toxin team",
+   "note": "Achieved 8.2 billion damage in Vortex III even at Inspiration 0 when supported properly.",
+   "known": true
+  },
+  {
+   "name": "Stegamoffyn",
+   "verdict": "Essential sustain and support in Vortex III",
+   "note": "Keeps the Toxin team alive through the fight, though players with low inspiration on him need to compensate with defensive gear stats.",
+   "known": true
+  },
+  {
+   "name": "Child of Chaos",
+   "verdict": "Key support for Toxin Vortex III survivability",
+   "note": "Enables the Toxin team to survive the full duration of the Vortex III boss battle when equipped with Puppeteer.",
+   "known": true
+  },
+  {
+   "name": "Sleight",
+   "verdict": "Vortex III Toxin teammate",
+   "note": "Included in the five-man Chinese server Toxin lineup alongside Serpentemis and Twitch.",
+   "known": true
+  },
+  {
+   "name": "Twitch",
+   "verdict": "Vortex III Toxin teammate",
+   "note": "Runs as part of the primary Toxin squad for consistent poison application and damage.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Vortex III",
+   "heroes": [
+    "Child of Chaos",
+    "Stegamoffyn",
+    "Sleight",
+    "Serpentemis",
+    "Twitch"
+   ],
+   "note": "Toxin team that dealt 8.2 billion damage with an Inspiration 0 Serpentemis; positioning places Child of Chaos and Stegamoffyn in front, with Sleight, Serpentemis, and Twitch behind."
+  }
+ ],
+ "meta_changes": [
+  "Child of Chaos paired with Stegamoffyn enables Toxin teams to survive the entire duration of Vortex III without requiring high inspiration levels on damage dealers."
+ ],
+ "tips": [
+  "If your Stegamoffyn lacks high Inspiration, compensate for the lower healing by building more HP% and Defense% on your damage dealers.",
+  "Equip Child of Chaos with the Puppeteer artifact for optimal team support in Vortex III.",
+  "Ensure all heroes reach required Accuracy thresholds for Vortex III boss debuffs."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "K78RaGNiNKI",
+ "model": "gemini-3.8-flash",
+ "channel": "Neff Gaming",
+ "title": "VORTEX III 🔥 Child of Chaos + Stegamoffyn Team Setup! | Dragonheir: Silent Gods",
+ "published": "2026-11-02T12:36:39+00:00",
+ "url": "https://www.youtube.com/shorts/K78RaGNiNKI",
+ "short": true,
+ "summarized": "2026-11-03T00:20Z"
+}

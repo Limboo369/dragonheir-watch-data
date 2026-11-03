@@ -1,0 +1,104 @@
+{
+ "summary": "This video tests team compositions to push damage on Difficulty 3 of the Temporal Vortex boss Arbor Hydra. Skratch compares an Aura team and a Dauntless team paired alongside Toxin, finding that survivability is the biggest barrier to hitting high scores. While Stegamoffyn provides an Attack aura for Toxin, replacing him with Reytah using her exclusive artifact for Defense Down provided superior team survivability. The combination of a Dauntless lineup and a Reytah-led Toxin team achieved over 9.5 billion total damage with both teams surviving the full fight duration.",
+ "topics": [
+  "Temporal Vortex",
+  "Arbor Hydra",
+  "Toxin Team",
+  "Dauntless Team",
+  "Aura Team",
+  "Skill Timings"
+ ],
+ "heroes": [
+  {
+   "name": "Reytah",
+   "verdict": "Best choice for Toxin survivability and damage",
+   "note": "Although she has low base HP, equipping her exclusive artifact for Defense Down and syncing her after Child of Chaos yielded the highest damage and allowed Toxin to survive the full duration.",
+   "known": true
+  },
+  {
+   "name": "Stegamoffyn",
+   "verdict": "Viable offensive option but lower survivability",
+   "note": "Provides a useful Attack aura and poison debuffs, but the team dies much earlier compared to running Reytah.",
+   "known": true
+  },
+  {
+   "name": "Child of Chaos",
+   "verdict": "Mandatory sustain support",
+   "note": "Essential at Inspiration 2 for healing and Attack Down debuffs; works best on default skill timing to apply healing and Attack Down immediately.",
+   "known": true
+  },
+  {
+   "name": "Twitch",
+   "verdict": "Primary Toxin damage dealer",
+   "note": "Delivers massive damage in full mythical gear; testing gear with derivative damage bonuses helped push damage even further.",
+   "known": true
+  },
+  {
+   "name": "Maashtur",
+   "verdict": "Essential Dauntless frontline support",
+   "note": "Needs survivability gear and higher Inspiration levels (ideally Inspiration 3 to 5) to survive the boss consistently.",
+   "known": true
+  },
+  {
+   "name": "Solmo",
+   "verdict": "Aura support substitute",
+   "note": "Used as a substitute when lacking Celestine, but equipping Aurelium Vest lowered damage without improving team longevity compared to Orb of the Dragon God.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Temporal Vortex Difficulty III",
+   "heroes": [
+    "Maashtur",
+    "Guinavivre",
+    "Nastjenka",
+    "Kurvida",
+    "Selva"
+   ],
+   "note": "Dauntless lineup that dealt nearly 3 billion damage and survived over 7 minutes once proper skill timings and positioning were set."
+  },
+  {
+   "mode": "Temporal Vortex Difficulty III",
+   "heroes": [
+    "Child of Chaos",
+    "Sleight",
+    "Serpentemis",
+    "Twitch",
+    "Reytah"
+   ],
+   "note": "Top-performing Toxin team reaching roughly 6.5 billion damage; Reytah carries the exclusive artifact to land Defense Down after Child of Chaos."
+  },
+  {
+   "mode": "Temporal Vortex Difficulty III",
+   "heroes": [
+    "Diantha",
+    "Talethia",
+    "Lincos",
+    "Anneliesis",
+    "Solmo"
+   ],
+   "note": "Aura lineup tested against the boss; struggled severely with survivability, wiping around 5 minutes and 25 seconds for under 2 billion damage."
+  }
+ ],
+ "meta_changes": [
+  "Temporal Vortex Difficulty 3 requires heavy investment in survivability and specific damage reduction nodes in the Psychicore to withstand boss damage."
+ ],
+ "tips": [
+  "Prioritize upgrading the all-deployed-heroes Damage Taken reduction node in the Psychicore to help teams survive Temporal Vortex III.",
+  "When using Reytah with her exclusive artifact, ensure Child of Chaos casts skills before Reytah to properly land debuffs.",
+  "Keep Child of Chaos on default ultimate timing rather than delayed recasting so healing and Attack Penalty are triggered as frequently as possible.",
+  "Temporal Vortex runs with Dauntless and Toxin are heavily RNG-dependent; multiple retries are often required to achieve a run where key units survive to the end."
+ ],
+ "season": "Dragonstride",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "XfUqC3GwXBk",
+ "model": "gemini-3.8-flash",
+ "channel": "Skratch Gaming",
+ "title": "These Temporal Vortex Teams Perform The Best!  Dragonheir: Silent Gods x Dragonstride",
+ "published": "2026-11-02T19:33:05+00:00",
+ "url": "https://www.youtube.com/watch?v=XfUqC3GwXBk",
+ "short": false,
+ "summarized": "2026-11-03T00:18Z"
+}

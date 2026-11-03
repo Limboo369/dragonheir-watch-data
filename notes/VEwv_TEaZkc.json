@@ -1,0 +1,109 @@
+{
+ "summary": "This video breaks down the top-ranking team composition for Temporal Vortex 1 during Week 1 of Season 9 on the Chinese server. The build pairs an Aura team with a Toxin team to achieve over 4.2 billion damage, outperforming Dauntless before endgame talents and mythic gear are unlocked. The Aura setup features Talethia, Diantha, Lincos, Anneliesis, and a new Season 9 Frost support, while the Toxin setup runs Sleight, Twitch, Serpentemis, Sacredeia, and Child of Chaos. The guide details positioning, gear priorities, and strict 18-second skill rotation timings.",
+ "topics": [
+  "Temporal Vortex",
+  "Season 9 Meta",
+  "Aura Team",
+  "Toxin Team",
+  "Skill Timings"
+ ],
+ "heroes": [
+  {
+   "name": "Talethia",
+   "verdict": "Top Aura DPS for early Vortex 1",
+   "note": "Built with mixed 2-piece sets for extra HP along with high Crit Damage to maximize output while surviving the boss.",
+   "known": true
+  },
+  {
+   "name": "Diantha",
+   "verdict": "Essential Aura sub-DPS and debuffer",
+   "note": "Acts as the Witch's Remains supplier, requiring solid Accuracy alongside standard Crit Rate and Crit Damage.",
+   "known": true
+  },
+  {
+   "name": "Lincos",
+   "verdict": "Core Aura buffer",
+   "note": "Equipped with the Puppetmaster artifact to boost overall team performance.",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "Aura staple",
+   "note": "Placed in the backline with high stat investment to bolster Aura team output.",
+   "known": true
+  },
+  {
+   "name": "Child of Chaos",
+   "verdict": "Core Toxin team anchor",
+   "note": "Equipped with Puppetmaster and built with Resistance; works at Inspiration 2, though high Inspiration increases consistency.",
+   "known": true
+  },
+  {
+   "name": "Sacredeia",
+   "verdict": "Crucial Toxin damage amplifier",
+   "note": "Brought primarily for her 30% poison damage vulnerability and Witch's Remains debuff; can be built defensively if survival is an issue.",
+   "known": true
+  },
+  {
+   "name": "Twitch",
+   "verdict": "Key Toxin damage dealer",
+   "note": "Built with the Alignment gear set, prioritizing Attack and heavy Accuracy for reliable debuff application.",
+   "known": true
+  },
+  {
+   "name": "Sleight",
+   "verdict": "Premier Toxin DPS",
+   "note": "Provides massive team damage scaling with an Alignment set, gaining roughly 40% damage increase from Inspiration 5.",
+   "known": true
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "Solid Toxin enabler",
+   "note": "Geared with Alignment sets focusing on Attack, Enlightenment, and minor Accuracy.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Temporal Vortex 1",
+   "heroes": [
+    "Anneliesis",
+    "Talethia",
+    "Diantha",
+    "Lincos"
+   ],
+   "note": "Team 1 Aura setup (featuring a Season 9 Frost HP-buffer support); uses an 18-second rotation cycle to dish out heavy single-target burst."
+  },
+  {
+   "mode": "Temporal Vortex 1",
+   "heroes": [
+    "Sleight",
+    "Serpentemis",
+    "Sacredeia",
+    "Child of Chaos",
+    "Twitch"
+   ],
+   "note": "Team 2 Toxin setup; runs synchronized 18-second rotations with Alignment sets and Sacredeia applying poison vulnerability."
+  }
+ ],
+ "meta_changes": [
+  "During Week 1 of Season 9, Aura paired with Toxin outperforms Dauntless because Dauntless heroes require full talent trees and mythic gear to surpass Aura's early baseline damage.",
+  "Once level 79 and mythic gear (Dungeon 15+) are unlocked, Dauntless scales massively from 4 billion up to 15+ billion damage."
+ ],
+ "tips": [
+  "Combine two 2-piece gear sets in early season progression to secure bonus HP for squishy DPS units before complete sets can be farmed.",
+  "Tune skill timers strictly around an 18-second rotation loop to keep debuffs and buffs synchronized with boss cycles.",
+  "If Sacredeia struggles to survive in Vortex 1, build Defense and HP on her instead of Attack, as her value comes from the 30% poison vulnerability debuff and Witch's Remains."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "VEwv_TEaZkc",
+ "model": "gemini-3.8-flash",
+ "channel": "Neff Gaming",
+ "title": "Best Vortex I Season 9 Team! (Week 1 Meta) | Dragonheir: Silent Gods",
+ "published": "2026-10-07T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=VEwv_TEaZkc",
+ "short": false,
+ "summarized": "2026-11-03T00:22Z"
+}

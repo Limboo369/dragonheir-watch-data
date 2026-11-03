@@ -1,0 +1,48 @@
+{
+ "summary": "Skratch discusses the Autumn Delights stamina event and the Piece of Treasury event, focusing on what Mythic gear to forge for carryover into Season 9. He evaluates gear pieces for Serpentemis (focusing on Enlightenment and Attack%) and Talethia (HP% armor with heavy Crit Damage). Players should note that sets like Death Record and Curse of the Fallen are unavailable in Season 9, though Boundless Chest allows swapping unavailable sets on retrieval. He recommends waiting to open Mythic+ Equipment Option Chests from the Crisis Rally Shop before locking in your forge. Finally, players are reminded to prepare six teams for the upcoming end-game Otherworld Exploitation boss.",
+ "topics": [
+  "Piece of Treasury",
+  "Boundless Chest",
+  "Gear Forging",
+  "Season 9 Preparation",
+  "Crisis Rally Shop",
+  "Autumn Delights"
+ ],
+ "heroes": [
+  {
+   "name": "Serpentemis",
+   "verdict": "Top pick for Temporal Vortex AoE",
+   "note": "Excels at AoE damage in Temporal Vortex and scales exceptionally well with heavy Enlightenment and high Attack% substat rolls on bottom pieces.",
+   "known": true
+  },
+  {
+   "name": "Talethia",
+   "verdict": "High-tier carry needing HP% and Crit Damage",
+   "note": "Performs best with an HP% main stat chest piece rolled heavily into Crit Damage, alongside an artifact providing Crit Rate since her exclusive artifact will not be available next season.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [
+  "Death Record and Curse of the Fallen gear sets become unavailable in Season 9; stored Boundless Chest pieces from these sets must be swapped for available Season 9 sets upon retrieval.",
+  "A brand-new Aura exclusive character is scheduled to release in Season 9."
+ ],
+ "tips": [
+  "Check the 'Unavailable in S9' tab in the Cross-Boundary Storage before selecting Boundless Chest carryover gear to avoid relying on phased-out set bonuses like Curse of the Fallen.",
+  "Wait to use your custom forge in the Furnace until opening your Mythic+ Equipment Option Chests from the Crisis Rally Shop settlement.",
+  "When forging chest armor for Serpentemis, prioritize Enlightenment main stat with quadruple Attack% secondary rolls.",
+  "For Talethia, forge HP% main stat armor with maxed Crit Damage substat rolls, as survivability and burst scaling are essential.",
+  "Begin preparing six distinct teams, as the end-game Otherworld Exploitation boss requires six full teams immediately from day one."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "XbTgoxPr9WQ",
+ "model": "gemini-3.8-flash",
+ "channel": "Skratch Gaming",
+ "title": "What To Forge?? And New Event... Dragonheir: Silent Gods x Dragonstride",
+ "published": "2026-10-07T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=XbTgoxPr9WQ",
+ "short": false,
+ "summarized": "2026-11-03T00:21Z"
+}
