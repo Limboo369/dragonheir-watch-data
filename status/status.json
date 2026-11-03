@@ -1,5 +1,5 @@
 {
- "built": "2026-11-03T01:23Z",
+ "built": "2026-11-03T01:54Z",
  "last_fetch": "2026-11-03T01:17Z",
  "counts": {
   "summarized": 207,
@@ -29,7 +29,6 @@
   "v2": 1
  },
  "log_tail": [
-  "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "… Skratch Gaming: These Temporal Vortex Teams Perform The Best!  Dragonheir: S… liveranov: Dragonheir Community Event Recap – October 2026 (Round 2)",
   "… liveranov: What to Forge First in Piece of Treasury? 🔨 Dragonheir Mythi",
@@ -108,7 +107,8 @@
   "saved ybSja1ENEqY",
   "+ Skratch Gaming: WE DID IT!! Get Your Rewards & Crisis Rally Tips... Dragonhe",
   "saved FJ-KcKgrTcg",
-  "+ Volkin Dragonheir: One Small Change For DOUBLE DAMAGE!!! [Dragonheir: Silent Go"
+  "+ Volkin Dragonheir: One Small Change For DOUBLE DAMAGE!!! [Dragonheir: Silent Go",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 207 videos, 155 heroes"
  ],
  "crontab": [],
  "channels": [
