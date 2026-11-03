@@ -1,0 +1,64 @@
+{
+ "summary": "This guide outlines a free-to-play summon plan for newer accounts approaching First Blush and Wish Summons banners. Players are strongly advised never to pull on these milestone banners unless they have enough resources to hit the 300-summon pity for a guaranteed premium legendary. Selecting specific premium legendary archetypes adjusts the non-premium legendary options at lower milestone thresholds (such as 100 and 200), allowing players to target key missing pieces for their teams. The long-term F2P strategy focuses on developing four core archetype teams: Poison, Summoner, Dauntless, and either Aura or Ice Blast.",
+ "topics": [
+  "banners",
+  "Wish Summons",
+  "First Blush",
+  "summon strategy",
+  "F2P progression"
+ ],
+ "heroes": [
+  {
+   "name": "Talethia",
+   "verdict": "Top 300-pity target for Aura teams",
+   "note": "Enables the Aura archetype team, which is the top-performing archetype on the creator's server, though slightly more expensive to build than Ice Blast.",
+   "known": true
+  },
+  {
+   "name": "Beldelle",
+   "verdict": "Top 300-pity target for Ice Blast teams",
+   "note": "Serves as the core DPS unit to build a very free-to-play friendly Ice Blast team.",
+   "known": true
+  },
+  {
+   "name": "The Dark Lady",
+   "verdict": "Strong Summoner support",
+   "note": "Owned on the creator's account and provides strong support for a core Summoner team.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "General Progression",
+   "heroes": [
+    "Talethia"
+   ],
+   "note": "Aura archetype team; highlighted as one of the best performing compositions on the creator's server."
+  },
+  {
+   "mode": "General Progression",
+   "heroes": [
+    "Beldelle"
+   ],
+   "note": "F2P-friendly Ice Blast archetype team core."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Never spend summons on Wish Summons or milestone banners unless you have enough resources to reach the 300 pity for the guaranteed premium legendary.",
+  "On Wish Summons, your selection for the 300 and 800 premium slots dictates which non-premium legendaries appear at the 100 and 200 milestone tiers.",
+  "You can place a desired archetype hero in the 800-pity slot even if you only plan to reach 300 summons, solely to unlock specific faction units at the 100 and 200 milestone rewards.",
+  "Aim to build four strong core archetype teams early on (e.g., Poison, Summoner, Dauntless, and Aura or Ice Blast) to cover diverse content."
+ ],
+ "season": "S1",
+ "server_scope": "S1",
+ "value": "medium",
+ "id": "Qz1B9JVRYjo",
+ "model": "gemini-3.8-flash",
+ "channel": "Volkin Dragonheir",
+ "title": "*DON'T WASTE THIS* Summon Plan F2P - First Blush & Wish Summons!!! [Dragonheir Silent Gods]",
+ "published": "2026-10-07T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=Qz1B9JVRYjo",
+ "short": false,
+ "summarized": "2026-11-03T00:23Z"
+}

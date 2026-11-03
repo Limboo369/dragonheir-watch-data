@@ -1,0 +1,128 @@
+{
+ "summary": "This guide provides optimal team setups and skill timings for defeating the Crisis Rally second boss, the Tainted Guard (Ghul'ende). The boss features control immunity, applies an irresistible stun and ultimate energy drain to the nearest target, and inflicts team-wide Attack Penalty II and Buff Prohibition. Skratch demonstrates five functional archetypes—Burn, Toxin, Radiance Aura, Shadow, and Ice Blast—along with high-performing Dauntless variants reaching up to 8.79 billion damage. Key strategy revolves around debuff cleansing, immunity mechanics (like Vinyara or Acilia), and timing ultimate casts after boss debuffs expire.",
+ "topics": [
+  "Crisis Rally",
+  "Tainted Guard",
+  "Boss Guide",
+  "Team Compositions",
+  "Skill Timing"
+ ],
+ "heroes": [
+  {
+   "name": "Acilia",
+   "verdict": "Top support pick",
+   "note": "Provides team-wide cleanse and Debuff Immunity to counter the boss's 50% Attack Penalty and Buff Prohibition.",
+   "known": true
+  },
+  {
+   "name": "Vinyara",
+   "verdict": "Top pick for Ice Blast",
+   "note": "Possesses built-in immunity to control effects, making her completely unaffected by the boss's irresistible stun.",
+   "known": true
+  },
+  {
+   "name": "Ernesto",
+   "verdict": "Essential for Ice Blast",
+   "note": "Enables the Ice Blast team to survive against the Tainted Guard without needing a dedicated healer.",
+   "known": true
+  },
+  {
+   "name": "Lothair",
+   "verdict": "Top tier Toxin DPS",
+   "note": "Outperformed Serpentemis on this boss because his burst damage comes from his ultimate rather than damage-over-time.",
+   "known": true
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "Viable Toxin DPS",
+   "note": "Reaches over 3.2 billion damage in Toxin compositions, though slightly weaker than Lothair here.",
+   "known": true
+  },
+  {
+   "name": "Nastjenka",
+   "verdict": "Top Dauntless DPS",
+   "note": "Anchors the highest-damaging composition shown, pushing the Dauntless team to nearly 8.8 billion damage.",
+   "known": true
+  },
+  {
+   "name": "Saverio",
+   "verdict": "Great Shadow DPS",
+   "note": "Performs very well with his exclusive artifact or Gory Injector in a full Shadow lineup.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Crisis Rally - Tainted Guard",
+   "heroes": [
+    "Lothair",
+    "Reytah",
+    "Sleight",
+    "Twitch",
+    "Child of Chaos"
+   ],
+   "note": "Optimized Toxin lineup utilizing timed ultimate recasts (17.5s) to deal over 3.85B damage."
+  },
+  {
+   "mode": "Crisis Rally - Tainted Guard",
+   "heroes": [
+    "Serpentemis",
+    "Reytah",
+    "Sleight",
+    "Twitch",
+    "Child of Chaos"
+   ],
+   "note": "Alternative Toxin team dealing 3.22B damage with Serpentemis as the primary DPS."
+  },
+  {
+   "mode": "Crisis Rally - Tainted Guard",
+   "heroes": [
+    "Talethia",
+    "Acilia",
+    "Hegio",
+    "Mithrasea",
+    "Lorentheel"
+   ],
+   "note": "Radiance Aura team hitting 4.24B damage; Acilia cleanses boss debuffs and Mithrasea can be swapped if needed."
+  },
+  {
+   "mode": "Crisis Rally - Tainted Guard",
+   "heroes": [
+    "Saverio",
+    "Aspalta",
+    "Daphne",
+    "Fathomdown",
+    "Seyir"
+   ],
+   "note": "Shadow composition that requires no special skill timing and safely delivers 1.53B damage."
+  },
+  {
+   "mode": "Crisis Rally - Tainted Guard",
+   "heroes": [
+    "Ernesto",
+    "Vinyara",
+    "Lossenia",
+    "Geron",
+    "Rava"
+   ],
+   "note": "Ice Blast team achieving 2.35B damage using Master Genie; Ernesto covers sustain so no healer is needed."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Always delay offensive ultimate skill casts so they activate right after the boss's 50% Attack Penalty II debuff expires.",
+  "Place the hero you want to sacrifice to the boss's permanent Mark of Pain and Siphon stun closest to the boss at battle start.",
+  "Resistance does not prevent the boss from stealing ultimate energy via Siphon or applying its primary mechanics, so focus your gearing on damage and skill haste instead."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "NzWyPU_0D9w",
+ "model": "gemini-3.8-flash",
+ "channel": "Skratch Gaming",
+ "title": "Come & Get Your Teams For The Tainted Guard! Crisis Rally Guide Dragonheir: Silent Gods",
+ "published": "2026-10-07T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=NzWyPU_0D9w",
+ "short": false,
+ "summarized": "2026-11-03T00:24Z"
+}

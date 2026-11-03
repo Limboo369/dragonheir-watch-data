@@ -1,0 +1,91 @@
+{
+ "summary": "Suzi undertakes a 1,000-pull session on the Option Summons banner, selecting Dauntless and Corrosion to advance her current roster and prepare for Season 9. She specifically targets Guinavivre to secure her exclusive artifact and reach Inspiration 5, explaining that Dauntless scales exponentially with high inspiration. Looking ahead, Corrosion is projected to be extremely strong in Season 9 due to new additions and game-changing exclusive artifacts for heroes like Szecedith and Blah Blah. She also demonstrates the existence of the hidden 1,000-pull hard pity for premium legendary units and shares rules for resource management on milestone banners.",
+ "topics": [
+  "Option Summons",
+  "Summoning Strategy",
+  "Corrosion",
+  "Dauntless",
+  "Pity System",
+  "Season 9 Meta"
+ ],
+ "heroes": [
+  {
+   "name": "Guinavivre",
+   "verdict": "High priority Dauntless carry",
+   "note": "Reaches top potential at Inspiration 5 and requires her exclusive artifact Swerving Shears to maximize Dauntless team damage.",
+   "known": true
+  },
+  {
+   "name": "Szecedith",
+   "verdict": "Must-have for Season 9",
+   "note": "A core Corrosion damage dealer whose upcoming exclusive artifact is considered an absolute game-changer.",
+   "known": true
+  },
+  {
+   "name": "Talethia",
+   "verdict": "Top priority in shop",
+   "note": "Highly recommended to purchase from the Temporal Corridor shop to push toward Inspiration 5.",
+   "known": true
+  },
+  {
+   "name": "Blah Blah",
+   "verdict": "High priority Corrosion target",
+   "note": "A prime target for Corrosion rosters that receives a powerful new exclusive artifact.",
+   "known": true
+  },
+  {
+   "name": "Reytah",
+   "verdict": "Essential Corrosion unit",
+   "note": "A key legendary unit needed to form the foundation of competitive Corrosion teams.",
+   "known": true
+  },
+  {
+   "name": "Whisk",
+   "verdict": "Solid filler at high inspiration",
+   "note": "Less mandatory than he used to be for Corrosion, but functions well as a filler when maxed out at Inspiration 5.",
+   "known": true
+  },
+  {
+   "name": "Divine Ascetic",
+   "verdict": "Skip / non-core",
+   "note": "Has great Sun Wukong aesthetics but is not a core requirement for competitive Thunderbolt teams.",
+   "known": true
+  },
+  {
+   "name": "Pardis",
+   "verdict": "Low priority",
+   "note": "A Corrosion legendary that sees very little play in high-end compositions.",
+   "known": true
+  },
+  {
+   "name": "Lincos",
+   "verdict": "Phasing out",
+   "note": "Older Aura staple that becomes obsolete as new Aura support options arrive.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [
+  "Corrosion is set to become massively overpowered in Season 9 with the introduction of new heroes and exclusive artifacts like Szecedith's.",
+  "Dauntless remains an elite endgame damage archetype, but unlike Toxin or Ice Blast, it demands high Inspiration levels (up to Inspiration 5) across multiple units to outperform them.",
+  "Aura teams receive new hero replacements that eliminate the need for legacy units like Lincos.",
+  "Toxin and Ice Blast remain far more effective at low inspiration and low investment compared to Dauntless and Corrosion."
+ ],
+ "tips": [
+  "Never pull on milestone selector banners unless you have at least 270-300 summons saved to guarantee reaching the milestone selector reward at the end.",
+  "Option Summons features a hidden hard pity at 1,000 pulls that guarantees an exclusive/premium legendary hero.",
+  "Always stop summoning after pulling a legendary pity on normal banners unless you are intentionally pushing to the guaranteed milestone box.",
+  "Save Temporal Corridor currency to buy high-value legendaries directly (like Talethia or Szecedith) to unlock their inspirations rather than risking random pulls."
+ ],
+ "season": "S9",
+ "server_scope": "mixed",
+ "value": "medium",
+ "id": "SKvUJeFHJIw",
+ "model": "gemini-3.8-flash",
+ "channel": "Suzi Plays",
+ "title": "1000 Pulls for OPTION SUMMONS! 💥Can My LUCK Continue!?🔥 Dragonheir x Dragonstride",
+ "published": "2026-10-07T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=SKvUJeFHJIw",
+ "short": false,
+ "summarized": "2026-11-03T00:24Z"
+}

@@ -1,11 +1,11 @@
 {
- "built": "2026-11-03T00:23Z",
+ "built": "2026-11-03T00:24Z",
  "last_fetch": "2026-11-03T00:17Z",
  "counts": {
-  "summarized": 192,
+  "summarized": 195,
   "skipped_giveaway": 17,
   "baseline": 22,
-  "new": 411,
+  "new": 408,
   "skipped_live": 1,
   "failed": 2
  },
@@ -29,12 +29,6 @@
   "v2": 1
  },
  "log_tail": [
-  "== 2026-11-02 14:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (436 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 183 videos, 151 heroes",
-  "curl: (56) Recv failure: Connection reset by peer",
   "== 2026-11-02 15:17",
   "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
@@ -108,7 +102,13 @@
   "saved VMnggAEkhNU",
   "+ liveranov: Aura vs Abyssal Emissary (Area Boss 3) | Crisis Rally | Seas",
   "saved VEwv_TEaZkc",
-  "+ Neff Gaming: Best Vortex I Season 9 Team! (Week 1 Meta) | Dragonheir: Sil"
+  "+ Neff Gaming: Best Vortex I Season 9 Team! (Week 1 Meta) | Dragonheir: Sil",
+  "saved Qz1B9JVRYjo",
+  "+ Volkin Dragonheir: *DON'T WASTE THIS* Summon Plan F2P - First Blush & Wish Summ",
+  "saved SKvUJeFHJIw",
+  "+ Suzi Plays: 1000 Pulls for OPTION SUMMONS! 💥Can My LUCK Continue!?🔥 Drag",
+  "saved NzWyPU_0D9w",
+  "+ Skratch Gaming: Come & Get Your Teams For The Tainted Guard! Crisis Rally Gu"
  ],
  "crontab": [],
  "channels": [
