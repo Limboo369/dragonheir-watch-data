@@ -1,0 +1,53 @@
+{
+ "summary": "This video reviews the October 9 patch notes for Dragonheir: Silent Gods, highlighting upcoming features for Season 9. Key updates include the pre-loading of the S9 scenario starting October 23, the introduction of a Server Transfer Pre-registration system, and major additions to Magichess such as new talents, treasures, and hero bond adjustments. The video also introduces the Glory Colosseum, a 3-team server-wide PvP mode launching in December. Finally, Suzi inspects the top Temporal Vortex league rankings, reacting to a surprising high-performing team utilizing Astaion as a tank.",
+ "topics": [
+  "Patch Notes",
+  "Season 9",
+  "Server Transfer",
+  "Magichess",
+  "Glory Colosseum",
+  "Temporal Vortex"
+ ],
+ "heroes": [
+  {
+   "name": "Astaion",
+   "verdict": "Surprising top-tier Temporal Vortex tank option",
+   "note": "Featured as the front-line tank in the top league ranking Temporal Vortex team, providing crowd control and utility.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Temporal Vortex",
+   "heroes": [
+    "Astaion",
+    "Talethia",
+    "Lincos",
+    "Solmo",
+    "Diantha"
+   ],
+   "note": "Top league ranking team achieving high damage scores with Astaion absorbing damage up front."
+  }
+ ],
+ "meta_changes": [
+  "Server Transfer Pre-registration allows players to request transfers to target servers using invitation codes during season settlement.",
+  "Glory Colosseum (Team Arena) returns as a 3-team server-wide PvP mode with weekly rotating battlefield effects and Legacy Coffer stat enhancements.",
+  "Magichess updates add the new Conqueror bond, the Reversal talent, 5 new treasures, and buffs to Bounty and Alchemy talents.",
+  "Magichess hero bond balance adjustments increase Fighter (2) shields to 75% max HP with debuff immunity, and cause Rogue heroes to explode on death dealing AoE damage and silence."
+ ],
+ "tips": [
+  "Redeem any unused Prophecy Summon codes before the October 9 maintenance when the feature goes offline temporarily.",
+  "Use the new hero screen filter options to quickly identify heroes with upgradeable Inspiration or Talents."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "7zhx8wMgnG8",
+ "model": "gemini-3.5-flash",
+ "channel": "Suzi Plays",
+ "title": "Server Transfers & S9 Update NEWS ✅ Patch Notes🔥 Dragonheir x Dragonstride",
+ "published": "2026-10-07T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=7zhx8wMgnG8",
+ "short": false,
+ "summarized": "2026-11-03T01:22Z"
+}

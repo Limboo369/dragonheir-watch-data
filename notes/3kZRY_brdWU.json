@@ -1,0 +1,44 @@
+{
+ "summary": "The Imperial Shadow Recast event features the Continental Challenge and double material drops in Shadow Dungeons. Gorax strongly advises players not to lock in their Continental Challenge boss scores on Day 1, because daily Psychicore upgrades and gear improvements over the 7-day event will allow for much higher damage later. Players should use daily Double Concentrate tokens in Shadow Dungeons to double their rewards and fulfill specific dungeon challenge conditions. Reaching 12 million damage on each boss secures maximum S-rank milestone rewards, while high leaderboard rankings award Echo of Clepsydra for season end conversion.",
+ "topics": [
+  "Imperial Shadow Recast",
+  "Continental Challenge",
+  "Shadow Dungeon",
+  "Psychicore",
+  "Equipment Farming"
+ ],
+ "heroes": [
+  {
+   "name": "Utior",
+   "verdict": "Event hero reward",
+   "note": "Legendary hero obtainable from the Imperial Shadow Recast shop using Shadow Amethysts.",
+   "known": true
+  },
+  {
+   "name": "Child of Chaos",
+   "verdict": "Continental Challenge example hero",
+   "note": "Heroes used against one Continental Challenge boss cannot be reused against any other boss.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [],
+ "tips": [
+  "Do not lock or save your Continental Challenge damage scores on Day 1; wait until later in the week after improving gear and Psychicore levels.",
+  "Use your daily Double Concentrate tokens in Shadow Dungeons to double your clearance rewards and earn extra Shadow Amethysts.",
+  "Adjust your team lineups to trigger Shadow Dungeon challenge conditions, such as applying Attack Penalty in Grave of Venom or Buff Prohibition in Grave of Curse.",
+  "Aim for 12 million damage on each Continental Challenge boss to claim all S-rating milestone rewards.",
+  "Wait until the last days of the event to craft mythic equipment in Piece of Treasury / Furnace for maximum stat gains before finalizing boss runs."
+ ],
+ "season": "S1",
+ "server_scope": "S1",
+ "value": "medium",
+ "id": "3kZRY_brdWU",
+ "model": "gemini-3.5-flash",
+ "channel": "Gorax",
+ "title": "Imperial Shadow Recast Beginner Guide - Avoid These Costly Mistakes | Dragonheir x Dragonstride",
+ "published": "2026-10-07T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=3kZRY_brdWU",
+ "short": false,
+ "summarized": "2026-11-03T01:22Z"
+}

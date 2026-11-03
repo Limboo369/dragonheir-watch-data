@@ -1,0 +1,42 @@
+{
+ "summary": "Gorax showcases a massive summoning session chasing Inspiration 5 on Child of Chaos after getting early pull luck. Although Inspiration 3 grants a 30% attack boost that works well in PvP and Fey Meander, he felt compelled to push all the way to Inspiration 5 for optimal PvE performance. He warns players against making the same mistake and falling for the temptation to over-pull. Instead, he advises saving summoning resources for higher-priority banners like the upcoming Aura banner, Anneliesis, and Wish Summons.",
+ "topics": [
+  "Summoning",
+  "Child of Chaos",
+  "Banners",
+  "Inspiration",
+  "Resource Management"
+ ],
+ "heroes": [
+  {
+   "name": "Child of Chaos",
+   "verdict": "Requires heavy investment for peak PvE performance",
+   "note": "Inspiration 3 gives a 30% Attack boost suitable for PvP and Fey Meander, but Inspiration 5 is targeted for optimal PvE value.",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "High priority upcoming banner target",
+   "note": "Gorax recommends saving dice specifically for her banner and the upcoming Aura hero banner.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [],
+ "tips": [
+  "Do not get baited into chasing high Inspiration levels just because you pulled an early copy of a hero.",
+  "Save Heliolite Dice for high-priority targets like the upcoming Aura hero, Anneliesis, or Wish Summons rather than over-investing in single banners.",
+  "Inspiration 3 provides a 30% Attack increase, which is solid for PvP and Fey Meander if you choose to stop early."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "low",
+ "id": "KXlWLBT9M5w",
+ "model": "gemini-3.8-flash",
+ "channel": "Gorax",
+ "title": "I Got Baited Into Pulling MORE on Child of Chaos… | Dragonheir x Dragonstride",
+ "published": "2026-10-07T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=KXlWLBT9M5w",
+ "short": false,
+ "summarized": "2026-11-03T01:23Z"
+}

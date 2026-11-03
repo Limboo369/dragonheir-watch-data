@@ -1,0 +1,96 @@
+{
+ "summary": "This video breaks down key considerations when choosing what Mythic equipment to craft during the Piece of Treasury forging event. Players should weigh three main factors: which Temporal Vortex team is their primary damage dealer, which team performs best against the seasonal endgame boss, and upcoming meta shifts and gear availability in Season 9 based on Chinese test server data. For the creator's setup, Toxin heavily outperforms Dauntless on both Temporal Vortex and the endgame boss, leading him to forge a Converging Flames weapon (Raging Wildfire) tailored for Serpentemis. Looking ahead to Season 9, while Shadow and Toxin remain strong early on, Corrosion teams featuring Chorak are poised to dominate Temporal Vortex later in the season.",
+ "topics": [
+  "Piece of Treasury",
+  "Mythic Crafting",
+  "Temporal Vortex",
+  "Endgame Boss",
+  "Season 9 Meta",
+  "Equipment Sets"
+ ],
+ "heroes": [
+  {
+   "name": "Serpentemis",
+   "verdict": "Core DPS in Toxin",
+   "note": "A primary damage dealer whose output scales heavily with Enlightenment, Accuracy, and Attack from customized mythic gear.",
+   "known": true
+  },
+  {
+   "name": "Seyir",
+   "verdict": "Top DPS for Shadow Endgame Boss",
+   "note": "Acts as the centerpiece DPS for the Shadow team against the endgame boss without requiring Saverio.",
+   "known": true
+  },
+  {
+   "name": "Reytah",
+   "verdict": "High-value DPS staple",
+   "note": "Dominates current endgame boss damage in Toxin teams and transitions seamlessly into top-tier Season 9 Corrosion setups.",
+   "known": true
+  },
+  {
+   "name": "Chorak",
+   "verdict": "Future S9 Meta Monster",
+   "note": "New hero who enables Corrosion teams to reach over 80 billion damage on Season 9 Chinese test servers for Temporal Vortex.",
+   "known": true
+  },
+  {
+   "name": "Anselmo",
+   "verdict": "Not needed for Phase 1",
+   "note": "He is not required to hit maximum damage thresholds on Phase 1 of the endgame boss.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Endgame Boss Phase 2",
+   "heroes": [
+    "Reytah",
+    "Serpentemis",
+    "Child of Chaos",
+    "Sleight",
+    "Twitch"
+   ],
+   "note": "Top-performing boss team achieving over 4.4 billion damage, far outdamaging Dauntless and Frost Inspiration alternatives."
+  },
+  {
+   "mode": "Endgame Boss Phase 1",
+   "heroes": [
+    "Seyir",
+    "The Dark Lady",
+    "Astaion"
+   ],
+   "note": "High-damage Shadow team that functions without needing Saverio."
+  },
+  {
+   "mode": "Temporal Vortex (Season 9 Preview)",
+   "heroes": [
+    "Chorak",
+    "Reytah",
+    "Child of Chaos"
+   ],
+   "note": "Future Corrosion setup that hits 80B+ damage on the CN test server, eventually replacing Toxin as the top AoE archetype."
+  }
+ ],
+ "meta_changes": [
+  "In Season 9, Corrosion becomes the dominant meta archetype for the AoE phase of Temporal Vortex, overtaking Toxin once high Inspiration levels and banners are unlocked.",
+  "Shadow and Corrosion banners are expected to arrive in the first two weeks of Season 9 based on Chinese server schedules.",
+  "Certain gear sets from Grave of Venom, Grave of Curse, and Grave of Rot carry over into Season 9 dungeon farming, while others (like Realm of Fallen Souls armor) will not be immediately available."
+ ],
+ "tips": [
+  "Prioritize forging Mythic gear for the specific team that produces the most damage in Temporal Vortex and endgame bosses rather than spreading resources evenly.",
+  "Verify whether a gear set will remain farmable in the upcoming season before forging, as obsolete pieces can only be exchanged under specific conditions.",
+  "When crafting weapons like Raging Wildfire (Converging Flames), target Enlightenment secondary rolls alongside Attack% and Accuracy to maximize Enlightenment-scaling damage dealers.",
+  "HP% can be a stronger secondary roll than flat Attack on gear when paired with Dragonblood Brand, as it converts into bonus Attack."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "9OIXBuLFl4k",
+ "model": "gemini-3.8-flash",
+ "channel": "Neff Gaming",
+ "title": "Forging Event: Tips and Thinking | Dragonheir: Silent Gods",
+ "published": "2026-10-07T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=9OIXBuLFl4k",
+ "short": false,
+ "summarized": "2026-11-03T01:19Z"
+}

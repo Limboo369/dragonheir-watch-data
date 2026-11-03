@@ -1,0 +1,103 @@
+{
+ "summary": "This guide covers strategies and team compositions for defeating the Chaos Hunter boss in the Crisis Rally event. Players should aim for at least 320 million combined damage across three teams to secure the maximum milestone rewards. Because Chaos Hunter knocks heroes up and continuously drains Ultimate Energy, building sufficient Resistance and fine-tuning skill timings are essential. The creator showcases three viable team archetypes: an Ice/Poison team featuring Vinyara and Ernesto, a Radiant Aura team led by Talethia, and a high-scoring Dauntless squad featuring Maashtur and Selva.",
+ "topics": [
+  "Crisis Rally",
+  "Chaos Hunter",
+  "Boss Guide",
+  "Dauntless",
+  "Aura",
+  "Team Compositions"
+ ],
+ "heroes": [
+  {
+   "name": "Vinyara",
+   "verdict": "Key debuffer and energy controller",
+   "note": "Requires high Resistance and high Accuracy so she does not get her Ultimate Energy drained by the boss while maintaining debuffs.",
+   "known": true
+  },
+  {
+   "name": "Ernesto",
+   "verdict": "Strong substitute for Zhorak",
+   "note": "Provides excellent damage and synergy in the Ice/Poison team against Chaos Hunter.",
+   "known": true
+  },
+  {
+   "name": "Mithrasea",
+   "verdict": "Top support for Aura teams",
+   "note": "Brings Invisibility and resurrection; requires high Skill Haste and Resistance to maintain boss focus and recast speed.",
+   "known": true
+  },
+  {
+   "name": "Talethia",
+   "verdict": "Top Radiant Aura DPS",
+   "note": "Acts as the main damage carry in Radiant Aura setups, capable of dealing multiple billions of damage.",
+   "known": true
+  },
+  {
+   "name": "Maashtur",
+   "verdict": "Core debuffer for Dauntless",
+   "note": "Applies essential Accuracy down and Attack penalties to keep the Dauntless team alive against Chaos Hunter.",
+   "known": true
+  },
+  {
+   "name": "Selva",
+   "verdict": "Essential Dauntless buffer/extender",
+   "note": "Extends the vital debuffs applied by Maashtur while dealing solid supplementary damage.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Crisis Rally - Chaos Hunter",
+   "heroes": [
+    "Beldelle",
+    "Shinnah",
+    "Fredegonda",
+    "Ernesto",
+    "Vinyara"
+   ],
+   "note": "Devitalisation team using Deluxe Mimic familiar. Deals over 2.2B damage; Zhorak can substitute if missing Ernesto or Fredegonda."
+  },
+  {
+   "mode": "Crisis Rally - Chaos Hunter",
+   "heroes": [
+    "Talethia",
+    "Anneliesis",
+    "Diantha",
+    "Mithrasea",
+    "Lincos"
+   ],
+   "note": "Radiant Aura composition capable of 3.9B to 4.8B damage using Mithrasea for Invisibility; Gillian can replace Mithrasea for around 1.5B damage."
+  },
+  {
+   "mode": "Crisis Rally - Chaos Hunter",
+   "heroes": [
+    "Nastjenka",
+    "Kurvida",
+    "Guinavivre",
+    "Maashtur",
+    "Selva"
+   ],
+   "note": "Top-performing Dauntless squad scoring between 6.8B and 7.1B damage through Maashtur's Accuracy debuffs extended by Selva."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Prioritize visiting map towers and claiming server milestone buffs to gain extra combat stats before challenging the boss.",
+  "Target at least 320M cumulative damage across your 3 deployed teams to collect all rating reward chests.",
+  "Equip your units with high Resistance to stop Chaos Hunter from draining Ultimate Energy and throwing skill rotations off.",
+  "Equip the Deluxe Mimic familiar on the Ice/Poison team to apply Recharging Speed Penalties to the boss.",
+  "If your run gets disrupted early by bad RNG or energy drain, redeploy and retry combat simulations to achieve maximum damage scores."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "B_pJxLLGNPI",
+ "model": "gemini-3.8-flash",
+ "channel": "Skratch Gaming",
+ "title": "USE These Teams Vs. The Crisis Rally Boss Chaos Hunter! Dragonheir: Silent Gods x Dragonstride",
+ "published": "2026-10-07T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=B_pJxLLGNPI",
+ "short": false,
+ "summarized": "2026-11-03T01:18Z"
+}

@@ -1,0 +1,43 @@
+{
+ "summary": "This video covers the announcement of the upcoming limited rerun banner for Judicator Lord Anneliesis expected around November 8th. Anneliesis is considered one of the most powerful support characters in Dragonheir: Silent Gods due to her unmatched team utility, damage amplification, crowd control, and survivability buffs. Players are strongly advised to start saving at least 300 Heliolite Dice now and skip non-exclusive upcoming banners like Elcibri.",
+ "topics": [
+  "Anneliesis banner",
+  "gacha strategy",
+  "hero review",
+  "upcoming banners"
+ ],
+ "heroes": [
+  {
+   "name": "Anneliesis",
+   "verdict": "Must-pull top priority support",
+   "note": "Provides unmatched utility across all game modes through team HP and damage buffs, energy gain, crowd control, shields, healing, and buff removal.",
+   "known": true
+  },
+  {
+   "name": "Elcibri",
+   "verdict": "Skip / low priority",
+   "note": "Primarily a PvP character with limited PvE value, not worth spending 300 dice on when Anneliesis is coming.",
+   "known": false
+  }
+ ],
+ "teams": [],
+ "meta_changes": [
+  "Rerun of the limited-edition Judicator Lord Anneliesis banner (Lightwing Summon) scheduled for November 8th."
+ ],
+ "tips": [
+  "Save at least 300 Heliolite Dice to guarantee acquiring Anneliesis during her limited banner.",
+  "Avoid pulling on standard or non-exclusive banners leading up to November 8th to conserve resources.",
+  "If aiming for inspirations on Anneliesis, Inspiration 3 is the sweet spot as it grants all allies +10% Max HP and +10% Damage Bonus at battle start."
+ ],
+ "season": "S9",
+ "server_scope": "mixed",
+ "value": "high",
+ "id": "8YDjnEZR2as",
+ "model": "gemini-3.5-flash",
+ "channel": "Skratch Gaming",
+ "title": "She's COMING BACK!! Prepare Now So You Don't Miss Out!! Dragonheir: Silent Gods x Dragonstride",
+ "published": "2026-10-07T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=8YDjnEZR2as",
+ "short": false,
+ "summarized": "2026-11-03T01:21Z"
+}

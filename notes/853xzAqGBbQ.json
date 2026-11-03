@@ -1,0 +1,51 @@
+{
+ "summary": "Upon reaching Resonance Level 100, players no longer need to farm the Goblin Lair for XP potions because all roster units automatically match the resonance level for the rest of the season. Stamina should be reallocated to Talent Domains, Grave of Venom, and Rune dungeons. Talent Domains enhance key hero attributes while giving valuable first-clear rewards like Wyrmarrow, Essence of Creation, and Familiar Eggs. Grave of Venom is the ideal gear dungeon to prioritize first because weapons and helmets have fixed main stats, eliminating main-stat RNG. Lastly, Heretical Ruins and Ancient Battlefield supply positive and negative runes to optimize hero sub-stats.",
+ "topics": [
+  "progression",
+  "farming guide",
+  "Resonance Level 100",
+  "Grave of Venom",
+  "Talent Domains",
+  "Runes"
+ ],
+ "heroes": [
+  {
+   "name": "Cervinia",
+   "verdict": "Must-have Epic hero",
+   "note": "Free Epic hero obtainable through creator sign-up link.",
+   "known": true
+  },
+  {
+   "name": "Auster",
+   "verdict": "Must-have Legendary hero",
+   "note": "Free Legendary hero obtainable through creator sign-up link.",
+   "known": true
+  },
+  {
+   "name": "Child of Chaos",
+   "verdict": "Core Ice DPS",
+   "note": "Highlighted during rune optimization for gear and dungeon progression.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [],
+ "tips": [
+  "Stop farming Goblin Lair for XP potions once Resonance Level 100 is unlocked.",
+  "Prioritize Talent Domains to upgrade hero trees and collect high-value first-clear rewards including Familiar Eggs.",
+  "Focus gear farming on Grave of Venom initially because weapons and helmets feature fixed main stats.",
+  "Avoid over-farming Grave of Curse or Grave of Rot early on due to high RNG on variable main stats and sub-stats.",
+  "Farm Heretical Ruins and Ancient Battlefield to equip positive and negative runes for significant sub-stat boosts."
+ ],
+ "season": "S1",
+ "server_scope": "S1",
+ "value": "high",
+ "id": "853xzAqGBbQ",
+ "model": "gemini-3.5-flash",
+ "channel": "Fastidious Dragonheir",
+ "title": "NOW WHAT? Where to Farm & What to Do after hitting RESONANCE LEVEL 100 ⁂ Dragonheir: Silent Gods",
+ "published": "2026-10-07T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=853xzAqGBbQ",
+ "short": false,
+ "summarized": "2026-11-03T01:21Z"
+}

@@ -1,0 +1,64 @@
+{
+ "summary": "As players progress into Temporal Vortex Difficulty III, boss Resistance increases significantly (reaching 180 Resistance), making Accuracy essential for landing debuffs and poison. The creator doubled their score from 50 million to 122 million simply by swapping chest pieces on debuffers from Enlightenment to Accuracy. Child of Chaos proves immensely valuable in Difficulty III due to teamwide AoE damage mitigation and cleansing the boss's newly introduced Defense Penalty debuff. Proper skill timing on defensive ultimates like Oggok's Immortality totem on a 20-second rotation is required to survive the boss's AoE bursts.",
+ "topics": [
+  "Temporal Vortex",
+  "Temporal Vortex III",
+  "Accuracy vs Resistance",
+  "Child of Chaos",
+  "Skill Timing",
+  "Poison Team"
+ ],
+ "heroes": [
+  {
+   "name": "Child of Chaos",
+   "verdict": "High tier utility pick for Temporal Vortex III",
+   "note": "Provides vital cleanses against the boss's Defense Penalty debuff, offers AoE damage mitigation, and amplifies healing even without his exclusive artifact.",
+   "known": true
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "Core poison damage dealer",
+   "note": "Her passive lowers enemy Resistance by 35%, making team Accuracy requirements easier, but she still requires Accuracy gear in Difficulty III to land poisons.",
+   "known": true
+  },
+  {
+   "name": "Oggok",
+   "verdict": "Essential sustain and protection support",
+   "note": "Must have his Ultimate max skilled to achieve a 20-second recast, enabling full Immortality uptime against scheduled boss AoE wipes.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Temporal Vortex III (Glacial Billows - Malinus)",
+   "heroes": [
+    "Corrin",
+    "Serpentemis",
+    "Oggok",
+    "Dench",
+    "Child of Chaos"
+   ],
+   "note": "Budget-friendly Poison/Sustain setup capable of 122M+ damage by timing Oggok's ultimate at 27.5s (20s recast) and equipping Accuracy chest pieces."
+  }
+ ],
+ "meta_changes": [
+  "Temporal Vortex Difficulty III introduces 180 Resistance on the boss, breaking early-game strategies that neglected Accuracy.",
+  "The Difficulty III boss inflicts Defense Penalty debuffs on the team, shifting the support meta toward debuff cleansers like Child of Chaos."
+ ],
+ "tips": [
+  "When moving from Temporal Vortex Difficulty II to III, swap debuffers' and poisoners' chest pieces to Accuracy main stats to prevent resists.",
+  "Max skill Oggok's Ultimate to lower the recharge down to 20 seconds so his Immortality totem consistently syncs with the boss's AoE rotation.",
+  "Time Oggok's first ultimate cast between 26.5s and 27.5s on auto-combat to negate both hits of the first major boss AoE skill."
+ ],
+ "season": "S1",
+ "server_scope": "S1",
+ "value": "high",
+ "id": "FJ-KcKgrTcg",
+ "model": "gemini-3.8-flash",
+ "channel": "Volkin Dragonheir",
+ "title": "One Small Change For DOUBLE DAMAGE!!! [Dragonheir: Silent Gods]",
+ "published": "2026-10-07T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=FJ-KcKgrTcg",
+ "short": false,
+ "summarized": "2026-11-03T01:23Z"
+}

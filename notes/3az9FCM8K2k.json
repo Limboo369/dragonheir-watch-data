@@ -1,0 +1,70 @@
+{
+ "summary": "liveranov demonstrates a high-damage Dauntless team setup against Area Boss 3 (Abyssal Emissary) in the Crisis Rally event. The featured team of Nastjenka, Kurvida, Guinavivre, Tharivol, and Astaion reaches over 16.4 billion total damage. Detailed hero gear stats and automatic skill timing options are displayed following the combat run.",
+ "topics": [
+  "Crisis Rally",
+  "Abyssal Emissary",
+  "Area Boss 3",
+  "Dauntless"
+ ],
+ "heroes": [
+  {
+   "name": "Nastjenka",
+   "verdict": "Core Dauntless DPS",
+   "note": "Serves as a top damage dealer in the Dauntless lineup against Abyssal Emissary.",
+   "known": true
+  },
+  {
+   "name": "Kurvida",
+   "verdict": "Dauntless DPS / Support",
+   "note": "Provides vital Dauntless synergy and heavy damage output against Area Boss 3.",
+   "known": true
+  },
+  {
+   "name": "Guinavivre",
+   "verdict": "Dauntless DPS",
+   "note": "Delivers substantial damage in the Dauntless Crisis Rally setup.",
+   "known": true
+  },
+  {
+   "name": "Tharivol",
+   "verdict": "Dauntless DPS",
+   "note": "Key single-target Dauntless attacker for high boss damage scores.",
+   "known": true
+  },
+  {
+   "name": "Astaion",
+   "verdict": "Team Support",
+   "note": "Provides essential buffs and support for the Dauntless team composition.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Crisis Rally - Abyssal Emissary (Area Boss 3)",
+   "heroes": [
+    "Nastjenka",
+    "Kurvida",
+    "Guinavivre",
+    "Tharivol",
+    "Astaion"
+   ],
+   "note": "Dauntless team achieving 16.4B total damage against Area Boss 3."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Prioritize high Crit Rate and Attack stats on Dauntless damage dealers for Crisis Rally boss battles.",
+  "Verify automatic ultimate skill timings in the Edit Skill Timing menu to optimize skill loops."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "3az9FCM8K2k",
+ "model": "gemini-3.5-flash",
+ "channel": "liveranov",
+ "title": "Dauntless vs Abyssal Emissary (Area Boss 3) | Crisis Rally | Season 8 | Dragonheir",
+ "published": "2026-10-07T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=3az9FCM8K2k",
+ "short": false,
+ "summarized": "2026-11-03T01:22Z"
+}

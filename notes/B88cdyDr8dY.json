@@ -1,0 +1,106 @@
+{
+ "summary": "Gorax breaks down the upcoming Wish Summons banner, comparing it to the First Blush summons and explaining how to best configure the hero pool. Unlike earlier summons limited to Season 1 heroes, Wish Summons allows players to select newer exclusive DPS and legendary supports, offering milestone copies up to an 800-pull milestone and a 1,000-pull exclusive 50/50 pity. Gorax recommends targeting key anchors like Serpentemis for Poison or Beldelle for Ice Blast, while advising players to skip Elecebre's banner due to power creep. He also outlines the upcoming banner sequence, including new school damage banners and high-priority exclusive support reruns like Reytah and Grishnaar.",
+ "topics": [
+  "Wish Summons",
+  "Banner Schedule",
+  "Hero Selection",
+  "Pity System",
+  "F2P Progression"
+ ],
+ "heroes": [
+  {
+   "name": "Elecebre",
+   "verdict": "Skip",
+   "note": "Has been outscaled by newer heroes and is no longer worth summoning on her rerun banner.",
+   "known": true
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "Top tier DPS / High priority",
+   "note": "Powers an overpowered Poison team capable of clearing dungeons, Temporal Vortex, and Fey Meander on full auto; gains huge power spikes at Inspiration 2 and 5.",
+   "known": true
+  },
+  {
+   "name": "Beldelle",
+   "verdict": "Top single-target DPS pick",
+   "note": "When equipped with her artifact, she serves as an extremely potent single-target anchor for Ice Blast teams.",
+   "known": true
+  },
+  {
+   "name": "Talethia",
+   "verdict": "Recommended Aura anchor",
+   "note": "A strong pick to begin building an Aura team ahead of upcoming new Aura hero releases.",
+   "known": true
+  },
+  {
+   "name": "Lelwanis",
+   "verdict": "High-value exclusive DPS target",
+   "note": "Available to select as an exclusive Rare DPS in the Wish Summon pool for the 1,000-pull pity.",
+   "known": true
+  },
+  {
+   "name": "Reytah",
+   "verdict": "Top priority upcoming support",
+   "note": "One of the best exclusive support heroes for newer players to save for on future banners.",
+   "known": true
+  },
+  {
+   "name": "Grishnaar",
+   "verdict": "Top priority upcoming support",
+   "note": "Ranked alongside Reytah as one of the most impactful exclusive supports to target when rerun.",
+   "known": true
+  },
+  {
+   "name": "Khrysos",
+   "verdict": "Decent support for Burn/Wild",
+   "note": "A solid exclusive support option if focusing on Burn or Wild team compositions.",
+   "known": true
+  },
+  {
+   "name": "Astaion",
+   "verdict": "Great Necrosis support",
+   "note": "A reliable Necrosis support to include in the legendary milestone pool.",
+   "known": true
+  },
+  {
+   "name": "Sintrellia",
+   "verdict": "Solid milestone pick",
+   "note": "Selected at early summon milestones to provide utility or duplicate inspiration value.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "General PvE / Temporal Vortex / Fey Meander",
+   "heroes": [
+    "Serpentemis"
+   ],
+   "note": "Poison team built around Serpentemis that reliably auto-clears high-end PvE content and dungeons."
+  },
+  {
+   "mode": "Single-Target Bossing",
+   "heroes": [
+    "Beldelle"
+   ],
+   "note": "F2P-friendly single-target Ice Blast composition relying on Beldelle with her exclusive artifact."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Skip the Siren Song (Elecebre) banner starting October 1st and save dice for Wish Summons on October 11th.",
+  "Use Wish Summons to round out a dedicated team archetype (such as Beldelle for Ice Blast or Serpentemis for Poison) rather than picking scattered heroes.",
+  "Spenders should prioritize reaching Inspiration 2 or Inspiration 5 on key anchors like Serpentemis for massive damage boosts.",
+  "Plan ahead for upcoming seasonal banners: brand-new exclusive supports arrive first, followed in order by three Damage School banners (Aura, Shadow, and Corrosion)."
+ ],
+ "season": "unknown",
+ "server_scope": "mixed",
+ "value": "medium",
+ "id": "B88cdyDr8dY",
+ "model": "gemini-3.8-flash",
+ "channel": "Gorax",
+ "title": "Wish Summons Explained + Full Summoning Session | Dragonheir x Dragonstride",
+ "published": "2026-10-07T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=B88cdyDr8dY",
+ "short": false,
+ "summarized": "2026-11-03T01:22Z"
+}

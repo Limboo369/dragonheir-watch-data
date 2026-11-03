@@ -1,11 +1,11 @@
 {
- "built": "2026-11-03T01:03Z",
- "last_fetch": "2026-11-03T00:17Z",
+ "built": "2026-11-03T01:23Z",
+ "last_fetch": "2026-11-03T01:17Z",
  "counts": {
-  "summarized": 195,
+  "summarized": 207,
   "skipped_giveaway": 17,
   "baseline": 22,
-  "new": 408,
+  "new": 396,
   "skipped_live": 1,
   "failed": 2
  },
@@ -25,51 +25,10 @@
  ],
  "budget": {
   "day": "2026-11-03",
-  "seconds": 12167,
+  "seconds": 21707,
   "v2": 1
  },
  "log_tail": [
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (436 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 183 videos, 151 heroes",
-  "/bin/bash: line 1: /root/ytwatch/run.sh: Permission denied",
-  "== 2026-11-02 17:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (436 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 183 videos, 151 heroes",
-  "== 2026-11-02 18:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (436 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 183 videos, 151 heroes",
-  "== 2026-11-02 19:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (436 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 183 videos, 151 heroes",
-  "== 2026-11-02 20:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (436 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 183 videos, 151 heroes",
-  "== 2026-11-02 21:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (436 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 183 videos, 151 heroes",
-  "== 2026-11-02 22:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (436 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 183 videos, 151 heroes",
-  "== 2026-11-02 23:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (436 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 183 videos, 151 heroes",
-  "== 2026-11-03 00:17",
   "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "… Skratch Gaming: These Temporal Vortex Teams Perform The Best!  Dragonheir: S… liveranov: Dragonheir Community Event Recap – October 2026 (Round 2)",
@@ -108,7 +67,48 @@
   "+ Suzi Plays: 1000 Pulls for OPTION SUMMONS! 💥Can My LUCK Continue!?🔥 Drag",
   "saved NzWyPU_0D9w",
   "+ Skratch Gaming: Come & Get Your Teams For The Tainted Guard! Crisis Rally Gu",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 195 videos, 151 heroes"
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 195 videos, 151 heroes",
+  "== 2026-11-03 01:17",
+  "fetch done: 0 new transcripts, 0 not available yet",
+  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
+  "… Gorax: I Got Baited Into Pulling MORE on Child of Chaos… | Dragonhe",
+  "… Volkin Dragonheir: One Small Change For DOUBLE DAMAGE!!! [Dragonheir: Silent Go",
+  "… Skratch Gaming: USE These Teams Vs. The Crisis Rally Boss Chaos Hunter! Drag",
+  "… Gorax: Wish Summons Explained + Full Summoning Session | Dragonheir",
+  "… Neff Gaming: Forging Event: Tips and Thinking | Dragonheir: Silent Gods",
+  "saved B_pJxLLGNPI",
+  "+ Skratch Gaming: USE These Teams Vs. The Crisis Rally Boss Chaos Hunter! Drag",
+  "… Skratch Gaming: She's COMING BACK!! Prepare Now So You Don't Miss Out!! Drag",
+  "saved 9OIXBuLFl4k",
+  "+ Neff Gaming: Forging Event: Tips and Thinking | Dragonheir: Silent Gods",
+  "  gemini-3.8-flash: 503, using gemini-3.5-flash",
+  "… Fastidious Dragonheir: NOW WHAT? Where to Farm & What to Do after hitting RESONANCE",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "saved 8YDjnEZR2as (unknown hero names: Elcibri)",
+  "+ Skratch Gaming: She's COMING BACK!! Prepare Now So You Don't Miss Out!! Drag",
+  "… Suzi Plays: Server Transfers & S9 Update NEWS ✅ Patch Notes🔥 Dragonheir ",
+  "saved 853xzAqGBbQ",
+  "+ Fastidious Dragonheir: NOW WHAT? Where to Farm & What to Do after hitting RESONANCE",
+  "… Gorax: Imperial Shadow Recast Beginner Guide - Avoid These Costly M",
+  "saved 7zhx8wMgnG8",
+  "+ Suzi Plays: Server Transfers & S9 Update NEWS ✅ Patch Notes🔥 Dragonheir ",
+  "… liveranov: Dauntless vs Abyssal Emissary (Area Boss 3) | Crisis Rally |",
+  "saved B88cdyDr8dY",
+  "+ Gorax: Wish Summons Explained + Full Summoning Session | Dragonheir",
+  "… Gorax: Temporal Vortex III Guide – Builds, Replacements & Skill Tim",
+  "saved 3kZRY_brdWU",
+  "+ Gorax: Imperial Shadow Recast Beginner Guide - Avoid These Costly M",
+  "… Skratch Gaming: WE DID IT!! Get Your Rewards & Crisis Rally Tips... Dragonhe",
+  "saved 3az9FCM8K2k",
+  "+ liveranov: Dauntless vs Abyssal Emissary (Area Boss 3) | Crisis Rally |",
+  "saved KXlWLBT9M5w",
+  "+ Gorax: I Got Baited Into Pulling MORE on Child of Chaos… | Dragonhe",
+  "saved ydl2Hi0lAy8",
+  "+ Gorax: Temporal Vortex III Guide – Builds, Replacements & Skill Tim",
+  "saved ybSja1ENEqY",
+  "+ Skratch Gaming: WE DID IT!! Get Your Rewards & Crisis Rally Tips... Dragonhe",
+  "saved FJ-KcKgrTcg",
+  "+ Volkin Dragonheir: One Small Change For DOUBLE DAMAGE!!! [Dragonheir: Silent Go"
  ],
  "crontab": [],
  "channels": [
@@ -116,55 +116,55 @@
    "name": "Skratch Gaming",
    "id": "UCoSkzr1pXpt3d0jIxsc6ufw",
    "enabled": true,
-   "checked": "2026-11-03T00:17Z"
+   "checked": "2026-11-03T01:17Z"
   },
   {
    "name": "Gorax",
    "id": "UCNas7BnuOIjDEzY1D53kb1w",
    "enabled": true,
-   "checked": "2026-11-03T00:17Z"
+   "checked": "2026-11-03T01:17Z"
   },
   {
    "name": "Neff Gaming",
    "id": "UCsxs6YhNd_B36RgUAjbpJ_A",
    "enabled": true,
-   "checked": "2026-11-03T00:17Z"
+   "checked": "2026-11-03T01:17Z"
   },
   {
    "name": "Volkin Dragonheir",
    "id": "UCfRpOh_ywVjzhh9fxHbreGw",
    "enabled": true,
-   "checked": "2026-11-03T00:17Z"
+   "checked": "2026-11-03T01:17Z"
   },
   {
    "name": "Fastidious Dragonheir",
    "id": "UC16mpj5wEemSZX-uTlHe9Ww",
    "enabled": true,
-   "checked": "2026-11-03T00:17Z"
+   "checked": "2026-11-03T01:17Z"
   },
   {
    "name": "OddOneGaming RPGs",
    "id": "UC1ivUEf_poI9_R2eVKa8wRQ",
    "enabled": true,
-   "checked": "2026-11-03T00:17Z"
+   "checked": "2026-11-03T01:17Z"
   },
   {
    "name": "Suzi Plays",
    "id": "UCyo1-TkunhGcK6khU1h8Ypw",
    "enabled": true,
-   "checked": "2026-11-03T00:17Z"
+   "checked": "2026-11-03T01:17Z"
   },
   {
    "name": "Skyasterix Gaming",
    "id": "UCr5Gb3910rK7QPmKMmdagsA",
    "enabled": true,
-   "checked": "2026-11-03T00:17Z"
+   "checked": "2026-11-03T01:17Z"
   },
   {
    "name": "liveranov",
    "id": "UCqCR7ofFHhWwXy3Hg00fqEw",
    "enabled": true,
-   "checked": "2026-11-03T00:17Z"
+   "checked": "2026-11-03T01:17Z"
   }
  ]
 }
