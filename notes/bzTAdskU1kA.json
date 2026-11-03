@@ -1,0 +1,82 @@
+{
+ "summary": "This video covers Day 2 of Season 9 on the Chinese servers, focusing on Vortex boss rankings and Arena meta shifts. Dauntless and Toxin teams remain top picks in early S9 Vortex, while Corrosion setups featuring Rook and Szecedith demonstrate massive damage potential against the boss eggs. Early test server results for the new Necrosis support show team damage exceeding 60 to 70 billion. In Arena, Necrosis and Aura teams continue to dominate the top ranks.",
+ "topics": [
+  "Vortex",
+  "Arena",
+  "Season 9 Meta",
+  "Corrosion Meta"
+ ],
+ "heroes": [
+  {
+   "name": "Rook",
+   "verdict": "Key enabler in Corrosion Vortex teams",
+   "note": "Deals massive damage against boss eggs, enabling Szecedith to amplify overall team output.",
+   "known": true
+  },
+  {
+   "name": "Szecedith",
+   "verdict": "High-tier Corrosion DPS",
+   "note": "Delivers top-tier damage in Vortex when supported by Rook and Child of Chaos.",
+   "known": true
+  },
+  {
+   "name": "Child of Chaos",
+   "verdict": "Top-tier Necrosis support",
+   "note": "Remains central to both high-scoring Vortex lineups and top Arena defense compositions.",
+   "known": true
+  },
+  {
+   "name": "Saverio",
+   "verdict": "PVP meta staple",
+   "note": "Featured in top rank Arena teams equipped with exclusive artifact and new skin.",
+   "known": true
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "Versatile DPS",
+   "note": "Used effectively across Toxin/Necrosis Vortex teams as well as Arena lineups.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Vortex",
+   "heroes": [
+    "Rook",
+    "Szecedith",
+    "Child of Chaos"
+   ],
+   "note": "Corrosion-focused lineup capitalizing on egg damage mechanics for huge score scaling."
+  },
+  {
+   "mode": "Arena",
+   "heroes": [
+    "Saverio",
+    "Aspalta",
+    "Daphne",
+    "Erina",
+    "Child of Chaos"
+   ],
+   "note": "Top ranking Arena defense composition on the S9 Chinese server."
+  }
+ ],
+ "meta_changes": [
+  "Corrosion archetypes have emerged as high-potential Vortex contenders due to Rook's interaction with boss eggs.",
+  "Upcoming Necrosis support hero shows potential to elevate team Vortex damage past 70 billion on test servers."
+ ],
+ "tips": [
+  "Stick with Dauntless and Toxin teams during the first three weeks of S9 Vortex while waiting for new hero banners.",
+  "Plan resource saving around upcoming Corrosion and Necrosis support hero banners."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "bzTAdskU1kA",
+ "model": "gemini-3.5-flash",
+ "channel": "Neff Gaming",
+ "title": "VORTEX BOSS & S9 ARENA UPDATES! Day 2 on the Chinese Server | Dragonheir: Silent Gods",
+ "published": "2026-09-30T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=bzTAdskU1kA",
+ "short": false,
+ "summarized": "2026-11-03T02:18Z"
+}

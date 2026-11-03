@@ -1,0 +1,88 @@
+{
+ "summary": "This one-week F2P progress guide demonstrates how to maximize account progression on a new Season 1 account without spending. The most crucial strategy is disciplined summoning: save Heliolite Dice until you have 270 to 300 pulls to guarantee the chosen hero from premium banners, rather than pulling randomly. Progression in early Season 1 is heavily time-gated, so stamina should be spent pre-farming EXP Goblin Lair to immediately jump resonance levels when caps unlock. Gear dungeon farming should be minimized until Stage 15 is available for Mythic gear drops. Additionally, players should continuously upgrade their Island buildings and utilize Familiar Fusion to craft Mythic familiars.",
+ "topics": [
+  "F2P Progression",
+  "Summoning Strategy",
+  "Island System",
+  "Familiar Fusion",
+  "Early Game Teams",
+  "Time Gating"
+ ],
+ "heroes": [
+  {
+   "name": "Auster",
+   "verdict": "Top F2P carry DPS",
+   "note": "Carried all progression content, soloing DPS across all three Grave dungeons up to Stage 14 by dealing heavy Cold damage that ignores enemy defense.",
+   "known": true
+  },
+  {
+   "name": "Lossenia",
+   "verdict": "Core early Frost support & CC",
+   "note": "Provided free from early login events; pairs exceptionally with Auster to apply Frost debuffs and crowd control.",
+   "known": true
+  },
+  {
+   "name": "Garius",
+   "verdict": "Best early progression tank",
+   "note": "Free Day 2 login Epic tank who provides reliable frontline defense and healing for all early dungeon clears.",
+   "known": true
+  },
+  {
+   "name": "Child of Chaos",
+   "verdict": "Top-tier flexible support",
+   "note": "Can switch elements to match teams, granting healing, damage reduction, and team attack buffs.",
+   "known": true
+  },
+  {
+   "name": "Gillian",
+   "verdict": "Solid early healer",
+   "note": "Standard Radiance healer who keeps the team alive, though easily replaceable by any other functional healer.",
+   "known": true
+  },
+  {
+   "name": "Talethia",
+   "verdict": "Priority banner target",
+   "note": "Primary legendary target selected on the upcoming Option Summon banner alongside Ice Blast and Aura schools.",
+   "known": true
+  },
+  {
+   "name": "Divine Ascetic",
+   "verdict": "Free Season Journey reward",
+   "note": "Unlocked directly by completing Season Journey Chapter 12.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "General Progression (Grave of Curse 14, Grave of Rot 14, Grave of Venom 14, Temporal Vortex, Goblin Lair)",
+   "heroes": [
+    "Auster",
+    "Lossenia",
+    "Garius",
+    "Child of Chaos",
+    "Gillian"
+   ],
+   "note": "Triple support shell (Garius tank, Child of Chaos buffer/healer, Gillian healer) keeping two Frost damage dealers (Auster DPS, Lossenia CC/sub-DPS) alive through all early progression content."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Never pull on premium or option summon banners until you have accumulated 270 to 300 summons to guarantee the featured pity unit.",
+  "Do not farm gear dungeons heavily before Stage 15 opens, as Mythic equipment only begins dropping at Stage 15.",
+  "Rush Hero Resonance Level to 100 as the top early account priority before investing heavily into gear farming.",
+  "Pre-farm EXP in Goblin Lair while time-gated so you can immediately level your resonance roster the moment daily time-gate caps unlock.",
+  "Consistently upgrade your Island buildings (Ancestral Idol, Mine, Hatchery, Dispatch Center, and War Room) to boost global stats and dungeon damage reduction.",
+  "Use Familiar Fusion on spare familiars: combining Legendary familiars with Epics offers a 5% chance per attempt to craft a Mythic familiar."
+ ],
+ "season": "S1",
+ "server_scope": "S1",
+ "value": "high",
+ "id": "e1p87KNEq0g",
+ "model": "gemini-3.8-flash",
+ "channel": "Fastidious Dragonheir",
+ "title": "After 7 Days Completely F2P — How Far Did I Get? ⁂ Dragonheir: Silent Gods",
+ "published": "2026-09-30T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=e1p87KNEq0g",
+ "short": false,
+ "summarized": "2026-11-03T02:20Z"
+}

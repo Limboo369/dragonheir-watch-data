@@ -1,0 +1,137 @@
+{
+ "summary": "OddOne Gaming evaluates all selectable legendary heroes in the Legendary Hero Prime Chest obtained from the 14-day Otherworld Tour event log-in. He ranks hero choices based on overall utility, team support roles, Arena viability, and inspiration priority. Synarell, Acilia, Phaessa, Rose, Feenja, and Felosia are highlighted as the top high-value support options, while heroes like Malak, Ergander, Dalk, Ghul'ende, and Zeffi are lower priority or situational picks.",
+ "topics": [
+  "Legendary Hero Prime Chest",
+  "Hero Selection",
+  "Support Heroes",
+  "Inspiration Priority",
+  "Tier List"
+ ],
+ "heroes": [
+  {
+   "name": "Synarell",
+   "verdict": "Top overall pick",
+   "note": "Functions as a top-tier solo support for most teams and is a high priority candidate for Inspiration 5.",
+   "known": true
+  },
+  {
+   "name": "Acilia",
+   "verdict": "Top tier support",
+   "note": "Provides debuff immunity, dispels, and massive healing, serving as an exceptional solo support.",
+   "known": true
+  },
+  {
+   "name": "Phaessa",
+   "verdict": "Top tier support for PvP and PvE",
+   "note": "Applies passive initial recharge and accuracy penalties, energy reduction, damage delay, and debuff immunity.",
+   "known": true
+  },
+  {
+   "name": "Rose",
+   "verdict": "Great versatile support",
+   "note": "Offers strong healing, Attack Penalty II, debuff dispels, recharge speed penalties, and scales with Enlightenment.",
+   "known": true
+  },
+  {
+   "name": "Feenja",
+   "verdict": "High tier healer and resist buffer",
+   "note": "Provides heavy healing, dispels, Resistance Up II, and shares resistance with adjacent allies.",
+   "known": true
+  },
+  {
+   "name": "Felosia",
+   "verdict": "Top tier shielder and mitigation support",
+   "note": "Grants strong shields, Control Immunity, Damage Reduction, and Defense Up II.",
+   "known": true
+  },
+  {
+   "name": "Astalon",
+   "verdict": "Strong healer and debuffer",
+   "note": "Provides healing, silence, defense steal, and energy reduction, though slightly nerfed on heal scaling.",
+   "known": false
+  },
+  {
+   "name": "Halramar",
+   "verdict": "Top Arena pick",
+   "note": "Passive reduces enemy ultimate energy gain by 80% at battle start.",
+   "known": true
+  },
+  {
+   "name": "Garrika",
+   "verdict": "Arena pick",
+   "note": "Gains ultimate energy when enemies gain buffs and reduces enemy ultimate energy.",
+   "known": true
+  },
+  {
+   "name": "Quaesitia",
+   "verdict": "Arena pick",
+   "note": "Inflicts recharge speed penalty, fear control, and ultimate energy reduction.",
+   "known": true
+  },
+  {
+   "name": "Theodemer",
+   "verdict": "Situational tank",
+   "note": "Rarely used as cheaper options like Garius can fulfill similar tanking duties.",
+   "known": true
+  },
+  {
+   "name": "Ghul'ende",
+   "verdict": "Skip",
+   "note": "Quirky kit with a high ultimate recharge cost.",
+   "known": true
+  },
+  {
+   "name": "Dalk",
+   "verdict": "Skip",
+   "note": "Generally low priority and rarely recommended over top supports.",
+   "known": true
+  },
+  {
+   "name": "Ergander",
+   "verdict": "Skip",
+   "note": "Low priority selection from the prime chest.",
+   "known": true
+  },
+  {
+   "name": "Malak",
+   "verdict": "Skip",
+   "note": "Generally not recommended unless needed for a very specific roster gap.",
+   "known": true
+  },
+  {
+   "name": "Zeffi",
+   "verdict": "Low priority / powercrept",
+   "note": "Has been largely powercrept in recent seasons and sees limited use.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Continental Challenge",
+   "heroes": [
+    "Phaessa"
+   ],
+   "note": "Used in Thunderbolt boss teams to land debuffs and slow enemy ultimate energy."
+  }
+ ],
+ "meta_changes": [
+  "Acilia has largely powercrept Mithrasea as the premier dispel and debuff immunity support.",
+  "Zeffi and Felosia face increased competition from newer supports and shielder options like Solmeld."
+ ],
+ "tips": [
+  "The Legendary Hero Prime Chest selection pool is fixed and does not change across seasons, so saved chests remain reserved indefinitely.",
+  "Prioritize Synarell for Inspiration level 5 to enable solo supporting across multiple teams.",
+  "Inspiration stages on Phaessa increase her battle skill target cap to 4 allies, significantly boosting her overall team mitigation and healing."
+ ],
+ "season": "S8",
+ "server_scope": "S1",
+ "value": "high",
+ "id": "TviMe77f8sQ",
+ "model": "gemini-3.5-flash",
+ "channel": "OddOneGaming RPGs",
+ "title": "⛔ DON'T WASTE THIS ⛔ Legendary Hero Prime Chest BEST Picks Breakdown | Dragonheir x Dragonstride",
+ "published": "2026-09-30T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=TviMe77f8sQ",
+ "short": false,
+ "summarized": "2026-11-03T02:18Z"
+}

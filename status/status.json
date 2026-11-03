@@ -1,11 +1,11 @@
 {
- "built": "2026-11-03T01:54Z",
- "last_fetch": "2026-11-03T01:17Z",
+ "built": "2026-11-03T02:22Z",
+ "last_fetch": "2026-11-03T02:17Z",
  "counts": {
-  "summarized": 207,
+  "summarized": 214,
   "skipped_giveaway": 17,
   "baseline": 22,
-  "new": 396,
+  "new": 389,
   "skipped_live": 1,
   "failed": 2
  },
@@ -25,39 +25,10 @@
  ],
  "budget": {
   "day": "2026-11-03",
-  "seconds": 21707,
+  "seconds": 26960,
   "v2": 1
  },
  "log_tail": [
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "… Skratch Gaming: These Temporal Vortex Teams Perform The Best!  Dragonheir: S… liveranov: Dragonheir Community Event Recap – October 2026 (Round 2)",
-  "… liveranov: What to Forge First in Piece of Treasury? 🔨 Dragonheir Mythi",
-  "",
-  "… Neff Gaming: VORTEX III 🔥 Child of Chaos + Reytah Team Setup! | Dragonhei",
-  "… Neff Gaming: VORTEX III 🔥 Child of Chaos + Stegamoffyn Team Setup! | Drag",
-  "saved Qk6BTauQ5ZI",
-  "+ liveranov: Dragonheir Community Event Recap – October 2026 (Round 2)",
-  "… Gorax: Syonis Explained in 30 Seconds! ⚡ Is He Worth Using? | Drago",
-  "saved 3uP3hZ785mM",
-  "+ Neff Gaming: VORTEX III 🔥 Child of Chaos + Reytah Team Setup! | Dragonhei",
-  "… Skratch Gaming: What To Forge?? And New Event... Dragonheir: Silent Gods x D",
-  "saved XfUqC3GwXBk",
-  "+ Skratch Gaming: These Temporal Vortex Teams Perform The Best!  Dragonheir: S",
-  "… liveranov: Aura vs Abyssal Emissary (Area Boss 3) | Crisis Rally | Seas",
-  "saved RZmBvHK504M",
-  "+ liveranov: What to Forge First in Piece of Treasury? 🔨 Dragonheir Mythi",
-  "… Neff Gaming: Best Vortex I Season 9 Team! (Week 1 Meta) | Dragonheir: Sil",
-  "saved K78RaGNiNKI",
-  "+ Neff Gaming: VORTEX III 🔥 Child of Chaos + Stegamoffyn Team Setup! | Drag",
-  "… Suzi Plays: 1000 Pulls for OPTION SUMMONS! 💥Can My LUCK Continue!?🔥 Drag",
-  "saved xH0Wj-jgh7c",
-  "+ Gorax: Syonis Explained in 30 Seconds! ⚡ Is He Worth Using? | Drago",
-  "… Volkin Dragonheir: *DON'T WASTE THIS* Summon Plan F2P - First Blush & Wish Summ",
-  "saved XbTgoxPr9WQ",
-  "+ Skratch Gaming: What To Forge?? And New Event... Dragonheir: Silent Gods x D",
-  "… Skratch Gaming: Come & Get Your Teams For The Tainted Guard! Crisis Rally Gu",
-  "saved VMnggAEkhNU",
-  "+ liveranov: Aura vs Abyssal Emissary (Area Boss 3) | Crisis Rally | Seas",
   "saved VEwv_TEaZkc",
   "+ Neff Gaming: Best Vortex I Season 9 Team! (Week 1 Meta) | Dragonheir: Sil",
   "saved Qz1B9JVRYjo",
@@ -108,7 +79,36 @@
   "+ Skratch Gaming: WE DID IT!! Get Your Rewards & Crisis Rally Tips... Dragonhe",
   "saved FJ-KcKgrTcg",
   "+ Volkin Dragonheir: One Small Change For DOUBLE DAMAGE!!! [Dragonheir: Silent Go",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 207 videos, 155 heroes"
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 207 videos, 155 heroes",
+  "== 2026-11-03 02:17",
+  "fetch done: 0 new transcripts, 0 not available yet",
+  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
+  "… Neff Gaming: SEASON 9 FIRST LOOK: Discovering the New Heroes and Updates ",
+  "… Gorax: The BEST Mythic Gear to Farm Early! | Dragonheir x Dragonstr",
+  "… Fastidious Dragonheir: After 7 Days Completely F2P — How Far Did I Get? ⁂ Dragonhei",
+  "… Neff Gaming: VORTEX BOSS & S9 ARENA UPDATES! Day 2 on the Chinese Server ",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "… OddOneGaming RPGs: ⛔ DON'T WASTE THIS ⛔ Legendary Hero Prime Chest BEST Picks B",
+  "saved bzTAdskU1kA",
+  "+ Neff Gaming: VORTEX BOSS & S9 ARENA UPDATES! Day 2 on the Chinese Server ",
+  "… Gorax: Best Heroes to Pick from the Legendary Hero Prime Chest | Dr",
+  "saved TviMe77f8sQ (unknown hero names: Astalon)",
+  "+ OddOneGaming RPGs: ⛔ DON'T WASTE THIS ⛔ Legendary Hero Prime Chest BEST Picks B",
+  "… OddOneGaming RPGs: 🚨 Some Unexpected Teams 🚨 My 6 Teams For CC Bosses S8 Last W",
+  "saved o0Y6OJRRPh8",
+  "+ Gorax: The BEST Mythic Gear to Farm Early! | Dragonheir x Dragonstr",
+  "saved Tdq_EWqix7k",
+  "+ Gorax: Best Heroes to Pick from the Legendary Hero Prime Chest | Dr",
+  "saved ONMMBlvyWpc",
+  "+ OddOneGaming RPGs: 🚨 Some Unexpected Teams 🚨 My 6 Teams For CC Bosses S8 Last W",
+  "saved e1p87KNEq0g",
+  "+ Fastidious Dragonheir: After 7 Days Completely F2P — How Far Did I Get? ⁂ Dragonhei",
+  "  gemini-3.5-flash: 503, using gemini-3.7-flash",
+  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
+  "saved o_jfaB478PE",
+  "+ Neff Gaming: SEASON 9 FIRST LOOK: Discovering the New Heroes and Updates "
  ],
  "crontab": [],
  "channels": [
@@ -116,55 +116,55 @@
    "name": "Skratch Gaming",
    "id": "UCoSkzr1pXpt3d0jIxsc6ufw",
    "enabled": true,
-   "checked": "2026-11-03T01:17Z"
+   "checked": "2026-11-03T02:17Z"
   },
   {
    "name": "Gorax",
    "id": "UCNas7BnuOIjDEzY1D53kb1w",
    "enabled": true,
-   "checked": "2026-11-03T01:17Z"
+   "checked": "2026-11-03T02:17Z"
   },
   {
    "name": "Neff Gaming",
    "id": "UCsxs6YhNd_B36RgUAjbpJ_A",
    "enabled": true,
-   "checked": "2026-11-03T01:17Z"
+   "checked": "2026-11-03T02:17Z"
   },
   {
    "name": "Volkin Dragonheir",
    "id": "UCfRpOh_ywVjzhh9fxHbreGw",
    "enabled": true,
-   "checked": "2026-11-03T01:17Z"
+   "checked": "2026-11-03T02:17Z"
   },
   {
    "name": "Fastidious Dragonheir",
    "id": "UC16mpj5wEemSZX-uTlHe9Ww",
    "enabled": true,
-   "checked": "2026-11-03T01:17Z"
+   "checked": "2026-11-03T02:17Z"
   },
   {
    "name": "OddOneGaming RPGs",
    "id": "UC1ivUEf_poI9_R2eVKa8wRQ",
    "enabled": true,
-   "checked": "2026-11-03T01:17Z"
+   "checked": "2026-11-03T02:17Z"
   },
   {
    "name": "Suzi Plays",
    "id": "UCyo1-TkunhGcK6khU1h8Ypw",
    "enabled": true,
-   "checked": "2026-11-03T01:17Z"
+   "checked": "2026-11-03T02:17Z"
   },
   {
    "name": "Skyasterix Gaming",
    "id": "UCr5Gb3910rK7QPmKMmdagsA",
    "enabled": true,
-   "checked": "2026-11-03T01:17Z"
+   "checked": "2026-11-03T02:17Z"
   },
   {
    "name": "liveranov",
    "id": "UCqCR7ofFHhWwXy3Hg00fqEw",
    "enabled": true,
-   "checked": "2026-11-03T01:17Z"
+   "checked": "2026-11-03T02:17Z"
   }
  ]
 }

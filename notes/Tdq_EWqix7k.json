@@ -1,0 +1,145 @@
+{
+ "summary": "This video breaks down the best hero choices from the Day 14 Legendary Hero Prime Chest for new and returning players. The creator highlights Felosia, Synarell, and Astaion as the top three overall high-value support picks depending on the damage school chosen. Zeffi is highlighted as a top fourth pick for Dauntless teams fighting Temporal Vortex up to 150 stacks. Other specialized picks like Halramar and Phaessa are recommended for PvP, while heroes like Malak and Dalk should be avoided. The main recommendation is to hold onto the chest until after completing summons to avoid pulling duplicates.",
+ "topics": [
+  "Legendary Hero Prime Chest",
+  "Hero Selection",
+  "Ice Blast",
+  "Burn",
+  "Necrosis",
+  "Temporal Vortex"
+ ],
+ "heroes": [
+  {
+   "name": "Felosia",
+   "verdict": "Top 3 Pick / Essential Ice Blast Support",
+   "note": "Provides massive shields, damage reduction, control immunity, and team resistance sharing, making her top tier for Ice Blast teams in PvE and PvP.",
+   "known": true
+  },
+  {
+   "name": "Synarell",
+   "verdict": "Top 3 Pick / Best Fire Support",
+   "note": "Applies unresistable attack penalty, strong scaling heals, and invincibility to survive high-stack Temporal Vortex and deal heavy AoE damage.",
+   "known": true
+  },
+  {
+   "name": "Astaion",
+   "verdict": "Top 3 Pick / Best Necrosis Support",
+   "note": "Steals enemy HP and Defense to buff the ally with the highest attack while inflicting control, silence, and healing.",
+   "known": true
+  },
+  {
+   "name": "Zeffi",
+   "verdict": "4th Best Pick / Temporal Vortex Enabler",
+   "note": "Grants team invincibility to allow Dauntless teams to reach 150 stacks in Temporal Vortex, along with dispels and shields.",
+   "known": true
+  },
+  {
+   "name": "Halramar",
+   "verdict": "Top PvP Poison Choice",
+   "note": "Summons a dark cloud that applies control, buff prohibition, energy drain, and recharge speed penalties in PvP.",
+   "known": true
+  },
+  {
+   "name": "Phaessa",
+   "verdict": "Strong Radiance/Aura PvP & PvE Pick",
+   "note": "Boosts ally effect application success rate by 20% while reducing enemy application by 20%, alongside debuff immunity and dispel.",
+   "known": true
+  },
+  {
+   "name": "Acilia",
+   "verdict": "Solid Radiance Support",
+   "note": "Provides debuff immunity and persistent healing, though somewhat outclassed by end-game Season 9 supports like Solmo and Rena.",
+   "known": true
+  },
+  {
+   "name": "Rose",
+   "verdict": "Solid Radiance Healer",
+   "note": "Great healer who applies recharge speed penalty and attack penalty while cleansing debuffs from allies.",
+   "known": true
+  },
+  {
+   "name": "Feenja",
+   "verdict": "Good Ice Healer Option",
+   "note": "Stronger healer pick than Theodemer if pairing with Felosia to sustain budget Frost/Ice Blast teams.",
+   "known": true
+  },
+  {
+   "name": "Theodemer",
+   "verdict": "Skip",
+   "note": "Not worth picking unless you already have Feenja, as better overall supports exist in the chest.",
+   "known": true
+  },
+  {
+   "name": "Ergander",
+   "verdict": "Skip / Easily Outscaled",
+   "note": "Usable early tank but easily replaced by multiple other defense heroes.",
+   "known": true
+  },
+  {
+   "name": "Ghul'ende",
+   "verdict": "Decent Necrosis Alternative",
+   "note": "A solid Necrosis hero, but far outmatched in value by Astaion.",
+   "known": true
+  },
+  {
+   "name": "Garrika",
+   "verdict": "Niche PvP Pick",
+   "note": "Primarily used as a Fey Meander and PvP support, low general PvE value.",
+   "known": true
+  },
+  {
+   "name": "Questa",
+   "verdict": "Niche PvP Pick",
+   "note": "Tailored for PvP and Fey Meander with minimal impact in main PvE modes.",
+   "known": true
+  },
+  {
+   "name": "Malak",
+   "verdict": "Do Not Pick",
+   "note": "Low performance hero not recommended from the Prime Chest.",
+   "known": true
+  },
+  {
+   "name": "Dalk",
+   "verdict": "Do Not Pick",
+   "note": "Weak option compared to other legendary supports in the selection pool.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Temporal Vortex",
+   "heroes": [
+    "Zeffi"
+   ],
+   "note": "Zeffi's timed ultimate invincibility allows Dauntless teams to survive single-target boss nukes up to 150 stacks."
+  },
+  {
+   "mode": "PvP Arena",
+   "heroes": [
+    "Halramar"
+   ],
+   "note": "Halramar disrupts enemy ultimate energy recharge and inflicts buff prohibition in Poison setups."
+  }
+ ],
+ "meta_changes": [
+  "Felosia remains high value in Season 1 and beyond, only contested by Season 9 exclusive supports.",
+  "Acilia's meta standing has declined on veteran servers due to newer options like Solmo and Rena, but she remains strong in early seasons."
+ ],
+ "tips": [
+  "Do not open or select a hero from the Legendary Hero Prime Chest immediately; save it in your inventory until after completing your option banner summons.",
+  "Match your Prime Chest hero choice to your primary damage school strategy (Felosia for Ice Blast, Synarell for Fire/Burn, Astaion for Necrosis).",
+  "Patience in keeping optional chests avoids pulling duplicate legendaries during future summoning events."
+ ],
+ "season": "S1",
+ "server_scope": "mixed",
+ "value": "high",
+ "id": "Tdq_EWqix7k",
+ "model": "gemini-3.5-flash",
+ "channel": "Gorax",
+ "title": "Best Heroes to Pick from the Legendary Hero Prime Chest | Dragonheir x Dragonstride",
+ "published": "2026-09-30T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=Tdq_EWqix7k",
+ "short": false,
+ "summarized": "2026-11-03T02:19Z"
+}

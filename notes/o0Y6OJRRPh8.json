@@ -1,0 +1,45 @@
+{
+ "summary": "On Day 14 of a new server, Mythic equipment dungeons unlock. Players should first clear all dungeon difficulties one by one to claim all first-time clear rewards. For gear farming, prioritize Grave of Curse and Grave of Rot for Precise Carnage (30% damage boost vs enemies with Defense Penalty) and Emperor's Might (25% damage boost at 100% HP) for main DPS heroes. Support heroes should be built with key Legendary support sets like Puppeteer's Inspiration or Three-Ears Emblem to boost team energy and damage.",
+ "topics": [
+  "Mythic Equipment",
+  "Gear Farming",
+  "Grave of Curse",
+  "Grave of Rot",
+  "Day 14 Progression"
+ ],
+ "heroes": [
+  {
+   "name": "Twitch",
+   "verdict": "Derivative damage enabler",
+   "note": "Great user of the Enwinding Flesh set to apply a 20% derivative damage increase mark on targets.",
+   "known": true
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "Main DPS carry",
+   "note": "Maximizes damage output when equipped with Precise Carnage or Emperor's Might while teammates enable debuffs.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [],
+ "tips": [
+  "Clear each dungeon difficulty level one by one to harvest all first-time clear rewards before settling into farming.",
+  "Prioritize chest and glove farming in Grave of Curse or Grave of Rot for universal damage-boosting Mythic pieces like Precise Carnage.",
+  "Pair Precise Carnage gear with Defense Penalty artifacts like Witch's Remains or Mystical Conch for an easy 30% damage increase.",
+  "Equip at least one support hero with the 3-piece Puppeteer's Inspiration legendary set to grant 30% ultimate energy to same-element allies upon casting an ultimate.",
+  "Use the Three-Ears Emblem 3-piece legendary set on supports to grant all allies a 15% elemental damage increase for 10 seconds when using an ultimate skill.",
+  "Equip Lunar Radiance weapons in PvP and Fey Meander for a clutch 3-second immortality buff upon reaching 0 HP."
+ ],
+ "season": "S1",
+ "server_scope": "S1",
+ "value": "high",
+ "id": "o0Y6OJRRPh8",
+ "model": "gemini-3.5-flash",
+ "channel": "Gorax",
+ "title": "The BEST Mythic Gear to Farm Early! | Dragonheir x Dragonstride",
+ "published": "2026-09-30T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=o0Y6OJRRPh8",
+ "short": false,
+ "summarized": "2026-11-03T02:19Z"
+}

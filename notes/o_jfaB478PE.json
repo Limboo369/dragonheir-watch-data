@@ -1,0 +1,62 @@
+{
+ "summary": "This video gives a first look at Season 9 on the Chinese server, highlighting new content and system updates. It reviews the S9 element affinities pairing Lightning with Fire, Ice with Radiant, and Poison with Necrosis alongside corresponding Psychicore talent tree options. The creator previews new S9 heroes including Theodemer and Torrin, tests summons on new banners, and checks refreshed shops, noting the inclusion of pet skill scrolls in the Pact Shop. Finally, the S9 Battle Pass featuring a new skin for Saverio is showcased.",
+ "topics": [
+  "Season 9",
+  "Psychicore",
+  "Shops",
+  "Banners",
+  "New Heroes"
+ ],
+ "heroes": [
+  {
+   "name": "Theodemer",
+   "verdict": "New Frost Support Legendary",
+   "note": "A new exclusive Frost support hero pulled from the S9 ticket banner.",
+   "known": true
+  },
+  {
+   "name": "Torrin",
+   "verdict": "Lightning Support Legendary",
+   "note": "Available as a selectable Lightning support hero in the S9 banner selector.",
+   "known": true
+  },
+  {
+   "name": "Saverio",
+   "verdict": "S9 Battle Pass Skin Hero",
+   "note": "Features as the hero receiving the new exclusive purple cosmetic skin in the S9 Battle Pass.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Arena",
+   "heroes": [
+    "Greshnar",
+    "Berengar",
+    "Saverio",
+    "Perkunte"
+   ],
+   "note": "Top-tier Arena composition taking advantage of high Inspiration level buffs in Season 9."
+  }
+ ],
+ "meta_changes": [
+  "Season 9 element affinities pair Lightning with Fire, Ice with Radiant, and Poison with Necrosis.",
+  "Psychicore talent trees updated with new tier VII/VIII nodes granting element-specific attack and damage reduction buffs.",
+  "Pact Shop in S9 now includes normal and legendary familiar/pet skill scroll option chests."
+ ],
+ "tips": [
+  "Check the Pact Shop in Season 9 for familiar skill scroll chests to upgrade pet abilities.",
+  "Save resources for the $20 traveler journey chest offer to select desired Legendary heroes or inspiration upgrades."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "o_jfaB478PE",
+ "model": "gemini-3.6-flash",
+ "channel": "Neff Gaming",
+ "title": "SEASON 9 FIRST LOOK: Discovering the New Heroes and Updates Together | Dragonheir: Silent Gods",
+ "published": "2026-09-30T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=o_jfaB478PE",
+ "short": false,
+ "summarized": "2026-11-03T02:22Z"
+}

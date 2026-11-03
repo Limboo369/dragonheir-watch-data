@@ -1,0 +1,173 @@
+{
+ "summary": "This video breaks down OddOneGaming's six teams used to reach top rankings in Continental Challenge Season 8. He provides exact lineup compositions, key hero substitutes, positioning tips, and equipment synergies for each boss. Standout strategies include stacking Resistance with Feenja and Oggok against Iola, and locking down Amonleyda's ultimate energy using Phaessa and Orfenna. He also links imported team codes to easily copy stats and talents.",
+ "topics": [
+  "Continental Challenge",
+  "Boss Teams",
+  "Aura Team",
+  "Dauntless Team",
+  "Toxin Team",
+  "Ice Blast Team"
+ ],
+ "heroes": [
+  {
+   "name": "Yfeir",
+   "verdict": "Core clone summoner for Aura teams",
+   "note": "Generates clones that dramatically boost overall damage in Continental Challenge fights.",
+   "known": true
+  },
+  {
+   "name": "Naro",
+   "verdict": "Budget replacement for Yfeir",
+   "note": "Fills a similar clone/summon role in Aura teams if Yfeir is unavailable.",
+   "known": true
+  },
+  {
+   "name": "Fathomdown",
+   "verdict": "MVP vs Whisk",
+   "note": "Constantly recycles ultimate skills to lock down boss energy and reduce recharge speed.",
+   "known": true
+  },
+  {
+   "name": "Maashtur",
+   "verdict": "Primary healer for Dauntless team",
+   "note": "Provides steady healing and shielding needed to keep the Dauntless roster alive.",
+   "known": true
+  },
+  {
+   "name": "Irmoush",
+   "verdict": "Alternative healer vs Whisk",
+   "note": "Substitutes well for Maashtur when extra survivability or shielding is required.",
+   "known": true
+  },
+  {
+   "name": "Astaion",
+   "verdict": "Budget healer vs Whisk",
+   "note": "Offers solid healing while landing debuffs to negate Whisk's invisibility.",
+   "known": true
+  },
+  {
+   "name": "Child of Chaos",
+   "verdict": "Key survival support in Corrosion team",
+   "note": "Provides AOE immunity through Ethereal buffs so allies survive heavy boss ultimates.",
+   "known": true
+  },
+  {
+   "name": "Oggok",
+   "verdict": "Resistance buffer vs Iola",
+   "note": "Shares high Resistance with surrounding allies via Stand United talent and aura.",
+   "known": true
+  },
+  {
+   "name": "Feenja",
+   "verdict": "Resistance buffer vs Iola",
+   "note": "Shares 20% of high personal Resistance with adjacent allies using Stand United talent.",
+   "known": true
+  },
+  {
+   "name": "Phaessa",
+   "verdict": "Main boss energy controller",
+   "note": "Reduces target ultimate energy whenever negative effects expire or apply.",
+   "known": true
+  },
+  {
+   "name": "Orfenna",
+   "verdict": "Top debuff enabler vs Amonleyda",
+   "note": "Consistently applies Electrocuted debuffs, continuously triggering Phaessa's energy drain passive.",
+   "known": true
+  },
+  {
+   "name": "Journ",
+   "verdict": "Ultimate energy control enabler",
+   "note": "Reduces target ultimate energy on debuffs and applies Bleed using the Calcined Ruin set.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Continental Challenge (Talethia)",
+   "heroes": [
+    "Talethia",
+    "Anneliesis",
+    "Yfeir",
+    "Flora",
+    "Joyce"
+   ],
+   "note": "Highest damage output team using Aura synergies and Yfeir clones."
+  },
+  {
+   "mode": "Continental Challenge (Whisk)",
+   "heroes": [
+    "Guinavivre",
+    "Kurvida",
+    "Nastjenka",
+    "Maashtur",
+    "Fathomdown"
+   ],
+   "note": "Dauntless team with Fathomdown providing critical ultimate recharge control."
+  },
+  {
+   "mode": "Continental Challenge (Durem)",
+   "heroes": [
+    "Sacredeia",
+    "Child of Chaos",
+    "Reytah",
+    "Whisk",
+    "Durem"
+   ],
+   "note": "Corrosion composition using Child of Chaos Ethereal buff for team survivability."
+  },
+  {
+   "mode": "Continental Challenge (Elesebre)",
+   "heroes": [
+    "Beldelle",
+    "Fredegonda",
+    "Ernesto",
+    "Shinnah",
+    "Vinyara"
+   ],
+   "note": "Ice Blast team relying on battle skill spam to deal full damage despite Blind debuffs."
+  },
+  {
+   "mode": "Continental Challenge (Iola)",
+   "heroes": [
+    "Oggok",
+    "Feenja",
+    "Serpentemis",
+    "Twitch",
+    "Sleight"
+   ],
+   "note": "Toxin composition that stacks Resistance across the board via Oggok and Feenja."
+  },
+  {
+   "mode": "Continental Challenge (Amonleyda)",
+   "heroes": [
+    "Perkunte",
+    "Journ",
+    "Orfenna",
+    "Shai'nachtan",
+    "Phaessa"
+   ],
+   "note": "Control strategy designed to suppress Amonleyda's ultimate energy through continuous debuffing."
+  }
+ ],
+ "meta_changes": [
+  "Energy reduction strategies combining Phaessa passive, Punisher's Whip, and high-frequency debuffers offer reliable lock-down against high-damage bosses."
+ ],
+ "tips": [
+  "Equip Stand United talent on both Oggok and Feenja and place allies adjacent to them to share Resistance against Iola.",
+  "Use Calcined Ruin 1-piece gear on ultimate debuffers like Journ to land additional Bleed debuffs.",
+  "Pair Phaessa with Punisher's Whip and Orchestral Harmony gear to stack Skill Haste and maximize energy reduction.",
+  "Position heroes wearing Everlasting Candleflame or Whirling Edge next to main damage dealers to maximize buff sharing."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "ONMMBlvyWpc",
+ "model": "gemini-3.5-flash",
+ "channel": "OddOneGaming RPGs",
+ "title": "🚨 Some Unexpected Teams 🚨 My 6 Teams For CC Bosses S8 Last Week GUIDE | Dragonheir x Dragonstride",
+ "published": "2026-09-30T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=ONMMBlvyWpc",
+ "short": false,
+ "summarized": "2026-11-03T02:19Z"
+}
