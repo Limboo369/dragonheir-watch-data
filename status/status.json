@@ -1,5 +1,5 @@
 {
- "built": "2026-11-03T02:22Z",
+ "built": "2026-11-03T02:54Z",
  "last_fetch": "2026-11-03T02:17Z",
  "counts": {
   "summarized": 214,
@@ -29,8 +29,6 @@
   "v2": 1
  },
  "log_tail": [
-  "saved VEwv_TEaZkc",
-  "+ Neff Gaming: Best Vortex I Season 9 Team! (Week 1 Meta) | Dragonheir: Sil",
   "saved Qz1B9JVRYjo",
   "+ Volkin Dragonheir: *DON'T WASTE THIS* Summon Plan F2P - First Blush & Wish Summ",
   "saved SKvUJeFHJIw",
@@ -108,7 +106,9 @@
   "  gemini-3.5-flash: 503, using gemini-3.7-flash",
   "  gemini-3.7-flash: 429, using gemini-3.6-flash",
   "saved o_jfaB478PE",
-  "+ Neff Gaming: SEASON 9 FIRST LOOK: Discovering the New Heroes and Updates "
+  "+ Neff Gaming: SEASON 9 FIRST LOOK: Discovering the New Heroes and Updates ",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 214 videos, 165 heroes",
+  "curl: (56) Recv failure: Connection reset by peer"
  ],
  "crontab": [],
  "channels": [
