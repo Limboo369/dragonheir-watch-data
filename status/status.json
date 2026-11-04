@@ -1,11 +1,11 @@
 {
- "built": "2026-11-04T00:10Z",
- "last_fetch": "2026-11-03T23:17Z",
+ "built": "2026-11-04T00:30Z",
+ "last_fetch": "2026-11-04T00:17Z",
  "counts": {
-  "summarized": 214,
+  "summarized": 217,
   "skipped_giveaway": 17,
   "baseline": 22,
-  "new": 395,
+  "new": 392,
   "skipped_live": 1,
   "failed": 2
  },
@@ -24,30 +24,11 @@
   }
  ],
  "budget": {
-  "day": "2026-11-03",
-  "seconds": 26960,
+  "day": "2026-11-04",
+  "seconds": 11185,
   "v2": 1
  },
  "log_tail": [
-  "daily video budget used (449 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 214 videos, 165 heroes",
-  "== 2026-11-03 09:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (449 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 214 videos, 165 heroes",
-  "== 2026-11-03 10:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (449 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 214 videos, 165 heroes",
-  "== 2026-11-03 11:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (449 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 214 videos, 165 heroes",
-  "== 2026-11-03 12:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "daily video budget used (449 min), waiting for tomorrow",
   "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 214 videos, 165 heroes",
@@ -108,7 +89,26 @@
   "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "daily video budget used (449 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 214 videos, 165 heroes"
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 214 videos, 165 heroes",
+  "== 2026-11-04 00:17",
+  "fetch done: 0 new transcripts, 0 not available yet",
+  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
+  "… Neff Gaming: FROSTLIGHT SPEEDRUN! ⚡ 3 Dungeons, One Team | Dragonheir: Si",
+  "… Neff Gaming: FIRESTORM SPEEDRUN! ⚡ 3 Dungeons, One Team | Dragonheir: Sil",
+  "… Skratch Gaming: DO THIS! Chose The Right Piece... Dragonheir: Silent Gods x ",
+  "… Suzi Plays: A YOLO Summoning SURPRISE! 💥A Silly Daily Plan Got Me THIS! ",
+  "  gemini-3.8-flash: 503, using gemini-3.5-flash",
+  "  gemini-3.8-flash: 503, using gemini-3.5-flash",
+  "  gemini-3.5-flash: 503, using gemini-3.7-flash",
+  "… liveranov: Community Giveaway November (Round 1) | Entry OPEN",
+  "saved iyc1c1lve5o",
+  "+ Neff Gaming: FROSTLIGHT SPEEDRUN! ⚡ 3 Dungeons, One Team | Dragonheir: Si",
+  "… liveranov: Grave of Venom 20 Speedrun | Firestorm, Frostlight & Necroto",
+  "saved tHmTD4guOio",
+  "+ liveranov: Community Giveaway November (Round 1) | Entry OPEN",
+  "… Skratch Gaming: MY 6 TEAMS & Strategy For Week 3! Dragonheir: Silent Gods x ",
+  "saved bhu8a6lCUDY",
+  "+ Neff Gaming: FIRESTORM SPEEDRUN! ⚡ 3 Dungeons, One Team | Dragonheir: Sil"
  ],
  "crontab": [],
  "channels": [
@@ -116,55 +116,55 @@
    "name": "Skratch Gaming",
    "id": "UCoSkzr1pXpt3d0jIxsc6ufw",
    "enabled": true,
-   "checked": "2026-11-03T23:17Z"
+   "checked": "2026-11-04T00:17Z"
   },
   {
    "name": "Gorax",
    "id": "UCNas7BnuOIjDEzY1D53kb1w",
    "enabled": true,
-   "checked": "2026-11-03T23:17Z"
+   "checked": "2026-11-04T00:17Z"
   },
   {
    "name": "Neff Gaming",
    "id": "UCsxs6YhNd_B36RgUAjbpJ_A",
    "enabled": true,
-   "checked": "2026-11-03T23:17Z"
+   "checked": "2026-11-04T00:17Z"
   },
   {
    "name": "Volkin Dragonheir",
    "id": "UCfRpOh_ywVjzhh9fxHbreGw",
    "enabled": true,
-   "checked": "2026-11-03T23:17Z"
+   "checked": "2026-11-04T00:17Z"
   },
   {
    "name": "Fastidious Dragonheir",
    "id": "UC16mpj5wEemSZX-uTlHe9Ww",
    "enabled": true,
-   "checked": "2026-11-03T23:17Z"
+   "checked": "2026-11-04T00:17Z"
   },
   {
    "name": "OddOneGaming RPGs",
    "id": "UC1ivUEf_poI9_R2eVKa8wRQ",
    "enabled": true,
-   "checked": "2026-11-03T23:17Z"
+   "checked": "2026-11-04T00:17Z"
   },
   {
    "name": "Suzi Plays",
    "id": "UCyo1-TkunhGcK6khU1h8Ypw",
    "enabled": true,
-   "checked": "2026-11-03T23:17Z"
+   "checked": "2026-11-04T00:17Z"
   },
   {
    "name": "Skyasterix Gaming",
    "id": "UCr5Gb3910rK7QPmKMmdagsA",
    "enabled": true,
-   "checked": "2026-11-03T23:17Z"
+   "checked": "2026-11-04T00:17Z"
   },
   {
    "name": "liveranov",
    "id": "UCqCR7ofFHhWwXy3Hg00fqEw",
    "enabled": true,
-   "checked": "2026-11-03T23:17Z"
+   "checked": "2026-11-04T00:17Z"
   }
  ]
 }

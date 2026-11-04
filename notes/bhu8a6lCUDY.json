@@ -1,0 +1,74 @@
+{
+ "summary": "Neff Gaming showcases an elite universal speedrun team capable of clearing three major dungeons—Heretical Ruins, Grave of Rot, and Grave of Curse—in as fast as 4 to 8 seconds. The team consists of Nissa, Anneliesis, Astaion, Guinavivre, and Kurvida. Key synergy involves placing Anneliesis directly behind Nissa to accelerate her recharge speed, allowing Nissa (especially at Inspiration 5) to cast her ultimate in just 3 seconds. The setup relies on Attack sharing, Elite's Key, Angelic Alliance, and consumable food providing Lightning damage and Attack.",
+ "topics": [
+  "Dungeon Speedrunning",
+  "Grave of Rot",
+  "Grave of Curse",
+  "Heretical Ruins",
+  "Lightning Team"
+ ],
+ "heroes": [
+  {
+   "name": "Nissa",
+   "verdict": "Core speedrun burst DPS",
+   "note": "Equip with the Puppeteer set and Accuracy; at Inspiration 5 and boosted by Anneliesis, she can cast her ultimate within 3 seconds.",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "Essential speedrun support",
+   "note": "Positioned behind Nissa to grant crucial skill recharge speed.",
+   "known": true
+  },
+  {
+   "name": "Astaion",
+   "verdict": "Top-tier buffer/support",
+   "note": "Equipped with Elite's Key and stacked with as much Attack as possible to share stats.",
+   "known": true
+  },
+  {
+   "name": "Guinavivre",
+   "verdict": "Key speedrun DPS",
+   "note": "Equipped with the Bell artifact and configured with different talents than those used in Temporal Vortex.",
+   "known": true
+  },
+  {
+   "name": "Kurvida",
+   "verdict": "Key speedrun DPS/buffer",
+   "note": "Equipped with Angelic Alliance artifact to provide shared Attack and elemental bonuses.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Dungeon Speedrun (Heretical Ruins, Grave of Rot, Grave of Curse)",
+   "heroes": [
+    "Guinavivre",
+    "Kurvida",
+    "Anneliesis",
+    "Nissa",
+    "Astaion"
+   ],
+   "note": "Universal 4 to 8-second speedrun composition leveraging massive Attack sharing, Elite's Key, and Anneliesis accelerating Nissa's ultimate."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Position Anneliesis directly behind Nissa to accelerate her ultimate cooldown.",
+  "Equip Astaion with Elite's Key and build maximum Attack for stat-sharing.",
+  "Equip Kurvida with Angelic Alliance and Guinavivre with the Bell artifact.",
+  "Build Nissa with the Puppeteer set and high Accuracy.",
+  "Consume food that buffs Lightning Damage and Attack before attempting speedruns."
+ ],
+ "season": "unknown",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "bhu8a6lCUDY",
+ "model": "gemini-3.7-flash",
+ "channel": "Neff Gaming",
+ "title": "FIRESTORM SPEEDRUN! ⚡ 3 Dungeons, One Team | Dragonheir: Silent Gods",
+ "published": "2026-11-03T19:06:16+00:00",
+ "url": "https://www.youtube.com/shorts/bhu8a6lCUDY",
+ "short": true,
+ "summarized": "2026-11-04T00:29Z"
+}

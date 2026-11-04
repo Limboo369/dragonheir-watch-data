@@ -1,0 +1,72 @@
+{
+ "summary": "This guide showcases a fast Radiance and Lightning speedrun team capable of clearing three major dungeons: Grave of Curse, Grave of Rot, and Heretical Ruins. The lineup consists of Anneliesis, Child of Chaos, Bargarn, Guinavivre, and Kurvida. Bargarn uses the Puppeteer set combined with Witch's Remains to land fast debuffs via his short ultimate cooldown. High Attack stats on Kurvida and Child of Chaos maximize the overall damage of main DPS units Guinavivre and Anneliesis, securing 7 to 8 second dungeon clears.",
+ "topics": [
+  "dungeon speedrun",
+  "Grave of Curse",
+  "Grave of Rot",
+  "Heretical Ruins",
+  "team comp"
+ ],
+ "heroes": [
+  {
+   "name": "Anneliesis",
+   "verdict": "Core Radiance DPS",
+   "note": "Built for high Radiance damage using the Elite's Key artifact.",
+   "known": true
+  },
+  {
+   "name": "Child of Chaos",
+   "verdict": "Radiance Attack Buffer",
+   "note": "Equipped with the Angelic Alliance artifact to boost team attack.",
+   "known": true
+  },
+  {
+   "name": "Bargarn",
+   "verdict": "Fast Debuffer",
+   "note": "Uses the Puppeteer set and Witch's Remains artifact to launch rapid initial ultimates.",
+   "known": true
+  },
+  {
+   "name": "Guinavivre",
+   "verdict": "Primary Lightning DPS",
+   "note": "Built heavily into Crit Rate, Crit Damage, and Attack stats.",
+   "known": true
+  },
+  {
+   "name": "Kurvida",
+   "verdict": "Attack Buffer",
+   "note": "Stack as much Attack stat as possible to enhance team damage.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Dungeon Speedruns (Grave of Curse, Grave of Rot, Heretical Ruins)",
+   "heroes": [
+    "Anneliesis",
+    "Child of Chaos",
+    "Bargarn",
+    "Guinavivre",
+    "Kurvida"
+   ],
+   "note": "Versatile 7-8 second speedrun lineup effective across level 20 dungeons."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Equip Bargarn with Puppeteer set and Witch's Remains artifact for a 3.9 second initial ultimate.",
+  "Restart dungeon runs if Bargarn misses his opening debuff to ensure top speedrun times.",
+  "Ensure appropriate food buffs are active prior to attempting fast dungeon clears."
+ ],
+ "season": "unknown",
+ "server_scope": "mixed",
+ "value": "high",
+ "id": "iyc1c1lve5o",
+ "model": "gemini-3.5-flash",
+ "channel": "Neff Gaming",
+ "title": "FROSTLIGHT SPEEDRUN! ⚡ 3 Dungeons, One Team | Dragonheir: Silent Gods",
+ "published": "2026-11-03T19:43:58+00:00",
+ "url": "https://www.youtube.com/shorts/iyc1c1lve5o",
+ "short": true,
+ "summarized": "2026-11-04T00:23Z"
+}
