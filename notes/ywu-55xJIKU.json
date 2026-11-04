@@ -1,0 +1,102 @@
+{
+ "summary": "Gorax showcases an all-in summoning session on the Option Summons II banner, selecting Toxic and Dauntless damage schools. He highlights Option Summons II as the best opportunity for players to assemble specialized elemental team comps like Toxic, Ice Blast, or Dauntless. During the pulls, he acquires key heroes including Oggok, Urgoula, Durango, Irmoush, and main Dauntless carry Guinavivre. He also details how to use the Starwave Echo anniversary event to convert extra legendary soul imprints into exclusive heroes like Maashtur or Kurvida.",
+ "topics": [
+  "Option Summons II",
+  "Summoning",
+  "Dauntless",
+  "Toxic",
+  "Starwave Echo",
+  "Pity System"
+ ],
+ "heroes": [
+  {
+   "name": "Oggok",
+   "verdict": "Top-tier support",
+   "note": "Wants high inspiration, especially Inspiration 5 which allows him to bypass Accuracy stats completely.",
+   "known": true
+  },
+  {
+   "name": "Urgoula",
+   "verdict": "Excellent PvP tank and control hero",
+   "note": "Provides Stun, Attack Penalty, huge shield, and dispel; helped creator reach Rank 1 Arena.",
+   "known": true
+  },
+  {
+   "name": "Durango",
+   "verdict": "Great Toxic enabler for PvP and PvE",
+   "note": "Applies Toxic stacks immediately at battle start to trigger Serpentemis for high early damage.",
+   "known": true
+  },
+  {
+   "name": "Guinavivre",
+   "verdict": "Main damage carry for Dauntless teams",
+   "note": "Becomes a top-tier damage dealer at Inspiration 5 where her battle skill bonus damage chance increases from 50% to 100%.",
+   "known": true
+  },
+  {
+   "name": "Irmoush",
+   "verdict": "Premium support tank",
+   "note": "Grants Defense Up II, Debuff Immunity, and Control Immunity upon switching stances.",
+   "known": true
+  },
+  {
+   "name": "Elip",
+   "verdict": "Niche hero with unimpressive kit",
+   "note": "Has limited utility in end-game PvE or Continental content and is rarely prioritized.",
+   "known": true
+  },
+  {
+   "name": "Vicana",
+   "verdict": "Outclassed / Conversion candidate",
+   "note": "Rarely used due to superior Toxic options like Serpentemis; best converted to artifacts or tokens.",
+   "known": true
+  },
+  {
+   "name": "Tamar",
+   "verdict": "Decent PvP hero / Token candidate",
+   "note": "Has utility in PvP, but duplicate copies are frequently converted into artifacts or Starwave tokens.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Single Target DPS",
+   "heroes": [
+    "Guinavivre",
+    "Nastjenka",
+    "Kurvida",
+    "Sleight"
+   ],
+   "note": "Dauntless is the strongest single-target team composition in the game, though highly expensive to build."
+  },
+  {
+   "mode": "Single Target DPS (F2P)",
+   "heroes": [
+    "Sleight",
+    "Serpentemis",
+    "Durango"
+   ],
+   "note": "Toxic teams are easy to construct for F2P players via Option Summons banners."
+  }
+ ],
+ "meta_changes": [
+  "Ice Blast teams gain a strong buff in the upcoming season through a new exclusive support hero.",
+  "Starwave Echo event allows exchanging duplicate Legendary Hero Soul Imprints for Starwave Fragments to purchase premium heroes."
+ ],
+ "tips": [
+  "The 300-summon selector on Option Summons II effectively requires only 270 dice due to refunded dice rewards.",
+  "Target Inspiration 5 on Guinavivre to turn her battle skill proc chance from 50% into a guaranteed 100%.",
+  "Join the Nightveil Vanguard / Dark Lady faction in the Nightveil Standoff event to claim maximum participation rewards."
+ ],
+ "season": "S9",
+ "server_scope": "mixed",
+ "value": "medium",
+ "id": "ywu-55xJIKU",
+ "model": "gemini-3.5-flash",
+ "channel": "Gorax",
+ "title": "I Went ALL IN on Option Summons II… Should You? | Dragonheir x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=ywu-55xJIKU",
+ "short": false,
+ "summarized": "2026-11-04T01:18Z"
+}

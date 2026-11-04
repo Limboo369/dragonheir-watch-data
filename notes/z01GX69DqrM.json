@@ -1,0 +1,81 @@
+{
+ "summary": "The creator demonstrates two Corrosion team variations against Durem in the Continental Challenge mode. Both teams feature Reytah, Child of Chaos, Szecedith, Sacredeia, and Rook. The budget setup achieves 523M damage, focusing on survival using defensive gear on Child of Chaos. A higher-investment setup with Inspiration 2 Child of Chaos, Reytah's exclusive artifact, and Szecedith on front row achieves 1.14B damage.",
+ "topics": [
+  "Continental Challenge",
+  "Corrosion",
+  "Durem",
+  "Boss Challenge"
+ ],
+ "heroes": [
+  {
+   "name": "Child of Chaos",
+   "verdict": "Essential support for Corrosion boss team",
+   "note": "Built with Puppet Master set and defensive stats for budget runs, or Inspiration 2 to significantly boost team damage and survivability.",
+   "known": true
+  },
+  {
+   "name": "Szecedith",
+   "verdict": "Primary Corrosion damage dealer",
+   "note": "Built for full damage; placed in the front row in higher investment setups to absorb damage without dying.",
+   "known": true
+  },
+  {
+   "name": "Reytah",
+   "verdict": "Key Corrosion enabler",
+   "note": "Built with full Accuracy and HP, using exclusive artifact in high-end compositions.",
+   "known": true
+  },
+  {
+   "name": "Sacredeia",
+   "verdict": "Corrosion attack and accuracy buffer",
+   "note": "Built with full Attack and accuracy using the Witches set.",
+   "known": true
+  },
+  {
+   "name": "Rook",
+   "verdict": "Core Corrosion dps",
+   "note": "Built with 100% Crit Rate, max Crit Damage, and Skill Haste.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Continental Challenge - Durem",
+   "heroes": [
+    "Reytah",
+    "Child of Chaos",
+    "Szecedith",
+    "Sacredeia",
+    "Rook"
+   ],
+   "note": "Budget setup reaching 523M damage using defensive gear on Child of Chaos to survive."
+  },
+  {
+   "mode": "Continental Challenge - Durem",
+   "heroes": [
+    "Reytah",
+    "Child of Chaos",
+    "Szecedith",
+    "Sacredeia",
+    "Rook"
+   ],
+   "note": "High investment setup reaching 1.14B damage with Inspiration 2 Child of Chaos, Reytah's exclusive artifact, and Szecedith in front row."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "In budget Corrosion runs against Durem, prioritize defensive stats on Child of Chaos with the Puppet Master set to ensure team survival.",
+  "Higher team investment allows positioning Szecedith in the front row to survive hits easily and maximize team damage output."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "z01GX69DqrM",
+ "model": "gemini-3.5-flash",
+ "channel": "liveranov",
+ "title": "Corrosion vs Durem | Continental Challenge | Season 8 | Dragonheir",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=z01GX69DqrM",
+ "short": false,
+ "summarized": "2026-11-04T01:17Z"
+}
