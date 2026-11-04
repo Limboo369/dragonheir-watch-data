@@ -1,0 +1,46 @@
+{
+ "summary": "Skyasterix performs pulls on the Option Summons II banner aiming for target legendary heroes like Serpentemis and Kurvida. He briefly notes recent skill bug fixes to Child of Chaos that corrected his buff applications in battle, making him slightly tankier. Over the course of more than 400 Heliolite Dice pulled, he gets multiple legendary heroes including duplicate off-banner pulls (Tharivol, Labour, Garett, Divine Ascetic, Vicana, Thurnus, Sutha, Durango, Jathalea) without receiving his desired banner premium targets.",
+ "topics": [
+  "summons",
+  "Option Summons II",
+  "Child of Chaos"
+ ],
+ "heroes": [
+  {
+   "name": "Child of Chaos",
+   "verdict": "Slightly tankier after skill fixes",
+   "note": "Bug fixes to his skills corrected buff mechanics in battle, increasing his tankiness and potential usefulness in Arena.",
+   "known": true
+  },
+  {
+   "name": "Kurvida",
+   "verdict": "Target banner pick",
+   "note": "Selected as a target hero on Option Summons II banner to pursue Inspiration level 5.",
+   "known": true
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "Target banner pick",
+   "note": "Selected on the Option Summons II pool to upgrade her inspiration tier.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [
+  "Child of Chaos skill bugs were fixed, enabling his passive and skill buffs to operate correctly in combat."
+ ],
+ "tips": [
+  "Option Summons II lets players tailor banner pools, but chasing premium legendaries can still result in pulling off-banner duplicate standard legendaries."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "low",
+ "id": "zLC3mySaxd8",
+ "model": "gemini-3.5-flash",
+ "channel": "Skyasterix Gaming",
+ "title": "🔥 S8 Option Summons 2 JACKPOT or FRUSTRATION?! 😱 What Did I Get?! 🎰 | Dragonheir: Silent Gods",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=zLC3mySaxd8",
+ "short": false,
+ "summarized": "2026-11-04T00:36Z"
+}

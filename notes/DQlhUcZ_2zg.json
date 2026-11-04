@@ -1,0 +1,148 @@
+{
+ "summary": "Skratch presents his full lineup of 5 teams for Week 3 of the Continental Challenge in Dragonheir: Silent Gods. He covers team builds, positioning, artifacts, gear sets, and exact skill timing for bosses including Talethia, Whisk, Elecebre, Durem, and Iola. The guide details how to reach top damage rankings using optimized setups such as Thunder CC, Necrosis, Ice Blast, Toxic Enlightenment, and Dauntless control-mitigation teams, while highlighting hero alternatives for players lacking specific legendaries.",
+ "topics": [
+  "Continental Challenge",
+  "Boss Teams",
+  "Skill Timing",
+  "Team Formations",
+  "Hero Builds"
+ ],
+ "heroes": [
+  {
+   "name": "Perkunte",
+   "verdict": "Top DPS for Talethia",
+   "note": "Deals massive damage in the Thunder CC lineup when timed with Journ's energy boosts.",
+   "known": true
+  },
+  {
+   "name": "Journ",
+   "verdict": "Essential buffer for Talethia",
+   "note": "Requires careful positioning to distribute ultimate energy to all four teammates.",
+   "known": true
+  },
+  {
+   "name": "Fathomdown",
+   "verdict": "Key support for Whisk",
+   "note": "Uses Misty Conch artifact along with Skill Haste and Accuracy to land crucial debuffs.",
+   "known": true
+  },
+  {
+   "name": "Saverio",
+   "verdict": "Primary DPS vs Whisk",
+   "note": "Built with high Enlightenment and Attack to deal top necrotic damage.",
+   "known": true
+  },
+  {
+   "name": "Lothair",
+   "verdict": "MVP vs Durem",
+   "note": "Outperforms Serpentemis as main damage dealer in Toxic setups when stacked with Enlightenment and Attack.",
+   "known": true
+  },
+  {
+   "name": "Maashtur",
+   "verdict": "Essential debuffer for Iola",
+   "note": "Applies decrease accuracy and recharge speed penalty to protect the Dauntless team from boss stuns.",
+   "known": true
+  },
+  {
+   "name": "Selva",
+   "verdict": "Core enabler for Iola",
+   "note": "Uses ultimate skill to extend critical debuffs like Maashtur's accuracy reduction.",
+   "known": true
+  },
+  {
+   "name": "Stanguem",
+   "verdict": "Alternative support vs Iola",
+   "note": "Provides Control Immunity to keep teams alive against Iola's stun mechanics.",
+   "known": true
+  },
+  {
+   "name": "Irma",
+   "verdict": "Epic substitute vs Iola",
+   "note": "Brings Control Immunity and 30% damage reduction for budget Dauntless setups.",
+   "known": true
+  },
+  {
+   "name": "Lydia",
+   "verdict": "Epic substitute vs Iola",
+   "note": "Grants Control Immunity to all allies via her ultimate skill.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Continental Challenge - Talethia",
+   "heroes": [
+    "Perkunte",
+    "Alaura",
+    "Phaessa",
+    "Tariz",
+    "Journ"
+   ],
+   "note": "Thunder CC composition relying on Journ for team-wide energy generation and strict skill timing."
+  },
+  {
+   "mode": "Continental Challenge - Whisk",
+   "heroes": [
+    "Seyir",
+    "Aspalta",
+    "Saverio",
+    "Daphne",
+    "Fathomdown"
+   ],
+   "note": "Necrosis team featuring Fathomdown on Misty Conch and Daphne in Attack Speed gear to maximize damage."
+  },
+  {
+   "mode": "Continental Challenge - Elecebre",
+   "heroes": [
+    "Felosia",
+    "Master Genie",
+    "Beldelle",
+    "Lossenia",
+    "Lorarii"
+   ],
+   "note": "Ice Blast team timed to cast defensive and offensive ultimates right before the boss acts."
+  },
+  {
+   "mode": "Continental Challenge - Durem",
+   "heroes": [
+    "Lothair",
+    "Child of Chaos",
+    "Sleight",
+    "Serpentemis",
+    "Reytah"
+   ],
+   "note": "Toxic team with Lothair as main DPS and high overall team Skill Haste tuned to a 17.5s recast cycle."
+  },
+  {
+   "mode": "Continental Challenge - Iola",
+   "heroes": [
+    "Nastjenka",
+    "Guinavivre",
+    "Kurvida",
+    "Maashtur",
+    "Selva"
+   ],
+   "note": "High-resistance Dauntless team relying on Maashtur accuracy debuff extended by Selva to avoid stuns."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Position Journ strategically in the Talethia team to ensure his ultimate energy buff reaches every ally.",
+  "Equip Fathomdown with Misty Conch, Skill Haste, and Accuracy to consistently apply defense penalty vs Whisk.",
+  "Against Iola, build at least 175 Resistance on all team members to resist boss crowd control effects.",
+  "Combine Maashtur's decrease accuracy debuff with Selva's ultimate debuff extension to prevent Iola from stunning your team.",
+  "If missing Maashtur or Selva against Iola, use Control Immunity heroes like Stanguem, Irma, or Lydia as budget substitutes."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "DQlhUcZ_2zg",
+ "model": "gemini-3.5-flash",
+ "channel": "Skratch Gaming",
+ "title": "MY 6 TEAMS & Strategy For Week 3! Dragonheir: Silent Gods x Dragonstride",
+ "published": "2026-09-30T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=DQlhUcZ_2zg",
+ "short": false,
+ "summarized": "2026-11-04T00:34Z"
+}

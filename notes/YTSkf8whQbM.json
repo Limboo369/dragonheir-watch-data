@@ -1,0 +1,87 @@
+{
+ "summary": "This guide covers strategy for the Piece of Treasury gear forging event in Season 9. The creator explains his methodology for choosing which mythic equipment pieces to forge based on gear carried over from previous seasons and upcoming banner heroes. He emphasizes prioritizing armor over gloves since gloves can easily hit critical rate caps through artifacts and runes. He also considers whether to build for an Aura team or continue focusing on Dauntless depending on the performance of upcoming exclusive Aura banner units like Anneliesis.",
+ "topics": [
+  "Piece of Treasury",
+  "gear forging",
+  "Carnage set",
+  "Aura team",
+  "Dauntless team",
+  "Temporal Vortex"
+ ],
+ "heroes": [
+  {
+   "name": "Serpentemis",
+   "verdict": "high priority for gear carrying",
+   "note": "Carried over Enlightenment chest and Arcane gloves from the previous season to maximize poison damage.",
+   "known": true
+  },
+  {
+   "name": "Talethia",
+   "verdict": "top DPS candidate for mythic armor",
+   "note": "Needs an upgraded Carnage chest piece with HP% primary and full Crit Damage secondary rolls to replace weak gear.",
+   "known": true
+  },
+  {
+   "name": "Celestine",
+   "verdict": "essential for high Aura team damage",
+   "note": "Boosts team Max HP, allowing an Aura squad to potentially match or exceed Dauntless team damage in Temporal Vortex.",
+   "known": true
+  },
+  {
+   "name": "Lincos",
+   "verdict": "likely to be replaced",
+   "note": "Expected to be outclassed by the new exclusive Aura banner character even at inspiration level 0.",
+   "known": true
+  },
+  {
+   "name": "Maashtur",
+   "verdict": "strong Dauntless DPS",
+   "note": "Gains a 15% damage increase at Inspiration 3, widening the damage gap against the current Aura team.",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "wait for banner before committing gear",
+   "note": "Her upcoming exclusive banner will determine whether investing in Aura mythic gear is worth prioritizing over Dauntless.",
+   "known": true
+  },
+  {
+   "name": "Guinavivre",
+   "verdict": "alternative recipient for Carnage armor",
+   "note": "Would receive an Attack% primary Carnage chest with all Crit Damage rolls if sticking with Dauntless.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Temporal Vortex",
+   "heroes": [
+    "Serpentemis",
+    "Talethia",
+    "Lincos"
+   ],
+   "note": "Aura team setup currently dealing less damage than Dauntless, awaiting the new exclusive Aura hero to close the gap."
+  }
+ ],
+ "meta_changes": [
+  "Piece of Treasury event now occurs twice per season, enabling players to forge more custom mythic equipment over time.",
+  "Precise Carnage set remains the most consistent and versatile mythic gear set with superior longevity across seasons."
+ ],
+ "tips": [
+  "Wait until daily dungeon stages unlock before forging, as you might get lucky with standard drops and save forge resources for other slots.",
+  "Prioritize forging armor chests over gloves with Crit Damage substats, because critical rate is easily capped via artifacts and runes.",
+  "Alternate gear forging targets between seasons (e.g., focus on one element/archetype per season) so carryover gear remains optimal.",
+  "When forging Carnage armor for HP-scaling DPS like Talethia, select HP% main stat and invest all upgrade rolls into Crit Damage."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "YTSkf8whQbM",
+ "model": "gemini-3.8-flash",
+ "channel": "Skratch Gaming",
+ "title": "DO THIS! Chose The Right Piece... Dragonheir: Silent Gods x Dragonstride",
+ "published": "2026-11-03T18:00:03+00:00",
+ "url": "https://www.youtube.com/watch?v=YTSkf8whQbM",
+ "short": false,
+ "summarized": "2026-11-04T00:30Z"
+}

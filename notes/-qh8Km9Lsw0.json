@@ -1,0 +1,71 @@
+{
+ "summary": "Liveranov showcases a Dauntless lineup against the Chaos Hunter, the Area Boss 1 of the Crisis Rally event. The team scores over 9.22 billion total damage, comfortably securing an S rank. Guinavivre serves as the primary carry, dealing over 79% of the team's total damage, supported by Nastjenka as secondary DPS. Full equipment and stat setups are detailed for each hero on the team.",
+ "topics": [
+  "Crisis Rally",
+  "Chaos Hunter",
+  "Dauntless Team",
+  "Boss Guide"
+ ],
+ "heroes": [
+  {
+   "name": "Guinavivre",
+   "verdict": "Primary DPS carry",
+   "note": "Built full damage and ideally aiming for 0.5s attack interval, delivering nearly 7.3 billion damage.",
+   "known": true
+  },
+  {
+   "name": "Nastjenka",
+   "verdict": "Secondary DPS",
+   "note": "Built full damage with high Attack and Crit Rate, dealing over 1.8 billion damage.",
+   "known": true
+  },
+  {
+   "name": "Kurvida",
+   "verdict": "Support enabler",
+   "note": "Built on the Puppeteer set paired with Witches Remains and sufficient Accuracy.",
+   "known": true
+  },
+  {
+   "name": "Fathomdown",
+   "verdict": "Support buffer",
+   "note": "Built with full Skill Haste to maximize buff rotation.",
+   "known": true
+  },
+  {
+   "name": "Maashtur",
+   "verdict": "Support debuffer",
+   "note": "Built with sufficient Accuracy to guarantee debuff application.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Chaos Hunter (Crisis Rally Area Boss 1)",
+   "heroes": [
+    "Nastjenka",
+    "Kurvida",
+    "Guinavivre",
+    "Fathomdown",
+    "Maashtur"
+   ],
+   "note": "Dealt over 9.22B damage for S-rank; Guinavivre and Nastjenka provide the damage while Kurvida, Fathomdown, and Maashtur support."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Build Guinavivre with full damage and aim for an attack interval around 0.5s.",
+  "Equip Kurvida with the Puppeteer set and Witches Remains artifact with roughly 230+ Accuracy.",
+  "Focus full Skill Haste on Fathomdown and ensure Maashtur has around 250+ Accuracy."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "-qh8Km9Lsw0",
+ "model": "gemini-3.8-flash",
+ "channel": "liveranov",
+ "title": "Dauntless vs Chaos Hunter (Area Boss 1) | Crisis Rally | Season 8 | Dragonheir",
+ "published": "2026-09-30T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=-qh8Km9Lsw0",
+ "short": false,
+ "summarized": "2026-11-04T00:36Z"
+}

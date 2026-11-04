@@ -1,0 +1,47 @@
+{
+ "summary": "Suzi shares her experience doing 10-pulls on the Selectable Legendary Hero banner, showcasing a lucky double-Legendary pull featuring Aspalta and Daphne. She strongly advises players to only pull on 300-summon selector banners if they can reach the full 300 pity to claim the bonus hero, recommending saving summons for priority targets like Anneliesis. Finally, she provides key tips for the Piece of Treasury event on forging Mythic equipment.",
+ "topics": [
+  "summons",
+  "Selectable Legendary Hero",
+  "Piece of Treasury",
+  "banner strategy"
+ ],
+ "heroes": [
+  {
+   "name": "Aspalta",
+   "verdict": "Legendary assassin pulled from gacha",
+   "note": "Pulled as part of a double Legendary 10-pull on the banner.",
+   "known": true
+  },
+  {
+   "name": "Daphne",
+   "verdict": "Legendary undead hero pulled from gacha",
+   "note": "Obtained during a double Legendary 10-pull alongside Aspalta.",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "High priority savings target",
+   "note": "Recommended as a key banner hero to save 300 summons for.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [],
+ "tips": [
+  "Never pull on 300-summon Selectable Legendary banners unless you have enough resources saved to reach all 300 pulls to claim the guaranteed selector hero.",
+  "During the Piece of Treasury event, do not claim your forged piece of Mythic equipment until you have upgraded and rerolled its attributes as much as possible.",
+  "Avoid spending event currency in the Treasury Shop during the Piece of Treasury event until your Mythic equipment forging is fully maximized."
+ ],
+ "season": "S9",
+ "server_scope": "mixed",
+ "value": "medium",
+ "id": "F96DH9xeYnw",
+ "model": "gemini-3.5-flash",
+ "channel": "Suzi Plays",
+ "title": "A YOLO Summoning SURPRISE! 💥A Silly Daily Plan Got Me THIS! 🔥 Dragonheir x Dragonstride",
+ "published": "2026-11-03T11:47:12+00:00",
+ "url": "https://www.youtube.com/watch?v=F96DH9xeYnw",
+ "short": false,
+ "summarized": "2026-11-04T00:35Z"
+}

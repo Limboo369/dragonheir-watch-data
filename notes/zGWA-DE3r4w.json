@@ -1,0 +1,44 @@
+{
+ "summary": "Skyasterix details the upcoming 3rd Anniversary Prelude Event in Dragonheir: Silent Gods, running from September 15 to October 5. The event features a faction battle between Child of Chaos and The Dark Lady, where 10 creator God Envoys lead player Preachers. Skyasterix announces his alignment with Child of Chaos and explains how player activity, spending, and video views contribute to faction points. Participating players can earn physical merchandise, figures, Rare Marrows, and Heliolite Dice based on faction performance and rankings.",
+ "topics": [
+  "3rd Anniversary Event",
+  "Faction Selection",
+  "Child of Chaos",
+  "The Dark Lady",
+  "Event Rewards"
+ ],
+ "heroes": [
+  {
+   "name": "Child of Chaos",
+   "verdict": "Top priority to save for",
+   "note": "Featured faction hero for the 3rd Anniversary event chosen by Skyasterix.",
+   "known": true
+  },
+  {
+   "name": "The Dark Lady",
+   "verdict": "Featured event hero",
+   "note": "Opposing faction boss and hero in the 3rd Anniversary faction event.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [
+  "3rd Anniversary Faction Event pits Child of Chaos against The Dark Lady, driven by community participation and creator God Envoys."
+ ],
+ "tips": [
+  "Save resources such as Heliolite Dice and Dragon Crystals for the 3rd Anniversary event starting September 15th.",
+  "Choose your faction (Child of Chaos or The Dark Lady) on the event web page before binding to a creator.",
+  "Bind to a creator God Envoy using their in-game code to contribute player activity, spending, and views to event leaderboards."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "zGWA-DE3r4w",
+ "model": "gemini-3.5-flash",
+ "channel": "Skyasterix Gaming",
+ "title": "🔥DARK LADY or CHILD OF CHAOS? I Finally Chose My Faction! | Dragonheir: Silent Gods",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=zGWA-DE3r4w",
+ "short": false,
+ "summarized": "2026-11-04T00:38Z"
+}

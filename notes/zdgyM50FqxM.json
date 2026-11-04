@@ -1,0 +1,38 @@
+{
+ "summary": "Gorax provides a comprehensive spending guide for Dragonheir: Silent Gods, detailing how players can maximize value for their money. He highlights using content creator support codes in the Treasure Market and third-party top-up options on BuffBuff for extra discounts and bonus events. High-value recommendations include Traveler's Departure Gifts, seasonal game passes, monthly passes, daily stamina offers, seasonal double Dragon Crystal top-ups, and packs containing Master Scrolls in the Departure Supply and Rift Vault.",
+ "topics": [
+  "spending guide",
+  "monetization",
+  "shop packs",
+  "game pass",
+  "Rift Vault"
+ ],
+ "heroes": [
+  {
+   "name": "Sintrellia",
+   "verdict": "Great for Summon team",
+   "note": "Obtainable via the Departure Boost Pack alongside dice and Master Scrolls.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [],
+ "tips": [
+  "Enter creator support code Gorax1 in the Treasure Market under Support Content Creator to unlock gifts and monthly discounted packs.",
+  "Prioritize game passes, monthly passes, and daily stamina packs for the best long-term progression resources.",
+  "Take advantage of the once-per-season double Dragon Crystal top-up offer.",
+  "Prioritize packs that include Master Scrolls, as hero skill scrolls are the main bottleneck for leveling up skills.",
+  "Wait to use guaranteed Legendary Hero Selection Chests until after summoning on featured banners to avoid pulling duplicates."
+ ],
+ "season": "mixed",
+ "server_scope": "mixed",
+ "value": "medium",
+ "id": "zdgyM50FqxM",
+ "model": "gemini-3.5-flash",
+ "channel": "Gorax",
+ "title": "STOP Wasting Money! What You SHOULD Buy in Dragonheir | Dragonheir x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=zdgyM50FqxM",
+ "short": false,
+ "summarized": "2026-11-04T00:36Z"
+}

@@ -1,0 +1,138 @@
+{
+ "summary": "This guide covers Season 9 Grave of Venom 20 speedrun strategies across three elemental affinity rankings: Firestorm (14s), Frostlight (10s), and Necrotoxin (7s). The boss gains an Increased Defense buff that must be dispelled or converted into debuffs using heroes like Journ or Astaion. Each showcase details exact stat targets, gear sets, artifacts, and key synergy mechanics for Level 79 heroes. Necrotoxin achieves the fastest clear time by abusing attack speed for Shadow energy generation and stackable derivative damage.",
+ "topics": [
+  "Grave of Venom 20",
+  "speedrun",
+  "Firestorm",
+  "Frostlight",
+  "Necrotoxin",
+  "hero builds"
+ ],
+ "heroes": [
+  {
+   "name": "Journ",
+   "verdict": "Essential dispel and energy enabler",
+   "note": "Dispels Increased Defense from Grave of Venom 20 with his ultimate while recharging ultimate energy for himself and allies via self-burns.",
+   "known": true
+  },
+  {
+   "name": "Guinavivre",
+   "verdict": "Main DPS for Firestorm",
+   "note": "Built with high crit stats and Golden Alarm to scale damage per buff and shield.",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "Top damage buffer",
+   "note": "Provides team-wide damage boosts using Ascendant's Key and Golden Antlers.",
+   "known": true
+  },
+  {
+   "name": "Astaion",
+   "verdict": "Crucial debuffer and support",
+   "note": "Converts boss buffs into random debuffs with Sun-Sundering Shadow talent and uses Monelisse's Teardrop to guarantee ultimate cast before dying.",
+   "known": true
+  },
+  {
+   "name": "Huldork",
+   "verdict": "Debuffer and secondary dispeller",
+   "note": "Applies Defense Penalty II with Witch's Remains and dispels additional boss buffs with his ultimate.",
+   "known": true
+  },
+  {
+   "name": "Lincos",
+   "verdict": "Energy generator for Radiance",
+   "note": "Feeds Aura Energy to the team and applies defense debuffs early when paired with Sagomir.",
+   "known": true
+  },
+  {
+   "name": "Sagomir",
+   "verdict": "Radiance tank and energy battery",
+   "note": "Feeds energy to Lincos via passive carrot buff to fast-track team ultimate rotations.",
+   "known": true
+  },
+  {
+   "name": "Talethia",
+   "verdict": "Main DPS for Frostlight",
+   "note": "Serves as the primary Radiance damage dealer utilizing high Crit stats and Golden Alarm.",
+   "known": true
+  },
+  {
+   "name": "Aspalta",
+   "verdict": "Crit-focused Necrosis DPS",
+   "note": "Generates Shadow energy on basic attack while dealing heavy critical damage with Golden Antlers.",
+   "known": true
+  },
+  {
+   "name": "Daphne",
+   "verdict": "Top support for derivative Necrosis teams",
+   "note": "Boosts adjacent same-school derivative damage via Might of the Inferno set and grants team damage via Orb of the Dragon God.",
+   "known": true
+  },
+  {
+   "name": "Saverio",
+   "verdict": "Primary Necrotoxin speedrun carry",
+   "note": "Deals derivative damage that scales with Enlightenment and Attack using his exclusive Bloodmoon Thorncrown Shard artifact.",
+   "known": true
+  },
+  {
+   "name": "Syonis",
+   "verdict": "Derivative DPS and buffer",
+   "note": "Scales derivative damage without crit and boosts overall team damage with Ascendant's Key.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Grave of Venom 20 (Firestorm)",
+   "heroes": [
+    "Journ",
+    "Anneliesis",
+    "Guinavivre",
+    "Astaion",
+    "Huldork"
+   ],
+   "note": "Achieves a 14-second run by using Journ to dispel the boss defense buff and feed energy to Guinavivre."
+  },
+  {
+   "mode": "Grave of Venom 20 (Frostlight)",
+   "heroes": [
+    "Lincos",
+    "Sagomir",
+    "Journ",
+    "Talethia",
+    "Anneliesis"
+   ],
+   "note": "Achieves a 10-second run by combining Sagomir and Lincos energy funneling with Talethia's heavy Radiance DPS."
+  },
+  {
+   "mode": "Grave of Venom 20 (Necrotoxin)",
+   "heroes": [
+    "Aspalta",
+    "Daphne",
+    "Saverio",
+    "Astaion",
+    "Syonis"
+   ],
+   "note": "Achieves a 7-second record run by stacking attack speed for Shadow energy generation and maximizing Saverio's non-crit derivative damage."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Ensure debuffers like Journ, Lincos, Huldork, and Astaion have over 240+ Accuracy so their dispel and control effects do not get resisted by Stage 20 bosses.",
+  "Equip Berserker Mask on Journ to reduce his battle skill cooldown by 2.7s, triggering his passive energy recharge earlier.",
+  "Use Monelisse's Teardrop on squishy frontline supports like Astaion to grant 3s immortality so they can cast key abilities before dying.",
+  "Derivative damage dealers like Saverio and Syonis cannot deal critical hits, so prioritize Enlightenment and Attack speed stats instead of Crit Rate or Crit Damage."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "jRdl34i5jqs",
+ "model": "gemini-3.5-flash",
+ "channel": "liveranov",
+ "title": "Grave of Venom 20 Speedrun | Firestorm, Frostlight & Necrotoxin Teams (Lv 79) | Dragonheir S9",
+ "published": "2026-11-03T10:12:10+00:00",
+ "url": "https://www.youtube.com/watch?v=jRdl34i5jqs",
+ "short": false,
+ "summarized": "2026-11-04T00:34Z"
+}
