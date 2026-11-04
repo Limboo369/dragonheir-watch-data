@@ -1,0 +1,89 @@
+{
+ "summary": "Gorax previews nine new heroes coming in Season 9 based on translations from the Chinese server. The upcoming roster includes three exclusive DPS heroes, two exclusive supports, three standard banner supports, and one free Continental Challenge hero. Key upcoming mechanics include Karma, isolated dimension combat, debuff reflection, and expanded Aura support options.",
+ "topics": [
+  "Season 9 preview",
+  "new heroes",
+  "Chinese server leaks",
+  "skill previews",
+  "Aura meta",
+  "Corruption meta"
+ ],
+ "heroes": [
+  {
+   "name": "Thea",
+   "verdict": "Versatile Elementalist support",
+   "note": "Increases ally damage output, decreases damage taken, provides shields and healing, and applies debuffs to enemies.",
+   "known": true
+  },
+  {
+   "name": "Celestine",
+   "verdict": "Frozen support with Karma mechanic",
+   "note": "Heals allies, grants shields, removes debuffs, bestows random buffs when resisting debuffs, and applies Karma to debuff enemy damage.",
+   "known": true
+  },
+  {
+   "name": "Syonis",
+   "verdict": "Potential Shadow exclusive DPS",
+   "note": "Reduces enemy defense, buffs same-element allies, and pulls himself and the highest-attack enemy into the Corruption Dimension.",
+   "known": true
+  },
+  {
+   "name": "Levier",
+   "verdict": "Potential Corruption exclusive DPS",
+   "note": "Inflicts Bite to reduce enemy defense, and increases Corruption value on fully stacked targets.",
+   "known": false
+  },
+  {
+   "name": "Holfast",
+   "verdict": "Potential Aura exclusive DPS and Lincos upgrade",
+   "note": "Channels Aura energy to allies, grants damage buffs, triggers assist attacks, and restores self Aura energy.",
+   "known": true
+  },
+  {
+   "name": "Fyrenzur",
+   "verdict": "Fire elemental PvE support",
+   "note": "Heals allies, cleanses debuffs, and reduces enemy attack power and charge speed.",
+   "known": true
+  },
+  {
+   "name": "Amalfriede",
+   "verdict": "Poison support suited for PvP",
+   "note": "Inflicts random debuffs when dealing damage, increases self hit chance and shield, and silences enemies in an area.",
+   "known": true
+  },
+  {
+   "name": "Lamb",
+   "verdict": "Frozen support with CC reflection",
+   "note": "Grants damage reduction and healing to allies via White Rat, and mirrors debuffs/CC back to enemies via Black Rat.",
+   "known": false
+  },
+  {
+   "name": "Torrin",
+   "verdict": "Lightning support expected as Continental Challenge hero",
+   "note": "Stuns enemies, provides shields through static charge stacks, knocks back targets, and reduces enemy attack and effect resistance.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [
+  "Introduction of Karma mechanic via Celestine to amplify damage taken by enemies.",
+  "Introduction of Corruption Dimension via Syonis to isolate highest-attack enemy threats.",
+  "Introduction of Black Rat debuff reflection via Lamb to punish enemy CC strategies.",
+  "Expanded defense-reduction options outside of Witches' Remains artifact."
+ ],
+ "tips": [
+  "Plan summons in advance for Season 9 as five exclusive heroes (3 DPS, 2 supports) will be featured on limited banners.",
+  "Watch for Aura synergy heroes like Holfast if running or transitioning into Aura damage compositions."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "v7j7nvLg6Qg",
+ "model": "gemini-3.5-flash",
+ "channel": "Gorax",
+ "title": "Upcoming New Heroes Revealed! What We Know So Far | Dragonheir x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=v7j7nvLg6Qg",
+ "short": false,
+ "summarized": "2026-11-04T09:32Z"
+}

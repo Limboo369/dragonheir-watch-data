@@ -1,14 +1,13 @@
 {
- "built": "2026-11-04T09:26Z",
+ "built": "2026-11-04T09:32Z",
  "last_fetch": "2026-11-04T09:17Z",
  "counts": {
-  "summarized": 242,
+  "summarized": 245,
   "skipped_giveaway": 17,
   "baseline": 22,
-  "new": 365,
+  "new": 364,
   "skipped_live": 1,
-  "failed": 2,
-  "retry": 2
+  "failed": 2
  },
  "problems": [
   {
@@ -16,18 +15,6 @@
    "channel": "liveranov",
    "status": "failed",
    "error": "Expecting value: line 1 column 1 (char 0)"
-  },
-  {
-   "title": "Upcoming New Heroes Revealed! What We Know So Far | Dragonheir x Dragonstride",
-   "channel": "Gorax",
-   "status": "retry",
-   "error": ""
-  },
-  {
-   "title": "Support Me in Dragonheir: All-Star Night — Bind the Dark Lady! #dragonheirallstarnight",
-   "channel": "liveranov",
-   "status": "retry",
-   "error": ""
   },
   {
    "title": "🔥 Season 9 FIRST CROWN CONTEST! Code: SKYASTERIX | Dragonheir: Silent Gods",
@@ -43,15 +30,6 @@
   "quota_hit": 1793776706.6702032
  },
  "log_tail": [
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "Gemini quota was full less than an hour ago, trying again next round",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 231 videos, 171 heroes",
-  "== 2026-11-04 07:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "… OddOneGaming RPGs: 🚨 This Was SOOO Easy 🚨 Meander Trial 121-180 One Teamm FULL ",
-  "… Neff Gaming: 3 Teams! Build Them For Continental Challenge! | Dragonheir:",
-  "… Skyasterix Gaming: 👉🔥 THE BEST BANNER?! Cursed OR Lucky? Option Summons | Drago",
   "… Gorax: HUGE Rewards Are Up for Grabs! Peak Gambit Explained! | Drag",
   "  gemini-3.8-flash: 429, using gemini-3.5-flash",
   "  gemini-3.8-flash: 429, using gemini-3.5-flash",
@@ -122,7 +100,16 @@
   "saved uy05K4NTSEc",
   "+ Skyasterix Gaming: Solmo + Vortex = SHIELDZILLA?! 💥 INSANE BUILD | Dragonheir: ",
   "saved sxJ6IUrFonk",
-  "+ liveranov: VERTIGO Team Speed Runs | Dragonheir: Silent Gods"
+  "+ liveranov: VERTIGO Team Speed Runs | Dragonheir: Silent Gods",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "saved t-OrJRRaVhs",
+  "+ Skratch Gaming: This Is Ridiculous! More Dark Lady Figurines... Dragonheir: ",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "saved tVMfbMn6DiU",
+  "+ liveranov: Support Me in Dragonheir: All-Star Night — Bind the Dark Lad",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "saved v7j7nvLg6Qg (unknown hero names: Levier, Lamb)",
+  "+ Gorax: Upcoming New Heroes Revealed! What We Know So Far | Dragonhe"
  ],
  "crontab": [],
  "channels": [
