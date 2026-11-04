@@ -1,5 +1,5 @@
 {
- "built": "2026-11-04T01:18Z",
+ "built": "2026-11-04T01:51Z",
  "last_fetch": "2026-11-04T01:17Z",
  "counts": {
   "summarized": 228,
@@ -91,7 +91,6 @@
   "quota_hit": 1793755107.394983
  },
  "log_tail": [
-  "… Skratch Gaming: DO THIS! Chose The Right Piece... Dragonheir: Silent Gods x ",
   "… Suzi Plays: A YOLO Summoning SURPRISE! 💥A Silly Daily Plan Got Me THIS! ",
   "  gemini-3.8-flash: 503, using gemini-3.5-flash",
   "  gemini-3.8-flash: 503, using gemini-3.5-flash",
@@ -170,7 +169,8 @@
   "  gemini-3.7-flash: 429, using gemini-3.6-flash",
   "! Day 5 Progression & Big Account Upgrades! | Beginn: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
   "saved ywu-55xJIKU",
-  "+ Gorax: I Went ALL IN on Option Summons II… Should You? | Dragonheir"
+  "+ Gorax: I Went ALL IN on Option Summons II… Should You? | Dragonheir",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 228 videos, 170 heroes"
  ],
  "crontab": [],
  "channels": [
