@@ -1,5 +1,5 @@
 {
- "built": "2026-11-04T05:19Z",
+ "built": "2026-11-04T05:54Z",
  "last_fetch": "2026-11-04T05:17Z",
  "counts": {
   "summarized": 231,
@@ -91,7 +91,6 @@
   "quota_hit": 1793769586.107819
  },
  "log_tail": [
-  "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "… Gorax: Day 5 Progression & Big Account Upgrades! | Beginner Series ",
   "… OddOneGaming RPGs: 🚨 This Was SOOO Easy 🚨 Meander Trial 121-180 One Teamm FULL ",
@@ -170,7 +169,8 @@
   "! Solmo + Vortex = SHIELDZILLA?! 💥 INSANE BUILD | Dr: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
   "  gemini-3.5-flash: 429, using gemini-3.7-flash",
   "  gemini-3.7-flash: 429, using gemini-3.6-flash",
-  "! 3 Teams! Build Them For Continental Challenge! | D: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google."
+  "! 3 Teams! Build Them For Continental Challenge! | D: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 231 videos, 171 heroes"
  ],
  "crontab": [],
  "channels": [
