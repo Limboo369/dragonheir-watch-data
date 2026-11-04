@@ -1,5 +1,5 @@
 {
- "built": "2026-11-04T03:18Z",
+ "built": "2026-11-04T03:52Z",
  "last_fetch": "2026-11-04T03:17Z",
  "counts": {
   "summarized": 229,
@@ -97,7 +97,6 @@
   "quota_hit": 1793762320.3872669
  },
  "log_tail": [
-  "… liveranov: Corrosion vs Durem | Continental Challenge | Season 8 | Drag",
   "… Gorax: I Went ALL IN on Option Summons II… Should You? | Dragonheir",
   "… Gorax: Day 5 Progression & Big Account Upgrades! | Beginner Series ",
   "… OddOneGaming RPGs: 🚨 This Was SOOO Easy 🚨 Meander Trial 121-180 One Teamm FULL ",
@@ -176,7 +175,8 @@
   "  gemini-3.8-flash: 429, using gemini-3.5-flash",
   "  gemini-3.5-flash: 429, using gemini-3.7-flash",
   "  gemini-3.7-flash: 429, using gemini-3.6-flash",
-  "! 🚨 This Was SOOO Easy 🚨 Meander Trial 121-180 One T: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google."
+  "! 🚨 This Was SOOO Easy 🚨 Meander Trial 121-180 One T: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 229 videos, 170 heroes"
  ],
  "crontab": [],
  "channels": [
