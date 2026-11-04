@@ -1,0 +1,37 @@
+{
+ "summary": "This video serves as an introduction to the channel's Dragonheir: Silent Gods coverage, detailing the game's core systems and progression structure. The combat combines auto-battler and idle mechanics with traditional turn-based RPG resource management, gear farming, and talent trees. Auster is highlighted as an exceptionally strong early-game damage dealer who excels in Magic Chess and the opening days of account progression. The creator outlines the beginner summon banner mechanics, which feature a guaranteed character every 50 pulls up to 300 pulls with standard pity. Additionally, players are advised on navigating stamina mechanics, early-game timegates, and daily simulation attempts in Temporal Vortex.",
+ "topics": [
+  "beginner guide",
+  "gameplay overview",
+  "Auster",
+  "summoning",
+  "Temporal Vortex"
+ ],
+ "heroes": [
+  {
+   "name": "Auster",
+   "verdict": "top tier early-game DPS",
+   "note": "Deals approximately 3x more damage than alternatives in the first 2-3 days and shines in Magic Chess where supports are restricted.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [],
+ "tips": [
+  "Failing or quitting a combat stage does not consume stamina, so you can freely test setups without penalty.",
+  "Expect day-one timegates early on, giving time to explore the map and understand side systems.",
+  "The beginner summon banner (First Blush Summons) provides a guaranteed character every 50 pulls up to 300 pulls while preserving the 70-pull Legendary pity.",
+  "Utilize daily simulation attempts on bosses like Temporal Vortex to test small adjustments to hero positioning and skill timing before locking in daily scores."
+ ],
+ "season": "S1",
+ "server_scope": "S1",
+ "value": "medium",
+ "id": "toEVWZO8D8M",
+ "model": "gemini-3.8-flash",
+ "channel": "Volkin Dragonheir",
+ "title": "NEW Game, NEW Channel!!! [Dragonheir: Silent Gods]",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=toEVWZO8D8M",
+ "short": false,
+ "summarized": "2026-11-04T09:24Z"
+}

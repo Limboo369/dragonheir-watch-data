@@ -1,0 +1,78 @@
+{
+ "summary": "OddOneGaming showcases an Aura team setup to easily clear Fey Meander (Meander Trial) stages 121 through 180 in Season 8. The team composition consists of Talethia, Diantha, Anneliesis, Ardreth, and Solmo. Solmo is highlighted as a sleeper MVP due to his ultimate pillar dispelling enemy buffs like invincibility or defense increases every second. The video also covers gear sets, talent choices such as Hush for crowd control, and substitution options like Phaessa.",
+ "topics": [
+  "Fey Meander",
+  "Meander Trial",
+  "Aura team",
+  "hero builds"
+ ],
+ "heroes": [
+  {
+   "name": "Talethia",
+   "verdict": "Primary Aura DPS",
+   "note": "Serves as the main damage dealer and benefits greatly from high inspiration and the Hush talent for Silence CC.",
+   "known": true
+  },
+  {
+   "name": "Diantha",
+   "verdict": "Key Aura buffer and secondary DPS",
+   "note": "Boosts Talethia's damage output while inflicting Silence on enemies using the Hush talent.",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "Top control and healing support",
+   "note": "Provides team healing, debuff clears, and hard crowd control; needs high Skill Haste and Accuracy to spam her ultimate.",
+   "known": true
+  },
+  {
+   "name": "Ardreth",
+   "verdict": "Best accessible defense tank",
+   "note": "Provides a strong defense aura and heavy shielding to keep the team alive through high-stage damage.",
+   "known": true
+  },
+  {
+   "name": "Solmo",
+   "verdict": "Sleeper MVP for buff-heavy trial stages",
+   "note": "Grants team shields, reduces enemy shields, and dispels one buff from enemies every second with his ultimate totem pillar.",
+   "known": true
+  },
+  {
+   "name": "Phaessa",
+   "verdict": "Solid substitute for Anneliesis",
+   "note": "Offers debuff immunity, accuracy penalties, recharge speed penalties, and damage delay healing if Anneliesis is unavailable.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Fey Meander (Stages 121-180)",
+   "heroes": [
+    "Talethia",
+    "Diantha",
+    "Anneliesis",
+    "Ardreth",
+    "Solmo"
+   ],
+   "note": "A full auto Aura composition focused on survivability, continuous control, and dispelling enemy trial buffs."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Avoid using Enlightenment damage dealers like Sett and Artemis on this trial rotation, as enemy stage buffs grant 10 seconds of invincibility when hit by Enlightenment damage.",
+  "Equip the Hush talent on max HP-scaling Aura damage dealers like Talethia and Diantha to apply an irresistible 3-second Silence.",
+  "Build Anneliesis with Rift Hourglass and high Skill Haste so she can rapidly recharge her ultimate for continuous knockup control and healing.",
+  "Use Solmo with accuracy gear like Orb of the Dragon God to ensure his ultimate totem reliably dispels enemy invincibility and defense buffs."
+ ],
+ "season": "S8",
+ "server_scope": "mixed",
+ "value": "high",
+ "id": "yq_L4gc55vU",
+ "model": "gemini-3.5-flash",
+ "channel": "OddOneGaming RPGs",
+ "title": "🚨 This Was SOOO Easy 🚨 Meander Trial 121-180 One Teamm FULL AUTO S8 | Dragonheir x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=yq_L4gc55vU",
+ "short": false,
+ "summarized": "2026-11-04T09:21Z"
+}

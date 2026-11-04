@@ -1,0 +1,54 @@
+{
+ "summary": "Skyasterix tests the Option Summons banner in Dragonheir: Silent Gods, calling it the best banner format for targeting specific elemental schools such as Dauntless and Toxins. He undertakes 300 pulls aiming to empower his team compositions, specifically seeking upgrades for Kurvida and Toxin units. Across 300 Heliolite Dice, he pulls 9 legendary heroes including Durango, Tharivol, Oggok, Jathalea, Divine Ascetic, Stanguem, and Urgoula, ultimately choosing Serpentemis from the 300-pull selector box to boost her inspiration level. He also reviews event progression and recommends acquiring Child of Chaos and his exclusive artifact.",
+ "topics": [
+  "Option Summons",
+  "Banners",
+  "Summons",
+  "Dauntless",
+  "Toxins"
+ ],
+ "heroes": [
+  {
+   "name": "Kurvida",
+   "verdict": "Top target for Dauntless",
+   "note": "Reaching Inspiration V (I5) provides a massive performance jump for Dauntless compositions in long-term boss fights.",
+   "known": true
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "Selected from 300-pull chest",
+   "note": "Upgrading her to Inspiration IV provides a 30% attack power boost.",
+   "known": true
+  },
+  {
+   "name": "Child of Chaos",
+   "verdict": "Recommended event hero",
+   "note": "Worth acquiring alongside his exclusive artifact, the Dragonbone Catalyst, from the event shop.",
+   "known": true
+  },
+  {
+   "name": "Oggok",
+   "verdict": "Low priority pull",
+   "note": "Considered a disappointing pull during option banner summons.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [],
+ "tips": [
+  "Dedicating Heliolite Dice to Option Summons is the most efficient way to build specific elemental teams like Dauntless or Toxins.",
+  "Dauntless teams provide extremely reliable, high-performance output in Temporal Vortex and chief bosses across seasons.",
+  "Always try to claim exclusive artifacts such as the Dragonbone Catalyst during faction event shops."
+ ],
+ "season": "S9",
+ "server_scope": "mixed",
+ "value": "medium",
+ "id": "xGyOpnMwKvU",
+ "model": "gemini-3.5-flash",
+ "channel": "Skyasterix Gaming",
+ "title": "👉🔥 THE BEST BANNER?! Cursed OR Lucky? Option Summons | Dragonheir: Silent Gods",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=xGyOpnMwKvU",
+ "short": false,
+ "summarized": "2026-11-04T09:22Z"
+}

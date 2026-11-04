@@ -1,0 +1,72 @@
+{
+ "summary": "Gorax continues his Option Summons session targeting the Dauntless and Toxin damage schools to hit an exclusive Legendary hero. Along the way, he pulls several Legendaries including Divine Ascetic, Garett, Bionphray, and a third copy of Talwer, evaluating most of them as weak or fodder. He gets a useful Tharivol duplicate for inspiration and finally lands Lothair, an exclusive Legendary Toxin DPS hero.",
+ "topics": [
+  "Option Summons",
+  "Hero Pulls",
+  "Dauntless Team",
+  "Toxin Team",
+  "Wishlist Strategy"
+ ],
+ "heroes": [
+  {
+   "name": "Divine Ascetic",
+   "verdict": "Skip / Weak",
+   "note": "Considered rubbish by the creator and not worth using in serious builds.",
+   "known": true
+  },
+  {
+   "name": "Garett",
+   "verdict": "Skip / Weak",
+   "note": "Has a great visual design but performs uselessly in practice.",
+   "known": true
+  },
+  {
+   "name": "Bionphray",
+   "verdict": "Weak Support",
+   "note": "A non-exclusive support hero who offers minimal overall value.",
+   "known": true
+  },
+  {
+   "name": "Talwer",
+   "verdict": "Fodder / Duplicate",
+   "note": "Often pulled as a duplicate and mostly used for artifact or exchange conversion.",
+   "known": true
+  },
+  {
+   "name": "Tharivol",
+   "verdict": "Great Dauntless DPS",
+   "note": "Inspirations provide substantial damage bonuses against shielded enemies and improve overall stats.",
+   "known": true
+  },
+  {
+   "name": "Lothair",
+   "verdict": "Exclusive Toxin DPS",
+   "note": "An exclusive Legendary hero that makes committing to a Toxin team worthwhile.",
+   "known": true
+  },
+  {
+   "name": "Durango",
+   "verdict": "Crucial Toxin Hero",
+   "note": "An essential hero for building and enabling effective Toxin team comps.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [],
+ "tips": [
+  "Summon pity counters on Option Summons do not carry over between different banners, so avoid splitting pulls across banners.",
+  "Duplicate Legendary heroes can be converted into soul imprints for hero inspirations or traded for artifacts.",
+  "Adjust your selectable wishlist heroes to prioritize core enablers or high-impact inspirations like Sintrellia or Zeffi."
+ ],
+ "season": "S9",
+ "server_scope": "mixed",
+ "value": "medium",
+ "id": "ve7g5u_8jXQ",
+ "model": "gemini-3.5-flash",
+ "channel": "Gorax",
+ "title": "I Summoned Until an Exclusive Hero Dropped! | Dragonheir x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=ve7g5u_8jXQ",
+ "short": false,
+ "summarized": "2026-11-04T09:21Z"
+}

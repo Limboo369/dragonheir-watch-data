@@ -1,0 +1,53 @@
+{
+ "summary": "Skyasterix explains how to optimize and build Solmo ('Shieldzilla') for the Season 8 Temporal Vortex battle against Arbor Hydra. Solmo generates massive team-wide shields that scale directly with Enlightenment, making Enlightenment the essential stat for team survivability. The creator recommends a 2-2-1-2 talent setup featuring Golden Touch to sustain HP, equipping the Orb of the Dragon God artifact, and strictly setting Solmo's ultimate skill timing to a 24.0-second initial cast. Diantha is used alongside Solmo, with careful positioning and timing adjustments to maximize boss challenge damage.",
+ "topics": [
+  "Solmo",
+  "Temporal Vortex",
+  "Arbor Hydra",
+  "Hero Build",
+  "Skill Timing"
+ ],
+ "heroes": [
+  {
+   "name": "Solmo",
+   "verdict": "Top-tier Temporal Vortex support",
+   "note": "Provides massive team-wide shields scaling on Enlightenment; requires high Enlightenment, 2-2-1-2 talents with Golden Touch, and a strict 24.0s ultimate timing.",
+   "known": true
+  },
+  {
+   "name": "Diantha",
+   "verdict": "Core support alongside Solmo",
+   "note": "Paired with Solmo against Arbor Hydra, placed either frontline or backline with an ultimate timing tested around 15.8s to 16.0s.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Temporal Vortex (Arbor Hydra)",
+   "heroes": [
+    "Solmo",
+    "Diantha"
+   ],
+   "note": "Solmo is positioned in the back corner (or middle) with Diantha in front; Solmo uses Orb of the Dragon God with ultimate timed at 24.0s initial and 18.0s recast."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Prioritize Enlightenment gear on Solmo; lower Enlightenment directly reduces shield capacity and risks team survival.",
+  "Use a 2-2-1-2 talent path on Solmo, choosing Golden Touch (restores 5% HP on buff loss/refresh) and avoiding Sandstorm's Passage which is useless in Temporal Vortex.",
+  "Do not alter Solmo's ultimate timing from a 24.0-second first cast (18.0-second recast) against Arbor Hydra.",
+  "Test Diantha's initial ultimate timing between 15.8s and 16.0s to align properly with boss mechanics.",
+  "Equip Orb of the Dragon God on Solmo to boost defense and shield value."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "uy05K4NTSEc",
+ "model": "gemini-3.8-flash",
+ "channel": "Skyasterix Gaming",
+ "title": "Solmo + Vortex = SHIELDZILLA?! 💥 INSANE BUILD | Dragonheir: Silent Gods",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=uy05K4NTSEc",
+ "short": false,
+ "summarized": "2026-11-04T09:25Z"
+}

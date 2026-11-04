@@ -1,0 +1,92 @@
+{
+ "summary": "This guide covers how to clear the difficult Fey Meander: Meander Trial (stages 61 to 120). For these stages, enemies start with a 60-second undispellable Debuff Immunity and Control Immunity, effectively shutting down teams relying on crowd control, Defense Down, Frost, and Toxic. While heavily invested Aura teams hit a wall due to these immunities, Shadow teams excel because they output tremendous raw critical damage without needing debuffs. Saverio serves as the primary damage carry, while heroes with ultimate energy manipulation (such as Ripekas or Fathomdown) help survive deadly enemy ultimates.",
+ "topics": [
+  "Fey Meander",
+  "Meander Trial",
+  "Shadow Team",
+  "Stage 120",
+  "Speedrunning"
+ ],
+ "heroes": [
+  {
+   "name": "Saverio",
+   "verdict": "MVP damage carry",
+   "note": "Rips through high Meander Trial stages with massive burst damage without needing debuffs or defense break on enemies.",
+   "known": true
+  },
+  {
+   "name": "Berengar",
+   "verdict": "Top tank option",
+   "note": "His team HP-boosting aura and passive survivability make pushing high Meander stages significantly easier.",
+   "known": true
+  },
+  {
+   "name": "Ripekas",
+   "verdict": "Great alternative tank / controller",
+   "note": "Can replace Berengar for Stage 120 due to ultimate energy manipulation, delaying devastating enemy ultimate skills.",
+   "known": true
+  },
+  {
+   "name": "Torrin",
+   "verdict": "Core Shadow support",
+   "note": "Provides stealth and bonus stats to the team, allowing damage dealers to survive initial bursts.",
+   "known": true
+  },
+  {
+   "name": "Fathomdown",
+   "verdict": "Viable tech pick",
+   "note": "A strong tank alternative capable of manipulating enemy ultimate energy when control debuffs are blocked.",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "Struggles in Meander Trial 61-120",
+   "note": "Her debuff-reliant kit and control become useless for the first 60 seconds due to undispellable enemy immunity.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Meander Trial (Stages 100-120)",
+   "heroes": [
+    "Saverio",
+    "Daphne",
+    "Aspalta",
+    "Berengar",
+    "Torrin"
+   ],
+   "note": "Standard high-speed Shadow team capable of shredding waves without needing debuffs or Defense Down."
+  },
+  {
+   "mode": "Meander Trial Stage 120 (No Berengar)",
+   "heroes": [
+    "Saverio",
+    "Daphne",
+    "Aspalta",
+    "Ripekas",
+    "Torrin"
+   ],
+   "note": "Substitutes Berengar with high-HP Ripekas to manipulate enemy ultimate energy and survive the boss burst."
+  }
+ ],
+ "meta_changes": [
+  "Meander Trial stages 61-120 feature a trial effect granting enemies 60s undispellable Debuff and Control Immunity alongside a 30% bonus to allied critical damage, heavily penalizing control/debuff teams and favoring direct-damage Shadow comps."
+ ],
+ "tips": [
+  "Do not build accuracy or bring defense-down debuffers for Meander Trial stages 61-120, as enemies are immune to debuffs for 60 seconds.",
+  "Ultimate energy reduction/manipulation still works against debuff-immune targets and is critical for survival against lethal boss skills.",
+  "Reposition frontliners and backliners between attempts to bait enemy burst away from your primary damage dealers.",
+  "Equip tanks like Ripekas or Torrin with max HP and cheat-death or high-shield gear to withstand the initial wave assault."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "tuRi0m83stw",
+ "model": "gemini-3.8-flash",
+ "channel": "Skratch Gaming",
+ "title": "This Is HARD!! Beat Stage 120 Mender Trial... Dragonheir: Silent Gods x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=tuRi0m83stw",
+ "short": false,
+ "summarized": "2026-11-04T09:24Z"
+}

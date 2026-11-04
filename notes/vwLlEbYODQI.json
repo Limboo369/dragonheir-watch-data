@@ -1,0 +1,41 @@
+{
+ "summary": "Gorax previews the upcoming 3rd Anniversary Creator Event starting September 15th, with full details releasing on September 8th. The event features a faction battle between The Dark Lady and Child of Chaos, pairing creators with players. Players can support Gorax by selecting his faction, binding using his name, and remaining active to boost their collective rank. Rewards for participating include real-life physical figurines of The Dark Lady and Sagomir along with event draw tickets.",
+ "topics": [
+  "3rd Anniversary Event",
+  "Creator Event",
+  "Faction Battle",
+  "Physical Figurines"
+ ],
+ "heroes": [
+  {
+   "name": "The Dark Lady",
+   "verdict": "Event faction mascot and reward figurine",
+   "note": "Serves as a faction leader for the creator event, with a physical figurine awarded to top participants.",
+   "known": true
+  },
+  {
+   "name": "Sagomir",
+   "verdict": "Reward figurine prize",
+   "note": "Available as a physical figurine prize draw reward during the anniversary event.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [],
+ "tips": [
+  "Wait for the September 8th announcement to confirm which faction Gorax is leading.",
+  "Search for Gorax in the event search tab after picking your faction to bind with him for shared reputation rewards.",
+  "Maintain high daily activity throughout September to earn additional draw tickets."
+ ],
+ "season": "unknown",
+ "server_scope": "mixed",
+ "value": "medium",
+ "id": "vwLlEbYODQI",
+ "model": "gemini-3.5-flash",
+ "channel": "Gorax",
+ "title": "The 3rd Anniversary Event Is Going to Be Huge! | Dragonheir",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=vwLlEbYODQI",
+ "short": false,
+ "summarized": "2026-11-04T09:19Z"
+}

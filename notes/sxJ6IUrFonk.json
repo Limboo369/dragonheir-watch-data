@@ -1,0 +1,105 @@
+{
+ "summary": "This showcase demonstrates a full Vertigo team capable of speedrunning high-tier dungeons in 7 to 12 seconds with heroes at only level 79. The team comp comprises Saverio, Daphne, Aspalta, Astaion, and the epic hero Giacosa. Clear times displayed include Grave of Venom 20 in 7 seconds, Grave of Curse 20 in 11 seconds, Grave of Rot 20 in 10 seconds, and Heretical Ruins 12 in 12 seconds. Gear builds and stats for each hero at level 79 are shown before the runs.",
+ "topics": [
+  "Vertigo Team",
+  "Dungeon Speedruns",
+  "Grave of Venom",
+  "Grave of Curse",
+  "Grave of Rot",
+  "Heretical Ruins"
+ ],
+ "heroes": [
+  {
+   "name": "Saverio",
+   "verdict": "Core Vertigo DPS",
+   "note": "Serves as a primary burst damage dealer enabling sub-12 second boss clears even at level 79.",
+   "known": true
+  },
+  {
+   "name": "Daphne",
+   "verdict": "Core Vertigo legendary",
+   "note": "Provides essential Vertigo burst and synergy across multiple dungeon bosses.",
+   "known": true
+  },
+  {
+   "name": "Aspalta",
+   "verdict": "Core Vertigo legendary",
+   "note": "Delivers heavy damage output necessary for rapid dungeon boss melts.",
+   "known": true
+  },
+  {
+   "name": "Astaion",
+   "verdict": "Core Vertigo legendary",
+   "note": "Supplies strong supplemental burst and utility in the speedrun composition.",
+   "known": true
+  },
+  {
+   "name": "Giacosa",
+   "verdict": "Key epic Vertigo support",
+   "note": "The only epic on the team, performing at an endgame level to enable ultra-fast clears.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Grave of Venom - 20",
+   "heroes": [
+    "Saverio",
+    "Daphne",
+    "Aspalta",
+    "Astaion",
+    "Giacosa"
+   ],
+   "note": "Achieved a 7-second clear time using level 79 heroes."
+  },
+  {
+   "mode": "Grave of Curse - 20",
+   "heroes": [
+    "Saverio",
+    "Daphne",
+    "Aspalta",
+    "Astaion",
+    "Giacosa"
+   ],
+   "note": "Achieved an 11-second clear time at level 79."
+  },
+  {
+   "mode": "Grave of Rot - 20",
+   "heroes": [
+    "Saverio",
+    "Daphne",
+    "Aspalta",
+    "Astaion",
+    "Giacosa"
+   ],
+   "note": "Achieved a 10-second clear time at level 79."
+  },
+  {
+   "mode": "Heretical Ruins - 12",
+   "heroes": [
+    "Aspalta",
+    "Saverio",
+    "Daphne",
+    "Astaion",
+    "Giacosa"
+   ],
+   "note": "Achieved a 12-second clear time at level 79."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "A coordinated Vertigo team can blitz level 20 equipment dungeons and stage 12 ruins in under 12 seconds without needing max level (level 100) heroes.",
+  "Giacosa is a key epic option who pairs well alongside legendary Vertigo units for speed clearing."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "sxJ6IUrFonk",
+ "model": "gemini-3.8-flash",
+ "channel": "liveranov",
+ "title": "VERTIGO Team Speed Runs | Dragonheir: Silent Gods",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=sxJ6IUrFonk",
+ "short": false,
+ "summarized": "2026-11-04T09:25Z"
+}

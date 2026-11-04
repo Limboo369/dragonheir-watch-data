@@ -1,0 +1,77 @@
+{
+ "summary": "Suzi discusses the anniversary event rewards and shares her summoning strategy for the Option Summons banner. She focuses on building a high-end Dauntless team, selecting Dauntless and Toxin schools to target Guinavivre and copies of Serpentemis. She emphasizes that Dauntless teams require very high inspirations (such as Inspiration 5 Guinavivre) to survive and deal proper damage compared to more accessible teams like Ice Blast or Toxin. Finally, she highlights purchasing Guinavivre from the Temporal Corridor shop as a top priority for players looking to empower Dauntless.",
+ "topics": [
+  "Option Summons",
+  "Dauntless",
+  "Temporal Corridor",
+  "Hero Selection",
+  "Anniversary Event"
+ ],
+ "heroes": [
+  {
+   "name": "Guinavivre",
+   "verdict": "Must-pick / Top priority",
+   "note": "Essential core for Dauntless teams who benefits massively from Inspiration 5; recommended as the top pick from both the 300-summon selector and the Temporal Corridor exchange.",
+   "known": true
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "High-value Dauntless target",
+   "note": "A prime target whose duplicates are worth pulling for in Option Summons when pairing Dauntless with Toxin.",
+   "known": true
+  },
+  {
+   "name": "Grishnaar",
+   "verdict": "Niche / PvP focus",
+   "note": "Feels somewhat niche in the current meta and is mostly utilized in PvP rather than general PvE.",
+   "known": true
+  },
+  {
+   "name": "Nastjenka",
+   "verdict": "Core Dauntless hero",
+   "note": "An essential component when building toward a complete, optimized Dauntless team.",
+   "known": true
+  },
+  {
+   "name": "Kurvida",
+   "verdict": "Core Dauntless hero",
+   "note": "Key member of the premier Dauntless roster alongside Guinavivre and Nastjenka.",
+   "known": true
+  },
+  {
+   "name": "Maashtur",
+   "verdict": "Desirable support",
+   "note": "A strong Lightning Dauntless support hero worth aiming for when narrowing the elemental pool.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "General / Dauntless",
+   "heroes": [
+    "Guinavivre",
+    "Nastjenka",
+    "Kurvida",
+    "Maashtur"
+   ],
+   "note": "High-investment Dauntless team that demands high inspirations to survive and outperform easier alternatives like Ice Blast or Toxin."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Dauntless teams require high inspirations (ideally Inspiration 5 on carries like Guinavivre) and heavy stat investment; without them, they struggle to survive and are outclassed by beginner-friendly teams like Ice Blast or Toxin.",
+  "Pairing overlapping schools in Option Summons (such as Thunderbolt and Dauntless to isolate Lightning) reduces the total hero pool and increases odds of pulling desired units.",
+  "Prioritize buying Guinavivre from the Temporal Corridor exchange using Dust-sealed Tomes if she is not already at Inspiration 5."
+ ],
+ "season": "unknown",
+ "server_scope": "mixed",
+ "value": "medium",
+ "id": "vSw-iS_uxgk",
+ "model": "gemini-3.8-flash",
+ "channel": "Suzi Plays",
+ "title": "PROMO CODE #4 + New Events 🧡 15 Free Heliolite! 🎁 3rd Anniversary Event🔥 Dragonheir x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=vSw-iS_uxgk",
+ "short": false,
+ "summarized": "2026-11-04T09:22Z"
+}
