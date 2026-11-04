@@ -1,0 +1,76 @@
+{
+ "summary": "In this Day 5 progression update for his beginner server series, Gorax covers the release of the Child of Chaos banner and evaluates his daily routine. He advises players to focus stamina on Talent dungeons rather than equipment dungeons, as legendary gear farming unlocks on Day 6 along with hero level cap 79 and new talent nodes. He highlights Tavern Gambit for earning Raid Tickets and Legendary Soul Fragments, as well as the Dragon Crown Homage event for acquiring The Dark Lady figurine. Finally, he analyzes Child of Chaos's support role and reviews the PvP and Temporal Vortex meta, where Serpentemis and Toxic compositions dominate.",
+ "topics": [
+  "Child of Chaos",
+  "Tavern Gambit",
+  "Talent Dungeons",
+  "Arena Meta",
+  "Temporal Vortex"
+ ],
+ "heroes": [
+  {
+   "name": "Child of Chaos",
+   "verdict": "Flexible support, cannot solo heal",
+   "note": "Switches elements to fit any team and provide strong buffs, but usually requires a second support to keep the team alive.",
+   "known": true
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "Dominates early PvP and Vortex meta",
+   "note": "Anchor for Toxic teams that excel at low inspiration levels in Arena and Temporal Vortex.",
+   "known": true
+  },
+  {
+   "name": "Lothair",
+   "verdict": "Strong Toxic DPS",
+   "note": "Pulled recently to strengthen Toxic team synergy alongside Serpentemis and Vicana.",
+   "known": true
+  },
+  {
+   "name": "The Dark Lady",
+   "verdict": "Unlocked via spending event figurine",
+   "note": "Obtained by maxing out coffers in the Dragon Crown Homage event.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Temporal Vortex",
+   "heroes": [
+    "Child of Chaos",
+    "Serpentemis",
+    "Lothair",
+    "Vicana"
+   ],
+   "note": "Toxic synergy team supported by Child of Chaos for extra damage and utility."
+  },
+  {
+   "mode": "Grand Gladiator Arena",
+   "heroes": [
+    "Serpentemis",
+    "Child of Chaos"
+   ],
+   "note": "Popular Arena core taking advantage of easy Toxic damage setup."
+  }
+ ],
+ "meta_changes": [
+  "Toxic teams built around Serpentemis dominate early Arena and Temporal Vortex rankings due to high output at low inspiration."
+ ],
+ "tips": [
+  "Spend energy on Talent dungeons before Day 6, as hero level 79 unlocks crucial talent nodes.",
+  "Play Tavern Gambit to earn Raid Tickets for instant dungeon clears and Soul Fragments for legendary hero rolls.",
+  "Reset Inspiration on heroes freely at no cost to experiment with stat and skill boosts.",
+  "Pair Child of Chaos with another support hero to ensure sufficient healing for longer battles."
+ ],
+ "season": "S1",
+ "server_scope": "S1",
+ "value": "high",
+ "id": "yu4aPXLPwhU",
+ "model": "gemini-3.5-flash",
+ "channel": "Gorax",
+ "title": "Day 5 Progression & Big Account Upgrades! | Beginner Series | Dragonheir x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=yu4aPXLPwhU",
+ "short": false,
+ "summarized": "2026-11-04T03:18Z"
+}

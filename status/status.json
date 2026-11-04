@@ -1,14 +1,14 @@
 {
- "built": "2026-11-04T02:52Z",
- "last_fetch": "2026-11-04T02:17Z",
+ "built": "2026-11-04T03:18Z",
+ "last_fetch": "2026-11-04T03:17Z",
  "counts": {
-  "summarized": 228,
+  "summarized": 229,
   "skipped_giveaway": 17,
   "baseline": 22,
-  "new": 371,
+  "new": 369,
   "skipped_live": 1,
   "failed": 2,
-  "retry": 10
+  "retry": 11
  },
  "problems": [
   {
@@ -30,7 +30,7 @@
    "error": ""
   },
   {
-   "title": "Day 5 Progression & Big Account Upgrades! | Beginner Series | Dragonheir x Dragonstride",
+   "title": "Upcoming New Heroes Revealed! What We Know So Far | Dragonheir x Dragonstride",
    "channel": "Gorax",
    "status": "retry",
    "error": ""
@@ -78,6 +78,12 @@
    "error": ""
   },
   {
+   "title": "Solmo + Vortex = SHIELDZILLA?! 💥 INSANE BUILD | Dragonheir: Silent Gods",
+   "channel": "Skyasterix Gaming",
+   "status": "retry",
+   "error": ""
+  },
+  {
    "title": "🔥 Season 9 FIRST CROWN CONTEST! Code: SKYASTERIX | Dragonheir: Silent Gods",
    "channel": "Skyasterix Gaming",
    "status": "failed",
@@ -86,49 +92,11 @@
  ],
  "budget": {
   "day": "2026-11-04",
-  "seconds": 12658,
+  "seconds": 13322,
   "v2": 1,
-  "quota_hit": 1793755107.394983
+  "quota_hit": 1793762320.3872669
  },
  "log_tail": [
-  "saved iyc1c1lve5o",
-  "+ Neff Gaming: FROSTLIGHT SPEEDRUN! ⚡ 3 Dungeons, One Team | Dragonheir: Si",
-  "… liveranov: Grave of Venom 20 Speedrun | Firestorm, Frostlight & Necroto",
-  "saved tHmTD4guOio",
-  "+ liveranov: Community Giveaway November (Round 1) | Entry OPEN",
-  "… Skratch Gaming: MY 6 TEAMS & Strategy For Week 3! Dragonheir: Silent Gods x ",
-  "saved bhu8a6lCUDY",
-  "+ Neff Gaming: FIRESTORM SPEEDRUN! ⚡ 3 Dungeons, One Team | Dragonheir: Sil",
-  "… liveranov: Dauntless vs Chaos Hunter (Area Boss 1) | Crisis Rally | Sea",
-  "saved YTSkf8whQbM",
-  "+ Skratch Gaming: DO THIS! Chose The Right Piece... Dragonheir: Silent Gods x ",
-  "  gemini-3.8-flash: 503, using gemini-3.5-flash",
-  "  gemini-3.8-flash: 503, using gemini-3.5-flash",
-  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
-  "… Gorax: STOP Wasting Money! What You SHOULD Buy in Dragonheir | Drag",
-  "saved jRdl34i5jqs",
-  "+ liveranov: Grave of Venom 20 Speedrun | Firestorm, Frostlight & Necroto",
-  "… Suzi Plays: FREE SUMMONS Continue w/ Code #6 🧡 15 Heliolite! 🎁 3rd Anniv",
-  "saved DQlhUcZ_2zg",
-  "+ Skratch Gaming: MY 6 TEAMS & Strategy For Week 3! Dragonheir: Silent Gods x ",
-  "… Skyasterix Gaming: 🔥 S8 Option Summons 2 JACKPOT or FRUSTRATION?! 😱 What Did I ",
-  "saved zOm1qADjbSU",
-  "+ Suzi Plays: FREE SUMMONS Continue w/ Code #6 🧡 15 Heliolite! 🎁 3rd Anniv",
-  "… Skyasterix Gaming: 🔥DARK LADY or CHILD OF CHAOS? I Finally Chose My Faction! | ",
-  "saved F96DH9xeYnw",
-  "+ Suzi Plays: A YOLO Summoning SURPRISE! 💥A Silly Daily Plan Got Me THIS! ",
-  "saved zLC3mySaxd8",
-  "+ Skyasterix Gaming: 🔥 S8 Option Summons 2 JACKPOT or FRUSTRATION?! 😱 What Did I ",
-  "saved -qh8Km9Lsw0",
-  "+ liveranov: Dauntless vs Chaos Hunter (Area Boss 1) | Crisis Rally | Sea",
-  "saved zdgyM50FqxM",
-  "+ Gorax: STOP Wasting Money! What You SHOULD Buy in Dragonheir | Drag",
-  "saved zGWA-DE3r4w",
-  "+ Skyasterix Gaming: 🔥DARK LADY or CHILD OF CHAOS? I Finally Chose My Faction! | ",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 226 videos, 169 heroes",
-  "== 2026-11-04 01:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "… liveranov: Corrosion vs Durem | Continental Challenge | Season 8 | Drag",
   "… Gorax: I Went ALL IN on Option Summons II… Should You? | Dragonheir",
   "… Gorax: Day 5 Progression & Big Account Upgrades! | Beginner Series ",
@@ -170,7 +138,45 @@
   "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "Gemini quota was full less than an hour ago, trying again next round",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 228 videos, 170 heroes"
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 228 videos, 170 heroes",
+  "== 2026-11-04 03:17",
+  "fetch done: 0 new transcripts, 0 not available yet",
+  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
+  "… Gorax: Day 5 Progression & Big Account Upgrades! | Beginner Series ",
+  "… OddOneGaming RPGs: 🚨 This Was SOOO Easy 🚨 Meander Trial 121-180 One Teamm FULL ",
+  "… Neff Gaming: 3 Teams! Build Them For Continental Challenge! | Dragonheir:",
+  "… Skratch Gaming: WORTH Pulling On The New Banner?? Dragonheir: Silent Gods x ",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
+  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
+  "… OddOneGaming RPGs: 💥 I CAN'T BELIEVE IT HAPPENED! 💥ALL IN For Child Of Chaos Co",
+  "! WORTH Pulling On The New Banner?? Dragonheir: Sile: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "… Skyasterix Gaming: 👉🔥 THE BEST BANNER?! Cursed OR Lucky? Option Summons | Drago",
+  "! 💥 I CAN'T BELIEVE IT HAPPENED! 💥ALL IN For Child O: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "… Gorax: HUGE Rewards Are Up for Grabs! Peak Gambit Explained! | Drag",
+  "! 👉🔥 THE BEST BANNER?! Cursed OR Lucky? Option Summo: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "… Gorax: The 3rd Anniversary Event Is Going to Be Huge! | Dragonheir",
+  "! HUGE Rewards Are Up for Grabs! Peak Gambit Explain: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "… Gorax: I Summoned Until an Exclusive Hero Dropped! | Dragonheir x D",
+  "! The 3rd Anniversary Event Is Going to Be Huge! | D: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "… Suzi Plays: PROMO CODE #4 + New Events 🧡 15 Free Heliolite! 🎁 3rd Annive",
+  "! I Summoned Until an Exclusive Hero Dropped! | Drag: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "… Gorax: Upcoming New Heroes Revealed! What We Know So Far | Dragonhe",
+  "! PROMO CODE #4 + New Events 🧡 15 Free Heliolite! 🎁 : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "… Skyasterix Gaming: Solmo + Vortex = SHIELDZILLA?! 💥 INSANE BUILD | Dragonheir: ",
+  "! Upcoming New Heroes Revealed! What We Know So Far : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "! Solmo + Vortex = SHIELDZILLA?! 💥 INSANE BUILD | Dr: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "saved yu4aPXLPwhU",
+  "+ Gorax: Day 5 Progression & Big Account Upgrades! | Beginner Series ",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
+  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
+  "! 3 Teams! Build Them For Continental Challenge! | D: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
+  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
+  "! 🚨 This Was SOOO Easy 🚨 Meander Trial 121-180 One T: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google."
  ],
  "crontab": [],
  "channels": [
@@ -178,55 +184,55 @@
    "name": "Skratch Gaming",
    "id": "UCoSkzr1pXpt3d0jIxsc6ufw",
    "enabled": true,
-   "checked": "2026-11-04T02:17Z"
+   "checked": "2026-11-04T03:17Z"
   },
   {
    "name": "Gorax",
    "id": "UCNas7BnuOIjDEzY1D53kb1w",
    "enabled": true,
-   "checked": "2026-11-04T02:17Z"
+   "checked": "2026-11-04T03:17Z"
   },
   {
    "name": "Neff Gaming",
    "id": "UCsxs6YhNd_B36RgUAjbpJ_A",
    "enabled": true,
-   "checked": "2026-11-04T02:17Z"
+   "checked": "2026-11-04T03:17Z"
   },
   {
    "name": "Volkin Dragonheir",
    "id": "UCfRpOh_ywVjzhh9fxHbreGw",
    "enabled": true,
-   "checked": "2026-11-04T02:17Z"
+   "checked": "2026-11-04T03:17Z"
   },
   {
    "name": "Fastidious Dragonheir",
    "id": "UC16mpj5wEemSZX-uTlHe9Ww",
    "enabled": true,
-   "checked": "2026-11-04T02:17Z"
+   "checked": "2026-11-04T03:17Z"
   },
   {
    "name": "OddOneGaming RPGs",
    "id": "UC1ivUEf_poI9_R2eVKa8wRQ",
    "enabled": true,
-   "checked": "2026-11-04T02:17Z"
+   "checked": "2026-11-04T03:17Z"
   },
   {
    "name": "Suzi Plays",
    "id": "UCyo1-TkunhGcK6khU1h8Ypw",
    "enabled": true,
-   "checked": "2026-11-04T02:17Z"
+   "checked": "2026-11-04T03:17Z"
   },
   {
    "name": "Skyasterix Gaming",
    "id": "UCr5Gb3910rK7QPmKMmdagsA",
    "enabled": true,
-   "checked": "2026-11-04T02:17Z"
+   "checked": "2026-11-04T03:17Z"
   },
   {
    "name": "liveranov",
    "id": "UCqCR7ofFHhWwXy3Hg00fqEw",
    "enabled": true,
-   "checked": "2026-11-04T02:17Z"
+   "checked": "2026-11-04T03:17Z"
   }
  ]
 }
