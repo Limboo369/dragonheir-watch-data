@@ -1,0 +1,61 @@
+{
+ "summary": "Skyasterix reveals the skill set and inspiration perks for Lariel, an upcoming Season 9 Corrosion support hero in Dragonheir: Silent Gods. In Chinese server testing against Temporal Vortex, a Corrosion team featuring Lariel, Rook, Sintrellia, Blah Blah, and Sleight achieved over 32.3 billion damage. Lariel functions as a powerful buffer and debuffer through his unique Tear mechanic, making him a major meta booster for Rook rather than a standalone main DPS.",
+ "topics": [
+  "Lariel",
+  "Rook",
+  "Corrosion Team",
+  "Temporal Vortex",
+  "Season 9"
+ ],
+ "heroes": [
+  {
+   "name": "Lariel",
+   "verdict": "Essential Season 9 Corrosion booster",
+   "note": "Applies DEF-reducing Tear stacks and amplifies Corrosion school damage, enabling Rook to reach unprecedented Temporal Vortex scores.",
+   "known": false
+  },
+  {
+   "name": "Rook",
+   "verdict": "Top-tier Corrosion DPS",
+   "note": "Re-enters top meta status when paired with Lariel, contributing over 80% of team damage in high-tier boss battles.",
+   "known": true
+  },
+  {
+   "name": "Sintrellia",
+   "verdict": "Core Corrosion enabler",
+   "note": "Essential piece for optimal Corrosion compositions alongside Rook and Lariel.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Temporal Vortex",
+   "heroes": [
+    "Lariel",
+    "Sintrellia",
+    "Rook",
+    "Blah Blah",
+    "Sleight"
+   ],
+   "note": "Achieved over 32.3 billion damage in Chinese server testing by combining Lariel's Tear debuffs and Rook's massive burst output."
+  }
+ ],
+ "meta_changes": [
+  "Lariel introduces the Tear debuff (stackable DEF reduction up to 10 stacks) and restores Corrosion teams and Rook to the top of the endgame Temporal Vortex meta."
+ ],
+ "tips": [
+  "Treat Lariel as a team buffer and enabler rather than a primary DPS unit, as his primary role is enabling Rook.",
+  "Unlocking Lariel's Inspiration 2 (I2) grants Corrosion allies an additional 5% damage bonus against targets inflicted with Ruminate."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "sG1x9N1qUCY",
+ "model": "gemini-3.5-flash",
+ "channel": "Skyasterix Gaming",
+ "title": "🐉 S9 100% META BOOSTER FOR ROOK?! 😱 New CORROSION HERO Skills Revealed! | Dragonheir: Silent Gods",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=sG1x9N1qUCY",
+ "short": false,
+ "summarized": "2026-11-04T10:18Z"
+}

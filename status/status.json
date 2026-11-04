@@ -1,11 +1,11 @@
 {
- "built": "2026-11-04T10:07Z",
- "last_fetch": "2026-11-04T09:17Z",
+ "built": "2026-11-04T10:19Z",
+ "last_fetch": "2026-11-04T10:17Z",
  "counts": {
-  "summarized": 245,
+  "summarized": 248,
   "skipped_giveaway": 17,
   "baseline": 22,
-  "new": 364,
+  "new": 361,
   "skipped_live": 1,
   "failed": 2
  },
@@ -25,26 +25,11 @@
  ],
  "budget": {
   "day": "2026-11-04",
-  "seconds": 23609,
+  "seconds": 26767,
   "v2": 1,
   "quota_hit": 1793776706.6702032
  },
  "log_tail": [
-  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
-  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
-  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
-  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
-  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
-  "… Gorax: The 3rd Anniversary Event Is Going to Be Huge! | Dragonheir",
-  "! 🚨 This Was SOOO Easy 🚨 Meander Trial 121-180 One T: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
-  "… Gorax: I Summoned Until an Exclusive Hero Dropped! | Dragonheir x D",
-  "! The 3rd Anniversary Event Is Going to Be Huge! | D: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
-  "… Suzi Plays: PROMO CODE #4 + New Events 🧡 15 Free Heliolite! 🎁 3rd Annive",
-  "! I Summoned Until an Exclusive Hero Dropped! | Drag: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
-  "… Gorax: Upcoming New Heroes Revealed! What We Know So Far | Dragonhe",
-  "! PROMO CODE #4 + New Events 🧡 15 Free Heliolite! 🎁 : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
-  "… Skyasterix Gaming: Solmo + Vortex = SHIELDZILLA?! 💥 INSANE BUILD | Dragonheir: ",
-  "! Upcoming New Heroes Revealed! What We Know So Far : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
   "… Skratch Gaming: This Is HARD!! Beat Stage 120 Mender Trial... Dragonheir: Si",
   "! Solmo + Vortex = SHIELDZILLA?! 💥 INSANE BUILD | Dr: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
   "… Volkin Dragonheir: NEW Game, NEW Channel!!! [Dragonheir: Silent Gods]",
@@ -109,7 +94,22 @@
   "  gemini-3.8-flash: 429, using gemini-3.5-flash",
   "saved v7j7nvLg6Qg (unknown hero names: Levier, Lamb)",
   "+ Gorax: Upcoming New Heroes Revealed! What We Know So Far | Dragonhe",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 245 videos, 174 heroes"
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 245 videos, 174 heroes",
+  "== 2026-11-04 10:17",
+  "fetch done: 0 new transcripts, 0 not available yet",
+  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
+  "… Gorax: Familiar Guide & Tier List – Best Familiars, Fusion, Awakeni",
+  "… Skyasterix Gaming: 🐉 S9 100% META BOOSTER FOR ROOK?! 😱 New CORROSION HERO Skill",
+  "… Suzi Plays: My FIRST Pulls for Thunderbolt!💥 But... MOST Should NOT Summ",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "saved sG1x9N1qUCY (unknown hero names: Lariel)",
+  "+ Skyasterix Gaming: 🐉 S9 100% META BOOSTER FOR ROOK?! 😱 New CORROSION HERO Skill",
+  "saved rhb8c5yAmTE",
+  "+ Suzi Plays: My FIRST Pulls for Thunderbolt!💥 But... MOST Should NOT Summ",
+  "saved shuBe80QMA4 (unknown hero names: Severio)",
+  "+ Gorax: Familiar Guide & Tier List – Best Familiars, Fusion, Awakeni"
  ],
  "crontab": [],
  "channels": [
@@ -117,55 +117,55 @@
    "name": "Skratch Gaming",
    "id": "UCoSkzr1pXpt3d0jIxsc6ufw",
    "enabled": true,
-   "checked": "2026-11-04T09:17Z"
+   "checked": "2026-11-04T10:17Z"
   },
   {
    "name": "Gorax",
    "id": "UCNas7BnuOIjDEzY1D53kb1w",
    "enabled": true,
-   "checked": "2026-11-04T09:17Z"
+   "checked": "2026-11-04T10:17Z"
   },
   {
    "name": "Neff Gaming",
    "id": "UCsxs6YhNd_B36RgUAjbpJ_A",
    "enabled": true,
-   "checked": "2026-11-04T09:17Z"
+   "checked": "2026-11-04T10:17Z"
   },
   {
    "name": "Volkin Dragonheir",
    "id": "UCfRpOh_ywVjzhh9fxHbreGw",
    "enabled": true,
-   "checked": "2026-11-04T09:17Z"
+   "checked": "2026-11-04T10:17Z"
   },
   {
    "name": "Fastidious Dragonheir",
    "id": "UC16mpj5wEemSZX-uTlHe9Ww",
    "enabled": true,
-   "checked": "2026-11-04T09:17Z"
+   "checked": "2026-11-04T10:17Z"
   },
   {
    "name": "OddOneGaming RPGs",
    "id": "UC1ivUEf_poI9_R2eVKa8wRQ",
    "enabled": true,
-   "checked": "2026-11-04T09:17Z"
+   "checked": "2026-11-04T10:17Z"
   },
   {
    "name": "Suzi Plays",
    "id": "UCyo1-TkunhGcK6khU1h8Ypw",
    "enabled": true,
-   "checked": "2026-11-04T09:17Z"
+   "checked": "2026-11-04T10:17Z"
   },
   {
    "name": "Skyasterix Gaming",
    "id": "UCr5Gb3910rK7QPmKMmdagsA",
    "enabled": true,
-   "checked": "2026-11-04T09:17Z"
+   "checked": "2026-11-04T10:17Z"
   },
   {
    "name": "liveranov",
    "id": "UCqCR7ofFHhWwXy3Hg00fqEw",
    "enabled": true,
-   "checked": "2026-11-04T09:17Z"
+   "checked": "2026-11-04T10:17Z"
   }
  ]
 }

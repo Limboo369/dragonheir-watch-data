@@ -1,0 +1,92 @@
+{
+ "summary": "Familiars unlock on Day 3 and grant percentage stat carries to all heroes via the War Room. Choosing the right familiar depends on team synergies: Lava Batwing excels in Enlightenment teams, Golden Tressym powers AoE setups, and Long-Eared Deer or Hellfire Retainer dominate PvP. Fusion allows pets to gain talent slots up to 6, utilizing a 3,000-point pity system for guaranteed talent additions. Maxed 6-talent familiars can be awakened and refined with Refinement Sand to further enhance active talents.",
+ "topics": [
+  "Familiars",
+  "Tier List",
+  "Fusion Mechanics",
+  "Awakening",
+  "Refinement"
+ ],
+ "heroes": [
+  {
+   "name": "Vinyara",
+   "verdict": "Key partner for Mimic",
+   "note": "Applies Attack Penalty to trigger Mimic's enhanced recharge speed debuff in PvP and Continental Challenge.",
+   "known": true
+  },
+  {
+   "name": "Zhorak",
+   "verdict": "Ice Blast core hero",
+   "note": "Determines whether Starlight Stoneborn or Starshade Servitor is best for Ice Blast teams.",
+   "known": true
+  },
+  {
+   "name": "Perkunte",
+   "verdict": "Enlightenment damage dealer",
+   "note": "Benefits from Enlightenment damage talents like Loyal Follower on PvP familiars.",
+   "known": true
+  },
+  {
+   "name": "Severio",
+   "verdict": "Enlightenment hero",
+   "note": "Scales effectively with Enlightenment boosts provided by Lava Batwing or Long-Eared Deer.",
+   "known": false
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "Enlightenment damage dealer",
+   "note": "Gains significant damage bonuses from Enlightenment talent synergies in PvP.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Enlightenment Teams (Toxic / Thunderbolt / Wild / Shadow)",
+   "heroes": [
+    "Lava Batwing"
+   ],
+   "note": "Lava Batwing provides Attack and Enlightenment boosts up to 15% to the highest Enlightenment ally."
+  },
+  {
+   "mode": "AoE Content (Corrosion / Burn / Summons / Rally)",
+   "heroes": [
+    "Tressym"
+   ],
+   "note": "Golden Tressym applies Distraction debuff, increasing AoE damage taken by enemies by 12%."
+  },
+  {
+   "mode": "PvP Defense & Control",
+   "heroes": [
+    "Glimmering Long-Eared Deer"
+   ],
+   "note": "Creates damage-absorbing barriers that knock back or stun enemies upon breaking."
+  },
+  {
+   "mode": "PvP Resurrection Meta",
+   "heroes": [
+    "Hellfire Retainer"
+   ],
+   "note": "Revives defeated allies with 100% HP and 100% ultimate energy every 30 seconds."
+  }
+ ],
+ "meta_changes": [
+  "Introduction of Familiar Awakening system requiring 6-talent familiars to generate Awakening Stones.",
+  "Addition of Hellfire Retainer as an S-tier PvP familiar featuring team resurrection mechanics."
+ ],
+ "tips": [
+  "Build fusion pity to 3,000 points using redundant food pets before fusing with a pet that has a specific high-value talent.",
+  "Always save refinement results before locking slots, as locking without saving overwrites active talent refinements.",
+  "Buy Familiar Domestication Chests in the Familiar Shop to acquire guaranteed Mythic or Legendary talent scrolls each season."
+ ],
+ "season": "S1",
+ "server_scope": "mixed",
+ "value": "high",
+ "id": "shuBe80QMA4",
+ "model": "gemini-3.5-flash",
+ "channel": "Gorax",
+ "title": "Familiar Guide & Tier List – Best Familiars, Fusion, Awakening & Teams | Dragonheir x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=shuBe80QMA4",
+ "short": false,
+ "summarized": "2026-11-04T10:19Z"
+}

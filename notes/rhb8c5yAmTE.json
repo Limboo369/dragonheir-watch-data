@@ -1,0 +1,108 @@
+{
+ "summary": "Suzi Plays pulls on the Thunderbolt Selected Summons banner up to 340 summons to claim Perkunte from the 300-pull selector, but strongly advises non-whales to skip the banner. Thunderbolt is currently not part of the top meta compared to Aura, Toxin, Burn, Dauntless, or Ice Blast. She also highlights the Starweave Echo event, recommending players save duplicate Legendary Soul Imprints to exchange for Starweave Fragments in the Temporal Corridor to buy top legendaries like Maashtur or Guinavivre.",
+ "topics": [
+  "banners",
+  "summons",
+  "Thunderbolt",
+  "Starweave Echo",
+  "Temporal Corridor"
+ ],
+ "heroes": [
+  {
+   "name": "Perkunte",
+   "verdict": "Main Thunderbolt DPS",
+   "note": "Selected as the 300-pull selector target because he is the primary DPS anchor needed for any Thunderbolt team.",
+   "known": true
+  },
+  {
+   "name": "Tariz",
+   "verdict": "Thunderbolt DPS option",
+   "note": "Featured on the Thunderbolt banner alongside Perkunte, but Thunderbolt overall is not top meta.",
+   "known": true
+  },
+  {
+   "name": "Alaura",
+   "verdict": "Selectable banner option",
+   "note": "One of the three selectable Legendary targets on the banner.",
+   "known": true
+  },
+  {
+   "name": "Maashtur",
+   "verdict": "Top-tier support",
+   "note": "Essential end-game support for Dauntless and Thunderbolt teams, costing 800 fragments in Lingering Echo.",
+   "known": true
+  },
+  {
+   "name": "Guinavivre",
+   "verdict": "High-value exchange target",
+   "note": "Available in Myriad Stars for 300 fragments, making her a great guaranteed claim for players saving fragments.",
+   "known": true
+  },
+  {
+   "name": "Selva",
+   "verdict": "Strong support hero",
+   "note": "A fun alternative support hero mentioned in comparison with Maashtur.",
+   "known": true
+  },
+  {
+   "name": "Shai'nachtan",
+   "verdict": "Underwhelming legendary",
+   "note": "Pulled during summons; has a cool visual design but historically underwhelming performance.",
+   "known": true
+  },
+  {
+   "name": "Nissa",
+   "verdict": "Pulled duplicate",
+   "note": "Pulled back-to-back during the summoning session.",
+   "known": true
+  },
+  {
+   "name": "Donella",
+   "verdict": "Duplicate support",
+   "note": "Pulled as a duplicate, providing soul imprint fodder for exchange.",
+   "known": true
+  },
+  {
+   "name": "Tamar",
+   "verdict": "Pulled legendary",
+   "note": "Support legendary pulled during the summon session.",
+   "known": true
+  },
+  {
+   "name": "Torrin",
+   "verdict": "Pulled legendary",
+   "note": "Legendary hero pulled near the end of the summoning spree.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "General / Bosses",
+   "heroes": [
+    "Perkunte"
+   ],
+   "note": "Perkunte is the essential anchor DPS if attempting to run a Thunderbolt team."
+  }
+ ],
+ "meta_changes": [
+  "Thunderbolt element is currently outclassed by Aura, Toxin, Burn, Dauntless, and Ice Blast teams.",
+  "The Starweave Echo event allows converting duplicate Legendary Soul Imprints into 12 Starweave Fragments each (up to 50 times) to buy top-tier legendaries in the Temporal Corridor."
+ ],
+ "tips": [
+  "Skip the Thunderbolt banner unless you can afford 300+ pulls on every banner, as Thunderbolt is currently not meta.",
+  "Save duplicate Legendary Soul Imprints for the Starweave Echo event to purchase top legendaries like Maashtur (800 fragments) or Guinavivre (300 fragments).",
+  "Never waste currency on cheap or non-rotating legendary options in Temporal Corridor; save strictly for high-tier rotating legendaries.",
+  "Save summon dice and resources for the upcoming Child of Chaos event."
+ ],
+ "season": "mixed",
+ "server_scope": "mixed",
+ "value": "medium",
+ "id": "rhb8c5yAmTE",
+ "model": "gemini-3.5-flash",
+ "channel": "Suzi Plays",
+ "title": "My FIRST Pulls for Thunderbolt!💥 But... MOST Should NOT Summon 🔥 Dragonheir x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=rhb8c5yAmTE",
+ "short": false,
+ "summarized": "2026-11-04T10:18Z"
+}
