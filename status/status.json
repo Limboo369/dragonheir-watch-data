@@ -1,6 +1,6 @@
 {
- "built": "2026-11-04T07:55Z",
- "last_fetch": "2026-11-04T07:17Z",
+ "built": "2026-11-04T08:26Z",
+ "last_fetch": "2026-11-04T08:17Z",
  "counts": {
   "summarized": 233,
   "skipped_giveaway": 17,
@@ -91,11 +91,6 @@
   "quota_hit": 1793776706.6702032
  },
  "log_tail": [
-  "Gemini quota was full less than an hour ago, trying again next round",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 229 videos, 170 heroes",
-  "== 2026-11-04 05:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "… OddOneGaming RPGs: 🚨 This Was SOOO Easy 🚨 Meander Trial 121-180 One Teamm FULL ",
   "… Neff Gaming: 3 Teams! Build Them For Continental Challenge! | Dragonheir:… Skratch Gaming: WORTH Pulling On The New Banner?? Dragonheir: Silent Gods x ",
   "",
@@ -170,6 +165,11 @@
   "saved wqzlWrO06EU",
   "+ Gorax: HUGE Rewards Are Up for Grabs! Peak Gambit Explained! | Drag",
   "! 👉🔥 THE BEST BANNER?! Cursed OR Lucky? Option Summo: ConnectError: [Errno 104] Connection reset by peer",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 233 videos, 171 heroes",
+  "== 2026-11-04 08:17",
+  "fetch done: 0 new transcripts, 0 not available yet",
+  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
+  "Gemini quota was full less than an hour ago, trying again next round",
   "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 233 videos, 171 heroes"
  ],
  "crontab": [],
@@ -178,55 +178,55 @@
    "name": "Skratch Gaming",
    "id": "UCoSkzr1pXpt3d0jIxsc6ufw",
    "enabled": true,
-   "checked": "2026-11-04T07:17Z"
+   "checked": "2026-11-04T08:17Z"
   },
   {
    "name": "Gorax",
    "id": "UCNas7BnuOIjDEzY1D53kb1w",
    "enabled": true,
-   "checked": "2026-11-04T07:17Z"
+   "checked": "2026-11-04T08:17Z"
   },
   {
    "name": "Neff Gaming",
    "id": "UCsxs6YhNd_B36RgUAjbpJ_A",
    "enabled": true,
-   "checked": "2026-11-04T07:17Z"
+   "checked": "2026-11-04T08:17Z"
   },
   {
    "name": "Volkin Dragonheir",
    "id": "UCfRpOh_ywVjzhh9fxHbreGw",
    "enabled": true,
-   "checked": "2026-11-04T07:17Z"
+   "checked": "2026-11-04T08:17Z"
   },
   {
    "name": "Fastidious Dragonheir",
    "id": "UC16mpj5wEemSZX-uTlHe9Ww",
    "enabled": true,
-   "checked": "2026-11-04T07:17Z"
+   "checked": "2026-11-04T08:17Z"
   },
   {
    "name": "OddOneGaming RPGs",
    "id": "UC1ivUEf_poI9_R2eVKa8wRQ",
    "enabled": true,
-   "checked": "2026-11-04T07:17Z"
+   "checked": "2026-11-04T08:17Z"
   },
   {
    "name": "Suzi Plays",
    "id": "UCyo1-TkunhGcK6khU1h8Ypw",
    "enabled": true,
-   "checked": "2026-11-04T07:17Z"
+   "checked": "2026-11-04T08:17Z"
   },
   {
    "name": "Skyasterix Gaming",
    "id": "UCr5Gb3910rK7QPmKMmdagsA",
    "enabled": true,
-   "checked": "2026-11-04T07:17Z"
+   "checked": "2026-11-04T08:17Z"
   },
   {
    "name": "liveranov",
    "id": "UCqCR7ofFHhWwXy3Hg00fqEw",
    "enabled": true,
-   "checked": "2026-11-04T07:17Z"
+   "checked": "2026-11-04T08:17Z"
   }
  ]
 }
