@@ -1,0 +1,101 @@
+{
+ "summary": "This video breaks down three top-performing endgame teams for Continental Challenge boss encounters: Dauntless vs Iola, Toxin vs Durem, and Aura vs Joyce. The creator outlines specific hero gear sets, key stat thresholds like resistance and accuracy, artifact choices, and exact ultimate skill timings. Each team is capable of achieving 1.7B to over 2.3B damage depending on RNG and gear quality. Team codes are shared for quick import.",
+ "topics": [
+  "Continental Challenge",
+  "Team Compositions",
+  "Boss Guide",
+  "Skill Timing",
+  "Gear Build"
+ ],
+ "heroes": [
+  {
+   "name": "Kurvida",
+   "verdict": "Core Dauntless DPS / Supporter",
+   "note": "Requires high resistance (250+) and Vortex Illusion set while keeping lower attack than Guinavivre.",
+   "known": true
+  },
+  {
+   "name": "Guinavivre",
+   "verdict": "Top Dauntless DPS",
+   "note": "Needs 160+ resistance paired with maximum attack speed, crit damage, and high attack stats.",
+   "known": true
+  },
+  {
+   "name": "Selva",
+   "verdict": "Top Dauntless Buffer",
+   "note": "Built with Puppeteer set and Golden Antlers artifact alongside 250+ resistance to maximize team damage.",
+   "known": true
+  },
+  {
+   "name": "Lothair",
+   "verdict": "Primary Toxin Damage Dealer",
+   "note": "Scales heavily with high enlightenment, attack, and poison stacks when releasing ultimate.",
+   "known": true
+  },
+  {
+   "name": "Talethia",
+   "verdict": "Main Aura DPS",
+   "note": "Requires 100% crit rate and maximum crit damage to push total team damage past 2B+.",
+   "known": true
+  },
+  {
+   "name": "Diantha",
+   "verdict": "Aura Debuffer",
+   "note": "Utilizes Witch's Remains and Conflagration of Bones to maintain two debuffs (bleed and penalty) reliably.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Continental Challenge (Iola)",
+   "heroes": [
+    "Nastjenka",
+    "Maashtur",
+    "Guinavivre",
+    "Kurvida",
+    "Selva"
+   ],
+   "note": "Dauntless lineup aiming for 2B+ damage with high resistance builds to counter Iola's debuffs."
+  },
+  {
+   "mode": "Continental Challenge (Durem)",
+   "heroes": [
+    "Serpentemis",
+    "Sacredeia",
+    "Sleight",
+    "Lothair",
+    "Child of Chaos"
+   ],
+   "note": "Toxin lineup utilizing attack-boosting support gear and precise timing on Lothair's ultimate."
+  },
+  {
+   "mode": "Continental Challenge (Joyce)",
+   "heroes": [
+    "Anneliesis",
+    "Talethia",
+    "Lincos",
+    "Diantha",
+    "Rena"
+   ],
+   "note": "Aura lineup focused on maintaining debuffs with Diantha and stripping boss buffs via Anneliesis."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Ensure tank and primary supporters have 250+ resistance on Iola to avoid team-wide disruption.",
+  "Keep Kurvida's Attack lower than Guinavivre's so Vortex Illusion buffs the primary damage dealer.",
+  "Equip Diantha with bleeding gear and Witch's Remains to satisfy Joyce's multi-debuff damage multiplier requirements.",
+  "In Continental Challenge, run multiple combat simulations to fish for optimal RNG rotations before locking in high scores."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "yZ6dXP8btPg",
+ "model": "gemini-3.5-flash",
+ "channel": "Neff Gaming",
+ "title": "3 Teams! Build Them For Continental Challenge! | Dragonheir: Silent Gods x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=yZ6dXP8btPg",
+ "short": false,
+ "summarized": "2026-11-04T07:18Z"
+}
