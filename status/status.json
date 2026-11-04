@@ -1,5 +1,5 @@
 {
- "built": "2026-11-04T09:32Z",
+ "built": "2026-11-04T10:07Z",
  "last_fetch": "2026-11-04T09:17Z",
  "counts": {
   "summarized": 245,
@@ -30,7 +30,6 @@
   "quota_hit": 1793776706.6702032
  },
  "log_tail": [
-  "… Gorax: HUGE Rewards Are Up for Grabs! Peak Gambit Explained! | Drag",
   "  gemini-3.8-flash: 429, using gemini-3.5-flash",
   "  gemini-3.8-flash: 429, using gemini-3.5-flash",
   "  gemini-3.8-flash: 429, using gemini-3.5-flash",
@@ -109,7 +108,8 @@
   "+ liveranov: Support Me in Dragonheir: All-Star Night — Bind the Dark Lad",
   "  gemini-3.8-flash: 429, using gemini-3.5-flash",
   "saved v7j7nvLg6Qg (unknown hero names: Levier, Lamb)",
-  "+ Gorax: Upcoming New Heroes Revealed! What We Know So Far | Dragonhe"
+  "+ Gorax: Upcoming New Heroes Revealed! What We Know So Far | Dragonhe",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 245 videos, 174 heroes"
  ],
  "crontab": [],
  "channels": [
