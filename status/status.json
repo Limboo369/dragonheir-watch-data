@@ -1,5 +1,5 @@
 {
- "built": "2026-11-04T10:19Z",
+ "built": "2026-11-04T10:57Z",
  "last_fetch": "2026-11-04T10:17Z",
  "counts": {
   "summarized": 248,
@@ -30,7 +30,6 @@
   "quota_hit": 1793776706.6702032
  },
  "log_tail": [
-  "… Skratch Gaming: This Is HARD!! Beat Stage 120 Mender Trial... Dragonheir: Si",
   "! Solmo + Vortex = SHIELDZILLA?! 💥 INSANE BUILD | Dr: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
   "… Volkin Dragonheir: NEW Game, NEW Channel!!! [Dragonheir: Silent Gods]",
   "! This Is HARD!! Beat Stage 120 Mender Trial... Drag: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
@@ -109,7 +108,8 @@
   "saved rhb8c5yAmTE",
   "+ Suzi Plays: My FIRST Pulls for Thunderbolt!💥 But... MOST Should NOT Summ",
   "saved shuBe80QMA4 (unknown hero names: Severio)",
-  "+ Gorax: Familiar Guide & Tier List – Best Familiars, Fusion, Awakeni"
+  "+ Gorax: Familiar Guide & Tier List – Best Familiars, Fusion, Awakeni",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 248 videos, 177 heroes"
  ],
  "crontab": [],
  "channels": [
