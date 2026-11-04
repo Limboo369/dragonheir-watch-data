@@ -1,5 +1,5 @@
 {
- "built": "2026-11-04T00:38Z",
+ "built": "2026-11-04T01:10Z",
  "last_fetch": "2026-11-04T00:17Z",
  "counts": {
   "summarized": 226,
@@ -29,7 +29,6 @@
   "v2": 1
  },
  "log_tail": [
-  "daily video budget used (449 min), waiting for tomorrow",
   "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 214 videos, 165 heroes",
   "== 2026-11-03 18:17",
   "fetch done: 0 new transcripts, 0 not available yet",
@@ -108,7 +107,8 @@
   "saved zdgyM50FqxM",
   "+ Gorax: STOP Wasting Money! What You SHOULD Buy in Dragonheir | Drag",
   "saved zGWA-DE3r4w",
-  "+ Skyasterix Gaming: 🔥DARK LADY or CHILD OF CHAOS? I Finally Chose My Faction! | "
+  "+ Skyasterix Gaming: 🔥DARK LADY or CHILD OF CHAOS? I Finally Chose My Faction! | ",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 226 videos, 169 heroes"
  ],
  "crontab": [],
  "channels": [
