@@ -1,0 +1,88 @@
+{
+ "summary": "Skratch evaluates the new Thunderbolt Selected Summons banner featuring Tariz, Alaura, and Perkunte, ultimately advising players to skip it. Although Tariz is a strong Thunderbolt AoE damage dealer with debuffs like Gaze and Lightning Vulnerability, the secondary legendary pool on the banner is weak. In addition, the game's anniversary is approaching in roughly two weeks, which will feature a 300-summon banner for the new Child of Chaos hero as well as 12-school selector banners. Players should stockpile around 600 summons for the anniversary instead of spending resources now. For the upcoming Mekkatorque endgame boss, AoE-focused setups (such as Burn, Necrosis, Poison with Vicana, or Thunderbolt) perform best against the respawning adds.",
+ "topics": [
+  "banners",
+  "Tariz",
+  "anniversary",
+  "Mekkatorque",
+  "Thunderbolt",
+  "pull strategy"
+ ],
+ "heroes": [
+  {
+   "name": "Tariz",
+   "verdict": "Skip banner despite strong kit",
+   "note": "A powerful Thunderbolt AoE DPS who applies Gaze (reducing attack and recharge speed by 30%) and Lightning Vulnerability, but his banner is not worth pulling due to upcoming anniversary banners.",
+   "known": true
+  },
+  {
+   "name": "Child of Chaos",
+   "verdict": "Must-save priority",
+   "note": "Upcoming anniversary hero expected in roughly two weeks who will likely require 300 summons to guarantee.",
+   "known": true
+  },
+  {
+   "name": "Alaura",
+   "verdict": "Solid Thunderbolt synergy",
+   "note": "Works exceptionally well paired alongside Tariz and Perkunte in Thunderbolt compositions.",
+   "known": true
+  },
+  {
+   "name": "Perkunte",
+   "verdict": "Solid Thunderbolt synergy",
+   "note": "A primary partner for Tariz and Alaura to maximize Lightning Chain and Lightning Vulnerability damage.",
+   "known": true
+  },
+  {
+   "name": "Philto",
+   "verdict": "Top pick for Mekkatorque Rally",
+   "note": "Tuned to a 2:1 skill ratio, Philto repeatedly snipes and clears the orbs summoned by Mekkatorque.",
+   "known": true
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "High-value selector target",
+   "note": "An exceptional unit worth targeting on the upcoming anniversary selector banners for at least Inspiration 1.",
+   "known": true
+  },
+  {
+   "name": "Talethia",
+   "verdict": "High-value selector target",
+   "note": "Creator aims to reach Inspiration 5 with her exclusive artifact via the upcoming anniversary selector banners.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Otherworld Exploitation (Mekkatorque)",
+   "heroes": [
+    "Philto"
+   ],
+   "note": "Rally composition running Philto on a 2:1 skill rotation to continuously destroy the summoned robot orbs."
+  },
+  {
+   "mode": "Otherworld Exploitation (Mekkatorque)",
+   "heroes": [
+    "Vicana"
+   ],
+   "note": "Poison AoE team designed to deal massive collateral damage to both the boss and its summoned minions."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Skip the Selected Summons II Thunderbolt banner; the non-exclusive legendary pool is weak, and the exclusive heroes will return in upcoming selector banners.",
+  "Save approximately 600 summons for the anniversary event arriving in roughly two weeks to secure Child of Chaos (300 summons) and pull on selector banners.",
+  "Focus on AoE-heavy compositions (Poison with Vicana, Burn, Necrosis, Thunderbolt, or Frost) for the Mekkatorque boss; single-target and Corrosion teams struggle due to continuously respawning orbs."
+ ],
+ "season": "S8",
+ "server_scope": "mixed",
+ "value": "medium",
+ "id": "yVc9XECCX7I",
+ "model": "gemini-3.8-flash",
+ "channel": "Skratch Gaming",
+ "title": "WORTH Pulling On The New Banner?? Dragonheir: Silent Gods x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=yVc9XECCX7I",
+ "short": false,
+ "summarized": "2026-11-04T05:18Z"
+}

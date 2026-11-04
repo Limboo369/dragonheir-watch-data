@@ -1,0 +1,34 @@
+{
+ "summary": "OddOneGaming does an extended summoning session targeting Child of Chaos on the Reversal Summons banner to obtain two copies: one from summons and one from the 300-pull guarantee. After hitting multiple off-banner legendaries near pity, he pulls Child of Chaos around pull 360 and claims his milestone guarantee copy. He demonstrates Child of Chaos's unique ability to change to any element in the game, allowing him to fit into any elemental team.",
+ "topics": [
+  "Reversal Summons",
+  "Child of Chaos",
+  "Hero Element Switch",
+  "Summons"
+ ],
+ "heroes": [
+  {
+   "name": "Child of Chaos",
+   "verdict": "Extremely versatile wildcard hero",
+   "note": "Can switch freely into any element in the game to fit any team archetype, though changing his element unequips any gear mismatched with the new element.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [],
+ "tips": [
+  "Switching Child of Chaos's element automatically unequips any gear that does not match the newly selected element.",
+  "The Reversal Summons banner guarantees a copy of Child of Chaos at 300 summons."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "low",
+ "id": "y7Xy1zxXGf4",
+ "model": "gemini-3.8-flash",
+ "channel": "OddOneGaming RPGs",
+ "title": "💥 I CAN'T BELIEVE IT HAPPENED! 💥ALL IN For Child Of Chaos Copies | Dragonheir x Dragonstridea",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=y7Xy1zxXGf4",
+ "short": false,
+ "summarized": "2026-11-04T05:18Z"
+}
