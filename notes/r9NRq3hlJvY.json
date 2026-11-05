@@ -1,0 +1,123 @@
+{
+ "summary": "This video covers team adjustments, gearing, and skill timings for reaching 19 to 20 billion damage against Arbor Hydra in Temporal Vortex Difficulty 3 at Resonance Level 100. The creator showcases two primary compositions: an exclusive five-hero Dauntless team and a single-healer Toxin team. Gearing strategies emphasize survivability tweaks, including swapping Enlightenment chest pieces for Defense or HP on squishier units like Sleight. He also reviews skill synchronization, ensuring Reytah cleanses debuffs right before the damage dealers trigger their ultimates, and notes that Dauntless now surpasses Aura teams in performance.",
+ "topics": [
+  "Temporal Vortex",
+  "Dauntless Team",
+  "Toxin Team",
+  "Gear Builds",
+  "Skill Timing"
+ ],
+ "heroes": [
+  {
+   "name": "Maashtur",
+   "verdict": "top-tier Dauntless DPS",
+   "note": "Reaching Inspiration 3 is game-changing for his personal output and team impact.",
+   "known": true
+  },
+  {
+   "name": "Selva",
+   "verdict": "core Dauntless support and tank",
+   "note": "Runs a heavy Defense build with the Orb of the Dragon God artifact to sustain the entire team.",
+   "known": true
+  },
+  {
+   "name": "Guinavivre",
+   "verdict": "premier Dauntless DPS",
+   "note": "Serves as the main carry, benefiting heavily from Attack and Crit Damage with ascended gear.",
+   "known": true
+  },
+  {
+   "name": "Nastjenka",
+   "verdict": "essential Dauntless enabler",
+   "note": "Provides offensive boosts and sustained damage alongside Guinavivre.",
+   "known": true
+  },
+  {
+   "name": "Kurvida",
+   "verdict": "core Dauntless member",
+   "note": "Helps the full Dauntless team survive comfortably until the end of the battle.",
+   "known": true
+  },
+  {
+   "name": "Reytah",
+   "verdict": "essential solo Toxin healer",
+   "note": "Requires the Angelic Alliance artifact and precise skill timing to cleanse debuffs before teammates cast ultimates.",
+   "known": true
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "top Toxin DPS",
+   "note": "Deals massive ramping damage over time, scaling exceptionally well with Inspiration 2 and Inspiration 5.",
+   "known": true
+  },
+  {
+   "name": "Sacredeia",
+   "verdict": "strong Toxin enabler",
+   "note": "Shares Accuracy with the team so other poison damage dealers do not have to over-invest in Accuracy gear.",
+   "known": true
+  },
+  {
+   "name": "Sleight",
+   "verdict": "Toxin DPS",
+   "note": "Needs defensive gear adjustments like Defense or HP% chest pieces to avoid dying early in Difficulty 3.",
+   "known": true
+  },
+  {
+   "name": "Twitch",
+   "verdict": "high-damage Toxin DPS",
+   "note": "Built with pure Attack and survivability rather than high Accuracy.",
+   "known": true
+  },
+  {
+   "name": "Stegamoffyn",
+   "verdict": "conditional Toxin debuffer",
+   "note": "Requires Inspiration 2 to reduce his passive interval and Inspiration 5 to be truly viable over alternative picks.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Temporal Vortex Difficulty 3",
+   "heroes": [
+    "Selva",
+    "Maashtur",
+    "Nastjenka",
+    "Guinavivre",
+    "Kurvida"
+   ],
+   "note": "Expensive full-exclusive Dauntless lineup with high survivability that deals massive sustained damage and easily survives the entire encounter."
+  },
+  {
+   "mode": "Temporal Vortex Difficulty 3",
+   "heroes": [
+    "Reytah",
+    "Sleight",
+    "Sacredeia",
+    "Serpentemis",
+    "Twitch"
+   ],
+   "note": "Highest-damage Toxin setup capable of over 10-11 billion on its own, tuned so Reytah cleanses right before ultimates cast."
+  }
+ ],
+ "meta_changes": [
+  "At level 100 with maxed artifacts and ascended gear, the Dauntless composition out-survives and out-damages Aura teams in Temporal Vortex Difficulty 3.",
+  "Toxin remains the highest-damaging archetype in the game for Temporal Vortex, but single-support variants struggle with survivability without defensive gear substitutions."
+ ],
+ "tips": [
+  "Fine-tune Reytah's ultimate timing to cleanse Attack Down and other debuffs right before your DPS heroes cast their ultimates.",
+  "If squishy Toxin DPS like Sleight die before the timer ends, swap out Enlightenment chest armor for HP% or DEF% gear.",
+  "You do not need to target 200+ Accuracy purely on gear rolls if Psychocore nodes and team accuracy buffs (like Sacredeia) cover the requirement.",
+  "Always perform Gear Ascension on your main carries before pushing high-difficulty boss content to maximize base stat bonuses."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "r9NRq3hlJvY",
+ "model": "gemini-3.8-flash",
+ "channel": "Skratch Gaming",
+ "title": "My Updated Temporal Vortex Teams! Season 8 Dragonheir: Silent Gods x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=r9NRq3hlJvY",
+ "short": false,
+ "summarized": "2026-11-05T04:20Z"
+}

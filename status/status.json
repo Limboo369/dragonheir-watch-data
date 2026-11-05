@@ -1,14 +1,14 @@
 {
- "built": "2026-11-05T04:19Z",
+ "built": "2026-11-05T04:20Z",
  "last_fetch": "2026-11-05T04:17Z",
  "counts": {
-  "summarized": 259,
+  "summarized": 260,
   "skipped_giveaway": 17,
   "baseline": 22,
   "new": 345,
   "skipped_live": 1,
   "failed": 2,
-  "retry": 9
+  "retry": 8
  },
  "problems": [
   {
@@ -19,12 +19,6 @@
   },
   {
    "title": "DO THIS TO GET A FREE LEGENDARY!! New Event Dragonheir: Silent Gods x Dragonstride",
-   "channel": "Skratch Gaming",
-   "status": "retry",
-   "error": ""
-  },
-  {
-   "title": "My Updated Temporal Vortex Teams! Season 8 Dragonheir: Silent Gods x Dragonstride",
    "channel": "Skratch Gaming",
    "status": "retry",
    "error": ""
@@ -85,8 +79,6 @@
   "quota_hit": 1793852273.5956132
  },
  "log_tail": [
-  "Gemini quota was full less than an hour ago, trying again next round",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 255 videos, 178 heroes",
   "curl: (56) Recv failure: Connection reset by peer",
   "== 2026-11-05 02:17",
   "fetch done: 0 new transcripts, 0 not available yet",
@@ -164,7 +156,9 @@
   "saved rVWvv4Ex-60",
   "+ Skratch Gaming: PLAN THIS RIGHT!! Rebate Event & Banners Calendar... Dragonh",
   "saved rQ0_GiS1JTg",
-  "+ Gorax: I Went Back Into Option Summons II… and THIS Happened | Drag"
+  "+ Gorax: I Went Back Into Option Summons II… and THIS Happened | Drag",
+  "saved r9NRq3hlJvY",
+  "+ Skratch Gaming: My Updated Temporal Vortex Teams! Season 8 Dragonheir: Silen"
  ],
  "crontab": [],
  "channels": [
