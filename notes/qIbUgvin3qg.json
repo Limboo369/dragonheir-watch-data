@@ -1,0 +1,73 @@
+{
+ "summary": "This video showcases a top-performing Toxin team featuring Lothair against the boss Durem in the Season 8 Continental Challenge. The setup is capable of achieving 1.8B to 2.5B total damage depending on Lothair's inspiration level. Lothair serves as the primary damage dealer, supported by Serpentemis, Sleight, Sacradeia, and Reytah for solo team sustain. The video details gear builds, artifacts, and skill haste timing setups needed to maintain a proper rotation against Durem.",
+ "topics": [
+  "Continental Challenge",
+  "Durem",
+  "Toxin Team",
+  "Lothair"
+ ],
+ "heroes": [
+  {
+   "name": "Lothair",
+   "verdict": "Main DPS",
+   "note": "Primary damage dealer dealing 1.8B+ damage at Inspiration 3 and up to 2.5B at Inspiration 5 when built with high Enlightenment, Attack, Accuracy, and Skill Haste.",
+   "known": true
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "Toxin debuffer / sub-DPS",
+   "note": "Acts as secondary DPS and debuffer using Golden Antlers set with focus on Attack, Accuracy, and Enlightenment stats.",
+   "known": true
+  },
+  {
+   "name": "Sleight",
+   "verdict": "Attack buffer",
+   "note": "Provides massive Attack boosts to the team; built with high Attack stats and requires her exclusive artifact.",
+   "known": true
+  },
+  {
+   "name": "Reytah",
+   "verdict": "Solo sustain support",
+   "note": "Provides full team sustain alone while sharing Accuracy via Mystic Conch, inflicting Attack Penalty, and extending debuffs.",
+   "known": true
+  },
+  {
+   "name": "Sacradeia",
+   "verdict": "Toxin support",
+   "note": "Equipped with Puppeteer set and Angelic Alliance to supply Attack boosts and extra team utility.",
+   "known": false
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Continental Challenge (Durem)",
+   "heroes": [
+    "Serpentemis",
+    "Sleight",
+    "Lothair",
+    "Reytah",
+    "Sacradeia"
+   ],
+   "note": "High-performing Toxin team reaching 1.8B-2.5B damage against Durem using a synchronized ~17.5s skill rotation."
+  }
+ ],
+ "meta_changes": [
+  "Toxin teams centered around Lothair achieve top-tier 1.8B-2.5B damage scores against Durem in Continental Challenge Season 8."
+ ],
+ "tips": [
+  "Aim for a minimum of around 20 Skill Haste on team members to maintain the required ~17.5s rotation cycle.",
+  "Reytah can solo sustain the team if built with high HP, high Accuracy, and equipped with Mystic Conch.",
+  "Ensure Sleight has her exclusive artifact equipped as it is essential for maximizing her Attack boosting capabilities."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "qIbUgvin3qg",
+ "model": "gemini-3.5-flash",
+ "channel": "Neff Gaming",
+ "title": "Lothair DESTROYS Durem! BEST Toxin Team | S8 Continental Challenge | Dragonheir: Silent Gods",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=qIbUgvin3qg",
+ "short": false,
+ "summarized": "2026-11-05T06:19Z"
+}
