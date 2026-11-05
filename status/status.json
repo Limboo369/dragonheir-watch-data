@@ -1,12 +1,12 @@
 {
- "built": "2026-11-05T20:30Z",
+ "built": "2026-11-05T21:10Z",
  "last_fetch": "2026-11-05T20:17Z",
  "counts": {
   "summarized": 276,
   "skipped_giveaway": 17,
   "baseline": 22,
-  "new": 334,
-  "retry": 6,
+  "new": 333,
+  "retry": 7,
   "skipped_live": 1,
   "failed": 2
  },
@@ -58,24 +58,21 @@
    "channel": "Skyasterix Gaming",
    "status": "retry",
    "error": ""
+  },
+  {
+   "title": "ONE Team For All The Challenge Mode Dungeons! Dragonheir: Silent Gods x Dragonstride",
+   "channel": "Skratch Gaming",
+   "status": "retry",
+   "error": ""
   }
  ],
  "budget": {
   "day": "2026-11-05",
-  "seconds": 24994,
+  "seconds": 22594,
   "v2": 1,
-  "quota_hit": 1793910131.148707
+  "quota_hit": 1793910827.175286
  },
  "log_tail": [
-  "! 1.6B+ Corrosion Team vs Durem! Journ - Alternative: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
-  "saved okhvNfjpOsY",
-  "+ Skratch Gaming: Is The Ice Blast Team Strong Enough?? Dragonheir: Silent God",
-  "saved mfvwPOgDD0I",
-  "+ Gorax: I Went All In for Child of Chaos Inspiration 2… Was It Worth",
-  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
-  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
-  "! This Boss Is BROKEN!!! Thunderbolt Vs. Talethia Ch: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 276 videos, 184 heroes",
   "== 2026-11-05 15:17",
   "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
@@ -146,7 +143,16 @@
   "  gemini-3.5-flash: 429, using gemini-3.7-flash",
   "  gemini-3.7-flash: 429, using gemini-3.6-flash",
   "! This Boss Is BROKEN!!! Thunderbolt Vs. Talethia Ch: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
-  "curl: (56) Recv failure: Connection reset by peer"
+  "curl: (56) Recv failure: Connection reset by peer",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
+  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
+  "! 🚨 PEAK BRAWL IS HERE! New Realm Arena Gameplay! | : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
+  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
+  "! ONE Team For All The Challenge Mode Dungeons! Drag: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 276 videos, 184 heroes"
  ],
  "crontab": [],
  "channels": [
