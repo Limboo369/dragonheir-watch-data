@@ -1,0 +1,52 @@
+{
+ "summary": "This video covers the Eve of the Rift event and Faction Wars in Dragonheir: Silent Gods. Creator OddOneGaming advises pulling two copies of Child of Chaos for both the hero and exclusive artifact. He explains how to select top-tier heroes like Felosia or Synarell from the Fated Path Test and provides two active promo codes, including a 24-hour limited quiz code and a creator reward code.",
+ "topics": [
+  "Eve of the Rift",
+  "Faction Wars",
+  "promo codes",
+  "Child of Chaos banner",
+  "Fated Path Test"
+ ],
+ "heroes": [
+  {
+   "name": "Child of Chaos",
+   "verdict": "Must-pull hero",
+   "note": "Recommends pulling two copies to acquire both the hero and his artifact, despite a minor pre-release nerf.",
+   "known": true
+  },
+  {
+   "name": "Felosia",
+   "verdict": "Top Fated Path reward pick",
+   "note": "Obtainable by selecting 'A' answers in the Fated Path Test quiz event.",
+   "known": true
+  },
+  {
+   "name": "Synarell",
+   "verdict": "Top Fated Path reward pick",
+   "note": "Available as a choice alongside Felosia upon completing the Fated Path Test with 'A' answers.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [
+  "Child of Chaos received a slight balance adjustment prior to release but remains exceptionally powerful across all elements."
+ ],
+ "tips": [
+  "Aim for two copies of Child of Chaos to unlock both the hero and his signature artifact.",
+  "Redeem promo code LUMINARY (capitalized) within 24 hours before it expires.",
+  "Redeem promo code Fastidious13 to collect Wyrmarrow, Heliolite Dice, and daily rewards.",
+  "Select option 'A' throughout the web Fated Path Test to get a choice of Felosia or Synarell.",
+  "Log into the Riftbound All-Star Night event page to join the Dark Lady faction and bind your chosen God Envoy and Preacher."
+ ],
+ "season": "S9",
+ "server_scope": "mixed",
+ "value": "medium",
+ "id": "mjobqRzRnkw",
+ "model": "gemini-3.6-flash",
+ "channel": "OddOneGaming RPGs",
+ "title": "💥 FACTION WARS BEGINS! 💥Join My Side FOR THE WIN & Promo Codes | Dragonheir x Dragonstridea",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=mjobqRzRnkw",
+ "short": false,
+ "summarized": "2026-11-05T12:19Z"
+}
