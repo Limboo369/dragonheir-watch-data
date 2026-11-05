@@ -1,0 +1,99 @@
+{
+ "summary": "This video previews the September 1 update adjustments for the Cloudtop Arbor Hydra in Temporal Vortex, which nerfs boss difficulty, tweaks summoned units, and adjusts unbroken damage scaling. Skratch tests an Ice Blast composition against the boss, showing that survivability is the primary issue when using Oggok compared to Anselmo. With Anselmo's damage blocking, the Ice Blast team reaches over 3.1 billion damage even at lower inspiration levels. While high-investment Ice Blast can potentially reach massive numbers (up to 22 billion on Chinese servers), high-end Toxin teams currently dominate with 13 to 17+ billion damage.",
+ "topics": [
+  "Temporal Vortex",
+  "Cloudtop Arbor Hydra",
+  "Ice Blast",
+  "Toxin Team",
+  "Balance Patch Preview"
+ ],
+ "heroes": [
+  {
+   "name": "Anselmo",
+   "verdict": "Essential support for Ice Blast survival",
+   "note": "Provides complete damage blocking and Attack Penalty that allows the Ice Blast team to survive the Hydra's high damage stacks until the end.",
+   "known": true
+  },
+  {
+   "name": "Oggok",
+   "verdict": "Struggles in Cloudtop Arbor Hydra",
+   "note": "Cannot generate enough shielding or sustain to keep the Ice Blast squad alive against the boss's rapid damage scaling.",
+   "known": true
+  },
+  {
+   "name": "Ernesto",
+   "verdict": "Solid frontliner but prone to dying early",
+   "note": "Requires defensive gearing, Angelic Alliance, and healing talents like Recreate to survive the Hydra's assault.",
+   "known": true
+  },
+  {
+   "name": "Stegamoffyn",
+   "verdict": "Surprising top pick in Toxin teams",
+   "note": "Referred to as the 'blueberry muffin,' he provides consistent survivability and utility that lets the Toxin team easily surpass 13 billion damage.",
+   "known": true
+  },
+  {
+   "name": "Beldelle",
+   "verdict": "Core Ice Blast DPS",
+   "note": "Outputs immense damage in Ice Blast teams, reaching top-tier numbers when backed by inspirations.",
+   "known": true
+  },
+  {
+   "name": "Fredegonda",
+   "verdict": "High-scaling Ice Blast support/DPS",
+   "note": "Scales tremendously with Inspiration levels 2 and 5 to skyrocket teamwide Ice Blast burst.",
+   "known": true
+  },
+  {
+   "name": "Shinnah",
+   "verdict": "Core Ice Blast enabler",
+   "note": "Crucial element for Ice Blast generation and maintaining damage consistency.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Temporal Vortex - Cloudtop Arbor Hydra",
+   "heroes": [
+    "Ernesto",
+    "Beldelle",
+    "Fredegonda",
+    "Shinnah",
+    "Anselmo"
+   ],
+   "note": "Ice Blast squad achieving 3.1B+ damage. Anselmo is vital over Oggok to mitigate boss burst; Ernesto uses defensive gear with Angelic Alliance."
+  },
+  {
+   "mode": "Temporal Vortex - Cloudtop Arbor Hydra",
+   "heroes": [
+    "Reytah",
+    "Stegamoffyn",
+    "Serpentemis",
+    "Twitch",
+    "Sleight"
+   ],
+   "note": "Top-performing Toxin lineup capable of dealing 13B to 17.5B+ damage, heavily reliant on Serpentemis and Stegamoffyn's sustain."
+  }
+ ],
+ "meta_changes": [
+  "Temporal Vortex Cloudtop Arbor Hydra difficulty reduced on the Sunlit Side (Diurna).",
+  "Hydra Shaded Side (Nocturna) summoned serpent egg HP increased, with adjusted summoning rules and counts.",
+  "Adjusted the number of times Arbor Hydra must remain unbroken before gaining additional damage bonus stacks."
+ ],
+ "tips": [
+  "Run Anselmo over Oggok if your Ice Blast team is wiping prematurely in Cloudtop Arbor Hydra.",
+  "Switch Ernesto's talent to Recreate (heals HP when an Ice Crystal is consumed) and equip Angelic Alliance to prevent early deaths.",
+  "Stegamoffyn provides outstanding stability in Toxin teams without significantly sacrificing total output."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "okhvNfjpOsY",
+ "model": "gemini-3.8-flash",
+ "channel": "Skratch Gaming",
+ "title": "Is The Ice Blast Team Strong Enough?? Dragonheir: Silent Gods x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=okhvNfjpOsY",
+ "short": false,
+ "summarized": "2026-11-05T14:18Z"
+}

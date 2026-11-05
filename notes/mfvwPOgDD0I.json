@@ -1,0 +1,100 @@
+{
+ "summary": "Gorax pulls on the Reversal Summon banner on his new account to pursue Child of Chaos up to Inspiration 2. At Inspiration 2, Child of Chaos gains a massive boost to healing and passive trigger speed, cementing him as an elite multi-element support. While pulling, Gorax details the pity rules of exclusive banners, noting that the guaranteed pity of 1,000 does not carry between banners. Several pulled legendaries are reviewed, including Sagomir for ultimate energy battery utility, Theodemer for defensive PvP and Fey Meander use, and Ghul'ende for PvP crowd control. Conversely, older champions like Donella are highlighted as outdated due to widespread availability of Healing Prohibition on newer heroes.",
+ "topics": [
+  "Summons",
+  "Child of Chaos",
+  "Reversal Summon",
+  "Hero Review",
+  "Pity Mechanics"
+ ],
+ "heroes": [
+  {
+   "name": "Child of Chaos",
+   "verdict": "Top-tier versatile support",
+   "note": "Can switch elemental affinities freely; reaches massive healing output at Inspiration 2 and tremendous team damage amplification by Inspiration 5.",
+   "known": true
+  },
+  {
+   "name": "Talwer",
+   "verdict": "Instant artifact fodder",
+   "note": "Safely converted directly into artifact essence without worrying about his inspirations.",
+   "known": true
+  },
+  {
+   "name": "Theodemer",
+   "verdict": "Strong defensive tank for PvP and Fey Meander",
+   "note": "Provides Taunt, Defense Up II, and 30% damage reduction, gaining invincibility and debuff block when paired with Feenja.",
+   "known": true
+  },
+  {
+   "name": "Donella",
+   "verdict": "Outdated / Skip",
+   "note": "Her kit was valuable in Season 1 for Healing Prohibition, but numerous modern champions now fulfill that role much better.",
+   "known": true
+  },
+  {
+   "name": "Sagomir",
+   "verdict": "Excellent energy-boosting support",
+   "note": "His passive grants Recovery Over Time and boosts the ultimate energy of the first deployed ally by 20%.",
+   "known": true
+  },
+  {
+   "name": "Ripekas",
+   "verdict": "Decent crowd control and energy drainer",
+   "note": "Effective in Fey Meander when geared with an Hourglass artifact to outspeed enemies, deplete ultimate energy, and inflict Attack Penalty.",
+   "known": true
+  },
+  {
+   "name": "Ghul'ende",
+   "verdict": "Amazing PvP debuffer",
+   "note": "Excels in PvP with Charm, Healing Reduction, Stuns, and Attack Penalty debuffs.",
+   "known": true
+  },
+  {
+   "name": "Maashtur",
+   "verdict": "Essential Dauntless support",
+   "note": "Considered a mandatory support unit for Dauntless team archetypes.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Fey Meander / PvP",
+   "heroes": [
+    "Theodemer",
+    "Feenja"
+   ],
+   "note": "Deploying Theodemer alongside Feenja triggers invincibility and Debuff Block on Theodemer when dropping to 0 HP."
+  },
+  {
+   "mode": "Dungeon Speedrun / Rally",
+   "heroes": [
+    "Sagomir",
+    "Guinavivre",
+    "Thelendor"
+   ],
+   "note": "Positioning Guinavivre or Thelendor as the first deployed ally allows Sagomir's carrot passive to supply 20% ultimate energy immediately."
+  }
+ ],
+ "meta_changes": [
+  "Healing Prohibition is now widespread across many hero kits, making niche Season 1 debuffers like Donella obsolete.",
+  "Exclusive summon banners have an independent 1,000 pity threshold that shifts per pull and does not transfer between banner rotations."
+ ],
+ "tips": [
+  "Do not pull on exclusive banners unless prepared to hit milestones, as accumulated summon pity does not carry over to future banners.",
+  "For Child of Chaos, aiming for Inspiration 2 provides a substantial healing and passive interval upgrade, while Inspiration 4 grants +30 Skill Haste to ease gearing.",
+  "Equip Ripekas with an Hourglass and high speed so he acts before the enemy waves to drain their ultimate energy.",
+  "Position your primary damage dealer or turn-meter dependent hero first on the battlefield when using Sagomir to receive his 20% ultimate energy passive."
+ ],
+ "season": "S1",
+ "server_scope": "S1",
+ "value": "medium",
+ "id": "mfvwPOgDD0I",
+ "model": "gemini-3.8-flash",
+ "channel": "Gorax",
+ "title": "I Went All In for Child of Chaos Inspiration 2… Was It Worth It? | Dragonheir x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=mfvwPOgDD0I",
+ "short": false,
+ "summarized": "2026-11-05T14:18Z"
+}

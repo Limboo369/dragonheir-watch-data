@@ -1,12 +1,12 @@
 {
- "built": "2026-11-05T13:55Z",
- "last_fetch": "2026-11-05T13:17Z",
+ "built": "2026-11-05T14:19Z",
+ "last_fetch": "2026-11-05T14:17Z",
  "counts": {
-  "summarized": 274,
+  "summarized": 276,
   "skipped_giveaway": 17,
   "baseline": 22,
   "new": 333,
-  "retry": 7,
+  "retry": 5,
   "skipped_live": 1,
   "failed": 2
  },
@@ -26,18 +26,6 @@
   {
    "title": "This Boss Is BROKEN!!! Thunderbolt Vs. Talethia Chief Challenge | Dragonheir: Silent Gods",
    "channel": "Skratch Gaming",
-   "status": "retry",
-   "error": ""
-  },
-  {
-   "title": "Is The Ice Blast Team Strong Enough?? Dragonheir: Silent Gods x Dragonstride",
-   "channel": "Skratch Gaming",
-   "status": "retry",
-   "error": ""
-  },
-  {
-   "title": "I Went All In for Child of Chaos Inspiration 2… Was It Worth It? | Dragonheir x Dragonstride",
-   "channel": "Gorax",
    "status": "retry",
    "error": ""
   },
@@ -68,34 +56,11 @@
  ],
  "budget": {
   "day": "2026-11-05",
-  "seconds": 19995,
+  "seconds": 22594,
   "v2": 1,
-  "quota_hit": 1793881277.3925087
+  "quota_hit": 1793888372.4736328
  },
  "log_tail": [
-  "== 2026-11-05 09:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "Gemini quota was full less than an hour ago, trying again next round",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 272 videos, 184 heroes",
-  "== 2026-11-05 10:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "… Skratch Gaming: Is The Ice Blast Team Strong Enough?? Dragonheir: Silent God",
-  "… Gorax: Child of Chaos Got NERFED?! What You Need to Know | DragonHe",
-  "… Skratch Gaming: This Boss Is BROKEN!!! Thunderbolt Vs. Talethia Chief Challe",
-  "… OddOneGaming RPGs: 💥 FACTION WARS BEGINS! 💥Join My Side FOR THE WIN & Promo Cod",
-  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
-  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
-  "… Gorax: I Went All In for Child of Chaos Inspiration 2… Was It Worth",
-  "! 💥 FACTION WARS BEGINS! 💥Join My Side FOR THE WIN &: RemoteProtocolError: Server disconnected without sending a response.",
-  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
-  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
-  "… Fastidious Dragonheir: The Best Way To Summon During The Third Anniversary ft @OddO",
-  "! This Boss Is BROKEN!!! Thunderbolt Vs. Talethia Ch: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
-  "… Gorax: Upcoming Banners Explained! Where Should You Spend Your Dice",
-  "! The Best Way To Summon During The Third Anniversar: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
-  "… Neff Gaming: 1.6B+ Corrosion Team vs Durem! Journ - Alternative Support |",
   "… OddOneGaming RPGs: 💥 HE FINALLY SHINES! 💥750m+ DMG Aura Team vs Joyce S8 GUIDE ",
   "! Upcoming Banners Explained! Where Should You Spend: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
   "! 1.6B+ Corrosion Team vs Durem! Journ - Alternative: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
@@ -152,7 +117,30 @@
   "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "Gemini quota was full less than an hour ago, trying again next round",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 274 videos, 184 heroes"
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 274 videos, 184 heroes",
+  "== 2026-11-05 14:17",
+  "fetch done: 0 new transcripts, 0 not available yet",
+  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
+  "… Skratch Gaming: Is The Ice Blast Team Strong Enough?? Dragonheir: Silent God",
+  "… Skratch Gaming: This Boss Is BROKEN!!! Thunderbolt Vs. Talethia Chief Challe",
+  "… Gorax: I Went All In for Child of Chaos Inspiration 2… Was It Worth",
+  "… Fastidious Dragonheir: The Best Way To Summon During The Third Anniversary ft @OddO",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
+  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
+  "… Gorax: Upcoming Banners Explained! Where Should You Spend Your Dice",
+  "! The Best Way To Summon During The Third Anniversar: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "… Neff Gaming: 1.6B+ Corrosion Team vs Durem! Journ - Alternative Support |",
+  "! Upcoming Banners Explained! Where Should You Spend: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "! 1.6B+ Corrosion Team vs Durem! Journ - Alternative: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "saved okhvNfjpOsY",
+  "+ Skratch Gaming: Is The Ice Blast Team Strong Enough?? Dragonheir: Silent God",
+  "saved mfvwPOgDD0I",
+  "+ Gorax: I Went All In for Child of Chaos Inspiration 2… Was It Worth",
+  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
+  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
+  "! This Boss Is BROKEN!!! Thunderbolt Vs. Talethia Ch: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google."
  ],
  "crontab": [],
  "channels": [
@@ -160,55 +148,55 @@
    "name": "Skratch Gaming",
    "id": "UCoSkzr1pXpt3d0jIxsc6ufw",
    "enabled": true,
-   "checked": "2026-11-05T13:17Z"
+   "checked": "2026-11-05T14:17Z"
   },
   {
    "name": "Gorax",
    "id": "UCNas7BnuOIjDEzY1D53kb1w",
    "enabled": true,
-   "checked": "2026-11-05T13:17Z"
+   "checked": "2026-11-05T14:17Z"
   },
   {
    "name": "Neff Gaming",
    "id": "UCsxs6YhNd_B36RgUAjbpJ_A",
    "enabled": true,
-   "checked": "2026-11-05T13:17Z"
+   "checked": "2026-11-05T14:17Z"
   },
   {
    "name": "Volkin Dragonheir",
    "id": "UCfRpOh_ywVjzhh9fxHbreGw",
    "enabled": true,
-   "checked": "2026-11-05T13:17Z"
+   "checked": "2026-11-05T14:17Z"
   },
   {
    "name": "Fastidious Dragonheir",
    "id": "UC16mpj5wEemSZX-uTlHe9Ww",
    "enabled": true,
-   "checked": "2026-11-05T13:17Z"
+   "checked": "2026-11-05T14:17Z"
   },
   {
    "name": "OddOneGaming RPGs",
    "id": "UC1ivUEf_poI9_R2eVKa8wRQ",
    "enabled": true,
-   "checked": "2026-11-05T13:17Z"
+   "checked": "2026-11-05T14:17Z"
   },
   {
    "name": "Suzi Plays",
    "id": "UCyo1-TkunhGcK6khU1h8Ypw",
    "enabled": true,
-   "checked": "2026-11-05T13:17Z"
+   "checked": "2026-11-05T14:17Z"
   },
   {
    "name": "Skyasterix Gaming",
    "id": "UCr5Gb3910rK7QPmKMmdagsA",
    "enabled": true,
-   "checked": "2026-11-05T13:17Z"
+   "checked": "2026-11-05T14:17Z"
   },
   {
    "name": "liveranov",
    "id": "UCqCR7ofFHhWwXy3Hg00fqEw",
    "enabled": true,
-   "checked": "2026-11-05T13:17Z"
+   "checked": "2026-11-05T14:17Z"
   }
  ]
 }
