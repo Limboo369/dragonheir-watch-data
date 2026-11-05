@@ -1,0 +1,40 @@
+{
+ "summary": "This video highlights a Dragonheir fansite built by community member Fenume that tracks banner history and schedules. The creator showcases how S9 players can use the Banner History & Generator tool to plan their summon resources. Upcoming S9 banners shown include Anneliesis, Selected Summons featuring Holfast, Option Summons, and the New Leaf Summon for Yfeir. The tool also includes hero tier lists, gear databases, and challenge trackers.",
+ "topics": [
+  "fansite",
+  "banner history",
+  "summon banners",
+  "S9 schedule"
+ ],
+ "heroes": [
+  {
+   "name": "Anneliesis",
+   "verdict": "Upcoming banner hero",
+   "note": "Featured in an upcoming S9 summon banner.",
+   "known": true
+  },
+  {
+   "name": "Yfeir",
+   "verdict": "Guaranteed exclusive support",
+   "note": "Featured support hero in the New Leaf Summon banner starting December 8, guaranteed at 300 pulls.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [],
+ "tips": [
+  "Use the Dragonheir fansite banner tracker to plan your summon resources ahead of time for upcoming S9 banners.",
+  "Save up to 300 summons for December 8 if you want to guarantee the exclusive support hero Yfeir."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "dzP-TL4G0Is",
+ "model": "gemini-3.5-flash",
+ "channel": "Neff Gaming",
+ "title": "Never Miss a Summon Banner Again! 🔥 Dragonheir Fansite | Dragonheir: Silent Gods",
+ "published": "2026-11-04T21:15:41+00:00",
+ "url": "https://www.youtube.com/shorts/dzP-TL4G0Is",
+ "short": true,
+ "summarized": "2026-11-05T00:18Z"
+}

@@ -1,0 +1,39 @@
+{
+ "summary": "Anneliesis is a premier Radiance support unit designed to shield, heal, provide energy, and buff her team's main damage dealer. She should be built primarily with HP% gear and high Skill Haste to ensure rapid shield uptime, ultimate charging, and energy generation for Radiance allies. Accuracy is situational depending on whether enemy buff stripping or stuns are needed. Positioning her directly one tile behind your primary DPS grants that hero massive stat buffs at the start of battle.",
+ "topics": [
+  "Anneliesis",
+  "Hero Build",
+  "Support",
+  "Mythic Sets",
+  "Artifacts"
+ ],
+ "heroes": [
+  {
+   "name": "Anneliesis",
+   "verdict": "Essential Radiance Support",
+   "note": "Provides team-wide shields, healing, buff stripping, and energy generation while boosting the bonded main DPS.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [],
+ "tips": [
+  "Build Anneliesis with HP% main stat pieces to increase her baseline durability and support strength.",
+  "Prioritize Skill Haste as her secondary stat to cycle her battle skill faster, granting team shields and Aura Energy for Radiance heroes.",
+  "Build Accuracy on Anneliesis when facing bosses or teams where stripping buffs (like Increased Defense) or landing stuns is required.",
+  "Position Anneliesis 1 tile behind your main DPS to trigger her passive possession, giving the main DPS +20% Max HP, +20% Damage, and +20% Ultimate Energy at battle start.",
+  "Use 1-piece Mythic sets like Devout Prayer (damage buff on shield) or Moonlight's Grace (damage buff on heal) to maximize team offensive output.",
+  "Equip Golden Antlers artifact for long boss encounters like Crisis Bosses to increase damage taken by marked targets over time."
+ ],
+ "season": "S8",
+ "server_scope": "mixed",
+ "value": "high",
+ "id": "gk6u8e-zwLg",
+ "model": "gemini-3.5-flash",
+ "channel": "liveranov",
+ "title": "How to Build Anneliesis | Stats, Mythic Sets & Artifacts | Dragonheir: Silent Gods",
+ "published": "2026-11-04T14:06:02+00:00",
+ "url": "https://www.youtube.com/watch?v=gk6u8e-zwLg",
+ "short": false,
+ "summarized": "2026-11-05T00:17Z"
+}

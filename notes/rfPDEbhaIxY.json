@@ -1,0 +1,44 @@
+{
+ "summary": "Child of Chaos received a balance fix and buff to his battle skill Edict Unfettered. Previously, his passive passive Form Unbound prevented him from receiving standard buffs, which caused him to miss out on the Ethereal effect and left him squishy against AoE damage. As of the September 24 update, Ethereal has been changed from a buff to a special state, allowing Child of Chaos to gain AoE damage immunity. Testing in Temporal Vortex confirms that he now gains Ethereal and Control Immunity, drastically improving his survivability.",
+ "topics": [
+  "Child of Chaos",
+  "hero buff",
+  "Ethereal",
+  "Temporal Vortex"
+ ],
+ "heroes": [
+  {
+   "name": "Child of Chaos",
+   "verdict": "Significantly buffed survivability",
+   "note": "Ethereal was changed from a buff to a special state, allowing him to gain AoE immunity on himself despite his passive.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Temporal Vortex",
+   "heroes": [
+    "Child of Chaos",
+    "Oggok"
+   ],
+   "note": "Team setup used to demonstrate Child of Chaos maintaining Ethereal status and surviving boss AoE attacks."
+  }
+ ],
+ "meta_changes": [
+  "Ethereal effect from Child of Chaos' battle skill Edict Unfettered was reclassified from a standard buff to a special state so that Child of Chaos gains AoE damage immunity."
+ ],
+ "tips": [
+  "Re-evaluate Child of Chaos in team comps for AoE-heavy content as he no longer dies easily to splash damage."
+ ],
+ "season": "S8",
+ "server_scope": "mixed",
+ "value": "medium",
+ "id": "rfPDEbhaIxY",
+ "model": "gemini-3.5-flash",
+ "channel": "Gorax",
+ "title": "Child of Chaos Got an UNEXPECTED Buff! | Dragonheir x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=rfPDEbhaIxY",
+ "short": false,
+ "summarized": "2026-11-05T00:18Z"
+}

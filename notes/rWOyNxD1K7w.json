@@ -1,0 +1,78 @@
+{
+ "summary": "This beginner guide for Dragonheir Season 1 Temporal Vortex explains boss mechanics, skill timing setups, and team compositions. Gorax demonstrates how a free-to-play friendly Frost team can achieve over 3 million damage and reach S rank (1M damage required) without spending skill scrolls recklessly. The guide details how boss skills occur on a fixed 20-second cycle and how to adjust first cast and recast times for supports to mitigate heavy single-target and AoE damage.",
+ "topics": [
+  "Temporal Vortex",
+  "Beginner Guide",
+  "Skill Timing",
+  "Frost Team"
+ ],
+ "heroes": [
+  {
+   "name": "Torrin",
+   "verdict": "Essential F2P support hero",
+   "note": "Provides healing and debuff immunity; position him behind your main tank to maintain survivability.",
+   "known": true
+  },
+  {
+   "name": "Synarell",
+   "verdict": "Strong tank and support option",
+   "note": "Built with high max HP to draw the boss's single-target attack and provide team invincibility.",
+   "known": true
+  },
+  {
+   "name": "Felosia",
+   "verdict": "Viable replacement for Synarell",
+   "note": "Can replace Synarell in Temporal Vortex, though skill timing numbers will need adjustment.",
+   "known": true
+  },
+  {
+   "name": "Rava",
+   "verdict": "Key debuffer in F2P Frost teams",
+   "note": "Equipped with Defense Penalty artifacts like Witch's Remains to boost team damage.",
+   "known": true
+  },
+  {
+   "name": "Olgan",
+   "verdict": "Solid F2P Frost hero",
+   "note": "Provides steady Frost synergy and Attack buffs to amplify overall team DPS.",
+   "known": true
+  },
+  {
+   "name": "Usha",
+   "verdict": "Excellent F2P main damage dealer",
+   "note": "Serves as primary damage dealer; prioritize Crit Rate, Crit Damage, and Attack stats.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Temporal Vortex",
+   "heroes": [
+    "Synarell",
+    "Torrin",
+    "Rava",
+    "Olgan",
+    "Usha"
+   ],
+   "note": "Beginner F2P Frost team using two supports (tank + healer) and three DPS/debuff heroes with 20-second recast skill timings."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Take advantage of free skill resets available during the first 7 days of a new server, but watch the timer so you do not lose skill scrolls.",
+  "Ensure your tank hero has the highest max HP on the team to absorb the boss's high single-target 'Call of Lightning' attack.",
+  "Align support hero ultimate recast times to 20 seconds to synchronize invincibility and immunity with the boss's fixed attack loop.",
+  "Utilize 10 daily combat simulations to test gear tweaks and skill timing adjustments without consuming official battle attempts."
+ ],
+ "season": "S1",
+ "server_scope": "S1",
+ "value": "high",
+ "id": "rWOyNxD1K7w",
+ "model": "gemini-3.5-flash",
+ "channel": "Gorax",
+ "title": "Temporal Vortex Explained - Everything You Need to Know! | Beginner Series | Dragonheir",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=rWOyNxD1K7w",
+ "short": false,
+ "summarized": "2026-11-05T00:18Z"
+}

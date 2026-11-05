@@ -1,0 +1,58 @@
+{
+ "summary": "Skratch tests the exclusive hero Child of Chaos in both Temporal Vortex and Grave of Venom speedruns. In Temporal Vortex, replacing Reytah with Child of Chaos reduced overall team survival and damage score from 24.9B to 19.1B. However, in Grave of Venom 20 speedruns, Child of Chaos enabled a record 6-second clear time thanks to his exclusive artifact damage buff. The creator recommends obtaining a base copy of Child of Chaos due to his limited availability, but cautions against chasing high inspiration levels.",
+ "topics": [
+  "Child of Chaos",
+  "Temporal Vortex",
+  "Grave of Venom",
+  "Speedrun",
+  "Hero Review"
+ ],
+ "heroes": [
+  {
+   "name": "Child of Chaos",
+   "verdict": "Top tier for speedruns, mediocre Vortex survival replacement",
+   "note": "Provides incredible damage amplification for speedruns via his exclusive artifact, but requires high inspirations and skill haste to offer sufficient team survival in long Vortex fights.",
+   "known": true
+  },
+  {
+   "name": "Reytah",
+   "verdict": "GOAT support for Temporal Vortex",
+   "note": "Outperforms uninspired Child of Chaos in team sustain, allowing teams to survive the full duration in Temporal Vortex for maximum score.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Grave of Venom 20",
+   "heroes": [
+    "Child of Chaos"
+   ],
+   "note": "Replaced Lothair in the Toxin speedrun team to achieve a 6-second completion time."
+  },
+  {
+   "mode": "Temporal Vortex",
+   "heroes": [
+    "Reytah",
+    "Anselmo"
+   ],
+   "note": "Achieved 24.9B damage by surviving until the end of the battle."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Secure a base copy of Child of Chaos during his banner as he is a limited exclusive hero like Anneliesis.",
+  "Avoid pulling past 300 summons for inspirations unless you are a heavy spender due to high mercy thresholds.",
+  "Gear Child of Chaos with high Skill Haste to decrease his battle skill rotation time."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "rhHU4zGHbqs",
+ "model": "gemini-3.5-flash",
+ "channel": "Skratch Gaming",
+ "title": "Child Of Chaos Showcase | Is He Still Insane After The Changes? Dragonheir: Silent Gods",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=rhHU4zGHbqs",
+ "short": false,
+ "summarized": "2026-11-05T00:18Z"
+}

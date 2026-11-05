@@ -1,0 +1,36 @@
+{
+ "summary": "Skratch previews the upcoming Dragonheir: Silent Gods 3rd Anniversary event, Faction Wars, featuring a battle between the Child of Chaos and The Dark Lady factions. Players can bind their main account to a creator (God Envoy) and Preacher starting September 15th to earn lottery draws and rewards. The event introduces Child of Chaos, the first hero in the game capable of switching through all elemental affinities. Participation is limited to one account, so players are advised to register using their primary active account. Final rewards and lottery draws will be distributed based on faction victory and creator rankings from September 29th to October 5th.",
+ "topics": [
+  "3rd Anniversary",
+  "Faction Wars",
+  "Child of Chaos",
+  "Event Preview"
+ ],
+ "heroes": [
+  {
+   "name": "Child of Chaos",
+   "verdict": "First hero with Element Switch Mechanic",
+   "note": "First character capable of swapping through all elemental affinities.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [
+  "Introduction of the Element Switch Mechanic allowing heroes to change elemental affinities."
+ ],
+ "tips": [
+  "Participate in the Faction Wars event using your primary active account, as each account can only enter once.",
+  "Coordinate with your creator and clanmates to join the winning faction to secure higher prize pool rewards."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "rOmZnLZPpGk",
+ "model": "gemini-3.5-flash",
+ "channel": "Skratch Gaming",
+ "title": "GET READY!! The 3rd Anniversary Brings a NEW Event... Dragonheir: Silent Gods x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=rOmZnLZPpGk",
+ "short": false,
+ "summarized": "2026-11-05T00:19Z"
+}
