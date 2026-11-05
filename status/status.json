@@ -1,6 +1,6 @@
 {
- "built": "2026-11-05T10:53Z",
- "last_fetch": "2026-11-05T10:17Z",
+ "built": "2026-11-05T11:24Z",
+ "last_fetch": "2026-11-05T11:17Z",
  "counts": {
   "summarized": 273,
   "skipped_giveaway": 17,
@@ -79,11 +79,6 @@
   "quota_hit": 1793874230.9162552
  },
  "log_tail": [
-  "… Gorax: Pick GORAX as Your God's Envoy! | Faction War | Dragonheir x",
-  "saved qKmvS6E0Kg0",
-  "+ Gorax: Day 6 Brings BIG Account Progress! | Beginner Series | Drago",
-  "  gemini-3.8-flash: 503, using gemini-3.5-flash",
-  "  gemini-3.8-flash: 503, using gemini-3.5-flash",
   "… Gorax: Best Toxin Teams for Temporal Vortex + Team Codes | Dragonhe",
   "saved prXBsnITA2o",
   "+ Gorax: Pick GORAX as Your God's Envoy! | Faction War | Dragonheir x",
@@ -158,6 +153,11 @@
   "  gemini-3.5-flash: 429, using gemini-3.7-flash",
   "  gemini-3.7-flash: 429, using gemini-3.6-flash",
   "! Is The Ice Blast Team Strong Enough?? Dragonheir: : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 273 videos, 184 heroes",
+  "== 2026-11-05 11:17",
+  "fetch done: 0 new transcripts, 0 not available yet",
+  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
+  "Gemini quota was full less than an hour ago, trying again next round",
   "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 273 videos, 184 heroes"
  ],
  "crontab": [],
@@ -166,55 +166,55 @@
    "name": "Skratch Gaming",
    "id": "UCoSkzr1pXpt3d0jIxsc6ufw",
    "enabled": true,
-   "checked": "2026-11-05T10:17Z"
+   "checked": "2026-11-05T11:17Z"
   },
   {
    "name": "Gorax",
    "id": "UCNas7BnuOIjDEzY1D53kb1w",
    "enabled": true,
-   "checked": "2026-11-05T10:17Z"
+   "checked": "2026-11-05T11:17Z"
   },
   {
    "name": "Neff Gaming",
    "id": "UCsxs6YhNd_B36RgUAjbpJ_A",
    "enabled": true,
-   "checked": "2026-11-05T10:17Z"
+   "checked": "2026-11-05T11:17Z"
   },
   {
    "name": "Volkin Dragonheir",
    "id": "UCfRpOh_ywVjzhh9fxHbreGw",
    "enabled": true,
-   "checked": "2026-11-05T10:17Z"
+   "checked": "2026-11-05T11:17Z"
   },
   {
    "name": "Fastidious Dragonheir",
    "id": "UC16mpj5wEemSZX-uTlHe9Ww",
    "enabled": true,
-   "checked": "2026-11-05T10:17Z"
+   "checked": "2026-11-05T11:17Z"
   },
   {
    "name": "OddOneGaming RPGs",
    "id": "UC1ivUEf_poI9_R2eVKa8wRQ",
    "enabled": true,
-   "checked": "2026-11-05T10:17Z"
+   "checked": "2026-11-05T11:17Z"
   },
   {
    "name": "Suzi Plays",
    "id": "UCyo1-TkunhGcK6khU1h8Ypw",
    "enabled": true,
-   "checked": "2026-11-05T10:17Z"
+   "checked": "2026-11-05T11:17Z"
   },
   {
    "name": "Skyasterix Gaming",
    "id": "UCr5Gb3910rK7QPmKMmdagsA",
    "enabled": true,
-   "checked": "2026-11-05T10:17Z"
+   "checked": "2026-11-05T11:17Z"
   },
   {
    "name": "liveranov",
    "id": "UCqCR7ofFHhWwXy3Hg00fqEw",
    "enabled": true,
-   "checked": "2026-11-05T10:17Z"
+   "checked": "2026-11-05T11:17Z"
   }
  ]
 }
