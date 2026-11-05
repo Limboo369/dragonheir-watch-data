@@ -1,5 +1,5 @@
 {
- "built": "2026-11-05T12:21Z",
+ "built": "2026-11-05T12:55Z",
  "last_fetch": "2026-11-05T12:17Z",
  "counts": {
   "summarized": 274,
@@ -73,7 +73,6 @@
   "quota_hit": 1793881277.3925087
  },
  "log_tail": [
-  "saved p4yyCNnEwa4",
   "+ Skratch Gaming: WATCH THIS Before You Forge Your Gear!! Dragonheir: Silent G",
   "  gemini-3.5-flash: 429, using gemini-3.7-flash",
   "  gemini-3.7-flash: 429, using gemini-3.6-flash",
@@ -152,7 +151,8 @@
   "  gemini-3.8-flash: 429, using gemini-3.5-flash",
   "  gemini-3.5-flash: 429, using gemini-3.7-flash",
   "  gemini-3.7-flash: 429, using gemini-3.6-flash",
-  "! Is The Ice Blast Team Strong Enough?? Dragonheir: : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google."
+  "! Is The Ice Blast Team Strong Enough?? Dragonheir: : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 274 videos, 184 heroes"
  ],
  "crontab": [],
  "channels": [
