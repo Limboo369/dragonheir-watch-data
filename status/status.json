@@ -1,14 +1,14 @@
 {
- "built": "2026-11-05T01:57Z",
- "last_fetch": "2026-11-05T01:17Z",
+ "built": "2026-11-05T02:19Z",
+ "last_fetch": "2026-11-05T02:17Z",
  "counts": {
-  "summarized": 255,
+  "summarized": 256,
   "skipped_giveaway": 17,
   "baseline": 22,
-  "new": 353,
+  "new": 346,
   "skipped_live": 1,
   "failed": 2,
-  "retry": 5
+  "retry": 11
  },
  "problems": [
   {
@@ -30,8 +30,50 @@
    "error": ""
   },
   {
+   "title": "WATCH THIS Before You Forge Your Gear!! Dragonheir: Silent Gods x Dragonstride",
+   "channel": "Skratch Gaming",
+   "status": "retry",
+   "error": ""
+  },
+  {
    "title": "I Went Back Into Option Summons II… and THIS Happened | Dragonheir x Dragonstride",
    "channel": "Gorax",
+   "status": "retry",
+   "error": ""
+  },
+  {
+   "title": "Best Toxin Teams for Temporal Vortex + Team Codes | Dragonheir x Dragonstride",
+   "channel": "Gorax",
+   "status": "retry",
+   "error": ""
+  },
+  {
+   "title": "Day 6 Brings BIG Account Progress! | Beginner Series | Dragonheir x Dragonstride",
+   "channel": "Gorax",
+   "status": "retry",
+   "error": ""
+  },
+  {
+   "title": "Pick GORAX as Your God's Envoy! | Faction War | Dragonheir x Dragonstride",
+   "channel": "Gorax",
+   "status": "retry",
+   "error": ""
+  },
+  {
+   "title": "Lothair DESTROYS Durem! BEST Toxin Team | S8 Continental Challenge | Dragonheir: Silent Gods",
+   "channel": "Neff Gaming",
+   "status": "retry",
+   "error": ""
+  },
+  {
+   "title": "💥 IT'S ALMOST HERE! 💥Child Of Chaos Banner SOON & Calendar Breakdown | Dragonheir x Dragonstride",
+   "channel": "OddOneGaming RPGs",
+   "status": "retry",
+   "error": ""
+  },
+  {
+   "title": "START NOW & Get All 3 Legendary Heroes! ❄️ BIG THINGS ARE COMING! 🔥 Dragonheir x Dragonstride",
+   "channel": "Suzi Plays",
    "status": "retry",
    "error": ""
   },
@@ -46,60 +88,15 @@
    "channel": "Skyasterix Gaming",
    "status": "failed",
    "error": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}"
-  },
-  {
-   "title": "DON'T FORGE RANDOMLY! ⚒️ Follow This Strategy | Dragonheir: Silent Gods",
-   "channel": "Neff Gaming",
-   "status": "retry",
-   "error": ""
   }
  ],
  "budget": {
   "day": "2026-11-05",
-  "seconds": 5816,
+  "seconds": 7016,
   "v2": 1,
-  "quota_hit": 1793837993.987857
+  "quota_hit": 1793845166.6309907
  },
  "log_tail": [
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (446 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 248 videos, 177 heroes",
-  "== 2026-11-04 20:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (446 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 248 videos, 177 heroes",
-  "== 2026-11-04 21:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (446 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 248 videos, 177 heroes",
-  "== 2026-11-04 22:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (446 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 248 videos, 177 heroes",
-  "== 2026-11-04 23:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (446 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 248 videos, 177 heroes",
-  "mv: cannot stat '.channels.json.new': No such file or directory",
-  "mv: cannot stat '.backlog.json.new': No such file or directory",
-  "mv: cannot stat '.web.py.new': No such file or directory",
-  "== 2026-11-05 00:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "… Neff Gaming: Never Miss a Summon Banner Again! 🔥 Dragonheir Fansite | Dra",
-  "… Neff Gaming: DON'T FORGE RANDOMLY! ⚒️ Follow This Strategy | Dragonheir: ",
-  "… liveranov: Anneliesis Returns November 8! ⚔️ 300 Summons for the Lord o",
-  "… liveranov: How to Build Anneliesis | Stats, Mythic Sets & Artifacts | D",
-  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
-  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
-  "… Skratch Gaming: Child Of Chaos Showcase | Is He Still Insane After The Chang",
-  "saved zFOeZDFv0Q8",
-  "+ liveranov: Anneliesis Returns November 8! ⚔️ 300 Summons for the Lord o",
   "… Gorax: Child of Chaos Got an UNEXPECTED Buff! | Dragonheir x Dragon",
   "saved gk6u8e-zwLg",
   "+ liveranov: How to Build Anneliesis | Stats, Mythic Sets & Artifacts | D",
@@ -140,7 +137,46 @@
   "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "Gemini quota was full less than an hour ago, trying again next round",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 255 videos, 178 heroes"
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 255 videos, 178 heroes",
+  "curl: (56) Recv failure: Connection reset by peer",
+  "== 2026-11-05 02:17",
+  "fetch done: 0 new transcripts, 0 not available yet",
+  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
+  "… Neff Gaming: DON'T FORGE RANDOMLY! ⚒️ Follow This Strategy | Dragonheir: ",
+  "… Skratch Gaming: PLAN THIS RIGHT!! Rebate Event & Banners Calendar... Dragonh",
+  "… Gorax: I Went Back Into Option Summons II… and THIS Happened | Drag",
+  "… Skyasterix Gaming: 🔥 Season 9 IS HERE! 3 NEW DPS HEROES Revealed – Corrosion, S",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
+  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
+  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
+  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
+  "… Skratch Gaming: My Updated Temporal Vortex Teams! Season 8 Dragonheir: Silen",
+  "! 🔥 Season 9 IS HERE! 3 NEW DPS HEROES Revealed – Co: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "… Suzi Plays: START NOW & Get All 3 Legendary Heroes! ❄️ BIG THINGS ARE CO",
+  "! I Went Back Into Option Summons II… and THIS Happe: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "… Gorax: Day 6 Brings BIG Account Progress! | Beginner Series | Drago",
+  "! My Updated Temporal Vortex Teams! Season 8 Dragonh: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "… Neff Gaming: Lothair DESTROYS Durem! BEST Toxin Team | S8 Continental Cha",
+  "! Day 6 Brings BIG Account Progress! | Beginner Seri: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "… OddOneGaming RPGs: 💥 IT'S ALMOST HERE! 💥Child Of Chaos Banner SOON & Calendar B",
+  "! START NOW & Get All 3 Legendary Heroes! ❄️ BIG THI: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "… Gorax: Pick GORAX as Your God's Envoy! | Faction War | Dragonheir x",
+  "! Lothair DESTROYS Durem! BEST Toxin Team | S8 Conti: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "… Gorax: Best Toxin Teams for Temporal Vortex + Team Codes | Dragonhe",
+  "! 💥 IT'S ALMOST HERE! 💥Child Of Chaos Banner SOON & : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "… Skratch Gaming: WATCH THIS Before You Forge Your Gear!! Dragonheir: Silent G",
+  "! Pick GORAX as Your God's Envoy! | Faction War | Dr: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "! Best Toxin Teams for Temporal Vortex + Team Codes : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "! WATCH THIS Before You Forge Your Gear!! Dragonheir: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "saved Kyc5dGaAR7o",
+  "+ Neff Gaming: DON'T FORGE RANDOMLY! ⚒️ Follow This Strategy | Dragonheir: ",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
+  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
+  "! PLAN THIS RIGHT!! Rebate Event & Banners Calendar.: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google."
  ],
  "crontab": [],
  "channels": [
@@ -148,55 +184,55 @@
    "name": "Skratch Gaming",
    "id": "UCoSkzr1pXpt3d0jIxsc6ufw",
    "enabled": true,
-   "checked": "2026-11-05T01:17Z"
+   "checked": "2026-11-05T02:17Z"
   },
   {
    "name": "Gorax",
    "id": "UCNas7BnuOIjDEzY1D53kb1w",
    "enabled": true,
-   "checked": "2026-11-05T01:17Z"
+   "checked": "2026-11-05T02:17Z"
   },
   {
    "name": "Neff Gaming",
    "id": "UCsxs6YhNd_B36RgUAjbpJ_A",
    "enabled": true,
-   "checked": "2026-11-05T01:17Z"
+   "checked": "2026-11-05T02:17Z"
   },
   {
    "name": "Volkin Dragonheir",
    "id": "UCfRpOh_ywVjzhh9fxHbreGw",
    "enabled": true,
-   "checked": "2026-11-05T01:17Z"
+   "checked": "2026-11-05T02:17Z"
   },
   {
    "name": "Fastidious Dragonheir",
    "id": "UC16mpj5wEemSZX-uTlHe9Ww",
    "enabled": true,
-   "checked": "2026-11-05T01:17Z"
+   "checked": "2026-11-05T02:17Z"
   },
   {
    "name": "OddOneGaming RPGs",
    "id": "UC1ivUEf_poI9_R2eVKa8wRQ",
    "enabled": true,
-   "checked": "2026-11-05T01:17Z"
+   "checked": "2026-11-05T02:17Z"
   },
   {
    "name": "Suzi Plays",
    "id": "UCyo1-TkunhGcK6khU1h8Ypw",
    "enabled": true,
-   "checked": "2026-11-05T01:17Z"
+   "checked": "2026-11-05T02:17Z"
   },
   {
    "name": "Skyasterix Gaming",
    "id": "UCr5Gb3910rK7QPmKMmdagsA",
    "enabled": true,
-   "checked": "2026-11-05T01:17Z"
+   "checked": "2026-11-05T02:17Z"
   },
   {
    "name": "liveranov",
    "id": "UCqCR7ofFHhWwXy3Hg00fqEw",
    "enabled": true,
-   "checked": "2026-11-05T01:17Z"
+   "checked": "2026-11-05T02:17Z"
   }
  ]
 }

@@ -1,0 +1,86 @@
+{
+ "summary": "This video previews Chinese server team setups and gear strategies for the upcoming Piece of Treasury crafting event. For Dauntless teams, prioritizing a Crit Damage piece is the safest bet across heroes like Guinavivre, Nastjenka, and Scaarr to stack target damage amplification bonuses. Corrosion teams featuring Szecedith, Rook, and Rhyviel follow similar gear building rules focused on Crit Rate, Crit Damage, and Skill Haste.",
+ "topics": [
+  "Piece of Treasury",
+  "Gear Crafting",
+  "Dauntless",
+  "Corrosion",
+  "Chinese Server Meta"
+ ],
+ "heroes": [
+  {
+   "name": "Guinavivre",
+   "verdict": "Core Dauntless DPS",
+   "note": "Performs best with Crit Damage gear and items like Precise Carnage to amplify team damage.",
+   "known": true
+  },
+  {
+   "name": "Nastjenka",
+   "verdict": "Dauntless Team Option",
+   "note": "Shares the same Crit Damage gear set setup to enable 3-piece team damage boosts.",
+   "known": true
+  },
+  {
+   "name": "Scaarr",
+   "verdict": "Dauntless Team Option",
+   "note": "Fills the third slot in the 3-piece set setup to max out target damage increase.",
+   "known": true
+  },
+  {
+   "name": "Szecedith",
+   "verdict": "Corrosion Core",
+   "note": "Uses identical Crit Damage gear pieces as Guinavivre in Corrosion builds.",
+   "known": true
+  },
+  {
+   "name": "Rook",
+   "verdict": "Corrosion DPS",
+   "note": "Requires Crit Damage gear pieces while prioritizing Crit Rate, Crit Damage, and Skill Haste.",
+   "known": true
+  },
+  {
+   "name": "Rhyviel",
+   "verdict": "New Corrosion Hero",
+   "note": "Built similarly to Guinavivre with Crit Damage gear setups.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Boss / Guild Boss",
+   "heroes": [
+    "Guinavivre",
+    "Nastjenka",
+    "Scaarr"
+   ],
+   "note": "Dauntless composition running 3 pieces of the damage-amplifying gear set for a total 24% damage increase."
+  },
+  {
+   "mode": "Boss / Guild Boss",
+   "heroes": [
+    "Szecedith",
+    "Rook",
+    "Rhyviel"
+   ],
+   "note": "Corrosion composition using matching gear sets to maximize Crit Damage and Skill Haste."
+  }
+ ],
+ "meta_changes": [
+  "Chinese server top meta favors 3-piece synergy gear sets for Dauntless and Corrosion teams in Piece of Treasury crafting."
+ ],
+ "tips": [
+  "Crafting a Crit Damage main stat item during the Piece of Treasury event is the safest long-term choice.",
+  "Equip 3 pieces of the target-amplification gear set across 3 team members to get the full 24% damage increase."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "Kyc5dGaAR7o",
+ "model": "gemini-3.5-flash",
+ "channel": "Neff Gaming",
+ "title": "DON'T FORGE RANDOMLY! ⚒️ Follow This Strategy | Dragonheir: Silent Gods",
+ "published": "2026-11-04T20:16:48+00:00",
+ "url": "https://www.youtube.com/shorts/Kyc5dGaAR7o",
+ "short": true,
+ "summarized": "2026-11-05T02:18Z"
+}
