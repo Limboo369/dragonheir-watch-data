@@ -1,14 +1,14 @@
 {
- "built": "2026-11-05T07:51Z",
- "last_fetch": "2026-11-05T07:17Z",
+ "built": "2026-11-05T08:22Z",
+ "last_fetch": "2026-11-05T08:17Z",
  "counts": {
-  "summarized": 261,
+  "summarized": 262,
   "skipped_giveaway": 17,
   "baseline": 22,
-  "new": 341,
+  "new": 342,
   "skipped_live": 1,
   "failed": 2,
-  "retry": 11
+  "retry": 10
  },
  "problems": [
   {
@@ -43,12 +43,6 @@
   },
   {
    "title": "Best Toxin Teams for Temporal Vortex + Team Codes | Dragonheir x Dragonstride",
-   "channel": "Gorax",
-   "status": "retry",
-   "error": ""
-  },
-  {
-   "title": "Day 6 Brings BIG Account Progress! | Beginner Series | Dragonheir x Dragonstride",
    "channel": "Gorax",
    "status": "retry",
    "error": ""
@@ -92,22 +86,11 @@
  ],
  "budget": {
   "day": "2026-11-05",
-  "seconds": 11064,
+  "seconds": 19631,
   "v2": 1,
   "quota_hit": 1793859567.0405931
  },
  "log_tail": [
-  "… Skratch Gaming: My Updated Temporal Vortex Teams! Season 8 Dragonheir: Silen",
-  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
-  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
-  "… Suzi Plays: START NOW & Get All 3 Legendary Heroes! ❄️ BIG THINGS ARE CO",
-  "saved rDHctaOAVEA (unknown hero names: Seonis, Leviel)",
-  "+ Skyasterix Gaming: 🔥 Season 9 IS HERE! 3 NEW DPS HEROES Revealed – Corrosion, S",
-  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
-  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
-  "… Gorax: Day 6 Brings BIG Account Progress! | Beginner Series | Drago",
-  "! START NOW & Get All 3 Legendary Heroes! ❄️ BIG THI: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
-  "… Neff Gaming: Lothair DESTROYS Durem! BEST Toxin Team | S8 Continental Cha",
   "! Day 6 Brings BIG Account Progress! | Beginner Seri: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
   "… OddOneGaming RPGs: 💥 IT'S ALMOST HERE! 💥Child Of Chaos Banner SOON & Calendar B",
   "! Lothair DESTROYS Durem! BEST Toxin Team | S8 Conti: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
@@ -176,7 +159,18 @@
   "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "Gemini quota was full less than an hour ago, trying again next round",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 261 videos, 182 heroes"
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 261 videos, 182 heroes",
+  "curl: (56) Recv failure: Connection reset by peer",
+  "== 2026-11-05 08:17",
+  "fetch done: 0 new transcripts, 0 not available yet",
+  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
+  "… Gorax: Halloween Giveaway Winners Announced! Check If You Won | Dra",
+  "… Suzi Plays: START NOW & Get All 3 Legendary Heroes! ❄️ BIG THINGS ARE CO",
+  "… Gorax: Day 6 Brings BIG Account Progress! | Beginner Series | Drago",
+  "… OddOneGaming RPGs: 💥 IT'S ALMOST HERE! 💥Child Of Chaos Banner SOON & Calendar B",
+  "… Gorax: Pick GORAX as Your God's Envoy! | Faction War | Dragonheir x",
+  "saved qKmvS6E0Kg0",
+  "+ Gorax: Day 6 Brings BIG Account Progress! | Beginner Series | Drago"
  ],
  "crontab": [],
  "channels": [
@@ -184,55 +178,55 @@
    "name": "Skratch Gaming",
    "id": "UCoSkzr1pXpt3d0jIxsc6ufw",
    "enabled": true,
-   "checked": "2026-11-05T07:17Z"
+   "checked": "2026-11-05T08:17Z"
   },
   {
    "name": "Gorax",
    "id": "UCNas7BnuOIjDEzY1D53kb1w",
    "enabled": true,
-   "checked": "2026-11-05T07:17Z"
+   "checked": "2026-11-05T08:17Z"
   },
   {
    "name": "Neff Gaming",
    "id": "UCsxs6YhNd_B36RgUAjbpJ_A",
    "enabled": true,
-   "checked": "2026-11-05T07:17Z"
+   "checked": "2026-11-05T08:17Z"
   },
   {
    "name": "Volkin Dragonheir",
    "id": "UCfRpOh_ywVjzhh9fxHbreGw",
    "enabled": true,
-   "checked": "2026-11-05T07:17Z"
+   "checked": "2026-11-05T08:17Z"
   },
   {
    "name": "Fastidious Dragonheir",
    "id": "UC16mpj5wEemSZX-uTlHe9Ww",
    "enabled": true,
-   "checked": "2026-11-05T07:17Z"
+   "checked": "2026-11-05T08:17Z"
   },
   {
    "name": "OddOneGaming RPGs",
    "id": "UC1ivUEf_poI9_R2eVKa8wRQ",
    "enabled": true,
-   "checked": "2026-11-05T07:17Z"
+   "checked": "2026-11-05T08:17Z"
   },
   {
    "name": "Suzi Plays",
    "id": "UCyo1-TkunhGcK6khU1h8Ypw",
    "enabled": true,
-   "checked": "2026-11-05T07:17Z"
+   "checked": "2026-11-05T08:17Z"
   },
   {
    "name": "Skyasterix Gaming",
    "id": "UCr5Gb3910rK7QPmKMmdagsA",
    "enabled": true,
-   "checked": "2026-11-05T07:17Z"
+   "checked": "2026-11-05T08:17Z"
   },
   {
    "name": "liveranov",
    "id": "UCqCR7ofFHhWwXy3Hg00fqEw",
    "enabled": true,
-   "checked": "2026-11-05T07:17Z"
+   "checked": "2026-11-05T08:17Z"
   }
  ]
 }

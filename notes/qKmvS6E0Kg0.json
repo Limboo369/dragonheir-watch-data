@@ -1,0 +1,58 @@
+{
+ "summary": "This Day 6 progression guide covers essential account goals to achieve during the early game. Key priorities include pushing Fey Meander speedrunning to stage 180 for daily affinity rewards and upgrading Psychicore with an emphasis on Attack over HP. Players should avoid wasting excess stamina on Goblin Lair once reaching level 70-74, and instead spend stamina to clear Grave of Venom up to stage 14 and Heretical Ruins up to stage 9. Setting up a high-performing Serpentemis/Toxin composition allows players to push dungeons early and tackle Temporal Vortex effectively.",
+ "topics": [
+  "Day 6 Progression",
+  "Fey Meander",
+  "Psychicore",
+  "Stamina Management",
+  "Grave of Venom",
+  "Heretical Ruins",
+  "Temporal Vortex",
+  "Familiars"
+ ],
+ "heroes": [
+  {
+   "name": "Serpentemis",
+   "verdict": "Core progression carry",
+   "note": "Serves as the main carry for Toxin compositions to clear Fey Meander, Grave of Venom, and Fallen Shadow Spire.",
+   "known": true
+  },
+  {
+   "name": "Child of Chaos",
+   "verdict": "Testing candidate",
+   "note": "Planned for testing at Inspiration 0 and Inspiration 1 with his exclusive artifact.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Grave of Venom Stage 14",
+   "heroes": [
+    "Serpentemis",
+    "Child of Chaos",
+    "Lana Batwing"
+   ],
+   "note": "A Serpentemis-led Toxin team setup with Lava Batwing familiar used to push stages up to Grave of Venom 14."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Push Fey Meander as far as possible (clearing stage 180) to secure top speedrunning ranks and daily Affinity Solvent for Psychicore upgrades.",
+  "Prioritize Attack nodes across all elements in Psychicore before investing in HP nodes.",
+  "Do not overspend stamina in Goblin Lair once reaching hero resonance level 70-74; level 70 is enough to unlock the essentials.",
+  "Spend stamina on Grave of Venom up to stage 14 and Heretical Ruins up to stage 9 to claim first-clear rewards.",
+  "Max out your Dispatch Center and Mine on your Island to generate maximum resource generation early.",
+  "Do not burn stamina grinding dungeons you have already beaten until all domains are cleared at level 18 to earn Echo of Clepsydra."
+ ],
+ "season": "S1",
+ "server_scope": "S1",
+ "value": "medium",
+ "id": "qKmvS6E0Kg0",
+ "model": "gemini-3.8-flash",
+ "channel": "Gorax",
+ "title": "Day 6 Brings BIG Account Progress! | Beginner Series | Dragonheir x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=qKmvS6E0Kg0",
+ "short": false,
+ "summarized": "2026-11-05T08:20Z"
+}
