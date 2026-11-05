@@ -1,0 +1,60 @@
+{
+ "summary": "This video provides gear forging recommendations for the Piece of Treasury event in Dragonheir: Silent Gods Season 8. Skratch highlights that seasons now offer two Piece of Treasury forging events, making gear selection critical for top endgame teams. Toxin remains the highest-performing damage archetype for Temporal Vortex and boss encounters, outperforming other team comps by two to three times the damage output. For Toxin mains, forging Curse of the Fallen gloves with Attack% main stat and maximum Enlightenment sub-stat enhancements provides superior scaling compared to flat attack stats. Advice for alternate archetypes such as Aura, Ice Blast, and Dauntless is also covered depending on player roster strengths.",
+ "topics": [
+  "Piece of Treasury",
+  "Gear Forging",
+  "Temporal Vortex",
+  "Toxin Team",
+  "Curse of the Fallen"
+ ],
+ "heroes": [
+  {
+   "name": "Serpentemis",
+   "verdict": "Top endgame Toxin DPS",
+   "note": "Primary Toxin damage dealer who scales heavily off Enlightenment, making her gear the top forging priority for Toxin players.",
+   "known": true
+  },
+  {
+   "name": "Talethia",
+   "verdict": "Premier Aura DPS",
+   "note": "Powerful Aura damage dealer who benefits from HP% chest pieces or Crit Damage gloves from the Carnage set.",
+   "known": true
+  },
+  {
+   "name": "Anselmo",
+   "verdict": "Essential Toxin survivability support",
+   "note": "Allows Toxin teams to easily survive high-difficulty Temporal Vortex boss fights.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Temporal Vortex",
+   "heroes": [
+    "Serpentemis",
+    "Twitch"
+   ],
+   "note": "Toxin team archetype deals significantly higher damage in endgame boss modes compared to all other element teams."
+  }
+ ],
+ "meta_changes": [
+  "Seasons now feature two Piece of Treasury events instead of one, allowing players to build custom mythic gear pieces for two separate teams.",
+  "Toxin continues to dominate as the premier endgame damage archetype for Temporal Vortex and boss encounters."
+ ],
+ "tips": [
+  "Prioritize stacking Enlightenment over extra Attack stats when crafting gear for Toxin heroes like Serpentemis, as Attack experiences diminishing returns while Enlightenment directly boosts Toxin damage.",
+  "Craft Curse of the Fallen gloves with ATK% primary attribute and max out Enlightenment enhancement rolls for maximum Toxin team damage output.",
+  "Delay finalizing your Piece of Treasury gear choice until after farming dungeon challenge modes during the 12-day event window to complement any natural mythic drops."
+ ],
+ "season": "S8",
+ "server_scope": "mixed",
+ "value": "high",
+ "id": "p4yyCNnEwa4",
+ "model": "gemini-3.5-flash",
+ "channel": "Skratch Gaming",
+ "title": "WATCH THIS Before You Forge Your Gear!! Dragonheir: Silent Gods x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=p4yyCNnEwa4",
+ "short": false,
+ "summarized": "2026-11-05T08:29Z"
+}

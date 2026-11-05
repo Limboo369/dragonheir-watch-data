@@ -1,0 +1,111 @@
+{
+ "summary": "This guide covers how to build and optimize Toxin element team compositions for Temporal Vortex II in Season 1. Gorax presents several team variations anchored around Serpentemis and Oggok, including top-tier setups using Lothair, Sacredeia, and Child of Chaos, as well as budget options using Durango. Detailed skill timing setups with 20-second recast rotations are explained to align Immortality/Invincibility buffs against high-damage boss mechanics. The guide also reviews key artifact options, gear sets, and familiar choices to maximize team damage output.",
+ "topics": [
+  "Temporal Vortex",
+  "Toxin Team",
+  "Season 1",
+  "Skill Timing",
+  "Boss Strategy"
+ ],
+ "heroes": [
+  {
+   "name": "Serpentemis",
+   "verdict": "Core Toxin DPS",
+   "note": "Primary Poison damage dealer who scales heavily with Enlightenment and Attack; requires Statue of the Serpent Deity artifact for maximum damage.",
+   "known": true
+  },
+  {
+   "name": "Oggok",
+   "verdict": "Essential Poison Tank & Healer",
+   "note": "Grants team Immortality to survive boss single-target attacks; timing his ultimate at 26.5s first cast is crucial for boss mechanics.",
+   "known": true
+  },
+  {
+   "name": "Twitch",
+   "verdict": "Top Toxin Enabler & Support",
+   "note": "Applies consistent Toxin stacks; best paired with Illya's Fang artifact to raise Toxin infliction chance near 95%.",
+   "known": true
+  },
+  {
+   "name": "Sacredeia",
+   "verdict": "Top Poison Vulnerability Buffer",
+   "note": "Applies 30% Poison Vulnerability and team elemental damage buffs, but requires sufficient Accuracy to land debuffs.",
+   "known": true
+  },
+  {
+   "name": "Lothair",
+   "verdict": "High-Damage Toxin DPS",
+   "note": "Provides massive supplementary Toxin damage; built with Enlightenment, Attack, and Accuracy.",
+   "known": true
+  },
+  {
+   "name": "Child of Chaos",
+   "verdict": "Strong Alternative DPS & Support",
+   "note": "Offers solid damage reduction and damage boosting, especially when equipped with his exclusive artifact Dragonbone Catalyst.",
+   "known": true
+  },
+  {
+   "name": "Durango",
+   "verdict": "Budget Toxin Substitute",
+   "note": "Acts as an accessible replacement for Lothair or Sacredeia, helping maintain Toxin stack count on the boss.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Temporal Vortex II",
+   "heroes": [
+    "Serpentemis",
+    "Lothair",
+    "Twitch",
+    "Sacredeia",
+    "Oggok"
+   ],
+   "note": "Premier Toxin composition capable of scoring 240M+ damage with proper 20-second skill timing alignment."
+  },
+  {
+   "mode": "Temporal Vortex II",
+   "heroes": [
+    "Serpentemis",
+    "Child of Chaos",
+    "Twitch",
+    "Sacredeia",
+    "Oggok"
+   ],
+   "note": "High-performing variant replacing Lothair with Child of Chaos to maintain high damage and add team utility."
+  },
+  {
+   "mode": "Temporal Vortex II",
+   "heroes": [
+    "Serpentemis",
+    "Durango",
+    "Twitch",
+    "Sacredeia",
+    "Oggok"
+   ],
+   "note": "Budget-friendly Toxin team utilizing Durango as a substitute enabler for players lacking premium legendary DPS heroes."
+  }
+ ],
+ "meta_changes": [
+  "Temporal Vortex II increases boss damage significantly, making timed invincibility or immortality essential for team survival.",
+  "Toxin teams dominate Season 1 Temporal Vortex rankings due to high percentage-based derivative damage scaling."
+ ],
+ "tips": [
+  "Set ultimate recast times to 20 seconds across the team (or 18 seconds if using 3-piece Puppeteer set) for synchronized skill rotations.",
+  "Set Oggok's first ultimate cast to 26.5 seconds so his Immortality active window protects the team against the boss's high-damage single-target strike.",
+  "Equip Serpentemis with Statue of the Serpent Deity artifact (or Vile Ink if unavailable) to maximize Poison derivative damage.",
+  "Ensure Sacredeia and Twitch have adequate Accuracy to reliably inflict Poison Vulnerability and Toxin stacks.",
+  "Utilize familiars like Lava Batwing or Starlight Stoneborn to provide extra damage multipliers or vulnerability debuffs."
+ ],
+ "season": "S1",
+ "server_scope": "S1",
+ "value": "high",
+ "id": "pVJgz7nuDhw",
+ "model": "gemini-3.5-flash",
+ "channel": "Gorax",
+ "title": "Best Toxin Teams for Temporal Vortex + Team Codes | Dragonheir x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=pVJgz7nuDhw",
+ "short": false,
+ "summarized": "2026-11-05T08:26Z"
+}

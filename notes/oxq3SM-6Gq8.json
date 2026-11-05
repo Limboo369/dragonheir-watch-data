@@ -1,0 +1,54 @@
+{
+ "summary": "This video details how to select the best free SSR Legendary hero from the Dragonheir web event. Skratch explains the alignment test mechanics, which feature 12 questions modifying Good-Evil and Law-Chaos scores across a grid of available heroes. He strongly advises targeting top-tier support heroes like Felosia or Synarell over damage dealers, whether to acquire them or for inspiration levels. He also warns against selecting low-impact heroes like Rhash or Victor, and explains how to answer the test questions to guarantee reaching the desired Lawful alignment cell.",
+ "topics": [
+  "free legendary event",
+  "Fate Test",
+  "hero alignment grid",
+  "Felosia",
+  "Synarell"
+ ],
+ "heroes": [
+  {
+   "name": "Felosia",
+   "verdict": "Top recommended pick",
+   "note": "One of the absolute best support characters in the game, highly recommended to target for a new copy or inspiration.",
+   "known": true
+  },
+  {
+   "name": "Synarell",
+   "verdict": "Top recommended pick",
+   "note": "High-value support hero to prioritize from the Lawful alignment options.",
+   "known": true
+  },
+  {
+   "name": "Rhash",
+   "verdict": "Skip",
+   "note": "Low-impact pick that should be avoided in favor of top-tier supports.",
+   "known": true
+  },
+  {
+   "name": "Victor",
+   "verdict": "Skip",
+   "note": "Does not provide enough value to justify choosing over top support characters.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [],
+ "tips": [
+  "Prioritize getting support heroes over damage dealers from the free event, as strong supports are harder to come by and provide long-term account value.",
+  "To target Felosia or Synarell, select positive Lawful options on questions to push your Law-Chaos alignment score to +4 or higher.",
+  "If using a creator invitation link to inherit a specific hero, do not start or complete the test in-game beforehand."
+ ],
+ "season": "unknown",
+ "server_scope": "S1",
+ "value": "high",
+ "id": "oxq3SM-6Gq8",
+ "model": "gemini-3.5-flash",
+ "channel": "Skratch Gaming",
+ "title": "DO THIS TO GET A FREE LEGENDARY!! New Event Dragonheir: Silent Gods x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=oxq3SM-6Gq8",
+ "short": false,
+ "summarized": "2026-11-05T08:27Z"
+}

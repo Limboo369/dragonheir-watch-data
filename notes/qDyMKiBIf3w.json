@@ -1,0 +1,68 @@
+{
+ "summary": "This video breaks down the Limited-Time Event Calendar II in Dragonheir: Silent Gods, focusing on upcoming summon banners and events. OddOneGaming strongly advises players to save all summon resources until September 15th when the Born of Chaos and Child of Chaos event details go live. He advises skipping the Mithrasea banner due to powercreep and saving pulls for Child of Chaos, his exclusive artifact, and potentially Option Summons.",
+ "topics": [
+  "banners",
+  "event calendar",
+  "Child of Chaos",
+  "Mithrasea",
+  "summon strategy"
+ ],
+ "heroes": [
+  {
+   "name": "Mithrasea",
+   "verdict": "Skip",
+   "note": "She has been heavily powercrept by newer supports and is no longer worth pulling.",
+   "known": true
+  },
+  {
+   "name": "Acilia",
+   "verdict": "Strong support option",
+   "note": "Outperforms Mithrasea in support utility despite not being a premium summon hero.",
+   "known": true
+  },
+  {
+   "name": "Rose",
+   "verdict": "Strong support option",
+   "note": "Recommended over Mithrasea as a top support hero.",
+   "known": true
+  },
+  {
+   "name": "Solmo",
+   "verdict": "Strong support option",
+   "note": "Better support alternative compared to Mithrasea.",
+   "known": true
+  },
+  {
+   "name": "Child of Chaos",
+   "verdict": "Must pull",
+   "note": "Can use all six elements and may feature a game-breaking kit alongside an exclusive artifact.",
+   "known": true
+  },
+  {
+   "name": "The Dark Lady",
+   "verdict": "High priority",
+   "note": "Fantastic hero to pick up if a banner featuring her returns.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [
+  "Mithrasea has fallen out of favor in the meta due to powercreep from newer support units like Acilia, Rose, and Solmo."
+ ],
+ "tips": [
+  "Save all Heliolite Dice and Warmarrow until September 15th before spending on any summon banners.",
+  "Do not pull on the Radiance of Oracle banner featuring Mithrasea.",
+  "Save duplicate Legendary hero imprints for the Starweave Echo conversion event."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "qDyMKiBIf3w",
+ "model": "gemini-3.5-flash",
+ "channel": "OddOneGaming RPGs",
+ "title": "💥 IT'S ALMOST HERE! 💥Child Of Chaos Banner SOON & Calendar Breakdown | Dragonheir x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=qDyMKiBIf3w",
+ "short": false,
+ "summarized": "2026-11-05T08:23Z"
+}

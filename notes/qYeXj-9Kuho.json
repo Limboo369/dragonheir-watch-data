@@ -1,0 +1,95 @@
+{
+ "summary": "This video highlights the best starting strategies and rewards for new and returning players in Dragonheir: Silent Gods. Creator Suzi Plays explains how to claim free legendary heroes like Auster via streamer links, Hochadir from initial progression, and Lossenia from day 2 login. She offers guidance on First Blush Wish Banner picks, paid starter pack choices, creator code redemption, and advises saving summons for the upcoming Anniversary event.",
+ "topics": [
+  "New Player Guide",
+  "Free Legendary Heroes",
+  "First Blush Summons",
+  "Vow of Companionship",
+  "Creator Code"
+ ],
+ "heroes": [
+  {
+   "name": "Auster",
+   "verdict": "Free Legendary Frost DPS",
+   "note": "Obtainable for free via streamer invitation link; excellent Frost DPS hero for pushing early content and Magic Chess.",
+   "known": true
+  },
+  {
+   "name": "Cervinia",
+   "verdict": "Free Epic Hero",
+   "note": "Claimed along with Auster through the creator benefit link to aid early progression.",
+   "known": true
+  },
+  {
+   "name": "Hochadir",
+   "verdict": "Free Starter Legendary",
+   "note": "Provided for free in early gameplay to form a strong initial Frost core.",
+   "known": true
+  },
+  {
+   "name": "Lossenia",
+   "verdict": "Free Day 2 Login Legendary",
+   "note": "Claimable on Day 2 login, pairing with Auster and Hochadir to build a robust early Frost team.",
+   "known": true
+  },
+  {
+   "name": "Nastjenka",
+   "verdict": "Top First Blush Wish Pick",
+   "note": "Key unit for Dauntless teams, providing outstanding single-target DPS when fully upgraded.",
+   "known": true
+  },
+  {
+   "name": "Lelwanis",
+   "verdict": "Recommended 300-Summon Wish Pick",
+   "note": "A strong option to select at the 300-summon milestone if building summoner team compositions.",
+   "known": true
+  },
+  {
+   "name": "Thelendor",
+   "verdict": "Strong Rally Option",
+   "note": "Recommended hero choice on the wish banner for Rally team synergies.",
+   "known": true
+  },
+  {
+   "name": "Monelisse",
+   "verdict": "Great Rally Synergy",
+   "note": "Pairs exceptionally well alongside Thelendor in Rally team compositions.",
+   "known": true
+  },
+  {
+   "name": "Twitch",
+   "verdict": "Top Vow of Companionship Pick",
+   "note": "Recommended Toxin DPS choice from the $4.99 Legendary Hero Option Chest to build toward a Serpentemis comp.",
+   "known": true
+  },
+  {
+   "name": "Durango",
+   "verdict": "Recommended Toxin Hero",
+   "note": "Solid Toxin choice from the paid hero chest to set up strong future Poison/Toxin teams.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [
+  "New streamer benefit events grant Auster and Cervinia to new and returning accounts upon registration."
+ ],
+ "tips": [
+  "Never pull on the standard Heliolite banner beyond the initial hidden 20-pull guarantee.",
+  "Target Nastjenka on the First Blush Wish Banner as she is a core single-target Dauntless DPS.",
+  "Save accumulated summons for the Anniversary events rather than rushing non-essential banners.",
+  "Enter creator code 'suziplays' in the Treasure Market under the Monthly tab to claim a free summon.",
+  "Save all War-marrow resources exclusively to convert into summons.",
+  "Consider purchasing the $4.99 Vow of Companionship pack to select top Toxin heroes like Twitch or Durango."
+ ],
+ "season": "S1",
+ "server_scope": "S1",
+ "value": "medium",
+ "id": "qYeXj-9Kuho",
+ "model": "gemini-3.5-flash",
+ "channel": "Suzi Plays",
+ "title": "START NOW & Get All 3 Legendary Heroes! ❄️ BIG THINGS ARE COMING! 🔥 Dragonheir x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=qYeXj-9Kuho",
+ "short": false,
+ "summarized": "2026-11-05T08:26Z"
+}

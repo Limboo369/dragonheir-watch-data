@@ -1,0 +1,71 @@
+{
+ "summary": "This video showcases an Aura element team achieving over 4.8 billion damage against Level 300 Fire Guardians in the Crown Contest mode. The creator demonstrates the full combat run and reviews the gear setups and stat priorities for each hero. Talethia is geared for pure DPS, while Anneliesis stacks HP for shielding. Diantha requires Accuracy, Lincos uses the Puppet Master set, and Solmo is built with maximum Resistance alongside his resistance-sharing talent.",
+ "topics": [
+  "Crown Contest",
+  "Fire Fortress",
+  "Aura Team",
+  "Hero Builds"
+ ],
+ "heroes": [
+  {
+   "name": "Talethia",
+   "verdict": "Primary DPS in Aura compositions",
+   "note": "Built full DPS to maximize damage output in Crown Contest boss battles.",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "Full HP buffer/shielder",
+   "note": "Built with full HP to strengthen team shields and survivability.",
+   "known": true
+  },
+  {
+   "name": "Diantha",
+   "verdict": "Accuracy support for Aura team",
+   "note": "Geared with sufficient Accuracy to land control or debuff effects.",
+   "known": true
+  },
+  {
+   "name": "Lincos",
+   "verdict": "Puppet Master set enabler",
+   "note": "Equipped with the Puppet Master artifact set for Aura team utility.",
+   "known": true
+  },
+  {
+   "name": "Solmo",
+   "verdict": "Resistance tank/support",
+   "note": "Built full Resistance with the talent enabled to share Resistance with allies.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Crown Contest - Fire Fortress",
+   "heroes": [
+    "Talethia",
+    "Anneliesis",
+    "Diantha",
+    "Lincos",
+    "Solmo"
+   ],
+   "note": "Aura team reaching 4.82B total damage against Lv. 300 Elemental Guardian - Fire."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Build Solmo with maximum Resistance and activate his resistance-sharing talent to protect the team from enemy debuffs.",
+  "Equip Lincos with the Puppet Master set in high-end Aura boss lineups.",
+  "Build Anneliesis pure HP to scale her shields for boss challenges like Crown Contest."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "oVuyK0yW2TA",
+ "model": "gemini-3.5-flash",
+ "channel": "liveranov",
+ "title": "Aura Team (lvl 300) vs Fire Guardians | Crown Contest | Dragonheir | Season 8",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=oVuyK0yW2TA",
+ "short": false,
+ "summarized": "2026-11-05T08:26Z"
+}

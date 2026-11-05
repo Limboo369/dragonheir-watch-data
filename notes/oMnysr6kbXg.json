@@ -1,0 +1,69 @@
+{
+ "summary": "This video demonstrates a fast 24-second speed clear of Grave of Venom Challenge 6 using an Aura archetype team. The lineup includes Anneliesis, Talethia, Lincos, Diantha, and Eurion. Full gear and stat builds are shown for each hero at the end of the run.",
+ "topics": [
+  "Grave of Venom",
+  "Challenge 6",
+  "Aura team",
+  "Speedrun"
+ ],
+ "heroes": [
+  {
+   "name": "Anneliesis",
+   "verdict": "Core Aura DPS",
+   "note": "Delivers heavy damage in fast Grave of Venom Challenge 6 speed runs.",
+   "known": true
+  },
+  {
+   "name": "Talethia",
+   "verdict": "Aura synergy DPS",
+   "note": "Provides additional damage burst to clear Deadly Harpy rapidly.",
+   "known": true
+  },
+  {
+   "name": "Lincos",
+   "verdict": "Aura support / DPS",
+   "note": "Enables high damage potential and utility for the Aura composition.",
+   "known": true
+  },
+  {
+   "name": "Diantha",
+   "verdict": "Aura attacker",
+   "note": "Key damage dealer for quick dungeon boss clears.",
+   "known": true
+  },
+  {
+   "name": "Eurion",
+   "verdict": "Top frontline tank",
+   "note": "Keeps the squishy Aura team alive while they burst down the boss.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Grave of Venom - Challenge 6",
+   "heroes": [
+    "Anneliesis",
+    "Talethia",
+    "Lincos",
+    "Diantha",
+    "Eurion"
+   ],
+   "note": "Achieves a 24-second clear on Grave of Venom Challenge 6."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Combine high-burst Aura DPS heroes with Eurion to safely speed run Grave of Venom Challenge 6."
+ ],
+ "season": "unknown",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "oMnysr6kbXg",
+ "model": "gemini-3.5-flash",
+ "channel": "liveranov",
+ "title": "Aura Team vs Grave of Venom — Deadly Harpy CHALLENGE 6! | Dragonheir: Silent Gods",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=oMnysr6kbXg",
+ "short": false,
+ "summarized": "2026-11-05T08:29Z"
+}

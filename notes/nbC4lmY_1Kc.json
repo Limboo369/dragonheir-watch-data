@@ -1,0 +1,69 @@
+{
+ "summary": "Skratch pulled 300 summons on the Thunderbolt Selectable Banner to acquire Tariz, aiming to strengthen AoE damage for Magichess Strategy Challenges and upcoming Continental Challenge bosses. He notes that Thunderbolt AoE damage dealers like Tariz, Perkunte, and Alaura excel in multi-target endgame content. Free-to-play and low-spending players are strongly advised to hold their Heliolite Dice for the upcoming Anniversary and Child of Chaos banners. Furthermore, he shares shop strategies for Temporal Corridor, prioritizing support duplicate inspirations like Maashtur over damage dealers.",
+ "topics": [
+  "banner summons",
+  "Thunderbolt",
+  "Continental Challenge",
+  "Temporal Corridor",
+  "Anniversary"
+ ],
+ "heroes": [
+  {
+   "name": "Tariz",
+   "verdict": "Top AoE Damage Dealer",
+   "note": "Pity selector target; essential Thunderbolt AoE DPS for Magichess and Continental Challenge bosses.",
+   "known": true
+  },
+  {
+   "name": "Perkunte",
+   "verdict": "Strong Thunderbolt DPS",
+   "note": "High-value AoE damage dealer who benefits significantly from Inspiration 2 and his exclusive artifact.",
+   "known": true
+  },
+  {
+   "name": "Alaura",
+   "verdict": "High AoE Damage Dealer",
+   "note": "Deals massive Thunderbolt AoE damage when equipped with her exclusive artifact.",
+   "known": true
+  },
+  {
+   "name": "Maashtur",
+   "verdict": "Priority Shop Exchange",
+   "note": "Top support recommendation to acquire via Lingering Echoes in the Temporal Corridor shop to reach Inspiration 2.",
+   "known": true
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "Top Selector Target",
+   "note": "Planned target pick for the upcoming Schools of Damage selector banner.",
+   "known": true
+  },
+  {
+   "name": "Slay",
+   "verdict": "Future Shop Target",
+   "note": "Recommended Toxin hero to save Myriad Stars for in the Temporal Corridor rotation.",
+   "known": false
+  }
+ ],
+ "teams": [],
+ "meta_changes": [
+  "Upcoming Continental Challenge bosses heavily favor AoE damage compositions over single-target damage.",
+  "Anniversary updates will bring the limited Child of Chaos banner and a 12-Schools of Damage selector banner."
+ ],
+ "tips": [
+  "Free-to-play and low-spending players should save summons for the Anniversary and potential limited Child of Chaos banner.",
+  "Avoid buying damage dealers from the Lingering Echo store in Temporal Corridor; prioritize high-impact support duplicates such as Maashtur.",
+  "Save Myriad Stars for key Toxin heroes like Slay when they appear in the Temporal Corridor shop rotation."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "nbC4lmY_1Kc",
+ "model": "gemini-3.5-flash",
+ "channel": "Skratch Gaming",
+ "title": "CHANGE OF PLANS! I Pulled For Tariz... Dragonheir: Silent Gods x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=nbC4lmY_1Kc",
+ "short": false,
+ "summarized": "2026-11-05T08:28Z"
+}
