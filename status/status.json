@@ -1,5 +1,5 @@
 {
- "built": "2026-11-05T10:23Z",
+ "built": "2026-11-05T10:53Z",
  "last_fetch": "2026-11-05T10:17Z",
  "counts": {
   "summarized": 273,
@@ -74,14 +74,11 @@
  ],
  "budget": {
   "day": "2026-11-05",
-  "seconds": 20761,
+  "seconds": 19406,
   "v2": 1,
-  "quota_hit": 1793874062.7407224
+  "quota_hit": 1793874230.9162552
  },
  "log_tail": [
-  "… Suzi Plays: START NOW & Get All 3 Legendary Heroes! ❄️ BIG THINGS ARE CO",
-  "… Gorax: Day 6 Brings BIG Account Progress! | Beginner Series | Drago",
-  "… OddOneGaming RPGs: 💥 IT'S ALMOST HERE! 💥Child Of Chaos Banner SOON & Calendar B",
   "… Gorax: Pick GORAX as Your God's Envoy! | Faction War | Dragonheir x",
   "saved qKmvS6E0Kg0",
   "+ Gorax: Day 6 Brings BIG Account Progress! | Beginner Series | Drago",
@@ -158,7 +155,10 @@
   "  gemini-3.8-flash: 429, using gemini-3.5-flash",
   "saved nKHionjONr4",
   "+ Gorax: Child of Chaos Got NERFED?! What You Need to Know | DragonHe",
-  "  gemini-3.5-flash: 429, using gemini-3.7-flash"
+  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
+  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
+  "! Is The Ice Blast Team Strong Enough?? Dragonheir: : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 273 videos, 184 heroes"
  ],
  "crontab": [],
  "channels": [
