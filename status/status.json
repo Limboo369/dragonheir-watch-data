@@ -1,5 +1,5 @@
 {
- "built": "2026-11-05T02:19Z",
+ "built": "2026-11-05T02:58Z",
  "last_fetch": "2026-11-05T02:17Z",
  "counts": {
   "summarized": 256,
@@ -97,7 +97,6 @@
   "quota_hit": 1793845166.6309907
  },
  "log_tail": [
-  "… Gorax: Child of Chaos Got an UNEXPECTED Buff! | Dragonheir x Dragon",
   "saved gk6u8e-zwLg",
   "+ liveranov: How to Build Anneliesis | Stats, Mythic Sets & Artifacts | D",
   "  gemini-3.8-flash: 429, using gemini-3.5-flash",
@@ -176,7 +175,8 @@
   "  gemini-3.8-flash: 429, using gemini-3.5-flash",
   "  gemini-3.5-flash: 429, using gemini-3.7-flash",
   "  gemini-3.7-flash: 429, using gemini-3.6-flash",
-  "! PLAN THIS RIGHT!! Rebate Event & Banners Calendar.: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google."
+  "! PLAN THIS RIGHT!! Rebate Event & Banners Calendar.: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 256 videos, 178 heroes"
  ],
  "crontab": [],
  "channels": [
