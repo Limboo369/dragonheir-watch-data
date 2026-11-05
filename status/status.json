@@ -1,16 +1,22 @@
 {
- "built": "2026-11-05T10:03Z",
- "last_fetch": "2026-11-05T09:17Z",
+ "built": "2026-11-05T10:23Z",
+ "last_fetch": "2026-11-05T10:17Z",
  "counts": {
-  "summarized": 272,
+  "summarized": 273,
   "skipped_giveaway": 17,
   "baseline": 22,
-  "new": 341,
+  "new": 333,
+  "retry": 8,
   "skipped_live": 1,
-  "failed": 2,
-  "retry": 1
+  "failed": 2
  },
  "problems": [
+  {
+   "title": "The Best Way To Summon During The Third Anniversary ft @OddOneGaming RPGs ⁂ Dragonheir: Silent Gods",
+   "channel": "Fastidious Dragonheir",
+   "status": "retry",
+   "error": ""
+  },
   {
    "title": "Season 9 NEW INFO: 2 Free Heroes, New Affinities & Selectable Banner! | Dragonheir: Silent Gods",
    "channel": "liveranov",
@@ -18,8 +24,44 @@
    "error": "Expecting value: line 1 column 1 (char 0)"
   },
   {
+   "title": "This Boss Is BROKEN!!! Thunderbolt Vs. Talethia Chief Challenge | Dragonheir: Silent Gods",
+   "channel": "Skratch Gaming",
+   "status": "retry",
+   "error": ""
+  },
+  {
    "title": "Is The Ice Blast Team Strong Enough?? Dragonheir: Silent Gods x Dragonstride",
    "channel": "Skratch Gaming",
+   "status": "retry",
+   "error": ""
+  },
+  {
+   "title": "I Went All In for Child of Chaos Inspiration 2… Was It Worth It? | Dragonheir x Dragonstride",
+   "channel": "Gorax",
+   "status": "retry",
+   "error": ""
+  },
+  {
+   "title": "Upcoming Banners Explained! Where Should You Spend Your Dice? | Dragonheir x Dragonstride",
+   "channel": "Gorax",
+   "status": "retry",
+   "error": ""
+  },
+  {
+   "title": "1.6B+ Corrosion Team vs Durem! Journ - Alternative Support | S8 Continental Challenge | Dragonheir",
+   "channel": "Neff Gaming",
+   "status": "retry",
+   "error": ""
+  },
+  {
+   "title": "💥 FACTION WARS BEGINS! 💥Join My Side FOR THE WIN & Promo Codes | Dragonheir x Dragonstridea",
+   "channel": "OddOneGaming RPGs",
+   "status": "retry",
+   "error": "Server disconnected without sending a response."
+  },
+  {
+   "title": "💥 HE FINALLY SHINES! 💥750m+ DMG Aura Team vs Joyce S8 GUIDE | Dragonheir x Dragonstridea",
+   "channel": "OddOneGaming RPGs",
    "status": "retry",
    "error": ""
   },
@@ -32,41 +74,11 @@
  ],
  "budget": {
   "day": "2026-11-05",
-  "seconds": 18276,
+  "seconds": 20761,
   "v2": 1,
-  "quota_hit": 1793867509.9024234
+  "quota_hit": 1793874062.7407224
  },
  "log_tail": [
-  "… Skratch Gaming: Is The Ice Blast Team Strong Enough?? Dragonheir: Silent God",
-  "! DO THIS TO GET A FREE LEGENDARY!! New Event Dragon: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
-  "… liveranov: Aura Team (lvl 300) vs Fire Guardians | Crown Contest | Drag",
-  "! Is The Ice Blast Team Strong Enough?? Dragonheir: : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
-  "… liveranov: Aura Team vs Grave of Venom — Deadly Harpy CHALLENGE 6! | Dr",
-  "! Aura Team (lvl 300) vs Fire Guardians | Crown Cont: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
-  "… Skratch Gaming: CHANGE OF PLANS! I Pulled For Tariz... Dragonheir: Silent Go",
-  "! Aura Team vs Grave of Venom — Deadly Harpy CHALLEN: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
-  "! CHANGE OF PLANS! I Pulled For Tariz... Dragonheir:: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
-  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
-  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
-  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
-  "! 💥 IT'S ALMOST HERE! 💥Child Of Chaos Banner SOON & : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
-  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
-  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
-  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
-  "! START NOW & Get All 3 Legendary Heroes! ❄️ BIG THI: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
-  "saved qIbUgvin3qg (unknown hero names: Sacradeia)",
-  "+ Neff Gaming: Lothair DESTROYS Durem! BEST Toxin Team | S8 Continental Cha",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 261 videos, 182 heroes",
-  "== 2026-11-05 07:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "Gemini quota was full less than an hour ago, trying again next round",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 261 videos, 182 heroes",
-  "curl: (56) Recv failure: Connection reset by peer",
-  "== 2026-11-05 08:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "… Gorax: Halloween Giveaway Winners Announced! Check If You Won | Dra",
   "… Suzi Plays: START NOW & Get All 3 Legendary Heroes! ❄️ BIG THINGS ARE CO",
   "… Gorax: Day 6 Brings BIG Account Progress! | Beginner Series | Drago",
   "… OddOneGaming RPGs: 💥 IT'S ALMOST HERE! 💥Child Of Chaos Banner SOON & Calendar B",
@@ -116,7 +128,37 @@
   "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "Gemini quota was full less than an hour ago, trying again next round",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 272 videos, 184 heroes"
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 272 videos, 184 heroes",
+  "== 2026-11-05 10:17",
+  "fetch done: 0 new transcripts, 0 not available yet",
+  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
+  "… Skratch Gaming: Is The Ice Blast Team Strong Enough?? Dragonheir: Silent God",
+  "… Gorax: Child of Chaos Got NERFED?! What You Need to Know | DragonHe",
+  "… Skratch Gaming: This Boss Is BROKEN!!! Thunderbolt Vs. Talethia Chief Challe",
+  "… OddOneGaming RPGs: 💥 FACTION WARS BEGINS! 💥Join My Side FOR THE WIN & Promo Cod",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "… Gorax: I Went All In for Child of Chaos Inspiration 2… Was It Worth",
+  "! 💥 FACTION WARS BEGINS! 💥Join My Side FOR THE WIN &: RemoteProtocolError: Server disconnected without sending a response.",
+  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
+  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
+  "… Fastidious Dragonheir: The Best Way To Summon During The Third Anniversary ft @OddO",
+  "! This Boss Is BROKEN!!! Thunderbolt Vs. Talethia Ch: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "… Gorax: Upcoming Banners Explained! Where Should You Spend Your Dice",
+  "! The Best Way To Summon During The Third Anniversar: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "… Neff Gaming: 1.6B+ Corrosion Team vs Durem! Journ - Alternative Support |",
+  "… OddOneGaming RPGs: 💥 HE FINALLY SHINES! 💥750m+ DMG Aura Team vs Joyce S8 GUIDE ",
+  "! Upcoming Banners Explained! Where Should You Spend: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "! 1.6B+ Corrosion Team vs Durem! Journ - Alternative: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "! 💥 HE FINALLY SHINES! 💥750m+ DMG Aura Team vs Joyce: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
+  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
+  "! I Went All In for Child of Chaos Inspiration 2… Wa: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "saved nKHionjONr4",
+  "+ Gorax: Child of Chaos Got NERFED?! What You Need to Know | DragonHe",
+  "  gemini-3.5-flash: 429, using gemini-3.7-flash"
  ],
  "crontab": [],
  "channels": [
@@ -124,55 +166,55 @@
    "name": "Skratch Gaming",
    "id": "UCoSkzr1pXpt3d0jIxsc6ufw",
    "enabled": true,
-   "checked": "2026-11-05T09:17Z"
+   "checked": "2026-11-05T10:17Z"
   },
   {
    "name": "Gorax",
    "id": "UCNas7BnuOIjDEzY1D53kb1w",
    "enabled": true,
-   "checked": "2026-11-05T09:17Z"
+   "checked": "2026-11-05T10:17Z"
   },
   {
    "name": "Neff Gaming",
    "id": "UCsxs6YhNd_B36RgUAjbpJ_A",
    "enabled": true,
-   "checked": "2026-11-05T09:17Z"
+   "checked": "2026-11-05T10:17Z"
   },
   {
    "name": "Volkin Dragonheir",
    "id": "UCfRpOh_ywVjzhh9fxHbreGw",
    "enabled": true,
-   "checked": "2026-11-05T09:17Z"
+   "checked": "2026-11-05T10:17Z"
   },
   {
    "name": "Fastidious Dragonheir",
    "id": "UC16mpj5wEemSZX-uTlHe9Ww",
    "enabled": true,
-   "checked": "2026-11-05T09:17Z"
+   "checked": "2026-11-05T10:17Z"
   },
   {
    "name": "OddOneGaming RPGs",
    "id": "UC1ivUEf_poI9_R2eVKa8wRQ",
    "enabled": true,
-   "checked": "2026-11-05T09:17Z"
+   "checked": "2026-11-05T10:17Z"
   },
   {
    "name": "Suzi Plays",
    "id": "UCyo1-TkunhGcK6khU1h8Ypw",
    "enabled": true,
-   "checked": "2026-11-05T09:17Z"
+   "checked": "2026-11-05T10:17Z"
   },
   {
    "name": "Skyasterix Gaming",
    "id": "UCr5Gb3910rK7QPmKMmdagsA",
    "enabled": true,
-   "checked": "2026-11-05T09:17Z"
+   "checked": "2026-11-05T10:17Z"
   },
   {
    "name": "liveranov",
    "id": "UCqCR7ofFHhWwXy3Hg00fqEw",
    "enabled": true,
-   "checked": "2026-11-05T09:17Z"
+   "checked": "2026-11-05T10:17Z"
   }
  ]
 }

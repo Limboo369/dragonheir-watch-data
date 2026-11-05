@@ -1,0 +1,42 @@
+{
+ "summary": "Child of Chaos received balance adjustments following test server community feedback, getting a notable nerf to his battle skill utility while gaining increased passive healing and skill damage. His Inspirations were also reworked, swapping HP for +30 Skill Haste on Inspiration 4, though his ultimate Inspiration debuff pool now includes Recharge Speed Penalty II which can randomly disrupt boss timing rotations. Despite the overall nerfs to his offensive buffing and Ethereal duration, his element-switching capability keeps him a top-tier versatile support hero worth summoning.",
+ "topics": [
+  "Child of Chaos",
+  "nerf",
+  "balance changes",
+  "Inspirations",
+  "Reversal Summon"
+ ],
+ "heroes": [
+  {
+   "name": "Child of Chaos",
+   "verdict": "High value versatile support despite nerfs",
+   "note": "Lost his 20% attack buff on battle skill and had Ethereal duration reduced to 6s, but gained 10% target max HP healing and +30 Skill Haste on Inspiration 4.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [
+  "Child of Chaos battle skill Ethereal duration reduced from 10s to 6s and 20% attack buff removed, though Poison damage increased to 400%",
+  "Child of Chaos passive healing doubled from 5% to 10% target max HP",
+  "Child of Chaos Inspiration 4 replaced +30% HP with +30 Skill Haste, making 18-second ultimate rotations significantly easier without Puppeteer gear",
+  "Child of Chaos ultimate Inspiration debuff added Recharge Speed Penalty II, introducing RNG into boss ultimate timing"
+ ],
+ "tips": [
+  "Target at least one copy of Child of Chaos and his exclusive artifact on the Reversal Summon banner",
+  "Aim for Inspiration 1 on Child of Chaos if playing as a veteran player for optimal utility",
+  "New players should prioritize pulling on the Reversal Summon banner for Child of Chaos's element-swapping flexibility and solid hero pool",
+  "Be mindful when using Child of Chaos with Inspiration on rotation-sensitive bosses, as random Recharge Speed Penalty can alter enemy skill timings"
+ ],
+ "season": "S9",
+ "server_scope": "mixed",
+ "value": "high",
+ "id": "nKHionjONr4",
+ "model": "gemini-3.5-flash",
+ "channel": "Gorax",
+ "title": "Child of Chaos Got NERFED?! What You Need to Know | DragonHeir x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=nKHionjONr4",
+ "short": false,
+ "summarized": "2026-11-05T10:22Z"
+}
