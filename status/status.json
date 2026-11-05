@@ -1,5 +1,5 @@
 {
- "built": "2026-11-05T00:19Z",
+ "built": "2026-11-05T00:57Z",
  "last_fetch": "2026-11-05T00:17Z",
  "counts": {
   "summarized": 255,
@@ -61,7 +61,6 @@
   "quota_hit": 1793837993.987857
  },
  "log_tail": [
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 248 videos, 177 heroes",
   "== 2026-11-04 18:17",
   "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
@@ -140,7 +139,8 @@
   "! I Went Back Into Option Summons II… and THIS Happe: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
   "  gemini-3.5-flash: 429, using gemini-3.7-flash",
   "  gemini-3.7-flash: 429, using gemini-3.6-flash",
-  "! DON'T FORGE RANDOMLY! ⚒️ Follow This Strategy | Dr: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google."
+  "! DON'T FORGE RANDOMLY! ⚒️ Follow This Strategy | Dr: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 255 videos, 178 heroes"
  ],
  "crontab": [],
  "channels": [
