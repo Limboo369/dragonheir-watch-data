@@ -1,0 +1,55 @@
+{
+ "summary": "This video previews three new DPS heroes coming in Season 9 of Dragonheir: Silent Gods, focusing on the new elemental schools of Aura, Shadows, and Corrosion. Skyasterix breaks down the revealed kit details for Seonis, Holfast, and Leviel, along with the support hero Thea. He predicts that Corrosion will become the dominant meta for Temporal Vortex in Season 9. Additionally, he encourages players to support the Child of Chaos faction in the ongoing Nightfall Standoff event.",
+ "topics": [
+  "Season 9 Preview",
+  "New Heroes",
+  "Corrosion Meta",
+  "Shadows Meta",
+  "Aura Meta"
+ ],
+ "heroes": [
+  {
+   "name": "Thea",
+   "verdict": "Solid Necrosis Rare Support",
+   "note": "Provides damage output boosts, damage reduction, shields, and healing for allies while inflicting debuffs on enemies.",
+   "known": true
+  },
+  {
+   "name": "Seonis",
+   "verdict": "Shadow DPS with Arena Utility",
+   "note": "Reduces enemy defense, grants attack bonuses to Shadow allies, and pulls himself and the enemy with the highest attack into the Corruption Dimension.",
+   "known": false
+  },
+  {
+   "name": "Holfast",
+   "verdict": "Aura DPS and Buffer",
+   "note": "Channels Aura energy to buff allies, assists Aura heroes with additional attacks, and self-recovers Aura energy.",
+   "known": true
+  },
+  {
+   "name": "Leviel",
+   "verdict": "Top Corrosion DPS for Season 9",
+   "note": "Specializes in Corrosion-based damage output, applying Bite to lower target defense and boosting the target's Corruption value.",
+   "known": false
+  }
+ ],
+ "teams": [],
+ "meta_changes": [
+  "Season 9 introduces new elemental synergy mechanics: Aura, Shadows, and Corrosion.",
+  "Corrosion is predicted to be the top meta composition for Temporal Vortex in Season 9."
+ ],
+ "tips": [
+  "Prepare to build Corrosion teams around heroes like Leviel to target high scores in Season 9 Temporal Vortex."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "rDHctaOAVEA",
+ "model": "gemini-3.5-flash",
+ "channel": "Skyasterix Gaming",
+ "title": "🔥 Season 9 IS HERE! 3 NEW DPS HEROES Revealed – Corrosion, Shadows & Aura | Dragonheir: Silent Gods",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=rDHctaOAVEA",
+ "short": false,
+ "summarized": "2026-11-05T04:17Z"
+}

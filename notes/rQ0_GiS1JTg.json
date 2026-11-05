@@ -1,0 +1,93 @@
+{
+ "summary": "Gorax pulls on the Option Summons II banner to build up his Toxin and Dauntless rosters ahead of the Continental Challenge. He chooses this over chasing Child of Chaos to Inspiration 5, noting that wide roster depth is more impactful early on. In 1,110 summons, he hits exceptional luck, pulling multiple legendaries including Kurvida, Nastjenka, Tharivol, Urgoula, and Talwer. He breaks down banner priority, advising players to skip Elecebre and save for the Wish Summon or new season support banners. Finally, he outlines plans to exchange unwanted duplicate imprints in the Starweave Echo event to acquire Maashtur.",
+ "topics": [
+  "Option Summons II",
+  "Banner Pulls",
+  "Temporal Vortex",
+  "Continental Challenge",
+  "Starweave Echo"
+ ],
+ "heroes": [
+  {
+   "name": "Oggok",
+   "verdict": "Best early game support (Inspiration 5 target)",
+   "note": "Provides team-wide immortality that can keep Temporal Vortex teams alive up to 150 stacks.",
+   "known": true
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "Core Toxin DPS (Inspiration 2 target)",
+   "note": "Carries early game content and speed clears, with Inspiration 2 providing a significant damage increase.",
+   "known": true
+  },
+  {
+   "name": "Urgoula",
+   "verdict": "Top-tier PvP support/tank",
+   "note": "Creates a brick wall defense that makes teams nearly impossible to defeat in PvP.",
+   "known": true
+  },
+  {
+   "name": "Maashtur",
+   "verdict": "S-tier healer",
+   "note": "At Inspiration 1, he is capable of solo-healing the whole team because his heals become fully team-wide.",
+   "known": true
+  },
+  {
+   "name": "Stanguem",
+   "verdict": "Great tank alternative to Maashtur",
+   "note": "Provides control immunity, defense up, and personal invincibility, making her valuable for Continental Challenge.",
+   "known": true
+  },
+  {
+   "name": "Tharivol",
+   "verdict": "Solid 4th Dauntless hero",
+   "note": "Useful when running a 4-Dauntless plus 1-support composition instead of standard 3-Dauntless setups.",
+   "known": true
+  },
+  {
+   "name": "Twitch",
+   "verdict": "Crucial Toxin hero",
+   "note": "An essential component of competitive Toxin teams that benefits greatly from Inspiration 5.",
+   "known": true
+  },
+  {
+   "name": "Garett",
+   "verdict": "Trash / Convert to dust",
+   "note": "Considered useless and best converted into currency via soul imprints.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "PvP Defense",
+   "heroes": [
+    "Urgoula",
+    "Child of Chaos",
+    "Serpentemis",
+    "Durango"
+   ],
+   "note": "A heavy sustain defensive shell designed to stall out enemy damage dealers."
+  }
+ ],
+ "meta_changes": [
+  "Toxin dominates early Season speed runs and domains, but Ice Blast and Dauntless are expected to take over Temporal Vortex as difficulty scales up.",
+  "Temporal Vortex 3 mechanics will push players from single-support setups to double-support comps to survive past 100 stacks."
+ ],
+ "tips": [
+  "Only pull on rate-up banners when holding 1,000 dice to guarantee hitting the exclusive pity, as pity does not carry over between banners.",
+  "Skip the Elecebre banner and instead save dice for the Wish Summon (requiring 300/800 dice) or the introductory support banner of the new season.",
+  "Use the Starweave Echo event to exchange useless duplicate legendary soul imprints (such as Ripekas, Torrin, Gillian) into tokens to buy premium units like Maashtur.",
+  "Prepare at least two fully functional teams for the first week of Continental Challenge, and four teams for the second week."
+ ],
+ "season": "S9",
+ "server_scope": "mixed",
+ "value": "medium",
+ "id": "rQ0_GiS1JTg",
+ "model": "gemini-3.8-flash",
+ "channel": "Gorax",
+ "title": "I Went Back Into Option Summons II… and THIS Happened | Dragonheir x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=rQ0_GiS1JTg",
+ "short": false,
+ "summarized": "2026-11-05T04:19Z"
+}

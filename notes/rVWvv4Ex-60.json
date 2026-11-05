@@ -1,0 +1,66 @@
+{
+ "summary": "Skratch Gaming breaks down the event and summoning calendar for Phase II of the current season. He highlights key upcoming banners including the Burn team Selected Summon, Reversal Summon (Child of Chaos), and Option Summons I & II. Strategic advice is provided on resource management, emphasizing saving Heliolite Dice for Child of Chaos and Option Summons while skipping non-essential banners like Mithrasea. He also discusses optimal farming for the Burning Iron Dungeon double drops, Continental Challenge score timing, and the Starlit Delights rebate event.",
+ "topics": [
+  "Event Calendar",
+  "Summon Banners",
+  "Child of Chaos",
+  "Option Summons",
+  "Continental Challenge",
+  "Double Drop Event"
+ ],
+ "heroes": [
+  {
+   "name": "Child of Chaos",
+   "verdict": "Top priority summon",
+   "note": "Recommended as the main priority banner target for Reversal Summon over other elemental banners.",
+   "known": true
+  },
+  {
+   "name": "Munch",
+   "verdict": "Niche wave control hero",
+   "note": "Offers full-screen Stun and Accuracy manipulation, but mostly worth obtaining for leaderboard event rewards rather than core team usage.",
+   "known": true
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "High-value inspiration target",
+   "note": "Targeted in Option Summons to push for higher Inspiration levels (I2/I3) needed for top ranks in Temporal Vortex.",
+   "known": true
+  },
+  {
+   "name": "Mithrasea",
+   "verdict": "Skip banner",
+   "note": "Skratch advises skipping this banner to preserve dice for Child of Chaos and Option Summons.",
+   "known": true
+  },
+  {
+   "name": "The Dark Lady",
+   "verdict": "Recommended event faction",
+   "note": "Choosing her faction in the Born of Chaos event is recommended to align with creators for maximum community rewards.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [
+  "Introduction of Phase II season event calendars featuring Reversal Summon (Child of Chaos) and Option Summons I & II.",
+  "Starlit Delights Dragon Crystal rebate event offering bonus Heliolite Dice and Starweave Fragments up to 30,000 crystals."
+ ],
+ "tips": [
+  "Do not lock in Continental Challenge scores early in the week; wait until gear is improved later in the week to maximize damage ratings.",
+  "Prioritize Child of Chaos on Reversal Summon as the top summoning goal for the phase.",
+  "Stockpile up to 1,200 Heliolite Dice if planning to pull heavily on Option Summons banners.",
+  "Utilize double drop events in Heretical Ruins and Ancient Battlefield for gear progression, while using extra runs on Grave of Curse for essential runes.",
+  "Select The Dark Lady faction in the Born of Chaos event to align community efforts for maximum rewards."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "rVWvv4Ex-60",
+ "model": "gemini-3.5-flash",
+ "channel": "Skratch Gaming",
+ "title": "PLAN THIS RIGHT!! Rebate Event & Banners Calendar... Dragonheir: Silent Gods x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=rVWvv4Ex-60",
+ "short": false,
+ "summarized": "2026-11-05T04:17Z"
+}
