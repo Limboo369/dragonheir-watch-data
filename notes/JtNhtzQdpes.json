@@ -1,0 +1,27 @@
+{
+ "summary": "Dragonheir introduced Peak Brawl Mode to Realm Arena. When a player reaches 1,200 points and enters the top 20 rankings, opponent identities and personal information are hidden during match selection. This update prevents players from target-farming specific opponents to pad their scores, revealing battle results only after the challenge is completed.",
+ "topics": [
+  "Peak Brawl",
+  "Realm Arena",
+  "PvP"
+ ],
+ "heroes": [],
+ "teams": [],
+ "meta_changes": [
+  "Peak Brawl Mode hides opponent details and player names for top 20 ranked players in Realm Arena to eliminate targeted point farming."
+ ],
+ "tips": [
+  "Once reaching 1,200 points and top 20 rank in Realm Arena, expect hidden opponent identities until after matches finish."
+ ],
+ "season": "unknown",
+ "server_scope": "S1",
+ "value": "medium",
+ "id": "JtNhtzQdpes",
+ "model": "gemini-3.5-flash",
+ "channel": "Skyasterix Gaming",
+ "title": "🚨 PEAK BRAWL IS HERE! New Realm Arena Gameplay! | Dragonheir: Silent Gods",
+ "published": "2026-11-05T16:53:53+00:00",
+ "url": "https://www.youtube.com/shorts/JtNhtzQdpes",
+ "short": true,
+ "summarized": "2026-11-05T22:18Z"
+}
