@@ -1,0 +1,57 @@
+{
+ "summary": "Fastidious and OddOneGaming analyze the anniversary summon banners to advise players on optimal summon priorities. The Reversal Summon banner featuring Child of Chaos is an absolute priority and must-pull, as he is an ultra-versatile element-swapping support who may not return soon. In contrast, Mithrasea is powercrept and outclassed by non-premium supports like Acilia, making her banner an easy skip. Additionally, permanent or recurring banners like First Blush Summons and Selected Summons should not distract players from limited-time opportunities. Finally, players obtaining a second copy of Child of Chaos should avoid rushing his exclusive artifact, since Inspiration 1 can be tested and reset freely.",
+ "topics": [
+  "banners",
+  "summoning guide",
+  "anniversary",
+  "Child of Chaos",
+  "pity mechanics"
+ ],
+ "heroes": [
+  {
+   "name": "Child of Chaos",
+   "verdict": "Must-pull / Go all-in",
+   "note": "Extremely versatile support who can change elements to fit any team; guaranteed at 300 pulls on his limited 2-week Reversal Summon banner.",
+   "known": true
+  },
+  {
+   "name": "Mithrasea",
+   "verdict": "Skip / Powercrept",
+   "note": "Heavily powercrept over time and considered worse and less versatile than standard non-premium supports like Acilia.",
+   "known": true
+  },
+  {
+   "name": "Acilia",
+   "verdict": "Top-tier non-premium support",
+   "note": "More versatile than Mithrasea and capable of acting as a solo defensive support for full teams.",
+   "known": true
+  },
+  {
+   "name": "Durem",
+   "verdict": "King damage dealer for Burn",
+   "note": "Top non-premium damage dealer for Burn teams that outperforms many premium options in that archetype.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [
+  "Mithrasea has fallen out of the high-end support meta due to long ultimate recharge times and superior alternatives like Acilia."
+ ],
+ "tips": [
+  "Focus all resources on the Reversal Summon banner for Child of Chaos; the banner unlocks on Day 5 of an account and lasts 14 days.",
+  "Banners have a hidden hard pity guaranteeing a premium legendary at 1,000 summons if one hasn't been pulled earlier (standard legendary pity is 70 summons).",
+  "Do not summon on the First Blush banner until limited banners finish, as First Blush has no expiration timer.",
+  "If you pull a second copy of Child of Chaos, test Inspiration 1 before exchanging for his exclusive artifact Dragonbone Catalyst, because inspirations can be freely reset while artifact crafting is permanent."
+ ],
+ "season": "S9",
+ "server_scope": "mixed",
+ "value": "high",
+ "id": "mbk4Es9Brb8",
+ "model": "gemini-3.8-flash",
+ "channel": "Fastidious Dragonheir",
+ "title": "The Best Way To Summon During The Third Anniversary ft @OddOneGaming RPGs ⁂ Dragonheir: Silent Gods",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=mbk4Es9Brb8",
+ "short": false,
+ "summarized": "2026-11-06T06:18Z"
+}
