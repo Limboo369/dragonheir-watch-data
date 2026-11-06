@@ -1,11 +1,11 @@
 {
- "built": "2026-11-06T09:05Z",
- "last_fetch": "2026-11-06T08:17Z",
+ "built": "2026-11-06T09:36Z",
+ "last_fetch": "2026-11-06T09:17Z",
  "counts": {
   "summarized": 292,
   "skipped_giveaway": 17,
   "baseline": 22,
-  "new": 323,
+  "new": 324,
   "retry": 2,
   "skipped_live": 1,
   "failed": 2
@@ -43,11 +43,6 @@
   "quota_hit": 1793953932.2760575
  },
  "log_tail": [
-  "! Upcoming Banners Explained! Where Should You Spend: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.  gemini-3.7-flash: 429, using gemini-3.6-flash",
-  "",
-  "… Gorax: Child of Chaos FULL Reveal - Skills, Inspirations & More | D",
-  "! 37B Damage... And It's NOT Toxin?! 😱 | DragonHeir : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
-  "… Neff Gaming: Phase 2 - S8 Endgame Boss - Best Teams from the CN Server | ",
   "! I Did 1000 Summons for Child of Chaos on Day 1 💥 3: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
   "… Suzi Plays: I had to pull for ERNESTO!💥 Let's Summon! 🔥 Dragonheir x Dra",
   "! Child of Chaos FULL Reveal - Skills, Inspirations : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
@@ -122,6 +117,11 @@
   "  gemini-3.7-flash: 429, using gemini-3.6-flash",
   "! How To Get A PREMIUM Legendary Hero In Less Than 5: ServerError: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
   "! EVENT REVEAL 💥 & Understanding the Child of Chaos : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 292 videos, 186 heroes",
+  "== 2026-11-06 09:17",
+  "fetch done: 0 new transcripts, 0 not available yet",
+  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
+  "Gemini quota was full less than an hour ago, trying again next round",
   "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 292 videos, 186 heroes"
  ],
  "crontab": [],
@@ -130,55 +130,55 @@
    "name": "Skratch Gaming",
    "id": "UCoSkzr1pXpt3d0jIxsc6ufw",
    "enabled": true,
-   "checked": "2026-11-06T08:17Z"
+   "checked": "2026-11-06T09:17Z"
   },
   {
    "name": "Gorax",
    "id": "UCNas7BnuOIjDEzY1D53kb1w",
    "enabled": true,
-   "checked": "2026-11-06T08:17Z"
+   "checked": "2026-11-06T09:17Z"
   },
   {
    "name": "Neff Gaming",
    "id": "UCsxs6YhNd_B36RgUAjbpJ_A",
    "enabled": true,
-   "checked": "2026-11-06T08:17Z"
+   "checked": "2026-11-06T09:17Z"
   },
   {
    "name": "Volkin Dragonheir",
    "id": "UCfRpOh_ywVjzhh9fxHbreGw",
    "enabled": true,
-   "checked": "2026-11-06T08:17Z"
+   "checked": "2026-11-06T09:17Z"
   },
   {
    "name": "Fastidious Dragonheir",
    "id": "UC16mpj5wEemSZX-uTlHe9Ww",
    "enabled": true,
-   "checked": "2026-11-06T08:17Z"
+   "checked": "2026-11-06T09:17Z"
   },
   {
    "name": "OddOneGaming RPGs",
    "id": "UC1ivUEf_poI9_R2eVKa8wRQ",
    "enabled": true,
-   "checked": "2026-11-06T08:17Z"
+   "checked": "2026-11-06T09:17Z"
   },
   {
    "name": "Suzi Plays",
    "id": "UCyo1-TkunhGcK6khU1h8Ypw",
    "enabled": true,
-   "checked": "2026-11-06T08:17Z"
+   "checked": "2026-11-06T09:17Z"
   },
   {
    "name": "Skyasterix Gaming",
    "id": "UCr5Gb3910rK7QPmKMmdagsA",
    "enabled": true,
-   "checked": "2026-11-06T08:17Z"
+   "checked": "2026-11-06T09:17Z"
   },
   {
    "name": "liveranov",
    "id": "UCqCR7ofFHhWwXy3Hg00fqEw",
    "enabled": true,
-   "checked": "2026-11-06T08:17Z"
+   "checked": "2026-11-06T09:17Z"
   }
  ]
 }
