@@ -1,0 +1,79 @@
+{
+ "summary": "This video breaks down the upcoming summon banner roadmap and provides dice spending strategies for both new and veteran players. The creator recommends skipping Mithrasea and Elecebre banners to save Heliolite Dice for high-value events like Child of Chaos, Option Summons, and Wish Summons. Child of Chaos is highlighted as a high-priority limited exclusive support hero who won't return after his banner ends. Option Summons 1 and 2 offer custom school selection for hard-to-get supports and DPS heroes, while the Wish Banner guarantees top-tier exclusive damage dealers at 300 and 800 summons.",
+ "topics": [
+  "banners",
+  "summon strategy",
+  "Child of Chaos",
+  "Option Summons",
+  "Wish Banner"
+ ],
+ "heroes": [
+  {
+   "name": "Mithrasea",
+   "verdict": "skip banner",
+   "note": "Recommended to skip her banner to save Heliolite Dice for limited exclusive heroes.",
+   "known": true
+  },
+  {
+   "name": "Child of Chaos",
+   "verdict": "high priority",
+   "note": "Limited exclusive support hero guaranteed at 300 summons who will not be available after his banner ends.",
+   "known": true
+  },
+  {
+   "name": "Talwer",
+   "verdict": "outdated",
+   "note": "Considered outdated compared to newer legendary heroes in the pool.",
+   "known": true
+  },
+  {
+   "name": "Donella",
+   "verdict": "outdated",
+   "note": "Outdated hero that players generally want to avoid when pulling standard pools.",
+   "known": true
+  },
+  {
+   "name": "Elecebre",
+   "verdict": "skip banner",
+   "note": "No longer widely used outside of niche PvP, offering a great window to save dice for Wish Summons.",
+   "known": true
+  },
+  {
+   "name": "Talethia",
+   "verdict": "top target in Wish Banner",
+   "note": "Exclusive damage dealer available as a featured target in the upcoming Wish Banner.",
+   "known": true
+  },
+  {
+   "name": "Rook",
+   "verdict": "top target in Wish Banner",
+   "note": "High-value exclusive DPS hero featured in the Wish Banner.",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "top tier limited support",
+   "note": "Past limited exclusive support hero who proved essential across almost all game content.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [],
+ "tips": [
+  "Save at least 300 Heliolite Dice to reach the guaranteed hero milestone on exclusive support banners like Child of Chaos.",
+  "Prioritize Option Summons 1 and 2 to pick specific hero schools and pull essential duplicate heroes needed to buy Mythic Artifacts.",
+  "Skip the Elecebre banner to gather extra dice for the Wish Banner, which guarantees exclusive DPS heroes at 300 and 800 summons.",
+  "Focus on building solid support heroes and obtaining hero dupes early to unlock game-changing artifacts for PvP and boss content."
+ ],
+ "season": "S9",
+ "server_scope": "mixed",
+ "value": "high",
+ "id": "m_mPa3snJ_Y",
+ "model": "gemini-3.5-flash",
+ "channel": "Gorax",
+ "title": "Upcoming Banners Explained! Where Should You Spend Your Dice? | Dragonheir x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=m_mPa3snJ_Y",
+ "short": false,
+ "summarized": "2026-11-06T08:24Z"
+}

@@ -1,0 +1,58 @@
+{
+ "summary": "Suzi performs a 300-pull summoning session on the Selected Summons banner targeting Ice Blast heroes. Throughout the session, she pulls several legendaries including Sagomir, Shinnah, and Donella. Upon reaching 300 total selectable summons, she claims Ernesto as her guaranteed selectable legendary hero to strengthen her Ice Blast team. She also demonstrates how to enter creator codes in the in-game Treasure Market.",
+ "topics": [
+  "summons",
+  "Ice Blast",
+  "Ernesto",
+  "banner advice"
+ ],
+ "heroes": [
+  {
+   "name": "Ernesto",
+   "verdict": "Chosen Legendary",
+   "note": "Selected at 300 pulls on the banner over Fredegonda to build up her Ice Blast team.",
+   "known": true
+  },
+  {
+   "name": "Fredegonda",
+   "verdict": "Selectable Banner Option",
+   "note": "Available as a selectable legendary alongside Ernesto and Beldelle at 300 pulls.",
+   "known": true
+  },
+  {
+   "name": "Donella",
+   "verdict": "Niche Legendary",
+   "note": "Summoned during the pulls; noted for having niche utility.",
+   "known": true
+  },
+  {
+   "name": "Shinnah",
+   "verdict": "Summoned Legendary",
+   "note": "Pulled during the Ice Blast banner summoning session.",
+   "known": true
+  },
+  {
+   "name": "Sagomir",
+   "verdict": "Summoned Legendary",
+   "note": "Obtained as a legendary pull during the summon session.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [],
+ "tips": [
+  "Always try to end your summoning session on a Legendary drop so you do not leave pulls invested in high pity.",
+  "Remember to re-link to your preferred creator code at the start of every month in the Treasure Market's Monthly tab to unlock bonus rewards."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "low",
+ "id": "lXgP9Lx-cCU",
+ "model": "gemini-3.5-flash",
+ "channel": "Suzi Plays",
+ "title": "I had to pull for ERNESTO!💥 Let's Summon! 🔥 Dragonheir x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=lXgP9Lx-cCU",
+ "short": false,
+ "summarized": "2026-11-06T08:25Z"
+}

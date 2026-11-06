@@ -1,0 +1,115 @@
+{
+ "summary": "This video breaks down top-performing team compositions and player leaderboards from the Chinese server for Phase 2 of the Season 8 endgame boss Mechtork. Neff Gaming reviews leaderboard setups achieving up to 12 billion total score across multiple team runs. Toxin teams led by Loter prove to be the top damage dealers, reaching over 4.4 billion damage in a single run. Shadow and Aura teams also show high potential exceeding 1.7 to 1.9 billion per run depending on Inspiration levels and key hero inclusions like Saverio.",
+ "topics": [
+  "S8 Endgame Boss",
+  "Mechtork Phase 2",
+  "CN Leaderboard",
+  "Toxin Team",
+  "Shadow Team",
+  "Team Compositions"
+ ],
+ "heroes": [
+  {
+   "name": "Loter",
+   "verdict": "Top damage dealer for Toxin teams",
+   "note": "Carries Toxin compositions to massive scores over 4.4 billion damage against Mechtork Phase 2.",
+   "known": false
+  },
+  {
+   "name": "Nastjenka",
+   "verdict": "Main DPS for Dauntless teams",
+   "note": "Acts as the primary single-target damage dealer in Dauntless lineups.",
+   "known": true
+  },
+  {
+   "name": "Saverio",
+   "verdict": "Strong DPS slot for Shadow teams",
+   "note": "Pushes Shadow team performance up to 1.89 billion damage when paired with appropriate boosters.",
+   "known": true
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "High-enlightenment Toxin sub-DPS",
+   "note": "Built with nearly 500 Enlightenment to contribute heavy supplementary damage in Toxin comps.",
+   "known": true
+  },
+  {
+   "name": "Anselmo",
+   "verdict": "Essential Toxin buffer at Inspiration 5",
+   "note": "Provides significant overall team damage boosts when upgraded to Inspiration level 5.",
+   "known": true
+  },
+  {
+   "name": "Talethia",
+   "verdict": "Core Aura team member",
+   "note": "Requires high HP and close to 300% Crit Damage gear to maintain solid Aura team output.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Mechtork Phase 2 Endgame Boss",
+   "heroes": [
+    "Loter",
+    "Serpentemis",
+    "Whisk",
+    "Sacredeia",
+    "Anselmo"
+   ],
+   "note": "Highest single-team damage output reaching 4.45 billion damage using Toxin synergies."
+  },
+  {
+   "mode": "Mechtork Phase 2 Endgame Boss",
+   "heroes": [
+    "Astaion",
+    "Lincos",
+    "Baelvernal",
+    "Daphne",
+    "The Dark Lady"
+   ],
+   "note": "Shadow team comp achieving 1.7 billion damage with attack-boosting gear setups."
+  },
+  {
+   "mode": "Mechtork Phase 2 Endgame Boss",
+   "heroes": [
+    "Astaion",
+    "Baelvernal",
+    "Saverio",
+    "Lincos",
+    "The Dark Lady"
+   ],
+   "note": "Variant Shadow setup utilizing Saverio to reach 1.89 billion damage."
+  },
+  {
+   "mode": "Mechtork Phase 2 Endgame Boss",
+   "heroes": [
+    "Talethia",
+    "Diantha",
+    "Lincos",
+    "Rina",
+    "Baelvernal"
+   ],
+   "note": "Aura-focused team capable of 1.96 billion damage when heavily inspired."
+  }
+ ],
+ "meta_changes": [
+  "Mechtork returns as the Season 8 endgame boss in Phase 2 on the CN server.",
+  "Toxin element dominates total damage contribution on multi-team endgame boss runs."
+ ],
+ "tips": [
+  "Prioritize Enlightenment stats and artifacts on Toxin hero setups like Serpentemis to maximize boss damage.",
+  "Stack multiple attack-boosting artifacts across support heroes in Shadow compositions to maximize main DPS output.",
+  "Debuff-focused strategies enhance damage against Mechtork summons."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "l_v0PMyPf0s",
+ "model": "gemini-3.5-flash",
+ "channel": "Neff Gaming",
+ "title": "Phase 2 - S8 Endgame Boss - Best Teams from the CN Server | Dragonheir: Silent Gods x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=l_v0PMyPf0s",
+ "short": false,
+ "summarized": "2026-11-06T08:24Z"
+}

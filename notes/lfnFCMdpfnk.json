@@ -1,0 +1,49 @@
+{
+ "summary": "Suzi undertakes a 1,000-pull summoning session on the Reversal Summon banner attempting to pull the new premium hero, Child of Chaos. Before pulling, she breaks down his kit, including his ability to switch elements, grant teamwide Control Immunity and Ethereal (AoE damage immunity), passively dispel buffs and debuffs, and execute low-HP targets. Her summoning session suffers extreme bad luck, failing to drop Child of Chaos once in 1,000 pulls, forcing her to rely on the 1,000-summon hard pity guarantee. She uses the resulting soul imprint to acquire and max out his exclusive mythic artifact, Dragonbone Catalyst.",
+ "topics": [
+  "Child of Chaos",
+  "Reversal Summon",
+  "summons",
+  "Dragonbone Catalyst",
+  "hero review"
+ ],
+ "heroes": [
+  {
+   "name": "Child of Chaos",
+   "verdict": "Universal top-tier support hero",
+   "note": "Can switch elements to match his team, grants allies Control Immunity and Ethereal (AoE damage immunity), passively dispels debuffs and buffs while healing, and executes low-HP targets.",
+   "known": true
+  },
+  {
+   "name": "Synarell",
+   "verdict": "Top fire support at high inspiration",
+   "note": "At Inspiration 5, Synarell serves as a essential fire support across almost all fire team compositions.",
+   "known": true
+  },
+  {
+   "name": "Solmo",
+   "verdict": "High value radiant support",
+   "note": "Provides radiant support through shields, buffs, debuff dispels, and reliable survivability for the team.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [
+  "Release of Child of Chaos, a versatile element-swapping support offering unique defensive mechanics like Ethereal (AoE damage immunity) and passive dispels."
+ ],
+ "tips": [
+  "Be prepared for hard pity (1,000 pulls) when chasing premium limited heroes on Reversal banners.",
+  "Child of Chaos's exclusive artifact Dragonbone Catalyst boosts damage and damage reduction for allies matching his element, making it a priority purchase in the Artifact Shop if you obtain a soul imprint."
+ ],
+ "season": "S9",
+ "server_scope": "mixed",
+ "value": "medium",
+ "id": "lfnFCMdpfnk",
+ "model": "gemini-3.5-flash",
+ "channel": "Suzi Plays",
+ "title": "I Did 1000 Summons for Child of Chaos on Day 1 💥 3rd Anniversary Event 🔥 Dragonheir x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=lfnFCMdpfnk",
+ "short": false,
+ "summarized": "2026-11-06T08:23Z"
+}

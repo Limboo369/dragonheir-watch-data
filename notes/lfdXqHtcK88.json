@@ -1,0 +1,74 @@
+{
+ "summary": "Chinese server players achieved over 37 billion damage on the AoE side of Temporal Vortex during Continental Challenge using a Corrosion team. While boss placements and egg spawns on global servers may differ, this Corrosion composition demonstrates massive potential for high-end whale accounts with stacked inspiration and Psychic Cores. The team relies on Szecedith as the primary Corrosion damage engine, supported by Rook, Sacredeia, Reytah, and Blah Blah. Proper gear setups focus on sharing Attack through Puppeteer sets and careful skill timing.",
+ "topics": [
+  "Continental Challenge",
+  "Temporal Vortex",
+  "Corrosion Team",
+  "Crisis Rally",
+  "Team Guide"
+ ],
+ "heroes": [
+  {
+   "name": "Szecedith",
+   "verdict": "Main Corrosion damage engine",
+   "note": "Needs max Attack, 100% Crit Rate, and high Crit Damage to maximize team Corrosion tick damage.",
+   "known": true
+  },
+  {
+   "name": "Rook",
+   "verdict": "Key Corrosion damage enabler",
+   "note": "Built with 100% Crit Rate, max Crit Damage, and Skill Haste while sharing Attack with Szecedith via Attack-sharing gloves.",
+   "known": true
+  },
+  {
+   "name": "Sacredeia",
+   "verdict": "Top offensive Poison/Corrosion support",
+   "note": "Applies Poison Vulnerability and uses the Puppeteer set with full Attack to share Attack with Szecedith.",
+   "known": true
+  },
+  {
+   "name": "Reytah",
+   "verdict": "Essential healer and debuff buffer",
+   "note": "Scales healing with HP to keep heroes topped off while granting damage reduction and debuff-scaling damage buffs.",
+   "known": true
+  },
+  {
+   "name": "Blah Blah",
+   "verdict": "Powerful offensive support",
+   "note": "Effective even at 0 Inspiration; built with HP, Defense, Accuracy, and Skill Haste with shield-triggered team damage buffs.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Temporal Vortex",
+   "heroes": [
+    "Rook",
+    "Szecedith",
+    "Sacredeia",
+    "Reytah",
+    "Blah Blah"
+   ],
+   "note": "Whale Corrosion team capable of reaching over 37 billion AoE damage in Crisis Rally."
+  }
+ ],
+ "meta_changes": [
+  "Corrosion teams using Attack-sharing Puppeteer mechanics compete with top Toxin setups in high-end AoE Vortex contents."
+ ],
+ "tips": [
+  "Build Sacredeia with full Attack and a Puppeteer set to pass additional Attack to Szecedith.",
+  "Ensure both Rook and Szecedith hit 100% Crit Rate to maximize Corrosion damage output.",
+  "Always cast debuffs from Blah Blah and Sacredeia before your main damage dealers execute their skill rotations."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "lfdXqHtcK88",
+ "model": "gemini-3.5-flash",
+ "channel": "Gorax",
+ "title": "37B Damage... And It's NOT Toxin?! 😱 | DragonHeir x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=lfdXqHtcK88",
+ "short": false,
+ "summarized": "2026-11-06T08:21Z"
+}

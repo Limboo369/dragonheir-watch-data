@@ -1,0 +1,98 @@
+{
+ "summary": "OddOneGaming showcases a high-damage Radiant Aura team for the Season 8 Boss Challenge against Joyce, scoring over 750 million damage. The key highlight is Yfeir, a premium Legendary hero who summons up to 5 clones to exploit Joyce's stage mechanic, which grants a 3% damage bonus per unit on field. The guide details hero builds, gear set synergies, stat tuning, and an 18-second ultimate skill rotation designed to maximize damage around Joyce's clone spawns.",
+ "topics": [
+  "Boss Challenge Joyce",
+  "Yfeir Showcase",
+  "Radiant Team Build",
+  "Skill Timing Guide"
+ ],
+ "heroes": [
+  {
+   "name": "Yfeir",
+   "verdict": "Secret MVP for Boss Challenge Joyce",
+   "note": "Spawns up to 5 clones to massively boost Joyce's stage property damage bonus while providing Attack Penalty and passive healing.",
+   "known": true
+  },
+  {
+   "name": "Talethia",
+   "verdict": "Primary Damage Dealer",
+   "note": "Deals massive damage when paired with Radiant Aura enablers and scales exponentially with Inspirations and per-unit damage bonuses.",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "Top Support for Joyce",
+   "note": "Dispels the boss's self-buffs (Damage Up & Defense Up) and debuffs while providing team-wide healing and shields.",
+   "known": true
+  },
+  {
+   "name": "Lincos",
+   "verdict": "Essential Radiant Buffer",
+   "note": "Provides Aura energy and grants the Accompanist damage boost to the ally with highest attack.",
+   "known": true
+  },
+  {
+   "name": "Diantha",
+   "verdict": "Debuffer and Stat Buffer",
+   "note": "Applies Defense Penalty via Witch's Remains and shares stats; Attack stat must remain strictly lower than Talethia's.",
+   "known": true
+  },
+  {
+   "name": "Solmo",
+   "verdict": "Top Substitute for Anneliesis",
+   "note": "Dispels enemy buffs once per second during ultimate and provides massive shields to keep the team alive.",
+   "known": true
+  },
+  {
+   "name": "Ardreth",
+   "verdict": "Budget Replacement for Yfeir",
+   "note": "Solid fallback choice if Yfeir is unavailable, though peak damage output drops from 750M+ down to ~500M.",
+   "known": true
+  },
+  {
+   "name": "Rose",
+   "verdict": "Avoid for Joyce Boss Fight",
+   "note": "Her Recharging Speed Penalty slows down Joyce's energy gain, reducing clone spawns and lowering total team damage.",
+   "known": true
+  },
+  {
+   "name": "Phaessa",
+   "verdict": "Avoid for Joyce Boss Fight",
+   "note": "Inflicts Recharging Speed Penalty, which throws off the boss rotation and decreases overall score.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Boss Challenge - Joyce",
+   "heroes": [
+    "Yfeir",
+    "Talethia",
+    "Diantha",
+    "Lincos",
+    "Anneliesis"
+   ],
+   "note": "High-scoring Radiant team (~750M+ damage) utilizing Yfeir's clones to scale Joyce's unit-count damage bonus, tuned to an 18-second skill rotation."
+  }
+ ],
+ "meta_changes": [
+  "Yfeir emerges as a top-tier niche hero for Boss Challenge Joyce due to clone-scaling stage mechanics."
+ ],
+ "tips": [
+  "Do not bring heroes with Recharging Speed Penalty (such as Rose or Phaessa) against Joyce, as slowing the boss reduces clone spawns and lowers team damage.",
+  "Ensure Diantha's attack stat remains lower than Talethia's so Lincos's Accompanist buff always targets Talethia.",
+  "Set ultimate skill timings to an 18-second recast cycle so ultimate abilities land immediately after Joyce summons clones.",
+  "Equip Talethia with Dragonblood Brand or Converging Flames and aim for 100% Crit Rate using Golden Alarm."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "lo9KfxUCvfM",
+ "model": "gemini-3.5-flash",
+ "channel": "OddOneGaming RPGs",
+ "title": "💥 HE FINALLY SHINES! 💥750m+ DMG Aura Team vs Joyce S8 GUIDE | Dragonheir x Dragonstridea",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=lo9KfxUCvfM",
+ "short": false,
+ "summarized": "2026-11-06T08:22Z"
+}
