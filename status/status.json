@@ -1,5 +1,5 @@
 {
- "built": "2026-11-06T12:18Z",
+ "built": "2026-11-06T12:57Z",
  "last_fetch": "2026-11-06T12:17Z",
  "counts": {
   "summarized": 296,
@@ -85,7 +85,6 @@
   "quota_hit": 1793967488.4727676
  },
  "log_tail": [
-  "== 2026-11-06 09:17",
   "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "Gemini quota was full less than an hour ago, trying again next round",
@@ -164,7 +163,8 @@
   "+ Volkin Dragonheir: BEST START - Get All FREE Heroes & Summons + Which BANNER To",
   "  gemini-3.5-flash: 429, using gemini-3.7-flash",
   "  gemini-3.7-flash: 429, using gemini-3.6-flash",
-  "! GET READY!! Big Meta Changes Coming With The New H: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google."
+  "! GET READY!! Big Meta Changes Coming With The New H: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 296 videos, 189 heroes"
  ],
  "crontab": [],
  "channels": [
