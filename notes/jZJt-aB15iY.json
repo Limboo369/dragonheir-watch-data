@@ -1,0 +1,57 @@
+{
+ "summary": "This video outlines the ultimate day-one startup strategy for new servers in Dragonheir: Silent Gods. Volkin highlights how to claim all free early heroes, including Astaion from the registration link, Garius on Day 2 check-in, and a choice of free Legendary hero like Felosia from the web Fate Test. He advises players to skip the tutorial summon to save all Heliolite Dices for the Child of Chaos banner and upcoming Option Summons, while maximizing Wyrmarrow through the Account Valuation web event.",
+ "topics": [
+  "Beginner Guide",
+  "Free Heroes",
+  "Summon Strategy",
+  "Web Events",
+  "Banners"
+ ],
+ "heroes": [
+  {
+   "name": "Garius",
+   "verdict": "Top-tier early game tank and healer",
+   "note": "Free on Day 2 check-in; passive stacks up to 30 stacks of Defense Up (+60%) when hit, and his ultimate cleanses self and heals the entire team.",
+   "known": true
+  },
+  {
+   "name": "Felosia",
+   "verdict": "Recommended free Legendary hero pick",
+   "note": "Frost support hero with strong early game synergy; claimable via the web Fate Test event.",
+   "known": true
+  },
+  {
+   "name": "Astaion",
+   "verdict": "Great early Ice damage dealer",
+   "note": "Claimed via the download link web event to carry early progression.",
+   "known": true
+  },
+  {
+   "name": "Child of Chaos",
+   "verdict": "Top banner priority for new accounts",
+   "note": "Featured limited banner hero with a pity guarantee at 300 pulls.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [],
+ "tips": [
+  "Use the creator download link to claim free Astaion to carry early Ice content.",
+  "Exit out of the mandatory tutorial summon screen to preserve your Heliolite Dices instead of pulling on the standard Heliolite banner.",
+  "Save all summons for the Child of Chaos banner to reach the guaranteed copy at 300 pulls.",
+  "Submit RPG screenshots in the Account Valuation web event to get up to 4,800 free Wyrmarrow on a new account.",
+  "Claim Garius on Day 2 of Daily Check-in and build him with high Defense stats for massive team healing.",
+  "Complete the Fate Test web event before September 30th to choose a free Legendary hero (spam option A six times to get Felosia)."
+ ],
+ "season": "S1",
+ "server_scope": "S1",
+ "value": "high",
+ "id": "jZJt-aB15iY",
+ "model": "gemini-3.5-flash",
+ "channel": "Volkin Dragonheir",
+ "title": "BEST START - Get All FREE Heroes & Summons + Which BANNER To Pull!!! [Dragonheir: Silent Gods]",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=jZJt-aB15iY",
+ "short": false,
+ "summarized": "2026-11-06T12:18Z"
+}

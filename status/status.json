@@ -1,11 +1,11 @@
 {
- "built": "2026-11-06T11:57Z",
- "last_fetch": "2026-11-06T11:17Z",
+ "built": "2026-11-06T12:18Z",
+ "last_fetch": "2026-11-06T12:17Z",
  "counts": {
-  "summarized": 295,
+  "summarized": 296,
   "skipped_giveaway": 17,
   "baseline": 22,
-  "new": 316,
+  "new": 315,
   "retry": 9,
   "skipped_live": 1,
   "failed": 2
@@ -54,12 +54,6 @@
    "error": ""
   },
   {
-   "title": "BEST START - Get All FREE Heroes & Summons + Which BANNER To Pull!!! [Dragonheir: Silent Gods]",
-   "channel": "Volkin Dragonheir",
-   "status": "retry",
-   "error": ""
-  },
-  {
    "title": "EVENT REVEAL 💥 & Understanding the Child of Chaos vs The Dark Lady  🔥 Dragonheir x Dragonstride",
    "channel": "Suzi Plays",
    "status": "retry",
@@ -76,49 +70,21 @@
    "channel": "Skyasterix Gaming",
    "status": "failed",
    "error": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}"
+  },
+  {
+   "title": "Creator Code RESET! Enter liveranov Again + BuffBuff Deals up to 32% OFF | Dragonheir: Silent Gods",
+   "channel": "liveranov",
+   "status": "retry",
+   "error": ""
   }
  ],
  "budget": {
   "day": "2026-11-06",
-  "seconds": 17182,
+  "seconds": 17875,
   "v2": 1,
-  "quota_hit": 1793960718.4702115
+  "quota_hit": 1793967488.4727676
  },
  "log_tail": [
-  "  gemini-3.8-flash: 503, using gemini-3.5-flash",
-  "… Suzi Plays: I had to pull for ERNESTO!💥 Let's Summon! 🔥 Dragonheir x Dra",
-  "saved lfnFCMdpfnk",
-  "+ Suzi Plays: I Did 1000 Summons for Child of Chaos on Day 1 💥 3rd Anniver",
-  "… Suzi Plays: EVENT REVEAL 💥 & Understanding the Child of Chaos vs The Dar",
-  "saved m_mPa3snJ_Y",
-  "+ Gorax: Upcoming Banners Explained! Where Should You Spend Your Dice",
-  "… Fastidious Dragonheir: How To Get A PREMIUM Legendary Hero In Less Than 5 Days ⁂ Dr",
-  "saved lbhNE70VBbQ",
-  "+ Gorax: Child of Chaos FULL Reveal - Skills, Inspirations & More | D",
-  "  gemini-3.8-flash: 503, using gemini-3.5-flash",
-  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
-  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
-  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
-  "… liveranov: Thunderbolt Team (UPDATED) vs Fire Guardians | Crown Contest",
-  "saved l_v0PMyPf0s (unknown hero names: Loter)",
-  "+ Neff Gaming: Phase 2 - S8 Endgame Boss - Best Teams from the CN Server | ",
-  "… Gorax: Whisk - THE BEST Teams & Strategy | Continental Challenge | ",
-  "saved lXgP9Lx-cCU",
-  "+ Suzi Plays: I had to pull for ERNESTO!💥 Let's Summon! 🔥 Dragonheir x Dra",
-  "… Volkin Dragonheir: NEW CODE, All Active Codes & FREE Heroes / Pulls for NEW Acc",
-  "saved jz6YEj19yYk",
-  "+ Gorax: Whisk - THE BEST Teams & Strategy | Continental Challenge | ",
-  "saved jonmgumQehI",
-  "+ Volkin Dragonheir: NEW CODE, All Active Codes & FREE Heroes / Pulls for NEW Acc",
-  "saved kW29Zvamh3w (unknown hero names: Sha'nachtan)",
-  "+ liveranov: Thunderbolt Team (UPDATED) vs Fire Guardians | Crown Contest",
-  "  gemini-3.5-flash: 503, using gemini-3.7-flash",
-  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
-  "  gemini-3.5-flash: 503, using gemini-3.7-flash",
-  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
-  "! How To Get A PREMIUM Legendary Hero In Less Than 5: ServerError: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
-  "! EVENT REVEAL 💥 & Understanding the Child of Chaos : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 292 videos, 186 heroes",
   "== 2026-11-06 09:17",
   "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
@@ -164,7 +130,41 @@
   "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "Gemini quota was full less than an hour ago, trying again next round",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 295 videos, 189 heroes"
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 295 videos, 189 heroes",
+  "== 2026-11-06 12:17",
+  "fetch done: 0 new transcripts, 0 not available yet",
+  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
+  "… liveranov: Creator Code RESET! Enter liveranov Again + BuffBuff Deals u",
+  "… Suzi Plays: EVENT REVEAL 💥 & Understanding the Child of Chaos vs The Dar",
+  "… Skratch Gaming: GET READY!! Big Meta Changes Coming With The New Heroes... D",
+  "… Volkin Dragonheir: BEST START - Get All FREE Heroes & Summons + Which BANNER To",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
+  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
+  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
+  "… Volkin Dragonheir: BEST Summon Strategy For NEW Accounts!!! [Dragonheir: Silent",
+  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
+  "! EVENT REVEAL 💥 & Understanding the Child of Chaos : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "… Skyasterix Gaming: 🔥 The MOST TOXIC Event?! ⚠️ Dragon Crown Homage – My Honest ",
+  "! Creator Code RESET! Enter liveranov Again + BuffBu: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "… Gorax: This F2P Team Beats the META! | Temporal Vortex Guide | Drag",
+  "! BEST Summon Strategy For NEW Accounts!!! [Dragonhe: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "… Skratch Gaming: 3rd Anniversary Events | What To Expect...Dragonheir: Silent",
+  "! 🔥 The MOST TOXIC Event?! ⚠️ Dragon Crown Homage – : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "… Volkin Dragonheir: I Pulled Something CRAZY!!! [Dragonheir: Silent Gods]",
+  "! This F2P Team Beats the META! | Temporal Vortex Gu: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "… Gorax: Dragon Crown Homage Event Breakdown - Worth It or Whale Bait",
+  "! 3rd Anniversary Events | What To Expect...Dragonhe: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "! I Pulled Something CRAZY!!! [Dragonheir: Silent Go: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "! Dragon Crown Homage Event Breakdown - Worth It or : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "saved jZJt-aB15iY",
+  "+ Volkin Dragonheir: BEST START - Get All FREE Heroes & Summons + Which BANNER To",
+  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
+  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
+  "! GET READY!! Big Meta Changes Coming With The New H: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google."
  ],
  "crontab": [],
  "channels": [
@@ -172,55 +172,55 @@
    "name": "Skratch Gaming",
    "id": "UCoSkzr1pXpt3d0jIxsc6ufw",
    "enabled": true,
-   "checked": "2026-11-06T11:17Z"
+   "checked": "2026-11-06T12:17Z"
   },
   {
    "name": "Gorax",
    "id": "UCNas7BnuOIjDEzY1D53kb1w",
    "enabled": true,
-   "checked": "2026-11-06T11:17Z"
+   "checked": "2026-11-06T12:17Z"
   },
   {
    "name": "Neff Gaming",
    "id": "UCsxs6YhNd_B36RgUAjbpJ_A",
    "enabled": true,
-   "checked": "2026-11-06T11:17Z"
+   "checked": "2026-11-06T12:17Z"
   },
   {
    "name": "Volkin Dragonheir",
    "id": "UCfRpOh_ywVjzhh9fxHbreGw",
    "enabled": true,
-   "checked": "2026-11-06T11:17Z"
+   "checked": "2026-11-06T12:17Z"
   },
   {
    "name": "Fastidious Dragonheir",
    "id": "UC16mpj5wEemSZX-uTlHe9Ww",
    "enabled": true,
-   "checked": "2026-11-06T11:17Z"
+   "checked": "2026-11-06T12:17Z"
   },
   {
    "name": "OddOneGaming RPGs",
    "id": "UC1ivUEf_poI9_R2eVKa8wRQ",
    "enabled": true,
-   "checked": "2026-11-06T11:17Z"
+   "checked": "2026-11-06T12:17Z"
   },
   {
    "name": "Suzi Plays",
    "id": "UCyo1-TkunhGcK6khU1h8Ypw",
    "enabled": true,
-   "checked": "2026-11-06T11:17Z"
+   "checked": "2026-11-06T12:17Z"
   },
   {
    "name": "Skyasterix Gaming",
    "id": "UCr5Gb3910rK7QPmKMmdagsA",
    "enabled": true,
-   "checked": "2026-11-06T11:17Z"
+   "checked": "2026-11-06T12:17Z"
   },
   {
    "name": "liveranov",
    "id": "UCqCR7ofFHhWwXy3Hg00fqEw",
    "enabled": true,
-   "checked": "2026-11-06T11:17Z"
+   "checked": "2026-11-06T12:17Z"
   }
  ]
 }
