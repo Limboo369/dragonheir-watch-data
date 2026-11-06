@@ -1,5 +1,5 @@
 {
- "built": "2026-11-06T04:19Z",
+ "built": "2026-11-06T04:54Z",
  "last_fetch": "2026-11-06T04:17Z",
  "counts": {
   "summarized": 281,
@@ -91,7 +91,6 @@
   "quota_hit": 1793938773.5739074
  },
  "log_tail": [
-  "== 2026-11-06 02:17",
   "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "… Neff Gaming: +11 BILLION DAMAGE! 😱 Rhyviel Inspiration Changes EVERYTHING",
@@ -170,7 +169,8 @@
   "saved nAbgmMFtx_0",
   "+ Skratch Gaming: This Boss Is BROKEN!!! Thunderbolt Vs. Talethia Chief Challe",
   "  gemini-3.7-flash: 429, using gemini-3.6-flash",
-  "! The Best Way To Summon During The Third Anniversar: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google."
+  "! The Best Way To Summon During The Third Anniversar: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 281 videos, 184 heroes"
  ],
  "crontab": [],
  "channels": [
