@@ -1,12 +1,12 @@
 {
- "built": "2026-11-06T16:21Z",
+ "built": "2026-11-06T16:51Z",
  "last_fetch": "2026-11-06T16:17Z",
  "counts": {
   "summarized": 297,
   "skipped_giveaway": 17,
   "baseline": 22,
-  "new": 316,
-  "retry": 8,
+  "new": 315,
+  "retry": 9,
   "skipped_live": 1,
   "failed": 2
  },
@@ -70,20 +70,21 @@
    "channel": "liveranov",
    "status": "retry",
    "error": ""
+  },
+  {
+   "title": "WARNING for Piece of Treasury Event 💥 Use the Furnace & Forge Wisely! 🔥 Dragonheir x Dragonstride",
+   "channel": "Suzi Plays",
+   "status": "retry",
+   "error": ""
   }
  ],
  "budget": {
   "day": "2026-11-06",
-  "seconds": 21841,
+  "seconds": 20641,
   "v2": 1,
-  "quota_hit": 1793981938.2469578
+  "quota_hit": 1793982784.917372
  },
  "log_tail": [
-  "… Gorax: This F2P Team Beats the META! | Temporal Vortex Guide | Drag",
-  "! BEST Summon Strategy For NEW Accounts!!! [Dragonhe: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
-  "… Skratch Gaming: 3rd Anniversary Events | What To Expect...Dragonheir: Silent",
-  "! 🔥 The MOST TOXIC Event?! ⚠️ Dragon Crown Homage – : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
-  "… Volkin Dragonheir: I Pulled Something CRAZY!!! [Dragonheir: Silent Gods]",
   "! This F2P Team Beats the META! | Temporal Vortex Gu: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
   "… Gorax: Dragon Crown Homage Event Breakdown - Worth It or Whale Bait",
   "! 3rd Anniversary Events | What To Expect...Dragonhe: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
@@ -158,7 +159,12 @@
   "  gemini-3.7-flash: 429, using gemini-3.6-flash",
   "! Creator Code RESET! Enter liveranov Again + BuffBu: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
   "saved jgyWHcBycug (unknown hero names: Sennis, Levier, Fei Lunzur, Amaryllid, Lamb, Torin)",
-  "+ Skratch Gaming: GET READY!! Big Meta Changes Coming With The New Heroes... D"
+  "+ Skratch Gaming: GET READY!! Big Meta Changes Coming With The New Heroes... D",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
+  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
+  "! WARNING for Piece of Treasury Event 💥 Use the Furn: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 297 videos, 193 heroes"
  ],
  "crontab": [],
  "channels": [
