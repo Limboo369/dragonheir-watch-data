@@ -1,5 +1,5 @@
 {
- "built": "2026-11-06T18:22Z",
+ "built": "2026-11-06T18:52Z",
  "last_fetch": "2026-11-06T18:17Z",
  "counts": {
   "summarized": 298,
@@ -80,14 +80,11 @@
  ],
  "budget": {
   "day": "2026-11-06",
-  "seconds": 24241,
+  "seconds": 23041,
   "v2": 1,
-  "quota_hit": 1793989307.7730987
+  "quota_hit": 1793989977.2212014
  },
  "log_tail": [
-  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
-  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
-  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
   "  gemini-3.5-flash: 429, using gemini-3.7-flash",
   "  gemini-3.7-flash: 429, using gemini-3.6-flash",
   "  gemini-3.5-flash: 429, using gemini-3.7-flash",
@@ -164,7 +161,10 @@
   "  gemini-3.8-flash: 429, using gemini-3.5-flash",
   "  gemini-3.5-flash: 429, using gemini-3.7-flash",
   "  gemini-3.7-flash: 429, using gemini-3.6-flash",
-  "! EVENT REVEAL 💥 & Understanding the Child of Chaos : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google."
+  "! EVENT REVEAL 💥 & Understanding the Child of Chaos : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
+  "! Creator Code RESET! Enter liveranov Again + BuffBu: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 298 videos, 193 heroes"
  ],
  "crontab": [],
  "channels": [
