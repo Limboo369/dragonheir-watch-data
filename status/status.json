@@ -1,12 +1,12 @@
 {
- "built": "2026-11-06T16:01Z",
- "last_fetch": "2026-11-06T15:17Z",
+ "built": "2026-11-06T16:21Z",
+ "last_fetch": "2026-11-06T16:17Z",
  "counts": {
-  "summarized": 296,
+  "summarized": 297,
   "skipped_giveaway": 17,
   "baseline": 22,
   "new": 316,
-  "retry": 9,
+  "retry": 8,
   "skipped_live": 1,
   "failed": 2
  },
@@ -28,12 +28,6 @@
    "channel": "liveranov",
    "status": "failed",
    "error": "Expecting value: line 1 column 1 (char 0)"
-  },
-  {
-   "title": "GET READY!! Big Meta Changes Coming With The New Heroes... Dragonheir: Silent Gods x Dragonstride",
-   "channel": "Skratch Gaming",
-   "status": "retry",
-   "error": ""
   },
   {
    "title": "3rd Anniversary Events | What To Expect...Dragonheir: Silent Gods x Dragonstride",
@@ -80,33 +74,11 @@
  ],
  "budget": {
   "day": "2026-11-06",
-  "seconds": 19499,
+  "seconds": 21841,
   "v2": 1,
-  "quota_hit": 1793974782.87161
+  "quota_hit": 1793981938.2469578
  },
  "log_tail": [
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "Gemini quota was full less than an hour ago, trying again next round",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 295 videos, 189 heroes",
-  "== 2026-11-06 12:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "… liveranov: Creator Code RESET! Enter liveranov Again + BuffBuff Deals u",
-  "… Suzi Plays: EVENT REVEAL 💥 & Understanding the Child of Chaos vs The Dar",
-  "… Skratch Gaming: GET READY!! Big Meta Changes Coming With The New Heroes... D",
-  "… Volkin Dragonheir: BEST START - Get All FREE Heroes & Summons + Which BANNER To",
-  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
-  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
-  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
-  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
-  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
-  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
-  "… Volkin Dragonheir: BEST Summon Strategy For NEW Accounts!!! [Dragonheir: Silent",
-  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
-  "! EVENT REVEAL 💥 & Understanding the Child of Chaos : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
-  "… Skyasterix Gaming: 🔥 The MOST TOXIC Event?! ⚠️ Dragon Crown Homage – My Honest ",
-  "! Creator Code RESET! Enter liveranov Again + BuffBu: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
   "… Gorax: This F2P Team Beats the META! | Temporal Vortex Guide | Drag",
   "! BEST Summon Strategy For NEW Accounts!!! [Dragonhe: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
   "… Skratch Gaming: 3rd Anniversary Events | What To Expect...Dragonheir: Silent",
@@ -164,7 +136,29 @@
   "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "Gemini quota was full less than an hour ago, trying again next round",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 296 videos, 189 heroes"
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 296 videos, 189 heroes",
+  "== 2026-11-06 16:17",
+  "fetch done: 0 new transcripts, 0 not available yet",
+  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
+  "… Suzi Plays: WARNING for Piece of Treasury Event 💥 Use the Furnace & Forg… liveranov: Creator Code RESET! Enter liveranov Again + BuffBuff Deals u",
+  "",
+  "… Suzi Plays: EVENT REVEAL 💥 & Understanding the Child of Chaos vs The Dar",
+  "… Skratch Gaming: GET READY!! Big Meta Changes Coming With The New Heroes... D",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
+  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
+  "… Volkin Dragonheir: BEST Summon Strategy For NEW Accounts!!! [Dragonheir: Silent",
+  "! EVENT REVEAL 💥 & Understanding the Child of Chaos : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "… Skyasterix Gaming: 🔥 The MOST TOXIC Event?! ⚠️ Dragon Crown Homage – My Honest ",
+  "! BEST Summon Strategy For NEW Accounts!!! [Dragonhe: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "! 🔥 The MOST TOXIC Event?! ⚠️ Dragon Crown Homage – : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
+  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
+  "! Creator Code RESET! Enter liveranov Again + BuffBu: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "saved jgyWHcBycug (unknown hero names: Sennis, Levier, Fei Lunzur, Amaryllid, Lamb, Torin)",
+  "+ Skratch Gaming: GET READY!! Big Meta Changes Coming With The New Heroes... D"
  ],
  "crontab": [],
  "channels": [
@@ -172,55 +166,55 @@
    "name": "Skratch Gaming",
    "id": "UCoSkzr1pXpt3d0jIxsc6ufw",
    "enabled": true,
-   "checked": "2026-11-06T15:17Z"
+   "checked": "2026-11-06T16:17Z"
   },
   {
    "name": "Gorax",
    "id": "UCNas7BnuOIjDEzY1D53kb1w",
    "enabled": true,
-   "checked": "2026-11-06T15:17Z"
+   "checked": "2026-11-06T16:17Z"
   },
   {
    "name": "Neff Gaming",
    "id": "UCsxs6YhNd_B36RgUAjbpJ_A",
    "enabled": true,
-   "checked": "2026-11-06T15:17Z"
+   "checked": "2026-11-06T16:17Z"
   },
   {
    "name": "Volkin Dragonheir",
    "id": "UCfRpOh_ywVjzhh9fxHbreGw",
    "enabled": true,
-   "checked": "2026-11-06T15:17Z"
+   "checked": "2026-11-06T16:17Z"
   },
   {
    "name": "Fastidious Dragonheir",
    "id": "UC16mpj5wEemSZX-uTlHe9Ww",
    "enabled": true,
-   "checked": "2026-11-06T15:17Z"
+   "checked": "2026-11-06T16:17Z"
   },
   {
    "name": "OddOneGaming RPGs",
    "id": "UC1ivUEf_poI9_R2eVKa8wRQ",
    "enabled": true,
-   "checked": "2026-11-06T15:17Z"
+   "checked": "2026-11-06T16:17Z"
   },
   {
    "name": "Suzi Plays",
    "id": "UCyo1-TkunhGcK6khU1h8Ypw",
    "enabled": true,
-   "checked": "2026-11-06T15:17Z"
+   "checked": "2026-11-06T16:17Z"
   },
   {
    "name": "Skyasterix Gaming",
    "id": "UCr5Gb3910rK7QPmKMmdagsA",
    "enabled": true,
-   "checked": "2026-11-06T15:17Z"
+   "checked": "2026-11-06T16:17Z"
   },
   {
    "name": "liveranov",
    "id": "UCqCR7ofFHhWwXy3Hg00fqEw",
    "enabled": true,
-   "checked": "2026-11-06T15:17Z"
+   "checked": "2026-11-06T16:17Z"
   }
  ]
 }

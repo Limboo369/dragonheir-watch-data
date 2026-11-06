@@ -1,0 +1,107 @@
+{
+ "summary": "Skratch reviews nine new Legendary heroes revealed in the Chinese version for Season 9 ('Dark Tide is Coming'). The incoming roster promises significant meta shifts, particularly for Corrosion and Aura damage archetypes. Corrosion receives a dedicated defense-shredding enabler in Levier alongside a new exclusive artifact for Szechidith, while Horace Halfast provides Aura teams with an activator that triggers assist attacks and energy regeneration. Additional non-exclusive elemental supports for Fire, Frost, Poison, and Lightning are also covered.",
+ "topics": [
+  "new heroes",
+  "season 9",
+  "Chinese version reveal",
+  "corrosion meta",
+  "aura team",
+  "hero preview"
+ ],
+ "heroes": [
+  {
+   "name": "Thea",
+   "verdict": "Strong Necrosis Exclusive Support candidate",
+   "note": "Increases ally damage output, reduces damage taken, provides shields and healing, and inflicts debuffs on enemies.",
+   "known": true
+  },
+  {
+   "name": "Celestine",
+   "verdict": "Frost Exclusive Support candidate",
+   "note": "Heals allies, provides shields, cleanses debuffs, grants random buffs upon resisting status effects, and inflicts Karma to reduce enemy damage.",
+   "known": true
+  },
+  {
+   "name": "Sennis",
+   "verdict": "Shadow Exclusive DPS",
+   "note": "Reduces enemy defense, buffs same-element ally attack, and pulls the highest-attack enemy into a Corruption Dimension to isolate them from combat.",
+   "known": false
+  },
+  {
+   "name": "Levier",
+   "verdict": "Corrosion Exclusive DPS",
+   "note": "Applies Bite to lower defense and directly increases enemy Corrosion values once stacks are capped, massively buffing overall Corrosion damage.",
+   "known": false
+  },
+  {
+   "name": "Holfast",
+   "verdict": "Must-have Aura Exclusive Activator",
+   "note": "Channels Aura energy to allies, grants damage buffs, triggers assist attacks, and restores Aura energy following his power skill.",
+   "known": true
+  },
+  {
+   "name": "Fei Lunzur",
+   "verdict": "Fire Non-Exclusive Support",
+   "note": "Heals allies, cleanses debuffs, and decreases enemy attack power and ultimate charge speed.",
+   "known": false
+  },
+  {
+   "name": "Amaryllid",
+   "verdict": "Poison Non-Exclusive Support",
+   "note": "Inflicts random debuffs on hit, gains self-shields and hit chance, and silences enemies within an area.",
+   "known": false
+  },
+  {
+   "name": "Lamb",
+   "verdict": "Frost Non-Exclusive Support",
+   "note": "Applies White Rat effect to shield and heal allies, and Black Rat effect to reflect enemy debuffs and control effects back at attackers.",
+   "known": false
+  },
+  {
+   "name": "Torin",
+   "verdict": "Lightning Non-Exclusive Support",
+   "note": "Stuns enemies, shields allies through static charge stacks, knocks back targets, and reduces enemy attack and effect resistance.",
+   "known": false
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Single Target Bosses / Chief Challenge",
+   "heroes": [
+    "Levier",
+    "Szechidith",
+    "Rook"
+   ],
+   "note": "Corrosion receives a massive single-target buff via Levier accelerating stack application and Szechidith getting an exclusive artifact."
+  },
+  {
+   "mode": "PVP / Boss Speedruns",
+   "heroes": [
+    "Holfast",
+    "Talethia",
+    "Anneliesis"
+   ],
+   "note": "Holfast provides Aura teams with necessary activation, energy refund, and extra attacks to push team damage higher."
+  }
+ ],
+ "meta_changes": [
+  "Corrosion meta shifts back toward top-tier single-target boss damage with Levier and Szechidith's exclusive artifact.",
+  "Aura archetype receives a dedicated activator hero in Holfast to unleash extra attacks and energy recovery.",
+  "Introduction of dimensional Banishment mechanics with Shadow hero Sennis to isolate boss/high-attack targets."
+ ],
+ "tips": [
+  "Prioritize saving resources for enablers like Holfast if you already invested heavily into an Aura team.",
+  "Prepare gear for Corrosion heroes as the archetype is expected to dominate long single-target boss encounters."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "jgyWHcBycug",
+ "model": "gemini-3.5-flash",
+ "channel": "Skratch Gaming",
+ "title": "GET READY!! Big Meta Changes Coming With The New Heroes... Dragonheir: Silent Gods x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=jgyWHcBycug",
+ "short": false,
+ "summarized": "2026-11-06T16:18Z"
+}
