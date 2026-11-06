@@ -1,0 +1,175 @@
+{
+ "summary": "This video breaks down the top player team compositions and rankings from the Chinese server for Week 2 of Continental Challenge in Season 9. Players require four specialized teams, with top competitors achieving over 7 billion total damage across bosses like Stegamoffyn, Guinavivre, and Synarell. Aura remains the dominant damage setup hitting between 2.3B and 3.6B, while Corrosion and Dauntless form reliable secondary teams. Notably, Toxin teams utilizing Sleight, Serpentemis, and Rhyviel heavily outperform Wild against Guinavivre, while Synarell requires multi-school lineups to trigger a 50% damage vulnerability.",
+ "topics": [
+  "Continental Challenge",
+  "S9 Meta",
+  "CN Rankings",
+  "Boss Guides",
+  "Gear Builds"
+ ],
+ "heroes": [
+  {
+   "name": "Holfast",
+   "verdict": "Top tier Aura DPS",
+   "note": "Reaches 2.7B to 3.6B damage when built with full mythic crit rate and crit damage gear.",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "Essential Aura support",
+   "note": "Geared with the Secrecy set, accuracy, skill haste, and Golden Antlers for optimal buffing.",
+   "known": true
+  },
+  {
+   "name": "Talethia",
+   "verdict": "Top tier Aura DPS",
+   "note": "Excels with full mythic attack and crit damage gear, utilizing the Converging Flames helm.",
+   "known": true
+  },
+  {
+   "name": "Diantha",
+   "verdict": "Core Aura DPS",
+   "note": "Built with full mythic gear focusing on crit rate, crit damage, and raw attack.",
+   "known": true
+  },
+  {
+   "name": "Rena",
+   "verdict": "Best Aura rotation buffer",
+   "note": "Built with the Puppeteer set and high skill haste to accelerate team ultimate skill cycles.",
+   "known": true
+  },
+  {
+   "name": "Rhyviel",
+   "verdict": "Highly versatile tank/DPS",
+   "note": "Functions exceptionally in both Corrosion and Toxin setups, tanking effectively using Mystic Conch with defense stats.",
+   "known": true
+  },
+  {
+   "name": "Rook",
+   "verdict": "Core Corrosion DPS",
+   "note": "Requires the Stream Sonata set, 100% crit rate, high crit damage, and skill haste.",
+   "known": true
+  },
+  {
+   "name": "Szecedith",
+   "verdict": "Core Corrosion and Toxin DPS",
+   "note": "Deals massive damage using either Swamp Toadstool or exclusive artifact alongside full mythic gear.",
+   "known": true
+  },
+  {
+   "name": "Child of Chaos",
+   "verdict": "Essential Corrosion support",
+   "note": "Runs the Puppeteer set to support the team without needing high inspiration levels.",
+   "known": true
+  },
+  {
+   "name": "Sleight",
+   "verdict": "Top Toxin DPS vs Guinavivre",
+   "note": "Pumps out huge damage against Guinavivre even at Inspiration 0.",
+   "known": true
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "Top Toxin DPS vs Guinavivre",
+   "note": "Enables 870M+ at Inspiration 0 and exceeds 1.1B damage at Inspiration 5.",
+   "known": true
+  },
+  {
+   "name": "Perkunte",
+   "verdict": "Primary DPS against Synarell",
+   "note": "Anchors the Thunderbolt setup that exploits Synarell's multi-school vulnerability mechanic.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Continental Challenge",
+   "heroes": [
+    "Holfast",
+    "Anneliesis",
+    "Talethia",
+    "Diantha",
+    "Rena"
+   ],
+   "note": "Top scoring Aura team delivering 2.3B to 3.6B damage, featuring Anneliesis on Secrecy and Rena on Puppeteer."
+  },
+  {
+   "mode": "Continental Challenge",
+   "heroes": [
+    "Child of Chaos",
+    "Szecedith",
+    "Rook",
+    "Rhyviel",
+    "Sia"
+   ],
+   "note": "Corrosion team reaching 1.7B+ damage; Reytah can replace Sia and Sacredeia can be substituted as needed."
+  },
+  {
+   "mode": "Continental Challenge",
+   "heroes": [
+    "Sleight",
+    "Serpentemis",
+    "Szecedith",
+    "Oggok",
+    "Rhyviel"
+   ],
+   "note": "Toxin team vs Guinavivre reaching 872M at I0 and over 1.1B at I5, utilizing Rhyviel as a tank with Mystic Conch."
+  },
+  {
+   "mode": "Continental Challenge",
+   "heroes": [
+    "Guinavivre",
+    "Nastjenka",
+    "Kurvida",
+    "Sutha",
+    "Errich"
+   ],
+   "note": "Dauntless physical composition vs Stegamoffyn capable of delivering roughly 1.9B damage."
+  },
+  {
+   "mode": "Continental Challenge",
+   "heroes": [
+    "Hochadir",
+    "Aschetius",
+    "Lossenia",
+    "Vidimir",
+    "Errich"
+   ],
+   "note": "Ice Blast team achieving 1.55B damage as a strong alternative to Dauntless on Stegamoffyn."
+  },
+  {
+   "mode": "Continental Challenge",
+   "heroes": [
+    "Perkunte",
+    "Alaura",
+    "Tariz",
+    "Shook",
+    "Journ"
+   ],
+   "note": "Thunderbolt team vs Synarell incorporating heroes from three distinct schools to trigger a 50% damage bonus."
+  }
+ ],
+ "meta_changes": [
+  "Aura remains the undisputed highest single-team damage archetype in Continental Challenge, exceeding 3.5B damage.",
+  "Toxin teams utilizing Sleight and Serpentemis have superseded Wild teams on Guinavivre, breaking 1.1B damage.",
+  "New Corrosion hero Rhyviel is cross-viable in Toxin comps as an effective tank DPS with Mystic Conch.",
+  "The Synarell encounter mechanics favor mixing heroes from three different element schools for a 50% damage increase."
+ ],
+ "tips": [
+  "Forge the Raging Wildfire - Helm+ (Converging Flames set) because it is widely shared across Aura, Dauntless, and Corrosion damage dealers.",
+  "Use a Toxin team instead of Wild to counter Guinavivre in Continental Challenge for much higher damage output even at low inspiration.",
+  "Equip rotation enablers like Child of Chaos and Rena with the Puppeteer set to cycle ultimate skills rapidly.",
+  "When tackling Synarell, combine your primary damage dealers with supports from two separate schools to trigger the 50% damage increase."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "M1l8V-XyEvs",
+ "model": "gemini-3.8-flash",
+ "channel": "Neff Gaming",
+ "title": "S9 CONTINENTAL CHALLENGE 🔥 BEST TEAMS REVEALED! Week 2 CN Rankings | Dragonheir: Silent Gods",
+ "published": "2026-11-06T10:15:17+00:00",
+ "url": "https://www.youtube.com/watch?v=M1l8V-XyEvs",
+ "short": false,
+ "summarized": "2026-11-06T10:18Z"
+}

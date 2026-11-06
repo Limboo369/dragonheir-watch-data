@@ -1,0 +1,26 @@
+{
+ "summary": "An official Discord event, Meme Spotlight, is running from November 7 to November 15 UTC with the theme 'Talents'. Players can submit memes in the #meme-spotlight channel, with talent-themed memes granting specific rewards. Submitting a talent meme earns 3 Heliolite Dice, while the community-voted top meme wins 500 Wyrmarrow and a temporary Meme Lord role.",
+ "topics": [
+  "Discord Event",
+  "Meme Spotlight",
+  "Community Rewards"
+ ],
+ "heroes": [],
+ "teams": [],
+ "meta_changes": [],
+ "tips": [
+  "Post a talent-themed meme in the #meme-spotlight Discord channel between Nov 7 and Nov 15 UTC to claim 3 Heliolite Dice.",
+  "The weekly top meme chosen by community reactions earns 500 Wyrmarrow and the temporary Meme Lord role."
+ ],
+ "season": "unknown",
+ "server_scope": "S1",
+ "value": "low",
+ "id": "TiXB4Inyg2I",
+ "model": "gemini-3.8-flash",
+ "channel": "liveranov",
+ "title": "New Meme Theme: TALENTS! 🎲 Free Heliolite Dice on the Official Discord | Dragonheir #shorts",
+ "published": "2026-11-06T09:11:37+00:00",
+ "url": "https://www.youtube.com/shorts/TiXB4Inyg2I",
+ "short": true,
+ "summarized": "2026-11-06T10:17Z"
+}

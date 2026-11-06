@@ -1,0 +1,88 @@
+{
+ "summary": "Fastidious demonstrates how a free-to-play account can amass roughly 300 premium summons within five days of starting. The strategy relies on strictly hoarding Heliolite Dice, blitzing the Season Journey chapters for milestone rewards, and taking advantage of daily discounted Wyrmarrow packs. He also explains how banner summon rebates reduce the true 300-pull guarantee cost down to 270 dice. After hitting the guarantee on the Reversal Summon banner, he pulls Child of Chaos along with multiple other legendaries, emphasizing the value of saving until guarantees can be reached.",
+ "topics": [
+  "summoning strategy",
+  "F2P progression",
+  "Season Journey",
+  "pity system",
+  "rebates",
+  "hero showcase"
+ ],
+ "heroes": [
+  {
+   "name": "Child of Chaos",
+   "verdict": "Must-pull S-tier support",
+   "note": "One of the best and most flexible supports in the game, able to adapt to any element and fit virtually any roster.",
+   "known": true
+  },
+  {
+   "name": "Felosia",
+   "verdict": "Top tier legendary shielder",
+   "note": "Praised as the best shielder in the game with massive team defensive utility.",
+   "known": true
+  },
+  {
+   "name": "Acilia",
+   "verdict": "Top tier legendary support",
+   "note": "Considered an unbelievable standard legendary cleanser and healer.",
+   "known": true
+  },
+  {
+   "name": "Rose",
+   "verdict": "Top tier legendary support",
+   "note": "Ranked among the premier legendary supports alongside Acilia and Felosia.",
+   "known": true
+  },
+  {
+   "name": "Oggok",
+   "verdict": "Top tier legendary support",
+   "note": "Provides team immortality (invincibility) to prevent allies from dying.",
+   "known": true
+  },
+  {
+   "name": "Garius",
+   "verdict": "Top tier epic tank",
+   "note": "An outstanding defensive epic healer/tank who is significantly better than Horrus for all content.",
+   "known": true
+  },
+  {
+   "name": "Isolde",
+   "verdict": "Strong epic tank",
+   "note": "A very reliable epic fire shield-granter; highlights the strength of epic-rarity tanks.",
+   "known": true
+  },
+  {
+   "name": "Zhar'loth",
+   "verdict": "Top tier epic support",
+   "note": "Fastidious's favorite epic hero in the entire game, providing necrosis debuffs, meter control, and team healing.",
+   "known": true
+  },
+  {
+   "name": "Irina",
+   "verdict": "Great rare healer",
+   "note": "A very strong rare-tier healer that provides solid early-game sustain.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [],
+ "tips": [
+  "Never pull on premium rate-up banners unless you have enough resources saved to hit the guaranteed milestone.",
+  "Factor in banner rebates when calculating summon counts: pulling 200 times refunds 30 Heliolite Dice (5 at 50, 10 at 100, 15 at 200), dropping a 300-pull requirement down to 270 upfront dice.",
+  "Prioritize completing Season Journey chapters in order; each chapter awards 5 Heliolite Dice and accelerates account progression.",
+  "Buy the daily 10-dice bundle from Wyrmarrow Supply for 800 Wyrmarrow instead of 1000 to save 200 Wyrmarrow per day.",
+  "Claim the 2 free Heliolite Dice daily from the Heliolithic Present event during your first seven days.",
+  "Spend all excess stamina/bread in the highest unlocked stage of Goblin Lair to farm EXP and push Resonance Level, which strengthens the entire roster simultaneously."
+ ],
+ "season": "S9",
+ "server_scope": "mixed",
+ "value": "medium",
+ "id": "lAue-nBQkyo",
+ "model": "gemini-3.8-flash",
+ "channel": "Fastidious Dragonheir",
+ "title": "How To Get A PREMIUM Legendary Hero In Less Than 5 Days ⁂ Dragonheir: Silent Gods",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=lAue-nBQkyo",
+ "short": false,
+ "summarized": "2026-11-06T10:17Z"
+}
