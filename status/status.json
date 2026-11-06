@@ -1,5 +1,5 @@
 {
- "built": "2026-11-06T20:18Z",
+ "built": "2026-11-06T20:54Z",
  "last_fetch": "2026-11-06T20:17Z",
  "counts": {
   "summarized": 299,
@@ -91,7 +91,6 @@
   "quota_hit": 1793996297.6200683
  },
  "log_tail": [
-  "! BEST Summon Strategy For NEW Accounts!!! [Dragonhe: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
   "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 296 videos, 189 heroes",
   "== 2026-11-06 15:17",
   "fetch done: 0 new transcripts, 0 not available yet",
@@ -170,7 +169,8 @@
   "  gemini-3.7-flash: 429, using gemini-3.6-flash",
   "! Don't Waste Your Materials! 🔥 Mythic Forging | Dra: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
   "saved b9L3kRlw8vU",
-  "+ Skratch Gaming: AURA, TOXIN & DAUNTLESS Teams Updated! Dragonheir: Silent Go"
+  "+ Skratch Gaming: AURA, TOXIN & DAUNTLESS Teams Updated! Dragonheir: Silent Go",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 299 videos, 193 heroes"
  ],
  "crontab": [],
  "channels": [
