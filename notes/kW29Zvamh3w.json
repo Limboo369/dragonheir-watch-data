@@ -1,0 +1,72 @@
+{
+ "summary": "This video demonstrates an updated Thunderbolt team composition against the Fire Fortress Elemental Guardians in Crown Contest. The team scored over 7.14 billion damage, reaching S+ rank. Perkunte serves as the primary damage dealer, accounting for over 76% of total team output. Stat recommendations emphasize full Enlightenment for Perkunte and Alaura, Accuracy for Tariz and Sha'nachtan, and HP with Accuracy for Maashtur.",
+ "topics": [
+  "Crown Contest",
+  "Fire Fortress",
+  "Thunderbolt",
+  "Team Build",
+  "Perkunte"
+ ],
+ "heroes": [
+  {
+   "name": "Perkunte",
+   "verdict": "Main Thunderbolt DPS",
+   "note": "Build full Enlightenment and Attack to maximize damage output (dealt over 76% of total team damage).",
+   "known": true
+  },
+  {
+   "name": "Tariz",
+   "verdict": "Thunderbolt support",
+   "note": "Build with high Accuracy.",
+   "known": true
+  },
+  {
+   "name": "Maashtur",
+   "verdict": "Thunderbolt tank / support",
+   "note": "Build full HP and some Accuracy.",
+   "known": true
+  },
+  {
+   "name": "Alaura",
+   "verdict": "Thunderbolt DPS",
+   "note": "Build full Enlightenment.",
+   "known": true
+  },
+  {
+   "name": "Sha'nachtan",
+   "verdict": "Thunderbolt sub-DPS / support",
+   "note": "Build with Accuracy.",
+   "known": false
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Crown Contest - Fire Fortress",
+   "heroes": [
+    "Tariz",
+    "Perkunte",
+    "Maashtur",
+    "Alaura",
+    "Sha'nachtan"
+   ],
+   "note": "Achieved 7,148,762,656 damage (S+ rank) against Level 270 Elemental Guardians."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Focus on high Enlightenment and Attack on Perkunte to maximize damage in Thunderbolt compositions.",
+  "Equip Alaura with full Enlightenment to boost team performance.",
+  "Ensure debuffers like Tariz and Sha'nachtan have enough Accuracy for boss encounters."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "kW29Zvamh3w",
+ "model": "gemini-3.5-flash",
+ "channel": "liveranov",
+ "title": "Thunderbolt Team (UPDATED) vs Fire Guardians | Crown Contest | Dragonheir | Season 8",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=kW29Zvamh3w",
+ "short": false,
+ "summarized": "2026-11-06T08:26Z"
+}

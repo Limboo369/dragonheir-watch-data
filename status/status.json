@@ -1,12 +1,12 @@
 {
- "built": "2026-11-06T08:25Z",
+ "built": "2026-11-06T08:32Z",
  "last_fetch": "2026-11-06T08:17Z",
  "counts": {
-  "summarized": 289,
+  "summarized": 292,
   "skipped_giveaway": 17,
   "baseline": 22,
-  "new": 324,
-  "retry": 4,
+  "new": 323,
+  "retry": 2,
   "skipped_live": 1,
   "failed": 2
  },
@@ -15,7 +15,7 @@
    "title": "How To Get A PREMIUM Legendary Hero In Less Than 5 Days ⁂ Dragonheir: Silent Gods",
    "channel": "Fastidious Dragonheir",
    "status": "retry",
-   "error": ""
+   "error": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again "
   },
   {
    "title": "Season 9 NEW INFO: 2 Free Heroes, New Affinities & Selectable Banner! | Dragonheir: Silent Gods",
@@ -24,20 +24,8 @@
    "error": "Expecting value: line 1 column 1 (char 0)"
   },
   {
-   "title": "Whisk - THE BEST Teams & Strategy | Continental Challenge | Dragonheir x Dragonstride",
-   "channel": "Gorax",
-   "status": "retry",
-   "error": ""
-  },
-  {
    "title": "EVENT REVEAL 💥 & Understanding the Child of Chaos vs The Dark Lady  🔥 Dragonheir x Dragonstride",
    "channel": "Suzi Plays",
-   "status": "retry",
-   "error": ""
-  },
-  {
-   "title": "Thunderbolt Team (UPDATED) vs Fire Guardians | Crown Contest | Dragonheir | Season 8",
-   "channel": "liveranov",
    "status": "retry",
    "error": ""
   },
@@ -50,24 +38,11 @@
  ],
  "budget": {
   "day": "2026-11-06",
-  "seconds": 15149,
+  "seconds": 13525,
   "v2": 1,
-  "quota_hit": 1793945921.9210997
+  "quota_hit": 1793953932.2760575
  },
  "log_tail": [
-  "== 2026-11-06 06:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "… Fastidious Dragonheir: The Best Way To Summon During The Third Anniversary ft @OddO",
-  "… Gorax: Upcoming Banners Explained! Where Should You Spend Your Dice",
-  "… OddOneGaming RPGs: 💥 HE FINALLY SHINES! 💥750m+ DMG Aura Team vs Joyce S8 GUIDE ",
-  "… Suzi Plays: I Did 1000 Summons for Child of Chaos on Day 1 💥 3rd Anniver",
-  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
-  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
-  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
-  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
-  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
-  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
   "… Gorax: 37B Damage... And It's NOT Toxin?! 😱 | DragonHeir x Dragonst",
   "! Upcoming Banners Explained! Where Should You Spend: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.  gemini-3.7-flash: 429, using gemini-3.6-flash",
   "",
@@ -134,7 +109,20 @@
   "+ Neff Gaming: Phase 2 - S8 Endgame Boss - Best Teams from the CN Server | ",
   "… Gorax: Whisk - THE BEST Teams & Strategy | Continental Challenge | ",
   "saved lXgP9Lx-cCU",
-  "+ Suzi Plays: I had to pull for ERNESTO!💥 Let's Summon! 🔥 Dragonheir x Dra"
+  "+ Suzi Plays: I had to pull for ERNESTO!💥 Let's Summon! 🔥 Dragonheir x Dra",
+  "… Volkin Dragonheir: NEW CODE, All Active Codes & FREE Heroes / Pulls for NEW Acc",
+  "saved jz6YEj19yYk",
+  "+ Gorax: Whisk - THE BEST Teams & Strategy | Continental Challenge | ",
+  "saved jonmgumQehI",
+  "+ Volkin Dragonheir: NEW CODE, All Active Codes & FREE Heroes / Pulls for NEW Acc",
+  "saved kW29Zvamh3w (unknown hero names: Sha'nachtan)",
+  "+ liveranov: Thunderbolt Team (UPDATED) vs Fire Guardians | Crown Contest",
+  "  gemini-3.5-flash: 503, using gemini-3.7-flash",
+  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
+  "  gemini-3.5-flash: 503, using gemini-3.7-flash",
+  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
+  "! How To Get A PREMIUM Legendary Hero In Less Than 5: ServerError: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+  "! EVENT REVEAL 💥 & Understanding the Child of Chaos : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google."
  ],
  "crontab": [],
  "channels": [

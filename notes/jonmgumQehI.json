@@ -1,0 +1,51 @@
+{
+ "summary": "This video covers active redemption codes and various methods for new accounts to obtain free summons and legendary heroes. The creator demonstrates redeeming codes like Volkin01, yielding around 36 pulls worth of rewards. Key beginner advice is given on managing wish hero selections: players should avoid locking in their selections on the Selected Summons III banner until after pulling on limited banners like Child of Chaos. Additionally, early game meta strategies such as Undead and Dauntless comps are discussed alongside web-based bonus events.",
+ "topics": [
+  "codes",
+  "free pulls",
+  "wish banner",
+  "new server strategy",
+  "anniversary events"
+ ],
+ "heroes": [
+  {
+   "name": "Lossenia",
+   "verdict": "Free 7-Day Login Hero",
+   "note": "Obtainable on Day 2 of the 7-Day Login event for new accounts.",
+   "known": true
+  },
+  {
+   "name": "Felosia",
+   "verdict": "Free Event SSR Hero",
+   "note": "Can be obtained by completing the web Fate Test event during the bonus event period.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Temporal Vortex",
+   "heroes": [
+    "Undead"
+   ],
+   "note": "Undead comps are performing very well in the early game meta for Temporal Vortex on new servers."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Do not lock in or confirm your selections on the Selected Summons III (Wish Hero) banner immediately; wait until you pull on limited banners like Child of Chaos to fill in team gaps.",
+  "Redeem active codes (such as Volkin01) under Settings > Service > Redemption Code Pack to gain free summons and Wyrmarrow.",
+  "Participate in the Account Valuation web event to earn up to 15,000 Wyrmarrow by verifying returning status or uploading strategy RPG screenshots.",
+  "Purchase the daily discounted 800 Wyrmarrow supply pack under First Blush Summons for cost-effective pulls."
+ ],
+ "season": "S1",
+ "server_scope": "S1",
+ "value": "medium",
+ "id": "jonmgumQehI",
+ "model": "gemini-3.5-flash",
+ "channel": "Volkin Dragonheir",
+ "title": "NEW CODE, All Active Codes & FREE Heroes / Pulls for NEW Accounts!!! [Dragonheir: Silent Gods]",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=jonmgumQehI",
+ "short": false,
+ "summarized": "2026-11-06T08:25Z"
+}

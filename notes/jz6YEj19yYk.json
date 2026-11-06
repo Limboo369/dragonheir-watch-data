@@ -1,0 +1,110 @@
+{
+ "summary": "Gorax presents team strategies and builds for defeating the Whisk boss in the Continental Challenge. Whisk applies Corrosion, gains 5-second Invisibility, and summons clones if heroes drop below key HP thresholds. Fathomdown is highlighted as an MVP hero due to his ability to reduce Whisk's ultimate energy and completely block boss invisibility phases when geared with 90+ Skill Haste. Detailed setups are shown for Dauntless teams featuring Guinavivre, Kurvida, or Astaion (as a budget alternative to Maashtur), alongside a 5-hero Ice Blast team using Ernesto for survival.",
+ "topics": [
+  "Continental Challenge",
+  "Whisk Boss Strategy",
+  "Dauntless Team",
+  "Ice Blast Team",
+  "Fathomdown Energy Drain Cheese",
+  "Hero Builds"
+ ],
+ "heroes": [
+  {
+   "name": "Fathomdown",
+   "verdict": "MVP boss controller",
+   "note": "Depletes Whisk's ultimate energy with high Skill Haste (90+) and Accuracy, preventing the boss from using invisibility and execution skills.",
+   "known": true
+  },
+  {
+   "name": "Guinavivre",
+   "verdict": "Top Dauntless DPS",
+   "note": "Serves as the primary damage dealer; benefits heavily from high Attack (6000+) and Inspiration 5, which boosts her battle skill hit chance to 100%.",
+   "known": true
+  },
+  {
+   "name": "Kurvida",
+   "verdict": "High-priority Dauntless support/DPS",
+   "note": "Outperforms Nastjenka at higher inspiration levels when using Puppeteer and Attack-sharing gear sets.",
+   "known": true
+  },
+  {
+   "name": "Astaion",
+   "verdict": "Best F2P replacement for Maashtur",
+   "note": "Acts as an accessible Dauntless support hero using Golden Antlers and Secrecy Order gear to boost team damage.",
+   "known": true
+  },
+  {
+   "name": "Ernesto",
+   "verdict": "Key defensive enabler for Ice Blast",
+   "note": "Provides vital damage reduction and shields allowing 5-hero Ice Blast teams to survive Whisk's heavy Corrosion damage.",
+   "known": true
+  },
+  {
+   "name": "Beldelle",
+   "verdict": "Primary Ice Blast DPS",
+   "note": "Requires maximum Crit Rate and Attack while skipping Crit Damage to optimize Ice Blast triggers.",
+   "known": true
+  },
+  {
+   "name": "Vinyara",
+   "verdict": "Alternative Ice Blast energy stealer",
+   "note": "Can substitute into Ice Blast teams to steal ultimate energy and prevent boss invisibility cycles.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Continental Challenge - Whisk",
+   "heroes": [
+    "Guinavivre",
+    "Kurvida",
+    "Fathomdown",
+    "Maashtur",
+    "Abyssal Starshade Servitor"
+   ],
+   "note": "Premium Dauntless team relying on Fathomdown energy lock and Guinavivre primary DPS, reaching up to 1.63B damage."
+  },
+  {
+   "mode": "Continental Challenge - Whisk",
+   "heroes": [
+    "Guinavivre",
+    "Kurvida",
+    "Fathomdown",
+    "Astaion",
+    "Abyssal Starshade Servitor"
+   ],
+   "note": "Accessible Dauntless team substituting Astaion for Maashtur, scoring over 1.3B damage at high inspiration."
+  },
+  {
+   "mode": "Continental Challenge - Whisk",
+   "heroes": [
+    "Beldelle",
+    "Shinnah",
+    "Zhorak",
+    "Fredegonda",
+    "Ernesto"
+   ],
+   "note": "Full Ice Blast team using Ernesto for survival mitigation; relies on the Recreate talent for continuous healing."
+  }
+ ],
+ "meta_changes": [
+  "Fathomdown's ultimate energy reduction mechanism completely skips Whisk's invisibility and clone phases in Continental Challenge."
+ ],
+ "tips": [
+  "Build Fathomdown with at least 90+ Skill Haste (Secrecy Order 2-piece set plus double/triple Skill Haste rune rolls) and sufficient Accuracy to consistently deplete Whisk's energy.",
+  "Ensure Guinavivre has the highest Attack stat in the team so that Abyssal Starshade Servitor (Genie) targets her with its Attack buff.",
+  "All Ice Blast heroes must equip the Recreate talent to heal 25% Attack HP whenever Ice Crystals are consumed to withstand Corrosion.",
+  "Use single-target pets such as Starlight Stoneborn for maximum DPS against Whisk."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "jz6YEj19yYk",
+ "model": "gemini-3.5-flash",
+ "channel": "Gorax",
+ "title": "Whisk - THE BEST Teams & Strategy | Continental Challenge | Dragonheir x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=jz6YEj19yYk",
+ "short": false,
+ "summarized": "2026-11-06T08:25Z"
+}
