@@ -1,0 +1,93 @@
+{
+ "summary": "Skratch showcases a universal Aura/Radiant team capable of clearing Challenge Mode stages across all major gear and rune dungeons including Grave of Venom, Grave of Curse, Grave of Rot, Heretical Ruins, and Ancient Battlefield. He highlights the massive initial burst damage of Grave of Venom Challenge Mode and explains how to survive it using specific gear sets like Verdant Breath and defensive familiars. The team composed of Talethia, Diantha, Anneliesis, Ardreth, and Rena (or Lincos) clears most Challenge Mode bosses automatically in 10 to 25 seconds.",
+ "topics": [
+  "Challenge Mode",
+  "Dungeon Teams",
+  "Grave of Venom",
+  "Grave of Curse",
+  "Grave of Rot",
+  "Heretical Ruins",
+  "Ancient Battlefield",
+  "Aura Team"
+ ],
+ "heroes": [
+  {
+   "name": "Talethia",
+   "verdict": "Top tier Radiant/Aura damage dealer",
+   "note": "Deals massive damage in Challenge Mode dungeons and melts bosses within seconds.",
+   "known": true
+  },
+  {
+   "name": "Diantha",
+   "verdict": "Essential Aura team support and damage dealer",
+   "note": "Provides defense reduction and restores Aura energy for the team.",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "Core Aura buffer and damage enabler",
+   "note": "Enhances Aura allies and provides strong control and crowd support.",
+   "known": true
+  },
+  {
+   "name": "Ardreth",
+   "verdict": "Essential front-line tank and healer for Challenge Mode",
+   "note": "Survives initial burst damage when equipped with the Verdant Breath set and provides unkillable healing passive.",
+   "known": true
+  },
+  {
+   "name": "Rena",
+   "verdict": "Strong secondary tank and Radiant support",
+   "note": "Provides extra survivability and energy efficiency next to Ardreth in high-damage dungeons like Grave of Venom.",
+   "known": true
+  },
+  {
+   "name": "Lincos",
+   "verdict": "Alternative front-line melee DPS option",
+   "note": "Can replace Rena in speed-clearing dungeons like Ancient Battlefield, though prone to getting stunned at battle start without CC immunity artifacts.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Dungeon Challenge Modes",
+   "heroes": [
+    "Talethia",
+    "Diantha",
+    "Anneliesis",
+    "Ardreth",
+    "Rena"
+   ],
+   "note": "Universal auto-battle Aura team that clears high Challenge Mode stages across all dungeons in under 30 seconds."
+  },
+  {
+   "mode": "Ancient Battlefield / Grave of Venom Challenge Mode",
+   "heroes": [
+    "Talethia",
+    "Diantha",
+    "Anneliesis",
+    "Ardreth",
+    "Lincos"
+   ],
+   "note": "Alternative speed version swapping Rena for Lincos when extra tankiness is not needed."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Equip your main tank (Ardreth) with the Verdant Breath gear set for a 30% Max HP shield at battle start to survive the initial burst in Grave of Venom Challenge Mode.",
+  "Use the Golden Tressym (Golden Deer) familiar for extra healing and defensive protection if running a single tank setup in Grave of Venom.",
+  "Position front-line heroes closely against the Grave of Rot boss so its pushback attack does not knock them into the back wall and stun them.",
+  "Always convert bad legendary gear pieces into ascension materials instead of selling them for gold."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "5hS240x9cFc",
+ "model": "gemini-3.5-flash",
+ "channel": "Skratch Gaming",
+ "title": "ONE Team For All The Challenge Mode Dungeons! Dragonheir: Silent Gods x Dragonstride",
+ "published": "2026-11-05T19:47:15+00:00",
+ "url": "https://www.youtube.com/watch?v=5hS240x9cFc",
+ "short": false,
+ "summarized": "2026-11-06T00:19Z"
+}
