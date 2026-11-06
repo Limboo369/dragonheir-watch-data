@@ -1,0 +1,154 @@
+{
+ "summary": "Skratch tests updated endgame team compositions in Temporal Vortex (Cloudtop Arbor / Arbor Hydra), comparing performance between Aura, Toxin, and Dauntless teams. He showcases gear builds, artifact selections, and skill timings while testing hero substitutions like Solmo vs Anselmo in Aura teams and Stegamoffyn vs Reytah in Toxin teams. The tests demonstrate how specific gear sets like Prophet's Bind and Puppeteer impact debuff stacking and total damage output.",
+ "topics": [
+  "Temporal Vortex",
+  "Aura Team",
+  "Toxin Team",
+  "Dauntless Team",
+  "Hero Builds",
+  "Gear Optimization"
+ ],
+ "heroes": [
+  {
+   "name": "Solmo",
+   "verdict": "Top Aura tank/support for Vortex",
+   "note": "Boosts HP for allies positioned in front of him, providing critical team survivability in high-tier Vortex runs.",
+   "known": true
+  },
+  {
+   "name": "Anselmo",
+   "verdict": "Alternative Aura defense-ignore buffer",
+   "note": "Provides defense ignore to the team, but results in lower total damage compared to Solmo due to lack of defensive utility.",
+   "known": true
+  },
+  {
+   "name": "Diantha",
+   "verdict": "Core Aura damage dealer",
+   "note": "Requires multiple non-damage debuff cycles to fully stack damage increases when using Prophet's Bind gear.",
+   "known": true
+  },
+  {
+   "name": "Talethia",
+   "verdict": "Strong Aura DPS",
+   "note": "Delivers heavy radiant damage and benefits significantly from attack and crit damage stats.",
+   "known": true
+  },
+  {
+   "name": "Lincos",
+   "verdict": "Essential Aura buffer",
+   "note": "Equipped with Puppeteer set to maximize attack transfers and energy buffs to Aura damage dealers.",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "Key Aura healer and shielder",
+   "note": "Requires high HP chest gear to maintain survival and consistent shields for the Aura squad.",
+   "known": true
+  },
+  {
+   "name": "Stegamoffyn",
+   "verdict": "Optimal Toxin debuffer",
+   "note": "Provides maximum accuracy and debuff application, outperforming alternatives when Child of Chaos has Inspiration 2.",
+   "known": true
+  },
+  {
+   "name": "Reytah",
+   "verdict": "Budget Toxin debuffer alternative",
+   "note": "A viable substitute for Stegamoffyn if Child of Chaos lacks Inspiration 2, though team damage drops by roughly 2B to 3B.",
+   "known": true
+  },
+  {
+   "name": "Child of Chaos",
+   "verdict": "Core Toxin enabler",
+   "note": "Drives Toxin team derivative damage; performs best with Puppeteer gear and Inspiration 2.",
+   "known": true
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "Top Toxin derivative DPS",
+   "note": "Deals massive damage when geared with high Attack (near 5k) and Enlightenment (600+).",
+   "known": true
+  },
+  {
+   "name": "Maashtur",
+   "verdict": "Core Dauntless enabler",
+   "note": "Inspiration 3 grants a 15% teamwide damage boost, drastically raising Dauntless performance.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Temporal Vortex",
+   "heroes": [
+    "Solmo",
+    "Diantha",
+    "Talethia",
+    "Lincos",
+    "Anneliesis"
+   ],
+   "note": "Primary Aura team composition delivering around 5B damage in the combined Vortex setup."
+  },
+  {
+   "mode": "Temporal Vortex",
+   "heroes": [
+    "Anselmo",
+    "Diantha",
+    "Talethia",
+    "Lincos",
+    "Anneliesis"
+   ],
+   "note": "Aura defense-ignore variant; slightly weaker survival leads to lower overall damage than Solmo setups."
+  },
+  {
+   "mode": "Temporal Vortex",
+   "heroes": [
+    "Sleight",
+    "Twitch",
+    "Stegamoffyn",
+    "Child of Chaos",
+    "Serpentemis"
+   ],
+   "note": "High-performing Toxin derivative team contributing approximately 13B damage."
+  },
+  {
+   "mode": "Temporal Vortex",
+   "heroes": [
+    "Sleight",
+    "Twitch",
+    "Reytah",
+    "Child of Chaos",
+    "Serpentemis"
+   ],
+   "note": "Budget Toxin setup for players without Inspiration 2 on Child of Chaos, netting ~16.4B total combined score."
+  },
+  {
+   "mode": "Temporal Vortex",
+   "heroes": [
+    "Nastjenka",
+    "Guinavivre",
+    "Kurvida",
+    "Selva",
+    "Maashtur"
+   ],
+   "note": "Dauntless team reaching over 5B individual damage, rivaling the Aura team's output."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Set a 10-hour alarm during the Bloom & Bounty event to harvest exotic blooms frequently and avoid missing limited rewards.",
+  "Prophet's Bind gear requires inflicting non-damage debuffs to generate Fate stacks; heroes with only one debuff type need multiple ultimate cycles to activate the damage boost.",
+  "If your Child of Chaos lacks Inspiration 2, substitute Stegamoffyn with Reytah to maintain debuff consistency on Toxin teams.",
+  "If using Reytah without her exclusive artifact, equip Mystic Conch to guarantee Defense Down debuff coverage."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "b9L3kRlw8vU",
+ "model": "gemini-3.5-flash",
+ "channel": "Skratch Gaming",
+ "title": "AURA, TOXIN & DAUNTLESS Teams Updated! Dragonheir: Silent Gods x Dragonstride",
+ "published": "2026-11-06T18:41:58+00:00",
+ "url": "https://www.youtube.com/watch?v=b9L3kRlw8vU",
+ "short": false,
+ "summarized": "2026-11-06T20:18Z"
+}
