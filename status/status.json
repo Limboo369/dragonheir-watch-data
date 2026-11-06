@@ -1,5 +1,5 @@
 {
- "built": "2026-11-06T00:20Z",
+ "built": "2026-11-06T00:51Z",
  "last_fetch": "2026-11-06T00:17Z",
  "counts": {
   "summarized": 278,
@@ -97,7 +97,6 @@
   "quota_hit": 1793924408.5982032
  },
  "log_tail": [
-  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
   "  gemini-3.5-flash: 429, using gemini-3.7-flash",
   "  gemini-3.7-flash: 429, using gemini-3.6-flash",
   "! This Boss Is BROKEN!!! Thunderbolt Vs. Talethia Ch: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
@@ -176,7 +175,8 @@
   "  gemini-3.8-flash: 429, using gemini-3.5-flash",
   "  gemini-3.5-flash: 429, using gemini-3.7-flash",
   "  gemini-3.7-flash: 429, using gemini-3.6-flash",
-  "! The Best Way To Summon During The Third Anniversar: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google."
+  "! The Best Way To Summon During The Third Anniversar: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 278 videos, 184 heroes"
  ],
  "crontab": [],
  "channels": [
