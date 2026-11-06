@@ -1,5 +1,5 @@
 {
- "built": "2026-11-06T10:25Z",
+ "built": "2026-11-06T10:56Z",
  "last_fetch": "2026-11-06T10:17Z",
  "counts": {
   "summarized": 295,
@@ -85,7 +85,6 @@
   "quota_hit": 1793960718.4702115
  },
  "log_tail": [
-  "  gemini-3.8-flash: 503, using gemini-3.5-flash",
   "… Neff Gaming: Phase 2 - S8 Endgame Boss - Best Teams from the CN Server | ",
   "saved lo9KfxUCvfM",
   "+ OddOneGaming RPGs: 💥 HE FINALLY SHINES! 💥750m+ DMG Aura Team vs Joyce S8 GUIDE ",
@@ -164,7 +163,8 @@
   "+ Neff Gaming: S9 CONTINENTAL CHALLENGE 🔥 BEST TEAMS REVEALED! Week 2 CN Ra",
   "  gemini-3.5-flash: 429, using gemini-3.7-flash",
   "  gemini-3.7-flash: 429, using gemini-3.6-flash",
-  "! EVENT REVEAL 💥 & Understanding the Child of Chaos : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google."
+  "! EVENT REVEAL 💥 & Understanding the Child of Chaos : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 295 videos, 189 heroes"
  ],
  "crontab": [],
  "channels": [
