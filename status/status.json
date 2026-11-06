@@ -1,11 +1,11 @@
 {
- "built": "2026-11-06T10:56Z",
- "last_fetch": "2026-11-06T10:17Z",
+ "built": "2026-11-06T11:26Z",
+ "last_fetch": "2026-11-06T11:17Z",
  "counts": {
   "summarized": 295,
   "skipped_giveaway": 17,
   "baseline": 22,
-  "new": 315,
+  "new": 316,
   "retry": 9,
   "skipped_live": 1,
   "failed": 2
@@ -85,11 +85,6 @@
   "quota_hit": 1793960718.4702115
  },
  "log_tail": [
-  "… Neff Gaming: Phase 2 - S8 Endgame Boss - Best Teams from the CN Server | ",
-  "saved lo9KfxUCvfM",
-  "+ OddOneGaming RPGs: 💥 HE FINALLY SHINES! 💥750m+ DMG Aura Team vs Joyce S8 GUIDE ",
-  "  gemini-3.8-flash: 503, using gemini-3.5-flash",
-  "  gemini-3.8-flash: 503, using gemini-3.5-flash",
   "  gemini-3.8-flash: 503, using gemini-3.5-flash",
   "… Suzi Plays: I had to pull for ERNESTO!💥 Let's Summon! 🔥 Dragonheir x Dra",
   "saved lfnFCMdpfnk",
@@ -164,6 +159,11 @@
   "  gemini-3.5-flash: 429, using gemini-3.7-flash",
   "  gemini-3.7-flash: 429, using gemini-3.6-flash",
   "! EVENT REVEAL 💥 & Understanding the Child of Chaos : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 295 videos, 189 heroes",
+  "== 2026-11-06 11:17",
+  "fetch done: 0 new transcripts, 0 not available yet",
+  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
+  "Gemini quota was full less than an hour ago, trying again next round",
   "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 295 videos, 189 heroes"
  ],
  "crontab": [],
@@ -172,55 +172,55 @@
    "name": "Skratch Gaming",
    "id": "UCoSkzr1pXpt3d0jIxsc6ufw",
    "enabled": true,
-   "checked": "2026-11-06T10:17Z"
+   "checked": "2026-11-06T11:17Z"
   },
   {
    "name": "Gorax",
    "id": "UCNas7BnuOIjDEzY1D53kb1w",
    "enabled": true,
-   "checked": "2026-11-06T10:17Z"
+   "checked": "2026-11-06T11:17Z"
   },
   {
    "name": "Neff Gaming",
    "id": "UCsxs6YhNd_B36RgUAjbpJ_A",
    "enabled": true,
-   "checked": "2026-11-06T10:17Z"
+   "checked": "2026-11-06T11:17Z"
   },
   {
    "name": "Volkin Dragonheir",
    "id": "UCfRpOh_ywVjzhh9fxHbreGw",
    "enabled": true,
-   "checked": "2026-11-06T10:17Z"
+   "checked": "2026-11-06T11:17Z"
   },
   {
    "name": "Fastidious Dragonheir",
    "id": "UC16mpj5wEemSZX-uTlHe9Ww",
    "enabled": true,
-   "checked": "2026-11-06T10:17Z"
+   "checked": "2026-11-06T11:17Z"
   },
   {
    "name": "OddOneGaming RPGs",
    "id": "UC1ivUEf_poI9_R2eVKa8wRQ",
    "enabled": true,
-   "checked": "2026-11-06T10:17Z"
+   "checked": "2026-11-06T11:17Z"
   },
   {
    "name": "Suzi Plays",
    "id": "UCyo1-TkunhGcK6khU1h8Ypw",
    "enabled": true,
-   "checked": "2026-11-06T10:17Z"
+   "checked": "2026-11-06T11:17Z"
   },
   {
    "name": "Skyasterix Gaming",
    "id": "UCr5Gb3910rK7QPmKMmdagsA",
    "enabled": true,
-   "checked": "2026-11-06T10:17Z"
+   "checked": "2026-11-06T11:17Z"
   },
   {
    "name": "liveranov",
    "id": "UCqCR7ofFHhWwXy3Hg00fqEw",
    "enabled": true,
-   "checked": "2026-11-06T10:17Z"
+   "checked": "2026-11-06T11:17Z"
   }
  ]
 }
