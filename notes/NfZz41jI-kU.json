@@ -1,0 +1,49 @@
+{
+ "summary": "In this video, Suzi provides a crucial warning for the Piece of Treasury event in Dragonheir: Silent Gods. She cautions players against spending Goldmeltium in the Treasury Shop, calling it a trap, and urges them to save it for the Furnace to forge and refine custom Mythic gear. She walks through selecting gear pieces like Gloves or Chest armor with ideal sets such as Dragonflame Scorch or Strike the Unprepared. Additionally, she demonstrates setting up secondary attribute smelting for maximum Crit Rate and reminds players not to claim their forged gear immediately so they can continue refining it before the event ends.",
+ "topics": [
+  "Piece of Treasury",
+  "Furnace",
+  "Gear Forging",
+  "Goldmeltium",
+  "Dragonflame Scorch"
+ ],
+ "heroes": [
+  {
+   "name": "Monelisse",
+   "verdict": "High demand for gear and artifacts",
+   "note": "Her teardrop gear piece and artifact support come in handy across many battle modes.",
+   "known": true
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "Enlightenment focus",
+   "note": "Benefits significantly from Enlightenment-focused gear sets like Molten Reforging.",
+   "known": true
+  },
+  {
+   "name": "Talethia",
+   "verdict": "Main DPS option",
+   "note": "Requires high Crit Damage and ATK% stats to maximize damage output.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [],
+ "tips": [
+  "Do not spend Goldmeltium in the Treasury Shop; reserve all currency for forging and smelting in the Furnace.",
+  "Focus Furnace forging on Glove or Chest pieces to secure high-value primary stats like Crit Damage or ATK%.",
+  "Do not claim your forged gear right away; keep smelting secondary stats using Goldmeltium earned over the remainder of the event.",
+  "Utilize the option to reset your forged piece (up to 3 times) if you decide a different set or slot fits your account needs better."
+ ],
+ "season": "unknown",
+ "server_scope": "mixed",
+ "value": "medium",
+ "id": "NfZz41jI-kU",
+ "model": "gemini-3.6-flash",
+ "channel": "Suzi Plays",
+ "title": "WARNING for Piece of Treasury Event 💥 Use the Furnace & Forge Wisely! 🔥 Dragonheir x Dragonstride",
+ "published": "2026-11-06T14:45:35+00:00",
+ "url": "https://www.youtube.com/watch?v=NfZz41jI-kU",
+ "short": false,
+ "summarized": "2026-11-06T18:18Z"
+}
