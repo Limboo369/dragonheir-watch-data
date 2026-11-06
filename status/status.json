@@ -1,5 +1,5 @@
 {
- "built": "2026-11-06T08:32Z",
+ "built": "2026-11-06T09:05Z",
  "last_fetch": "2026-11-06T08:17Z",
  "counts": {
   "summarized": 292,
@@ -43,7 +43,6 @@
   "quota_hit": 1793953932.2760575
  },
  "log_tail": [
-  "… Gorax: 37B Damage... And It's NOT Toxin?! 😱 | DragonHeir x Dragonst",
   "! Upcoming Banners Explained! Where Should You Spend: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.  gemini-3.7-flash: 429, using gemini-3.6-flash",
   "",
   "… Gorax: Child of Chaos FULL Reveal - Skills, Inspirations & More | D",
@@ -122,7 +121,8 @@
   "  gemini-3.5-flash: 503, using gemini-3.7-flash",
   "  gemini-3.7-flash: 429, using gemini-3.6-flash",
   "! How To Get A PREMIUM Legendary Hero In Less Than 5: ServerError: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
-  "! EVENT REVEAL 💥 & Understanding the Child of Chaos : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google."
+  "! EVENT REVEAL 💥 & Understanding the Child of Chaos : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 292 videos, 186 heroes"
  ],
  "crontab": [],
  "channels": [
