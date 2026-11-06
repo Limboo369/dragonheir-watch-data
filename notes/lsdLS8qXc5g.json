@@ -1,0 +1,87 @@
+{
+ "summary": "This guide demonstrates an alternative Corrosion team setup against boss Durem in the Continental Challenge, reaching over 1.6 billion damage without needing Alarick at Inspiration 2. By replacing Alarick with Journ as support, the team remains highly effective. The video details exact stat priorities, gear sets, artifacts, and skill timing setup for all five heroes. Alternatives like Whisk for Szecedith and Mystic Conch options are also discussed.",
+ "topics": [
+  "Continental Challenge",
+  "Corrosion Team",
+  "Boss Durem",
+  "Hero Build",
+  "Skill Timings"
+ ],
+ "heroes": [
+  {
+   "name": "Journ",
+   "verdict": "Great alternative support to Alarick I2 in Corrosion teams",
+   "note": "Acts as a accessible support in Corrosion comps for high-damage Continental Challenge runs when built with high HP, Skill Haste, and Accuracy.",
+   "known": true
+  },
+  {
+   "name": "Szecedith",
+   "verdict": "Top Corrosion damage dealer at Inspiration 5",
+   "note": "Performs best at Inspiration 5 with max crit stats, but can be replaced by Whisk if not owned.",
+   "known": true
+  },
+  {
+   "name": "Rook",
+   "verdict": "Essential Corrosion DPS built for Skill Haste",
+   "note": "Shifted away from full Crit Damage toward Skill Haste using Secrecy 2-piece set and haste stats to avoid timing issues.",
+   "known": true
+  },
+  {
+   "name": "Sacredeia",
+   "verdict": "Key buffer with Puppeteer set",
+   "note": "Provides Attack and Defense boosts using Puppeteer set and Golden Antlers artifact.",
+   "known": true
+  },
+  {
+   "name": "Reytah",
+   "verdict": "High HP utility support",
+   "note": "Built with over 100k HP and high Accuracy, using exclusive artifact or Mystic Conch setup.",
+   "known": true
+  },
+  {
+   "name": "Alarick",
+   "verdict": "High performance option requiring Inspiration 2",
+   "note": "Requires Inspiration 2 to push 2B+ damage in Corrosion teams; replaced by Journ in this budget setup.",
+   "known": true
+  },
+  {
+   "name": "Whisk",
+   "verdict": "Budget replacement for Szecedith",
+   "note": "Can replace Szecedith in Corrosion teams if she is missing, albeit with lower overall damage output.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Continental Challenge",
+   "heroes": [
+    "Szecedith",
+    "Rook",
+    "Sacredeia",
+    "Reytah",
+    "Journ"
+   ],
+   "note": "Achieves 1.6B+ damage against boss Durem without needing Alarick Inspiration 2. Uses Journ and Reytah for survivability/utility and Rook/Szecedith for DPS."
+  }
+ ],
+ "meta_changes": [
+  "Corrosion team meta shifts Rook builds toward Skill Haste (including 2-piece Secrecy) rather than full Crit Damage to prevent timing drift."
+ ],
+ "tips": [
+  "Set Sacredeia's skill timing to 10.1s initial cast and 15.0s repeat interval to align with the Puppeteer gear set buff cycle.",
+  "Delay Szecedith to 10.3s and Reytah to 10.2s initial cast while keeping Rook and Journ on default timings.",
+  "If lacking Reytah's exclusive artifact, equip Mystic Conch on Journ for similar buff support.",
+  "Build both Journ and Reytah with around 100k HP, high Accuracy, and Skill Haste to survive and apply debuffs continuously."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "lsdLS8qXc5g",
+ "model": "gemini-3.5-flash",
+ "channel": "Neff Gaming",
+ "title": "1.6B+ Corrosion Team vs Durem! Journ - Alternative Support | S8 Continental Challenge | Dragonheir",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=lsdLS8qXc5g",
+ "short": false,
+ "summarized": "2026-11-06T04:17Z"
+}

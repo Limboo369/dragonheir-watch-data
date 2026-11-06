@@ -1,0 +1,128 @@
+{
+ "summary": "This video breaks down Continental Challenge boss Talethia and evaluates the viability of Thunderbolt teams against her. Talethia's stage mechanics heavily incentivize Enlightenment damage instances and running a three-element team for a 50% damage bonus, excluding damage over time like Toxin. Skratch tests four different Thunderbolt team variations featuring new hero Tariz alongside Perkunte and Alaura, experimenting with different support combinations. The boss deals extreme burst damage that makes surviving the full duration nearly impossible without exclusive supports and favorable RNG on survival skills like Rena's unkillable buff. Due to extreme difficulty and survivability issues, Skratch recommends holding Thunderbolt teams for the final week of the challenge rather than using them early.",
+ "topics": [
+  "Continental Challenge",
+  "Talethia",
+  "Thunderbolt",
+  "Tariz",
+  "Boss Guide"
+ ],
+ "heroes": [
+  {
+   "name": "Tariz",
+   "verdict": "Solid Thunderbolt DPS/debuffer, but not an urgent summon",
+   "note": "Inflicts Gaze via his battle skill to reduce enemy attack speed and recharge speed by 30%, but the skill's timing can make consistent boss cycle alignment tricky.",
+   "known": true
+  },
+  {
+   "name": "Perkunte",
+   "verdict": "Core Thunderbolt DPS",
+   "note": "Rapidly stacks the stage Enlightenment attack bonus through his multi-hit skills, but is extremely vulnerable to being one-shot by Talethia's AoE.",
+   "known": true
+  },
+  {
+   "name": "Alaura",
+   "verdict": "Core Thunderbolt enabler",
+   "note": "Best equipped with her exclusive artifact Flowering Lyre or Punisher's Whip to support team derivative damage and apply recharge speed penalties.",
+   "known": true
+  },
+  {
+   "name": "Rena",
+   "verdict": "Essential exclusive defensive support",
+   "note": "Provides crucial shields, healing, and battle skill unkillable buffs that are mandatory to survive Talethia's burst phases.",
+   "known": true
+  },
+  {
+   "name": "Journ",
+   "verdict": "Strong off-element hybrid pick",
+   "note": "Casts ultimates rapidly without manual timing, dispels boss buffs, drains ultimate energy, and enables the three-element 50% damage boost.",
+   "known": true
+  },
+  {
+   "name": "Scaarr",
+   "verdict": "Best performing support option",
+   "note": "Equipped with Punisher's Whip, he provides reliable damage reduction, team damage amplification, and recharge speed penalties, enabling the highest score of 693M.",
+   "known": true
+  },
+  {
+   "name": "Solmo",
+   "verdict": "Insufficient non-exclusive support",
+   "note": "Even when built with high defense and Aurelum Vest, he lacks the raw mitigation required to survive Talethia's scaling damage.",
+   "known": true
+  },
+  {
+   "name": "Torrin",
+   "verdict": "Weak budget healer for this boss",
+   "note": "Tested with Everlasting Diamond and Gatekeeper's Staff, but his shields and healing output fall far short of keeping the team alive.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Continental Challenge",
+   "heroes": [
+    "Perkunte",
+    "Tariz",
+    "Alaura",
+    "Rena",
+    "Journ"
+   ],
+   "note": "Three-element setup triggering the 50% stage damage bonus; scored between 568M and 682M damage on default skill timings, but wiped before the 5-minute mark."
+  },
+  {
+   "mode": "Continental Challenge",
+   "heroes": [
+    "Perkunte",
+    "Tariz",
+    "Alaura",
+    "Rena",
+    "Scaarr"
+   ],
+   "note": "Top scoring composition reaching 693M damage; Scaarr uses Punisher's Whip to delay boss ultimates while buffing team mitigation and damage."
+  },
+  {
+   "mode": "Continental Challenge",
+   "heroes": [
+    "Perkunte",
+    "Tariz",
+    "Alaura",
+    "Solmo",
+    "Torrin"
+   ],
+   "note": "Non-exclusive support test that survived under 3 minutes and scored only 354M to 357M due to inadequate survivability."
+  },
+  {
+   "mode": "Continental Challenge",
+   "heroes": [
+    "Perkunte",
+    "Tariz",
+    "Alaura",
+    "Selva",
+    "Maashtur"
+   ],
+   "note": "Full elemental affinity setup utilizing multiple exclusive supports; survived the full 5 minutes but lacked sufficient damage output, scoring 573M."
+  }
+ ],
+ "meta_changes": [
+  "Continental Challenge boss difficulty has scaled significantly compared to earlier seasons, demanding multiple exclusive supports at Inspiration 1+ to endure enrage mechanics.",
+  "Stage property awards 1% ATK per instance of Enlightenment damage (up to 40 stacks, excluding DoTs) and grants a 50% damage boost if three distinct elements are deployed."
+ ],
+ "tips": [
+  "Do not use Toxin against Talethia because damage over time does not trigger the stage Enlightenment attack buff stacks.",
+  "Avoid Wild teams on Talethia because the archetype requires four DPS slots, leaving insufficient room for the two or three defensive supports needed to survive.",
+  "Equip Punisher's Whip on frequent ultimate casters like Scaarr to trigger Recharge Speed Penalty and slow down Talethia's ultimate cycle.",
+  "Run skills on default timings instead of manually tuning skill rotations, as Tariz's recharge debuffs cause complex timers to desync.",
+  "Hold Thunderbolt attempts until the final week of Continental Challenge to see if meta strategies improve or boss tuning changes."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "nAbgmMFtx_0",
+ "model": "gemini-3.8-flash",
+ "channel": "Skratch Gaming",
+ "title": "This Boss Is BROKEN!!! Thunderbolt Vs. Talethia Chief Challenge | Dragonheir: Silent Gods",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=nAbgmMFtx_0",
+ "short": false,
+ "summarized": "2026-11-06T04:19Z"
+}
