@@ -1,12 +1,12 @@
 {
- "built": "2026-11-06T22:26Z",
+ "built": "2026-11-06T22:27Z",
  "last_fetch": "2026-11-06T22:17Z",
  "counts": {
-  "summarized": 299,
+  "summarized": 300,
   "skipped_giveaway": 17,
   "baseline": 22,
   "new": 315,
-  "retry": 10,
+  "retry": 9,
   "skipped_live": 1,
   "failed": 2
  },
@@ -76,12 +76,6 @@
    "channel": "Skyasterix Gaming",
    "status": "retry",
    "error": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}"
-  },
-  {
-   "title": "Don't Waste Your Materials! 🔥 Mythic Forging | Dragonheir: Silent Gods",
-   "channel": "Neff Gaming",
-   "status": "retry",
-   "error": ""
   }
  ],
  "budget": {
@@ -91,9 +85,6 @@
   "quota_hit": 1793996297.6200683
  },
  "log_tail": [
-  "… Suzi Plays: WARNING for Piece of Treasury Event 💥 Use the Furnace & Forg… liveranov: Creator Code RESET! Enter liveranov Again + BuffBuff Deals u",
-  "",
-  "… Suzi Plays: EVENT REVEAL 💥 & Understanding the Child of Chaos vs The Dar",
   "… Skratch Gaming: GET READY!! Big Meta Changes Coming With The New Heroes... D",
   "  gemini-3.8-flash: 429, using gemini-3.5-flash",
   "  gemini-3.8-flash: 429, using gemini-3.5-flash",
@@ -170,7 +161,10 @@
   "== 2026-11-06 22:17",
   "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "… Neff Gaming: Don't Waste Your Materials! 🔥 Mythic Forging | Dragonheir: S"
+  "… Neff Gaming: Don't Waste Your Materials! 🔥 Mythic Forging | Dragonheir: S",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "saved xD8ZhVB_gUA",
+  "+ Neff Gaming: Don't Waste Your Materials! 🔥 Mythic Forging | Dragonheir: S"
  ],
  "crontab": [],
  "channels": [
