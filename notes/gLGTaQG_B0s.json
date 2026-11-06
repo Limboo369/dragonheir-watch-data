@@ -1,0 +1,53 @@
+{
+ "summary": "This video breaks down Vortex performance data from top players on the Chinese live server following the release of the Options Summon II banner. Neff Gaming demonstrates how upgrading Rhyviel's Inspiration level drastically increases Vortex damage output. For example, moving Rhyviel from Inspiration 1 to Inspiration 2 provided a 14 billion damage jump without significant gear changes. At Inspiration 5, top teams reached nearly 96.7 billion damage during Week 3 of the Continental Challenge.",
+ "topics": [
+  "Vortex",
+  "Rhyviel",
+  "Inspiration",
+  "Chinese Live Server"
+ ],
+ "heroes": [
+  {
+   "name": "Rhyviel",
+   "verdict": "Top Corrosion DPS for Vortex",
+   "note": "Scales exceptionally well with Inspiration levels, yielding multi-billion damage jumps per upgrade.",
+   "known": true
+  },
+  {
+   "name": "Child of Chaos",
+   "verdict": "High-end Vortex support",
+   "note": "Used in top Chinese server Corrosion Vortex team setups.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Vortex",
+   "heroes": [
+    "Rhyviel",
+    "Child of Chaos",
+    "Perkunte",
+    "Whisk"
+   ],
+   "note": "High-performing Corrosion team setup leveraging Rhyviel Inspiration upgrades to achieve up to 96.6 billion damage."
+  }
+ ],
+ "meta_changes": [
+  "Options Summon II banner enables players to target Rhyviel inspirations, drastically boosting Corrosion team damage in Vortex."
+ ],
+ "tips": [
+  "Prioritize Rhyviel Inspiration levels via selective banners to gain huge damage increases in Vortex.",
+  "For Corrosion teams in Vortex, select a Corrosion pet built with Attack and Defense stats rather than HP."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "gLGTaQG_B0s",
+ "model": "gemini-3.5-flash",
+ "channel": "Neff Gaming",
+ "title": "+11 BILLION DAMAGE! 😱 Rhyviel Inspiration Changes EVERYTHING! | Dragonheir: Silent Gods",
+ "published": "2026-11-05T21:14:29+00:00",
+ "url": "https://www.youtube.com/watch?v=gLGTaQG_B0s",
+ "short": false,
+ "summarized": "2026-11-06T02:19Z"
+}
