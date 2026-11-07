@@ -1,0 +1,83 @@
+{
+ "summary": "This video breaks down the 3rd Anniversary event features, including Born of Chaos and Eve of the Rift. Players can participate in faction events like Nightveil Standoff and Coronation of Night to earn Rift Stardust, Starweave Fragments, and voting tickets for hero skins. The Otherworld Tour 14-day login event rewards a Legendary Hero Prime Chest, allowing players to choose key non-exclusive supports like Felosia or Zeffi. Finally, the video showcases Child of Chaos's Mythic exclusive artifact, Dragonbone Catalyst, which grants strong elemental damage or damage reduction buffs based on team element matching.",
+ "topics": [
+  "3rd Anniversary",
+  "Eve of the Rift",
+  "Born of Chaos",
+  "Child of Chaos",
+  "Legendary Hero Prime Chest",
+  "Dragonbone Catalyst"
+ ],
+ "heroes": [
+  {
+   "name": "Child of Chaos",
+   "verdict": "Top Tier Versatile Support",
+   "note": "Can switch elements at will and grants massive 30% damage or damage reduction buffs when equipped with his exclusive artifact Dragonbone Catalyst.",
+   "known": true
+  },
+  {
+   "name": "Felosia",
+   "verdict": "Top Support Pick from Prime Chest",
+   "note": "Available as a rare non-exclusive support option in the Day 14 Legendary Hero Prime Chest.",
+   "known": true
+  },
+  {
+   "name": "Zeffi",
+   "verdict": "Recommended Support Pick",
+   "note": "One of the high-value rare non-exclusive supports obtainable from the Day 14 Legendary Hero Prime Chest.",
+   "known": true
+  },
+  {
+   "name": "Gulendil",
+   "verdict": "Good Support Option",
+   "note": "Selectable support hero available in the Day 14 Legendary Hero Prime Chest.",
+   "known": false
+  },
+  {
+   "name": "Asula",
+   "verdict": "Good Support Option",
+   "note": "Selectable support hero available in the Day 14 Legendary Hero Prime Chest.",
+   "known": false
+  },
+  {
+   "name": "Astaion",
+   "verdict": "Good Support Option",
+   "note": "Selectable support hero available in the Day 14 Legendary Hero Prime Chest.",
+   "known": true
+  },
+  {
+   "name": "Cenarol",
+   "verdict": "Good Support Option",
+   "note": "Selectable support hero available in the Day 14 Legendary Hero Prime Chest.",
+   "known": false
+  },
+  {
+   "name": "Perkunte",
+   "verdict": "Skin Vote Target",
+   "note": "Highlighted by the creator as a primary target to vote for an exclusive appearance in Coronation of Night.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [
+  "Introduction of the Mythic artifact Dragonbone Catalyst, granting 30% damage bonus to same-element allies or 30% damage reduction to different-element allies when Child of Chaos is on the field.",
+  "Starweave Echo system allows players to exchange unused legendary soulprints for exclusive hero currency."
+ ],
+ "tips": [
+  "Do not exchange duplicate exclusive hero soulprints in Starweave Echo because their exchange value is identical to normal legendary heroes.",
+  "Clear dungeons daily during the Nightveil Standoff event to hit the maximum 600 daily Rift Stardust cap.",
+  "Deploy at least 3 heroes from your chosen faction's school in event modes to gain bonus Rift Stardust.",
+  "Log in for 14 days to collect the Legendary Hero Prime Chest and select essential support heroes like Felosia or Zeffi."
+ ],
+ "season": "unknown",
+ "server_scope": "mixed",
+ "value": "medium",
+ "id": "gdEoTXAXEiw",
+ "model": "gemini-3.5-flash",
+ "channel": "Gorax",
+ "title": "Dragonheir 3rd Anniversary: ALL Events & Rewards Explained! 🎉 | DragonHeir x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=gdEoTXAXEiw",
+ "short": false,
+ "summarized": "2026-11-07T08:20Z"
+}

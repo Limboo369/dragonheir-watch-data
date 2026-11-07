@@ -1,0 +1,131 @@
+{
+ "summary": "This guide demonstrates fast dungeon clears across all major equipment and rune dungeons using Epic heroes only for Season 8 progression. By leveraging specific Epic hero synergies and key artifacts like Darkthorn Claw and Misty Conch, players can clear high-stage dungeons without relying on Legendary heroes. Detailed lineups, gear sets, and artifact recommendations are provided for Grave of Venom, Grave of Curse, Grave of Rot, and Heretical Ruins. These Epic-only speedrun comps enable players to farm Affinity Solvent quickly for Psychicore progression early in the season.",
+ "topics": [
+  "Epic Heroes",
+  "Dungeon Speedrun",
+  "Grave of Venom",
+  "Grave of Curse",
+  "Grave of Rot",
+  "Heretical Ruins"
+ ],
+ "heroes": [
+  {
+   "name": "Gareth",
+   "verdict": "Top Epic Tank",
+   "note": "Highly durable tank for Grave of Venom and Grave of Curse when equipped with Ravatrix's Roots.",
+   "known": true
+  },
+  {
+   "name": "Garian",
+   "verdict": "Core Epic Healer",
+   "note": "Essential healer across multiple dungeons providing team sustain and damage reduction using Solar King's Horn.",
+   "known": true
+  },
+  {
+   "name": "Voresh",
+   "verdict": "Essential Debuffer & Dispeller",
+   "note": "Crucial for dispelling boss buffs in Grave of Curse and applying consistent debuffs with Witch's Remains.",
+   "known": true
+  },
+  {
+   "name": "Vidimir",
+   "verdict": "Top Free Epic DPS",
+   "note": "Excels in Grave of Venom when equipped with Darkthorn Claw to pierce the boss shield.",
+   "known": true
+  },
+  {
+   "name": "Rava",
+   "verdict": "Fast Def Down Enabler",
+   "note": "Applies reliable Defense Penalty in Grave of Venom using the Misty Conch artifact.",
+   "known": true
+  },
+  {
+   "name": "Gerthin",
+   "verdict": "High Damage Ice DPS",
+   "note": "Primary damage dealer for Ice-based epic teams in Grave of Curse, Grave of Rot, and Heretical Ruins.",
+   "known": true
+  },
+  {
+   "name": "Bleddyn",
+   "verdict": "Multi-Hit Ice DPS",
+   "note": "Pairs with Gerthin to deliver high single-target multi-hit damage in Ice comps.",
+   "known": true
+  },
+  {
+   "name": "Vicuc",
+   "verdict": "Key Cleanser & Supporter",
+   "note": "Provides essential debuff cleansing and support for Grave of Rot and Heretical Ruins.",
+   "known": true
+  },
+  {
+   "name": "Frurbath",
+   "verdict": "Top Utility Tank",
+   "note": "Key tank for Heretical Ruins to manage ultimate timing and mitigate heavy boss damage.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Grave of Venom Stage 20",
+   "heroes": [
+    "Gareth",
+    "Garian",
+    "Voresh",
+    "Vidimir",
+    "Rava"
+   ],
+   "note": "Cleared in 47s using Vidimir with Darkthorn Claw to ignore shields and Rava with Misty Conch for consistent Defense Down."
+  },
+  {
+   "mode": "Grave of Curse Stage 20",
+   "heroes": [
+    "Gareth",
+    "Garian",
+    "Voresh",
+    "Gerthin",
+    "Bleddyn"
+   ],
+   "note": "Cleared in 1:04 with Voresh dispelling boss buffs and applying Witch's Remains debuffs."
+  },
+  {
+   "mode": "Grave of Rot Stage 19",
+   "heroes": [
+    "Gareth",
+    "Garian",
+    "Vicuc",
+    "Gerthin",
+    "Bleddyn"
+   ],
+   "note": "Cleared in 53s by positioning Vicuc in the back to absorb boss knockback stuns while keeping main healers active."
+  },
+  {
+   "mode": "Heretical Ruins Stage 11",
+   "heroes": [
+    "Frurbath",
+    "Garian",
+    "Gerthin",
+    "Vicuc",
+    "Bleddyn"
+   ],
+   "note": "Requires precise skill timing with Frurbath and Vicuc to cleanse debuffs and survive phoenix ultimate phases."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Equip Darkthorn Claw on your main DPS in Grave of Venom to ignore the boss shield and speed up clears.",
+  "Use Misty Conch on Rava or Voresh for more consistent Defense Penalty application than RNG set bonuses.",
+  "Position low-priority support units like Vicuc in the backline during Grave of Rot to eat the boss knockback stun instead of your main healer.",
+  "Speedrunning dungeons early in the season yields maximum Affinity Solvent for unlocking Psychicore nodes quickly."
+ ],
+ "season": "S8",
+ "server_scope": "mixed",
+ "value": "high",
+ "id": "gnxBizJEMj4",
+ "model": "gemini-3.5-flash",
+ "channel": "Skratch Gaming",
+ "title": "EPIC HEROES ONLY! Speed Run All Dungeons S8 Guide | Dragonheir: Silent Gods x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=gnxBizJEMj4",
+ "short": false,
+ "summarized": "2026-11-07T08:20Z"
+}

@@ -1,0 +1,95 @@
+{
+ "summary": "The creator showcases strategies and team builds for the Continental Challenge Boss Joyce, focusing on Burn and Aura compositions. The Burn team featuring Naro, Paixton, Durem, Karf, and Synarell achieves 700M to 800M+ damage without using exclusive heroes. The higher-ceiling Aura team featuring Talethia, Diantha, Lincos, Anneliesis, and Naro reaches up to 1.48B damage on an 18-second skill timing cycle. Key tuning advice includes using an HP Aura for team survival and ensuring Talethia has the second-highest Attack stat so Lincos targets her with buffs.",
+ "topics": [
+  "Continental Challenge",
+  "Boss Challenge - Joyce",
+  "Burn Team",
+  "Aura Team",
+  "Hero Builds"
+ ],
+ "heroes": [
+  {
+   "name": "Naro",
+   "verdict": "Top support for Joyce boss challenge",
+   "note": "Provides key buffs in both Burn and Aura teams; can be replaced by Ardreth or Rena if unavailable.",
+   "known": true
+  },
+  {
+   "name": "Ardreth",
+   "verdict": "Solid substitute for Naro",
+   "note": "Keeps the team alive as a substitute support, though misses out on Naro's bonus damage trigger.",
+   "known": true
+  },
+  {
+   "name": "Vyressa",
+   "verdict": "Not recommended for Joyce Burn team",
+   "note": "Replacing any standard Burn team member with Vyressa consistently resulted in lower total damage.",
+   "known": true
+  },
+  {
+   "name": "Talethia",
+   "verdict": "Primary DPS for Joyce Aura team",
+   "note": "Deals massive AoE damage to boss copies; build with high HP, Crit Damage, and second-highest Attack in team.",
+   "known": true
+  },
+  {
+   "name": "Lincos",
+   "verdict": "Essential buffer for Aura team",
+   "note": "Buffs the second-highest Attack ally (Talethia), but is prone to dying early if focus-fired.",
+   "known": true
+  },
+  {
+   "name": "Diantha",
+   "verdict": "Defense debuffer for Aura team",
+   "note": "Applies Defense Down to boost team damage; keep her Attack higher than Talethia's so Lincos targets Talethia.",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "Core tank/support for Aura team",
+   "note": "Build with maximum HP, Accuracy, and Defense to prevent early team wipes.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Continental Challenge - Joyce",
+   "heroes": [
+    "Naro",
+    "Paixton",
+    "Durem",
+    "Karf",
+    "Synarell"
+   ],
+   "note": "Budget-friendly Burn team capable of 700M-800M+ damage; Ardreth can replace Naro."
+  },
+  {
+   "mode": "Continental Challenge - Joyce",
+   "heroes": [
+    "Talethia",
+    "Diantha",
+    "Lincos",
+    "Anneliesis",
+    "Naro"
+   ],
+   "note": "Top-tier Aura team achieving 1.4B-1.5B+ damage using HP Aura and 18-second skill timing."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Use an HP Aura instead of an Attack Aura when running Aura teams against Joyce to ensure survivability.",
+  "Ensure Talethia has the second-highest Attack on the Aura team so Lincos buffs her damage instead of Diantha.",
+  "Set skill timings for Aura team members to an 18-second recast cycle to align with Joyce's phase transitions."
+ ],
+ "season": "unknown",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "gfSqo_HbDxM",
+ "model": "gemini-3.5-flash",
+ "channel": "Skratch Gaming",
+ "title": "Burn & Aura Team Vs Boss Challenge Joyce! Dragonheir: Silent Gods x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=gfSqo_HbDxM",
+ "short": false,
+ "summarized": "2026-11-07T08:19Z"
+}

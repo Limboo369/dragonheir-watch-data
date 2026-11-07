@@ -1,0 +1,60 @@
+{
+ "summary": "Gorax reviews the new Burn exclusive hero Vyressa, evaluating her kit, talents, and inspirations based on early testing and screenshots from the Chinese version of Dragonheir. Vyressa significantly boosts Burn team damage in endgame PvE content such as Continental Challenge and boss fights, out-damaging traditional Aura teams and reviving Aschetius's meta relevance. Gorax details her skill interactions, highlighting the importance of Attack Speed and her powerful Inspiration 2 and Inspiration 5 thresholds, while advising players to consider saving summons for the upcoming 3rd Anniversary event.",
+ "topics": [
+  "Vyressa Review",
+  "Burn Team Meta",
+  "Hero Inspirations",
+  "Continental Challenge",
+  "3rd Anniversary Event"
+ ],
+ "heroes": [
+  {
+   "name": "Vyressa",
+   "verdict": "Top-tier Burn exclusive DPS",
+   "note": "Replaces Durem in optimal Burn teams and enables massive endgame PvE damage via Hex Flame mechanics, Total Immolation debuffs, and bonus basic attacks.",
+   "known": true
+  },
+  {
+   "name": "Aschetius",
+   "verdict": "High endgame PvE value alongside Vyressa",
+   "note": "Pairs exceptionally well with Vyressa to elevate Burn team performance against endgame bosses like Mecha Turkey.",
+   "known": true
+  },
+  {
+   "name": "Durem",
+   "verdict": "Replaced by Vyressa in top Burn comps",
+   "note": "Loses top Burn DPS spot to Vyressa, though performance comparisons at different inspiration levels require testing.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Continental Challenge / Endgame Bosses",
+   "heroes": [
+    "Vyressa",
+    "Aschetius"
+   ],
+   "note": "Top-performing Burn composition that recorded over 3.6B damage in Chinese server testing, out-damaging top Aura teams."
+  }
+ ],
+ "meta_changes": [
+  "Vyressa pushes Burn teams into high endgame PvE meta tier, out-damaging traditional Aura compositions in boss challenges.",
+  "Vyressa replaces Durem as the primary DPS engine for high-end Burn compositions."
+ ],
+ "tips": [
+  "Consider saving Heliolite Dice for the 3rd Anniversary event starting September 15th unless building a premier Burn team.",
+  "Build Vyressa with Attack Speed, Crit Rate, Crit Damage, and Attack to maximize basic attack triggers during her ultimate buff state.",
+  "Target Inspiration 2 for Vyressa to lower her Hex Flame stack consumption from 20 to 15 per basic attack, allowing 4 empowered triggers instead of 3 per 60 stacks."
+ ],
+ "season": "S9",
+ "server_scope": "mixed",
+ "value": "high",
+ "id": "ggMIhIYLB2A",
+ "model": "gemini-3.5-flash",
+ "channel": "Gorax",
+ "title": "Pull for Vyressa or SAVE for the 3rd Anniversary?! | DragonHeir x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=ggMIhIYLB2A",
+ "short": false,
+ "summarized": "2026-11-07T08:20Z"
+}
