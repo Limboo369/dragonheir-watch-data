@@ -1,12 +1,12 @@
 {
- "built": "2026-11-07T03:59Z",
- "last_fetch": "2026-11-07T03:17Z",
+ "built": "2026-11-07T04:19Z",
+ "last_fetch": "2026-11-07T04:17Z",
  "counts": {
-  "summarized": 307,
+  "summarized": 308,
   "skipped_giveaway": 17,
   "baseline": 22,
-  "new": 306,
-  "retry": 10,
+  "new": 304,
+  "retry": 11,
   "skipped_live": 1,
   "failed": 3
  },
@@ -25,6 +25,12 @@
   },
   {
    "title": "Burn & Aura Team Vs Boss Challenge Joyce! Dragonheir: Silent Gods x Dragonstride",
+   "channel": "Skratch Gaming",
+   "status": "retry",
+   "error": ""
+  },
+  {
+   "title": "F2P & Whale Teams! Challenge Boss Joyce Vs. Burn... Dragonheir: Silent Gods x Dragonstride",
    "channel": "Skratch Gaming",
    "status": "retry",
    "error": ""
@@ -60,12 +66,6 @@
    "error": ""
   },
   {
-   "title": "🚨 CHOOSE THE RIGHT ONE 🚨 Temporal Vortex S8 Difficulty 4 GUIDE &SHOWCASE | Dragonheir x Dragonstride",
-   "channel": "OddOneGaming RPGs",
-   "status": "retry",
-   "error": ""
-  },
-  {
    "title": "I KNEW IT! It was meant to be! 💥 I Summoned for BURN Already... 🔥 Dragonheir x Dragonstride",
    "channel": "Suzi Plays",
    "status": "retry",
@@ -74,6 +74,12 @@
   {
    "title": "🔥 The MOST TOXIC Event?! ⚠️ Dragon Crown Homage – My Honest Opinion! | Dragonheir: Silent Gods",
    "channel": "Skyasterix Gaming",
+   "status": "retry",
+   "error": ""
+  },
+  {
+   "title": "Ice Blast vs Elecebre | Continental Challenge | Season 8 | Dragonheir",
+   "channel": "liveranov",
    "status": "retry",
    "error": ""
   },
@@ -92,47 +98,11 @@
  ],
  "budget": {
   "day": "2026-11-07",
-  "seconds": 8734,
+  "seconds": 10178,
   "v2": 1,
-  "quota_hit": 1794018534.3458142
+  "quota_hit": 1794025118.573825
  },
  "log_tail": [
-  "… Suzi Plays: EVENT REVEAL 💥 & Understanding the Child of Chaos vs The Dar… Volkin Dragonheir: BEST Summon Strategy For NEW Accounts!!! [Dragonheir: Silent",
-  "",
-  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
-  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
-  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
-  "… Skyasterix Gaming: 🔥 The MOST TOXIC Event?! ⚠️ Dragon Crown Homage – My Honest ",
-  "! 🔥 Season 9 Speed Run 3 Code: SKYASTERIX | Dragonhe: ClientError: 403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}",
-  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
-  "… Gorax: This F2P Team Beats the META! | Temporal Vortex Guide | Drag",
-  "! 🔥 The MOST TOXIC Event?! ⚠️ Dragon Crown Homage – : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
-  "… Skratch Gaming: 3rd Anniversary Events | What To Expect...Dragonheir: Silent",
-  "! This F2P Team Beats the META! | Temporal Vortex Gu: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
-  "… Volkin Dragonheir: I Pulled Something CRAZY!!! [Dragonheir: Silent Gods]",
-  "… Gorax: Dragon Crown Homage Event Breakdown - Worth It or Whale Bait",
-  "saved igG9N0H27js",
-  "+ Skratch Gaming: 3rd Anniversary Events | What To Expect...Dragonheir: Silent",
-  "! I Pulled Something CRAZY!!! [Dragonheir: Silent Go: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
-  "… Gorax: Every Damage School Explained! What Should You Pick? | Tier ",
-  "! Dragon Crown Homage Event Breakdown - Worth It or : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
-  "… OddOneGaming RPGs: 🚨 CHOOSE THE RIGHT ONE 🚨 Temporal Vortex S8 Difficulty 4 GUI",
-  "… Skratch Gaming: ICE FORTRESS My Teams & Strategy! Dragonheir: Silent Gods x ",
-  "saved jRRemeIzzrc",
-  "+ Volkin Dragonheir: BEST Summon Strategy For NEW Accounts!!! [Dragonheir: Silent",
-  "! 🚨 CHOOSE THE RIGHT ONE 🚨 Temporal Vortex S8 Diffic: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
-  "! ICE FORTRESS My Teams & Strategy! Dragonheir: Sile: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
-  "saved hXBPeFQV_5Y",
-  "+ Gorax: Every Damage School Explained! What Should You Pick? | Tier ",
-  "saved lOU78-yWaHI",
-  "+ Suzi Plays: EVENT REVEAL 💥 & Understanding the Child of Chaos vs The Dar",
-  "saved 89W5pboYUAY",
-  "+ liveranov: Creator Code RESET! Enter liveranov Again + BuffBuff Deals u",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 305 videos, 194 heroes",
-  "== 2026-11-07 01:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "Gemini quota was full less than an hour ago, trying again next round",
   "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 305 videos, 194 heroes",
   "== 2026-11-07 02:17",
   "fetch done: 0 new transcripts, 0 not available yet",
@@ -176,7 +146,43 @@
   "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "Gemini quota was full less than an hour ago, trying again next round",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 307 videos, 196 heroes"
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 307 videos, 196 heroes",
+  "== 2026-11-07 04:17",
+  "fetch done: 0 new transcripts, 0 not available yet",
+  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
+  "… Skyasterix Gaming: 🔥 The MOST TOXIC Event?! ⚠️ Dragon Crown Homage – My Honest … Volkin Dragonheir: I Pulled Something CRAZY!!! [Dragonheir: Silent Gods]",
+  "",
+  "… OddOneGaming RPGs: 🚨 CHOOSE THE RIGHT ONE 🚨 Temporal Vortex S8 Difficulty 4 GUI",
+  "… Skratch Gaming: ICE FORTRESS My Teams & Strategy! Dragonheir: Silent Gods x ",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
+  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
+  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
+  "… Skratch Gaming: EPIC HEROES ONLY! Speed Run All Dungeons S8 Guide | Dragonhe",
+  "! ICE FORTRESS My Teams & Strategy! Dragonheir: Sile: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+  "… Gorax: Pull for Vyressa or SAVE for the 3rd Anniversary?! | DragonH",
+  "! EPIC HEROES ONLY! Speed Run All Dungeons S8 Guide : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+  "… Skratch Gaming: Burn & Aura Team Vs Boss Challenge Joyce! Dragonheir: Silent",
+  "! Pull for Vyressa or SAVE for the 3rd Anniversary?!: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+  "… Gorax: Dragonheir 3rd Anniversary: ALL Events & Rewards Explained! ",
+  "! Burn & Aura Team Vs Boss Challenge Joyce! Dragonhe: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+  "… Suzi Plays: I KNEW IT! It was meant to be! 💥 I Summoned for BURN Already",
+  "! Dragonheir 3rd Anniversary: ALL Events & Rewards E: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+  "… Gorax: Joyce - THE BEST Teams & Strategy | Continental Challenge | ",
+  "! I KNEW IT! It was meant to be! 💥 I Summoned for BU: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+  "… liveranov: Ice Blast vs Elecebre | Continental Challenge | Season 8 | D",
+  "! Joyce - THE BEST Teams & Strategy | Continental Ch: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+  "… Skratch Gaming: F2P & Whale Teams! Challenge Boss Joyce Vs. Burn... Dragonhe",
+  "! Ice Blast vs Elecebre | Continental Challenge | Se: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+  "! F2P & Whale Teams! Challenge Boss Joyce Vs. Burn..: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+  "saved hG8YnV5WAqk",
+  "+ OddOneGaming RPGs: 🚨 CHOOSE THE RIGHT ONE 🚨 Temporal Vortex S8 Difficulty 4 GUI",
+  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
+  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
+  "! I Pulled Something CRAZY!!! [Dragonheir: Silent Go: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g"
  ],
  "crontab": [],
  "channels": [
@@ -184,55 +190,55 @@
    "name": "Skratch Gaming",
    "id": "UCoSkzr1pXpt3d0jIxsc6ufw",
    "enabled": true,
-   "checked": "2026-11-07T03:17Z"
+   "checked": "2026-11-07T04:17Z"
   },
   {
    "name": "Gorax",
    "id": "UCNas7BnuOIjDEzY1D53kb1w",
    "enabled": true,
-   "checked": "2026-11-07T03:17Z"
+   "checked": "2026-11-07T04:17Z"
   },
   {
    "name": "Neff Gaming",
    "id": "UCsxs6YhNd_B36RgUAjbpJ_A",
    "enabled": true,
-   "checked": "2026-11-07T03:17Z"
+   "checked": "2026-11-07T04:17Z"
   },
   {
    "name": "Volkin Dragonheir",
    "id": "UCfRpOh_ywVjzhh9fxHbreGw",
    "enabled": true,
-   "checked": "2026-11-07T03:17Z"
+   "checked": "2026-11-07T04:17Z"
   },
   {
    "name": "Fastidious Dragonheir",
    "id": "UC16mpj5wEemSZX-uTlHe9Ww",
    "enabled": true,
-   "checked": "2026-11-07T03:17Z"
+   "checked": "2026-11-07T04:17Z"
   },
   {
    "name": "OddOneGaming RPGs",
    "id": "UC1ivUEf_poI9_R2eVKa8wRQ",
    "enabled": true,
-   "checked": "2026-11-07T03:17Z"
+   "checked": "2026-11-07T04:17Z"
   },
   {
    "name": "Suzi Plays",
    "id": "UCyo1-TkunhGcK6khU1h8Ypw",
    "enabled": true,
-   "checked": "2026-11-07T03:17Z"
+   "checked": "2026-11-07T04:17Z"
   },
   {
    "name": "Skyasterix Gaming",
    "id": "UCr5Gb3910rK7QPmKMmdagsA",
    "enabled": true,
-   "checked": "2026-11-07T03:17Z"
+   "checked": "2026-11-07T04:17Z"
   },
   {
    "name": "liveranov",
    "id": "UCqCR7ofFHhWwXy3Hg00fqEw",
    "enabled": true,
-   "checked": "2026-11-07T03:17Z"
+   "checked": "2026-11-07T04:17Z"
   }
  ]
 }

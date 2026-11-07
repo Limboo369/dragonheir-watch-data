@@ -1,0 +1,116 @@
+{
+ "summary": "OddOneGaming provides a complete guide for Temporal Vortex Difficulty IV in Season 8 featuring Aura and Toxic dual teams. He details boss mechanics, positioning tricks for egg AoE clear, ultimate skill timings, and individual gear builds for all ten heroes. The showcase demonstrates achieving over 4.7 billion total damage using balanced team compositions.",
+ "topics": [
+  "Temporal Vortex",
+  "Boss Guide",
+  "Aura Team",
+  "Toxic Team",
+  "Skill Timings"
+ ],
+ "heroes": [
+  {
+   "name": "Solmo",
+   "verdict": "Core shield provider for Aura team",
+   "note": "Built with full Enlightenment and Aurelum Vest to generate massive shields and team damage reduction.",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "Essential cleanser and tank for Aura team",
+   "note": "Built for max HP with Sylvan Refuge and Solar King's Horn to absorb single-target boss execution hits and cleanse debuffs.",
+   "known": true
+  },
+  {
+   "name": "Lincos",
+   "verdict": "Attack buffer for Talethia",
+   "note": "Stacked with maximum Attack using Orb of the Dragon God and Everlasting Candleflame to share Attack stats with Talethia.",
+   "known": true
+  },
+  {
+   "name": "Diantha",
+   "verdict": "Debuffer and support for Aura team",
+   "note": "Equipped with Witch's Remains to apply Defense Penalty II alongside shared attack support gear.",
+   "known": true
+  },
+  {
+   "name": "Talethia",
+   "verdict": "Primary DPS for Aura team",
+   "note": "Built for high Crit Rate and Crit Damage with Dragonblood Brand to convert bonus HP into Attack.",
+   "known": true
+  },
+  {
+   "name": "Reytah",
+   "verdict": "Debuffer and healer for Toxic team",
+   "note": "Uses Whirling Doom and high HP to apply attack and recharge speed penalties while extending Durango's Defense penalty.",
+   "known": true
+  },
+  {
+   "name": "Oggok",
+   "verdict": "Healer and shield generator for Toxic team",
+   "note": "Equipped with Gatekeeper's Staff and high Enlightenment to convert overhealing into team shields.",
+   "known": true
+  },
+  {
+   "name": "Durango",
+   "verdict": "Debuffer and Accuracy aura provider for Toxic team",
+   "note": "Provides Accuracy Aura and Defense Penalty while wearing Death Record to boost derivative damage taken by the boss.",
+   "known": true
+  },
+  {
+   "name": "Twitch",
+   "verdict": "Toxin enabler for Toxic team",
+   "note": "Uses Illuya's Fang and Darknight Canticle to maximize Toxin application rate across all spawned eggs.",
+   "known": true
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "Primary DPS for Toxic team",
+   "note": "Requires around 140-150 Accuracy along with high Enlightenment and Statue of the Serpent Deity to deal massive Poison derivative damage.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Temporal Vortex Difficulty IV - Team 1 (Aura)",
+   "heroes": [
+    "Solmo",
+    "Anneliesis",
+    "Lincos",
+    "Diantha",
+    "Talethia"
+   ],
+   "note": "Focuses on positioning Anneliesis in front of Solmo to repeatedly grant her shields while she tanks execution hits and cleanses debuffs at 30.1s."
+  },
+  {
+   "mode": "Temporal Vortex Difficulty IV - Team 2 (Toxic)",
+   "heroes": [
+    "Oggok",
+    "Reytah",
+    "Durango",
+    "Twitch",
+    "Serpentemis"
+   ],
+   "note": "Positioned centrally so diamond-shape AoE attacks from Twitch and Durango hit all spawned eggs in a line."
+  }
+ ],
+ "meta_changes": [
+  "Temporal Vortex Season 8 allows swapping affinity and accuracy buffs between boss phases.",
+  "Hydra egg spawn tile restrictions require specific hero positioning for diamond AoE skills to hit all targets."
+ ],
+ "tips": [
+  "Stack Accuracy on your highest accuracy hero to gain up to 20% team-wide Damage Reduction from the season buff.",
+  "Delay Anneliesis's first cast to 30.1s so she cleanses the boss's ATK and DEF penalties immediately after they land.",
+  "Ensure Serpentemis has at least 140-150 Accuracy so her passive consistently lands Serpent Venom stacks."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "hG8YnV5WAqk",
+ "model": "gemini-3.6-flash",
+ "channel": "OddOneGaming RPGs",
+ "title": "🚨 CHOOSE THE RIGHT ONE 🚨 Temporal Vortex S8 Difficulty 4 GUIDE &SHOWCASE | Dragonheir x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=hG8YnV5WAqk",
+ "short": false,
+ "summarized": "2026-11-07T04:18Z"
+}
