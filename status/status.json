@@ -1,5 +1,5 @@
 {
- "built": "2026-11-07T11:19Z",
+ "built": "2026-11-07T11:53Z",
  "last_fetch": "2026-11-07T11:17Z",
  "counts": {
   "summarized": 330,
@@ -36,7 +36,6 @@
   "quota_hit": 1794043106.3933399
  },
  "log_tail": [
-  "saved gnxBizJEMj4",
   "+ Skratch Gaming: EPIC HEROES ONLY! Speed Run All Dungeons S8 Guide | Dragonhe",
   "… Skratch Gaming: F2P & Whale Teams! Challenge Boss Joyce Vs. Burn... Dragonhe",
   "saved gdEoTXAXEiw (unknown hero names: Gulendil, Asula, Cenarol)",
@@ -115,7 +114,8 @@
   "saved cZ3Mg26_W5k",
   "+ Gorax: How to Get FREE LEGENDARY Heroes & MASSIVE Rewards on Day 1!",
   "saved cJ24cJf9Oh0",
-  "+ Neff Gaming: Options Summons II - Something That I Will Remember! | Drago"
+  "+ Neff Gaming: Options Summons II - Something That I Will Remember! | Drago",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 330 videos, 212 heroes"
  ],
  "crontab": [],
  "channels": [
