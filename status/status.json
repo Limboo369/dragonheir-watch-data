@@ -1,5 +1,5 @@
 {
- "built": "2026-11-07T00:20Z",
+ "built": "2026-11-07T00:57Z",
  "last_fetch": "2026-11-07T00:17Z",
  "counts": {
   "summarized": 305,
@@ -73,7 +73,6 @@
   "quota_hit": 1794010692.6678503
  },
  "log_tail": [
-  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
   "! EVENT REVEAL 💥 & Understanding the Child of Chaos : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
   "  gemini-3.7-flash: 429, using gemini-3.6-flash",
   "! Creator Code RESET! Enter liveranov Again + BuffBu: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
@@ -152,7 +151,8 @@
   "saved lOU78-yWaHI",
   "+ Suzi Plays: EVENT REVEAL 💥 & Understanding the Child of Chaos vs The Dar",
   "saved 89W5pboYUAY",
-  "+ liveranov: Creator Code RESET! Enter liveranov Again + BuffBuff Deals u"
+  "+ liveranov: Creator Code RESET! Enter liveranov Again + BuffBuff Deals u",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 305 videos, 194 heroes"
  ],
  "crontab": [],
  "channels": [
