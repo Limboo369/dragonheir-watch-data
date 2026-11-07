@@ -1,14 +1,13 @@
 {
- "built": "2026-11-07T10:53Z",
- "last_fetch": "2026-11-07T10:17Z",
+ "built": "2026-11-07T11:19Z",
+ "last_fetch": "2026-11-07T11:17Z",
  "counts": {
-  "summarized": 328,
+  "summarized": 330,
   "skipped_giveaway": 17,
   "baseline": 22,
   "new": 294,
   "skipped_live": 1,
-  "failed": 3,
-  "retry": 2
+  "failed": 3
  },
  "problems": [
   {
@@ -16,18 +15,6 @@
    "channel": "liveranov",
    "status": "failed",
    "error": "Expecting value: line 1 column 1 (char 0)"
-  },
-  {
-   "title": "How to Get FREE LEGENDARY Heroes & MASSIVE Rewards on Day 1! | Dragonheir x Dragonstride",
-   "channel": "Gorax",
-   "status": "retry",
-   "error": ""
-  },
-  {
-   "title": "Options Summons II - Something That I Will Remember! | Dragonheir: Silent Gods",
-   "channel": "Neff Gaming",
-   "status": "retry",
-   "error": ""
   },
   {
    "title": "🔥 Season 9 FIRST CROWN CONTEST! Code: SKYASTERIX | Dragonheir: Silent Gods",
@@ -44,24 +31,11 @@
  ],
  "budget": {
   "day": "2026-11-07",
-  "seconds": 24283,
+  "seconds": 26190,
   "v2": 1,
   "quota_hit": 1794043106.3933399
  },
  "log_tail": [
-  "… Skratch Gaming: Burn & Aura Team Vs Boss Challenge Joyce! Dragonheir: Silent",
-  "… Gorax: Dragonheir 3rd Anniversary: ALL Events & Rewards Explained! ",
-  "  gemini-3.8-flash: 503, using gemini-3.5-flash",
-  "  gemini-3.8-flash: 503, using gemini-3.5-flash",
-  "  gemini-3.8-flash: 503, using gemini-3.5-flash",
-  "… Suzi Plays: I KNEW IT! It was meant to be! 💥 I Summoned for BURN Already",
-  "saved gfSqo_HbDxM",
-  "+ Skratch Gaming: Burn & Aura Team Vs Boss Challenge Joyce! Dragonheir: Silent",
-  "… Gorax: Joyce - THE BEST Teams & Strategy | Continental Challenge | ",
-  "saved ggMIhIYLB2A",
-  "+ Gorax: Pull for Vyressa or SAVE for the 3rd Anniversary?! | DragonH",
-  "  gemini-3.8-flash: 503, using gemini-3.5-flash",
-  "… liveranov: Ice Blast vs Elecebre | Continental Challenge | Season 8 | D",
   "saved gnxBizJEMj4",
   "+ Skratch Gaming: EPIC HEROES ONLY! Speed Run All Dungeons S8 Guide | Dragonhe",
   "… Skratch Gaming: F2P & Whale Teams! Challenge Boss Joyce Vs. Burn... Dragonhe",
@@ -128,7 +102,20 @@
   "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "Gemini quota was full less than an hour ago, trying again next round",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 328 videos, 211 heroes"
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 328 videos, 211 heroes",
+  "== 2026-11-07 11:17",
+  "fetch done: 0 new transcripts, 0 not available yet",
+  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
+  "… Gorax: How to Get FREE LEGENDARY Heroes & MASSIVE Rewards on Day 1!",
+  "… Neff Gaming: Options Summons II - Something That I Will Remember! | Drago",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
+  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
+  "saved cZ3Mg26_W5k",
+  "+ Gorax: How to Get FREE LEGENDARY Heroes & MASSIVE Rewards on Day 1!",
+  "saved cJ24cJf9Oh0",
+  "+ Neff Gaming: Options Summons II - Something That I Will Remember! | Drago"
  ],
  "crontab": [],
  "channels": [
@@ -136,55 +123,55 @@
    "name": "Skratch Gaming",
    "id": "UCoSkzr1pXpt3d0jIxsc6ufw",
    "enabled": true,
-   "checked": "2026-11-07T10:17Z"
+   "checked": "2026-11-07T11:17Z"
   },
   {
    "name": "Gorax",
    "id": "UCNas7BnuOIjDEzY1D53kb1w",
    "enabled": true,
-   "checked": "2026-11-07T10:17Z"
+   "checked": "2026-11-07T11:17Z"
   },
   {
    "name": "Neff Gaming",
    "id": "UCsxs6YhNd_B36RgUAjbpJ_A",
    "enabled": true,
-   "checked": "2026-11-07T10:17Z"
+   "checked": "2026-11-07T11:17Z"
   },
   {
    "name": "Volkin Dragonheir",
    "id": "UCfRpOh_ywVjzhh9fxHbreGw",
    "enabled": true,
-   "checked": "2026-11-07T10:17Z"
+   "checked": "2026-11-07T11:17Z"
   },
   {
    "name": "Fastidious Dragonheir",
    "id": "UC16mpj5wEemSZX-uTlHe9Ww",
    "enabled": true,
-   "checked": "2026-11-07T10:17Z"
+   "checked": "2026-11-07T11:17Z"
   },
   {
    "name": "OddOneGaming RPGs",
    "id": "UC1ivUEf_poI9_R2eVKa8wRQ",
    "enabled": true,
-   "checked": "2026-11-07T10:17Z"
+   "checked": "2026-11-07T11:17Z"
   },
   {
    "name": "Suzi Plays",
    "id": "UCyo1-TkunhGcK6khU1h8Ypw",
    "enabled": true,
-   "checked": "2026-11-07T10:17Z"
+   "checked": "2026-11-07T11:17Z"
   },
   {
    "name": "Skyasterix Gaming",
    "id": "UCr5Gb3910rK7QPmKMmdagsA",
    "enabled": true,
-   "checked": "2026-11-07T10:17Z"
+   "checked": "2026-11-07T11:17Z"
   },
   {
    "name": "liveranov",
    "id": "UCqCR7ofFHhWwXy3Hg00fqEw",
    "enabled": true,
-   "checked": "2026-11-07T10:17Z"
+   "checked": "2026-11-07T11:17Z"
   }
  ]
 }

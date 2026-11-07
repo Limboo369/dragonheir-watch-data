@@ -1,0 +1,86 @@
+{
+ "summary": "This video guides new and returning players on how to maximize rewards and build optimal teams when starting on a new server during the celebration event. Gorax highlights essential free heroes like Lossenia and Garius, explains team leveling through Resonance, and details how web events like Prophecy Summons and Account Valuation work. He breaks down the banner systems, including First Blush and Option Summons, recommending key hero picks like Nastjenka and Lelwanis. Additionally, he provides advice on creator codes and capitalizing on anniversary rewards.",
+ "topics": [
+  "New Player Guide",
+  "Free Legendary Heroes",
+  "Summon Banners",
+  "Anniversary Rewards",
+  "Option Summons"
+ ],
+ "heroes": [
+  {
+   "name": "Lossenia",
+   "verdict": "Great Frost enabler",
+   "note": "Obtained on Day 2 of the 7-Day Login event and serves as an essential enabler for Frost teams.",
+   "known": true
+  },
+  {
+   "name": "Garius",
+   "verdict": "Top-tier tank & healer",
+   "note": "Obtained on Day 2 of Daily Check-in; acts as an exceptional tank and healer that can restore full HP to the team.",
+   "known": true
+  },
+  {
+   "name": "Caspar",
+   "verdict": "Guaranteed 20-pull legendary option",
+   "note": "Shown as a potential outcome from the beginner 20-pull guaranteed legendary pool.",
+   "known": true
+  },
+  {
+   "name": "Nastjenka",
+   "verdict": "Top Dauntless DPS pick",
+   "note": "Recommended selectable exclusive legendary hero at 150 or 300 summons for Dauntless team builds.",
+   "known": true
+  },
+  {
+   "name": "Lelwanis",
+   "verdict": "Strong 300-pull choice",
+   "note": "Recommended selectable legendary hero at 300 summons on custom banners.",
+   "known": true
+  },
+  {
+   "name": "Lothair",
+   "verdict": "Solid 300-pull choice",
+   "note": "A strong legendary pick available at 300 summons to support specific element team comps.",
+   "known": true
+  },
+  {
+   "name": "Child of Chaos",
+   "verdict": "Guaranteed limited legendary",
+   "note": "Guaranteed at 300 summons on the Reversal Summon banner during the event.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Early Game / Campaign",
+   "heroes": [
+    "Hochadir",
+    "Lossenia",
+    "Garius"
+   ],
+   "note": "Solid starter Frost and defensive core capable of clearing early dungeons and story chapters easily."
+  }
+ ],
+ "meta_changes": [
+  "Resonance level system levels all heroes simultaneously without needing individual hero EXP investment.",
+  "Option Summons allow players to select two specific element schools to tailor their summoning pool."
+ ],
+ "tips": [
+  "Do not reroll early account pulls because the first 20 Heliolite summons guarantee a legendary hero and early progression gives strong free heroes.",
+  "Participate in the web Prophecy Summons to preview and lock in preferred 10-pull summon results using an in-game code.",
+  "Submit screenshots of old accounts or other strategy RPG accounts in the Account Valuation event to claim up to 15,000 Wyrmarrow.",
+  "Input Creator Code 'Gorax1' in Treasure Market -> Monthly to claim a free gift pack and unlock store discounts."
+ ],
+ "season": "S1",
+ "server_scope": "mixed",
+ "value": "medium",
+ "id": "cZ3Mg26_W5k",
+ "model": "gemini-3.5-flash",
+ "channel": "Gorax",
+ "title": "How to Get FREE LEGENDARY Heroes & MASSIVE Rewards on Day 1! | Dragonheir x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=cZ3Mg26_W5k",
+ "short": false,
+ "summarized": "2026-11-07T11:18Z"
+}

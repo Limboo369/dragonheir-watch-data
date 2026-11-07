@@ -1,0 +1,59 @@
+{
+ "summary": "In this video, the creator conducts a summon session on the Option Summons II banner after selecting the Thunderbolt and Toxin schools. He experiences extraordinary luck, pulling numerous Legendary heroes including Tariz, Stanguem, Alaura, Irmoush, Durango, Vicana, Perkunte, Jathalea, and Nissa within 300 pulls. At the 300-pull selector milestone, he evaluates whether to choose Lothair or Sleight to upgrade his Toxin setup. He plans to utilize the Temporal Corridor Exchange Shop to reach Inspiration 3 on Lothair, gaining 60 Enlightenment to boost his Continental Challenge boss damage against Talethia.",
+ "topics": [
+  "Option Summons II",
+  "Thunderbolt",
+  "Toxin",
+  "Continental Challenge",
+  "Hero Inspiration"
+ ],
+ "heroes": [
+  {
+   "name": "Tariz",
+   "verdict": "Great for Continental Challenge",
+   "note": "Valuable Thunderbolt damage dealer needed to fight the Talethia boss in Continental Challenge.",
+   "known": true
+  },
+  {
+   "name": "Lothair",
+   "verdict": "High priority Toxin inspiration target",
+   "note": "Reaching Inspiration 3 grants +60 Enlightenment, significantly increasing damage output against endgame bosses.",
+   "known": true
+  },
+  {
+   "name": "Sleight",
+   "verdict": "Strong Toxin DPS hero",
+   "note": "Key Toxin hero whose inspirations can also be built via the Temporal Corridor shop alongside Lothair.",
+   "known": true
+  },
+  {
+   "name": "Perkunte",
+   "verdict": "Solid Thunderbolt Legendary",
+   "note": "Gains passive damage bonuses for Lightning Bolt when inspired.",
+   "known": true
+  },
+  {
+   "name": "Irmoush",
+   "verdict": "Thunderbolt DPS Legendary",
+   "note": "Ignores 25 percent enemy resistance when inspired to boost overall damage.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [],
+ "tips": [
+  "Save Dust-Sealed Tomes to purchase high-value duplicate Legendary heroes in the Temporal Corridor Exchange Shop for Inspiration upgrades.",
+  "Prioritize getting key Toxin damage dealers like Lothair to Inspiration 3 for the +60 Enlightenment stat boost in boss content."
+ ],
+ "season": "S3",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "cJ24cJf9Oh0",
+ "model": "gemini-3.6-flash",
+ "channel": "Neff Gaming",
+ "title": "Options Summons II - Something That I Will Remember! | Dragonheir: Silent Gods",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=cJ24cJf9Oh0",
+ "short": false,
+ "summarized": "2026-11-07T11:19Z"
+}
