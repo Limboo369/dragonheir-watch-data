@@ -1,0 +1,172 @@
+{
+ "summary": "This guide covers optimal summon strategies for players on new accounts, focusing on Option Summons and banner priorities. Players should prioritize saving 300 summons for Child of Chaos before touching Option Summons. Option Summons should only be pulled when holding a full 300 pity guarantee, otherwise players should wait for Option Summons 2. The guide highlights budget and endgame team compositions across Iceblast, Necrosis, Toxin, and Burn elements while emphasizing resource distribution for multi-team content like Continental Challenge.",
+ "topics": [
+  "banners",
+  "summoning strategy",
+  "Option Summons",
+  "First Blush",
+  "team building"
+ ],
+ "heroes": [
+  {
+   "name": "Child of Chaos",
+   "verdict": "Top Priority",
+   "note": "Must-get hero for new accounts; save 300 summons to guarantee pulling him.",
+   "known": true
+  },
+  {
+   "name": "Beldelle",
+   "verdict": "Top Budget Choice",
+   "note": "Excellent single-target Iceblast DPS that performs solidly even at low inspiration without requiring other exclusives.",
+   "known": true
+  },
+  {
+   "name": "Ernesto",
+   "verdict": "High Value Support",
+   "note": "Strong Iceblast support that provides vital survivability for the team.",
+   "known": true
+  },
+  {
+   "name": "Fredegonda",
+   "verdict": "Strong Early Option",
+   "note": "Iceblast support hero who provides valuable extra team buffs.",
+   "known": true
+  },
+  {
+   "name": "Lelwanis",
+   "verdict": "Top Necrosis DPS",
+   "note": "Extremely tanky Necrosis DPS that scales well for both AoE and single-target content; accessible from First Blush.",
+   "known": true
+  },
+  {
+   "name": "Bernade",
+   "verdict": "High Value Support",
+   "note": "Key Necrosis support whose exclusive artifact gives a massive performance boost to Lelwanis.",
+   "known": true
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "Top Toxin DPS",
+   "note": "Extremely powerful Toxin DPS dealer who performs exceptionally well even at Inspiration 0.",
+   "known": true
+  },
+  {
+   "name": "Reytah",
+   "verdict": "Top Offensive Support",
+   "note": "S1 exclusive Toxin support that significantly boosts overall team poison damage.",
+   "known": true
+  },
+  {
+   "name": "Twitch",
+   "verdict": "Core Toxin DPS",
+   "note": "Solid legendary DPS choice to pair with Serpentemis in Toxin teams.",
+   "known": true
+  },
+  {
+   "name": "Sleight",
+   "verdict": "Core Toxin DPS",
+   "note": "Great complementary legendary DPS unit for Toxin team compositions.",
+   "known": true
+  },
+  {
+   "name": "Lothair",
+   "verdict": "Skip / Low Priority",
+   "note": "Niche exclusive hero who is not required to build an effective Toxin team.",
+   "known": true
+  },
+  {
+   "name": "Talethia",
+   "verdict": "Strong PvE DPS",
+   "note": "High-performing Radiance DPS for PvE content even at low inspiration and without limited supports.",
+   "known": true
+  },
+  {
+   "name": "Durem",
+   "verdict": "Top Burn DPS",
+   "note": "Deals huge AoE damage and scales heavily with inspiration, rivalling top exclusive Fire heroes at higher inspiration levels.",
+   "known": true
+  },
+  {
+   "name": "Karf",
+   "verdict": "Core Burn DPS",
+   "note": "Great Fire DPS option that pairs smoothly with Durem and Beags.",
+   "known": true
+  },
+  {
+   "name": "Beags",
+   "verdict": "Top Value Rare",
+   "note": "Rare goblin unit providing intense Ignite and Burn application to enable Fire DPS units.",
+   "known": true
+  },
+  {
+   "name": "Sintrellia",
+   "verdict": "Strong Necrosis Support",
+   "note": "Necrosis unit whose Inspiration 1 extends curse duration and boosts team damage output.",
+   "known": true
+  },
+  {
+   "name": "Premtsa",
+   "verdict": "Low Priority / Artifact Material",
+   "note": "Unused Necrosis hero whose duplicate copies are best converted into Mythic Artifacts.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Temporal Vortex",
+   "heroes": [
+    "Beldelle",
+    "Shinnah",
+    "Zhorak"
+   ],
+   "note": "Budget-friendly single-target Iceblast team capable of pushing early to mid-game boss progression."
+  },
+  {
+   "mode": "Continental Challenge",
+   "heroes": [
+    "Durem",
+    "Karf",
+    "Beags"
+   ],
+   "note": "Free-to-play friendly Burn team requiring only two legendaries and one rare to deal massive AoE damage."
+  },
+  {
+   "mode": "PvE",
+   "heroes": [
+    "Serpentemis",
+    "Twitch",
+    "Sleight"
+   ],
+   "note": "Strong core Toxin composition that functions at high efficiency at Inspiration 0 without needing Lothair."
+  },
+  {
+   "mode": "PvE",
+   "heroes": [
+    "Lelwanis",
+    "Bernade",
+    "Sintrellia"
+   ],
+   "note": "High-scaling Necrosis Summoner team with strong survivability and AoE/single-target versatility."
+  }
+ ],
+ "meta_changes": [
+  "Continental Challenge (Imperial Shadow Recast) requires preparing up to 6 unique teams without overlapping heroes by week 3, shifting priority toward roster depth over single-team investment."
+ ],
+ "tips": [
+  "Never pull on Option Summons banners without 300 summons ready to guarantee your selected hero; wait for Option Summons 2 if short.",
+  "Save the First Blush banner until the end of the season to select heroes that fill specific roster gaps.",
+  "When pulling duplicate banner heroes, apply them as Inspiration first and only convert to Exclusive Artifacts before the banner expires, as Inspiration can be refunded.",
+  "Exclusive Artifacts generally yield better PvE performance than Inspiration level 1 due to recharge mechanics."
+ ],
+ "season": "S1",
+ "server_scope": "mixed",
+ "value": "high",
+ "id": "jRRemeIzzrc",
+ "model": "gemini-3.5-flash",
+ "channel": "Volkin Dragonheir",
+ "title": "BEST Summon Strategy For NEW Accounts!!! [Dragonheir: Silent Gods]",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=jRRemeIzzrc",
+ "short": false,
+ "summarized": "2026-11-07T00:18Z"
+}

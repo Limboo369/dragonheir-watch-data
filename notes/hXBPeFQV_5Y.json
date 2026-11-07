@@ -1,0 +1,152 @@
+{
+ "summary": "This video breaks down all damage schools in Dragonheir: Silent Gods to guide players on banner picks and team building. It highlights Dauntless as the highest single-target damage team and Ice Blast as the best budget single-target alternative. For AoE, Toxin and Burn are recommended as the most F2P-friendly options, while Thunderbolt has risen in the meta with new hero additions. Corrosion and Wild are identified as high-investment, late-game teams unsuited for beginners. Essential team requirements such as key enablers and Inspiration thresholds are detailed for each school.",
+ "topics": [
+  "Option Summons",
+  "Damage Schools",
+  "Team Building",
+  "Meta Breakdown",
+  "Inspiration Priority"
+ ],
+ "heroes": [
+  {
+   "name": "Guinavivre",
+   "verdict": "Top Single-Target DPS",
+   "note": "Requires Inspiration 5 and her exclusive artifact to double her output and achieve peak Dauntless damage.",
+   "known": true
+  },
+  {
+   "name": "Beldelle",
+   "verdict": "Top Ice Blast DPS",
+   "note": "Delivers strong single-target damage right out of the gate and becomes top tier at Inspiration 5.",
+   "known": true
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "Core Toxin DPS",
+   "note": "Serves as the primary damage dealer in the highly accessible F2P Toxin AoE team.",
+   "known": true
+  },
+  {
+   "name": "Perkunte",
+   "verdict": "Top Thunderbolt DPS",
+   "note": "Scales exceptionally well with Enlightenment and functions effectively starting from Inspiration 2.",
+   "known": true
+  },
+  {
+   "name": "Durem",
+   "verdict": "Top Burn DPS",
+   "note": "Outdamages legacy Burn options like Asketius at Inspiration 5 while remaining accessible as a standard legendary.",
+   "known": true
+  },
+  {
+   "name": "Lorentheel",
+   "verdict": "Mandatory Rally Enabler",
+   "note": "Provides indispensable ultimate skill buffs without which Rally teams cannot function.",
+   "known": true
+  },
+  {
+   "name": "Paixton",
+   "verdict": "Mandatory Burn Support",
+   "note": "Essential enabler for Burn teams that performs his role at a single copy without requiring an exclusive artifact.",
+   "known": true
+  },
+  {
+   "name": "Saverio",
+   "verdict": "PvP / Magic Chess God",
+   "note": "Dominates PvP content with high burst damage but offers minimal utility in PvE.",
+   "known": true
+  },
+  {
+   "name": "Rook",
+   "verdict": "Late-Game Corrosion DPS",
+   "note": "Requires Inspiration 5, exclusive artifact, and endgame gear to be viable.",
+   "known": true
+  },
+  {
+   "name": "Maashtur",
+   "verdict": "Essential Melee Support",
+   "note": "Provides vital shields and survival buffs necessary to keep melee damage dealers alive.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Single Target",
+   "heroes": [
+    "Guinavivre",
+    "Nastjenka",
+    "Kurvida",
+    "Maashtur",
+    "Selva"
+   ],
+   "note": "The strongest single-target team in the game, but requires high Inspiration levels and exclusive artifacts."
+  },
+  {
+   "mode": "Single Target",
+   "heroes": [
+    "Beldelle",
+    "Zhorak",
+    "Shinnah",
+    "Felosia",
+    "Fredegonda"
+   ],
+   "note": "A cost-effective single-target team leveraging accessible legends and enablers."
+  },
+  {
+   "mode": "AoE",
+   "heroes": [
+    "Serpentemis",
+    "Twitch",
+    "Sleight",
+    "Reytah",
+    "Child of Chaos"
+   ],
+   "note": "The most F2P-friendly AoE meta team that performs reliably at low Inspiration levels."
+  },
+  {
+   "mode": "AoE",
+   "heroes": [
+    "Durem",
+    "Karf",
+    "Paixton",
+    "Beags",
+    "Scaarr"
+   ],
+   "note": "An accessible Burn team reliant on Paixton's enabler mechanics and rare support Beags."
+  },
+  {
+   "mode": "AoE",
+   "heroes": [
+    "Perkunte",
+    "Alaura",
+    "Tariz",
+    "Shai'nachtan",
+    "Maashtur"
+   ],
+   "note": "A high-performing Thunderbolt team elevated to top meta status by Tariz."
+  }
+ ],
+ "meta_changes": [
+  "Thunderbolt risen to second strongest AoE school following Tariz's release.",
+  "Corrosion shifted to an end-game whale team requiring Inspiration 5 on key heroes.",
+  "Ozul benched from Shadow teams following a skill rework.",
+  "Selva introduced as a top-tier exclusive support for Dauntless setups."
+ ],
+ "tips": [
+  "Option Summons banners contain a hidden 1000-summon pity that does not carry over between banners.",
+  "Do not build a Rally team unless you own Lorentheel, as he is required for the mechanic to work.",
+  "Avoid investing in Corrosion or Wild early, as they require end-game gear and high Inspiration levels.",
+  "Target Ice Blast or Toxin for immediate high returns at lower investment costs."
+ ],
+ "season": "mixed",
+ "server_scope": "mixed",
+ "value": "high",
+ "id": "hXBPeFQV_5Y",
+ "model": "gemini-3.6-flash",
+ "channel": "Gorax",
+ "title": "Every Damage School Explained! What Should You Pick? | Tier List | Dragonheir x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=hXBPeFQV_5Y",
+ "short": false,
+ "summarized": "2026-11-07T00:18Z"
+}

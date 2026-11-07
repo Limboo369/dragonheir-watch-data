@@ -1,0 +1,57 @@
+{
+ "summary": "This video breaks down the upcoming anniversary events including Born of Chaos, Eve of the Rift, Celebration Servers, and the Nightveil Standoff. It also covers the Starweave Echo system and the Temporal Corridor shop, advising players to save their Starweave Fragments for high-impact heroes rather than settling for lower-tier options. Finally, Suzi reads through the event storyline and provides a lore recap explaining the relationship between The Dark Lady (Tiamat) and the Child of Chaos.",
+ "topics": [
+  "anniversary events",
+  "lore",
+  "Temporal Corridor",
+  "Starweave Echo",
+  "banners"
+ ],
+ "heroes": [
+  {
+   "name": "Alaura",
+   "verdict": "Good pick to grab",
+   "note": "A strong Thunderbolt/Dauntless unit worth picking up if you lack core pieces for that synergy.",
+   "known": true
+  },
+  {
+   "name": "Maashtur",
+   "verdict": "Consider saving for",
+   "note": "A special Lightning support hero that may be worth saving 800 fragments to acquire.",
+   "known": true
+  },
+  {
+   "name": "Irmoush",
+   "verdict": "Unique and strong",
+   "note": "A Lightning support with transformed skills that is reported to be fun, unique, and powerful.",
+   "known": true
+  },
+  {
+   "name": "Guinavivre",
+   "verdict": "Worth saving for",
+   "note": "Coming soon to the Myriad Stars shop rotation, making her a priority target for saved resources.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [
+  "Introduction of the Reversal Summon: 300 pulls guarantee the featured R-Legendary hero Child of Chaos.",
+  "Introduction of Starweave Echo: players can trade excess Legendary hero imprints for Starweave Fragments to purchase specific legendaries."
+ ],
+ "tips": [
+  "Do not spend Starweave Fragments on lower-tier heroes in the Lingering Echo shop just because you have enough; save them for premium targets like Maashtur or key team enablers.",
+  "Take advantage of the Starweave Echo system by trading duplicate imprints of heroes who already have maxed inspiration.",
+  "If you miss a daily sign-in during the anniversary event, you can recover the day for a small fee of 10 Wyrmarrow."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "lOU78-yWaHI",
+ "model": "gemini-3.8-flash",
+ "channel": "Suzi Plays",
+ "title": "EVENT REVEAL 💥 & Understanding the Child of Chaos vs The Dark Lady  🔥 Dragonheir x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=lOU78-yWaHI",
+ "short": false,
+ "summarized": "2026-11-07T00:19Z"
+}
