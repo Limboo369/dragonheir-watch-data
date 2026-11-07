@@ -1,5 +1,5 @@
 {
- "built": "2026-11-07T22:29Z",
+ "built": "2026-11-07T23:00Z",
  "last_fetch": "2026-11-07T22:17Z",
  "counts": {
   "summarized": 330,
@@ -36,7 +36,6 @@
   "quota_hit": 1794043106.3933399
  },
  "log_tail": [
-  "saved deRUCaZKNDU",
   "+ Skyasterix Gaming: 👉 ⚠️ They FINALLY DID IT! SOUL IMPRINT EXCHANGE IS HERE! | D",
   "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 328 videos, 211 heroes",
   "== 2026-11-07 10:17",
@@ -115,7 +114,8 @@
   "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "daily video budget used (436 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 330 videos, 212 heroes"
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 330 videos, 212 heroes",
+  "curl: (56) Recv failure: Connection reset by peer"
  ],
  "crontab": [],
  "channels": [
