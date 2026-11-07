@@ -1,0 +1,72 @@
+{
+ "summary": "Dragonheir is introducing the Starweave Echo event, allowing players to exchange duplicate Legendary Hero Soul Imprints into Starweave Fragments. Each eligible Legendary Soul Imprint exchanges for 12 Starweave Fragments, up to 50 times per event. Starweave Fragments can then be used in the Temporal Corridor shop to purchase specific Legendary Heroes or inspirations like Maashtur, Szecedith, and Talethia. Collaboration and special event hero tokens such as Naro, Drizzt Do'Urden, Elminster Aumar, and Bigby are excluded from the exchange.",
+ "topics": [
+  "Soul Imprint Exchange",
+  "Starweave Echo",
+  "Temporal Corridor"
+ ],
+ "heroes": [
+  {
+   "name": "Maashtur",
+   "verdict": "Redeemable via Starweave Fragments",
+   "note": "Can be acquired from the Temporal Corridor shop using Starweave Fragments obtained from exchanging extra soul imprints.",
+   "known": true
+  },
+  {
+   "name": "Szecedith",
+   "verdict": "Redeemable via Starweave Fragments",
+   "note": "Available in the Temporal Corridor shop exchange tab.",
+   "known": true
+  },
+  {
+   "name": "Talethia",
+   "verdict": "Redeemable via Starweave Fragments",
+   "note": "Available in the Temporal Corridor shop exchange tab.",
+   "known": true
+  },
+  {
+   "name": "Naro",
+   "verdict": "Ineligible for exchange",
+   "note": "Hero tokens cannot be converted into Starweave Fragments during the Starweave Echo event.",
+   "known": true
+  },
+  {
+   "name": "Drizzt Do'Urden",
+   "verdict": "Ineligible for exchange",
+   "note": "Hero tokens cannot be converted into Starweave Fragments during the Starweave Echo event.",
+   "known": true
+  },
+  {
+   "name": "Elminster Aumar",
+   "verdict": "Ineligible for exchange",
+   "note": "Hero tokens cannot be converted into Starweave Fragments during the Starweave Echo event.",
+   "known": true
+  },
+  {
+   "name": "Bigby",
+   "verdict": "Ineligible for exchange",
+   "note": "Hero tokens cannot be converted into Starweave Fragments during the Starweave Echo event.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [
+  "Introduction of the Starweave Echo event allowing players to convert duplicate Legendary Hero Soul Imprints into Starweave Fragments (12 fragments per imprint, max 50 exchanges) to buy specific Legendary Heroes in the Temporal Corridor shop."
+ ],
+ "tips": [
+  "Save extra duplicate Legendary Hero Soul Imprints to convert them into Starweave Fragments during Starweave Echo.",
+  "Use Starweave Fragments to buy specific Legendary Heroes to complete your roster or inspire your heroes.",
+  "Remember that collaboration/special tokens like Naro, Drizzt Do'Urden, Elminster Aumar, and Bigby are excluded from being exchanged."
+ ],
+ "season": "unknown",
+ "server_scope": "mixed",
+ "value": "high",
+ "id": "deRUCaZKNDU",
+ "model": "gemini-3.5-flash",
+ "channel": "Skyasterix Gaming",
+ "title": "👉 ⚠️ They FINALLY DID IT! SOUL IMPRINT EXCHANGE IS HERE! | Dragonheir: Silent Gods",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=deRUCaZKNDU",
+ "short": false,
+ "summarized": "2026-11-07T09:20Z"
+}

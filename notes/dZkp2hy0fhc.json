@@ -1,0 +1,73 @@
+{
+ "summary": "Gorax tests whether players should prioritize Child of Chaos Inspiration 1 or his exclusive artifact, Dragonbone Catalyst. In tests on Temporal Vortex II, Inspiration 1 achieved 184.5 million damage while equipping the exclusive artifact at Inspiration 0 reached 191.8 million damage. The exclusive artifact offers a higher overall team damage output than Inspiration 1, though alternative offensive artifacts like Golden Antlers or Orb of the Dragon God can serve as temporary substitutes. Child of Chaos remains a strong, versatile support for clearing domains and competing in PvP, particularly for newer players.",
+ "topics": [
+  "Child of Chaos",
+  "Artifact vs Inspiration",
+  "Dragonbone Catalyst",
+  "Temporal Vortex",
+  "Poison Team"
+ ],
+ "heroes": [
+  {
+   "name": "Child of Chaos",
+   "verdict": "Strong Support / Prioritize Exclusive Artifact over I1",
+   "note": "His exclusive artifact Dragonbone Catalyst provides a higher team damage increase in PvE than Inspiration 1, while his kit provides valuable AOE immunity and multi-element flexibility.",
+   "known": true
+  },
+  {
+   "name": "Oggok",
+   "verdict": "Essential Vortex Tank",
+   "note": "Provides team survivability in Temporal Vortex and must maintain higher max HP than Child of Chaos to absorb single-target boss hits.",
+   "known": true
+  },
+  {
+   "name": "Sacredeia",
+   "verdict": "Poison Enabler",
+   "note": "Applies poison vulnerability and debuffs to boost overall team poison DPS.",
+   "known": true
+  },
+  {
+   "name": "Twitch",
+   "verdict": "Primary Poison DPS",
+   "note": "Requires tight skill timing to stack over 30 poison ticks on the boss.",
+   "known": true
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "Poison DPS",
+   "note": "Works alongside Sacredeia and Twitch to form the core poison damage engine.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Temporal Vortex",
+   "heroes": [
+    "Child of Chaos",
+    "Twitch",
+    "Sacredeia",
+    "Serpentemis",
+    "Oggok"
+   ],
+   "note": "High-damage poison Vortex rotation utilizing Child of Chaos for damage amplification and Oggok for tanking."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Prioritize getting Child of Chaos's exclusive artifact Dragonbone Catalyst over getting his Inspiration 1 copy if forced to choose.",
+  "Keep Child of Chaos's HP lower than your main tank (such as Oggok) to prevent him from taking single-target boss executes.",
+  "If you only have one copy of Child of Chaos, substitute artifacts like Golden Antlers or Orb of the Dragon God to still gain substantial damage bonuses.",
+  "Child of Chaos's Inspiration 1 defense penalty debuff on ultimate often overlaps with the Misty Conch artifact effect, reducing its comparative value in PvE."
+ ],
+ "season": "S9",
+ "server_scope": "mixed",
+ "value": "high",
+ "id": "dZkp2hy0fhc",
+ "model": "gemini-3.6-flash",
+ "channel": "Gorax",
+ "title": "Is Child of Chaos Artifact Better Than Inspiration 1? | Dragonheir x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=dZkp2hy0fhc",
+ "short": false,
+ "summarized": "2026-11-07T09:18Z"
+}

@@ -1,0 +1,75 @@
+{
+ "summary": "This video provides a complete guide to the limited-time Starweave Echo event and Temporal Corridor exchange shop in Dragonheir: Silent Gods. The creator explains how to exchange duplicate Legendary Hero Soul Imprints for Starweave Fragments (up to 50 exchanges) and demonstrates resetting inspiration levels on lower-priority legendary heroes (like Donella, Sagomir, Bionphray) to retrieve imprints. In the Temporal Corridor (Lingering Echo tab), he strongly advises against purchasing 120-cost heroes, recommending saving for high-value 300 or 800-cost supports like Maashtur or Irmoush. He showcases buying Maashtur for his Dauntless team, highlighting Maashtur's exceptional buff and debuff capabilities. Lastly, he covers converting older season fragments for the Myriad Stars shop to target key exclusive artifacts like Sleight's.",
+ "topics": [
+  "Starweave Echo",
+  "Temporal Corridor",
+  "Maashtur",
+  "Soul Imprints",
+  "Inspiration Reset",
+  "Exclusive Artifacts"
+ ],
+ "heroes": [
+  {
+   "name": "Maashtur",
+   "verdict": "Must-buy S-tier support",
+   "note": "Excellent support for Dauntless teams that inflicts 3 debuffs with ultimate while granting up to 5 team buffs and consistent shielding/healing.",
+   "known": true
+  },
+  {
+   "name": "Donella",
+   "verdict": "Safe to reset inspiration",
+   "note": "Low-priority legendary support whose inspiration imprints can be reclaimed and converted for Starweave Echo currency.",
+   "known": true
+  },
+  {
+   "name": "Sagomir",
+   "verdict": "Safe to reset inspiration",
+   "note": "Inspirations are not essential, making his imprints good candidates to reclaim for event exchanges.",
+   "known": true
+  },
+  {
+   "name": "Bionphray",
+   "verdict": "Safe to reset inspiration",
+   "note": "Considered weak, making his soul imprints high priority to reset and exchange.",
+   "known": true
+  },
+  {
+   "name": "Grishnaar",
+   "verdict": "Solid Arena unit",
+   "note": "Pulled from Legendary Soul Fragments; features a 30% Defense aura for Grand Gladiator Arena.",
+   "known": true
+  },
+  {
+   "name": "Sleight",
+   "verdict": "Target exclusive artifact",
+   "note": "His exclusive artifact increases derivative damage by 50%, making it a top purchase target for Poison/Serpentemis teams.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Dauntless",
+   "heroes": [
+    "Maashtur"
+   ],
+   "note": "Maashtur solves survivability issues for Dauntless teams while boosting offense with teamwide random buffs."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Reset inspiration levels on unused or weak legendary heroes to recover Soul Imprints for the Starweave Echo event.",
+  "Avoid spending Starweave Fragments on 120-cost heroes in Temporal Corridor; save for 300 or 800-cost top-tier legendaries.",
+  "Convert older Season 1-3 fragments to Dust-Sealed Tomes to purchase high-impact exclusive artifacts like Sleight's."
+ ],
+ "season": "mixed",
+ "server_scope": "mixed",
+ "value": "high",
+ "id": "dwKINIZQIxg",
+ "model": "gemini-3.5-flash",
+ "channel": "OddOneGaming RPGs",
+ "title": "⛔ DON'T MESS THIS UP! ⛔ ULTIMATE Starweave Echo Guide | Dragonheir x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=dwKINIZQIxg",
+ "short": false,
+ "summarized": "2026-11-07T09:20Z"
+}

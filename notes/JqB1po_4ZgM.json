@@ -1,0 +1,71 @@
+{
+ "summary": "Thelendor returns as a premier carry for Fallen Shadow Spire III in Season 9, even without his exclusive artifact. Equipping him with Dark Corpse Puppet allows him to recover 40% Max HP and 20% Ultimate Energy on every kill, repeatedly resetting his ultimate during wave clears. Paired with a Radiance Rally team of Gladys, Lorentheel, Alton, and Anneliesis, the team achieved an SS score of 28,945 points while taking 0 damage. Thelendor accounted for 500 million damage (87% of total team output).",
+ "topics": [
+  "Fallen Shadow Spire",
+  "Thelendor",
+  "Radiance Rally",
+  "Hero Build"
+ ],
+ "heroes": [
+  {
+   "name": "Thelendor",
+   "verdict": "Top carry for Fallen Shadow Spire",
+   "note": "Loops his ultimate endlessly using Dark Corpse Puppet artifact upon defeating minion waves.",
+   "known": true
+  },
+  {
+   "name": "Gladys",
+   "verdict": "Core Rally buffer",
+   "note": "Marks the ally with highest Crit Damage (Thelendor) to amplify ultimate hits and grants Rally stacks.",
+   "known": true
+  },
+  {
+   "name": "Lorentheel",
+   "verdict": "Essential energy support",
+   "note": "Provides 25 Ultimate Energy to allies whenever they consume Rally stacks.",
+   "known": true
+  },
+  {
+   "name": "Alton",
+   "verdict": "Rally sub-DPS and artifact carrier",
+   "note": "Equips Orb of the Dragon God to boost total team damage by 15%.",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "Key opening buffer",
+   "note": "Possesses Thelendor at battle start to grant him +20% Max HP, +20% damage, and +20 Ultimate Energy.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Fallen Shadow Spire III",
+   "heroes": [
+    "Alton",
+    "Lorentheel",
+    "Gladys",
+    "Anneliesis",
+    "Thelendor"
+   ],
+   "note": "Radiance Rally lineup scoring 28,945 points (SS rank) with 0 damage taken."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Equip Dark Corpse Puppet on Thelendor in mob-heavy stages to grant him 20% Ultimate Energy and 40% Max HP recovery on every kill.",
+  "Ensure Thelendor has the highest Crit Damage on the team (e.g. 275%) so Gladys marks him for extra damage.",
+  "Place Gladys adjacent to the stag on the Fallen Shadow Spire map to activate Attack Speed Up II and gain 15% Ultimate Energy for nearby allies."
+ ],
+ "season": "S9",
+ "server_scope": "mixed",
+ "value": "high",
+ "id": "JqB1po_4ZgM",
+ "model": "gemini-3.5-flash",
+ "channel": "liveranov",
+ "title": "Thelendor Is Back! (No Ex Artifact) vs Fallen Shadow Spire III | Season 9 | Dragonheir: Silent Gods",
+ "published": "2026-11-07T08:17:43+00:00",
+ "url": "https://www.youtube.com/watch?v=JqB1po_4ZgM",
+ "short": false,
+ "summarized": "2026-11-07T09:18Z"
+}
