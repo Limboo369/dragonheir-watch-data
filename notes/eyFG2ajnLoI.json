@@ -1,0 +1,34 @@
+{
+ "summary": "This guide covers the Psychicore Elemental Affinity tree progression and optimal Affinity Solvent allocation. At Tier III, players should prioritize Attack and HP nodes for their primary team element, while taking only Attack nodes for secondary teams. Tier IV prioritizes Accuracy over Resistance for landing debuffs in PvE and PvP. Tier V and VI focus on maxing Elemental Damage Bonus before moving to defensive stats, leading up to powerful tier VII offensive boosts.",
+ "topics": [
+  "Psychicore",
+  "Elemental Affinity",
+  "Affinity Solvent",
+  "Beginner Guide",
+  "Stat Priority"
+ ],
+ "heroes": [],
+ "teams": [],
+ "meta_changes": [
+  "Elemental Affinity unlocks on Day 3 of a new server.",
+  "Higher tiers of Elemental Affinity require deploying 5 heroes of the corresponding elemental group to gain maximum affinity bonuses, compared to 3 heroes in earlier tiers."
+ ],
+ "tips": [
+  "At Tier III, fully invest in both Attack % and HP % for your main elemental team, but only invest in Attack % for your secondary and tertiary teams.",
+  "Prioritize Accuracy over Resistance at Tier IV to land debuffs and control effects consistently.",
+  "Max out Elemental Damage Bonus at Tier V (10 points) to unlock Tier VI.",
+  "Prioritize offensive nodes over defensive nodes in higher tiers to maximize overall team damage output.",
+  "Farm Affinity Solvent diligently from Fey Meander, Temporal Vortex, Alliance Gameplay, Arena, Continental Challenge, and Otherworld Exploration to keep your account power competitive."
+ ],
+ "season": "S1",
+ "server_scope": "S1",
+ "value": "medium",
+ "id": "eyFG2ajnLoI",
+ "model": "gemini-3.5-flash",
+ "channel": "Gorax",
+ "title": "Psychicore Guide - Where to Spend Affinity Solvent | Beginner Series | Dragonheir x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=eyFG2ajnLoI",
+ "short": false,
+ "summarized": "2026-11-07T08:22Z"
+}

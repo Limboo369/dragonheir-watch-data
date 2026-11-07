@@ -1,14 +1,13 @@
 {
- "built": "2026-11-07T08:21Z",
+ "built": "2026-11-07T08:24Z",
  "last_fetch": "2026-11-07T08:17Z",
  "counts": {
-  "summarized": 315,
+  "summarized": 323,
   "skipped_giveaway": 17,
   "baseline": 22,
-  "new": 303,
+  "new": 300,
   "skipped_live": 1,
-  "failed": 3,
-  "retry": 5
+  "failed": 3
  },
  "problems": [
   {
@@ -16,36 +15,6 @@
    "channel": "liveranov",
    "status": "failed",
    "error": "Expecting value: line 1 column 1 (char 0)"
-  },
-  {
-   "title": "F2P & Whale Teams! Challenge Boss Joyce Vs. Burn... Dragonheir: Silent Gods x Dragonstride",
-   "channel": "Skratch Gaming",
-   "status": "retry",
-   "error": ""
-  },
-  {
-   "title": "Joyce - THE BEST Teams & Strategy | Continental Challenge | Dragonheir x Dragonstride",
-   "channel": "Gorax",
-   "status": "retry",
-   "error": ""
-  },
-  {
-   "title": "I KNEW IT! It was meant to be! 💥 I Summoned for BURN Already... 🔥 Dragonheir x Dragonstride",
-   "channel": "Suzi Plays",
-   "status": "retry",
-   "error": ""
-  },
-  {
-   "title": "👉New Hero MUNCH! 🔥 The Shield DESTROYER?!” | Dragonheir: Silent Gods",
-   "channel": "Skyasterix Gaming",
-   "status": "retry",
-   "error": ""
-  },
-  {
-   "title": "Ice Blast vs Elecebre | Continental Challenge | Season 8 | Dragonheir",
-   "channel": "liveranov",
-   "status": "retry",
-   "error": ""
   },
   {
    "title": "🔥 Season 9 FIRST CROWN CONTEST! Code: SKYASTERIX | Dragonheir: Silent Gods",
@@ -67,32 +36,6 @@
   "quota_hit": 1794032319.9927506
  },
  "log_tail": [
-  "! F2P & Whale Teams! Challenge Boss Joyce Vs. Burn..: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
-  "saved hG8YnV5WAqk",
-  "+ OddOneGaming RPGs: 🚨 CHOOSE THE RIGHT ONE 🚨 Temporal Vortex S8 Difficulty 4 GUI",
-  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
-  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
-  "! I Pulled Something CRAZY!!! [Dragonheir: Silent Go: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
-  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
-  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
-  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
-  "! 🔥 The MOST TOXIC Event?! ⚠️ Dragon Crown Homage – : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 308 videos, 196 heroes",
-  "== 2026-11-07 05:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "Gemini quota was full less than an hour ago, trying again next round",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 308 videos, 196 heroes",
-  "== 2026-11-07 06:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "… Skyasterix Gaming: 🔥 The MOST TOXIC Event?! ⚠️ Dragon Crown Homage – My Honest ",
-  "… Volkin Dragonheir: I Pulled Something CRAZY!!! [Dragonheir: Silent Gods]",
-  "… Skratch Gaming: ICE FORTRESS My Teams & Strategy! Dragonheir: Silent Gods x ",
-  "… Skratch Gaming: EPIC HEROES ONLY! Speed Run All Dungeons S8 Guide | Dragonhe",
-  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
-  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
-  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
   "  gemini-3.7-flash: 429, using gemini-3.6-flash",
   "… Gorax: Pull for Vyressa or SAVE for the 3rd Anniversary?! | DragonH",
   "! EPIC HEROES ONLY! Speed Run All Dungeons S8 Guide : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
@@ -146,7 +89,33 @@
   "… Skratch Gaming: F2P & Whale Teams! Challenge Boss Joyce Vs. Burn... Dragonhe",
   "saved gdEoTXAXEiw (unknown hero names: Gulendil, Asula, Cenarol)",
   "+ Gorax: Dragonheir 3rd Anniversary: ALL Events & Rewards Explained! ",
-  "  gemini-3.8-flash: 503, using gemini-3.5-flash"
+  "  gemini-3.8-flash: 503, using gemini-3.5-flash",
+  "… Skyasterix Gaming: 👉New Hero MUNCH! 🔥 The Shield DESTROYER?!” | Dragonheir: Sil",
+  "saved gC9IEQky5_k",
+  "+ Suzi Plays: I KNEW IT! It was meant to be! 💥 I Summoned for BURN Already",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.8-flash: 503, using gemini-3.5-flash",
+  "… Gorax: Psychicore Guide - Where to Spend Affinity Solvent | Beginne",
+  "saved fPuCT0gDbtw",
+  "+ Skyasterix Gaming: 👉New Hero MUNCH! 🔥 The Shield DESTROYER?!” | Dragonheir: Sil",
+  "… liveranov: DEVITALIZATION Team Speed Runs | Dragonheir: Silent Gods",
+  "saved fViTylAqdXY",
+  "+ liveranov: Ice Blast vs Elecebre | Continental Challenge | Season 8 | D",
+  "… OddOneGaming RPGs: 💥 BUILD THE BEST 💥Crown Contest S8 My 3 INSANE Teams | Drago",
+  "saved fwiptMwyFNo",
+  "+ Gorax: Joyce - THE BEST Teams & Strategy | Continental Challenge | ",
+  "saved eyFG2ajnLoI",
+  "+ Gorax: Psychicore Guide - Where to Spend Affinity Solvent | Beginne",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "saved em_1Gc-pIuY",
+  "+ OddOneGaming RPGs: 💥 BUILD THE BEST 💥Crown Contest S8 My 3 INSANE Teams | Drago",
+  "saved fR3PB9Qj1Cc",
+  "+ Skratch Gaming: F2P & Whale Teams! Challenge Boss Joyce Vs. Burn... Dragonhe",
+  "  gemini-3.5-flash: 503, using gemini-3.7-flash",
+  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
+  "saved euHy0xtygTo",
+  "+ liveranov: DEVITALIZATION Team Speed Runs | Dragonheir: Silent Gods"
  ],
  "crontab": [],
  "channels": [

@@ -1,0 +1,70 @@
+{
+ "summary": "This video showcases an Ice Blast team strategy against Elecebre in the Continental Challenge, reaching over 499 million total damage for an S rank. The team consists of Fredegonda, Beldelle, Shinnah, Ernesto, and Felosia. The strategy relies on fine-tuned ultimate timing to cast skills right before Elecebre acts, preventing her turn meter reduction mechanic.",
+ "topics": [
+  "Continental Challenge",
+  "Elecebre",
+  "Ice Blast",
+  "Boss Challenge"
+ ],
+ "heroes": [
+  {
+   "name": "Fredegonda",
+   "verdict": "Crit Stat Buffer",
+   "note": "Build full crit rate and crit damage to share stats with the team.",
+   "known": true
+  },
+  {
+   "name": "Beldelle",
+   "verdict": "Main DPS",
+   "note": "Build full damage.",
+   "known": true
+  },
+  {
+   "name": "Shinnah",
+   "verdict": "Debuffer / Support",
+   "note": "Build with accuracy and Witches set.",
+   "known": true
+  },
+  {
+   "name": "Ernesto",
+   "verdict": "Attack Buffer / DPS",
+   "note": "Build with as much attack as possible.",
+   "known": true
+  },
+  {
+   "name": "Felosia",
+   "verdict": "Enlightenment Support",
+   "note": "Build full enlightenment.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Continental Challenge - Elecebre",
+   "heroes": [
+    "Fredegonda",
+    "Beldelle",
+    "Shinnah",
+    "Ernesto",
+    "Felosia"
+   ],
+   "note": "Time all ultimates to cast immediately before Elecebre uses her ultimate to prevent turn meter reduction."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Ensure all team members have sufficient defensive stats to survive the entire fight duration.",
+  "Cast all team ultimates right before Elecebre casts hers so she cannot reduce your heroes' turn meter."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "fViTylAqdXY",
+ "model": "gemini-3.5-flash",
+ "channel": "liveranov",
+ "title": "Ice Blast vs Elecebre | Continental Challenge | Season 8 | Dragonheir",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=fViTylAqdXY",
+ "short": false,
+ "summarized": "2026-11-07T08:22Z"
+}

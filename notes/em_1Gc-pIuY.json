@@ -1,0 +1,157 @@
+{
+ "summary": "OddOneGaming showcases three high-performing teams for the Crown Contest Lightning Guardian boss, achieving over 7 billion total damage across three rounds. The guide highlights an Aura team doing ~3.2B damage, a Toxin team doing ~1.9B damage, and a Corrosion team doing ~2.1B damage. Detailed equipment sets, hero stat priorities, and artifact synergies are explained for each composition. Key mechanics include using healers with Gatekeeper's Staff to turn overhealing into shields and teamwide damage buffs, as well as optimizing attack order and stat thresholds for maximum ultimate energy gains.",
+ "topics": [
+  "Crown Contest",
+  "Lightning Guardian",
+  "Aura Team",
+  "Toxin Team",
+  "Corrosion Team",
+  "Boss Guide"
+ ],
+ "heroes": [
+  {
+   "name": "Talethia",
+   "verdict": "Primary DPS for Aura team",
+   "note": "Requires the highest Attack and Crit Damage in the team so Shahla and Lincos target her with their ultimate energy and stat buffs.",
+   "known": true
+  },
+  {
+   "name": "Shahla",
+   "verdict": "Essential Aura support",
+   "note": "Uses the Destiny's Will talent to continuously grant ultimate energy and Aura energy to Talethia when her ultimate bounces.",
+   "known": true
+  },
+  {
+   "name": "Diantha",
+   "verdict": "Top Aura debuffer",
+   "note": "Equipped with Witch's Remains artifact to consistently inflict defense penalties on the boss targets.",
+   "known": true
+  },
+  {
+   "name": "Lincos",
+   "verdict": "Key Aura buffer",
+   "note": "Wears Puppeteer's Inspiration set to speed up ultimate rotation for same-element allies, with recast timing set to 15s if needed.",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "Aura sustain support",
+   "note": "Provides healing and team damage buffs using Moonlight's Grace and Devout Prayer sets; can be substituted with Solmo, Acilia, or Rena.",
+   "known": true
+  },
+  {
+   "name": "Oggok",
+   "verdict": "Core Toxin sustain healer",
+   "note": "Equipped with Gatekeeper's Staff, Moonlight's Grace, and Devout Prayer to convert overhealing into team shields and damage buffs.",
+   "known": true
+  },
+  {
+   "name": "Sleight",
+   "verdict": "Toxin poison applier",
+   "note": "Wears Puppeteer's Inspiration and Golden Antlers; can be replaced by other poison appliers like Corrin.",
+   "known": true
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "Primary Toxin DPS",
+   "note": "Built full damage with Statue of the Serpent Deity artifact to maximize poison derivative damage.",
+   "known": true
+  },
+  {
+   "name": "Twitch",
+   "verdict": "Toxin derivative DPS",
+   "note": "Wears Ilhuya's Fang, Whirling Edge, and Bardic Inspiration weapon to maximize poison debuff landing and damage output.",
+   "known": true
+  },
+  {
+   "name": "Durango",
+   "verdict": "Toxin debuff support",
+   "note": "Uses Misty Conch and Bardic Inspiration weapon to help maintain debuff uptime while providing team utility.",
+   "known": true
+  },
+  {
+   "name": "Sacredeia",
+   "verdict": "Corrosion DPS",
+   "note": "Built with Golden Alarm artifact and near 100% Crit Rate for strong AoE damage output.",
+   "known": true
+  },
+  {
+   "name": "Whisk",
+   "verdict": "Primary Corrosion DPS",
+   "note": "Built full damage with Swamp Toadstool artifact to maximize Corrosion derivative damage.",
+   "known": true
+  },
+  {
+   "name": "Calavera",
+   "verdict": "Corrosion healer and shielder",
+   "note": "Uses Gatekeeper's Staff to convert overhealing into shields, triggering Secrecy Order's Chant and Devout Prayer team buffs.",
+   "known": true
+  },
+  {
+   "name": "Rook",
+   "verdict": "Corrosion DPS and energy generator",
+   "note": "Built with 100% Crit Rate and Puppeteer's Inspiration to supply extra ultimate energy to Corrosion allies.",
+   "known": true
+  },
+  {
+   "name": "Reytah",
+   "verdict": "Corrosion support healer",
+   "note": "Equipped with Misty Conch, Sacred River's Revelation, and Moonlight's Grace to provide healing and damage amplification.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Crown Contest - Lightning Guardian",
+   "heroes": [
+    "Talethia",
+    "Diantha",
+    "Lincos",
+    "Anneliesis",
+    "Shahla"
+   ],
+   "note": "Achieves ~3.2B damage; relies on Shahla feeding ultimate energy to Talethia while Lincos wears Puppeteer's Inspiration."
+  },
+  {
+   "mode": "Crown Contest - Lightning Guardian",
+   "heroes": [
+    "Oggok",
+    "Sleight",
+    "Serpentemis",
+    "Twitch",
+    "Durango"
+   ],
+   "note": "Achieves ~1.9B damage; relies on Oggok overheal shielding to maintain team buffs while Serpentemis and Twitch deal massive Toxin damage."
+  },
+  {
+   "mode": "Crown Contest - Lightning Guardian",
+   "heroes": [
+    "Sacredeia",
+    "Whisk",
+    "Calavera",
+    "Rook",
+    "Reytah"
+   ],
+   "note": "Achieves ~2.13B damage; high-investment Corrosion composition using Calavera's overhealing to trigger shield-activated team damage buffs."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Ensure your main Aura DPS (Talethia) has the highest Attack stat on the team so single-target Attack-based buffs land on her instead of supports.",
+  "Equip high-volume healers like Oggok and Calavera with Gatekeeper's Staff alongside Devout Prayer or Secrecy Order's Chant to turn overhealing into shields that grant teamwide damage buffs.",
+  "Include at least one hero wearing the Puppeteer's Inspiration set in elemental teams to feed ultimate energy to same-element allies.",
+  "Golden Tresym is the preferred familiar for multi-target boss encounters to increase AoE damage taken by enemies.",
+  "If missing specific Toxin or Corrosion legendaries, substitute with your best AoE damage compositions in Burn (Durem), Thunderbolt, Rally, or Dauntless."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "em_1Gc-pIuY",
+ "model": "gemini-3.5-flash",
+ "channel": "OddOneGaming RPGs",
+ "title": "💥 BUILD THE BEST 💥Crown Contest S8 My 3 INSANE Teams | Dragonheir x Dragonstridea",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=em_1Gc-pIuY",
+ "short": false,
+ "summarized": "2026-11-07T08:24Z"
+}

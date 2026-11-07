@@ -1,0 +1,37 @@
+{
+ "summary": "Skyasterix reviews the Fire legendary support hero Munch, available through the Continental Challenge event. Munch functions as a specialized shield counter and control hero who deals extra damage against shielded enemies. His kit grants Accuracy Up to allies, inflicts Accuracy Down on enemies, and provides an area-of-effect Stun on his Ultimate. He is best suited for PvP Arena against shield-heavy teams, as well as specific PvE encounters like Harpy and Fey Meander.",
+ "topics": [
+  "Munch",
+  "hero review",
+  "Continental Challenge",
+  "Arena",
+  "control support"
+ ],
+ "heroes": [
+  {
+   "name": "Munch",
+   "verdict": "Strong anti-shield control support",
+   "note": "Deals passive bonus damage to shielded targets, grants Accuracy Up to allies, applies Accuracy Down to enemies, and stuns with his Ultimate.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [
+  "Introduction of Munch as a Fire support hero designed to hard-counter shield-reliant compositions."
+ ],
+ "tips": [
+  "Use Munch in Arena offense to counter shield-heavy defensive teams.",
+  "Pair Munch with accuracy-dependent debuffers to benefit from his team-wide Accuracy Up buff."
+ ],
+ "season": "S9",
+ "server_scope": "mixed",
+ "value": "high",
+ "id": "fPuCT0gDbtw",
+ "model": "gemini-3.5-flash",
+ "channel": "Skyasterix Gaming",
+ "title": "👉New Hero MUNCH! 🔥 The Shield DESTROYER?!” | Dragonheir: Silent Gods",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=fPuCT0gDbtw",
+ "short": false,
+ "summarized": "2026-11-07T08:22Z"
+}

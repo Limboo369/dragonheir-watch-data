@@ -1,0 +1,105 @@
+{
+ "summary": "Demonstrates a full Devitalization team setup capable of speed running high-tier dungeons with heroes kept at level 79. The comp features Twitch, Serpentemis, Sleight, Anneliesis, and Durango. The video displays successful runs under 12 seconds across Grave of Venom 20, Grave of Curse 20, Grave of Rot 20, and Heretical Ruins 12.",
+ "topics": [
+  "Devitalization",
+  "Speed Run",
+  "Grave of Venom",
+  "Grave of Curse",
+  "Grave of Rot",
+  "Heretical Ruins"
+ ],
+ "heroes": [
+  {
+   "name": "Twitch",
+   "verdict": "Core Devitalization speed run DPS",
+   "note": "Provides high damage output in sub-12 second dungeon clear teams at level 79.",
+   "known": true
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "Core Devitalization speed run hero",
+   "note": "Enables rapid boss clears across Grave dungeons and Heretical Ruins.",
+   "known": true
+  },
+  {
+   "name": "Sleight",
+   "verdict": "Core Devitalization speed run hero",
+   "note": "Contributes to extremely fast clear times in level 79 speed run comps.",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "Core Devitalization hero",
+   "note": "Key component of the Devitalization dungeon speed run team.",
+   "known": true
+  },
+  {
+   "name": "Durango",
+   "verdict": "Core Devitalization hero",
+   "note": "Supports fast clearing across all major gear dungeons.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Grave of Venom 20",
+   "heroes": [
+    "Twitch",
+    "Serpentemis",
+    "Sleight",
+    "Anneliesis",
+    "Durango"
+   ],
+   "note": "Clears Grave of Venom Stage 20 in 8 seconds with level 79 heroes."
+  },
+  {
+   "mode": "Grave of Curse 20",
+   "heroes": [
+    "Twitch",
+    "Serpentemis",
+    "Sleight",
+    "Anneliesis",
+    "Durango"
+   ],
+   "note": "Clears Grave of Curse Stage 20 in 12 seconds."
+  },
+  {
+   "mode": "Grave of Rot 20",
+   "heroes": [
+    "Twitch",
+    "Serpentemis",
+    "Sleight",
+    "Anneliesis",
+    "Durango"
+   ],
+   "note": "Clears Grave of Rot Stage 20 in 11 seconds."
+  },
+  {
+   "mode": "Heretical Ruins 12",
+   "heroes": [
+    "Twitch",
+    "Serpentemis",
+    "Sleight",
+    "Anneliesis",
+    "Durango"
+   ],
+   "note": "Clears Heretical Ruins Stage 12 in 12 seconds."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "A full Devitalization synergy team can achieve fast dungeon clears even when heroes are under-leveled at level 79.",
+  "The same 5-hero Devitalization line-up can be re-used across Grave of Venom, Grave of Curse, Grave of Rot, and Heretical Ruins for speed farming."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "euHy0xtygTo",
+ "model": "gemini-3.6-flash",
+ "channel": "liveranov",
+ "title": "DEVITALIZATION Team Speed Runs | Dragonheir: Silent Gods",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=euHy0xtygTo",
+ "short": false,
+ "summarized": "2026-11-07T08:24Z"
+}

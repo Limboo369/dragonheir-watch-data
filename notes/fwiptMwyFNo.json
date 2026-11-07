@@ -1,0 +1,115 @@
+{
+ "summary": "This guide covers optimal team compositions and strategies for the Continental Challenge boss Joyce. Joyce is an AoE-focused boss who summons clones and gains 25% Damage Up and 60% Defense Up buffs on an 18-second rotation. To maximize score, teams must bring a buff dispeller timed to clear these buffs immediately after application. Aura teams featuring Talethia and Burn teams featuring Durem are demonstrated at both Inspiration 0 and Inspiration 5 levels.",
+ "topics": [
+  "Continental Challenge",
+  "Joyce",
+  "Aura Team",
+  "Burn Team",
+  "Boss Guide"
+ ],
+ "heroes": [
+  {
+   "name": "Anneliesis",
+   "verdict": "Top dispeller for Aura teams",
+   "note": "Cleanses all allied debuffs and strips all enemy buffs with a 100% chance on her ultimate.",
+   "known": true
+  },
+  {
+   "name": "Talethia",
+   "verdict": "Primary Aura DPS",
+   "note": "Deals massive AoE damage scaling off HP% rather than Attack%.",
+   "known": true
+  },
+  {
+   "name": "Diantha",
+   "verdict": "Core Aura support",
+   "note": "Shares attack with Talethia and applies debuffs to amplify overall team damage.",
+   "known": true
+  },
+  {
+   "name": "Lincos",
+   "verdict": "Core Aura buffer",
+   "note": "Grants significant damage bonuses and shares attack with the highest attack Aura damage dealer.",
+   "known": true
+  },
+  {
+   "name": "Rena",
+   "verdict": "Best-in-slot Aura support",
+   "note": "Provides high healing, damage reduction, and ultimate energy cycling for maximum score.",
+   "known": true
+  },
+  {
+   "name": "Durem",
+   "verdict": "Primary Burn DPS",
+   "note": "Deals immense AoE damage on Joyce, scaling drastically with Inspiration 5 defense ignore.",
+   "known": true
+  },
+  {
+   "name": "Journ",
+   "verdict": "Essential F2P dispeller for Burn",
+   "note": "Strips boss buffs and reduces boss ultimate energy by 25% when timed correctly.",
+   "known": true
+  },
+  {
+   "name": "Mithrasea",
+   "verdict": "Core reviver for Burn team",
+   "note": "Keeps low-inspiration Burn teams alive through Joyce's heavy AoE attacks.",
+   "known": true
+  },
+  {
+   "name": "Paixton",
+   "verdict": "Key Burn support",
+   "note": "Wears the Puppeteer set and shares attack stats with Durem.",
+   "known": true
+  },
+  {
+   "name": "Karf",
+   "verdict": "Solid Burn support",
+   "note": "Applies debuffs and provides extra attack sharing to boost team DPS.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Continental Challenge - Joyce",
+   "heroes": [
+    "Talethia",
+    "Diantha",
+    "Lincos",
+    "Anneliesis",
+    "Rena"
+   ],
+   "note": "Highest damage Aura team using Anneliesis to dispel Joyce's buffs on an 18-second rotation."
+  },
+  {
+   "mode": "Continental Challenge - Joyce",
+   "heroes": [
+    "Durem",
+    "Journ",
+    "Paixton",
+    "Karf",
+    "Mithrasea"
+   ],
+   "note": "Top F2P-friendly Burn team relying on Journ for buff dispel and Mithrasea for revives."
+  }
+ ],
+ "meta_changes": [
+  "Aura and Burn teams excel against Joyce due to AoE skill scaling and predictable 18-second buff cycles."
+ ],
+ "tips": [
+  "Time your dispeller's ultimate (Anneliesis or Journ) to execute right after Joyce applies her 18-second damage and defense buffs.",
+  "Equip Talethia with HP% chest gear instead of Attack%, as her skill damage scales directly from HP.",
+  "Journ does not require Skill Haste when manually timed for an 18.2-second recast cycle."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "fwiptMwyFNo",
+ "model": "gemini-3.5-flash",
+ "channel": "Gorax",
+ "title": "Joyce - THE BEST Teams & Strategy | Continental Challenge | Dragonheir x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=fwiptMwyFNo",
+ "short": false,
+ "summarized": "2026-11-07T08:22Z"
+}

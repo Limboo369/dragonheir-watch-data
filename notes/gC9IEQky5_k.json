@@ -1,0 +1,50 @@
+{
+ "summary": "Suzi discusses pulling strategy for the upcoming Child of Chaos limited banner, recommending most players save at least 300 summons to secure a copy. She explains her own decision to pull on the Selected Summons III banner to get the new Burn legendary hero Vyressa and a duplicate Paixton to reach his Inspiration 2 upgrade. After exceptionally lucky pulls—including two copies of Vyressa within 300 summons—she claims Paixton from the 300-summon selector, unlocks his team-wide Defense Penetration buff, and fully builds Vyressa's skills and talents.",
+ "topics": [
+  "Summoning Strategy",
+  "Child of Chaos Banner",
+  "Vyressa Build",
+  "Paixton Inspiration",
+  "Burn Synergy"
+ ],
+ "heroes": [
+  {
+   "name": "Vyressa",
+   "verdict": "Top-tier Burn support & AoE DPS",
+   "note": "Replaces Karf in Burn teams with 5-hit full-board damage, making her an ideal wielder for Witch's Remains or Mystic Conch.",
+   "known": true
+  },
+  {
+   "name": "Paixton",
+   "verdict": "High-priority Inspiration 2 hero for Burn teams",
+   "note": "Inspiration 2 grants allies 25% Attack Up and 25% Defense Penetration via Molten Armor, significantly boosting overall team DPS.",
+   "known": true
+  },
+  {
+   "name": "Child of Chaos",
+   "verdict": "High-priority save target",
+   "note": "Upcoming limited hero banner with a 300-summon pity guarantee; players should save resources to guarantee at least one copy.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [
+  "Vyressa releases as a direct upgrade over Karf for multi-hit full-board Burn application and debuffing."
+ ],
+ "tips": [
+  "Save at least 300 summons for limited banners like Child of Chaos to guarantee getting the featured hero.",
+  "Aim for Paixton's Inspiration 2 if running a endgame Burn team to grant 25% Defense Penetration to all allies.",
+  "Build Vyressa with high Accuracy and artifact options like Witch's Remains or Puppeteer set to capitalize on her 5-hit AoE ultimate."
+ ],
+ "season": "unknown",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "gC9IEQky5_k",
+ "model": "gemini-3.5-flash",
+ "channel": "Suzi Plays",
+ "title": "I KNEW IT! It was meant to be! 💥 I Summoned for BURN Already... 🔥 Dragonheir x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=gC9IEQky5_k",
+ "short": false,
+ "summarized": "2026-11-07T08:21Z"
+}

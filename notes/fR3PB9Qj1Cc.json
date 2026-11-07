@@ -1,0 +1,108 @@
+{
+ "summary": "This guide showcases Burn team compositions for the Continental Challenge boss Joyce. Skratch demonstrates how precise ultimate skill timing allows Burn teams to hit massive damage by delaying attacks until Joyce's Defense Up buff expires. He breaks down a high-end whale Burn team hitting over 838M damage, as well as more accessible options replacing exclusive legendaries with Ardreth or the rare hero Beags. Full artifact recommendations and positioning strategies are provided for each variant.",
+ "topics": [
+  "Continental Challenge",
+  "Joyce",
+  "Burn Team",
+  "Skill Timing",
+  "F2P Teams"
+ ],
+ "heroes": [
+  {
+   "name": "Paixton",
+   "verdict": "Top Exclusive Burn Support",
+   "note": "Drives massive team damage output against Joyce when equipped with Angelic Alliance or Golden Antlers.",
+   "known": true
+  },
+  {
+   "name": "Naro",
+   "verdict": "Essential Burn Enabler",
+   "note": "Provides teamwide damage boosts using Orb of the Dragon God in 5-element Fire teams.",
+   "known": true
+  },
+  {
+   "name": "Durem",
+   "verdict": "Top Burn DPS",
+   "note": "Deals massive damage, especially when timed to strike right after Joyce's Defense Up buff expires.",
+   "known": true
+  },
+  {
+   "name": "Karf",
+   "verdict": "Accuracy Buffer & Debuffer",
+   "note": "Shares accuracy with the team and applies Defense Down when equipped with Witch's Remains.",
+   "known": true
+  },
+  {
+   "name": "Synarell",
+   "verdict": "Top Burn Shielder",
+   "note": "Provides essential team survival and significantly boosts total damage using Gatekeeper's Staff.",
+   "known": true
+  },
+  {
+   "name": "Ardreth",
+   "verdict": "Great Legendary Burn Substitute",
+   "note": "Solid replacement for Naro or Paixton, keeping the team alive while preserving strong damage output.",
+   "known": true
+  },
+  {
+   "name": "Beags",
+   "verdict": "Budget Rare Burn Option",
+   "note": "Serves as an accessible Ignite enabler for F2P players missing exclusive legendary Burn heroes.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Continental Challenge - Joyce",
+   "heroes": [
+    "Paixton",
+    "Naro",
+    "Durem",
+    "Karf",
+    "Synarell"
+   ],
+   "note": "High-end Burn team scoring ~838M damage by timing ultimate skills after Joyce's Defense Up buff expires."
+  },
+  {
+   "mode": "Continental Challenge - Joyce",
+   "heroes": [
+    "Ardreth",
+    "Naro",
+    "Durem",
+    "Karf",
+    "Synarell"
+   ],
+   "note": "Alternative Burn team scoring ~617M damage using Ardreth for increased stability."
+  },
+  {
+   "mode": "Continental Challenge - Joyce",
+   "heroes": [
+    "Ardreth",
+    "Durem",
+    "Karf",
+    "Synarell",
+    "Beags"
+   ],
+   "note": "Budget/F2P Burn team reaching ~420M damage without needing exclusive legendary burn enablers."
+  }
+ ],
+ "meta_changes": [
+  "Holding ultimate skills to cast immediately after boss Joyce's Defense Up buff expires significantly increases team damage output."
+ ],
+ "tips": [
+  "If you do not have Angelic Alliance, run Golden Antlers on Paixton for comparable performance.",
+  "Equip Gatekeeper's Staff on Synarell to convert overheal into shields and drastically increase team damage.",
+  "Separate backline ranged units like Beags from melee units to prevent Joyce's square-shaped AoE attacks from hitting everyone at once."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "fR3PB9Qj1Cc",
+ "model": "gemini-3.5-flash",
+ "channel": "Skratch Gaming",
+ "title": "F2P & Whale Teams! Challenge Boss Joyce Vs. Burn... Dragonheir: Silent Gods x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=fR3PB9Qj1Cc",
+ "short": false,
+ "summarized": "2026-11-07T08:24Z"
+}
