@@ -1,5 +1,5 @@
 {
- "built": "2026-11-07T06:24Z",
+ "built": "2026-11-07T07:00Z",
  "last_fetch": "2026-11-07T06:17Z",
  "counts": {
   "summarized": 311,
@@ -91,7 +91,6 @@
   "quota_hit": 1794032319.9927506
  },
  "log_tail": [
-  "== 2026-11-07 04:17",
   "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "… Skyasterix Gaming: 🔥 The MOST TOXIC Event?! ⚠️ Dragon Crown Homage – My Honest … Volkin Dragonheir: I Pulled Something CRAZY!!! [Dragonheir: Silent Gods]",
@@ -170,7 +169,8 @@
   "saved ivXI9tl3GUA",
   "+ Skyasterix Gaming: 🔥 The MOST TOXIC Event?! ⚠️ Dragon Crown Homage – My Honest ",
   "saved i5zJZ7GF9FM",
-  "+ Volkin Dragonheir: I Pulled Something CRAZY!!! [Dragonheir: Silent Gods]"
+  "+ Volkin Dragonheir: I Pulled Something CRAZY!!! [Dragonheir: Silent Gods]",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 311 videos, 198 heroes"
  ],
  "crontab": [],
  "channels": [
