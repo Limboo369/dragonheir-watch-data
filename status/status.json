@@ -1,5 +1,5 @@
 {
- "built": "2026-11-07T08:24Z",
+ "built": "2026-11-07T09:02Z",
  "last_fetch": "2026-11-07T08:17Z",
  "counts": {
   "summarized": 323,
@@ -36,7 +36,6 @@
   "quota_hit": 1794032319.9927506
  },
  "log_tail": [
-  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
   "… Gorax: Pull for Vyressa or SAVE for the 3rd Anniversary?! | DragonH",
   "! EPIC HEROES ONLY! Speed Run All Dungeons S8 Guide : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
   "… Skratch Gaming: Burn & Aura Team Vs Boss Challenge Joyce! Dragonheir: Silent",
@@ -115,7 +114,8 @@
   "  gemini-3.5-flash: 503, using gemini-3.7-flash",
   "  gemini-3.7-flash: 429, using gemini-3.6-flash",
   "saved euHy0xtygTo",
-  "+ liveranov: DEVITALIZATION Team Speed Runs | Dragonheir: Silent Gods"
+  "+ liveranov: DEVITALIZATION Team Speed Runs | Dragonheir: Silent Gods",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 323 videos, 208 heroes"
  ],
  "crontab": [],
  "channels": [
