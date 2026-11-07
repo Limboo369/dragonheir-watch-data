@@ -1,5 +1,5 @@
 {
- "built": "2026-11-07T02:28Z",
+ "built": "2026-11-07T02:59Z",
  "last_fetch": "2026-11-07T02:17Z",
  "counts": {
   "summarized": 307,
@@ -92,15 +92,11 @@
  ],
  "budget": {
   "day": "2026-11-07",
-  "seconds": 9306,
+  "seconds": 8734,
   "v2": 1,
-  "quota_hit": 1794017984.7057345
+  "quota_hit": 1794018534.3458142
  },
  "log_tail": [
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (444 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 300 videos, 193 heroes",
-  "/bin/bash: line 1: /root/ytwatch/run.sh: Permission denied",
   "== 2026-11-07 00:17",
   "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
@@ -176,7 +172,11 @@
   "saved hlNZ7ZqASig",
   "+ Gorax: Dragon Crown Homage Event Breakdown - Worth It or Whale Bait",
   "saved ijXFIUYN8sU",
-  "+ Gorax: This F2P Team Beats the META! | Temporal Vortex Guide | Drag"
+  "+ Gorax: This F2P Team Beats the META! | Temporal Vortex Guide | Drag",
+  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
+  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
+  "! I Pulled Something CRAZY!!! [Dragonheir: Silent Go: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 307 videos, 196 heroes"
  ],
  "crontab": [],
  "channels": [
