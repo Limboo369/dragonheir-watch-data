@@ -1,0 +1,88 @@
+{
+ "summary": "Volkin showcases a fresh alternate account started on a new server where he pulled The Dark Lady from the Option Summons I banner. He explains an early server summoning strategy of rushing 300 pulls on Option Summons before saving 300 pulls for the Child of Chaos banner. The Dark Lady has provided massive progression carry, quickly reaching rank 6 in the Grand Gladiator Arena, 3-starring Goblin Lair 6, and climbing past stage 60 in Fey Meander. During the video, he performs additional summons, pulling Premtsa, Durango, and Ladehlia. He also shows an attempt at Fey Meander stage 61, analyzing why his current team struggles against heavy enemy summons.",
+ "topics": [
+  "Option Summons",
+  "Account Progression",
+  "Summon Strategy",
+  "Fey Meander",
+  "Hero Showcase"
+ ],
+ "heroes": [
+  {
+   "name": "The Dark Lady",
+   "verdict": "Insanely strong carry",
+   "note": "Provides outstanding damage, debuffs, and team buffs, single-handedly carrying progression through Arena, dungeons, and Fey Meander.",
+   "known": true
+  },
+  {
+   "name": "Sigrid",
+   "verdict": "Top-tier early progression hero",
+   "note": "Makes Goblin Lair significantly easier with her strong AoE clearing potential.",
+   "known": true
+  },
+  {
+   "name": "Twitch",
+   "verdict": "Dream pull target",
+   "note": "Highlighted as the absolute best pull target from the summon pool, though odds are diluted.",
+   "known": true
+  },
+  {
+   "name": "Durango",
+   "verdict": "Good pull",
+   "note": "A solid legendary Poison damage dealer capable of contributing decent single-target and multi-hit damage.",
+   "known": true
+  },
+  {
+   "name": "Premtsa",
+   "verdict": "Decent early, falls off late",
+   "note": "Can work in early summoner compositions, but she loses effectiveness later in the game.",
+   "known": true
+  },
+  {
+   "name": "Ladehlia",
+   "verdict": "Average legendary",
+   "note": "Considered mediocre, though pulling duplicates provides artifact exchange value.",
+   "known": true
+  },
+  {
+   "name": "Talwer",
+   "verdict": "Skip / Poor",
+   "note": "Regarded as a very weak legendary pull.",
+   "known": true
+  },
+  {
+   "name": "Viliana",
+   "verdict": "Average / Mediocre",
+   "note": "An okay Necrosis support hero, but not someone you are desperate to build or deploy.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Fey Meander",
+   "heroes": [
+    "The Dark Lady",
+    "Frurbath",
+    "Dallbam",
+    "Durango",
+    "Sigrid"
+   ],
+   "note": "Fey Meander 61 lineup; struggles against overwhelming enemy adds and needs more AoE crowd control or additional backline sustain."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "On a fresh server, consider rushing the initial Option Summons banner to hit the 300 summons milestone, then bank the next 300 summons for the Child of Chaos banner."
+ ],
+ "season": "S1",
+ "server_scope": "S1",
+ "value": "low",
+ "id": "i5zJZ7GF9FM",
+ "model": "gemini-3.8-flash",
+ "channel": "Volkin Dragonheir",
+ "title": "I Pulled Something CRAZY!!! [Dragonheir: Silent Gods]",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=i5zJZ7GF9FM",
+ "short": false,
+ "summarized": "2026-11-07T06:24Z"
+}
