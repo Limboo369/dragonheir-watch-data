@@ -1,5 +1,5 @@
 {
- "built": "2026-11-07T09:20Z",
+ "built": "2026-11-07T09:52Z",
  "last_fetch": "2026-11-07T09:17Z",
  "counts": {
   "summarized": 328,
@@ -49,7 +49,6 @@
   "quota_hit": 1794043106.3933399
  },
  "log_tail": [
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 311 videos, 198 heroes",
   "== 2026-11-07 08:17",
   "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
@@ -128,7 +127,8 @@
   "saved dwKINIZQIxg",
   "+ OddOneGaming RPGs: ⛔ DON'T MESS THIS UP! ⛔ ULTIMATE Starweave Echo Guide | Drag",
   "saved deRUCaZKNDU",
-  "+ Skyasterix Gaming: 👉 ⚠️ They FINALLY DID IT! SOUL IMPRINT EXCHANGE IS HERE! | D"
+  "+ Skyasterix Gaming: 👉 ⚠️ They FINALLY DID IT! SOUL IMPRINT EXCHANGE IS HERE! | D",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 328 videos, 211 heroes"
  ],
  "crontab": [],
  "channels": [
