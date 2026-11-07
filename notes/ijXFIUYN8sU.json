@@ -1,0 +1,82 @@
+{
+ "summary": "This guide details an extremely effective free-to-play team for Temporal Vortex built around undead summoned units. By pairing Eleuia, Isitarian, and Zadok, players can out-damage premium Legendary Dauntless and Ice Blast teams. Eleuia spawns spirits on basic attacks, Isitarian buffs summoned units, and Zadok gains ultimate energy and up to +100% Attack whenever summoned units die. Garius acts as the sole front-line tank/healer, supported by Synarell or Torrin for survival.",
+ "topics": [
+  "Temporal Vortex",
+  "F2P Teams",
+  "Undead Summoners",
+  "Artifact Build",
+  "Familiars"
+ ],
+ "heroes": [
+  {
+   "name": "Zadok",
+   "verdict": "Top F2P Temporal Vortex DPS",
+   "note": "Gains 5% ultimate energy and Attack stacks (up to 30 stacks for +100% Attack) whenever an allied summoned unit dies, allowing him to rapidly spam his ultimate.",
+   "known": true
+  },
+  {
+   "name": "Eleuia",
+   "verdict": "Core F2P Summon Enabler",
+   "note": "Spawns spirits every 5 basic attacks and grants Attack Speed Up and Attack Up to undead summoned units; build with maximum Attack Speed and Skill Haste.",
+   "known": true
+  },
+  {
+   "name": "Isitarian",
+   "verdict": "Core F2P Summon Buffer",
+   "note": "Summons a dragon remnant and buffs undead summoned units with Attack and Defense; build with high Crit Rate and Crit Damage.",
+   "known": true
+  },
+  {
+   "name": "Garius",
+   "verdict": "Essential Frontline Tank",
+   "note": "Requires maxed skills and high HP/Defense in a Skill Haste set to sustain the team and absorb frontline boss attacks.",
+   "known": true
+  },
+  {
+   "name": "Synarell",
+   "verdict": "Recommended Support",
+   "note": "Provides invincibility to ensure the tank survives single-target boss burst, though replaceable by Torrin or Felosia.",
+   "known": true
+  },
+  {
+   "name": "Torrin",
+   "verdict": "Alternative Support",
+   "note": "Can replace Synarell to provide strong healing and debuff immunity if invincibility is not needed.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Temporal Vortex",
+   "heroes": [
+    "Garius",
+    "Eleuia",
+    "Isitarian",
+    "Zadok",
+    "Synarell"
+   ],
+   "note": "F2P Necrotic/Summoner composition where dying spirits constantly trigger Zadok's passive for massive ultimate damage, outperforming Dauntless and Ice Blast teams."
+  }
+ ],
+ "meta_changes": [
+  "F2P Undead Summoner synergy (Eleuia + Isitarian + Zadok) matches or out-damages expensive Legendary Dauntless and Ice Blast lineups in Temporal Vortex."
+ ],
+ "tips": [
+  "Equip Zadok with Witch's Remains or Volcanic Disc to maximize ultimate damage and inflict Defense Penalty on the boss.",
+  "Build Eleuia with high Attack Speed and Skill Haste to increase the frequency of spirit summons.",
+  "Position Garius alone in the front row with high HP, Defense, and Skill Haste gear.",
+  "Choose familiars carefully: Rejuvenating Stonehorn applies Vulnerability, offering significantly higher total damage than incorrect familiars.",
+  "Save summoning dice for the upcoming Child of Chaos banner."
+ ],
+ "season": "S1",
+ "server_scope": "S1",
+ "value": "high",
+ "id": "ijXFIUYN8sU",
+ "model": "gemini-3.5-flash",
+ "channel": "Gorax",
+ "title": "This F2P Team Beats the META! | Temporal Vortex Guide | Dragonheir x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=ijXFIUYN8sU",
+ "short": false,
+ "summarized": "2026-11-07T02:27Z"
+}
