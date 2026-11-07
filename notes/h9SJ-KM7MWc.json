@@ -1,0 +1,131 @@
+{
+ "summary": "This video breaks down top-performing team compositions and skill timings for the Ice Guardian boss in Crown Contest. Skratch demonstrates performance across Ice Blast, Aura, Dauntless, and Toxin teams. Dauntless and Toxin setups yielded the highest damage output, exceeding 2.8B and 3.3B damage respectively. Key mechanic advice emphasizes avoiding summoner teams like Necrosis, as unit deaths grant the boss permanent stackable Attack and Defense buffs.",
+ "topics": [
+  "Crown Contest",
+  "Ice Guardian",
+  "Ice Fortress",
+  "Team Compositions",
+  "Skill Timing"
+ ],
+ "heroes": [
+  {
+   "name": "Anselmo",
+   "verdict": "Great Ice Blast support",
+   "note": "Provides immunity and protection; can be substituted with Oggok if unavailable.",
+   "known": true
+  },
+  {
+   "name": "Oggok",
+   "verdict": "Top budget replacement for Anselmo",
+   "note": "Works well in Ice Blast team when equipped with Gatekeeper Staff for shields, healing, and cleansing.",
+   "known": true
+  },
+  {
+   "name": "Fredegonda",
+   "verdict": "Core Ice Blast unit",
+   "note": "Performs best in the Puppeteer set paired with her Feather of Frostfall artifact.",
+   "known": true
+  },
+  {
+   "name": "Rena",
+   "verdict": "Preferred Aura team enabler",
+   "note": "Outperforms Solmo in Aura setups when wearing the Puppeteer gear set.",
+   "known": true
+  },
+  {
+   "name": "Selva",
+   "verdict": "Essential Dauntless buffer",
+   "note": "Provides vital cleansing and damage support for full Dauntless lineups.",
+   "known": true
+  },
+  {
+   "name": "Nastjenka",
+   "verdict": "High Dauntless DPS",
+   "note": "Delivers heavy damage when geared with Everburning Nethefire pieces.",
+   "known": true
+  },
+  {
+   "name": "Twitch",
+   "verdict": "Core Toxin enabler",
+   "note": "Maximizes team damage using Angelic Alliance artifact or Iluya's Fang as an alternative.",
+   "known": true
+  },
+  {
+   "name": "Sacredeia",
+   "verdict": "Essential Toxin debuffer",
+   "note": "Requires the highest accuracy in the Toxin team to reliably land debuffs.",
+   "known": true
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "Primary Toxin damage dealer",
+   "note": "Scales heavily with high Attack and Enlightenment stats.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Crown Contest - Ice Guardian",
+   "heroes": [
+    "Shinnah",
+    "Beldelle",
+    "Anselmo",
+    "Fredegonda",
+    "Ernesto"
+   ],
+   "note": "Ice Blast setup achieving ~1.3B damage; Oggok can substitute for Anselmo."
+  },
+  {
+   "mode": "Crown Contest - Ice Guardian",
+   "heroes": [
+    "Rena",
+    "Lincos",
+    "Talethia",
+    "Diantha",
+    "Anneliesis"
+   ],
+   "note": "Aura team reaching ~1.08B damage; Solmo can replace Rena if needed."
+  },
+  {
+   "mode": "Crown Contest - Ice Guardian",
+   "heroes": [
+    "Selva",
+    "Guinevire",
+    "Nastjenka",
+    "Kurvida",
+    "Maashtur"
+   ],
+   "note": "High-end Dauntless team scoring ~2.86B damage."
+  },
+  {
+   "mode": "Crown Contest - Ice Guardian",
+   "heroes": [
+    "Reytah",
+    "Sacredeia",
+    "Serpentemis",
+    "Twitch",
+    "Sleight"
+   ],
+   "note": "Top-tier Toxin team achieving over 3.35B damage per fight."
+  }
+ ],
+ "meta_changes": [
+  "Summon-heavy compositions are soft-banned against Ice Guardian because dying summoned units permanently stack Attack and Defense buffs onto the boss."
+ ],
+ "tips": [
+  "Never bring summon units to Ice Guardian fight to prevent feeding the boss stackable buffs.",
+  "If using Oggok instead of Anselmo in Ice Blast, set Oggok's skill timing to 17-19 seconds for optimal cleanses and shields.",
+  "Angelic Alliance artifact on Twitch yields peak Toxin team damage, but Iluya's Fang remains a strong secondary choice."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "h9SJ-KM7MWc",
+ "model": "gemini-3.5-flash",
+ "channel": "Skratch Gaming",
+ "title": "ICE FORTRESS My Teams & Strategy! Dragonheir: Silent Gods x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=h9SJ-KM7MWc",
+ "short": false,
+ "summarized": "2026-11-07T06:18Z"
+}
