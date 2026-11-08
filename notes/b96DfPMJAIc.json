@@ -1,0 +1,52 @@
+{
+ "summary": "This video previews the leaked skills and mechanics of the new Season 9 Aura/Lumina hero, Folvarst (Gilded Archscribe Folvarst). Folvarst acts as an immense offensive buffer and booster for Aura teams, providing direct Aura Energy transfers and massive damage enhancements. He has extraordinary synergy with top Aura DPS heroes like Talethia, boosting her critical stats, attack, and overall damage. The creator breaks down Folvarst's passive, battle skill, ultimate skill, and inspiration milestones, highlighting his Inspiration 2 as a key threshold. Anyone planning to main or run Aura compositions in Season 9 is advised to prioritize acquiring Folvarst.",
+ "topics": [
+  "Folvarst",
+  "Aura",
+  "Hero Preview",
+  "Talethia",
+  "Skill Breakdown"
+ ],
+ "heroes": [
+  {
+   "name": "Folvarst",
+   "verdict": "Must-have Aura booster / Top-tier support",
+   "note": "Provides Aura Energy transfer to the highest-ATK Aura hero, grants massive 30% damage boost on ally ultimate release, and adds stacking elemental vulnerability.",
+   "known": false
+  },
+  {
+   "name": "Talethia",
+   "verdict": "Major direct beneficiary of Folvarst",
+   "note": "Gains extreme damage output improvements from Folvarst's energy feeding, crit buffs, and percentage damage bonuses.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Continental Challenge",
+   "heroes": [
+    "Folvarst",
+    "Talethia"
+   ],
+   "note": "Aura-based composition using Folvarst as an energy and damage booster for primary Aura damage dealers against bosses."
+  }
+ ],
+ "meta_changes": [
+  "Introduction of Folvarst sets a new standard for dedicated Aura/Lumina team damage scaling and energy cycling."
+ ],
+ "tips": [
+  "Plan summons ahead if you play Aura teams or already own Talethia, as Folvarst is considered an essential booster.",
+  "Aim for Inspiration 2 (I2) on Folvarst to enhance random buff potency and expand buffs across allied heroes."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "b96DfPMJAIc",
+ "model": "gemini-3.8-flash",
+ "channel": "Skyasterix Gaming",
+ "title": "🔥NEW S9 AURA HERO: Will He Become the NEW META? 👀 Skills Revealed! | Dragonheir: Silent Gods",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=b96DfPMJAIc",
+ "short": false,
+ "summarized": "2026-11-08T02:20Z"
+}

@@ -1,12 +1,12 @@
 {
- "built": "2026-11-08T02:01Z",
- "last_fetch": "2026-11-08T01:17Z",
+ "built": "2026-11-08T02:20Z",
+ "last_fetch": "2026-11-08T02:17Z",
  "counts": {
-  "summarized": 334,
+  "summarized": 339,
   "skipped_giveaway": 17,
   "baseline": 22,
-  "new": 284,
-  "retry": 8,
+  "new": 280,
+  "retry": 7,
   "skipped_live": 1,
   "failed": 3
  },
@@ -24,32 +24,32 @@
    "error": "Expecting value: line 1 column 1 (char 0)"
   },
   {
+   "title": "Don’t Miss Your Chance to Get These Rewards! | Dragonheir x Dragonstride",
+   "channel": "Gorax",
+   "status": "retry",
+   "error": ""
+  },
+  {
    "title": "I Went ALL IN on Dragon Crown Homage for the Dark Lady Figurine… and Got SO Much More! | Dragonheir",
    "channel": "Gorax",
    "status": "retry",
    "error": ""
   },
   {
-   "title": "SAVE YOUR DICE! Child of Chaos Is Coming in 5 Days! | Dragonheir x Dragonstride",
+   "title": "Save Your Dice or Summon NOW? | Child of Chaos Is Coming | Dragonheir",
    "channel": "Gorax",
+   "status": "retry",
+   "error": ""
+  },
+  {
+   "title": "💥 THIS WILL CHANGE THE GAME FOREVER! 💥Child Of Chaos First Look Video | Dragonheir x Dragonstride",
+   "channel": "OddOneGaming RPGs",
    "status": "retry",
    "error": ""
   },
   {
    "title": "MORE HELIOLITE FOR ALL! x15 🧡 QUIZ PROMO CODE #2 🎁 3rd Anniversary Event🔥 Dragonheir x Dragonstride",
    "channel": "Suzi Plays",
-   "status": "retry",
-   "error": ""
-  },
-  {
-   "title": "🔥NEW S9 AURA HERO: Will He Become the NEW META? 👀 Skills Revealed! | Dragonheir: Silent Gods",
-   "channel": "Skyasterix Gaming",
-   "status": "retry",
-   "error": ""
-  },
-  {
-   "title": "Thunderbolt Team (lvl 300) vs Fire Guardians | Crown Contest | Dragonheir | Season 8",
-   "channel": "liveranov",
    "status": "retry",
    "error": ""
   },
@@ -70,57 +70,15 @@
    "channel": "Skyasterix Gaming",
    "status": "failed",
    "error": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}"
-  },
-  {
-   "title": "🔥 Season 9 Second CROWN BATTLE Code: SKYASTERIX | Dragonheir: Silent Gods",
-   "channel": "Skyasterix Gaming",
-   "status": "retry",
-   "error": ""
   }
  ],
  "budget": {
   "day": "2026-11-08",
-  "seconds": 2398,
+  "seconds": 5150,
   "v2": 1,
-  "quota_hit": 1794097354.8651013
+  "quota_hit": 1794104301.3504193
  },
  "log_tail": [
-  "== 2026-11-07 17:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (436 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 330 videos, 212 heroes",
-  "== 2026-11-07 18:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (436 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 330 videos, 212 heroes",
-  "== 2026-11-07 19:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (436 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 330 videos, 212 heroes",
-  "== 2026-11-07 20:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (436 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 330 videos, 212 heroes",
-  "== 2026-11-07 21:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (436 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 330 videos, 212 heroes",
-  "== 2026-11-07 22:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (436 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 330 videos, 212 heroes",
-  "curl: (56) Recv failure: Connection reset by peer",
-  "== 2026-11-07 23:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (436 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 330 videos, 212 heroes",
   "== 2026-11-08 00:17",
   "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
@@ -164,7 +122,43 @@
   "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "Gemini quota was full less than an hour ago, trying again next round",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 334 videos, 212 heroes"
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 334 videos, 212 heroes",
+  "== 2026-11-08 02:17",
+  "fetch done: 0 new transcripts, 0 not available yet",
+  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
+  "… Skyasterix Gaming: 🔥 Season 9 Second CROWN BATTLE Code: SKYASTERIX | Dragonheir",
+  "… Gorax: I Went ALL IN on Dragon Crown Homage for the Dark Lady Figur",
+  "… Skyasterix Gaming: 🔥NEW S9 AURA HERO: Will He Become the NEW META? 👀 Skills Rev",
+  "… liveranov: Thunderbolt Team (lvl 300) vs Fire Guardians | Crown Contest",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
+  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
+  "… Gorax: SAVE YOUR DICE! Child of Chaos Is Coming in 5 Days! | Dragon",
+  "! I Went ALL IN on Dragon Crown Homage for the Dark : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+  "… Suzi Plays: MORE HELIOLITE FOR ALL! x15 🧡 QUIZ PROMO CODE #2 🎁 3rd Anniv",
+  "saved aaYSUc7k9sc",
+  "+ Gorax: SAVE YOUR DICE! Child of Chaos Is Coming in 5 Days! | Dragon",
+  "… Fastidious Dragonheir: COMPLETE SUMMONING GUIDE! All Must-Know Pulls TIPS ft. @OddO",
+  "! MORE HELIOLITE FOR ALL! x15 🧡 QUIZ PROMO CODE #2 🎁: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+  "… liveranov: Thunderbolt Team vs Fire Guardians | Crown Contest | Dragonh",
+  "! COMPLETE SUMMONING GUIDE! All Must-Know Pulls TIPS: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+  "… Gorax: Save Your Dice or Summon NOW? | Child of Chaos Is Coming | D",
+  "! Thunderbolt Team vs Fire Guardians | Crown Contest: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+  "… OddOneGaming RPGs: 💥 THIS WILL CHANGE THE GAME FOREVER! 💥Child Of Chaos First L",
+  "! Save Your Dice or Summon NOW? | Child of Chaos Is : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+  "… Skratch Gaming: We Can Finally Swap Duplicate Imprints... Dragonheir: Silent",
+  "! 💥 THIS WILL CHANGE THE GAME FOREVER! 💥Child Of Cha: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+  "… Gorax: Don’t Miss Your Chance to Get These Rewards! | Dragonheir x ",
+  "saved ZjTLy-f21J8",
+  "+ Skratch Gaming: We Can Finally Swap Duplicate Imprints... Dragonheir: Silent",
+  "! Don’t Miss Your Chance to Get These Rewards! | Dra: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+  "saved gvTl8QmLVMU",
+  "+ Skyasterix Gaming: 🔥 Season 9 Second CROWN BATTLE Code: SKYASTERIX | Dragonheir",
+  "saved b96DfPMJAIc (unknown hero names: Folvarst)",
+  "+ Skyasterix Gaming: 🔥NEW S9 AURA HERO: Will He Become the NEW META? 👀 Skills Rev",
+  "saved b6wXaw-FPRI (unknown hero names: Sha'nachtan)",
+  "+ liveranov: Thunderbolt Team (lvl 300) vs Fire Guardians | Crown Contest"
  ],
  "crontab": [],
  "channels": [
@@ -172,55 +166,55 @@
    "name": "Skratch Gaming",
    "id": "UCoSkzr1pXpt3d0jIxsc6ufw",
    "enabled": true,
-   "checked": "2026-11-08T01:17Z"
+   "checked": "2026-11-08T02:17Z"
   },
   {
    "name": "Gorax",
    "id": "UCNas7BnuOIjDEzY1D53kb1w",
    "enabled": true,
-   "checked": "2026-11-08T01:17Z"
+   "checked": "2026-11-08T02:17Z"
   },
   {
    "name": "Neff Gaming",
    "id": "UCsxs6YhNd_B36RgUAjbpJ_A",
    "enabled": true,
-   "checked": "2026-11-08T01:17Z"
+   "checked": "2026-11-08T02:17Z"
   },
   {
    "name": "Volkin Dragonheir",
    "id": "UCfRpOh_ywVjzhh9fxHbreGw",
    "enabled": true,
-   "checked": "2026-11-08T01:17Z"
+   "checked": "2026-11-08T02:17Z"
   },
   {
    "name": "Fastidious Dragonheir",
    "id": "UC16mpj5wEemSZX-uTlHe9Ww",
    "enabled": true,
-   "checked": "2026-11-08T01:17Z"
+   "checked": "2026-11-08T02:17Z"
   },
   {
    "name": "OddOneGaming RPGs",
    "id": "UC1ivUEf_poI9_R2eVKa8wRQ",
    "enabled": true,
-   "checked": "2026-11-08T01:17Z"
+   "checked": "2026-11-08T02:17Z"
   },
   {
    "name": "Suzi Plays",
    "id": "UCyo1-TkunhGcK6khU1h8Ypw",
    "enabled": true,
-   "checked": "2026-11-08T01:17Z"
+   "checked": "2026-11-08T02:17Z"
   },
   {
    "name": "Skyasterix Gaming",
    "id": "UCr5Gb3910rK7QPmKMmdagsA",
    "enabled": true,
-   "checked": "2026-11-08T01:17Z"
+   "checked": "2026-11-08T02:17Z"
   },
   {
    "name": "liveranov",
    "id": "UCqCR7ofFHhWwXy3Hg00fqEw",
    "enabled": true,
-   "checked": "2026-11-08T01:17Z"
+   "checked": "2026-11-08T02:17Z"
   }
  ]
 }

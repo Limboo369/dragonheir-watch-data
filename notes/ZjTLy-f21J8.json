@@ -1,0 +1,49 @@
+{
+ "summary": "Dragonheir is introducing the Starweave Echo event as part of the upcoming anniversary celebration, allowing players to convert duplicate Legendary Soul Imprints into Starweave Fragments. Each imprint exchanges for 12 Starweave Fragments, which can be spent in the Temporal Corridor to claim desired Legendary heroes. Skratch advises prioritizing hard-to-obtain exclusive support heroes over standard damage dealers. Additionally, players should participate in the web-based daily dice roll event to accumulate rewards such as Wyrmarrow and Auric Tokens, claimable starting September 15.",
+ "topics": [
+  "Starweave Echo Event",
+  "Duplicate Imprint Exchange",
+  "Temporal Corridor Shop",
+  "Dragonstride Web Event"
+ ],
+ "heroes": [
+  {
+   "name": "Maashtur",
+   "verdict": "Top pick in exchange shop",
+   "note": "Exclusive support heroes like Maashtur are significantly harder to obtain and provide higher long-term value than standard damage dealers.",
+   "known": true
+  },
+  {
+   "name": "Talethia",
+   "verdict": "Low priority pick",
+   "note": "Avoid spending hard-to-get exchange currency on standard damage dealers.",
+   "known": true
+  },
+  {
+   "name": "Viliana",
+   "verdict": "Inspire before trading",
+   "note": "Make sure to complete necessary hero inspirations prior to exchanging duplicate imprints.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [
+  "Starweave Echo event allows trading duplicate Legendary Soul Imprints for Starweave Fragments to purchase targeted Legendary heroes in the Temporal Corridor."
+ ],
+ "tips": [
+  "Prioritize obtaining hard-to-get exclusive support characters over standard damage dealers when spending rare shop currency.",
+  "Log into the Dragonstride website daily to roll dice for bonus rewards claimable starting September 15.",
+  "Check your hero roster and complete desired hero inspirations before converting extra Soul Imprints."
+ ],
+ "season": "unknown",
+ "server_scope": "mixed",
+ "value": "medium",
+ "id": "ZjTLy-f21J8",
+ "model": "gemini-3.6-flash",
+ "channel": "Skratch Gaming",
+ "title": "We Can Finally Swap Duplicate Imprints... Dragonheir: Silent Gods x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=ZjTLy-f21J8",
+ "short": false,
+ "summarized": "2026-11-08T02:18Z"
+}

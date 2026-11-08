@@ -1,0 +1,85 @@
+{
+ "summary": "Skyasterix streams his team preparations and gear tuning for the Season 9 Crown Battle and Grave dungeon speedruns. He adjusts stats such as Accuracy, Skill Haste, and Defense across various Frost and Poison team compositions. Throughout the stream, he tests these comps against Grave bosses including Deadly Harpy, Blood Prince Xenos, Colossal Scavenger, Dead Phoenix, and Soul Devourer, as well as the Fire Guardian. He also highlights the importance of timing debuffs like Defense Down and reminds players about the upcoming Aura Selected Summons event.",
+ "topics": [
+  "Crown Battle",
+  "Grave Dungeons",
+  "Gear Tuning",
+  "Speedruns",
+  "Temporal Vortex"
+ ],
+ "heroes": [
+  {
+   "name": "Voresh",
+   "verdict": "Requires precise speed tuning",
+   "note": "Provides vital Defense Down debuffs, but his ultimate timing must be synchronized so big DPS hits land while Defense Down is active.",
+   "known": true
+  },
+  {
+   "name": "Bleddyn",
+   "verdict": "Top Frost DPS for speedruns",
+   "note": "Delivers heavy Cold damage in Frost-focused dungeon speedrun teams.",
+   "known": true
+  },
+  {
+   "name": "Estella",
+   "verdict": "Essential support healer",
+   "note": "Provides necessary sustain and cleanses to prevent team wipes during boss encounters.",
+   "known": true
+  },
+  {
+   "name": "Nord",
+   "verdict": "Core Frost enabler",
+   "note": "Works alongside Bleddyn and Rava to amplify Cold damage output in Grave dungeons.",
+   "known": true
+  },
+  {
+   "name": "Rava",
+   "verdict": "Solid Frost damage dealer",
+   "note": "Complements Nord and Bleddyn in Ice compositions for fast clear times.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Grave Dungeons (Frost Speedrun)",
+   "heroes": [
+    "Nord",
+    "Bleddyn",
+    "Rava",
+    "Estella",
+    "Voresh"
+   ],
+   "note": "Frost-based team relying on Cold damage synergy, Estella for sustain, and Voresh for Defense Down."
+  },
+  {
+   "mode": "Crown Contest (Fire Guardian)",
+   "heroes": [
+    "Child of Chaos",
+    "Durango",
+    "Sleight",
+    "Twitch",
+    "Serpentemis"
+   ],
+   "note": "Poison-focused composition tested against Fire Guardian for multi-team boss challenges."
+  }
+ ],
+ "meta_changes": [
+  "Season 9 Crown Contest requires fine-tuned stat builds and precise Skill Haste/Accuracy thresholds for reliable boss clears."
+ ],
+ "tips": [
+  "Ensure your debuffers have sufficient Accuracy to guarantee land rate on essential debuffs like Defense Down.",
+  "Carefully tune hero Skill Haste and Speed so debuffs apply immediately before your primary damage dealers launch their ultimate abilities.",
+  "Save summon resources for the upcoming Aura Selected Summons event if you plan to strengthen Aura-based teams."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "gvTl8QmLVMU",
+ "model": "gemini-3.5-flash",
+ "channel": "Skyasterix Gaming",
+ "title": "🔥 Season 9 Second CROWN BATTLE Code: SKYASTERIX | Dragonheir: Silent Gods",
+ "published": "2026-11-07T16:25:36+00:00",
+ "url": "https://www.youtube.com/watch?v=gvTl8QmLVMU",
+ "short": false,
+ "summarized": "2026-11-08T02:19Z"
+}

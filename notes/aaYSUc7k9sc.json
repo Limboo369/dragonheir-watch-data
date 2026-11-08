@@ -1,0 +1,48 @@
+{
+ "summary": "This guide covers summoning strategy for brand-new players starting on a fresh server. New players should complete the initial 20 pulls on the Prophecy Summons banner to secure their guaranteed Legendary hero, but then immediately save all remaining Heliolite Dice. The Child of Chaos banner arrives on Day 5 of a new server and requires 300 pulls for a guaranteed copy, making it a higher priority than current banners like Mithrasea. Spenders can also utilize the Traveler's Departure Gift packs to select specific legendary DPS and support heroes early on.",
+ "topics": [
+  "banners",
+  "summoning strategy",
+  "new server guide",
+  "Traveler's Departure Gift"
+ ],
+ "heroes": [
+  {
+   "name": "Child of Chaos",
+   "verdict": "must save for",
+   "note": "Arrives on Day 5 of a new server; requires 300 pulls for a guaranteed hero copy and up to 1000 pulls for his exclusive artifact.",
+   "known": true
+  },
+  {
+   "name": "Mithrasea",
+   "verdict": "skip banner",
+   "note": "Skip her current banner on a new server, especially for F2P players, to save dice for Child of Chaos.",
+   "known": true
+  },
+  {
+   "name": "Talwer",
+   "verdict": "weak starter",
+   "note": "Pulling him from the first 20 guaranteed Prophecy pulls is considered a weak start.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [],
+ "tips": [
+  "Do the first 20 pulls on the Prophecy Summons banner to get a guaranteed early Legendary hero.",
+  "Save all Heliolite Dice after the first 20 pulls for the Child of Chaos banner opening on Day 5.",
+  "Use daily promo codes (such as LUMINARY) to help accumulate free Heliolite Dice for wish banners.",
+  "Spenders can purchase Traveler's Departure Gift tiers (£0.99, £4.99, £19.99) to select guaranteed legendary DPS and exclusive support heroes."
+ ],
+ "season": "S1",
+ "server_scope": "S1",
+ "value": "medium",
+ "id": "aaYSUc7k9sc",
+ "model": "gemini-3.6-flash",
+ "channel": "Gorax",
+ "title": "SAVE YOUR DICE! Child of Chaos Is Coming in 5 Days! | Dragonheir x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=aaYSUc7k9sc",
+ "short": false,
+ "summarized": "2026-11-08T02:17Z"
+}

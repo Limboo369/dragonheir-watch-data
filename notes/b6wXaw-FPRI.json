@@ -1,0 +1,73 @@
+{
+ "summary": "This video demonstrates a high-end Thunderbolt team competing in the Crown Contest against level 300 Fire Elemental Guardians (Fire Fortress). The team achieved a total damage score of over 6.12 billion within the 5-minute time limit. Perkunte acts as the primary carry, delivering approximately 75% of the total team damage. Detailed stat profiles and gearing directions are displayed for all five team members at the conclusion of the battle.",
+ "topics": [
+  "Crown Contest",
+  "Thunderbolt Team",
+  "Fire Guardians",
+  "Perkunte",
+  "Hero Builds"
+ ],
+ "heroes": [
+  {
+   "name": "Perkunte",
+   "verdict": "Core DPS Carry",
+   "note": "Dealt 4.58 billion damage (74.9% of total team output), built with full Enlightenment and Attack.",
+   "known": true
+  },
+  {
+   "name": "Sha'nachtan",
+   "verdict": "Secondary DPS",
+   "note": "Contributed 747.8M damage (12.2% of total damage) and was geared with high Accuracy.",
+   "known": false
+  },
+  {
+   "name": "Maashtur",
+   "verdict": "Tank and Sustain",
+   "note": "Provided 74.8M total healing and 480M damage, built with high HP and Accuracy.",
+   "known": true
+  },
+  {
+   "name": "Alaura",
+   "verdict": "Thunderbolt Enabler",
+   "note": "Contributed 198M damage to support team mechanics, built with full Enlightenment.",
+   "known": true
+  },
+  {
+   "name": "Tariz",
+   "verdict": "Debuffer / Support",
+   "note": "Dealt 113.4M damage while ensuring reliable debuff application by prioritizing Accuracy.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Crown Contest (Fire Guardians)",
+   "heroes": [
+    "Tariz",
+    "Perkunte",
+    "Maashtur",
+    "Alaura",
+    "Sha'nachtan"
+   ],
+   "note": "Achieved 6,128,604,979 total damage against level 300 Fire Elemental Guardians."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Build Perkunte with full Enlightenment and Attack to maximize Thunderbolt damage scaling.",
+  "Prioritize HP and Accuracy on Maashtur so he can reliably sustain the team and absorb hits.",
+  "Build sufficient Accuracy on Tariz and Sha'nachtan to consistently land debuffs on boss targets.",
+  "Stack Enlightenment on Alaura to boost team utility and secondary Thunderbolt output."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "b6wXaw-FPRI",
+ "model": "gemini-3.8-flash",
+ "channel": "liveranov",
+ "title": "Thunderbolt Team (lvl 300) vs Fire Guardians | Crown Contest | Dragonheir | Season 8",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=b6wXaw-FPRI",
+ "short": false,
+ "summarized": "2026-11-08T02:20Z"
+}
