@@ -1,22 +1,15 @@
 {
- "built": "2026-11-08T08:27Z",
+ "built": "2026-11-08T08:31Z",
  "last_fetch": "2026-11-08T08:17Z",
  "counts": {
-  "summarized": 356,
+  "summarized": 357,
   "skipped_giveaway": 17,
   "baseline": 22,
-  "retry": 1,
   "new": 271,
   "skipped_live": 1,
   "failed": 3
  },
  "problems": [
-  {
-   "title": "MASSIVE F2P Child Of Chaos SUMMONS!!! [Dragonheir: Silent Gods]",
-   "channel": "Volkin Dragonheir",
-   "status": "retry",
-   "error": ""
-  },
   {
    "title": "Season 9 NEW INFO: 2 Free Heroes, New Affinities & Selectable Banner! | Dragonheir: Silent Gods",
    "channel": "liveranov",
@@ -43,8 +36,6 @@
   "quota_hit": 1794118664.3883393
  },
  "log_tail": [
-  "… Suzi Plays: MORE HELIOLITE FOR ALL! x15 🧡 QUIZ PROMO CODE #2 🎁 3rd Anniv",
-  "… liveranov: Thunderbolt Team vs Fire Guardians | Crown Contest | Dragonh",
   "… Gorax: Save Your Dice or Summon NOW? | Child of Chaos Is Coming | D",
   "  gemini-3.8-flash: 429, using gemini-3.5-flash",
   "  gemini-3.8-flash: 429, using gemini-3.5-flash",
@@ -122,7 +113,9 @@
   "saved XPs-ar1XIp4",
   "+ Gorax: I'm Starting a FRESH Account for DragonHeir's 3rd Anniversar",
   "saved WjtBPisim9A",
-  "+ Gorax: I Summoned for Child of Chaos... and THIS Happened! | Dragon"
+  "+ Gorax: I Summoned for Child of Chaos... and THIS Happened! | Dragon",
+  "saved Xc9R1g4mUEM",
+  "+ Volkin Dragonheir: MASSIVE F2P Child Of Chaos SUMMONS!!! [Dragonheir: Silent Go"
  ],
  "crontab": [],
  "channels": [

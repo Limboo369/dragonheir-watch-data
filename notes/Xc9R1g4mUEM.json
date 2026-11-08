@@ -1,0 +1,40 @@
+{
+ "summary": "Volkin conducts a large summon session on his main account on the Reversal Summons banner targeting Child of Chaos. He manages to pull Child of Chaos along with multiple other legendaries, including Oggok, Viliana, Donella, and Gillian. He explains his summoning mindset, advising players to view 300-dice banners strictly as trading 300 dice for one guaranteed copy rather than banking on lucky extra pulls. He also highlights the need to manage gem reserves carefully so daily shop purchases remain affordable.",
+ "topics": [
+  "Summoning",
+  "Reversal Summons",
+  "Child of Chaos",
+  "Resource Management"
+ ],
+ "heroes": [
+  {
+   "name": "Child of Chaos",
+   "verdict": "Target summon",
+   "note": "The primary objective of the Reversal Summons banner, successfully pulled alongside a duplicate copy.",
+   "known": true
+  },
+  {
+   "name": "Oggok",
+   "verdict": "Great support pull",
+   "note": "Considered a high-value pull that provides a major boost to his roster.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [],
+ "tips": [
+  "Treat 300-summon guarantee banners as exchanging 300 dice for a single target hero rather than expecting lucky unpities along the way.",
+  "Always maintain a reserve of gems (at least 800) so you never miss out on daily shop purchases."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "low",
+ "id": "Xc9R1g4mUEM",
+ "model": "gemini-3.8-flash",
+ "channel": "Volkin Dragonheir",
+ "title": "MASSIVE F2P Child Of Chaos SUMMONS!!! [Dragonheir: Silent Gods]",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=Xc9R1g4mUEM",
+ "short": false,
+ "summarized": "2026-11-08T08:31Z"
+}
