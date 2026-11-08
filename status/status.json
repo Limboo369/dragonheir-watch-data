@@ -1,5 +1,5 @@
 {
- "built": "2026-11-08T08:31Z",
+ "built": "2026-11-08T09:07Z",
  "last_fetch": "2026-11-08T08:17Z",
  "counts": {
   "summarized": 357,
@@ -36,7 +36,6 @@
   "quota_hit": 1794118664.3883393
  },
  "log_tail": [
-  "… Gorax: Save Your Dice or Summon NOW? | Child of Chaos Is Coming | D",
   "  gemini-3.8-flash: 429, using gemini-3.5-flash",
   "  gemini-3.8-flash: 429, using gemini-3.5-flash",
   "  gemini-3.5-flash: 429, using gemini-3.7-flash",
@@ -115,7 +114,8 @@
   "saved WjtBPisim9A",
   "+ Gorax: I Summoned for Child of Chaos... and THIS Happened! | Dragon",
   "saved Xc9R1g4mUEM",
-  "+ Volkin Dragonheir: MASSIVE F2P Child Of Chaos SUMMONS!!! [Dragonheir: Silent Go"
+  "+ Volkin Dragonheir: MASSIVE F2P Child Of Chaos SUMMONS!!! [Dragonheir: Silent Go",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 357 videos, 216 heroes"
  ],
  "crontab": [],
  "channels": [
