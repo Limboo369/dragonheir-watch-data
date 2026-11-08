@@ -1,0 +1,41 @@
+{
+ "summary": "The creator performs 600 summons in Season 9, splitting 300 dice on the Selected Summons II banner (featuring Holfast, Talethia, and Aemonleyda) and 300 dice on the Radiant Wings banner for Anneliesis. Despite pulling 11 legendaries, every single pull was a duplicate hero already at Inspiration 5, yielding zero featured drops from the dice themselves. At the 300-summon milestones, the selector guarantees Holfast or other choices, while Radiant Wings guarantees Anneliesis. The creator highlights that Anneliesis has a very powerful Inspiration 2 upgrade and calls for a system to exchange excess Soul Imprints for maxed I5 heroes.",
+ "topics": [
+  "summons",
+  "Selected Summons",
+  "Radiant Wings",
+  "Anneliesis",
+  "Holfast"
+ ],
+ "heroes": [
+  {
+   "name": "Holfast",
+   "verdict": "Top recommendation from Selected Summons II",
+   "note": "Recommended pick from the 300-summon selector if you lack him or Aemonleyda's artifact.",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "High-value Inspiration 2 target",
+   "note": "Her Inspiration 2 enables allies with a shield to deal +10% damage and expands her battle skill shield to cover the entire team.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [],
+ "tips": [
+  "Wait until you finish all planned summons on a 300-milestone banner before picking your hero, in case they drop naturally from dice.",
+  "If you do not need the hero immediately, you can let the banner expire without choosing; the game will send a selection chest containing the banner's hero choices to your mailbox."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "low",
+ "id": "Gd2mJ34vOvI",
+ "model": "gemini-3.8-flash",
+ "channel": "liveranov",
+ "title": "Can You Be MORE Unlucky? 600 Summons for Holfast & Anneliesis | Dragonheir: Silent Gods",
+ "published": "2026-11-08T08:59:44+00:00",
+ "url": "https://www.youtube.com/watch?v=Gd2mJ34vOvI",
+ "short": false,
+ "summarized": "2026-11-08T09:19Z"
+}

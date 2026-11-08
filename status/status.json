@@ -1,11 +1,11 @@
 {
- "built": "2026-11-08T09:07Z",
- "last_fetch": "2026-11-08T08:17Z",
+ "built": "2026-11-08T09:21Z",
+ "last_fetch": "2026-11-08T09:17Z",
  "counts": {
-  "summarized": 357,
+  "summarized": 369,
   "skipped_giveaway": 17,
   "baseline": 22,
-  "new": 271,
+  "new": 260,
   "skipped_live": 1,
   "failed": 3
  },
@@ -31,57 +31,11 @@
  ],
  "budget": {
   "day": "2026-11-08",
-  "seconds": 17114,
+  "seconds": 26750,
   "v2": 1,
   "quota_hit": 1794118664.3883393
  },
  "log_tail": [
-  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
-  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
-  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
-  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
-  "… OddOneGaming RPGs: 💥 THIS WILL CHANGE THE GAME FOREVER! 💥Child Of Chaos First L",
-  "! MORE HELIOLITE FOR ALL! x15 🧡 QUIZ PROMO CODE #2 🎁: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
-  "… OddOneGaming RPGs: ⛔ This Was UNNECESSARILY Hard ⛔ Meander Trial 61-120 Shadow ",
-  "… liveranov: Dauntless Team (UPDATED)  vs Fire Guardians | Crown Contest ",
-  "saved _ZAJFou6Q0w (unknown hero names: Sha'nachtan)",
-  "+ liveranov: Thunderbolt Team vs Fire Guardians | Crown Contest | Dragonh",
-  "! ⛔ This Was UNNECESSARILY Hard ⛔ Meander Trial 61-1: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
-  "… Gorax: Talethia - THE BEST Teams & Strategy | Continental Challenge",
-  "! Dauntless Team (UPDATED)  vs Fire Guardians | Crow: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
-  "… Fastidious Dragonheir: These Two Tips Will Give You The BIGGEST Head-Start ⁂ Dragon",
-  "saved _0reOyv5BB0",
-  "+ OddOneGaming RPGs: 💥 THIS WILL CHANGE THE GAME FOREVER! 💥Child Of Chaos First L",
-  "… Volkin Dragonheir: MASSIVE F2P Child Of Chaos SUMMONS!!! [Dragonheir: Silent Go",
-  "! These Two Tips Will Give You The BIGGEST Head-Star: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
-  "… Volkin Dragonheir: First 300 SUMMONS F2P!!! [Dragonheir: Silent Gods]",
-  "! MASSIVE F2P Child Of Chaos SUMMONS!!! [Dragonheir:: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
-  "… Gorax: No Rena Needed! Child of Chaos Carries vs Joyce | Dragonheir",
-  "! First 300 SUMMONS F2P!!! [Dragonheir: Silent Gods]: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
-  "! No Rena Needed! Child of Chaos Carries vs Joyce | : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
-  "saved YTnxsHN9mR0 (unknown hero names: Crisis)",
-  "+ Gorax: Talethia - THE BEST Teams & Strategy | Continental Challenge",
-  "! I Went ALL IN on Dragon Crown Homage for the Dark : ConnectError: [Errno 104] Connection reset by peer",
-  "saved _VJMlnXN25w",
-  "+ Gorax: Save Your Dice or Summon NOW? | Child of Chaos Is Coming | D",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 345 videos, 216 heroes",
-  "== 2026-11-08 07:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "Gemini quota was full less than an hour ago, trying again next round",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 345 videos, 216 heroes",
-  "mv: cannot stat '.ytwatch.py.new': No such file or directory",
-  "mv: cannot stat '.channels.json.new': No such file or directory",
-  "mv: cannot stat '.dashboard.html.new': No such file or directory",
-  "mv: cannot stat '.backlog.json.new': No such file or directory",
-  "mv: cannot stat '.publish.sh.new': No such file or directory",
-  "mv: cannot stat '.web.py.new': No such file or directory",
-  "== 2026-11-08 08:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "… Neff Gaming: 300 SUMMONS! Hunting HOLFAST in Selected Summons II | Dragon",
-  "… Gorax: I Pulled on BOTH New Banners… Was It Worth It? | Dragonheir",
-  "… Gorax: I Went ALL IN on Dragon Crown Homage for the Dark Lady Figur",
   "… Suzi Plays: MORE HELIOLITE FOR ALL! x15 🧡 QUIZ PROMO CODE #2 🎁 3rd Anniv",
   "… OddOneGaming RPGs: ⛔ This Was UNNECESSARILY Hard ⛔ Meander Trial 61-120 Shadow ",
   "saved bPoRmh4aIJk",
@@ -115,7 +69,53 @@
   "+ Gorax: I Summoned for Child of Chaos... and THIS Happened! | Dragon",
   "saved Xc9R1g4mUEM",
   "+ Volkin Dragonheir: MASSIVE F2P Child Of Chaos SUMMONS!!! [Dragonheir: Silent Go",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 357 videos, 216 heroes"
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 357 videos, 216 heroes",
+  "mv: cannot stat '.ytwatch.py.new': No such file or directory",
+  "mv: cannot stat '.channels.json.new': No such file or directory",
+  "mv: cannot stat '.dashboard.html.new': No such file or directory",
+  "mv: cannot stat '.backlog.json.new': No such file or directory",
+  "mv: cannot stat '.web.py.new': No such file or directory",
+  "== 2026-11-08 09:17",
+  "fetch done: 0 new transcripts, 0 not available yet",
+  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
+  "… liveranov: Can You Be MORE Unlucky? 600 Summons for Holfast & Anneliesi",
+  "… OddOneGaming RPGs: 🚨 LAST CHANCE AT THIS 🚨 Piece Of Treasury S8 BEST Picks & My",
+  "… Skyasterix Gaming: 🔥 S8 TOXINS VORTEX GUIDE! 🐍 INSANE COC Team & HUGE Damage! |",
+  "… Suzi Plays: MORE FREE HELIOLITE! x15 🧡 QUIZ PROMO CODE #3 🎁 3rd Annivers",
+  "… Gorax: I Went ALL IN for Child of Chaos… Should You Pull? | Dragonh",
+  "saved WVIxF5uazyI",
+  "+ Suzi Plays: MORE FREE HELIOLITE! x15 🧡 QUIZ PROMO CODE #3 🎁 3rd Annivers",
+  "… Fastidious Dragonheir: I Started Over...Completely F2P! ⁂ Dragonheir: Silent Gods",
+  "saved Gd2mJ34vOvI",
+  "+ liveranov: Can You Be MORE Unlucky? 600 Summons for Holfast & Anneliesi",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "… Neff Gaming: Choose Wisely! Dragonheir Factions, Creators & Rewards Expla",
+  "saved WM4Je3TfTb0",
+  "+ Fastidious Dragonheir: I Started Over...Completely F2P! ⁂ Dragonheir: Silent Gods",
+  "… Skratch Gaming: I Whaled Out For The Child Of Chaos! What a Rollercoaster...",
+  "saved WG2F0i_DtFk",
+  "+ Neff Gaming: Choose Wisely! Dragonheir Factions, Creators & Rewards Expla",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "… Skratch Gaming: Ice Blast Team Vs Boss Challenge Elcebre! Dragonheir: Silent",
+  "saved W-TKFyLad4I",
+  "+ Skratch Gaming: I Whaled Out For The Child Of Chaos! What a Rollercoaster...",
+  "… Suzi Plays: Our 5th BIG PROMO CODE! + Chat 🧡 15 Heliolite! 🎁 3rd Anniver",
+  "saved Vs9xdK98GU0",
+  "+ Skratch Gaming: Ice Blast Team Vs Boss Challenge Elcebre! Dragonheir: Silent",
+  "… Skyasterix Gaming: ⚠️ TARIZ Summon — GOOD or Another SCAM?! | Dragonheir: Silen",
+  "saved WSOHKRqAhc4",
+  "+ Gorax: I Went ALL IN for Child of Chaos… Should You Pull? | Dragonh",
+  "… Volkin Dragonheir: HUGE Damage Boost From ONE SMALL CHANGE!!! [Dragonheir: Sile",
+  "saved WV_QTnx4_K0",
+  "+ Skyasterix Gaming: 🔥 S8 TOXINS VORTEX GUIDE! 🐍 INSANE COC Team & HUGE Damage! |",
+  "saved VAbS6Cf5Y4I",
+  "+ Skyasterix Gaming: ⚠️ TARIZ Summon — GOOD or Another SCAM?! | Dragonheir: Silen",
+  "saved VGoxF7irSCQ",
+  "+ Suzi Plays: Our 5th BIG PROMO CODE! + Chat 🧡 15 Heliolite! 🎁 3rd Anniver",
+  "saved WXJ1Kj3Blfg",
+  "+ OddOneGaming RPGs: 🚨 LAST CHANCE AT THIS 🚨 Piece Of Treasury S8 BEST Picks & My",
+  "saved UloYhjHwdFo",
+  "+ Volkin Dragonheir: HUGE Damage Boost From ONE SMALL CHANGE!!! [Dragonheir: Sile"
  ],
  "crontab": [],
  "channels": [
@@ -123,55 +123,55 @@
    "name": "Skratch Gaming",
    "id": "UCoSkzr1pXpt3d0jIxsc6ufw",
    "enabled": true,
-   "checked": "2026-11-08T08:17Z"
+   "checked": "2026-11-08T09:17Z"
   },
   {
    "name": "Gorax",
    "id": "UCNas7BnuOIjDEzY1D53kb1w",
    "enabled": true,
-   "checked": "2026-11-08T08:17Z"
+   "checked": "2026-11-08T09:17Z"
   },
   {
    "name": "Neff Gaming",
    "id": "UCsxs6YhNd_B36RgUAjbpJ_A",
    "enabled": true,
-   "checked": "2026-11-08T08:17Z"
+   "checked": "2026-11-08T09:17Z"
   },
   {
    "name": "Volkin Dragonheir",
    "id": "UCfRpOh_ywVjzhh9fxHbreGw",
    "enabled": true,
-   "checked": "2026-11-08T08:17Z"
+   "checked": "2026-11-08T09:17Z"
   },
   {
    "name": "Fastidious Dragonheir",
    "id": "UC16mpj5wEemSZX-uTlHe9Ww",
    "enabled": true,
-   "checked": "2026-11-08T08:17Z"
+   "checked": "2026-11-08T09:17Z"
   },
   {
    "name": "OddOneGaming RPGs",
    "id": "UC1ivUEf_poI9_R2eVKa8wRQ",
    "enabled": true,
-   "checked": "2026-11-08T08:17Z"
+   "checked": "2026-11-08T09:17Z"
   },
   {
    "name": "Suzi Plays",
    "id": "UCyo1-TkunhGcK6khU1h8Ypw",
    "enabled": true,
-   "checked": "2026-11-08T08:17Z"
+   "checked": "2026-11-08T09:17Z"
   },
   {
    "name": "Skyasterix Gaming",
    "id": "UCr5Gb3910rK7QPmKMmdagsA",
    "enabled": true,
-   "checked": "2026-11-08T08:17Z"
+   "checked": "2026-11-08T09:17Z"
   },
   {
    "name": "liveranov",
    "id": "UCqCR7ofFHhWwXy3Hg00fqEw",
    "enabled": true,
-   "checked": "2026-11-08T08:17Z"
+   "checked": "2026-11-08T09:17Z"
   }
  ]
 }

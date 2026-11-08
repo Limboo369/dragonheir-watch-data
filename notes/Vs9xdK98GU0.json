@@ -1,0 +1,72 @@
+{
+ "summary": "This guide demonstrates an Ice Blast team setup to achieve high scores against the Continental Challenge boss Elecebre. The key strategy revolves around skill timing adjustments to cast ultimate abilities right before Elecebre's Siren Song skill reduces team ultimate energy. Shifting the Puppeteer's Inspiration set onto Felosia helps boost the team's ultimate energy gauge early, ensuring the team completes their skill cycle smoothly. With proper Resistance, Skill Haste, and survival tuning, this team comfortably achieves over 440 million damage.",
+ "topics": [
+  "Ice Blast",
+  "Elecebre",
+  "Continental Challenge",
+  "Boss Challenge",
+  "Skill Timing"
+ ],
+ "heroes": [
+  {
+   "name": "Felosia",
+   "verdict": "Crucial support for timing control",
+   "note": "Equipping her with the Puppeteer's Inspiration set boosts team ultimate energy right before the boss reduces energy.",
+   "known": true
+  },
+  {
+   "name": "Beldelle",
+   "verdict": "Main Ice Blast DPS",
+   "note": "Built with high Crit Rate and Attack to maximize Ice Blast damage output.",
+   "known": true
+  },
+  {
+   "name": "Shinnah",
+   "verdict": "Key Ice Blast DPS",
+   "note": "Requires Skill Haste to align her ultimate timing correctly within the team rotation.",
+   "known": true
+  },
+  {
+   "name": "Ernesto",
+   "verdict": "Core stats buffer and tank",
+   "note": "Shares attributes with team members and provides essential team survival and stats.",
+   "known": true
+  },
+  {
+   "name": "Fredegonda",
+   "verdict": "Support enabler",
+   "note": "Can be geared with standard support or Puppeteer gear to maintain ultimate rotation.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Continental Challenge - Elecebre",
+   "heroes": [
+    "Felosia",
+    "Beldelle",
+    "Shinnah",
+    "Fredegonda",
+    "Ernesto"
+   ],
+   "note": "Ice Blast lineup tuned with ~17.2s-17.9s first cast timings and 18s recasts so ultimate abilities launch immediately before Elecebre casts Siren Song."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Set ultimate first cast timers between 17.2s and 17.9s with an 18.0s recast to trigger skills right before Elecebre's Siren Song.",
+  "Place the Puppeteer's Inspiration set on your fastest support hero to advance team ultimate energy before energy reduction mechanics trigger.",
+  "Ensure DPS heroes have sufficient Skill Haste and survival stats so they do not fall behind in timing or die prematurely."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "Vs9xdK98GU0",
+ "model": "gemini-3.5-flash",
+ "channel": "Skratch Gaming",
+ "title": "Ice Blast Team Vs Boss Challenge Elcebre! Dragonheir: Silent Gods x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=Vs9xdK98GU0",
+ "short": false,
+ "summarized": "2026-11-08T09:20Z"
+}

@@ -1,0 +1,73 @@
+{
+ "summary": "This guide details an optimized Toxin team setup for the Season 8 Cloudtop Arbor Temporal Vortex (Nocturne Hydra), inspired by Skratch's strategy. Incorporating Child of Chaos attuned to Poison with the Puppeteer gear set and Dragonbone Catalyst significantly amplified team output, pushing total damage from 27-28 billion up to 32 billion. Detailed stat benchmarks, gear choices, and an exact 18-second skill timing rotation are provided for all five heroes. Minor adjustments in survivability and Enlightenment versus Attack on Serpentemis affect team survival through the final minute of the fight.",
+ "topics": [
+  "Temporal Vortex",
+  "Cloudtop Arbor Hydra",
+  "Toxin Team",
+  "Child of Chaos",
+  "Skill Timings"
+ ],
+ "heroes": [
+  {
+   "name": "Child of Chaos",
+   "verdict": "Top-tier Vortex damage booster",
+   "note": "Attuned to Poison element to trigger teamwide damage buffs; built in the Puppeteer set with Dragonbone Catalyst for extra team damage reduction and damage bonuses.",
+   "known": true
+  },
+  {
+   "name": "Reytah",
+   "verdict": "Essential Poison support and buffer",
+   "note": "Extends debuffs and provides an ally damage boost using Miasma Staff, with Misty Conch serving as a secondary artifact option.",
+   "known": true
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "Primary Vortex DPS",
+   "note": "Tested at Inspiration 5; can be built stacking HP via the Knight Order set to convert to Attack or built with higher Enlightenment and raw Attack.",
+   "known": true
+  },
+  {
+   "name": "Twitch",
+   "verdict": "Core Poison DPS",
+   "note": "Requires high Attack power and strict ultimate timing alignment within the 18-second team rotation.",
+   "known": true
+  },
+  {
+   "name": "Sleight",
+   "verdict": "Core Poison DPS",
+   "note": "Requires high Attack power and precise ultimate skill timing to keep up continuous debuffs and damage.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Temporal Vortex",
+   "heroes": [
+    "Child of Chaos",
+    "Reytah",
+    "Twitch",
+    "Sleight",
+    "Serpentemis"
+   ],
+   "note": "Endgame Toxin composition for Cloudtop Arbor Hydra Nocturne achieving 28B to 32B damage using tuned 18-second skill recast cycles."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Set Child of Chaos to Poison affinity so all Poison allies receive the artifact and field damage bonuses.",
+  "Equip Child of Chaos with the Puppeteer artifact/gear setup to easily survive the entire fight while buffing damage.",
+  "Use Miasma Staff on Reytah to extend debuffs and buff ally damage; use Misty Conch if Miasma Staff is unavailable.",
+  "Follow precise first cast timings on an 18.0s recast cycle: Serpentemis (11.1s), Sleight (14.6999s), Reytah (14.5s), Child of Chaos (15.1998s), and Twitch (16.5s)."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "WV_QTnx4_K0",
+ "model": "gemini-3.8-flash",
+ "channel": "Skyasterix Gaming",
+ "title": "🔥 S8 TOXINS VORTEX GUIDE! 🐍 INSANE COC Team & HUGE Damage! | Dragonheir: Silent Gods",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=WV_QTnx4_K0",
+ "short": false,
+ "summarized": "2026-11-08T09:20Z"
+}

@@ -1,0 +1,92 @@
+{
+ "summary": "Gorax reviews the Reversal Summon banner featuring the limited hero Child of Chaos and conducts a 700-dice summon session. He explains that 1 copy of Child of Chaos is sufficient for most players, while a second copy unlocks his powerful exclusive artifact Dragonbone Catalyst. New players are advised to prioritize securing core DPS heroes from Option Summons before going all-in on limited support banners. Throughout the pulls, Gorax gives verdicts on several legendary heroes including Gillian, Sagomir, Oggok, Ripekas, Quaesitia, Solmo, and Donella.",
+ "topics": [
+  "banners",
+  "summoning",
+  "hero review",
+  "Child of Chaos",
+  "artifacts"
+ ],
+ "heroes": [
+  {
+   "name": "Child of Chaos",
+   "verdict": "top tier flexible support",
+   "note": "Element-switching support providing healing, immunity, and damage or damage reduction via his exclusive artifact Dragonbone Catalyst; 1 copy is sufficient for most players.",
+   "known": true
+  },
+  {
+   "name": "Gillian",
+   "verdict": "amazing Radiance support",
+   "note": "Dispels debuffs, grants Defense Up II, provides damage reduction, and shares resistance across the team.",
+   "known": true
+  },
+  {
+   "name": "Sagomir",
+   "verdict": "excellent dungeon tank and support",
+   "note": "Accelerates dungeon clears by granting ultimate energy to allies, taunting enemies, and applying attack penalty.",
+   "known": true
+  },
+  {
+   "name": "Oggok",
+   "verdict": "top tier support for Toxic and Temporal Vortex",
+   "note": "Grants immortality, strong healing, dispels, and attack penalty; widely used by veteran players.",
+   "known": true
+  },
+  {
+   "name": "Solmo",
+   "verdict": "top tier shielder and support",
+   "note": "Outperforms many exclusive supports by providing massive shields, debuff immunity, and Defense Up II.",
+   "known": true
+  },
+  {
+   "name": "Ripekas",
+   "verdict": "great crowd control support for Fey Meander and PvP",
+   "note": "Offers strong crowd control with knock-up and stun, ultimate steal, and multiple debuffs.",
+   "known": true
+  },
+  {
+   "name": "Quaesitia",
+   "verdict": "strong PvP and Fey Meander disruptor",
+   "note": "Pulls enemies towards herself to disrupt enemy formations while dealing necrotic damage.",
+   "known": true
+  },
+  {
+   "name": "Donella",
+   "verdict": "outdated / skip",
+   "note": "No longer useful as newer heroes fulfill her healing prohibition role much more effectively.",
+   "known": true
+  },
+  {
+   "name": "Talwer",
+   "verdict": "food for artifact exchange",
+   "note": "Currently lacks practical utility, making his copies best used for artifact conversion currency.",
+   "known": true
+  },
+  {
+   "name": "Torrin",
+   "verdict": "artifact currency / average",
+   "note": "Mainly serves as duplicate fodder to exchange for shop artifacts.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [
+  "New limited support hero Child of Chaos introduced with element-switching mechanics and team-wide damage buffs via his exclusive artifact Dragonbone Catalyst."
+ ],
+ "tips": [
+  "Stop pulling on the Child of Chaos banner after 1 copy, or 2 copies if you want to unlock his exclusive artifact Dragonbone Catalyst.",
+  "New players should prioritize getting core DPS heroes from Option Summons before investing heavily into limited support banners.",
+  "Solmo and Oggok are extremely high-value non-exclusive supports worth investing in for endgame content like Temporal Vortex."
+ ],
+ "season": "S9",
+ "server_scope": "mixed",
+ "value": "high",
+ "id": "WSOHKRqAhc4",
+ "model": "gemini-3.5-flash",
+ "channel": "Gorax",
+ "title": "I Went ALL IN for Child of Chaos… Should You Pull? | Dragonheir x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=WSOHKRqAhc4",
+ "short": false,
+ "summarized": "2026-11-08T09:20Z"
+}

@@ -1,0 +1,79 @@
+{
+ "summary": "Changing your familiar in boss modes like Temporal Vortex can yield a massive damage increase. Volkin demonstrates that switching from Lava Batwing (Dragon) to Golden Tressym (Cat) boosted his Toxin team damage from 40 million to over 50 million. Top players on the leaderboard use Golden Tressym for its Max HP damage and AOE damage boost, or Starlight Stoneborn (Golem) for Vulnerability. Additionally, Serpentemis paired with Sigrid is highlighted as an exceptional combination for Fallen Shadow Spire and Tactical Adventure.",
+ "topics": [
+  "Temporal Vortex",
+  "Familiars",
+  "Toxin Team",
+  "Serpentemis",
+  "Fallen Shadow Spire"
+ ],
+ "heroes": [
+  {
+   "name": "Serpentemis",
+   "verdict": "Strong Toxin DPS",
+   "note": "Drives massive damage in Toxin boss teams and trivializes Fallen Shadow Spire and Tactical Adventure when paired with debuffers.",
+   "known": true
+  },
+  {
+   "name": "Sigrid",
+   "verdict": "Top Rare pairing for Serpentemis",
+   "note": "Gains 25% ultimate energy whenever debuffed enemies die, enabling rapid AOE ult spam when paired with Serpentemis in wave content.",
+   "known": true
+  },
+  {
+   "name": "Child of Chaos",
+   "verdict": "Core Toxin Legendary",
+   "note": "Featured in top-ranking Toxin boss teams in Temporal Vortex alongside Serpentemis.",
+   "known": true
+  },
+  {
+   "name": "Twitch",
+   "verdict": "Top Toxin Legendary",
+   "note": "Used by high-ranking leaderboard players to achieve massive boss damage in Temporal Vortex.",
+   "known": true
+  },
+  {
+   "name": "Frurbath",
+   "verdict": "Solid Epic Poison Tank",
+   "note": "Appears in high-ranking Temporal Vortex Toxin lineups as a frontline tank.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Temporal Vortex",
+   "heroes": [
+    "Serpentemis",
+    "Child of Chaos",
+    "Twitch",
+    "Sacredeia"
+   ],
+   "note": "High-performing Toxin boss damage lineup paired with the Golden Tressym (Cat) familiar."
+  },
+  {
+   "mode": "Fallen Shadow Spire",
+   "heroes": [
+    "Serpentemis",
+    "Sigrid"
+   ],
+   "note": "Combines Toxin debuffs with Sigrid's passive Ult energy gain on kill to clear waves easily."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Test different Familiars in Temporal Vortex; Golden Tressym (Cat) can outperform Lava Batwing (Dragon) by over 20% total damage due to its Max HP damage and AOE damage taken debuff.",
+  "Consider Starlight Stoneborn (Golem) in boss fights for its 8% Vulnerability debuff.",
+  "Pair Serpentemis with Sigrid in wave-clearing modes like Fallen Shadow Spire so Sigrid continuously gets ultimate energy resets."
+ ],
+ "season": "unknown",
+ "server_scope": "S1",
+ "value": "high",
+ "id": "UloYhjHwdFo",
+ "model": "gemini-3.5-flash",
+ "channel": "Volkin Dragonheir",
+ "title": "HUGE Damage Boost From ONE SMALL CHANGE!!! [Dragonheir: Silent Gods]",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=UloYhjHwdFo",
+ "short": false,
+ "summarized": "2026-11-08T09:21Z"
+}

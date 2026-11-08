@@ -1,0 +1,78 @@
+{
+ "summary": "Fastidious starts a brand-new 100% Free-to-Play account in Dragonheir: Silent Gods to showcase early progression without spending money. He highlights the early summoning system, noting that players get a guaranteed Legendary hero within their first 20 Heliolite Dice summons. He also demonstrates the Resonance Level system, which raises the level of all heroes on an account simultaneously. During his initial summons, he pulls Hegio as his first Epic and Jathalea as his guaranteed Legendary.",
+ "topics": [
+  "F2P New Account",
+  "Beginner Guide",
+  "Summoning",
+  "Resonance Level",
+  "Magichess"
+ ],
+ "heroes": [
+  {
+   "name": "Jathalea",
+   "verdict": "Great Poison DPS",
+   "note": "Toxin school Legendary who inflicts Thorny Poison, Derivative Poison damage, and a 20% Enlightenment penalty.",
+   "known": true
+  },
+  {
+   "name": "Hegio",
+   "verdict": "Solid Radiance Rally Epic",
+   "note": "Radiance Epic hero that grants Rally stacks to enhance ultimate skills and team synergy.",
+   "known": true
+  },
+  {
+   "name": "Hochadir",
+   "verdict": "Essential Free Frost Legendary",
+   "note": "Free Legendary Frost hero given to all new accounts, excellent for early Frost team comps.",
+   "known": true
+  },
+  {
+   "name": "Auster",
+   "verdict": "Strong Frost DPS",
+   "note": "Frost Legendary DPS hero that pairs seamlessly with Hochadir for high Crit Rate and Crit Damage.",
+   "known": true
+  },
+  {
+   "name": "Vinyara",
+   "verdict": "Top Tier Progression Legendary",
+   "note": "Fantastic Legendary hero for overall account progression, obtainable for free via story grind.",
+   "known": true
+  },
+  {
+   "name": "Usha",
+   "verdict": "Great Rare Unit",
+   "note": "Highlighted as one of the best Rare heroes in the game for early progression.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Magichess",
+   "heroes": [
+    "Hochadir",
+    "Olgan",
+    "Usha",
+    "Rava",
+    "Wilt"
+   ],
+   "note": "Early Frost affinity composition triggering Frost Crit Rate and Crit Damage bonuses."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "New accounts are guaranteed a Legendary hero within their first 20 Heliolite Dice summons on the basic banner.",
+  "Focus on upgrading your Resonance Level to automatically level up all heroes on your account at once rather than leveling characters individually.",
+  "Combine heroes from the same School (such as Toxin or Rally) and matching seasonal Elemental Affinity to gain substantial team buffs."
+ ],
+ "season": "S1",
+ "server_scope": "S1",
+ "value": "medium",
+ "id": "WM4Je3TfTb0",
+ "model": "gemini-3.5-flash",
+ "channel": "Fastidious Dragonheir",
+ "title": "I Started Over...Completely F2P! ⁂ Dragonheir: Silent Gods",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=WM4Je3TfTb0",
+ "short": false,
+ "summarized": "2026-11-08T09:19Z"
+}

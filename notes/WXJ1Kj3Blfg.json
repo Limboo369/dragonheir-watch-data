@@ -1,0 +1,55 @@
+{
+ "summary": "This video serves as a reminder and guide for the Piece of Treasury event, which allows players to forge a custom mythic equipment piece. The creator discusses which gear slots, sets, and substats are most versatile and valuable across multiple game modes like Temporal Vortex and Continental Challenge. If players do not already own one from a previous season, the top recommendation is a Strike the Unprepared glove with Crit Damage primary and stacked Crit Rate substats. For players already possessing top-tier gloves, the creator demonstrates crafting an Arcane Eye's Requiem chestplate with ATK% primary and optimizing substats via smelting and resets.",
+ "topics": [
+  "Piece of Treasury",
+  "Equipment Forging",
+  "Gear Sets",
+  "Temporal Vortex",
+  "Smelting"
+ ],
+ "heroes": [
+  {
+   "name": "Talethia",
+   "verdict": "Top single-target DPS",
+   "note": "Serves as the primary single-target damage dealer for Temporal Vortex team 1, benefiting greatly from high Crit Rate, Crit Damage, and elemental synergy gear.",
+   "known": true
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "Best AoE DPS",
+   "note": "Remains the top AoE damage option for Temporal Vortex even at low inspiration, requiring Enlightenment and ATK%.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Temporal Vortex IV",
+   "heroes": [
+    "Talethia",
+    "Serpentemis"
+   ],
+   "note": "Requires two distinct teams: Team 1 focuses on single-target damage led by Talethia (or Dauntless/Aura), while Team 2 focuses on AoE damage spearheaded by Serpentemis."
+  }
+ ],
+ "meta_changes": [
+  "Dragonblood Brand and Calcined Ruin equipment sets become unavailable in the upcoming season (Season 9)."
+ ],
+ "tips": [
+  "If you do not already have one, the highest priority forge piece is Strike the Unprepared Gloves with Crit Damage primary and heavy Crit Rate substat rolls.",
+  "If you already have ideal gloves, consider forging an Arcane Eye's Requiem or Curse of the Fallen Chestplate with ATK% primary, Crit Rate, and Crit Damage.",
+  "Take advantage of the 3 free forge resets if the initial +20 substat rolls are unfavorable before using Goldmeltium to smelt.",
+  "When smelting secondary attributes with Goldmeltium, focus on pushing Crit Rate and Crit Damage past the threshold lines first rather than spreading resources too thin.",
+  "Keep in mind that custom mythic gear forged during the season can be converted/swapped into another piece next season."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "WXJ1Kj3Blfg",
+ "model": "gemini-3.8-flash",
+ "channel": "OddOneGaming RPGs",
+ "title": "🚨 LAST CHANCE AT THIS 🚨 Piece Of Treasury S8 BEST Picks & My Choice | Dragonheir x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=WXJ1Kj3Blfg",
+ "short": false,
+ "summarized": "2026-11-08T09:21Z"
+}

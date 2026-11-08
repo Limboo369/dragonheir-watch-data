@@ -1,0 +1,70 @@
+{
+ "summary": "The creator reviews the selectable legendary summons banner featuring Tariz while considering the upcoming release of Child of Chaos. Tariz is strongly recommended for players on competitive servers to secure high seasonal performance, ideally aiming for Inspiration 2. For players on less competitive servers, the creator advises saving Heliolite Dice for Child of Chaos, who acts as a top-tier universal support hero. The creator performs 300 summons on the Tariz banner, obtaining five legendary heroes (Gillian, Eurion, Nissa, Orfenna, and Victor) but deeming the session unlucky due to a lack of premium top-tier pulls.",
+ "topics": [
+  "Tariz",
+  "Child of Chaos",
+  "Selectable Summons",
+  "Summon Session"
+ ],
+ "heroes": [
+  {
+   "name": "Tariz",
+   "verdict": "High priority for competitive servers",
+   "note": "Crucial for achieving high rankings in the current season, ideally needing Inspiration 2 for optimal impact.",
+   "known": true
+  },
+  {
+   "name": "Child of Chaos",
+   "verdict": "Must-save universal support",
+   "note": "A versatile support character useful across all element teams; recommended to save dice for them if not heavily competing.",
+   "known": true
+  },
+  {
+   "name": "Eurion",
+   "verdict": "Defense tank hero",
+   "note": "Obtained as one of five legendary heroes during the 300-dice summon session.",
+   "known": true
+  },
+  {
+   "name": "Gillian",
+   "verdict": "Legendary hero",
+   "note": "Pulled during the 300-dice selectable banner session.",
+   "known": true
+  },
+  {
+   "name": "Nissa",
+   "verdict": "Legendary hero",
+   "note": "Pulled during the 300-dice selectable banner session.",
+   "known": true
+  },
+  {
+   "name": "Orfenna",
+   "verdict": "Legendary hero",
+   "note": "Pulled during the 300-dice selectable banner session.",
+   "known": true
+  },
+  {
+   "name": "Victor",
+   "verdict": "Legendary hero",
+   "note": "Pulled as the final legendary during the 300-dice summon session.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [],
+ "tips": [
+  "Pull for Tariz up to Inspiration 2 if your server is highly competitive for season standings.",
+  "Save your summon resources for Child of Chaos if your server environment is casual or non-competitive."
+ ],
+ "season": "S9",
+ "server_scope": "mixed",
+ "value": "medium",
+ "id": "VAbS6Cf5Y4I",
+ "model": "gemini-3.5-flash",
+ "channel": "Skyasterix Gaming",
+ "title": "⚠️ TARIZ Summon — GOOD or Another SCAM?! | Dragonheir: Silent Gods",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=VAbS6Cf5Y4I",
+ "short": false,
+ "summarized": "2026-11-08T09:20Z"
+}
