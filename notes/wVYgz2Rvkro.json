@@ -1,0 +1,61 @@
+{
+ "summary": "Holfast is a new Legendary Radiance Aura hero functioning as an Aura Energy battery and damage buffer. His kit exclusively empowers allied Aura heroes with continuous Aura Energy generation, offensive buffs, and coordinated Radiant damage procs during his Ultimate field. He excels alongside Aura carries like Talethia and synergy supports like Anneliesis. Players running Aura teams should pull him, while players without an Aura lineup should skip.",
+ "topics": [
+  "Holfast",
+  "Hero Review",
+  "Aura",
+  "Selected Summon",
+  "Best Teammates"
+ ],
+ "heroes": [
+  {
+   "name": "Holfast",
+   "verdict": "Must-pull for Aura teams, skip otherwise",
+   "note": "Acts as an Aura Energy engine and damage buffer whose entire kit relies on and boosts allied Aura heroes.",
+   "known": true
+  },
+  {
+   "name": "Talethia",
+   "verdict": "Top teammate",
+   "note": "Functions as a premier Aura damage carry that directly benefits from Holfast's energy generation and attack buffs.",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "Top teammate",
+   "note": "Restores 30 Aura Energy to Radiance heroes with her battle skill, accelerating Holfast's passive engine.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "General Aura Team",
+   "heroes": [
+    "Holfast",
+    "Talethia",
+    "Anneliesis"
+   ],
+   "note": "Anneliesis rapidly fuels Holfast's Aura Energy bar, enabling Holfast to pump energy and 30% ultimate damage buffs into Talethia."
+  }
+ ],
+ "meta_changes": [
+  "Introduction of Holfast strengthens the Aura school by providing dedicated Aura Energy recharging and team-wide damage amplification.",
+  "Season 9 features the Frostlight elemental affinity pairing Ice and Radiance together."
+ ],
+ "tips": [
+  "Only pull for Holfast if you already run or plan to run Aura champions, as his kit does nothing for non-Aura units.",
+  "Holfast's Selected Summon II banner runs from November 8 to November 13.",
+  "Anneliesis returns on a 300-summon banner from November 8 until November 22."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "wVYgz2Rvkro",
+ "model": "gemini-3.8-flash",
+ "channel": "liveranov",
+ "title": "Is Holfast Worth It? Full Kit, Ratings & Best Teammates | New Aura Hero | Dragonheir: Silent Gods",
+ "published": "2026-11-07T17:05:57+00:00",
+ "url": "https://www.youtube.com/watch?v=wVYgz2Rvkro",
+ "short": false,
+ "summarized": "2026-11-08T00:21Z"
+}

@@ -1,12 +1,12 @@
 {
- "built": "2026-11-08T00:20Z",
+ "built": "2026-11-08T00:22Z",
  "last_fetch": "2026-11-08T00:17Z",
  "counts": {
-  "summarized": 333,
+  "summarized": 334,
   "skipped_giveaway": 17,
   "baseline": 22,
-  "new": 286,
-  "retry": 7,
+  "new": 284,
+  "retry": 8,
   "skipped_live": 1,
   "failed": 3
  },
@@ -70,21 +70,21 @@
    "channel": "Skyasterix Gaming",
    "status": "failed",
    "error": "403 PERMISSION_DENIED. {'error': {'code': 403, 'message': 'The caller does not have permission', 'status': 'PERMISSION_DENIED'}}"
+  },
+  {
+   "title": "🔥 Season 9 Second CROWN BATTLE Code: SKYASTERIX | Dragonheir: Silent Gods",
+   "channel": "Skyasterix Gaming",
+   "status": "retry",
+   "error": ""
   }
  ],
  "budget": {
   "day": "2026-11-08",
-  "seconds": 3598,
+  "seconds": 2398,
   "v2": 1,
-  "quota_hit": 1794097089.9469247
+  "quota_hit": 1794097354.8651013
  },
  "log_tail": [
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (436 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 330 videos, 212 heroes",
-  "== 2026-11-07 16:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "daily video budget used (436 min), waiting for tomorrow",
   "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 330 videos, 212 heroes",
@@ -158,7 +158,13 @@
   "! COMPLETE SUMMONING GUIDE! All Must-Know Pulls TIPS: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
   "! Thunderbolt Team vs Fire Guardians | Crown Contest: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
   "saved cIE3zxn4cP4",
-  "+ Skratch Gaming: I Lost So Much Damage! The New Vortex Changes Explained... D"
+  "+ Skratch Gaming: I Lost So Much Damage! The New Vortex Changes Explained... D",
+  "saved wVYgz2Rvkro",
+  "+ liveranov: Is Holfast Worth It? Full Kit, Ratings & Best Teammates | Ne",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
+  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
+  "! 🔥 Season 9 Second CROWN BATTLE Code: SKYASTERIX | : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g"
  ],
  "crontab": [],
  "channels": [
