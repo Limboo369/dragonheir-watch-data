@@ -1,5 +1,5 @@
 {
- "built": "2026-11-08T00:22Z",
+ "built": "2026-11-08T01:00Z",
  "last_fetch": "2026-11-08T00:17Z",
  "counts": {
   "summarized": 334,
@@ -85,7 +85,6 @@
   "quota_hit": 1794097354.8651013
  },
  "log_tail": [
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "daily video budget used (436 min), waiting for tomorrow",
   "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 330 videos, 212 heroes",
   "mv: cannot stat '.ytwatch.py.new': No such file or directory",
@@ -164,7 +163,8 @@
   "  gemini-3.8-flash: 429, using gemini-3.5-flash",
   "  gemini-3.5-flash: 429, using gemini-3.7-flash",
   "  gemini-3.7-flash: 429, using gemini-3.6-flash",
-  "! 🔥 Season 9 Second CROWN BATTLE Code: SKYASTERIX | : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g"
+  "! 🔥 Season 9 Second CROWN BATTLE Code: SKYASTERIX | : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 334 videos, 212 heroes"
  ],
  "crontab": [],
  "channels": [
