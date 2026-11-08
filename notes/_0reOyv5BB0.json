@@ -1,0 +1,41 @@
+{
+ "summary": "OddOneGaming reviews the teaser trailer for Child of Chaos, an upcoming hero featuring a unique Element Switch Mechanic. This mechanic allows Child of Chaos to align with any of the six elements, offering unprecedented team composition flexibility. In-game gameplay footage shows melee attack animations, Attack Penalty debuffs, and a cinematic ultimate. The creator advises players to start saving 300 Heliolite Dice in anticipation of a dedicated banner.",
+ "topics": [
+  "Child of Chaos",
+  "Element Switch Mechanic",
+  "Hero Teaser",
+  "Saving Dice"
+ ],
+ "heroes": [
+  {
+   "name": "Child of Chaos",
+   "verdict": "Highly versatile future meta hero",
+   "note": "Features an Element Switch Mechanic allowing alignment with all six elements, alongside Attack Penalty debuffs.",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "Example of unique hero design",
+   "note": "Highlighted as a unique Radiant support unit possessing dual element affinity traits.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [
+  "Introduction of the Element Switch Mechanic enabling a single hero to be used across all six elements."
+ ],
+ "tips": [
+  "Keep at least 300 Heliolite Dice saved for the expected Child of Chaos banner."
+ ],
+ "season": "unknown",
+ "server_scope": "mixed",
+ "value": "medium",
+ "id": "_0reOyv5BB0",
+ "model": "gemini-3.6-flash",
+ "channel": "OddOneGaming RPGs",
+ "title": "💥 THIS WILL CHANGE THE GAME FOREVER! 💥Child Of Chaos First Look Video | Dragonheir x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=_0reOyv5BB0",
+ "short": false,
+ "summarized": "2026-11-08T06:17Z"
+}

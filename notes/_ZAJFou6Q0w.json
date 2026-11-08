@@ -1,0 +1,71 @@
+{
+ "summary": "This video showcases a Thunderbolt element team competing in the Crown Contest against Fire Guardians. The featured lineup of Tariz, Perkunte, Maashtur, Alaura, and Sha'nachtan reaches over 6.19 billion total damage. Detailed end-of-run gear and stat priorities are shown for every hero, focusing on Enlightenment, Accuracy, and HP.",
+ "topics": [
+  "Crown Contest",
+  "Thunderbolt",
+  "Fire Guardians",
+  "Team Showcase",
+  "Hero Builds"
+ ],
+ "heroes": [
+  {
+   "name": "Tariz",
+   "verdict": "Crown Contest Thunderbolt Support",
+   "note": "Built prioritizing Accuracy and equipped with the Witches set.",
+   "known": true
+  },
+  {
+   "name": "Perkunte",
+   "verdict": "Crown Contest Thunderbolt DPS",
+   "note": "Built with full Enlightenment and Attack stats.",
+   "known": true
+  },
+  {
+   "name": "Maashtur",
+   "verdict": "Crown Contest Thunderbolt Tank",
+   "note": "Built with full HP and some Accuracy.",
+   "known": true
+  },
+  {
+   "name": "Alaura",
+   "verdict": "Crown Contest Thunderbolt DPS",
+   "note": "Built with full Enlightenment stats.",
+   "known": true
+  },
+  {
+   "name": "Sha'nachtan",
+   "verdict": "Crown Contest Thunderbolt Support",
+   "note": "Built with a focus on Accuracy.",
+   "known": false
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Crown Contest",
+   "heroes": [
+    "Tariz",
+    "Perkunte",
+    "Maashtur",
+    "Alaura",
+    "Sha'nachtan"
+   ],
+   "note": "Deals over 6.19 billion damage against Elemental Guardian - Fire."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Build Perkunte and Alaura with full Enlightenment for maximum Thunderbolt damage performance in boss fights.",
+  "Ensure debuffers like Tariz and Sha'nachtan have sufficient Accuracy to land their skills against high-resistance bosses."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "_ZAJFou6Q0w",
+ "model": "gemini-3.5-flash",
+ "channel": "liveranov",
+ "title": "Thunderbolt Team vs Fire Guardians | Crown Contest | Dragonheir | Season 8",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=_ZAJFou6Q0w",
+ "short": false,
+ "summarized": "2026-11-08T06:17Z"
+}

@@ -1,0 +1,113 @@
+{
+ "summary": "Gorax presents a comprehensive guide for defeating the Continental Challenge boss Talethia. The guide highlights how to trigger Talethia's 50% damage boost by bringing heroes of three different elements while accumulating Enlightenment damage stacks. Gorax details build strategies and skill timing for the Thunderbolt team led by Perkunte, breaking down damage differences across various Inspiration levels for Rena, Tariz, Alaura, and Solmo, alongside a budget team alternative.",
+ "topics": [
+  "Continental Challenge",
+  "Talethia Boss Guide",
+  "Thunderbolt Team",
+  "Hero Inspirations"
+ ],
+ "heroes": [
+  {
+   "name": "Perkunte",
+   "verdict": "Top Tier DPS for Talethia",
+   "note": "Acts as the primary Enlightenment damage dealer, scaling heavily with team Haste and Inspiration.",
+   "known": true
+  },
+  {
+   "name": "Rena",
+   "verdict": "Best Radiance Tank and Healer",
+   "note": "Provides vital team shielding and healing; reaching Inspiration 3 grants a 15% Max HP buff to allies that drastically boosts team survival.",
+   "known": true
+  },
+  {
+   "name": "Journ",
+   "verdict": "Essential Fire Support",
+   "note": "Triggers the 3-element team bonus, shares team Accuracy with Reverie of Carcass, and delays boss ultimates using Punisher's Whip.",
+   "known": true
+  },
+  {
+   "name": "Alaura",
+   "verdict": "Strong Thunderbolt DPS and Support",
+   "note": "Deals solid damage and benefits significantly at Inspiration 2 and 5.",
+   "known": true
+  },
+  {
+   "name": "Tariz",
+   "verdict": "Key Thunderbolt Buffer",
+   "note": "Inspiration 2 grants extra Lightning Chain procs, significantly increasing overall damage output.",
+   "known": true
+  },
+  {
+   "name": "Solmo",
+   "verdict": "Top Replacement for Rena",
+   "note": "Serves as an effective Radiance shielder and healer when Rena is unavailable.",
+   "known": true
+  },
+  {
+   "name": "Shai'nachtan",
+   "verdict": "Budget Support Pick",
+   "note": "Applies Witches' Remain and team buffs when replacing Tariz or Journ in budget setups.",
+   "known": true
+  },
+  {
+   "name": "Crisis",
+   "verdict": "Budget Fire Utility Tank",
+   "note": "Provides the Fire element requirement for the 3-element bonus while dispelling boss buffs.",
+   "known": false
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Continental Challenge - Talethia (Meta Team)",
+   "heroes": [
+    "Perkunte",
+    "Alaura",
+    "Tariz",
+    "Rena",
+    "Journ"
+   ],
+   "note": "Triggers 3-element 50% damage boost (Lightning, Radiance, Fire) with max Haste and skill timing delay on Perkunte and Alaura."
+  },
+  {
+   "mode": "Continental Challenge - Talethia (Solmo Variant)",
+   "heroes": [
+    "Perkunte",
+    "Alaura",
+    "Tariz",
+    "Solmo",
+    "Journ"
+   ],
+   "note": "Uses Solmo instead of Rena for strong shielding and survival, running a 15-second skill rotation."
+  },
+  {
+   "mode": "Continental Challenge - Talethia (Budget Team)",
+   "heroes": [
+    "Perkunte",
+    "Alaura",
+    "Solmo",
+    "Shai'nachtan",
+    "Crisis"
+   ],
+   "note": "F2P-friendly team reaching around 477M+ damage with an 18-second skill rotation and full defensive builds."
+  }
+ ],
+ "meta_changes": [
+  "Talethia boss mechanic rewards non-DoT Enlightenment skill hits with 1% ATK per stack (up to 40) and grants a 50% damage increase when using heroes of 3 different elements."
+ ],
+ "tips": [
+  "At lower team Inspirations, prioritize defensive gear (HP%, DEF%, Sacred River's Revelation) on supports over pure DPS gear to prevent wipes.",
+  "Equip Journ with Punisher's Whip and high Accuracy so Reverie of Carcass shares Accuracy across the whole team while suppressing boss energy.",
+  "Delay Perkunte and Alaura's first ultimate cast slightly (e.g. 10.0s / 9.6s) to align skills efficiently before setting the rest to Default auto."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "YTnxsHN9mR0",
+ "model": "gemini-3.6-flash",
+ "channel": "Gorax",
+ "title": "Talethia - THE BEST Teams & Strategy | Continental Challenge | Dragonheir x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=YTnxsHN9mR0",
+ "short": false,
+ "summarized": "2026-11-08T06:18Z"
+}

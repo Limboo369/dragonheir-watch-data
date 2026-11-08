@@ -1,0 +1,86 @@
+{
+ "summary": "Gorax evaluates the newly released Thunderbolt hero Tariz and addresses whether players should summon for him or save dice for the upcoming anniversary hero, Child of Chaos. Tariz functions primarily as a debuffer who applies Lightning Vulnerability and reduces enemy speed, enabling Thunderbolt teams to achieve massive damage even at low investment. On CN server endgame boss tests, high-end Thunderbolt teams with Tariz outperformed Burn and Aura teams, falling only behind Toxin. Gorax advises players with established Thunderbolt rosters to pull at least one copy of Tariz, while everyone else should save all dice for the universal and limited Child of Chaos.",
+ "topics": [
+  "Tariz",
+  "Child of Chaos",
+  "Summoning Strategy",
+  "Continental Challenge",
+  "Thunderbolt Team"
+ ],
+ "heroes": [
+  {
+   "name": "Tariz",
+   "verdict": "Pull 1 copy if invested in Thunderbolt; skip if not",
+   "note": "Acts as an essential Thunderbolt debuffer inflicting Lightning Vulnerability and attack/recharge speed reduction rather than pure DPS.",
+   "known": true
+  },
+  {
+   "name": "Child of Chaos",
+   "verdict": "Must-save priority",
+   "note": "An upcoming limited anniversary hero usable across all elements who is expected to shift the meta significantly.",
+   "known": true
+  },
+  {
+   "name": "Perkunte",
+   "verdict": "Core damage dealer",
+   "note": "Serves as the primary DPS in Thunderbolt compositions and scales massively with inspirations.",
+   "known": true
+  },
+  {
+   "name": "Solmo",
+   "verdict": "Great budget replacement",
+   "note": "Performs very well as an alternative support to Rena in low-investment Thunderbolt boss teams.",
+   "known": true
+  },
+  {
+   "name": "Shai'nachtan",
+   "verdict": "Viable alternative",
+   "note": "Can still achieve around 500M damage in Thunderbolt boss setups without running Tariz.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Continental Challenge",
+   "heroes": [
+    "Perkunte",
+    "Alaura",
+    "Tariz",
+    "Rena",
+    "Aemonleyda"
+   ],
+   "note": "Low-investment Thunderbolt composition that achieved 947M damage against Talethia on CN server tests and 368M on test server with zero inspirations and basic gear."
+  },
+  {
+   "mode": "Continental Challenge",
+   "heroes": [
+    "Perkunte",
+    "Alaura",
+    "Tariz",
+    "Solmo",
+    "Aemonleyda"
+   ],
+   "note": "Budget variant swapping Rena for Solmo, hitting roughly 820M damage on the CN server."
+  }
+ ],
+ "meta_changes": [
+  "Thunderbolt teams at whale tier surpass Aura and Burn compositions on endgame season bosses, second only to Toxin teams.",
+  "Child of Chaos is anticipated to reshape multi-element team building and top-tier damage rankings upon release."
+ ],
+ "tips": [
+  "Build Tariz with high Accuracy, the Puppeteer gear set, and the Misty Conch artifact instead of Witches Remains.",
+  "Save all dice for the limited Child of Chaos banner unless you already have a fully functioning Thunderbolt core team.",
+  "Do not over-invest in speed-tuning Thunderbolt teams for Continental Challenge, as most skills perform effectively on default auto timings."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "_VJMlnXN25w",
+ "model": "gemini-3.8-flash",
+ "channel": "Gorax",
+ "title": "Save Your Dice or Summon NOW? | Child of Chaos Is Coming | Dragonheir",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=_VJMlnXN25w",
+ "short": false,
+ "summarized": "2026-11-08T06:20Z"
+}
