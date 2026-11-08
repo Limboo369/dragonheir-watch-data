@@ -1,0 +1,125 @@
+{
+ "summary": "This guide outlines optimal summoning strategies and top team compositions for progression in Dragonheir: Silent Gods. Content creators Fastidious and OddOneGaming explain how players should transition from building 1-2 core teams in early game to 6 teams for late-season Continental Challenges. The five primary meta schools recommended to focus on are Aura, Ice Blast, Dauntless, Toxin, and Burn. Key summoning advice emphasizes saving at least 300 Heliolite Dice to guarantee desired Premium Legendaries via Option Summons or Wish/Echo banners, while avoiding low-guarantee seasonal banners.",
+ "topics": [
+  "summoning guide",
+  "banners",
+  "team building",
+  "progression",
+  "damage schools"
+ ],
+ "heroes": [
+  {
+   "name": "Talethia",
+   "verdict": "Top pick for Aura teams",
+   "note": "Essential Premium Radiant DPS whose damage scales off HP, granting high durability alongside massive DPS.",
+   "known": true
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "Best AoE DPS in the game",
+   "note": "Top-tier Toxin damage dealer who excels even at Inspiration 0 alongside enablers Durango and Twitch.",
+   "known": true
+  },
+  {
+   "name": "Guinavivre",
+   "verdict": "Top Dauntless DPS",
+   "note": "Current premier damage dealer for Dauntless teams, outperforming Nastjenka as the primary DPS.",
+   "known": true
+  },
+  {
+   "name": "Nastjenka",
+   "verdict": "Core Dauntless enabler and sub-DPS",
+   "note": "Excellent attack speed buffer and sub-DPS that pairs with Guinavivre to maximize Dauntless output.",
+   "known": true
+  },
+  {
+   "name": "Durem",
+   "verdict": "Premier Burn DPS",
+   "note": "Non-premium Legendary with higher pull weight who acts as the primary damage engine for Burn teams.",
+   "known": true
+  },
+  {
+   "name": "Ernesto",
+   "verdict": "Top Ice Blast unit",
+   "note": "Premium Ice Blast Legendary who provides strong defensive shields alongside high Cold damage.",
+   "known": true
+  },
+  {
+   "name": "Saverio",
+   "verdict": "Top Shadow DPS for Arena",
+   "note": "Necrosis damage dealer who excels at AoE burst damage and crowd control in PvP.",
+   "known": true
+  },
+  {
+   "name": "Acilia",
+   "verdict": "Top-tier Radiant support",
+   "note": "High-priority support Legendary targeted via Wish banner milestones for debuff immunity and healing.",
+   "known": true
+  },
+  {
+   "name": "Felosia",
+   "verdict": "Top-tier Frost support",
+   "note": "Premium Frost support providing massive shields and survivability, highly recommended on Wish banners.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "General Progression / Continental Challenges",
+   "heroes": [
+    "Talethia",
+    "Diantha",
+    "Lincos"
+   ],
+   "note": "Core 3-man Aura shell offering extreme durability and top single-target and AoE DPS."
+  },
+  {
+   "mode": "General Progression / Continental Challenges",
+   "heroes": [
+    "Serpentemis",
+    "Durango",
+    "Twitch"
+   ],
+   "note": "Premier Toxin team providing massive AoE poison damage and resistance reduction."
+  },
+  {
+   "mode": "Single Target / Temporal Vortex",
+   "heroes": [
+    "Guinavivre",
+    "Nastjenka",
+    "Kurvida"
+   ],
+   "note": "High-octane Dauntless core delivering immense single-target attack speed and penetration."
+  },
+  {
+   "mode": "General Progression / Continental Challenges",
+   "heroes": [
+    "Durem",
+    "Paixton",
+    "Vyressa"
+   ],
+   "note": "High-damage Burn comp utilizing Durem as the primary non-premium Legendary carry."
+  }
+ ],
+ "meta_changes": [
+  "Aura, Toxin, Burn, Ice Blast, and Dauntless represent the top 5 damage schools in the meta.",
+  "Wild and Frost damage schools have experienced powercreep in late-game progression compared to newer schools."
+ ],
+ "tips": [
+  "Focus on building 1-2 strong teams for Phase 1 dungeons and Temporal Vortex before expanding to 6 teams for late-season Continental Challenges.",
+  "Always save at least 300 Heliolite Dice before pulling on Option Summons or Wish/Echo banners to guarantee your target Legendary hero.",
+  "Free-to-play players earn approximately 900 Heliolite Dice per season, enough to hit the 300-pity milestone on 3 key banners.",
+  "Avoid pulling on 800-pity seasonal targeted support banners unless you are a heavy spender."
+ ],
+ "season": "S9",
+ "server_scope": "mixed",
+ "value": "high",
+ "id": "_bYvuY0lj4w",
+ "model": "gemini-3.5-flash",
+ "channel": "Fastidious Dragonheir",
+ "title": "COMPLETE SUMMONING GUIDE! All Must-Know Pulls TIPS ft. @OddOneGaming RPGs ⁂ Dragonheir: Silent Gods",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=_bYvuY0lj4w",
+ "short": false,
+ "summarized": "2026-11-08T04:18Z"
+}
