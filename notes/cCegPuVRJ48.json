@@ -1,0 +1,36 @@
+{
+ "summary": "The Starwave Echo event allows players to convert up to 50 unused Legendary Hero Imprints into Starwave Fragments at a rate of 12 fragments per imprint. Exchanging the maximum of 50 imprints yields 600 Starwave Fragments, which can be spent in the Temporal Corridor Lingering Echo shop. Exclusive support heroes cost 800 fragments, whereas exclusive DPS heroes cost 300 fragments. The creator recommends saving for exclusive supports since they are much harder to obtain, though players can also opt for two exclusive DPS heroes if they do not plan to use the available supports.",
+ "topics": [
+  "Starwave Echo",
+  "Imprint Exchange",
+  "Temporal Corridor",
+  "Lingering Echo Shop"
+ ],
+ "heroes": [
+  {
+   "name": "Rhash",
+   "verdict": "Safe imprint exchange candidate",
+   "note": "Unused duplicate imprints can be recycled during the event into Starwave Fragments.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [
+  "Introduction of the Starwave Echo event allowing players to convert duplicate Legendary Imprints into Starwave Fragments for the Temporal Corridor shop."
+ ],
+ "tips": [
+  "Exchange duplicate Legendary Imprints during Starwave Echo to earn up to 600 Starwave Fragments (12 per imprint, maximum 50 imprints).",
+  "Prioritize saving Starwave Fragments for exclusive support heroes (800 fragments) over exclusive DPS heroes (300 fragments), as supports are much harder to acquire."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "cCegPuVRJ48",
+ "model": "gemini-3.6-flash",
+ "channel": "Gorax",
+ "title": "The Feature Dragonheir Players Have Been Waiting For! | Dragonheir",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=cCegPuVRJ48",
+ "short": false,
+ "summarized": "2026-11-08T00:17Z"
+}

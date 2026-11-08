@@ -1,0 +1,54 @@
+{
+ "summary": "This video breaks down the Sep 1 patch changes to the Temporal Vortex Cloudtop Arbor (Arbor Hydra Noctuaa / Diurna) boss fight. The update added a blocked tile to prevent manual egg manipulation and reduced the number of eggs spawned during the boss's weakened phase from 4 to 3. This resulted in a massive damage nerf to AoE-focused teams, especially Toxin (Serpentemis) teams whose damage fell by nearly 50%. Skratch tests optimal board positioning to salvage Toxin DPS and covers strategy tips for the Bloom & Bounty event.",
+ "topics": [
+  "Temporal Vortex",
+  "Bloom & Bounty",
+  "Patch Notes",
+  "Boss Mechanics",
+  "Toxin Team"
+ ],
+ "heroes": [
+  {
+   "name": "Serpentemis",
+   "verdict": "Heavy AoE damage loss in Vortex",
+   "note": "Takes a massive damage hit in Temporal Vortex Noctuaa because fewer eggs spawn during vulnerable boss phases and egg placement cannot be grouped as tightly.",
+   "known": true
+  },
+  {
+   "name": "Reytah",
+   "verdict": "Core Toxin team member",
+   "note": "Requires precise grid positioning to handle egg knockbacks and maintain optimal AoE target coverage.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Temporal Vortex - Cloudtop Arbor (Noctuaa)",
+   "heroes": [
+    "Serpentemis",
+    "Reytah",
+    "Stegamoffyn"
+   ],
+   "note": "Toxin team DPS dropped from 13.8B down to ~7.6B-8.5B following the egg spawn count and grid layout patch."
+  }
+ ],
+ "meta_changes": [
+  "Temporal Vortex Noctuaa blocked a key grid tile next to the boss head, disabling the strategy of forcing eggs to spawn tightly grouped together.",
+  "Arbor Hydra Noctuaa now spawns 3 eggs instead of 4 while under vulnerable penalty states, significantly reducing total AoE damage output for all teams."
+ ],
+ "tips": [
+  "In the Bloom & Bounty event, allow Exotic Blooms to complete their entire 10-hour growth cycle to reach maturity before harvesting to maximize Mythic gear drop rates.",
+  "Reposition heroes in a straight grid line in Temporal Vortex Noctuaa to maximize AoE damage coverage across the newly spaced-out egg spawns."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "cIE3zxn4cP4",
+ "model": "gemini-3.5-flash",
+ "channel": "Skratch Gaming",
+ "title": "I Lost So Much Damage! The New Vortex Changes Explained... Dragonheir: Silent Gods x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=cIE3zxn4cP4",
+ "short": false,
+ "summarized": "2026-11-08T00:18Z"
+}

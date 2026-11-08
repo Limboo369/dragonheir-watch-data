@@ -1,0 +1,35 @@
+{
+ "summary": "Gorax previews the upcoming hero Child of Chaos in Dragonheir: Silent Gods, showcasing his character model, element switch mechanic, skill visual effects, and ultimate animation. Based on the preview, Child of Chaos is expected to be a highly versatile support hero who can change elements, inflict Attack Penalty, and apply enemy control or debuffs. Gorax recommends saving Heliolite Dice for his release.",
+ "topics": [
+  "Child of Chaos",
+  "hero preview",
+  "Element Switch Mechanic",
+  "skills preview"
+ ],
+ "heroes": [
+  {
+   "name": "Child of Chaos",
+   "verdict": "High priority save",
+   "note": "A highly versatile support hero featuring an Element Switch mechanic, Attack Penalty application, and strong debuff/control skill effects.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [
+  "Introduction of Child of Chaos featuring a multi-element switch mechanic."
+ ],
+ "tips": [
+  "Save Heliolite Dice for the release of Child of Chaos due to his element versatility and strong support kit."
+ ],
+ "season": "unknown",
+ "server_scope": "S1",
+ "value": "medium",
+ "id": "adV5w1W9Yag",
+ "model": "gemini-3.6-flash",
+ "channel": "Gorax",
+ "title": "Child of Chaos REVEALED! | New Hero Skills & Design | Dragonheir",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=adV5w1W9Yag",
+ "short": false,
+ "summarized": "2026-11-08T00:18Z"
+}

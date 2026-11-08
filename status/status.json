@@ -1,20 +1,63 @@
 {
- "built": "2026-11-08T00:10Z",
- "last_fetch": "2026-11-07T23:17Z",
+ "built": "2026-11-08T00:20Z",
+ "last_fetch": "2026-11-08T00:17Z",
  "counts": {
-  "summarized": 330,
+  "summarized": 333,
   "skipped_giveaway": 17,
   "baseline": 22,
-  "new": 296,
+  "new": 286,
+  "retry": 7,
   "skipped_live": 1,
   "failed": 3
  },
  "problems": [
   {
+   "title": "COMPLETE SUMMONING GUIDE! All Must-Know Pulls TIPS ft. @OddOneGaming RPGs ⁂ Dragonheir: Silent Gods",
+   "channel": "Fastidious Dragonheir",
+   "status": "retry",
+   "error": ""
+  },
+  {
    "title": "Season 9 NEW INFO: 2 Free Heroes, New Affinities & Selectable Banner! | Dragonheir: Silent Gods",
    "channel": "liveranov",
    "status": "failed",
    "error": "Expecting value: line 1 column 1 (char 0)"
+  },
+  {
+   "title": "I Went ALL IN on Dragon Crown Homage for the Dark Lady Figurine… and Got SO Much More! | Dragonheir",
+   "channel": "Gorax",
+   "status": "retry",
+   "error": ""
+  },
+  {
+   "title": "SAVE YOUR DICE! Child of Chaos Is Coming in 5 Days! | Dragonheir x Dragonstride",
+   "channel": "Gorax",
+   "status": "retry",
+   "error": ""
+  },
+  {
+   "title": "MORE HELIOLITE FOR ALL! x15 🧡 QUIZ PROMO CODE #2 🎁 3rd Anniversary Event🔥 Dragonheir x Dragonstride",
+   "channel": "Suzi Plays",
+   "status": "retry",
+   "error": ""
+  },
+  {
+   "title": "🔥NEW S9 AURA HERO: Will He Become the NEW META? 👀 Skills Revealed! | Dragonheir: Silent Gods",
+   "channel": "Skyasterix Gaming",
+   "status": "retry",
+   "error": ""
+  },
+  {
+   "title": "Thunderbolt Team (lvl 300) vs Fire Guardians | Crown Contest | Dragonheir | Season 8",
+   "channel": "liveranov",
+   "status": "retry",
+   "error": ""
+  },
+  {
+   "title": "Thunderbolt Team vs Fire Guardians | Crown Contest | Dragonheir | Season 8",
+   "channel": "liveranov",
+   "status": "retry",
+   "error": ""
   },
   {
    "title": "🔥 Season 9 FIRST CROWN CONTEST! Code: SKYASTERIX | Dragonheir: Silent Gods",
@@ -30,44 +73,12 @@
   }
  ],
  "budget": {
-  "day": "2026-11-07",
-  "seconds": 26190,
+  "day": "2026-11-08",
+  "seconds": 3598,
   "v2": 1,
-  "quota_hit": 1794043106.3933399
+  "quota_hit": 1794097089.9469247
  },
  "log_tail": [
-  "Gemini quota was full less than an hour ago, trying again next round",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 328 videos, 211 heroes",
-  "== 2026-11-07 11:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "… Gorax: How to Get FREE LEGENDARY Heroes & MASSIVE Rewards on Day 1!",
-  "… Neff Gaming: Options Summons II - Something That I Will Remember! | Drago",
-  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
-  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
-  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
-  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
-  "saved cZ3Mg26_W5k",
-  "+ Gorax: How to Get FREE LEGENDARY Heroes & MASSIVE Rewards on Day 1!",
-  "saved cJ24cJf9Oh0",
-  "+ Neff Gaming: Options Summons II - Something That I Will Remember! | Drago",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 330 videos, 212 heroes",
-  "== 2026-11-07 12:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (436 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 330 videos, 212 heroes",
-  "== 2026-11-07 13:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (436 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 330 videos, 212 heroes",
-  "== 2026-11-07 14:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (436 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 330 videos, 212 heroes",
-  "== 2026-11-07 15:17",
   "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "daily video budget used (436 min), waiting for tomorrow",
@@ -115,7 +126,39 @@
   "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "daily video budget used (436 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 330 videos, 212 heroes"
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 330 videos, 212 heroes",
+  "== 2026-11-08 00:17",
+  "fetch done: 0 new transcripts, 0 not available yet",
+  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
+  "… liveranov: Is Holfast Worth It? Full Kit, Ratings & Best Teammates | Ne",
+  "… Skyasterix Gaming: 🔥 Season 9 Second CROWN BATTLE Code: SKYASTERIX | Dragonheir",
+  "… Skratch Gaming: I Lost So Much Damage! The New Vortex Changes Explained... D",
+  "… Gorax: The Feature Dragonheir Players Have Been Waiting For! | Drag",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
+  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
+  "… Gorax: I Went ALL IN on Dragon Crown Homage for the Dark Lady Figur",
+  "saved cCegPuVRJ48",
+  "+ Gorax: The Feature Dragonheir Players Have Been Waiting For! | Drag",
+  "… Skyasterix Gaming: 🔥NEW S9 AURA HERO: Will He Become the NEW META? 👀 Skills Rev",
+  "! I Went ALL IN on Dragon Crown Homage for the Dark : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+  "… liveranov: Thunderbolt Team (lvl 300) vs Fire Guardians | Crown Contest",
+  "! 🔥NEW S9 AURA HERO: Will He Become the NEW META? 👀 : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+  "… Gorax: Child of Chaos REVEALED! | New Hero Skills & Design | Dragon",
+  "! Thunderbolt Team (lvl 300) vs Fire Guardians | Cro: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+  "… Gorax: SAVE YOUR DICE! Child of Chaos Is Coming in 5 Days! | Dragon",
+  "saved adV5w1W9Yag",
+  "+ Gorax: Child of Chaos REVEALED! | New Hero Skills & Design | Dragon",
+  "… Suzi Plays: MORE HELIOLITE FOR ALL! x15 🧡 QUIZ PROMO CODE #2 🎁 3rd Anniv",
+  "! SAVE YOUR DICE! Child of Chaos Is Coming in 5 Days: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+  "… Fastidious Dragonheir: COMPLETE SUMMONING GUIDE! All Must-Know Pulls TIPS ft. @OddO",
+  "! MORE HELIOLITE FOR ALL! x15 🧡 QUIZ PROMO CODE #2 🎁: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+  "… liveranov: Thunderbolt Team vs Fire Guardians | Crown Contest | Dragonh",
+  "! COMPLETE SUMMONING GUIDE! All Must-Know Pulls TIPS: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+  "! Thunderbolt Team vs Fire Guardians | Crown Contest: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+  "saved cIE3zxn4cP4",
+  "+ Skratch Gaming: I Lost So Much Damage! The New Vortex Changes Explained... D"
  ],
  "crontab": [],
  "channels": [
@@ -123,55 +166,55 @@
    "name": "Skratch Gaming",
    "id": "UCoSkzr1pXpt3d0jIxsc6ufw",
    "enabled": true,
-   "checked": "2026-11-07T23:17Z"
+   "checked": "2026-11-08T00:17Z"
   },
   {
    "name": "Gorax",
    "id": "UCNas7BnuOIjDEzY1D53kb1w",
    "enabled": true,
-   "checked": "2026-11-07T23:17Z"
+   "checked": "2026-11-08T00:17Z"
   },
   {
    "name": "Neff Gaming",
    "id": "UCsxs6YhNd_B36RgUAjbpJ_A",
    "enabled": true,
-   "checked": "2026-11-07T23:17Z"
+   "checked": "2026-11-08T00:17Z"
   },
   {
    "name": "Volkin Dragonheir",
    "id": "UCfRpOh_ywVjzhh9fxHbreGw",
    "enabled": true,
-   "checked": "2026-11-07T23:17Z"
+   "checked": "2026-11-08T00:17Z"
   },
   {
    "name": "Fastidious Dragonheir",
    "id": "UC16mpj5wEemSZX-uTlHe9Ww",
    "enabled": true,
-   "checked": "2026-11-07T23:17Z"
+   "checked": "2026-11-08T00:17Z"
   },
   {
    "name": "OddOneGaming RPGs",
    "id": "UC1ivUEf_poI9_R2eVKa8wRQ",
    "enabled": true,
-   "checked": "2026-11-07T23:17Z"
+   "checked": "2026-11-08T00:17Z"
   },
   {
    "name": "Suzi Plays",
    "id": "UCyo1-TkunhGcK6khU1h8Ypw",
    "enabled": true,
-   "checked": "2026-11-07T23:17Z"
+   "checked": "2026-11-08T00:17Z"
   },
   {
    "name": "Skyasterix Gaming",
    "id": "UCr5Gb3910rK7QPmKMmdagsA",
    "enabled": true,
-   "checked": "2026-11-07T23:17Z"
+   "checked": "2026-11-08T00:17Z"
   },
   {
    "name": "liveranov",
    "id": "UCqCR7ofFHhWwXy3Hg00fqEw",
    "enabled": true,
-   "checked": "2026-11-07T23:17Z"
+   "checked": "2026-11-08T00:17Z"
   }
  ]
 }
