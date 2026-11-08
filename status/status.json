@@ -1,5 +1,5 @@
 {
- "built": "2026-11-08T06:20Z",
+ "built": "2026-11-08T06:55Z",
  "last_fetch": "2026-11-08T06:17Z",
  "counts": {
   "summarized": 345,
@@ -85,7 +85,6 @@
   "quota_hit": 1794118664.3883393
  },
  "log_tail": [
-  "== 2026-11-08 04:17",
   "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "… Gorax: I Went ALL IN on Dragon Crown Homage for the Dark Lady Figur",
@@ -164,7 +163,8 @@
   "+ Gorax: Talethia - THE BEST Teams & Strategy | Continental Challenge",
   "! I Went ALL IN on Dragon Crown Homage for the Dark : ConnectError: [Errno 104] Connection reset by peer",
   "saved _VJMlnXN25w",
-  "+ Gorax: Save Your Dice or Summon NOW? | Child of Chaos Is Coming | D"
+  "+ Gorax: Save Your Dice or Summon NOW? | Child of Chaos Is Coming | D",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 345 videos, 216 heroes"
  ],
  "crontab": [],
  "channels": [
