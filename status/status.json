@@ -1,5 +1,5 @@
 {
- "built": "2026-11-08T04:18Z",
+ "built": "2026-11-08T04:54Z",
  "last_fetch": "2026-11-08T04:17Z",
  "counts": {
   "summarized": 341,
@@ -97,7 +97,6 @@
   "quota_hit": 1794111494.3830564
  },
  "log_tail": [
-  "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "… Skyasterix Gaming: 🔥 Season 9 Second CROWN BATTLE Code: SKYASTERIX | Dragonheir",
   "… Gorax: I Went ALL IN on Dragon Crown Homage for the Dark Lady Figur",
@@ -176,7 +175,8 @@
   "  gemini-3.7-flash: 429, using gemini-3.6-flash",
   "! I Went ALL IN on Dragon Crown Homage for the Dark : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
   "saved _bYvuY0lj4w",
-  "+ Fastidious Dragonheir: COMPLETE SUMMONING GUIDE! All Must-Know Pulls TIPS ft. @OddO"
+  "+ Fastidious Dragonheir: COMPLETE SUMMONING GUIDE! All Must-Know Pulls TIPS ft. @OddO",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 341 videos, 215 heroes"
  ],
  "crontab": [],
  "channels": [
