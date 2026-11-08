@@ -1,0 +1,72 @@
+{
+ "summary": "This video showcases an updated Dauntless team composition against the Fire Guardian boss in the Crown Contest, achieving over 3.44 billion total damage. Guinavivre acts as the primary damage dealer, accounting for over 2.8 billion of the overall damage. The creator outlines the gear and stat priorities for all five team members, emphasizing heavy Resistance and Attack Speed. The complete lineup consists of Nastjenka, Kurvida, Guinavivre, Tharivol, and Astaion.",
+ "topics": [
+  "Crown Contest",
+  "Fire Guardian",
+  "Dauntless Team",
+  "Hero Builds"
+ ],
+ "heroes": [
+  {
+   "name": "Guinavivre",
+   "verdict": "Top DPS carry for Fire Guardian",
+   "note": "Dealt over 2.84 billion damage; built for maximum damage (100% Crit Rate, high Crit Damage) along with over 300 Resistance.",
+   "known": true
+  },
+  {
+   "name": "Nastjenka",
+   "verdict": "Essential Dauntless support/DPS",
+   "note": "Built with high Attack Speed and Resistance to sustain Dauntless synergy and buffing.",
+   "known": true
+  },
+  {
+   "name": "Kurvida",
+   "verdict": "Key support/debuffer",
+   "note": "Equipped with the Puppeteer and Witches gear sets while stacking Resistance.",
+   "known": true
+  },
+  {
+   "name": "Tharivol",
+   "verdict": "Dauntless enabler and sub-DPS",
+   "note": "Built with full Attack Speed and sufficient Resistance.",
+   "known": true
+  },
+  {
+   "name": "Astaion",
+   "verdict": "Frontline tank and buffer",
+   "note": "Built with pure Resistance (over 650 Resistance) and defensive bulk to mitigate boss mechanics.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Crown Contest (Fire Guardian)",
+   "heroes": [
+    "Nastjenka",
+    "Kurvida",
+    "Guinavivre",
+    "Tharivol",
+    "Astaion"
+   ],
+   "note": "Full Dauntless composition reaching 3.44B total damage on the Level 240 Fire Guardian boss."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Ensure all damage dealers and supports have at least 300+ Resistance to withstand Fire Guardian boss debuffs.",
+  "Stack Resistance up to 650+ on Astaion so he reliably resists enemy effects.",
+  "Run the Puppeteer artifact and Witches gear set on Kurvida for optimal team utility.",
+  "Prioritize 100% Crit Rate and maximum Crit Damage on Guinavivre, as she provides the vast majority of the team's output."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "ZPOh0OcYZoo",
+ "model": "gemini-3.8-flash",
+ "channel": "liveranov",
+ "title": "Dauntless Team (UPDATED)  vs Fire Guardians | Crown Contest | Dragonheir | Season 8",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=ZPOh0OcYZoo",
+ "short": false,
+ "summarized": "2026-11-08T08:20Z"
+}

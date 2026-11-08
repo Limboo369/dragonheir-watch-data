@@ -1,0 +1,67 @@
+{
+ "summary": "This video features a 300-pull summoning session on the Selected Summons II banner to acquire Holfast via the pity selector. The creator breaks down the inspiration breakpoints for Anneliesis, noting that stopping at Inspiration 3 is optimal for general content as Inspiration 4 and 5 are primarily useful for Magic Chess. Additionally, the creator explains that the 30% Damage Up buffs from Anneliesis's Inspiration 5, Holfast, and Lincos do not stack with each other. Holfast is highlighted as a critical addition for Continental Challenge, where Aura teams dominate and heavily amplify Talethia's damage output.",
+ "topics": [
+  "Selected Summons II",
+  "Holfast",
+  "Anneliesis",
+  "Buff Stacking",
+  "Continental Challenge",
+  "Aura Team"
+ ],
+ "heroes": [
+  {
+   "name": "Holfast",
+   "verdict": "Top-tier support for Aura teams; aim for Inspiration 2",
+   "note": "Significantly amplifies Talethia's damage output and helps Aura teams dominate Continental Challenge.",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "Build to Inspiration 3; push to Inspiration 5 only for Magic Chess",
+   "note": "Her Inspiration 5 30% Damage Up buff does not stack with the identical 30% buffs from Lincos or Holfast.",
+   "known": true
+  },
+  {
+   "name": "Lincos",
+   "verdict": "Solid Aura support and damage dealer",
+   "note": "His ultimate provides a 30% Damage Up buff that does not stack with Holfast's buff or Anneliesis's Inspiration 5.",
+   "known": true
+  },
+  {
+   "name": "Talethia",
+   "verdict": "Top Aura damage dealer",
+   "note": "Her damage performance increases dramatically when supported by Holfast.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Continental Challenge",
+   "heroes": [
+    "Holfast",
+    "Talethia"
+   ],
+   "note": "Aura team core setup that ranks as the best performer in Continental Challenge."
+  }
+ ],
+ "meta_changes": [
+  "Aura teams led by Holfast and Talethia represent the top-performing archetype for Continental Challenge."
+ ],
+ "tips": [
+  "Do not pull beyond 300 summons on the Selected Summons banner because the base rates are poor; wait for Option Summons banners for extra copies.",
+  "Stop upgrading Anneliesis at Inspiration 3 unless you specifically want to optimize for Magic Chess.",
+  "Do not rely on overlapping 30% Damage Up buffs from Anneliesis (Inspiration 5), Holfast, and Lincos, as they do not stack.",
+  "Aim to get Holfast to at least Inspiration 2 for significant performance gains."
+ ],
+ "season": "S9",
+ "server_scope": "mixed",
+ "value": "medium",
+ "id": "YFI7cbkrmv8",
+ "model": "gemini-3.8-flash",
+ "channel": "Neff Gaming",
+ "title": "300 SUMMONS! Hunting HOLFAST in Selected Summons II | Dragonheir: Silent Gods",
+ "published": "2026-11-08T08:13:58+00:00",
+ "url": "https://www.youtube.com/watch?v=YFI7cbkrmv8",
+ "short": false,
+ "summarized": "2026-11-08T08:18Z"
+}

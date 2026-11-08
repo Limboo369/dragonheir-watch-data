@@ -1,0 +1,49 @@
+{
+ "summary": "This beginner and new account guide highlights the two most critical priorities for fast progression: pushing the Goblin Lair and advancing the Season Journey. Farming Goblin Lair for Hero EXP Potions raises account Resonance Level, which simultaneously levels every hero on the roster without wasted stamina. Following the Season Journey provides clear structural progression through gear dungeons and story milestones while awarding massive quantities of summons, including up to 110 Heliolite Dice and the exclusive legendary hero Divine Ascetic. Completing Journey chapters also grants powerful exclusive gear, such as the Mythic artifact Ring of Winter from Chapter 7.",
+ "topics": [
+  "beginner guide",
+  "account progression",
+  "Goblin Lair",
+  "Season Journey",
+  "Heliolite Dice"
+ ],
+ "heroes": [
+  {
+   "name": "Auster",
+   "verdict": "Phenomenal early game Frost DPS",
+   "note": "Ignores enemy defense and applies Frost/Frozen, making him exceptional for early dungeon progression alongside other Frost units.",
+   "known": true
+  },
+  {
+   "name": "Divine Ascetic",
+   "verdict": "Must-get free Legendary hero",
+   "note": "Obtained as the grand reward upon completing Chapter 12 of the Season Journey.",
+   "known": true
+  },
+  {
+   "name": "Hochadir",
+   "verdict": "Great early Frost enabler",
+   "note": "Free starting Frost unit that pairs effectively with Auster to establish a strong early Frost team.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [],
+ "tips": [
+  "Prioritize spending stamina on Goblin Lair early and often to max out Resonance Level as fast as possible, powering up your entire hero roster at once.",
+  "Follow the Season Journey chapter objectives as your primary roadmap; they naturally guide you through Grave of Curse, Grave of Rot, and story progression.",
+  "Complete Season Journey chapters to amass up to 110 Heliolite Dice for summoning on high-value rate-up banners.",
+  "Equip the Ring of Winter artifact earned from completing Journey Chapter 7 onto Frost DPS heroes like Auster to trigger heavy AoE cold damage procs."
+ ],
+ "season": "S1",
+ "server_scope": "S1",
+ "value": "medium",
+ "id": "YI4aDgQcZzY",
+ "model": "gemini-3.8-flash",
+ "channel": "Fastidious Dragonheir",
+ "title": "These Two Tips Will Give You The BIGGEST Head-Start ⁂ Dragonheir: Silent Gods",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=YI4aDgQcZzY",
+ "short": false,
+ "summarized": "2026-11-08T08:22Z"
+}

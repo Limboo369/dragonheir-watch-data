@@ -1,0 +1,76 @@
+{
+ "summary": "OddOne breaks down Meander Trial stages 61 to 120, criticizing the trial effect that grants enemies 60 seconds of undispellable debuff and control immunity alongside massive incoming damage. He demonstrates a Shadow team composition created by community player Canny that bypasses the need for kraken-level Inspire 5 builds. The team relies on Saverio as the primary damage dealer supported by Daphne, Aspalta, Torrin, and Ripekas. Equipping Monelisse's Teardrop gear across characters is vital to grant a 3-second immortality window to survive burst damage.",
+ "topics": [
+  "Meander Trial",
+  "Fey Meander",
+  "Shadow Team",
+  "Continental Challenge",
+  "Gear Builds"
+ ],
+ "heroes": [
+  {
+   "name": "Saverio",
+   "verdict": "Top DPS carry for Meander Trial",
+   "note": "Acts as the primary monster damage dealer; build with Gory Injector if lacking his exclusive artifact, focusing heavily on Enlightenment and Attack.",
+   "known": true
+  },
+  {
+   "name": "Daphne",
+   "verdict": "Essential buffer for Saverio",
+   "note": "Provides vital stat sharing and damage buffs to keep Saverio empowered throughout the battle.",
+   "known": true
+  },
+  {
+   "name": "Aspalta",
+   "verdict": "Strong secondary DPS",
+   "note": "Deals heavy direct damage built with Crit Rate, Crit Damage, and Attack.",
+   "known": true
+  },
+  {
+   "name": "Torrin",
+   "verdict": "Crucial defensive healer/support",
+   "note": "Built with high Resistance and Titan Rib to provide shielding, sustain, and survivability against heavy incoming damage.",
+   "known": true
+  },
+  {
+   "name": "Ripekas",
+   "verdict": "Reliable frontline tank",
+   "note": "Functions as a high Resistance tank using Sylvan Refuge gear and Prismatic Cloak to endure lethal waves.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Meander Trial (Stage 120)",
+   "heroes": [
+    "Saverio",
+    "Torrin",
+    "Aspalta",
+    "Ripekas",
+    "Daphne"
+   ],
+   "note": "A Shadow team built to clear Stage 120 under the 60-second enemy debuff and control immunity trial condition. Requires Monelisse's Teardrop pieces to prevent one-shots."
+  }
+ ],
+ "meta_changes": [
+  "Meander Trial 61-120 introduces an extreme modifier granting all enemies undispellable Debuff Immunity and Control Immunity for 60 seconds at battle start, completely invalidating control and debuff-reliant teams.",
+  "Meander Trial 121-180 introduces an effect where enemy units gain 10 seconds of Invincibility the first time they take Enlightenment Damage, forcing players away from Enlightenment and Toxin compositions toward teams like Thunderbolt."
+ ],
+ "tips": [
+  "Equip the 1-piece Monelisse's Teardrop effect on fragile damage dealers and tanks to gain 3 seconds of Immortality when reaching 0 HP, giving healers time to recover them.",
+  "Stack high Resistance on frontline units like Torrin and Ripekas to shrug off enemy effects in high Meander stages.",
+  "Swap familiars between Glimmering Long-Eared Deer (shields), Lava Batwing, or Golden Tressym (damage) depending on whether a specific stage requires extra burst or survivability.",
+  "For the upcoming Meander Trial stages (121-180), avoid bringing Enlightenment damage dealers like Saverio or Toxin teams due to the enemy invincibility mechanic."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "ZWipiiYhpcc",
+ "model": "gemini-3.8-flash",
+ "channel": "OddOneGaming RPGs",
+ "title": "⛔ This Was UNNECESSARILY Hard ⛔ Meander Trial 61-120 Shadow Team GUIDE | Dragonheir x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=ZWipiiYhpcc",
+ "short": false,
+ "summarized": "2026-11-08T08:20Z"
+}

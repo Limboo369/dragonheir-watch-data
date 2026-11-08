@@ -1,12 +1,12 @@
 {
- "built": "2026-11-08T07:56Z",
- "last_fetch": "2026-11-08T07:17Z",
+ "built": "2026-11-08T08:27Z",
+ "last_fetch": "2026-11-08T08:17Z",
  "counts": {
-  "summarized": 345,
+  "summarized": 356,
   "skipped_giveaway": 17,
   "baseline": 22,
-  "retry": 8,
-  "new": 273,
+  "retry": 1,
+  "new": 271,
   "skipped_live": 1,
   "failed": 3
  },
@@ -18,52 +18,10 @@
    "error": ""
   },
   {
-   "title": "First 300 SUMMONS F2P!!! [Dragonheir: Silent Gods]",
-   "channel": "Volkin Dragonheir",
-   "status": "retry",
-   "error": ""
-  },
-  {
    "title": "Season 9 NEW INFO: 2 Free Heroes, New Affinities & Selectable Banner! | Dragonheir: Silent Gods",
    "channel": "liveranov",
    "status": "failed",
    "error": "Expecting value: line 1 column 1 (char 0)"
-  },
-  {
-   "title": "No Rena Needed! Child of Chaos Carries vs Joyce | Dragonheir x Dragonstride",
-   "channel": "Gorax",
-   "status": "retry",
-   "error": ""
-  },
-  {
-   "title": "I Went ALL IN on Dragon Crown Homage for the Dark Lady Figurine… and Got SO Much More! | Dragonheir",
-   "channel": "Gorax",
-   "status": "retry",
-   "error": "[Errno 104] Connection reset by peer"
-  },
-  {
-   "title": "These Two Tips Will Give You The BIGGEST Head-Start ⁂ Dragonheir: Silent Gods",
-   "channel": "Fastidious Dragonheir",
-   "status": "retry",
-   "error": ""
-  },
-  {
-   "title": "⛔ This Was UNNECESSARILY Hard ⛔ Meander Trial 61-120 Shadow Team GUIDE | Dragonheir x Dragonstride",
-   "channel": "OddOneGaming RPGs",
-   "status": "retry",
-   "error": ""
-  },
-  {
-   "title": "MORE HELIOLITE FOR ALL! x15 🧡 QUIZ PROMO CODE #2 🎁 3rd Anniversary Event🔥 Dragonheir x Dragonstride",
-   "channel": "Suzi Plays",
-   "status": "retry",
-   "error": ""
-  },
-  {
-   "title": "Dauntless Team (UPDATED)  vs Fire Guardians | Crown Contest | Dragonheir | Season 8",
-   "channel": "liveranov",
-   "status": "retry",
-   "error": ""
   },
   {
    "title": "🔥 Season 9 FIRST CROWN CONTEST! Code: SKYASTERIX | Dragonheir: Silent Gods",
@@ -80,54 +38,11 @@
  ],
  "budget": {
   "day": "2026-11-08",
-  "seconds": 9765,
+  "seconds": 17114,
   "v2": 1,
   "quota_hit": 1794118664.3883393
  },
  "log_tail": [
-  "",
-  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
-  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
-  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
-  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
-  "… Gorax: Save Your Dice or Summon NOW? | Child of Chaos Is Coming | D",
-  "! Thunderbolt Team vs Fire Guardians | Crown Contest: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
-  "… OddOneGaming RPGs: 💥 THIS WILL CHANGE THE GAME FOREVER! 💥Child Of Chaos First L",
-  "! Save Your Dice or Summon NOW? | Child of Chaos Is : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
-  "… Gorax: Don’t Miss Your Chance to Get These Rewards! | Dragonheir x ",
-  "! 💥 THIS WILL CHANGE THE GAME FOREVER! 💥Child Of Cha: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
-  "… OddOneGaming RPGs: ⛔ This Was UNNECESSARILY Hard ⛔ Meander Trial 61-120 Shadow ",
-  "saved ZZJus30Cl3E",
-  "+ Gorax: Don’t Miss Your Chance to Get These Rewards! | Dragonheir x ",
-  "… liveranov: Dauntless Team (UPDATED)  vs Fire Guardians | Crown Contest ",
-  "! ⛔ This Was UNNECESSARILY Hard ⛔ Meander Trial 61-1: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
-  "… Gorax: Talethia - THE BEST Teams & Strategy | Continental Challenge",
-  "! Dauntless Team (UPDATED)  vs Fire Guardians | Crow: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
-  "… Fastidious Dragonheir: These Two Tips Will Give You The BIGGEST Head-Start ⁂ Dragon",
-  "! Talethia - THE BEST Teams & Strategy | Continental: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
-  "… Volkin Dragonheir: MASSIVE F2P Child Of Chaos SUMMONS!!! [Dragonheir: Silent Go",
-  "! These Two Tips Will Give You The BIGGEST Head-Star: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
-  "! MASSIVE F2P Child Of Chaos SUMMONS!!! [Dragonheir:: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
-  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
-  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
-  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
-  "! MORE HELIOLITE FOR ALL! x15 🧡 QUIZ PROMO CODE #2 🎁: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
-  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
-  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
-  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
-  "! I Went ALL IN on Dragon Crown Homage for the Dark : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
-  "saved _bYvuY0lj4w",
-  "+ Fastidious Dragonheir: COMPLETE SUMMONING GUIDE! All Must-Know Pulls TIPS ft. @OddO",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 341 videos, 215 heroes",
-  "== 2026-11-08 05:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "Gemini quota was full less than an hour ago, trying again next round",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 341 videos, 215 heroes",
-  "== 2026-11-08 06:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "… Gorax: I Went ALL IN on Dragon Crown Homage for the Dark Lady Figur",
   "… Suzi Plays: MORE HELIOLITE FOR ALL! x15 🧡 QUIZ PROMO CODE #2 🎁 3rd Anniv",
   "… liveranov: Thunderbolt Team vs Fire Guardians | Crown Contest | Dragonh",
   "… Gorax: Save Your Dice or Summon NOW? | Child of Chaos Is Coming | D",
@@ -164,7 +79,50 @@
   "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "Gemini quota was full less than an hour ago, trying again next round",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 345 videos, 216 heroes"
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 345 videos, 216 heroes",
+  "mv: cannot stat '.ytwatch.py.new': No such file or directory",
+  "mv: cannot stat '.channels.json.new': No such file or directory",
+  "mv: cannot stat '.dashboard.html.new': No such file or directory",
+  "mv: cannot stat '.backlog.json.new': No such file or directory",
+  "mv: cannot stat '.publish.sh.new': No such file or directory",
+  "mv: cannot stat '.web.py.new': No such file or directory",
+  "== 2026-11-08 08:17",
+  "fetch done: 0 new transcripts, 0 not available yet",
+  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
+  "… Neff Gaming: 300 SUMMONS! Hunting HOLFAST in Selected Summons II | Dragon",
+  "… Gorax: I Pulled on BOTH New Banners… Was It Worth It? | Dragonheir",
+  "… Gorax: I Went ALL IN on Dragon Crown Homage for the Dark Lady Figur",
+  "… Suzi Plays: MORE HELIOLITE FOR ALL! x15 🧡 QUIZ PROMO CODE #2 🎁 3rd Anniv",
+  "… OddOneGaming RPGs: ⛔ This Was UNNECESSARILY Hard ⛔ Meander Trial 61-120 Shadow ",
+  "saved bPoRmh4aIJk",
+  "+ Gorax: I Went ALL IN on Dragon Crown Homage for the Dark Lady Figur",
+  "… liveranov: Dauntless Team (UPDATED)  vs Fire Guardians | Crown Contest ",
+  "saved YFI7cbkrmv8",
+  "+ Neff Gaming: 300 SUMMONS! Hunting HOLFAST in Selected Summons II | Dragon",
+  "… Fastidious Dragonheir: These Two Tips Will Give You The BIGGEST Head-Start ⁂ Dragon",
+  "saved WI8NEyeWbO0",
+  "+ Gorax: I Pulled on BOTH New Banners… Was It Worth It? | Dragonheir",
+  "… Volkin Dragonheir: MASSIVE F2P Child Of Chaos SUMMONS!!! [Dragonheir: Silent Go",
+  "saved ZPOh0OcYZoo",
+  "+ liveranov: Dauntless Team (UPDATED)  vs Fire Guardians | Crown Contest ",
+  "… Volkin Dragonheir: First 300 SUMMONS F2P!!! [Dragonheir: Silent Gods]",
+  "saved ZWipiiYhpcc",
+  "+ OddOneGaming RPGs: ⛔ This Was UNNECESSARILY Hard ⛔ Meander Trial 61-120 Shadow ",
+  "… Gorax: No Rena Needed! Child of Chaos Carries vs Joyce | Dragonheir",
+  "saved a-VbIDWy4iM",
+  "+ Suzi Plays: MORE HELIOLITE FOR ALL! x15 🧡 QUIZ PROMO CODE #2 🎁 3rd Anniv",
+  "… Gorax: I'm Starting a FRESH Account for DragonHeir's 3rd Anniversar",
+  "saved YI4aDgQcZzY",
+  "+ Fastidious Dragonheir: These Two Tips Will Give You The BIGGEST Head-Start ⁂ Dragon",
+  "… Gorax: I Summoned for Child of Chaos... and THIS Happened! | Dragon",
+  "saved XRSWWrhi0lI",
+  "+ Volkin Dragonheir: First 300 SUMMONS F2P!!! [Dragonheir: Silent Gods]",
+  "saved XPwLhWG92qs",
+  "+ Gorax: No Rena Needed! Child of Chaos Carries vs Joyce | Dragonheir",
+  "saved XPs-ar1XIp4",
+  "+ Gorax: I'm Starting a FRESH Account for DragonHeir's 3rd Anniversar",
+  "saved WjtBPisim9A",
+  "+ Gorax: I Summoned for Child of Chaos... and THIS Happened! | Dragon"
  ],
  "crontab": [],
  "channels": [
@@ -172,55 +130,55 @@
    "name": "Skratch Gaming",
    "id": "UCoSkzr1pXpt3d0jIxsc6ufw",
    "enabled": true,
-   "checked": "2026-11-08T07:17Z"
+   "checked": "2026-11-08T08:17Z"
   },
   {
    "name": "Gorax",
    "id": "UCNas7BnuOIjDEzY1D53kb1w",
    "enabled": true,
-   "checked": "2026-11-08T07:17Z"
+   "checked": "2026-11-08T08:17Z"
   },
   {
    "name": "Neff Gaming",
    "id": "UCsxs6YhNd_B36RgUAjbpJ_A",
    "enabled": true,
-   "checked": "2026-11-08T07:17Z"
+   "checked": "2026-11-08T08:17Z"
   },
   {
    "name": "Volkin Dragonheir",
    "id": "UCfRpOh_ywVjzhh9fxHbreGw",
    "enabled": true,
-   "checked": "2026-11-08T07:17Z"
+   "checked": "2026-11-08T08:17Z"
   },
   {
    "name": "Fastidious Dragonheir",
    "id": "UC16mpj5wEemSZX-uTlHe9Ww",
    "enabled": true,
-   "checked": "2026-11-08T07:17Z"
+   "checked": "2026-11-08T08:17Z"
   },
   {
    "name": "OddOneGaming RPGs",
    "id": "UC1ivUEf_poI9_R2eVKa8wRQ",
    "enabled": true,
-   "checked": "2026-11-08T07:17Z"
+   "checked": "2026-11-08T08:17Z"
   },
   {
    "name": "Suzi Plays",
    "id": "UCyo1-TkunhGcK6khU1h8Ypw",
    "enabled": true,
-   "checked": "2026-11-08T07:17Z"
+   "checked": "2026-11-08T08:17Z"
   },
   {
    "name": "Skyasterix Gaming",
    "id": "UCr5Gb3910rK7QPmKMmdagsA",
    "enabled": true,
-   "checked": "2026-11-08T07:17Z"
+   "checked": "2026-11-08T08:17Z"
   },
   {
    "name": "liveranov",
    "id": "UCqCR7ofFHhWwXy3Hg00fqEw",
    "enabled": true,
-   "checked": "2026-11-08T07:17Z"
+   "checked": "2026-11-08T08:17Z"
   }
  ]
 }

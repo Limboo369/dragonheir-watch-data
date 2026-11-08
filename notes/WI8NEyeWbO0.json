@@ -1,0 +1,80 @@
+{
+ "summary": "Gorax covers the summon strategy and banner priority for the new version banners featuring Anneliesis and Holfast. Anneliesis is a time-limited exclusive and acts as the mandatory core buffer for Aura teams, making her the highest pull priority. Holfast is a massive upgrade over Lincos, replacing even an Inspiration 5 Lincos at Inspiration 0. Players with 300 Heliolite Dice should prioritize Anneliesis, while those with 600 can secure both Anneliesis and Holfast. Gorax also conducts a 600-dice summon session, walking through pity triggers, Inspiration milestones, and upcoming option banners.",
+ "topics": [
+  "Banners",
+  "Summons",
+  "Aura Team",
+  "Inspirations",
+  "Endgame Boss"
+ ],
+ "heroes": [
+  {
+   "name": "Anneliesis",
+   "verdict": "Must-have core support for Aura",
+   "note": "Replaces an existing support in Aura teams to drastically boost Talethia and overall team output; Inspiration 3 provides a 30% teamwide damage buff.",
+   "known": true
+  },
+  {
+   "name": "Holfast",
+   "verdict": "Top-tier Aura replacement for Lincos",
+   "note": "Replaces Lincos in Aura compositions even at Inspiration 0 compared to an Inspiration 5 Lincos.",
+   "known": true
+  },
+  {
+   "name": "Lincos",
+   "verdict": "Outclassed in Aura meta",
+   "note": "Fully replaced by Holfast in primary Aura teams even when heavily invested at Inspiration 5.",
+   "known": true
+  },
+  {
+   "name": "Talethia",
+   "verdict": "Premier Aura damage dealer",
+   "note": "The central DPS carrying Aura teams whose damage reaches top-tier status when enabled by Anneliesis.",
+   "known": true
+  },
+  {
+   "name": "Aemonleyda",
+   "verdict": "PvP specialist / Low PvE DPS",
+   "note": "Lacks high PvE damage compared to Talethia and is primarily used in PvP.",
+   "known": true
+  },
+  {
+   "name": "Journ",
+   "verdict": "Solid support",
+   "note": "Benefits greatly from Inspiration 3, which grants extra Haste that synergizes with his kit.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "End Game Boss",
+   "heroes": [
+    "Anneliesis",
+    "Holfast",
+    "Talethia"
+   ],
+   "note": "Core Aura boss team (reaching ~700M damage) running Anneliesis as core buffer and Holfast in place of Lincos to support Talethia."
+  }
+ ],
+ "meta_changes": [
+  "Holfast replaces Lincos in top-tier Aura teams, with Holfast at Inspiration 0 outperforming an Inspiration 5 Lincos.",
+  "Anneliesis solidifies Aura as a dominant top-tier PvE archetype alongside Talethia."
+ ],
+ "tips": [
+  "If limited to 300 Heliolite Dice, summon Anneliesis first because she is a time-limited exclusive and the core buffer for Aura.",
+  "Be mindful of banner durations: Anneliesis's banner lasts 13-14 days, whereas Holfast's selectable banner lasts only 5 days.",
+  "Do not pull on the new banners solely for general supports, as the standard support pool in these banners is relatively weak; wait for upcoming option banners to target heroes like Solmo.",
+  "Avoid trying to build a second Aura team using Epic heroes, as Epic Aura options lack sufficient damage output."
+ ],
+ "season": "S9",
+ "server_scope": "mixed",
+ "value": "high",
+ "id": "WI8NEyeWbO0",
+ "model": "gemini-3.8-flash",
+ "channel": "Gorax",
+ "title": "I Pulled on BOTH New Banners… Was It Worth It? | Dragonheir",
+ "published": "2026-11-08T08:00:08+00:00",
+ "url": "https://www.youtube.com/watch?v=WI8NEyeWbO0",
+ "short": false,
+ "summarized": "2026-11-08T08:18Z"
+}

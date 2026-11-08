@@ -1,0 +1,66 @@
+{
+ "summary": "This video breaks down a resource management and summoning strategy for early season banners, focusing on Option Summons versus the Child of Chaos Reversal Summon. By tracking incoming free dice, daily gems, login supply packs, and banner refunds, the creator calculates having over 600 total pulls available. He commits 300 pulls into Option Summons choosing Toxin and Summoner schools to guarantee Serpentemis, while reserving enough pulls to later guarantee Child of Chaos. The summoning session yields Sintrellia, Vicana, Urgoula, Durango, Jathalea, and Serpentemis.",
+ "topics": [
+  "banners",
+  "summon strategy",
+  "Option Summons",
+  "Reversal Summon",
+  "resource management"
+ ],
+ "heroes": [
+  {
+   "name": "Child of Chaos",
+   "verdict": "Must-have support",
+   "note": "Regarded as one of the best and most versatile supports in the game that can splash into any team archetype.",
+   "known": true
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "Top pick for Toxin teams",
+   "note": "Selected at the 300-pull guarantee to serve as the core DPS for a Poison/Toxin roster.",
+   "known": true
+  },
+  {
+   "name": "Sintrellia",
+   "verdict": "Strong Summoner DPS",
+   "note": "Described as a fantastic Necrosis damage dealer that excels in summoning-focused compositions.",
+   "known": true
+  },
+  {
+   "name": "Durango",
+   "verdict": "Decent Poison DPS",
+   "note": "Considered a solid secondary damage dealer to complement Poison/Toxin setups.",
+   "known": true
+  },
+  {
+   "name": "Jathalea",
+   "verdict": "Disappointing / low value",
+   "note": "Creator considered her a bad pull that was not worth spending 20 extra summons past the 300 mark to obtain.",
+   "known": true
+  },
+  {
+   "name": "Urgoula",
+   "verdict": "Situational Poison tank",
+   "note": "Creator pulled him on pity but was uncertain of his overall viability without testing his kit synergy.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [],
+ "tips": [
+  "Never assume you will pull a featured hero before the 300-pull guarantee; raw individual pull rates are under 0.1%.",
+  "Calculate all incoming resources (codes, login packs, gems, and the 30-dice refund per banner) before deciding how many banners to commit to.",
+  "Avoid spending past the 300-pull guarantee threshold on Option Summons unless you are certain it will not jeopardize your next guaranteed banner target."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "low",
+ "id": "XRSWWrhi0lI",
+ "model": "gemini-3.8-flash",
+ "channel": "Volkin Dragonheir",
+ "title": "First 300 SUMMONS F2P!!! [Dragonheir: Silent Gods]",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=XRSWWrhi0lI",
+ "short": false,
+ "summarized": "2026-11-08T08:23Z"
+}

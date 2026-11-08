@@ -1,0 +1,82 @@
+{
+ "summary": "Gorax showcases an Aura team featuring Radiant Child of Chaos against the Continental Challenge boss Joyce, serving as an alternative to Rena or Scaarr. The setup relies on an exact 18-second skill rotation, where Anneliesis dispels boss buffs at 17.7 seconds and Child of Chaos acts just before the damage dealers. At Inspiration 5, Child of Chaos matches or exceeds Rena's damage output, achieving over 2.3 billion to 2.6 billion damage. His exclusive artifact is critical; running him without it drops damage below Rena at Inspiration 0. Furthermore, Inspiration 1 adds random debuffs, including Recharge Speed Penalty, which can desynchronize the team's tight ultimate timings and hurt total DPS.",
+ "topics": [
+  "Continental Challenge",
+  "Child of Chaos",
+  "Aura Team",
+  "Boss Guide",
+  "Skill Timings"
+ ],
+ "heroes": [
+  {
+   "name": "Child of Chaos",
+   "verdict": "Top-tier Aura support/enabler",
+   "note": "Switched to Radiant element with the Puppeteer set; his exclusive artifact is essential to beat Rena's baseline damage, but caution is advised with Inspiration 1 as Recharge Speed Penalty can desynchronize timed rotations.",
+   "known": true
+  },
+  {
+   "name": "Talethia",
+   "verdict": "Main damage dealer",
+   "note": "Built with high HP for scaling while maintaining higher ATK than Diantha to receive Lincos's damage buff.",
+   "known": true
+  },
+  {
+   "name": "Lincos",
+   "verdict": "Core Aura offensive buffer",
+   "note": "Built with maximum ATK to provide extra damage and Aura energy to the ally with the highest ATK.",
+   "known": true
+  },
+  {
+   "name": "Diantha",
+   "verdict": "Secondary DPS and support",
+   "note": "Provides AoE damage and applies debuffs using the Witch's Remains artifact while being built with HP and Crit stats.",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "Essential dispel support",
+   "note": "Equipped with Angelic Alliance to buff the team, timed to cast her ultimate at 17.7s to dispel Joyce's buffs.",
+   "known": true
+  },
+  {
+   "name": "Rena",
+   "verdict": "Alternative Aura support",
+   "note": "Used as the benchmark against Joyce, dealing ~2.36B at I5 and ~609M at I0, but matched or surpassed by Child of Chaos when properly equipped.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Continental Challenge (Joyce)",
+   "heroes": [
+    "Child of Chaos",
+    "Talethia",
+    "Lincos",
+    "Diantha",
+    "Anneliesis"
+   ],
+   "note": "Uses an AoE pet on an 18s rotation. Timings: Anneliesis at 17.7s, Child of Chaos at 17.8999s, Talethia at 18.0s, Lincos at 18.1s, Diantha at 18.1s."
+  }
+ ],
+ "meta_changes": [
+  "Child of Chaos can replace Rena or Scaarr as the premier Aura enabler against Continental Challenge Joyce.",
+  "Balance adjustments to Child of Chaos skill kits slightly tuned damage outputs, maintaining parity with Rena I5."
+ ],
+ "tips": [
+  "Equip Child of Chaos with the Puppeteer set to gain the Haste bonus, and consider Whirling Doom or Moonlight's Grace for team buffs.",
+  "Ensure Talethia has higher raw Attack than Diantha so that Lincos directs his Aura buffs to her.",
+  "Prioritize obtaining at least two copies of Child of Chaos to unlock his exclusive artifact, as his damage drops below Rena I0 without it.",
+  "Consider disabling or removing Child of Chaos Inspiration 1 in strict speed-tuned teams, as its random Recharge Speed Penalty can desync an 18s rotation."
+ ],
+ "season": "S9",
+ "server_scope": "mixed",
+ "value": "high",
+ "id": "XPwLhWG92qs",
+ "model": "gemini-3.8-flash",
+ "channel": "Gorax",
+ "title": "No Rena Needed! Child of Chaos Carries vs Joyce | Dragonheir x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=XPwLhWG92qs",
+ "short": false,
+ "summarized": "2026-11-08T08:24Z"
+}

@@ -1,0 +1,56 @@
+{
+ "summary": "Gorax showcases summons on the Reversal Summon banner for the new exclusive hero, Child of Chaos. The banner features a guaranteed pity copy at 300 summons and includes a wide pool of high-value support heroes with no other exclusives. Child of Chaos is an element-swapping support hero who can replace Maashtur and fit into any elemental team, including Dauntless. Gorax strongly recommends spending dice on this limited banner to obtain him and his exclusive artifact, Dragonbone Catalyst.",
+ "topics": [
+  "Summons",
+  "Child of Chaos",
+  "Reversal Summon",
+  "Exclusive Heroes",
+  "Artifact Shop"
+ ],
+ "heroes": [
+  {
+   "name": "Child of Chaos",
+   "verdict": "Must-pull / Insanely OP",
+   "note": "Can switch to any element, grants control immunity and ethereal to allies, and can replace Maashtur in Dauntless and other teams.",
+   "known": true
+  },
+  {
+   "name": "Maashtur",
+   "verdict": "Can be replaced by Child of Chaos",
+   "note": "Exclusive Dauntless support hero whose role can be filled by Child of Chaos.",
+   "known": true
+  },
+  {
+   "name": "Solmo",
+   "verdict": "Quite powerful support",
+   "note": "Available on the Child of Chaos banner pool and very strong for Aura teams.",
+   "known": true
+  },
+  {
+   "name": "Oggok",
+   "verdict": "Amazing support",
+   "note": "A top-tier support hero available in the banner pool who provides immortality.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [
+  "The introduction of Child of Chaos brings a universal support hero capable of adopting any element, shifting the global meta away from Chinese server comps for Continental Challenges and endgame content."
+ ],
+ "tips": [
+  "Save and spend dice on the Child of Chaos banner; he is guaranteed at 300 summons with a hidden pity every 1,000 dice.",
+  "Aim for an extra duplicate copy of Child of Chaos to unlock his exclusive Mythic artifact, Dragonbone Catalyst, from the Artifact Shop.",
+  "Maxing Child of Chaos (Inspiration 5 and artifact) requires 7 total copies, estimated around 7,000 dice at worst, though achievable in far fewer with average luck."
+ ],
+ "season": "unknown",
+ "server_scope": "mixed",
+ "value": "medium",
+ "id": "WjtBPisim9A",
+ "model": "gemini-3.8-flash",
+ "channel": "Gorax",
+ "title": "I Summoned for Child of Chaos... and THIS Happened! | Dragonheir x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=WjtBPisim9A",
+ "short": false,
+ "summarized": "2026-11-08T08:25Z"
+}
