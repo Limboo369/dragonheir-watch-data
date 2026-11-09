@@ -1,5 +1,5 @@
 {
- "built": "2026-11-09T06:52Z",
+ "built": "2026-11-09T07:23Z",
  "videos": [
   {
    "summary": "Skyasterix conducts a 600 Heliolite Dice summon session split across the Anneliesis return banner and the Total Selectable banner. He advises players, especially beginners building Aura teams, to prioritize pulling Anneliesis over niche booster heroes. Specifically, he recommends reaching Inspiration 3 on Anneliesis to unlock a passive start-of-battle boost granting all allies 10% max HP and 10% damage bonus. The remainder of the video covers summon pulls alongside persistent client performance issues and lag.",
@@ -19398,6 +19398,123 @@
    "summarized": "2026-11-03T01:23Z"
   },
   {
+   "summary": "Gorax showcases end-game Temporal Vortex teams used by top veteran players, achieving scores up to 74+ billion damage. The video breaks down two main end-game setups: a single-target Dauntless team and an AoE Toxin team. Detailed guidance is provided for hero stat priorities, exclusive artifacts, key gear sets like Puppeteer for 18-second cooldown reduction, and exact ultimate skill timing sequences.",
+   "topics": [
+    "Temporal Vortex",
+    "Dauntless",
+    "Toxin",
+    "Hero Builds",
+    "Skill Timing"
+   ],
+   "heroes": [
+    {
+     "name": "Guinavivre",
+     "verdict": "Core Dauntless DPS",
+     "note": "Requires high ATK, 100% Crit Rate, Crit Damage, and low Attack Interval via Attack Speed runes.",
+     "known": true
+    },
+    {
+     "name": "Kurvida",
+     "verdict": "Essential Dauntless Enabler",
+     "note": "Built with Witch's Remains artifact to apply Lightning Vulnerability and supportive gear to boost team damage.",
+     "known": true
+    },
+    {
+     "name": "Nastjenka",
+     "verdict": "High-Damage Dauntless DPS",
+     "note": "Uses Arbiter's Pendant artifact; prioritize ATK, Crit Rate, and Crit Damage while ensuring her ATK is lower than Guinavivre's.",
+     "known": true
+    },
+    {
+     "name": "Maashtur",
+     "verdict": "Top-Tier Exclusive Dauntless Support",
+     "note": "Equipped with Angelic Alliance artifact and high Accuracy to reliably apply debuffs while stacking HP.",
+     "known": true
+    },
+    {
+     "name": "Selva",
+     "verdict": "Top Exclusive Support Enabler",
+     "note": "Built with Puppeteer set to lower ultimate cooldown to match 18s boss rotations and extend debuffs.",
+     "known": true
+    },
+    {
+     "name": "Stegamoffyn",
+     "verdict": "Key Toxin Support & Healer",
+     "note": "Uses Misty Conch artifact to stack debuffs and relies on high ATK to scale his reworked healing.",
+     "known": true
+    },
+    {
+     "name": "Child of Chaos",
+     "verdict": "Top Toxin Support (Replaces Reytah)",
+     "note": "Uses Dragonbone Catalyst artifact for a 25% damage boost; build high HP and DEF for survivability.",
+     "known": true
+    },
+    {
+     "name": "Serpentemis",
+     "verdict": "Primary Toxin DPS",
+     "note": "Uses Statue of the Serpent Deity artifact; stack Enlightenment and ATK, skipping Accuracy if paired with Twitch's Accuracy-sharing gear.",
+     "known": true
+    },
+    {
+     "name": "Twitch",
+     "verdict": "Toxin Debuffer & Accuracy Buffer",
+     "note": "Equipped with Ilhuya's Fang artifact and Bone Resonance set with maxed Accuracy to share Accuracy with the team.",
+     "known": true
+    },
+    {
+     "name": "Sleight",
+     "verdict": "Meta Toxin DPS",
+     "note": "Built with Shell of Gilded Doom artifact and Puppeteer set for 18s rotation tuning; passive ignores enemy resistance.",
+     "known": true
+    }
+   ],
+   "teams": [
+    {
+     "mode": "Temporal Vortex",
+     "heroes": [
+      "Guinavivre",
+      "Kurvida",
+      "Nastjenka",
+      "Maashtur",
+      "Selva"
+     ],
+     "note": "Single-target Dauntless team tuned for an 18-second skill rotation."
+    },
+    {
+     "mode": "Temporal Vortex",
+     "heroes": [
+      "Serpentemis",
+      "Stegamoffyn",
+      "Child of Chaos",
+      "Sleight",
+      "Twitch"
+     ],
+     "note": "AoE Toxin team capitalizing on minion/egg spawns and accuracy-sharing mechanics."
+    }
+   ],
+   "meta_changes": [
+    "Late-game seasons (S8) require two distinct teams for Temporal Vortex instead of one.",
+    "Child of Chaos replaces Reytah in high-end Toxin Temporal Vortex teams."
+   ],
+   "tips": [
+    "Set ultimate skill recast timings to an 18-second rotation to sync with boss skill patterns.",
+    "Use a 3-piece Puppeteer gear set on support heroes to reduce 20s ultimate cooldowns down to 18s.",
+    "In the Dauntless sequence, cast Nastjenka's ultimate first, followed by Kurvida for Lightning Vulnerability, and then Guinavivre.",
+    "Position Guinavivre adjacent to allies wearing Everburning Netherfire gear to maximize shared ATK bonuses."
+   ],
+   "season": "S8",
+   "server_scope": "mixed",
+   "value": "high",
+   "id": "Qk0ejZ_Wiaw",
+   "model": "gemini-3.5-flash",
+   "channel": "Gorax",
+   "title": "Temporal Vortex Team Guide | Best Meta Heroes & Teams | Dragonheir x Dragonstride",
+   "published": "2026-09-28T12:00:00+00:00",
+   "url": "https://www.youtube.com/watch?v=Qk0ejZ_Wiaw",
+   "short": false,
+   "summarized": "2026-11-09T07:18Z"
+  },
+  {
    "summary": "This guide provides an Aura-based speed team to clear Ancient Battlefield Stage 12 and Challenge 4 in approximately 20 to 30 seconds. The core strategy utilizes Vinyara to absorb the boss's stun from the backline and inflict Attack Penalty II, which the Deluxe Mimic familiar turns into Enhanced Recharge Down to completely lock down boss energy. Talethia serves as the primary damage carry, buffed by Lincos and Diantha, while Anneliesis ensures team survivability. Specific ultimate skill timings and tanky itemization are outlined to ensure 100% control over the boss rotation.",
    "topics": [
     "Ancient Battlefield",
@@ -19633,6 +19750,59 @@
    "url": "https://www.youtube.com/watch?v=R4_F3M1Bq7A",
    "short": false,
    "summarized": "2026-11-09T05:22Z"
+  },
+  {
+   "summary": "OddOneGaming showcases an Echo Summons II banner pull session aiming to obtain copies of Talethia and Sleight. He breaks down Sleight's exclusive artifact, Shell of Gilded Doom, and explains its high value for Toxin teams due to boosting Poison Derivative Damage by up to 50 percent. After completing 300 pulls to claim wishlist rewards, he does an additional 10-pull and lands a rare triple Legendary pull featuring Ergander, Talethia, and Vicana. This pull pushes his Talethia to Inspire 4 and adds high-value legendary dupes to his roster.",
+   "topics": [
+    "Echo Summons",
+    "gacha pulls",
+    "Sleight",
+    "Talethia",
+    "Artifact Shop"
+   ],
+   "heroes": [
+    {
+     "name": "Sleight",
+     "verdict": "Top priority for Toxin teams",
+     "note": "His exclusive artifact Shell of Gilded Doom ignores resistance, applies extra Toxin stacks, and increases Poison Derivative Damage by up to 50%.",
+     "known": true
+    },
+    {
+     "name": "Serpentemis",
+     "verdict": "Premier Toxin DPS",
+     "note": "Deals heavy Poison Derivative Damage via her Passive and Ultimate, gaining a massive damage boost from Sleight's exclusive artifact.",
+     "known": true
+    },
+    {
+     "name": "Talethia",
+     "verdict": "High priority Echo wish target",
+     "note": "Great Radiant damage dealer worth targeting in Echo Summons to push toward Inspire 5.",
+     "known": true
+    },
+    {
+     "name": "Durango",
+     "verdict": "Recommended 100/200 Echo milestone pick",
+     "note": "Solid hero choice to build up Inspire levels through earlier Echo wishlist milestones.",
+     "known": true
+    }
+   ],
+   "teams": [],
+   "meta_changes": [],
+   "tips": [
+    "Unless you are a big spender, only pull up to the 300 milestone on Echo Summons II rather than pushing all the way to 800.",
+    "Pair Sleight's exclusive artifact Shell of Gilded Doom with derivative damage Toxin heroes like Serpentemis to boost team derivative poison damage up to 50%."
+   ],
+   "season": "unknown",
+   "server_scope": "mixed",
+   "value": "medium",
+   "id": "RKTCWfPI9og",
+   "model": "gemini-3.6-flash",
+   "channel": "OddOneGaming RPGs",
+   "title": "💥 I HIT THE JACKPOT 💥My First EVER Triple Lego In A 10 Pull | Dragonheir x Dragonstride",
+   "published": "2026-09-28T12:00:00+00:00",
+   "url": "https://www.youtube.com/watch?v=RKTCWfPI9og",
+   "short": false,
+   "summarized": "2026-11-09T07:18Z"
   },
   {
    "summary": "This video covers the Starweave Echo event and Temporal Corridor exchange shop, explaining how to convert spare Legendary Soul Imprints into Starweave Fragments. The creator details which heroes are safe to recycle by resetting their inspirations (such as Gillian, Karf, Talwer, and Vicana) and which heroes offer the best return. Talethia is identified as the single highest priority until reaching Inspiration 5, followed by options like Fredegonda, Paixton, and Alaura depending on team archetype needs. Players are advised to pull on active banners first and consider the 37-day shop rotation before spending currency.",
@@ -30816,6 +30986,13 @@
     "url": "https://www.youtube.com/watch?v=R4_F3M1Bq7A"
    },
    {
+    "verdict": "High priority Echo wish target",
+    "note": "Great Radiant damage dealer worth targeting in Echo Summons to push toward Inspire 5.",
+    "date": "2026-09-28",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=RKTCWfPI9og"
+   },
+   {
     "verdict": "absolute top priority",
     "note": "Must-buy from the 300 Starweave Fragment pool until reaching Inspiration 5 before considering other heroes.",
     "date": "2026-09-28",
@@ -32587,6 +32764,13 @@
     "url": "https://www.youtube.com/watch?v=ONMMBlvyWpc"
    },
    {
+    "verdict": "Top-Tier Exclusive Dauntless Support",
+    "note": "Equipped with Angelic Alliance artifact and high Accuracy to reliably apply debuffs while stacking HP.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=Qk0ejZ_Wiaw"
+   },
+   {
     "verdict": "Top Dauntless DPS",
     "note": "His Inspiration 3 upgrade provides massive damage gains for Dauntless teams in Temporal Vortex.",
     "date": "2026-09-28",
@@ -33605,6 +33789,13 @@
     "url": "https://www.youtube.com/watch?v=ydl2Hi0lAy8"
    },
    {
+    "verdict": "Toxin Debuffer & Accuracy Buffer",
+    "note": "Equipped with Ilhuya's Fang artifact and Bone Resonance set with maxed Accuracy to share Accuracy with the team.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=Qk0ejZ_Wiaw"
+   },
+   {
     "verdict": "Top Toxin Legendary",
     "note": "Used by high-ranking leaderboard players to achieve massive boss damage in Temporal Vortex.",
     "date": "2026-09-28",
@@ -34111,11 +34302,25 @@
     "url": "https://www.youtube.com/watch?v=ydl2Hi0lAy8"
    },
    {
+    "verdict": "Primary Toxin DPS",
+    "note": "Uses Statue of the Serpent Deity artifact; stack Enlightenment and ATK, skipping Accuracy if paired with Twitch's Accuracy-sharing gear.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=Qk0ejZ_Wiaw"
+   },
+   {
     "verdict": "Top-tier Toxin DPS",
     "note": "Reaching Inspiration 3 adds significant Enlightenment and Attack stats, boosting Toxin team output in Temporal Vortex.",
     "date": "2026-09-28",
     "channel": "Skratch Gaming",
     "url": "https://www.youtube.com/watch?v=R3lV4su2x4k"
+   },
+   {
+    "verdict": "Premier Toxin DPS",
+    "note": "Deals heavy Poison Derivative Damage via her Passive and Ultimate, gaining a massive damage boost from Sleight's exclusive artifact.",
+    "date": "2026-09-28",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=RKTCWfPI9og"
    },
    {
     "verdict": "Main damage dealer for Toxin teams",
@@ -34824,6 +35029,13 @@
     "date": "2026-09-30",
     "channel": "Gorax",
     "url": "https://www.youtube.com/watch?v=ydl2Hi0lAy8"
+   },
+   {
+    "verdict": "Top Toxin Support (Replaces Reytah)",
+    "note": "Uses Dragonbone Catalyst artifact for a 25% damage boost; build high HP and DEF for survivability.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=Qk0ejZ_Wiaw"
    },
    {
     "verdict": "Core Toxin Legendary",
@@ -35834,6 +36046,13 @@
     "url": "https://www.youtube.com/watch?v=kmI10_fvl-c"
    },
    {
+    "verdict": "Key Toxin Support & Healer",
+    "note": "Uses Misty Conch artifact to stack debuffs and relies on high ATK to scale his reworked healing.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=Qk0ejZ_Wiaw"
+   },
+   {
     "verdict": "Surprising top pick in Toxin teams",
     "note": "Referred to as the 'blueberry muffin,' he provides consistent survivability and utility that lets the Toxin team easily surpass 13 billion damage.",
     "date": "2026-09-28",
@@ -36786,6 +37005,20 @@
     "url": "https://www.youtube.com/watch?v=rwe-Dd4l8ps"
    },
    {
+    "verdict": "Meta Toxin DPS",
+    "note": "Built with Shell of Gilded Doom artifact and Puppeteer set for 18s rotation tuning; passive ignores enemy resistance.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=Qk0ejZ_Wiaw"
+   },
+   {
+    "verdict": "Top priority for Toxin teams",
+    "note": "His exclusive artifact Shell of Gilded Doom ignores resistance, applies extra Toxin stacks, and increases Poison Derivative Damage by up to 50%.",
+    "date": "2026-09-28",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=RKTCWfPI9og"
+   },
+   {
     "verdict": "Key Toxin enabler",
     "note": "Uses Puppeteer set and exclusive artifact to extend debuff durations across the fight.",
     "date": "2026-09-28",
@@ -37098,6 +37331,13 @@
     "url": "https://www.youtube.com/watch?v=-qh8Km9Lsw0"
    },
    {
+    "verdict": "Core Dauntless DPS",
+    "note": "Requires high ATK, 100% Crit Rate, Crit Damage, and low Attack Interval via Attack Speed runes.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=Qk0ejZ_Wiaw"
+   },
+   {
     "verdict": "Core Dauntless Buffer",
     "note": "Crucial for attack speed and team buff uptime.",
     "date": "2026-09-28",
@@ -37336,6 +37576,13 @@
     "date": "2026-09-30",
     "channel": "liveranov",
     "url": "https://www.youtube.com/watch?v=-qh8Km9Lsw0"
+   },
+   {
+    "verdict": "High-Damage Dauntless DPS",
+    "note": "Uses Arbiter's Pendant artifact; prioritize ATK, Crit Rate, and Crit Damage while ensuring her ATK is lower than Guinavivre's.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=Qk0ejZ_Wiaw"
    },
    {
     "verdict": "Top tier Dauntless buffer and DPS",
@@ -37615,6 +37862,13 @@
     "date": "2026-09-30",
     "channel": "liveranov",
     "url": "https://www.youtube.com/watch?v=-qh8Km9Lsw0"
+   },
+   {
+    "verdict": "Essential Dauntless Enabler",
+    "note": "Built with Witch's Remains artifact to apply Lightning Vulnerability and supportive gear to boost team damage.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=Qk0ejZ_Wiaw"
    },
    {
     "verdict": "Dauntless Team Member",
@@ -39011,6 +39265,13 @@
     "date": "2026-09-30",
     "channel": "Skratch Gaming",
     "url": "https://www.youtube.com/watch?v=DQlhUcZ_2zg"
+   },
+   {
+    "verdict": "Top Exclusive Support Enabler",
+    "note": "Built with Puppeteer set to lower ultimate cooldown to match 18s boss rotations and extend debuffs.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=Qk0ejZ_Wiaw"
    },
    {
     "verdict": "Essential Dauntless buffer",
@@ -40972,6 +41233,13 @@
     "date": "2026-09-30",
     "channel": "Gorax",
     "url": "https://www.youtube.com/watch?v=ydl2Hi0lAy8"
+   },
+   {
+    "verdict": "Recommended 100/200 Echo milestone pick",
+    "note": "Solid hero choice to build up Inspire levels through earlier Echo wishlist milestones.",
+    "date": "2026-09-28",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=RKTCWfPI9og"
    },
    {
     "verdict": "Decent Poison DPS",

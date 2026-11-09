@@ -1,26 +1,6 @@
 {
- "built": "2026-11-09T06:52Z",
+ "built": "2026-11-09T07:23Z",
  "videos": [
-  {
-   "id": "RKTCWfPI9og",
-   "title": "💥 I HIT THE JACKPOT 💥My First EVER Triple Lego In A 10 Pull | Dragonheir x Dragonstride",
-   "channel": "OddOneGaming RPGs",
-   "published": "2026-09-28T12:00:00+00:00",
-   "status": "retry",
-   "priority": false,
-   "duration_s": 580,
-   "error": ""
-  },
-  {
-   "id": "Qk0ejZ_Wiaw",
-   "title": "Temporal Vortex Team Guide | Best Meta Heroes & Teams | Dragonheir x Dragonstride",
-   "channel": "Gorax",
-   "published": "2026-09-28T12:00:00+00:00",
-   "status": "retry",
-   "priority": false,
-   "duration_s": 627,
-   "error": ""
-  },
   {
    "id": "P7wro12Zl00",
    "title": "🎂 Dragonheir 3rd ANNIVERSARY — New EVENT & Details Explained! | Dragonheir: Silent Gods",
@@ -96,7 +76,7 @@
    "title": "💥 1 Team FULL AUTO All Stages 💥Meander Trial 1-60 S8 Team Showcase | Dragonheir x Dragonstride",
    "channel": "OddOneGaming RPGs",
    "published": "2026-09-28T12:00:00+00:00",
-   "status": "new",
+   "status": "retry",
    "priority": false,
    "duration_s": 652,
    "error": ""

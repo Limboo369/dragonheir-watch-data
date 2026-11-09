@@ -1,12 +1,12 @@
 {
- "built": "2026-11-09T06:52Z",
- "last_fetch": "2026-11-09T06:17Z",
+ "built": "2026-11-09T07:23Z",
+ "last_fetch": "2026-11-09T07:17Z",
  "counts": {
-  "summarized": 394,
+  "summarized": 396,
   "skipped_giveaway": 17,
   "baseline": 22,
-  "new": 237,
-  "retry": 9,
+  "new": 236,
+  "retry": 8,
   "skipped_live": 1,
   "failed": 3
  },
@@ -30,12 +30,6 @@
    "error": ""
   },
   {
-   "title": "Temporal Vortex Team Guide | Best Meta Heroes & Teams | Dragonheir x Dragonstride",
-   "channel": "Gorax",
-   "status": "retry",
-   "error": ""
-  },
-  {
    "title": "The BEST Artifacts Every Player Needs Early | Dragonheir x Dragonstride",
    "channel": "Gorax",
    "status": "retry",
@@ -54,7 +48,7 @@
    "error": ""
   },
   {
-   "title": "💥 I HIT THE JACKPOT 💥My First EVER Triple Lego In A 10 Pull | Dragonheir x Dragonstride",
+   "title": "💥 1 Team FULL AUTO All Stages 💥Meander Trial 1-60 S8 Team Showcase | Dragonheir x Dragonstride",
    "channel": "OddOneGaming RPGs",
    "status": "retry",
    "error": ""
@@ -86,38 +80,11 @@
  ],
  "budget": {
   "day": "2026-11-09",
-  "seconds": 20492,
+  "seconds": 23097,
   "v2": 1,
-  "quota_hit": 1794201524.830172
+  "quota_hit": 1794208692.7710142
  },
  "log_tail": [
-  "… OddOneGaming RPGs: 💥 They Are BACK! 💥Corrosion vs Durem CC Boss S8 GUIDE | Drag",
-  "… Skratch Gaming: The Best Crown Contest Teams! The Lightning Fortress Dragonh",
-  "… liveranov: Aura Team vs Fire Guardians | Crown Contest | Dragonheir | S… Suzi Plays: My Starweave Echo Exchange & Advice 🎁  3rd Anniversary Event",
-  "",
-  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
-  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
-  "… OddOneGaming RPGs: 💥 I HIT THE JACKPOT 💥My First EVER Triple Lego In A 10 Pull ",
-  "saved S9ROeJI66hk",
-  "+ liveranov: Aura Team vs Fire Guardians | Crown Contest | Dragonheir | S",
-  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
-  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
-  "… Neff Gaming: BEST Cheap Aura Team vs Joyce! | S8 Continental Challenge | ",
-  "! 💥 I HIT THE JACKPOT 💥My First EVER Triple Lego In : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
-  "… Skratch Gaming: I GOT LUCKY Maxing The New Banner!! Dragonheir: Silent Gods ",
-  "! BEST Cheap Aura Team vs Joyce! | S8 Continental Ch: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
-  "… OddOneGaming RPGs: 🚨 As EASY As It Gets 🚨 Ancient Battlefield Stage 12 & Challe",
-  "! I GOT LUCKY Maxing The New Banner!! Dragonheir: Si: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
-  "… Gorax: Temporal Vortex Team Guide | Best Meta Heroes & Teams | Drag",
-  "! 🚨 As EASY As It Gets 🚨 Ancient Battlefield Stage 1: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
-  "… Skyasterix Gaming: 🎂 Dragonheir 3rd ANNIVERSARY — New EVENT & Details Explained",
-  "! Temporal Vortex Team Guide | Best Meta Heroes & Te: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
-  "… Volkin Dragonheir: FREE Daily Summons! NO BANNER YET? - Day 1 Update & MORE!!! ",
-  "! 🎂 Dragonheir 3rd ANNIVERSARY — New EVENT & Details: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
-  "… Volkin Dragonheir: Day 1 Guide - PROGRESS FAST!!! [Dragonheir: Silent Gods]",
-  "! FREE Daily Summons! NO BANNER YET? - Day 1 Update : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
-  "! Day 1 Guide - PROGRESS FAST!!! [Dragonheir: Silent: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
-  "saved SBgHAdyNZP4 (unknown hero names: Guinevire)",
   "+ Skratch Gaming: The Best Crown Contest Teams! The Lightning Fortress Dragonh",
   "saved RkOaHBayB0Y",
   "+ Suzi Plays: My Starweave Echo Exchange & Advice 🎁  3rd Anniversary Event",
@@ -170,7 +137,34 @@
   "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "Gemini quota was full less than an hour ago, trying again next round",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 394 videos, 222 heroes"
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 394 videos, 222 heroes",
+  "== 2026-11-09 07:17",
+  "fetch done: 0 new transcripts, 0 not available yet",
+  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
+  "… OddOneGaming RPGs: 💥 I HIT THE JACKPOT 💥My First EVER Triple Lego In A 10 Pull ",
+  "… Gorax: Temporal Vortex Team Guide | Best Meta Heroes & Teams | Drag",
+  "… Skyasterix Gaming: 🎂 Dragonheir 3rd ANNIVERSARY — New EVENT & Details Explained",
+  "… Volkin Dragonheir: FREE Daily Summons! NO BANNER YET? - Day 1 Update & MORE!!! ",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
+  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
+  "… Volkin Dragonheir: Day 1 Guide - PROGRESS FAST!!! [Dragonheir: Silent Gods]",
+  "saved RKTCWfPI9og",
+  "+ OddOneGaming RPGs: 💥 I HIT THE JACKPOT 💥My First EVER Triple Lego In A 10 Pull ",
+  "… Gorax: How to JOIN the Faction War & Claim Web Event Legendary Hero",
+  "! Day 1 Guide - PROGRESS FAST!!! [Dragonheir: Silent: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+  "… Gorax: The BEST Artifacts Every Player Needs Early | Dragonheir x D",
+  "! How to JOIN the Faction War & Claim Web Event Lege: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+  "… liveranov: INCANDESCENCE Team Speed Runs | Dragonheir: Silent Gods",
+  "! The BEST Artifacts Every Player Needs Early | Drag: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+  "… Skratch Gaming: I Went to China to Visit the Dragonheir: Silent Gods Studio!",
+  "! INCANDESCENCE Team Speed Runs | Dragonheir: Silent: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+  "… OddOneGaming RPGs: 💥 1 Team FULL AUTO All Stages 💥Meander Trial 1-60 S8 Team Sh",
+  "! I Went to China to Visit the Dragonheir: Silent Go: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+  "! 💥 1 Team FULL AUTO All Stages 💥Meander Trial 1-60 : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+  "saved Qk0ejZ_Wiaw",
+  "+ Gorax: Temporal Vortex Team Guide | Best Meta Heroes & Teams | Drag"
  ],
  "crontab": [],
  "channels": [
@@ -178,55 +172,55 @@
    "name": "Skratch Gaming",
    "id": "UCoSkzr1pXpt3d0jIxsc6ufw",
    "enabled": true,
-   "checked": "2026-11-09T06:17Z"
+   "checked": "2026-11-09T07:17Z"
   },
   {
    "name": "Gorax",
    "id": "UCNas7BnuOIjDEzY1D53kb1w",
    "enabled": true,
-   "checked": "2026-11-09T06:17Z"
+   "checked": "2026-11-09T07:17Z"
   },
   {
    "name": "Neff Gaming",
    "id": "UCsxs6YhNd_B36RgUAjbpJ_A",
    "enabled": true,
-   "checked": "2026-11-09T06:17Z"
+   "checked": "2026-11-09T07:17Z"
   },
   {
    "name": "Volkin Dragonheir",
    "id": "UCfRpOh_ywVjzhh9fxHbreGw",
    "enabled": true,
-   "checked": "2026-11-09T06:17Z"
+   "checked": "2026-11-09T07:17Z"
   },
   {
    "name": "Fastidious Dragonheir",
    "id": "UC16mpj5wEemSZX-uTlHe9Ww",
    "enabled": true,
-   "checked": "2026-11-09T06:17Z"
+   "checked": "2026-11-09T07:17Z"
   },
   {
    "name": "OddOneGaming RPGs",
    "id": "UC1ivUEf_poI9_R2eVKa8wRQ",
    "enabled": true,
-   "checked": "2026-11-09T06:17Z"
+   "checked": "2026-11-09T07:17Z"
   },
   {
    "name": "Suzi Plays",
    "id": "UCyo1-TkunhGcK6khU1h8Ypw",
    "enabled": true,
-   "checked": "2026-11-09T06:17Z"
+   "checked": "2026-11-09T07:17Z"
   },
   {
    "name": "Skyasterix Gaming",
    "id": "UCr5Gb3910rK7QPmKMmdagsA",
    "enabled": true,
-   "checked": "2026-11-09T06:17Z"
+   "checked": "2026-11-09T07:17Z"
   },
   {
    "name": "liveranov",
    "id": "UCqCR7ofFHhWwXy3Hg00fqEw",
    "enabled": true,
-   "checked": "2026-11-09T06:17Z"
+   "checked": "2026-11-09T07:17Z"
   }
  ]
 }
