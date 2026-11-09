@@ -1,0 +1,71 @@
+{
+ "summary": "This video tests the new Season 9 Radiant Aura hero Holfast at Inspiration 0 in Temporal Vortex IV Cloudtop Arbor (Sunlit side). Holfast acts as a support and sub-DPS by providing Aura energy to the highest-attack ally, granting a 30% damage bonus upon ally ultimate cast, and providing random offensive buffs. Deployed alongside Talethia, Diantha, Anneliesis, and Celestine, the Aura team achieved 11.7 billion damage, with Holfast contributing 1.48 billion (12.7%) and Talethia doing the bulk (80%). Full hero builds and exact skill timings are provided.",
+ "topics": [
+  "Holfast",
+  "Temporal Vortex",
+  "Aura Team",
+  "Cloudtop Arbor"
+ ],
+ "heroes": [
+  {
+   "name": "Holfast",
+   "verdict": "Strong Aura support sub-DPS",
+   "note": "Dealt 1.48 billion damage (12.7% of Aura team output) at Inspiration 0 while boosting Aura allies with energy, damage buffs, and random stats.",
+   "known": true
+  },
+  {
+   "name": "Talethia",
+   "verdict": "Main DPS for Aura team",
+   "note": "Carried 80% of the Sunlit side damage dealing over 9.3 billion damage.",
+   "known": true
+  },
+  {
+   "name": "Diantha",
+   "verdict": "Core Aura energy enabler",
+   "note": "Restores Aura energy to keep team ultimate rotations fluid.",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "Aura support",
+   "note": "Provides possess control and Radiant/Aura team support.",
+   "known": true
+  },
+  {
+   "name": "Celestine",
+   "verdict": "Frontline Ice Tank",
+   "note": "Maintains team survivability on the Sunlit side of Temporal Vortex IV.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Temporal Vortex IV - Cloudtop Arbor (Sunlit)",
+   "heroes": [
+    "Talethia",
+    "Diantha",
+    "Anneliesis",
+    "Celestine",
+    "Holfast"
+   ],
+   "note": "Scored 11.7 billion damage on Sunlit side with Holfast at Inspiration 0."
+  }
+ ],
+ "meta_changes": [
+  "Holfast provides dedicated Aura energy battery mechanics, transferring energy to top-attack Aura allies and buffing damage by 30% when ultimates trigger."
+ ],
+ "tips": [
+  "Set ultimate timing first cast delays to Celestine 10.0s, Diantha 17.5s, Talethia 17.7s, Holfast 17.7s, and Anneliesis 35.0s, with all recast intervals set to 18.0s."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "UaQD1-RL_OU",
+ "model": "gemini-3.5-flash",
+ "channel": "liveranov",
+ "title": "Holfast + Aura vs Temporal Vortex IV: Cloudtop Arbor (Sunlit) | Dragonheir: Silent Gods",
+ "published": "2026-11-08T18:07:31+00:00",
+ "url": "https://www.youtube.com/watch?v=UaQD1-RL_OU",
+ "short": false,
+ "summarized": "2026-11-09T00:18Z"
+}

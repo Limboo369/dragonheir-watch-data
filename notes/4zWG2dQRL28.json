@@ -1,0 +1,98 @@
+{
+ "summary": "Skratch showcases top-performing team compositions for the Crown Contest Lightning Fortress boss in Dragonheir: Silent Gods. He compares Toxin, Dauntless, and Aura elemental setups, detailing gear synchronization, positioning, and skill timing. Toxin teams led by Serpentemis with Lothair or Twitch consistently achieve 5B to 7B+ damage. Skratch highlights the impact of the exclusive hero Holfast in Aura teams, demonstrating a 1 billion damage increase over older variants.",
+ "topics": [
+  "Crown Contest",
+  "Lightning Fortress",
+  "Toxin Team",
+  "Aura Team",
+  "Holfast"
+ ],
+ "heroes": [
+  {
+   "name": "Holfast",
+   "verdict": "Top Aura DPS",
+   "note": "Provides over 1 billion additional damage when slotted into Aura team compositions.",
+   "known": true
+  },
+  {
+   "name": "Lothair",
+   "verdict": "Key Toxin DPS",
+   "note": "Pushes Toxin team damage past 7 billion when paired with Serpentemis.",
+   "known": true
+  },
+  {
+   "name": "Twitch",
+   "verdict": "Budget Toxin substitute",
+   "note": "Effective alternative to Lothair, scoring over 5 billion damage in Toxin comps.",
+   "known": true
+  },
+  {
+   "name": "Celestine",
+   "verdict": "Top Frost DPS",
+   "note": "Extremely powerful option for high-scoring boss challenges if owned.",
+   "known": true
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "Core Toxin enabler",
+   "note": "Essential core hero for maximizing Toxin team damage output.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Crown Contest - Lightning Fortress",
+   "heroes": [
+    "Serpentemis",
+    "Sleight",
+    "Lothair",
+    "Child of Chaos",
+    "Lorarii"
+   ],
+   "note": "Primary Toxin setup delivering 7.3B+ damage; Lothair can be swapped for Twitch for 5.3B+ damage."
+  },
+  {
+   "mode": "Crown Contest - Lightning Fortress",
+   "heroes": [
+    "Nastjenka",
+    "Kurvida",
+    "Maashtur",
+    "Irmoush",
+    "Master Genie"
+   ],
+   "note": "Dauntless team composition scoring roughly 3.2B damage."
+  },
+  {
+   "mode": "Crown Contest - Lightning Fortress",
+   "heroes": [
+    "Golden Treasym",
+    "Lincos",
+    "Anneliesis",
+    "Solmo",
+    "Holfast"
+   ],
+   "note": "High-tier Aura team producing over 5.5B damage with Holfast."
+  }
+ ],
+ "meta_changes": [
+  "Toxin and Aura teams dominate the Crown Contest Lightning Fortress rankings.",
+  "Dauntless compositions have dropped in relative efficiency compared to previous seasons.",
+  "Exclusive hero Holfast substantially elevates the damage ceiling for Aura team builds."
+ ],
+ "tips": [
+  "Substitute Lothair with Twitch if you lack materials or the hero to achieve 5B+ Toxin damage.",
+  "Position heroes carefully so aura-buffing mythical gear pieces cover the entire team.",
+  "Sync equipment sets and skill timings when testing hero swaps to isolate true damage differences."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "4zWG2dQRL28",
+ "model": "gemini-3.5-flash",
+ "channel": "Skratch Gaming",
+ "title": "USE THESE Teams For Crazy Damage! Crown Contest Dragonheir: Silent Gods x Dragonstride",
+ "published": "2026-11-08T17:45:38+00:00",
+ "url": "https://www.youtube.com/watch?v=4zWG2dQRL28",
+ "short": false,
+ "summarized": "2026-11-09T00:18Z"
+}
