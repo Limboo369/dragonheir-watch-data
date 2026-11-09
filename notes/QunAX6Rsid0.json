@@ -1,0 +1,81 @@
+{
+ "summary": "This guide provides an Aura-based speed team to clear Ancient Battlefield Stage 12 and Challenge 4 in approximately 20 to 30 seconds. The core strategy utilizes Vinyara to absorb the boss's stun from the backline and inflict Attack Penalty II, which the Deluxe Mimic familiar turns into Enhanced Recharge Down to completely lock down boss energy. Talethia serves as the primary damage carry, buffed by Lincos and Diantha, while Anneliesis ensures team survivability. Specific ultimate skill timings and tanky itemization are outlined to ensure 100% control over the boss rotation.",
+ "topics": [
+  "Ancient Battlefield",
+  "Ancient Battlefield Challenge 4",
+  "Soul Devourer Gruentius",
+  "Deluxe Mimic Cheese",
+  "Aura Team",
+  "Hero Builds"
+ ],
+ "heroes": [
+  {
+   "name": "Vinyara",
+   "verdict": "Essential control anchor",
+   "note": "Immune to control effects so she baits the boss's furthest-target stun, while applying Attack Penalty II to trigger the Deluxe Mimic familiar's recharge lock.",
+   "known": true
+  },
+  {
+   "name": "Talethia",
+   "verdict": "Top damage dealer",
+   "note": "Quickly melts the boss within 20 to 30 seconds when supported by Aura buffs and high Inspiration.",
+   "known": true
+  },
+  {
+   "name": "Diantha",
+   "verdict": "Core frontline tank and debuffer",
+   "note": "Built full tank with Sylvan Refuge and Monelisse's Teardrop to withstand boss attacks while applying Defense Penalty II via Witch's Remains.",
+   "known": true
+  },
+  {
+   "name": "Lincos",
+   "verdict": "Key offensive support",
+   "note": "Buffs Talethia's damage output while carrying Ascendant's Key and the Puppeteer's Inspiration gear set.",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "Top sustain support",
+   "note": "Provides vital shielding, healing, and debuff cleansing to keep the team alive through early burst.",
+   "known": true
+  },
+  {
+   "name": "Solmo",
+   "verdict": "Viable budget replacement",
+   "note": "Can replace Anneliesis as a healing and shielding support if she is unavailable.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Ancient Battlefield (Stage 12 & Challenge 4)",
+   "heroes": [
+    "Talethia",
+    "Diantha",
+    "Lincos",
+    "Anneliesis",
+    "Vinyara"
+   ],
+   "note": "Uses Deluxe Mimic familiar. Vinyara is placed furthest back to soak the stun; skill timings synchronize Attack Penalty II with the Mimic's Enhanced Recharge Down to halt boss turns."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Place Vinyara as far back as possible so she baits the boss's stun attack, which she completely ignores due to innate control immunity.",
+  "Set Vinyara's ultimate first cast to 9.5s and the Deluxe Mimic skill to 8.0s; since the Mimic takes 2s to channel, it hits right after Vinyara applies Attack Penalty II, applying Enhanced Recharge Down.",
+  "Set Talethia's ultimate timing to around 10.0s to 12.0s so Diantha and Lincos have already applied their damage buffs and defense shreds.",
+  "Build Diantha defensively with 3-piece Sylvan Refuge and damage reduction to survive single-target and AoE swings in the tank slot.",
+  "Only complete Challenge 4 once per weekly rotation; save remaining challenge tickets for standard dungeons that reward Mythic+ gear."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "QunAX6Rsid0",
+ "model": "gemini-3.8-flash",
+ "channel": "OddOneGaming RPGs",
+ "title": "🚨 As EASY As It Gets 🚨 Ancient Battlefield Stage 12 & Challenge 4 GUIDE | Dragonheir x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=QunAX6Rsid0",
+ "short": false,
+ "summarized": "2026-11-09T05:19Z"
+}

@@ -1,0 +1,80 @@
+{
+ "summary": "This guide showcases an optimized Aura team composition from top Chinese server players for Week 3 of the Continental Challenge Season 8 against the boss Joyce. The lineup replaces Rina with Naro and Anneliesis, both performing effectively at Inspiration 0 and freeing Rina to lead a secondary Thunderbolt team. The video details individual gear builds, emphasizing skill haste thresholds for consistent rotations. Exact auto skill timings and pet abilities are broken down to maximize damage against Joyce and its summons.",
+ "topics": [
+  "Continental Challenge",
+  "Joyce",
+  "Aura Team",
+  "Chinese Server Meta",
+  "Boss Guide"
+ ],
+ "heroes": [
+  {
+   "name": "Naro",
+   "verdict": "Top budget Aura support",
+   "note": "Makes a massive comeback in Continental Challenge Week 3, functioning effectively even at Inspiration 0 to replace Rina without stealing key heroes.",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "Core Aura buffer/support",
+   "note": "Performs at Inspiration 0 when built with around 60 Skill Haste and the Secrecy set to maintain proper buff uptime.",
+   "known": true
+  },
+  {
+   "name": "Rina",
+   "verdict": "Freed for secondary team",
+   "note": "Shifted out of the primary Aura lineup so she can carry the secondary Thunderbolt team to achieve high overall Continental Challenge scores.",
+   "known": false
+  },
+  {
+   "name": "Lincos",
+   "verdict": "Top Aura damage dealer",
+   "note": "Built with Puppeteer set and stacked Attack, dealing approximately 1.8 billion damage in the encounter.",
+   "known": true
+  },
+  {
+   "name": "Talethia",
+   "verdict": "Primary Aura damage dealer",
+   "note": "Utilizes classic Attack and Critical gear setups to push heavy damage alongside Lincos.",
+   "known": true
+  },
+  {
+   "name": "Diantha",
+   "verdict": "Essential Aura debuffer",
+   "note": "Built with high Defense, Attack, and Accuracy to consistently land debuffs and trigger effects.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Continental Challenge (Joyce)",
+   "heroes": [
+    "Talethia",
+    "Diantha",
+    "Lincos",
+    "Anneliesis",
+    "Naro"
+   ],
+   "note": "Budget Aura setup working with Inspiration 0 on Naro and Anneliesis. Uses Golden Tressim pet starting at 16.0s; Diantha at 18.0s; Talethia at 18.1s; Lincos at 18.1s; Naro at 22.0s; Anneliesis at 35.7s; all on an 18.0s re-cast interval."
+  }
+ ],
+ "meta_changes": [
+  "Rina is no longer required in top Aura boss setups, allowing high-ranking players to delegate her to Thunderbolt teams while utilizing Naro and Anneliesis at zero inspiration."
+ ],
+ "tips": [
+  "Ensure Anneliesis reaches approximately 60 Skill Haste and equips the Secrecy set to prevent rotation desyncs.",
+  "Equip Naro with 2 pieces of the Secrecy set and aim for roughly 61 Skill Haste and adequate Accuracy.",
+  "Against Joyce, tune ultimate cast timings to 18.0s intervals, delaying Anneliesis until 35.7s and Naro until 22.0s on their first casts."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "R4_F3M1Bq7A",
+ "model": "gemini-3.8-flash",
+ "channel": "Neff Gaming",
+ "title": "BEST Cheap Aura Team vs Joyce! | S8 Continental Challenge | Dragonheir: Silent Gods",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=R4_F3M1Bq7A",
+ "short": false,
+ "summarized": "2026-11-09T05:22Z"
+}

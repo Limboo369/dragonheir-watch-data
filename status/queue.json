@@ -1,5 +1,5 @@
 {
- "built": "2026-11-09T04:52Z",
+ "built": "2026-11-09T05:22Z",
  "videos": [
   {
    "id": "RKTCWfPI9og",
@@ -9,36 +9,6 @@
    "status": "retry",
    "priority": false,
    "duration_s": 580,
-   "error": ""
-  },
-  {
-   "id": "R4_F3M1Bq7A",
-   "title": "BEST Cheap Aura Team vs Joyce! | S8 Continental Challenge | Dragonheir: Silent Gods",
-   "channel": "Neff Gaming",
-   "published": "2026-09-28T12:00:00+00:00",
-   "status": "retry",
-   "priority": false,
-   "duration_s": 406,
-   "error": ""
-  },
-  {
-   "id": "R3lV4su2x4k",
-   "title": "I GOT LUCKY Maxing The New Banner!! Dragonheir: Silent Gods x Dragonstride",
-   "channel": "Skratch Gaming",
-   "published": "2026-09-28T12:00:00+00:00",
-   "status": "retry",
-   "priority": false,
-   "duration_s": 1091,
-   "error": ""
-  },
-  {
-   "id": "QunAX6Rsid0",
-   "title": "🚨 As EASY As It Gets 🚨 Ancient Battlefield Stage 12 & Challenge 4 GUIDE | Dragonheir x Dragonstride",
-   "channel": "OddOneGaming RPGs",
-   "published": "2026-09-28T12:00:00+00:00",
-   "status": "retry",
-   "priority": false,
-   "duration_s": 516,
    "error": ""
   },
   {
@@ -86,7 +56,7 @@
    "title": "How to JOIN the Faction War & Claim Web Event Legendary Hero! | Dragonheir x Dragonstride",
    "channel": "Gorax",
    "published": "2026-09-28T12:00:00+00:00",
-   "status": "new",
+   "status": "retry",
    "priority": false,
    "duration_s": 148,
    "error": ""
@@ -96,7 +66,7 @@
    "title": "The BEST Artifacts Every Player Needs Early | Dragonheir x Dragonstride",
    "channel": "Gorax",
    "published": "2026-09-28T12:00:00+00:00",
-   "status": "new",
+   "status": "retry",
    "priority": false,
    "duration_s": 806,
    "error": ""
@@ -106,7 +76,7 @@
    "title": "INCANDESCENCE Team Speed Runs | Dragonheir: Silent Gods",
    "channel": "liveranov",
    "published": "2026-09-28T12:00:00+00:00",
-   "status": "new",
+   "status": "retry",
    "priority": false,
    "duration_s": 153,
    "error": ""
@@ -116,7 +86,7 @@
    "title": "I Went to China to Visit the Dragonheir: Silent Gods Studio!",
    "channel": "Skratch Gaming",
    "published": "2026-09-28T12:00:00+00:00",
-   "status": "new",
+   "status": "retry",
    "priority": false,
    "duration_s": 1049,
    "error": ""

@@ -1,0 +1,76 @@
+{
+ "summary": "Skratch pulls on the Option Summons II banner targeting Thunderbolt and Toxin heroes. He secures early copies of Tariz and Alaura, and uses the 300-summons choice to select Serpentemis for her Inspiration 3 upgrade. Testing his upgraded Toxin team alongside his Dauntless team in Temporal Vortex Cloudtop Arbor IV yields over 33 Billion total damage. He advises stopping at 300 summons on Option banners rather than pushing to 800, as the extra dice cost is inefficient.",
+ "topics": [
+  "Option Summons",
+  "Temporal Vortex",
+  "Serpentemis",
+  "Tariz",
+  "Summoning"
+ ],
+ "heroes": [
+  {
+   "name": "Maashtur",
+   "verdict": "Top Dauntless DPS",
+   "note": "His Inspiration 3 upgrade provides massive damage gains for Dauntless teams in Temporal Vortex.",
+   "known": true
+  },
+  {
+   "name": "Tariz",
+   "verdict": "Strong Thunderbolt DPS",
+   "note": "Great Thunderbolt damage dealer that significantly boosts Thunderbolt lineups.",
+   "known": true
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "Top-tier Toxin DPS",
+   "note": "Reaching Inspiration 3 adds significant Enlightenment and Attack stats, boosting Toxin team output in Temporal Vortex.",
+   "known": true
+  },
+  {
+   "name": "Alaura",
+   "verdict": "Good Thunderbolt hero",
+   "note": "Useful for Thunderbolt teams and Magichess, though Inspiration 1 offers minor stat gains.",
+   "known": true
+  },
+  {
+   "name": "Vicana",
+   "verdict": "Niche DPS",
+   "note": "Solid hero overall, but less viable for current end-game Temporal Vortex boss setups.",
+   "known": true
+  },
+  {
+   "name": "Berengar",
+   "verdict": "Low priority",
+   "note": "Rarely used in end-game content outside of niche uses like Fae Meander.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Temporal Vortex",
+   "heroes": [
+    "Serpentemis",
+    "Jathalea",
+    "Nastjenka"
+   ],
+   "note": "Combines a Toxin damage team and a Dauntless damage team to achieve over 33 Billion total damage on Cloudtop Arbor IV."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "On Option Summons banners, selecting Toxin and Thunderbolt pools gives access to strong exclusive supports and DPS characters like Tariz, Alaura, and Serpentemis.",
+  "Stopping at 300 summons on Option banners is recommended, as pushing to 800 requires 500 extra dice which is not cost-effective.",
+  "Toxin teams in Temporal Vortex experience high damage variance based on Toxin debuff application RNG and hero survival."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "R3lV4su2x4k",
+ "model": "gemini-3.5-flash",
+ "channel": "Skratch Gaming",
+ "title": "I GOT LUCKY Maxing The New Banner!! Dragonheir: Silent Gods x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=R3lV4su2x4k",
+ "short": false,
+ "summarized": "2026-11-09T05:18Z"
+}

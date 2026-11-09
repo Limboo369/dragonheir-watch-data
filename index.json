@@ -1,14 +1,14 @@
 {
- "notes": 391,
+ "notes": 394,
  "latest_video": "2026-11-08T22:57:21+00:00",
  "queue": {
-  "summarized": 391,
+  "summarized": 394,
   "skipped_giveaway": 17,
   "baseline": 22,
-  "new": 241,
-  "retry": 8,
+  "new": 237,
+  "retry": 9,
   "skipped_live": 1,
   "failed": 3
  },
- "pushed": "2026-11-09T04:52Z"
+ "pushed": "2026-11-09T05:22Z"
 }

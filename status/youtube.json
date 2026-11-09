@@ -1,5 +1,5 @@
 {
- "built": "2026-11-09T04:52Z",
+ "built": "2026-11-09T05:22Z",
  "videos": [
   {
    "summary": "Skyasterix conducts a 600 Heliolite Dice summon session split across the Anneliesis return banner and the Total Selectable banner. He advises players, especially beginners building Aura teams, to prioritize pulling Anneliesis over niche booster heroes. Specifically, he recommends reaching Inspiration 3 on Anneliesis to unlock a passive start-of-battle boost granting all allies 10% max HP and 10% damage bonus. The remainder of the video covers summon pulls alongside persistent client performance issues and lag.",
@@ -19398,6 +19398,243 @@
    "summarized": "2026-11-03T01:23Z"
   },
   {
+   "summary": "This guide provides an Aura-based speed team to clear Ancient Battlefield Stage 12 and Challenge 4 in approximately 20 to 30 seconds. The core strategy utilizes Vinyara to absorb the boss's stun from the backline and inflict Attack Penalty II, which the Deluxe Mimic familiar turns into Enhanced Recharge Down to completely lock down boss energy. Talethia serves as the primary damage carry, buffed by Lincos and Diantha, while Anneliesis ensures team survivability. Specific ultimate skill timings and tanky itemization are outlined to ensure 100% control over the boss rotation.",
+   "topics": [
+    "Ancient Battlefield",
+    "Ancient Battlefield Challenge 4",
+    "Soul Devourer Gruentius",
+    "Deluxe Mimic Cheese",
+    "Aura Team",
+    "Hero Builds"
+   ],
+   "heroes": [
+    {
+     "name": "Vinyara",
+     "verdict": "Essential control anchor",
+     "note": "Immune to control effects so she baits the boss's furthest-target stun, while applying Attack Penalty II to trigger the Deluxe Mimic familiar's recharge lock.",
+     "known": true
+    },
+    {
+     "name": "Talethia",
+     "verdict": "Top damage dealer",
+     "note": "Quickly melts the boss within 20 to 30 seconds when supported by Aura buffs and high Inspiration.",
+     "known": true
+    },
+    {
+     "name": "Diantha",
+     "verdict": "Core frontline tank and debuffer",
+     "note": "Built full tank with Sylvan Refuge and Monelisse's Teardrop to withstand boss attacks while applying Defense Penalty II via Witch's Remains.",
+     "known": true
+    },
+    {
+     "name": "Lincos",
+     "verdict": "Key offensive support",
+     "note": "Buffs Talethia's damage output while carrying Ascendant's Key and the Puppeteer's Inspiration gear set.",
+     "known": true
+    },
+    {
+     "name": "Anneliesis",
+     "verdict": "Top sustain support",
+     "note": "Provides vital shielding, healing, and debuff cleansing to keep the team alive through early burst.",
+     "known": true
+    },
+    {
+     "name": "Solmo",
+     "verdict": "Viable budget replacement",
+     "note": "Can replace Anneliesis as a healing and shielding support if she is unavailable.",
+     "known": true
+    }
+   ],
+   "teams": [
+    {
+     "mode": "Ancient Battlefield (Stage 12 & Challenge 4)",
+     "heroes": [
+      "Talethia",
+      "Diantha",
+      "Lincos",
+      "Anneliesis",
+      "Vinyara"
+     ],
+     "note": "Uses Deluxe Mimic familiar. Vinyara is placed furthest back to soak the stun; skill timings synchronize Attack Penalty II with the Mimic's Enhanced Recharge Down to halt boss turns."
+    }
+   ],
+   "meta_changes": [],
+   "tips": [
+    "Place Vinyara as far back as possible so she baits the boss's stun attack, which she completely ignores due to innate control immunity.",
+    "Set Vinyara's ultimate first cast to 9.5s and the Deluxe Mimic skill to 8.0s; since the Mimic takes 2s to channel, it hits right after Vinyara applies Attack Penalty II, applying Enhanced Recharge Down.",
+    "Set Talethia's ultimate timing to around 10.0s to 12.0s so Diantha and Lincos have already applied their damage buffs and defense shreds.",
+    "Build Diantha defensively with 3-piece Sylvan Refuge and damage reduction to survive single-target and AoE swings in the tank slot.",
+    "Only complete Challenge 4 once per weekly rotation; save remaining challenge tickets for standard dungeons that reward Mythic+ gear."
+   ],
+   "season": "S8",
+   "server_scope": "S9",
+   "value": "high",
+   "id": "QunAX6Rsid0",
+   "model": "gemini-3.8-flash",
+   "channel": "OddOneGaming RPGs",
+   "title": "🚨 As EASY As It Gets 🚨 Ancient Battlefield Stage 12 & Challenge 4 GUIDE | Dragonheir x Dragonstride",
+   "published": "2026-09-28T12:00:00+00:00",
+   "url": "https://www.youtube.com/watch?v=QunAX6Rsid0",
+   "short": false,
+   "summarized": "2026-11-09T05:19Z"
+  },
+  {
+   "summary": "Skratch pulls on the Option Summons II banner targeting Thunderbolt and Toxin heroes. He secures early copies of Tariz and Alaura, and uses the 300-summons choice to select Serpentemis for her Inspiration 3 upgrade. Testing his upgraded Toxin team alongside his Dauntless team in Temporal Vortex Cloudtop Arbor IV yields over 33 Billion total damage. He advises stopping at 300 summons on Option banners rather than pushing to 800, as the extra dice cost is inefficient.",
+   "topics": [
+    "Option Summons",
+    "Temporal Vortex",
+    "Serpentemis",
+    "Tariz",
+    "Summoning"
+   ],
+   "heroes": [
+    {
+     "name": "Maashtur",
+     "verdict": "Top Dauntless DPS",
+     "note": "His Inspiration 3 upgrade provides massive damage gains for Dauntless teams in Temporal Vortex.",
+     "known": true
+    },
+    {
+     "name": "Tariz",
+     "verdict": "Strong Thunderbolt DPS",
+     "note": "Great Thunderbolt damage dealer that significantly boosts Thunderbolt lineups.",
+     "known": true
+    },
+    {
+     "name": "Serpentemis",
+     "verdict": "Top-tier Toxin DPS",
+     "note": "Reaching Inspiration 3 adds significant Enlightenment and Attack stats, boosting Toxin team output in Temporal Vortex.",
+     "known": true
+    },
+    {
+     "name": "Alaura",
+     "verdict": "Good Thunderbolt hero",
+     "note": "Useful for Thunderbolt teams and Magichess, though Inspiration 1 offers minor stat gains.",
+     "known": true
+    },
+    {
+     "name": "Vicana",
+     "verdict": "Niche DPS",
+     "note": "Solid hero overall, but less viable for current end-game Temporal Vortex boss setups.",
+     "known": true
+    },
+    {
+     "name": "Berengar",
+     "verdict": "Low priority",
+     "note": "Rarely used in end-game content outside of niche uses like Fae Meander.",
+     "known": true
+    }
+   ],
+   "teams": [
+    {
+     "mode": "Temporal Vortex",
+     "heroes": [
+      "Serpentemis",
+      "Jathalea",
+      "Nastjenka"
+     ],
+     "note": "Combines a Toxin damage team and a Dauntless damage team to achieve over 33 Billion total damage on Cloudtop Arbor IV."
+    }
+   ],
+   "meta_changes": [],
+   "tips": [
+    "On Option Summons banners, selecting Toxin and Thunderbolt pools gives access to strong exclusive supports and DPS characters like Tariz, Alaura, and Serpentemis.",
+    "Stopping at 300 summons on Option banners is recommended, as pushing to 800 requires 500 extra dice which is not cost-effective.",
+    "Toxin teams in Temporal Vortex experience high damage variance based on Toxin debuff application RNG and hero survival."
+   ],
+   "season": "S9",
+   "server_scope": "S9",
+   "value": "medium",
+   "id": "R3lV4su2x4k",
+   "model": "gemini-3.5-flash",
+   "channel": "Skratch Gaming",
+   "title": "I GOT LUCKY Maxing The New Banner!! Dragonheir: Silent Gods x Dragonstride",
+   "published": "2026-09-28T12:00:00+00:00",
+   "url": "https://www.youtube.com/watch?v=R3lV4su2x4k",
+   "short": false,
+   "summarized": "2026-11-09T05:18Z"
+  },
+  {
+   "summary": "This guide showcases an optimized Aura team composition from top Chinese server players for Week 3 of the Continental Challenge Season 8 against the boss Joyce. The lineup replaces Rina with Naro and Anneliesis, both performing effectively at Inspiration 0 and freeing Rina to lead a secondary Thunderbolt team. The video details individual gear builds, emphasizing skill haste thresholds for consistent rotations. Exact auto skill timings and pet abilities are broken down to maximize damage against Joyce and its summons.",
+   "topics": [
+    "Continental Challenge",
+    "Joyce",
+    "Aura Team",
+    "Chinese Server Meta",
+    "Boss Guide"
+   ],
+   "heroes": [
+    {
+     "name": "Naro",
+     "verdict": "Top budget Aura support",
+     "note": "Makes a massive comeback in Continental Challenge Week 3, functioning effectively even at Inspiration 0 to replace Rina without stealing key heroes.",
+     "known": true
+    },
+    {
+     "name": "Anneliesis",
+     "verdict": "Core Aura buffer/support",
+     "note": "Performs at Inspiration 0 when built with around 60 Skill Haste and the Secrecy set to maintain proper buff uptime.",
+     "known": true
+    },
+    {
+     "name": "Rina",
+     "verdict": "Freed for secondary team",
+     "note": "Shifted out of the primary Aura lineup so she can carry the secondary Thunderbolt team to achieve high overall Continental Challenge scores.",
+     "known": false
+    },
+    {
+     "name": "Lincos",
+     "verdict": "Top Aura damage dealer",
+     "note": "Built with Puppeteer set and stacked Attack, dealing approximately 1.8 billion damage in the encounter.",
+     "known": true
+    },
+    {
+     "name": "Talethia",
+     "verdict": "Primary Aura damage dealer",
+     "note": "Utilizes classic Attack and Critical gear setups to push heavy damage alongside Lincos.",
+     "known": true
+    },
+    {
+     "name": "Diantha",
+     "verdict": "Essential Aura debuffer",
+     "note": "Built with high Defense, Attack, and Accuracy to consistently land debuffs and trigger effects.",
+     "known": true
+    }
+   ],
+   "teams": [
+    {
+     "mode": "Continental Challenge (Joyce)",
+     "heroes": [
+      "Talethia",
+      "Diantha",
+      "Lincos",
+      "Anneliesis",
+      "Naro"
+     ],
+     "note": "Budget Aura setup working with Inspiration 0 on Naro and Anneliesis. Uses Golden Tressim pet starting at 16.0s; Diantha at 18.0s; Talethia at 18.1s; Lincos at 18.1s; Naro at 22.0s; Anneliesis at 35.7s; all on an 18.0s re-cast interval."
+    }
+   ],
+   "meta_changes": [
+    "Rina is no longer required in top Aura boss setups, allowing high-ranking players to delegate her to Thunderbolt teams while utilizing Naro and Anneliesis at zero inspiration."
+   ],
+   "tips": [
+    "Ensure Anneliesis reaches approximately 60 Skill Haste and equips the Secrecy set to prevent rotation desyncs.",
+    "Equip Naro with 2 pieces of the Secrecy set and aim for roughly 61 Skill Haste and adequate Accuracy.",
+    "Against Joyce, tune ultimate cast timings to 18.0s intervals, delaying Anneliesis until 35.7s and Naro until 22.0s on their first casts."
+   ],
+   "season": "S8",
+   "server_scope": "S9",
+   "value": "high",
+   "id": "R4_F3M1Bq7A",
+   "model": "gemini-3.8-flash",
+   "channel": "Neff Gaming",
+   "title": "BEST Cheap Aura Team vs Joyce! | S8 Continental Challenge | Dragonheir: Silent Gods",
+   "published": "2026-09-28T12:00:00+00:00",
+   "url": "https://www.youtube.com/watch?v=R4_F3M1Bq7A",
+   "short": false,
+   "summarized": "2026-11-09T05:22Z"
+  },
+  {
    "summary": "This video covers the Starweave Echo event and Temporal Corridor exchange shop, explaining how to convert spare Legendary Soul Imprints into Starweave Fragments. The creator details which heroes are safe to recycle by resetting their inspirations (such as Gillian, Karf, Talwer, and Vicana) and which heroes offer the best return. Talethia is identified as the single highest priority until reaching Inspiration 5, followed by options like Fredegonda, Paixton, and Alaura depending on team archetype needs. Players are advised to pull on active banners first and consider the 37-day shop rotation before spending currency.",
    "topics": [
     "Starweave Echo",
@@ -29861,6 +30098,20 @@
     "url": "https://www.youtube.com/watch?v=zlkDqeP9Des"
    },
    {
+    "verdict": "Top sustain support",
+    "note": "Provides vital shielding, healing, and debuff cleansing to keep the team alive through early burst.",
+    "date": "2026-09-28",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=QunAX6Rsid0"
+   },
+   {
+    "verdict": "Core Aura buffer/support",
+    "note": "Performs at Inspiration 0 when built with around 60 Skill Haste and the Secrecy set to maintain proper buff uptime.",
+    "date": "2026-09-28",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=R4_F3M1Bq7A"
+   },
+   {
     "verdict": "Aura Tank / Support",
     "note": "Built with full HP stats to survive and sustain the frontline.",
     "date": "2026-09-28",
@@ -30549,6 +30800,20 @@
     "date": "2026-09-30",
     "channel": "Fastidious Dragonheir",
     "url": "https://www.youtube.com/watch?v=e1p87KNEq0g"
+   },
+   {
+    "verdict": "Top damage dealer",
+    "note": "Quickly melts the boss within 20 to 30 seconds when supported by Aura buffs and high Inspiration.",
+    "date": "2026-09-28",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=QunAX6Rsid0"
+   },
+   {
+    "verdict": "Primary Aura damage dealer",
+    "note": "Utilizes classic Attack and Critical gear setups to push heavy damage alongside Lincos.",
+    "date": "2026-09-28",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=R4_F3M1Bq7A"
    },
    {
     "verdict": "absolute top priority",
@@ -31278,6 +31543,20 @@
     "url": "https://www.youtube.com/watch?v=x6LdzqgusYk"
    },
    {
+    "verdict": "Core frontline tank and debuffer",
+    "note": "Built full tank with Sylvan Refuge and Monelisse's Teardrop to withstand boss attacks while applying Defense Penalty II via Witch's Remains.",
+    "date": "2026-09-28",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=QunAX6Rsid0"
+   },
+   {
+    "verdict": "Essential Aura debuffer",
+    "note": "Built with high Defense, Attack, and Accuracy to consistently land debuffs and trigger effects.",
+    "date": "2026-09-28",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=R4_F3M1Bq7A"
+   },
+   {
     "verdict": "Aura Support",
     "note": "Built with accuracy stats for debuff application and team utility.",
     "date": "2026-09-28",
@@ -31665,6 +31944,20 @@
     "url": "https://www.youtube.com/watch?v=x6LdzqgusYk"
    },
    {
+    "verdict": "Key offensive support",
+    "note": "Buffs Talethia's damage output while carrying Ascendant's Key and the Puppeteer's Inspiration gear set.",
+    "date": "2026-09-28",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=QunAX6Rsid0"
+   },
+   {
+    "verdict": "Top Aura damage dealer",
+    "note": "Built with Puppeteer set and stacked Attack, dealing approximately 1.8 billion damage in the encounter.",
+    "date": "2026-09-28",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=R4_F3M1Bq7A"
+   },
+   {
     "verdict": "Aura Support",
     "note": "Equipped with the Puppeteer gear set to boost team functionality.",
     "date": "2026-09-28",
@@ -31984,6 +32277,13 @@
     "url": "https://www.youtube.com/watch?v=wWFEFO70B9Q"
    },
    {
+    "verdict": "Good Thunderbolt hero",
+    "note": "Useful for Thunderbolt teams and Magichess, though Inspiration 1 offers minor stat gains.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=R3lV4su2x4k"
+   },
+   {
     "verdict": "solid Thunderbolt option",
     "note": "Worth picking up if you already own Perkunte and need key partners for a Thunderbolt team.",
     "date": "2026-09-28",
@@ -32287,6 +32587,13 @@
     "url": "https://www.youtube.com/watch?v=ONMMBlvyWpc"
    },
    {
+    "verdict": "Top Dauntless DPS",
+    "note": "His Inspiration 3 upgrade provides massive damage gains for Dauntless teams in Temporal Vortex.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=R3lV4su2x4k"
+   },
+   {
     "verdict": "Flex Dauntless DPS",
     "note": "Contributes to quick boss clears, but can be replaced by Vinyara.",
     "date": "2026-09-28",
@@ -32462,6 +32769,13 @@
     "date": "2026-10-07",
     "channel": "liveranov",
     "url": "https://www.youtube.com/watch?v=wWFEFO70B9Q"
+   },
+   {
+    "verdict": "Strong Thunderbolt DPS",
+    "note": "Great Thunderbolt damage dealer that significantly boosts Thunderbolt lineups.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=R3lV4su2x4k"
    },
    {
     "verdict": "Essential Thunderbolt debuffer and DPS",
@@ -33797,6 +34111,13 @@
     "url": "https://www.youtube.com/watch?v=ydl2Hi0lAy8"
    },
    {
+    "verdict": "Top-tier Toxin DPS",
+    "note": "Reaching Inspiration 3 adds significant Enlightenment and Attack stats, boosting Toxin team output in Temporal Vortex.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=R3lV4su2x4k"
+   },
+   {
     "verdict": "Main damage dealer for Toxin teams",
     "note": "Requires high Enlightenment stats to maximize Toxin tick damage.",
     "date": "2026-09-28",
@@ -34962,6 +35283,13 @@
     "date": "2026-10-14",
     "channel": "Gorax",
     "url": "https://www.youtube.com/watch?v=WEpc_QIKnRM"
+   },
+   {
+    "verdict": "Viable budget replacement",
+    "note": "Can replace Anneliesis as a healing and shielding support if she is unavailable.",
+    "date": "2026-09-28",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=QunAX6Rsid0"
    },
    {
     "verdict": "Good duplicate for inspiration",
@@ -39394,6 +39722,13 @@
     "url": "https://www.youtube.com/watch?v=xW7fJsl5GJM"
    },
    {
+    "verdict": "Essential control anchor",
+    "note": "Immune to control effects so she baits the boss's furthest-target stun, while applying Attack Penalty II to trigger the Deluxe Mimic familiar's recharge lock.",
+    "date": "2026-09-28",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=QunAX6Rsid0"
+   },
+   {
     "verdict": "Alternative for Maashtur",
     "note": "Can be used as a replacement hero for Maashtur in this composition.",
     "date": "2026-09-28",
@@ -42058,6 +42393,13 @@
     "url": "https://www.youtube.com/watch?v=a5s7exfCy4U"
    },
    {
+    "verdict": "Low priority",
+    "note": "Rarely used in end-game content outside of niche uses like Fae Meander.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=R3lV4su2x4k"
+   },
+   {
     "verdict": "Top tank option",
     "note": "His team HP-boosting aura and passive survivability make pushing high Meander stages significantly easier.",
     "date": "2026-09-28",
@@ -42393,6 +42735,13 @@
     "date": "2026-10-07",
     "channel": "Gorax",
     "url": "https://www.youtube.com/watch?v=kmI10_fvl-c"
+   },
+   {
+    "verdict": "Niche DPS",
+    "note": "Solid hero overall, but less viable for current end-game Temporal Vortex boss setups.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=R3lV4su2x4k"
    },
    {
     "verdict": "safe to recycle",
@@ -42912,6 +43261,13 @@
     "url": "https://www.youtube.com/watch?v=ONMMBlvyWpc"
    },
    {
+    "verdict": "Top budget Aura support",
+    "note": "Makes a massive comeback in Continental Challenge Week 3, functioning effectively even at Inspiration 0 to replace Rina without stealing key heroes.",
+    "date": "2026-09-28",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=R4_F3M1Bq7A"
+   },
+   {
     "verdict": "Aura Sub-DPS / Support",
     "note": "Built with accuracy; contributed 358M secondary damage alongside support utility.",
     "date": "2026-09-28",
@@ -43272,6 +43628,15 @@
     "date": "2026-09-30",
     "channel": "Gorax",
     "url": "https://www.youtube.com/watch?v=ydl2Hi0lAy8"
+   }
+  ],
+  "Rina": [
+   {
+    "verdict": "Freed for secondary team",
+    "note": "Shifted out of the primary Aura lineup so she can carry the secondary Thunderbolt team to achieve high overall Continental Challenge scores.",
+    "date": "2026-09-28",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=R4_F3M1Bq7A"
    }
   ],
   "Guinevire": [
