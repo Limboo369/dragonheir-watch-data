@@ -1,5 +1,5 @@
 {
- "built": "2026-11-09T00:24Z",
+ "built": "2026-11-09T00:59Z",
  "last_fetch": "2026-11-09T00:17Z",
  "counts": {
   "summarized": 381,
@@ -35,7 +35,6 @@
   "v2": 1
  },
  "log_tail": [
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "daily video budget used (445 min), waiting for tomorrow",
   "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 369 videos, 217 heroes",
   "== 2026-11-08 17:17",
@@ -114,7 +113,8 @@
   "saved UMXdo2PRU6I",
   "+ Gorax: Day 10 Progression Explodes! Max LvL & New Dungeon | Beginne",
   "saved bQnIUA0HuMY",
-  "+ Skyasterix Gaming: 👉 600 Dice Summons! Did I Get SCAMMED Again? | Dragonheir: S"
+  "+ Skyasterix Gaming: 👉 600 Dice Summons! Did I Get SCAMMED Again? | Dragonheir: S",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 381 videos, 218 heroes"
  ],
  "crontab": [],
  "channels": [
