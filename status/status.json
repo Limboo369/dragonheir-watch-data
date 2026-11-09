@@ -1,16 +1,22 @@
 {
- "built": "2026-11-09T03:10Z",
- "last_fetch": "2026-11-09T02:17Z",
+ "built": "2026-11-09T03:20Z",
+ "last_fetch": "2026-11-09T03:17Z",
  "counts": {
-  "summarized": 387,
+  "summarized": 391,
   "skipped_giveaway": 17,
   "baseline": 22,
-  "new": 247,
+  "new": 241,
+  "retry": 8,
   "skipped_live": 1,
-  "failed": 3,
-  "retry": 6
+  "failed": 3
  },
  "problems": [
+  {
+   "title": "FREE Daily Summons! NO BANNER YET? - Day 1 Update & MORE!!! [Dragonheir: Silent Gods]",
+   "channel": "Volkin Dragonheir",
+   "status": "retry",
+   "error": ""
+  },
   {
    "title": "Season 9 NEW INFO: 2 Free Heroes, New Affinities & Selectable Banner! | Dragonheir: Silent Gods",
    "channel": "liveranov",
@@ -18,8 +24,14 @@
    "error": "Expecting value: line 1 column 1 (char 0)"
   },
   {
-   "title": "The Best Crown Contest Teams! The Lightning Fortress Dragonheir: Silent Gods x Dragonstride",
+   "title": "I GOT LUCKY Maxing The New Banner!! Dragonheir: Silent Gods x Dragonstride",
    "channel": "Skratch Gaming",
+   "status": "retry",
+   "error": ""
+  },
+  {
+   "title": "Temporal Vortex Team Guide | Best Meta Heroes & Teams | Dragonheir x Dragonstride",
+   "channel": "Gorax",
    "status": "retry",
    "error": ""
   },
@@ -30,7 +42,13 @@
    "error": ""
   },
   {
-   "title": "💥 They Are BACK! 💥Corrosion vs Durem CC Boss S8 GUIDE | Dragonheir x Dragonstridea",
+   "title": "Day 1 Guide - PROGRESS FAST!!! [Dragonheir: Silent Gods]",
+   "channel": "Volkin Dragonheir",
+   "status": "retry",
+   "error": ""
+  },
+  {
+   "title": "🚨 As EASY As It Gets 🚨 Ancient Battlefield Stage 12 & Challenge 4 GUIDE | Dragonheir x Dragonstride",
    "channel": "OddOneGaming RPGs",
    "status": "retry",
    "error": ""
@@ -42,14 +60,8 @@
    "error": ""
   },
   {
-   "title": "My Starweave Echo Exchange & Advice 🎁  3rd Anniversary Event🔥 Dragonheir x Dragonstride",
-   "channel": "Suzi Plays",
-   "status": "retry",
-   "error": ""
-  },
-  {
-   "title": "Aura Team vs Fire Guardians | Crown Contest | Dragonheir | Season 8",
-   "channel": "liveranov",
+   "title": "🎂 Dragonheir 3rd ANNIVERSARY — New EVENT & Details Explained! | Dragonheir: Silent Gods",
+   "channel": "Skyasterix Gaming",
    "status": "retry",
    "error": ""
   },
@@ -68,46 +80,11 @@
  ],
  "budget": {
   "day": "2026-11-09",
-  "seconds": 15762,
+  "seconds": 18479,
   "v2": 1,
-  "quota_hit": 1794187166.6129928
+  "quota_hit": 1794194280.1872249
  },
  "log_tail": [
-  "… liveranov: Updated Thunderbolt Team vs Fire Guardians Lv 200 | Crown Co",
-  "… liveranov: Holfast + Aura vs Temporal Vortex IV: Cloudtop Arbor (Sunlit",
-  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
-  "… Skratch Gaming: USE THESE Teams For Crazy Damage! Crown Contest Dragonheir: ",
-  "saved UaQD1-RL_OU",
-  "+ liveranov: Holfast + Aura vs Temporal Vortex IV: Cloudtop Arbor (Sunlit",
-  "… Suzi Plays: Summoning to make my BEST Team Better 💥Holfast Pulls w/a lit",
-  "saved 4zWG2dQRL28",
-  "+ Skratch Gaming: USE THESE Teams For Crazy Damage! Crown Contest Dragonheir: ",
-  "… OddOneGaming RPGs: 💥 I DID NOT EXPECT THIS 💥 My Holfast Banner Summons Got Luck",
-  "saved hHuBny9bgpw",
-  "+ Suzi Plays: Summoning to make my BEST Team Better 💥Holfast Pulls w/a lit",
-  "… OddOneGaming RPGs: 🚨 WATCH THIS Before You Summon 🚨 Holfast OR Anneliesis First",
-  "saved 9LttAC7NmZ8",
-  "+ liveranov: Updated Thunderbolt Team vs Fire Guardians Lv 200 | Crown Co",
-  "… Skratch Gaming: Can I GET LUCKY? Is Holfast A MUST PULL?? Dragonheir: Silent",
-  "saved vC9dRFEYD4A",
-  "+ liveranov: Updated Aura (+ Holfast) vs Fire Guardians Lv 200 | Crown Co",
-  "… Skratch Gaming: WHALE MODE ON!! What A Rollercoaster... Dragonheir: Silent G",
-  "saved vonwUUqCne4",
-  "+ OddOneGaming RPGs: 💥 I DID NOT EXPECT THIS 💥 My Holfast Banner Summons Got Luck",
-  "… OddOneGaming RPGs: 🚨 CHOOSE THE RIGHT ONE! 🚨 Where To Summon Holfast & Annelies",
-  "saved cmiJeXMr108",
-  "+ OddOneGaming RPGs: 🚨 WATCH THIS Before You Summon 🚨 Holfast OR Anneliesis First",
-  "… Gorax: Day 10 Progression Explodes! Max LvL & New Dungeon | Beginne",
-  "saved CFXDo-Psx7g",
-  "+ OddOneGaming RPGs: 🚨 CHOOSE THE RIGHT ONE! 🚨 Where To Summon Holfast & Annelies",
-  "saved RQs1H4k4_tk",
-  "+ Skratch Gaming: WHALE MODE ON!! What A Rollercoaster... Dragonheir: Silent G",
-  "saved RjpnhQCQO30",
-  "+ Skratch Gaming: Can I GET LUCKY? Is Holfast A MUST PULL?? Dragonheir: Silent",
-  "saved UMXdo2PRU6I",
-  "+ Gorax: Day 10 Progression Explodes! Max LvL & New Dungeon | Beginne",
-  "saved bQnIUA0HuMY",
-  "+ Skyasterix Gaming: 👉 600 Dice Summons! Did I Get SCAMMED Again? | Dragonheir: S",
   "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 381 videos, 218 heroes",
   "== 2026-11-09 01:17",
   "fetch done: 0 new transcripts, 0 not available yet",
@@ -152,7 +129,42 @@
   "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "Gemini quota was full less than an hour ago, trying again next round",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 387 videos, 220 heroes"
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 387 videos, 220 heroes",
+  "== 2026-11-09 03:17",
+  "fetch done: 0 new transcripts, 0 not available yet",
+  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
+  "… OddOneGaming RPGs: 💥 They Are BACK! 💥Corrosion vs Durem CC Boss S8 GUIDE | Drag",
+  "… Skratch Gaming: The Best Crown Contest Teams! The Lightning Fortress Dragonh",
+  "… liveranov: Aura Team vs Fire Guardians | Crown Contest | Dragonheir | S… Suzi Plays: My Starweave Echo Exchange & Advice 🎁  3rd Anniversary Event",
+  "",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "… OddOneGaming RPGs: 💥 I HIT THE JACKPOT 💥My First EVER Triple Lego In A 10 Pull ",
+  "saved S9ROeJI66hk",
+  "+ liveranov: Aura Team vs Fire Guardians | Crown Contest | Dragonheir | S",
+  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
+  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
+  "… Neff Gaming: BEST Cheap Aura Team vs Joyce! | S8 Continental Challenge | ",
+  "! 💥 I HIT THE JACKPOT 💥My First EVER Triple Lego In : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+  "… Skratch Gaming: I GOT LUCKY Maxing The New Banner!! Dragonheir: Silent Gods ",
+  "! BEST Cheap Aura Team vs Joyce! | S8 Continental Ch: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+  "… OddOneGaming RPGs: 🚨 As EASY As It Gets 🚨 Ancient Battlefield Stage 12 & Challe",
+  "! I GOT LUCKY Maxing The New Banner!! Dragonheir: Si: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+  "… Gorax: Temporal Vortex Team Guide | Best Meta Heroes & Teams | Drag",
+  "! 🚨 As EASY As It Gets 🚨 Ancient Battlefield Stage 1: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+  "… Skyasterix Gaming: 🎂 Dragonheir 3rd ANNIVERSARY — New EVENT & Details Explained",
+  "! Temporal Vortex Team Guide | Best Meta Heroes & Te: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+  "… Volkin Dragonheir: FREE Daily Summons! NO BANNER YET? - Day 1 Update & MORE!!! ",
+  "! 🎂 Dragonheir 3rd ANNIVERSARY — New EVENT & Details: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+  "… Volkin Dragonheir: Day 1 Guide - PROGRESS FAST!!! [Dragonheir: Silent Gods]",
+  "! FREE Daily Summons! NO BANNER YET? - Day 1 Update : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+  "! Day 1 Guide - PROGRESS FAST!!! [Dragonheir: Silent: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+  "saved SBgHAdyNZP4 (unknown hero names: Guinevire)",
+  "+ Skratch Gaming: The Best Crown Contest Teams! The Lightning Fortress Dragonh",
+  "saved RkOaHBayB0Y",
+  "+ Suzi Plays: My Starweave Echo Exchange & Advice 🎁  3rd Anniversary Event",
+  "saved SeE4BCCmxz4",
+  "+ OddOneGaming RPGs: 💥 They Are BACK! 💥Corrosion vs Durem CC Boss S8 GUIDE | Drag"
  ],
  "crontab": [],
  "channels": [
@@ -160,55 +172,55 @@
    "name": "Skratch Gaming",
    "id": "UCoSkzr1pXpt3d0jIxsc6ufw",
    "enabled": true,
-   "checked": "2026-11-09T02:17Z"
+   "checked": "2026-11-09T03:17Z"
   },
   {
    "name": "Gorax",
    "id": "UCNas7BnuOIjDEzY1D53kb1w",
    "enabled": true,
-   "checked": "2026-11-09T02:17Z"
+   "checked": "2026-11-09T03:17Z"
   },
   {
    "name": "Neff Gaming",
    "id": "UCsxs6YhNd_B36RgUAjbpJ_A",
    "enabled": true,
-   "checked": "2026-11-09T02:17Z"
+   "checked": "2026-11-09T03:17Z"
   },
   {
    "name": "Volkin Dragonheir",
    "id": "UCfRpOh_ywVjzhh9fxHbreGw",
    "enabled": true,
-   "checked": "2026-11-09T02:17Z"
+   "checked": "2026-11-09T03:17Z"
   },
   {
    "name": "Fastidious Dragonheir",
    "id": "UC16mpj5wEemSZX-uTlHe9Ww",
    "enabled": true,
-   "checked": "2026-11-09T02:17Z"
+   "checked": "2026-11-09T03:17Z"
   },
   {
    "name": "OddOneGaming RPGs",
    "id": "UC1ivUEf_poI9_R2eVKa8wRQ",
    "enabled": true,
-   "checked": "2026-11-09T02:17Z"
+   "checked": "2026-11-09T03:17Z"
   },
   {
    "name": "Suzi Plays",
    "id": "UCyo1-TkunhGcK6khU1h8Ypw",
    "enabled": true,
-   "checked": "2026-11-09T02:17Z"
+   "checked": "2026-11-09T03:17Z"
   },
   {
    "name": "Skyasterix Gaming",
    "id": "UCr5Gb3910rK7QPmKMmdagsA",
    "enabled": true,
-   "checked": "2026-11-09T02:17Z"
+   "checked": "2026-11-09T03:17Z"
   },
   {
    "name": "liveranov",
    "id": "UCqCR7ofFHhWwXy3Hg00fqEw",
    "enabled": true,
-   "checked": "2026-11-09T02:17Z"
+   "checked": "2026-11-09T03:17Z"
   }
  ]
 }

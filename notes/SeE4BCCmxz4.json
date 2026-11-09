@@ -1,0 +1,87 @@
+{
+ "summary": "This guide showcases an optimized Corrosion team against the Season 8 Chief Challenge boss, Durem, outdamaging a standard Serpentemis toxin composition by around 20 million damage (hitting 353M+). The lineup features Rook as the premier True Damage dealer, supported by Whisk, Sacredeia, Reytah, and Calavera. Calavera is specifically preferred over Oggok because the boss deals 25% bonus damage against shields and diamond AoE positioning works cleaner with only two frontliners taking hits. Detailed timings, gear, talents, and positioning are analyzed to minimize Accuracy requirements via Sacredeia's Marrow Drain talent while maximizing Rook's Ultimate frequency.",
+ "topics": [
+  "Chief Challenge",
+  "Boss Guide",
+  "Durem",
+  "Corrosion Team",
+  "Gear Builds"
+ ],
+ "heroes": [
+  {
+   "name": "Rook",
+   "verdict": "Core damage dealer",
+   "note": "Carries the encounter with True Damage on his Ultimate; should run on full YOLO default timings with 100% Crit Rate, high Crit Damage, and Skill Haste.",
+   "known": true
+  },
+  {
+   "name": "Whisk",
+   "verdict": "Top Corrosion damage support",
+   "note": "Stacks Corrosion rapidly and benefits greatly from Swamp Toadstool and Crit stats to output massive supplementary damage.",
+   "known": true
+  },
+  {
+   "name": "Calavera",
+   "verdict": "Best defensive tank/support for Durem",
+   "note": "Outperforms Oggok by avoiding excessive shielding that triggers the boss's 25% shield-slaying mechanic while providing stacked Defense Up II and Attack Penalty II.",
+   "known": true
+  },
+  {
+   "name": "Reytah",
+   "verdict": "Essential support and cleanser",
+   "note": "Provides cleansing and Defense Up II on a 12.1s initial recast rotation while holding Misty Conch to apply Defense Penalty II.",
+   "known": true
+  },
+  {
+   "name": "Sacredeia",
+   "verdict": "Key debuffer and damage dealer",
+   "note": "Her Marrow Drain talent inflicts a 30 Resistance penalty, allowing her to reliably apply Poison Vulnerability with only 160-170 Accuracy.",
+   "known": true
+  },
+  {
+   "name": "Oggok",
+   "verdict": "Not recommended for Durem",
+   "note": "Durem ignores shields and deals 25% bonus damage to shielded targets, and Oggok's positioning causes three heroes instead of two to get clipped by the boss's diamond AoE.",
+   "known": true
+  },
+  {
+   "name": "Szecedith",
+   "verdict": "Viable alternative to Whisk",
+   "note": "Can replace Whisk as a primary Corrosion applicator if already built.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Chief Challenge - Durem (Continental Challenge)",
+   "heroes": [
+    "Rook",
+    "Whisk",
+    "Calavera",
+    "Reytah",
+    "Sacredeia"
+   ],
+   "note": "Scored over 353M damage. Calavera and Whisk stand front-center to absorb the boss's diamond-shaped Ultimates, Rook stays secluded to avoid cleave, and timings set Reytah at 12.1s, Sacredeia at 12.0s, Whisk at 12.2s (all 18s recast), while Rook and Calavera run on Default."
+  }
+ ],
+ "meta_changes": [
+  "Durem's Global Oversight mechanic ignores shields and amplifies boss damage by 25% against shielded units, shifting the sustain meta away from heavy shielders like Oggok toward pure Defense Up buffers like Calavera."
+ ],
+ "tips": [
+  "Set Rook's Ultimate timing to Default rather than synced, because maximizing his True Damage Ultimate casts yields higher total team DPS.",
+  "Do not over-invest in Accuracy on Sacredeia if using her Marrow Drain talent; around 160-170 Accuracy is sufficient to land Poison Vulnerability due to the Resistance reduction.",
+  "Position Rook on the far flank and Calavera plus Whisk in the front row so Durem's diamond-shaped Ultimate hits only the two designated frontliners.",
+  "Equip Misty Conch on Reytah to apply Defense Penalty II, freeing Sacredeia to equip an offensive damage artifact like Golden Alarm."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "SeE4BCCmxz4",
+ "model": "gemini-3.8-flash",
+ "channel": "OddOneGaming RPGs",
+ "title": "💥 They Are BACK! 💥Corrosion vs Durem CC Boss S8 GUIDE | Dragonheir x Dragonstridea",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=SeE4BCCmxz4",
+ "short": false,
+ "summarized": "2026-11-09T03:20Z"
+}

@@ -1,0 +1,126 @@
+{
+ "summary": "In Week 3 of the Crown Contest against the Lightning Fortress boss, Thunderbolt teams are highlighted for their exceptional damage output even without high inspiration levels. The video showcases three primary team compositions: Thunderbolt (5.71B+ damage), Dauntless (7.09B+ damage), and Toxin (6.70B+ damage). Thunderbolt teams outperform fully inspired Necrosis summoner teams due to strong elemental synergy and multi-hit mechanics. Recommended artifacts include Angelic Alliance, Golden Antlers, and Misty Conch alongside specific skill timing cycles.",
+ "topics": [
+  "Crown Contest",
+  "Lightning Fortress",
+  "Thunderbolt Team",
+  "Dauntless Team",
+  "Toxin Team"
+ ],
+ "heroes": [
+  {
+   "name": "Perkunte",
+   "verdict": "Top damage dealer for Thunderbolt teams in boss contests",
+   "note": "Requires the highest Attack stat on the team to maximize damage output.",
+   "known": true
+  },
+  {
+   "name": "Tariz",
+   "verdict": "Essential Thunderbolt debuffer and DPS",
+   "note": "Best equipped with Misty Conch and the Puppeteer gear set to apply Defense Down.",
+   "known": true
+  },
+  {
+   "name": "Alaura",
+   "verdict": "Strong Thunderbolt secondary DPS",
+   "note": "Deals consistent high damage when equipped with full mythical gear.",
+   "known": true
+  },
+  {
+   "name": "Astaion",
+   "verdict": "Versatile Thunderbolt support and healer",
+   "note": "Provides team sustain and additional Defense Down via debuff application.",
+   "known": true
+  },
+  {
+   "name": "Nathaniel",
+   "verdict": "Crucial defensive support",
+   "note": "Uses Angelic Alliance or Golden Antlers to provide shields and increase overall team damage.",
+   "known": true
+  },
+  {
+   "name": "Guinevire",
+   "verdict": "Primary damage dealer for Dauntless compositions",
+   "note": "Scales exceptionally well with Attack Speed and Attack buffs from teammates.",
+   "known": false
+  },
+  {
+   "name": "Nastjenka",
+   "verdict": "Top tier Dauntless buffer and DPS",
+   "note": "Provides essential Attack Speed and damage sharing to boost Guinevire.",
+   "known": true
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "Main damage dealer for Toxin teams",
+   "note": "Requires high Enlightenment stats to maximize Toxin tick damage.",
+   "known": true
+  },
+  {
+   "name": "Lothair",
+   "verdict": "Top tier Toxin DPS alternative",
+   "note": "Can reach massive single-target numbers when built purely for offense.",
+   "known": true
+  },
+  {
+   "name": "Sleight",
+   "verdict": "Key Toxin enabler",
+   "note": "Uses Puppeteer set and exclusive artifact to extend debuff durations across the fight.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Crown Contest - Lightning Fortress",
+   "heroes": [
+    "Perkunte",
+    "Tariz",
+    "Alaura",
+    "Astaion",
+    "Nathaniel"
+   ],
+   "note": "Thunderbolt team achieving 5.71B+ damage without high inspiration."
+  },
+  {
+   "mode": "Crown Contest - Lightning Fortress",
+   "heroes": [
+    "Guinevire",
+    "Nastjenka",
+    "Kurvida",
+    "Tharivol",
+    "Maashtur"
+   ],
+   "note": "Dauntless team achieving 7.09B+ damage using an 18-second recast skill cycle."
+  },
+  {
+   "mode": "Crown Contest - Lightning Fortress",
+   "heroes": [
+    "Serpentemis",
+    "Sacredeia",
+    "Twitch",
+    "Reytah",
+    "Sleight"
+   ],
+   "note": "Toxin team achieving 6.70B+ damage with high Enlightenment stacking."
+  }
+ ],
+ "meta_changes": [
+  "Thunderbolt teams have risen in meta strength for Crown Contest boss fights, outperforming full Necrosis summoner teams even without high Inspiration."
+ ],
+ "tips": [
+  "Ensure Perkunte holds the highest Attack stat in Thunderbolt teams to maximize overall damage scaling.",
+  "Use Golden Antlers on Nathaniel as a reliable substitute if Angelic Alliance is unavailable.",
+  "Set Dauntless skill timings to 18-second recast cycles to align ultimate damage buffs properly."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "SBgHAdyNZP4",
+ "model": "gemini-3.5-flash",
+ "channel": "Skratch Gaming",
+ "title": "The Best Crown Contest Teams! The Lightning Fortress Dragonheir: Silent Gods x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=SBgHAdyNZP4",
+ "short": false,
+ "summarized": "2026-11-09T03:18Z"
+}

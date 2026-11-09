@@ -1,0 +1,78 @@
+{
+ "summary": "This video showcases an Aura element team performance in the Crown Contest mode against the Fire Fortress Elemental Guardians. The team achieved over 4.12 billion total damage within the 5-minute fight duration, securing an S+ rank reward. The lineup consists of Talethia as the primary DPS, supported by Anneliesis, Diantha, Lincos, and Naro. Specific hero stat priorities and gear choices are shown at the end of the video, including substitution advice for players missing Naro.",
+ "topics": [
+  "Crown Contest",
+  "Fire Fortress",
+  "Aura Team",
+  "Talethia",
+  "Team Composition"
+ ],
+ "heroes": [
+  {
+   "name": "Talethia",
+   "verdict": "Main DPS",
+   "note": "Built full DPS; dealt 88.4% of total damage (3.64B) in the Crown Contest Fire Fortress fight.",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "Aura Tank / Support",
+   "note": "Built with full HP stats to survive and sustain the frontline.",
+   "known": true
+  },
+  {
+   "name": "Diantha",
+   "verdict": "Aura Support",
+   "note": "Built with accuracy stats for debuff application and team utility.",
+   "known": true
+  },
+  {
+   "name": "Lincos",
+   "verdict": "Aura Support",
+   "note": "Equipped with the Puppeteer gear set to boost team functionality.",
+   "known": true
+  },
+  {
+   "name": "Naro",
+   "verdict": "Aura Sub-DPS / Support",
+   "note": "Built with accuracy; contributed 358M secondary damage alongside support utility.",
+   "known": true
+  },
+  {
+   "name": "Ardreth",
+   "verdict": "Alternative Support",
+   "note": "Recommended as a viable replacement support if you do not own Naro.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Crown Contest - Fire Fortress",
+   "heroes": [
+    "Talethia",
+    "Anneliesis",
+    "Diantha",
+    "Lincos",
+    "Naro"
+   ],
+   "note": "Aura element team reaching 4.12 billion total damage against Fire Guardians."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Build Talethia with max DPS stats (Attack, Crit Rate, Crit Damage) to maximize her damage potential.",
+  "If Naro is unavailable, substitute with another support hero like Ardreth.",
+  "Equip Lincos with the Puppeteer set for optimal performance in Aura compositions."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "S9ROeJI66hk",
+ "model": "gemini-3.5-flash",
+ "channel": "liveranov",
+ "title": "Aura Team vs Fire Guardians | Crown Contest | Dragonheir | Season 8",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=S9ROeJI66hk",
+ "short": false,
+ "summarized": "2026-11-09T03:17Z"
+}

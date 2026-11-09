@@ -1,0 +1,98 @@
+{
+ "summary": "This video covers the Starweave Echo event and Temporal Corridor exchange shop, explaining how to convert spare Legendary Soul Imprints into Starweave Fragments. The creator details which heroes are safe to recycle by resetting their inspirations (such as Gillian, Karf, Talwer, and Vicana) and which heroes offer the best return. Talethia is identified as the single highest priority until reaching Inspiration 5, followed by options like Fredegonda, Paixton, and Alaura depending on team archetype needs. Players are advised to pull on active banners first and consider the 37-day shop rotation before spending currency.",
+ "topics": [
+  "Starweave Echo",
+  "Temporal Corridor",
+  "Soul Imprints",
+  "Hero Exchange",
+  "Ice Blast",
+  "Inspirations"
+ ],
+ "heroes": [
+  {
+   "name": "Talethia",
+   "verdict": "absolute top priority",
+   "note": "Must-buy from the 300 Starweave Fragment pool until reaching Inspiration 5 before considering other heroes.",
+   "known": true
+  },
+  {
+   "name": "Fredegonda",
+   "verdict": "recommended for Ice Blast",
+   "note": "A strong pick to complete high-end Ice Blast teams alongside Beldelle for Continental Challenge.",
+   "known": true
+  },
+  {
+   "name": "Paixton",
+   "verdict": "recommended for Burn",
+   "note": "Great pickup if running Burn compositions, with a focus on pushing him to Inspiration 2 rather than buying his artifact.",
+   "known": true
+  },
+  {
+   "name": "Alaura",
+   "verdict": "solid Thunderbolt option",
+   "note": "Worth picking up if you already own Perkunte and need key partners for a Thunderbolt team.",
+   "known": true
+  },
+  {
+   "name": "Saverio",
+   "verdict": "situational pick",
+   "note": "Shows strong performance in niche fun content if you are pursuing his specific archetype.",
+   "known": true
+  },
+  {
+   "name": "Gillian",
+   "verdict": "safe to reset and recycle",
+   "note": "Outperformed and powercrept by other supports like Acilia and Renna, making her inspirations safe to reclaim.",
+   "known": true
+  },
+  {
+   "name": "Karf",
+   "verdict": "safe to recycle",
+   "note": "Replaced by stronger modern Burn champions, making his duplicate imprints ideal fodder.",
+   "known": true
+  },
+  {
+   "name": "Talwer",
+   "verdict": "safe to recycle",
+   "note": "Considered an underperforming tank whose duplicate soul imprints are better spent on top-tier heroes.",
+   "known": true
+  },
+  {
+   "name": "Vicana",
+   "verdict": "safe to recycle",
+   "note": "Easily outclassed by the wider pool of superior poison and necrotic damage dealers.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Continental Challenge",
+   "heroes": [
+    "Fredegonda",
+    "Beldelle"
+   ],
+   "note": "Core Ice Blast damage and support synergy used for Continental Challenge stages."
+  }
+ ],
+ "meta_changes": [
+  "Starweave Echo event allows exchanging up to 50 eligible duplicate Legendary Soul Imprints for Starweave Fragments.",
+  "Temporal Corridor's Lingering Echo shop offers select Legendary heroes for 300 or 800 fragments on a 37-day rotation."
+ ],
+ "tips": [
+  "Always pull your summons on the Child of Chaos banner first before committing soul imprints to the exchange.",
+  "Review your roster and reset inspirations on powercrept or benched legendaries like Gillian to reclaim imprints for the event.",
+  "Stick to the 300-cost heroes in Temporal Corridor because purchasing two top-tier units yields significantly more account value than saving 800 for one.",
+  "Buy Talethia copies until she reaches Inspiration 5 before diversifying into other elemental archetypes."
+ ],
+ "season": "S9",
+ "server_scope": "mixed",
+ "value": "medium",
+ "id": "RkOaHBayB0Y",
+ "model": "gemini-3.8-flash",
+ "channel": "Suzi Plays",
+ "title": "My Starweave Echo Exchange & Advice 🎁  3rd Anniversary Event🔥 Dragonheir x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=RkOaHBayB0Y",
+ "short": false,
+ "summarized": "2026-11-09T03:19Z"
+}
