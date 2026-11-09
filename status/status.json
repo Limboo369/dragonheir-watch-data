@@ -1,5 +1,5 @@
 {
- "built": "2026-11-09T01:32Z",
+ "built": "2026-11-09T02:09Z",
  "last_fetch": "2026-11-09T01:17Z",
  "counts": {
   "summarized": 387,
@@ -73,7 +73,6 @@
   "quota_hit": 1794187166.6129928
  },
  "log_tail": [
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 369 videos, 217 heroes",
   "== 2026-11-09 00:17",
   "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
@@ -152,7 +151,8 @@
   "! The Best Crown Contest Teams! The Lightning Fortre: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
   "! Aura Team vs Fire Guardians | Crown Contest | Drag: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
   "saved T5dqvUcqhbo",
-  "+ Gorax: The BEST Day 1 Start for New Players! | Beginner Series | Dr"
+  "+ Gorax: The BEST Day 1 Start for New Players! | Beginner Series | Dr",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 387 videos, 220 heroes"
  ],
  "crontab": [],
  "channels": [
