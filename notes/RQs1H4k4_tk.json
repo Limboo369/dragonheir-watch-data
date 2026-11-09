@@ -1,0 +1,56 @@
+{
+ "summary": "Skratch reviews the returning banner for Anneliesis, identifying her as the highest priority hero in Dragonheir who excels across all game modes and team compositions. He explains her kit, highlighting her ability to grant 20% Ultimate Energy, damage buffs, shields, CC, and buff removal. He advises players to aim for Inspiration 3 (I3) on Anneliesis, calling it her sweet spot while noting that Inspiration 4 and 5 offer minimal value. During a 700+ dice summoning session to get her to I3, he also advocates for updating rerun banner hero pools with newer Season 2 through Season 5 supports.",
+ "topics": [
+  "Anneliesis",
+  "banners",
+  "summons",
+  "inspiration",
+  "hero review"
+ ],
+ "heroes": [
+  {
+   "name": "Anneliesis",
+   "verdict": "Must-have / Highest priority support",
+   "note": "Top support in the game who boosts damage, grants 20% Ultimate Energy at battle start, shields, strips buffs, and provides CC across all modes; optimal sweet spot is Inspiration 3.",
+   "known": true
+  },
+  {
+   "name": "Child of Chaos",
+   "verdict": "Top tier support",
+   "note": "Extremely versatile and powerful support hero competing for top support in the game alongside Anneliesis.",
+   "known": true
+  },
+  {
+   "name": "Lincos",
+   "verdict": "Banner filler",
+   "note": "Common legendary filler pull on standard rerun banners with low current meta value.",
+   "known": true
+  },
+  {
+   "name": "Talwer",
+   "verdict": "Low priority filler",
+   "note": "Considered outdated legendary filler on summon banners.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [
+  "Community feedback pushes for updating rerun banner pools to replace outdated S1 legendary heroes with Season 2 through Season 5 supports."
+ ],
+ "tips": [
+  "If you do not own Anneliesis, make obtaining her your main priority over every other character in the game.",
+  "Target Inspiration 3 (I3) as the ideal stopping point for Anneliesis, as I4 and I5 yield negligible benefits.",
+  "Deploy Anneliesis behind key damage dealers or speed-runners to bestow her 20% Ultimate Energy boost and damage bonus at the start of battle."
+ ],
+ "season": "S9",
+ "server_scope": "mixed",
+ "value": "high",
+ "id": "RQs1H4k4_tk",
+ "model": "gemini-3.5-flash",
+ "channel": "Skratch Gaming",
+ "title": "WHALE MODE ON!! What A Rollercoaster... Dragonheir: Silent Gods x Dragonstride",
+ "published": "2026-11-08T10:53:54+00:00",
+ "url": "https://www.youtube.com/watch?v=RQs1H4k4_tk",
+ "short": false,
+ "summarized": "2026-11-09T00:20Z"
+}

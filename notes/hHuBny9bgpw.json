@@ -1,0 +1,47 @@
+{
+ "summary": "Suzi shares strategy and advice for the Total Selectable Summons banner featuring Holfast, Talethia, and Aemonleyda. She emphasizes that Talethia should be the absolute highest priority to pull for, targeting Inspiration 1, Inspiration 2, or even Inspiration 5 before turning to Holfast. Aemonleyda should be avoided as she is not a core team hero outside of Magic Chess. Suzi then performs her 300 summons to select Holfast from the guaranteed box while acquiring multiple duplicate and legendary heroes along the way.",
+ "topics": [
+  "selectable summons",
+  "Holfast",
+  "Talethia",
+  "banner advice",
+  "summoning"
+ ],
+ "heroes": [
+  {
+   "name": "Talethia",
+   "verdict": "Top priority",
+   "note": "Should be prioritized for Inspiration 1, 2, or up to 5 on the selectable banner before choosing Holfast.",
+   "known": true
+  },
+  {
+   "name": "Holfast",
+   "verdict": "Secondary choice",
+   "note": "Worth obtaining once Talethia's key Inspirations are established.",
+   "known": true
+  },
+  {
+   "name": "Aemonleyda",
+   "verdict": "Skip",
+   "note": "Not part of the core team composition and mainly useful only in Magic Chess.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [],
+ "tips": [
+  "Prioritize Talethia to Inspiration 2 or Inspiration 5 over picking Holfast from the selectable banner.",
+  "Avoid selecting Aemonleyda as she is not part of the standard core Aura team structure."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "hHuBny9bgpw",
+ "model": "gemini-3.5-flash",
+ "channel": "Suzi Plays",
+ "title": "Summoning to make my BEST Team Better 💥Holfast Pulls w/a little LilyLuck 🔥 Dragonheir x Dragonstride",
+ "published": "2026-11-08T17:41:32+00:00",
+ "url": "https://www.youtube.com/watch?v=hHuBny9bgpw",
+ "short": false,
+ "summarized": "2026-11-09T00:19Z"
+}

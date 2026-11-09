@@ -1,0 +1,91 @@
+{
+ "summary": "This guide showcases an updated Aura team composition targeting the Level 200 Fire Guardians in Season 9 Crown Contest Round 2. The critical strategy centers around reaching Resistance thresholds to counter the bosses' 270 Accuracy and avoid Recharging Speed Penalties. Leveraging Ardreth's Stand United talent allows adjacent heroes to meet Resistance needs easily while Talethia serves as the primary damage carry. The new hero Holfast boosts overall output to 3.67 billion damage, though Lincos remains a viable alternative achieving 2.02 billion.",
+ "topics": [
+  "Crown Contest",
+  "Fire Guardians",
+  "Aura Team",
+  "Holfast",
+  "Resistance Breakpoint"
+ ],
+ "heroes": [
+  {
+   "name": "Talethia",
+   "verdict": "Primary Aura DPS carry",
+   "note": "Dealt 70% of the team's total damage equipped with Golden Alarm and over 300% Crit Damage.",
+   "known": true
+  },
+  {
+   "name": "Holfast",
+   "verdict": "High-value Aura support and DPS even at Inspiration 0",
+   "note": "Dealt 12.4% (449 million) of the team's damage using Orb of the Dragon God while boosting team energy.",
+   "known": true
+  },
+  {
+   "name": "Ardreth",
+   "verdict": "Essential resistance anchor",
+   "note": "Built with 544 Resistance and Titan Rib to share ~109 Resistance with adjacent allies via Stand United.",
+   "known": true
+  },
+  {
+   "name": "Diantha",
+   "verdict": "Core debuffer and secondary damage",
+   "note": "Inflicts Defense Penalty II and generates Aura Energy, built with 245 Accuracy and Witch's Remains.",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "Primary healer",
+   "note": "Provided 87% of the team's healing holding Golden Antlers with nearly 100k HP.",
+   "known": true
+  },
+  {
+   "name": "Lincos",
+   "verdict": "Budget replacement for Holfast",
+   "note": "Achieves 2.02 billion damage in place of Holfast in the same Crown Contest setup.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Crown Contest Round 2 (Lv 200 Fire Guardians)",
+   "heroes": [
+    "Talethia",
+    "Diantha",
+    "Holfast",
+    "Ardreth",
+    "Anneliesis"
+   ],
+   "note": "Dealt 3.67 billion damage. Ardreth stands adjacent to allies to share Resistance, preventing Recharge Speed debuffs."
+  },
+  {
+   "mode": "Crown Contest Round 2 (Lv 200 Fire Guardians)",
+   "heroes": [
+    "Talethia",
+    "Diantha",
+    "Lincos",
+    "Ardreth",
+    "Anneliesis"
+   ],
+   "note": "Alternative composition without Holfast, achieving 2.02 billion damage against Lv 200 Fire Guardians."
+  }
+ ],
+ "meta_changes": [
+  "The addition of Holfast significantly elevates the Aura team's damage ceiling in Crown Contest compared to running Lincos."
+ ],
+ "tips": [
+  "Level 200 Fire Guardians have 270 Accuracy; ensure all heroes have enough Resistance to avoid the Recharging Speed Penalty.",
+  "Position adjacent allies next to a high-Resistance Ardreth to leverage her Stand United talent (shares 20% Resistance), reducing personal gear Resistance requirements on other heroes to ~150.",
+  "Build Diantha with at least 240+ Accuracy and Witch's Remains to consistently apply Defense Penalty II."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "vC9dRFEYD4A",
+ "model": "gemini-3.8-flash",
+ "channel": "liveranov",
+ "title": "Updated Aura (+ Holfast) vs Fire Guardians Lv 200 | Crown Contest Round 2 | Dragonheir | Season 9",
+ "published": "2026-11-08T20:23:56+00:00",
+ "url": "https://www.youtube.com/watch?v=vC9dRFEYD4A",
+ "short": false,
+ "summarized": "2026-11-09T00:19Z"
+}

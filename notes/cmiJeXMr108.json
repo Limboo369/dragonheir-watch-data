@@ -1,0 +1,40 @@
+{
+ "summary": "This video breaks down summoning strategy for the returning Radiant Wings banner featuring Anneliesis alongside the Holfast selected banner. Anneliesis is highlighted as arguably the best support hero in the game due to her incredibly versatile kit containing heals, shields, stuns, dispels, and energy generation. Players with only 300 summons total are advised to prioritize pulling Anneliesis directly. However, if a player can accumulate enough summons within the 14-day banner window to guarantee Anneliesis at 300 pulls, obtaining Holfast first for Aura teams is recommended.",
+ "topics": [
+  "banners",
+  "summon strategy",
+  "Anneliesis",
+  "Holfast"
+ ],
+ "heroes": [
+  {
+   "name": "Anneliesis",
+   "verdict": "Must-have top tier support hero",
+   "note": "Provides healing, shields, stuns, debuff/buff dispels, aura energy generation, and stat boosts to front-line allies.",
+   "known": true
+  },
+  {
+   "name": "Holfast",
+   "verdict": "Fantastic pick for Aura teams",
+   "note": "Great hero to grab prior to going for Anneliesis if you can guarantee 300 summons on the Anneliesis banner within 14 days.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [],
+ "tips": [
+  "Prioritize Anneliesis if you only have 300 total summons saved up.",
+  "If you know you will earn enough summons over the 14-day banner period to reach 300 on Anneliesis, pull Holfast first, then go for Anneliesis."
+ ],
+ "season": "unknown",
+ "server_scope": "mixed",
+ "value": "medium",
+ "id": "cmiJeXMr108",
+ "model": "gemini-3.5-flash",
+ "channel": "OddOneGaming RPGs",
+ "title": "🚨 WATCH THIS Before You Summon 🚨 Holfast OR Anneliesis First? #dragonheirsilentgods  #dragonheir",
+ "published": "2026-11-08T14:00:00+00:00",
+ "url": "https://www.youtube.com/shorts/cmiJeXMr108",
+ "short": true,
+ "summarized": "2026-11-09T00:20Z"
+}

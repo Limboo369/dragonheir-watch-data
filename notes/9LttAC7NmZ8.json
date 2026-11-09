@@ -1,0 +1,72 @@
+{
+ "summary": "This guide showcases an updated Thunderbolt team tackling Round 2 Level 200 Fire Guardians in the Season 9 Crown Contest, dealing over 3.46 billion damage. The two crucial mechanics for the encounter are building at least 300 Resistance on all heroes to counter 270 enemy Accuracy, and prioritizing Attack and Enlightenment over critical stats. Because Thunderbolt's derivative damage cannot crit, Crit Rate and Crit Damage are entirely useless. Perkunte serves as the primary damage carry alongside Alaura, with Maashtur providing solo healing.",
+ "topics": [
+  "Crown Contest",
+  "Fire Guardians",
+  "Thunderbolt Team",
+  "Boss Guide",
+  "Gear Builds"
+ ],
+ "heroes": [
+  {
+   "name": "Perkunte",
+   "verdict": "Top tier primary damage dealer",
+   "note": "Dealt 72.3% (2.51 billion) of the team's total damage against Level 200 Fire Guardians when built with high Attack and Enlightenment.",
+   "known": true
+  },
+  {
+   "name": "Alaura",
+   "verdict": "Strong secondary damage dealer",
+   "note": "Contributed 20.6% (715 million) damage and supported the team with the Might of the Inferno set.",
+   "known": true
+  },
+  {
+   "name": "Maashtur",
+   "verdict": "Essential solo healer",
+   "note": "Provided 100% of the team's sustained healing and protection while meeting the Resistance threshold.",
+   "known": true
+  },
+  {
+   "name": "Tariz",
+   "verdict": "Recommended Thunderbolt DPS",
+   "note": "Generates electricity and procs Lightning Chain to help build team damage.",
+   "known": true
+  },
+  {
+   "name": "Shai'nachtan",
+   "verdict": "Recommended Thunderbolt DPS and buffer",
+   "note": "Provides team buffs and enhances Lightning Chain synergy for Thunderbolt derivative damage.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Crown Contest (Fire Guardians Lv 200)",
+   "heroes": [
+    "Perkunte",
+    "Alaura",
+    "Tariz",
+    "Shai'nachtan",
+    "Maashtur"
+   ],
+   "note": "Scored 3.465 billion damage; all heroes require ~300 Resistance or more, with damage dealers stacking Attack and Enlightenment instead of Crit stats."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Build around 300 Resistance or more on every hero to resist the Level 200 Fire Guardians' recharging speed penalty (they have 270 Accuracy).",
+  "Do not build Crit Rate or Crit Damage on Thunderbolt damage dealers against this boss because derivative damage cannot crit; stack Attack and Enlightenment instead.",
+  "Equip the Might of the Inferno gear set to boost derivative damage by 10% for the wearer and nearby allies within 1 tile."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "9LttAC7NmZ8",
+ "model": "gemini-3.8-flash",
+ "channel": "liveranov",
+ "title": "Updated Thunderbolt Team vs Fire Guardians Lv 200 | Crown Contest Round 2 | Dragonheir | Season 9",
+ "published": "2026-11-08T19:29:32+00:00",
+ "url": "https://www.youtube.com/watch?v=9LttAC7NmZ8",
+ "short": false,
+ "summarized": "2026-11-09T00:19Z"
+}

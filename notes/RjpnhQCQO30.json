@@ -1,0 +1,62 @@
+{
+ "summary": "This video breaks down banner priorities and summoning strategy for the new exclusive banner featuring Anneliesis versus the selectable banner featuring Holfast, Talethia, and Aemonleyda. The creator strongly recommends prioritizing Anneliesis because her banner is time-limited and she will not enter the standard summon pool. He performs 300 pulls to claim Holfast from the guarantee selector, analyzing Holfast's synergy with top-tier Aura DPS heroes like Talethia.",
+ "topics": [
+  "banners",
+  "summons",
+  "Anneliesis",
+  "Holfast",
+  "Aura meta"
+ ],
+ "heroes": [
+  {
+   "name": "Anneliesis",
+   "verdict": "Must pull",
+   "note": "Top priority exclusive support hero alongside Child of Chaos who will not enter the standard summon pool after her banner ends.",
+   "known": true
+  },
+  {
+   "name": "Holfast",
+   "verdict": "Strong Aura buffer",
+   "note": "Provides massive near-permanent Damage Up buffs to Aura allies and inflicts up to 20% Radiant Vulnerability.",
+   "known": true
+  },
+  {
+   "name": "Talethia",
+   "verdict": "Top tier DPS",
+   "note": "One of the most powerful damage dealers in the game who synergizes exceptionally well with Holfast's buffs.",
+   "known": true
+  },
+  {
+   "name": "Aemonleyda",
+   "verdict": "Skip",
+   "note": "Only offers niche utility in Melee Chess and provides zero value in standard dungeon or boss content.",
+   "known": true
+  },
+  {
+   "name": "Lincos",
+   "verdict": "Outclassed",
+   "note": "Gets replaced in Aura team compositions by newer premium support units.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [
+  "Holfast significantly boosts Aura element teams by providing continuous Damage Up buffs and stacking Radiant Vulnerability.",
+  "Anneliesis joins Child of Chaos as one of the most game-changing support heroes in the game."
+ ],
+ "tips": [
+  "Prioritize Anneliesis over non-exclusive banners because non-exclusive heroes can be obtained from standard summons later.",
+  "Combine Holfast's talent with Aura damage dealers like Talethia to maintain a constant 30% Damage Up buff on your primary attacker."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "RjpnhQCQO30",
+ "model": "gemini-3.5-flash",
+ "channel": "Skratch Gaming",
+ "title": "Can I GET LUCKY? Is Holfast A MUST PULL?? Dragonheir: Silent Gods x Dragonstride",
+ "published": "2026-11-08T13:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=RjpnhQCQO30",
+ "short": false,
+ "summarized": "2026-11-09T00:20Z"
+}

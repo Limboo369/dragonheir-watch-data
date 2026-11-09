@@ -1,0 +1,52 @@
+{
+ "summary": "Gorax covers Day 10 progression on a brand new Season 1 server. Reaching Resonance Level 90 unlocks the final talent tree tier, providing a massive damage boost in modes like Temporal Vortex. He advises stopping Goblin Lair stamina spending until higher dungeon difficulty tiers unlock in 3 days, shifting all stamina to hero talents instead. He also highlights the launch of Planar Expedition, shop priorities in Golden Bell Shop, and clearing Labyrinth of Curiosities with budget epic teams for free Master Scrolls.",
+ "topics": [
+  "Day 10 Progression",
+  "Resonance Level 90",
+  "Talents",
+  "Planar Expedition",
+  "Labyrinth of Curiosities",
+  "Stamina Management"
+ ],
+ "heroes": [
+  {
+   "name": "Lothair",
+   "verdict": "Top Temporal Vortex DPS",
+   "note": "Pariing high critical gear and strong pets on Lothair enables multi-hundred-million damage scores in Temporal Vortex.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Planar Expedition",
+   "heroes": [
+    "Serpentemis",
+    "Kurvida",
+    "Twitch",
+    "Lothair",
+    "Sleight"
+   ],
+   "note": "Primary Toxin team used against Symbiotic Giga Elemental, scoring over 210,000 points."
+  }
+ ],
+ "meta_changes": [
+  "Unlocking Resonance Level 90 opens the final talent tier, yielding a massive account-wide damage spike for boss modes."
+ ],
+ "tips": [
+  "Pivot stamina away from Goblin Lair once reaching Resonance Level 90, as higher difficulty stages unlock in a few days.",
+  "Invest stamina into unlocking tier 5 talents for your core heroes to maximize boss damage output.",
+  "Clear Labyrinth of Curiosities stages using mostly Epic heroes and Quick Equip gear to claim free Master Scrolls and summons.",
+  "Save and structure different teams for Planar Expedition, as heroes used in one fight cannot be reused in subsequent battles."
+ ],
+ "season": "S1",
+ "server_scope": "S1",
+ "value": "medium",
+ "id": "UMXdo2PRU6I",
+ "model": "gemini-3.5-flash",
+ "channel": "Gorax",
+ "title": "Day 10 Progression Explodes! Max LvL & New Dungeon | Beginner Series | Dragonheir x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=UMXdo2PRU6I",
+ "short": false,
+ "summarized": "2026-11-09T00:20Z"
+}

@@ -1,0 +1,41 @@
+{
+ "summary": "Skyasterix conducts a 600 Heliolite Dice summon session split across the Anneliesis return banner and the Total Selectable banner. He advises players, especially beginners building Aura teams, to prioritize pulling Anneliesis over niche booster heroes. Specifically, he recommends reaching Inspiration 3 on Anneliesis to unlock a passive start-of-battle boost granting all allies 10% max HP and 10% damage bonus. The remainder of the video covers summon pulls alongside persistent client performance issues and lag.",
+ "topics": [
+  "summons",
+  "banners",
+  "Aura team",
+  "Inspiration"
+ ],
+ "heroes": [
+  {
+   "name": "Anneliesis",
+   "verdict": "Must-pull for Aura teams (aim for I3)",
+   "note": "Essential core for Aura teams; reaching Inspiration 3 grants all allies 10% Max HP and 10% bonus damage at the start of battle.",
+   "known": true
+  },
+  {
+   "name": "Tallyn",
+   "verdict": "Core Aura team staple",
+   "note": "Having her well-developed or at high Inspiration is key before investing dice into secondary Aura boosters.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [],
+ "tips": [
+  "New players should prioritize acquiring Anneliesis before pulling for supplementary booster supports.",
+  "Aim for Inspiration 3 on Anneliesis if you run an Aura team to maximize her teamwide damage and survivability buffs.",
+  "If you already possess a high-inspiration Tallyn and a strong Aura foundation, secondary Aura boosters can provide up to a 30% team damage increase."
+ ],
+ "season": "S9",
+ "server_scope": "mixed",
+ "value": "low",
+ "id": "bQnIUA0HuMY",
+ "model": "gemini-3.8-flash",
+ "channel": "Skyasterix Gaming",
+ "title": "👉 600 Dice Summons! Did I Get SCAMMED Again? | Dragonheir: Silent Gods",
+ "published": "2026-11-08T22:57:21+00:00",
+ "url": "https://www.youtube.com/watch?v=bQnIUA0HuMY",
+ "short": false,
+ "summarized": "2026-11-09T00:24Z"
+}

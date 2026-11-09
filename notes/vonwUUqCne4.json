@@ -1,0 +1,52 @@
+{
+ "summary": "OddOne performs 300 summons on the Total Selectable Summons banner aiming to acquire Holfast to improve his Vortex team performance. Along the way to 300 summons, he pulls legendary duplicates Shahla and Alphanarsy, followed by a lucky natural Holfast pull at pull 290. Upon reaching 300 summons, he selects a second copy of Holfast from the banner selector, successfully unlocking Holfast's Inspiration 1.",
+ "topics": [
+  "summons",
+  "banners",
+  "Holfast",
+  "Inspiration"
+ ],
+ "heroes": [
+  {
+   "name": "Holfast",
+   "verdict": "Top pick for Vortex teams",
+   "note": "Radiant element damage dealer that channels Aura Energy to allies and grants random buffs; Inspiration 1 increases damage dealt to shielded enemies by 20%.",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "Must-have legend",
+   "note": "High priority hero for summons, recommended to pursue up to Inspiration 3.",
+   "known": true
+  },
+  {
+   "name": "Shahla",
+   "verdict": "Decent inspiration pull",
+   "note": "Pulled as an off-banner legendary duplicate during the Holfast banner summons.",
+   "known": true
+  },
+  {
+   "name": "Alphanarsy",
+   "verdict": "Decent inspiration pull",
+   "note": "Pulled as an off-banner legendary duplicate during the Holfast banner summons.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [],
+ "tips": [
+  "Save duplicate legendary hero copies instead of converting them immediately, as seasonal events may allow trading duplicate legendaries for golden shop currency.",
+  "Target Holfast on the Total Selectable Summons banner if you need to upgrade your Radiance team damage for Vortex."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "low",
+ "id": "vonwUUqCne4",
+ "model": "gemini-3.5-flash",
+ "channel": "OddOneGaming RPGs",
+ "title": "💥 I DID NOT EXPECT THIS 💥 My Holfast Banner Summons Got Lucky | Dragonheir x Dragonstride",
+ "published": "2026-11-08T16:00:20+00:00",
+ "url": "https://www.youtube.com/watch?v=vonwUUqCne4",
+ "short": false,
+ "summarized": "2026-11-09T00:20Z"
+}

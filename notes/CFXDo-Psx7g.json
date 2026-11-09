@@ -1,0 +1,81 @@
+{
+ "summary": "This video breaks down the summoning strategy for the newly released Anneliesis rerun banner and the Selectable Summons banner featuring the new Aura hero Holfast. The creator emphasizes that Anneliesis is a top-priority hero in the game for support, crowd control, and survivability, while Holfast serves as an upgraded replacement for older Aura buffers like Lincos. Detailed advice is provided on how to manage dice resources depending on whether a player has 300 or 600+ summons available.",
+ "topics": [
+  "Banners",
+  "Hero Review",
+  "Aura Team",
+  "Anneliesis",
+  "Holfast"
+ ],
+ "heroes": [
+  {
+   "name": "Anneliesis",
+   "verdict": "Must-summon top tier support",
+   "note": "Provides cleanse, buff dispel, crowd control, shields, heals, and Aura energy generation, though she does not deal high personal damage.",
+   "known": true
+  },
+  {
+   "name": "Holfast",
+   "verdict": "High priority replacement for Lincos",
+   "note": "Outstanding Aura support hero that grants Crit Rate, Crit Damage, Attack Up, Aura Energy, and 30% Damage Up to Aura allies.",
+   "known": true
+  },
+  {
+   "name": "Talethia",
+   "verdict": "Core Aura damage dealer",
+   "note": "Primary damage dealer for Aura teams who benefits massively from Holfast's Crit Rate and damage buffs.",
+   "known": true
+  },
+  {
+   "name": "Solmo",
+   "verdict": "Excellent shielder pairing for Anneliesis",
+   "note": "Generates massive shields that synergize with Anneliesis's Inspiration 2 team damage boost.",
+   "known": true
+  },
+  {
+   "name": "Aemonleyda",
+   "verdict": "Skip on Selectable banner",
+   "note": "Considered useless compared to Holfast and Talethia on the selectable banner options.",
+   "known": true
+  },
+  {
+   "name": "Lincos",
+   "verdict": "Outclassed by Holfast",
+   "note": "Holfast serves as a direct upgrade and replacement for Lincos in high-end Aura compositions.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "General / Pillar Vortex / Dungeons",
+   "heroes": [
+    "Anneliesis",
+    "Holfast",
+    "Talethia",
+    "Solmo"
+   ],
+   "note": "Premium Aura lineup combining massive survivability from HP scaling and shields with high Radiant damage output."
+  }
+ ],
+ "meta_changes": [
+  "Anneliesis banner rerun brings back one of the most versatile non-damage support heroes in the game.",
+  "Holfast introduces a top-tier Aura buffer capable of replacing older Aura support heroes like Lincos."
+ ],
+ "tips": [
+  "Prioritize obtaining Anneliesis with 300 dice/summons over all other banners if resources are limited.",
+  "If you have 600+ dice or can guarantee 300 summons on Anneliesis before her banner ends, summon 1 copy of Holfast from Selectable Summons 2 first.",
+  "Holfast's 20% Crit Rate Up buff allows building damage dealers like Talethia with only 80% Crit Rate on gear if skill haste uptime is maintained.",
+  "Avoid selecting Aemonleyda on the Selectable banner; prioritize Holfast first, then extra copies of Talethia."
+ ],
+ "season": "unknown",
+ "server_scope": "mixed",
+ "value": "high",
+ "id": "CFXDo-Psx7g",
+ "model": "gemini-3.5-flash",
+ "channel": "OddOneGaming RPGs",
+ "title": "🚨 CHOOSE THE RIGHT ONE! 🚨 Where To Summon Holfast & Anneliesis Banners | Dragonheir x Dragonstride",
+ "published": "2026-11-08T10:15:03+00:00",
+ "url": "https://www.youtube.com/watch?v=CFXDo-Psx7g",
+ "short": false,
+ "summarized": "2026-11-09T00:20Z"
+}
