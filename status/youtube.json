@@ -1,5 +1,5 @@
 {
- "built": "2026-11-09T01:19Z",
+ "built": "2026-11-09T01:32Z",
  "videos": [
   {
    "summary": "Skyasterix conducts a 600 Heliolite Dice summon session split across the Anneliesis return banner and the Total Selectable banner. He advises players, especially beginners building Aura teams, to prioritize pulling Anneliesis over niche booster heroes. Specifically, he recommends reaching Inspiration 3 on Anneliesis to unlock a passive start-of-battle boost granting all allies 10% max HP and 10% damage bonus. The remainder of the video covers summon pulls alongside persistent client performance issues and lag.",
@@ -19606,6 +19606,114 @@
    "summarized": "2026-11-09T01:18Z"
   },
   {
+   "summary": "This guide covers the optimal Day 1 progression strategy for new players in Dragonheir: Silent Gods. Players should push the main story until reaching the Day 2 gate, then achieve a 3-star clear on Goblin Lair Stage 6 to level heroes. Reaching rank 200 in the Grand Gladiator Arena unlocks Torrin, who facilitates pushing Grave of Venom (Deadly Harpy) up to Stage 8. Gear crafting should focus heavily on Skill Haste pieces to compensate for the early lack of skill scrolls. Players should avoid running Outlands Rift on Day 1, saving attempts until their resonance level increases.",
+   "topics": [
+    "Day 1 Guide",
+    "Goblin Lair",
+    "Grave of Venom",
+    "Deadly Harpy",
+    "Equipment Forging",
+    "Torrin Unlock",
+    "Beginner Progression"
+   ],
+   "heroes": [
+    {
+     "name": "Torrin",
+     "verdict": "Essential early-game healer",
+     "note": "Unlocked by reaching top 200 in Grand Gladiator Arena; his passive grants bonus HP, Defense, and Invisibility to the frontline tank.",
+     "known": true
+    },
+    {
+     "name": "Eurion",
+     "verdict": "Top-tier PvE progression tank",
+     "note": "Survives Deadly Harpy Stage 8's opening burst using Invincibility and recovery mechanics even without skill scrolls.",
+     "known": true
+    },
+    {
+     "name": "Dallbam",
+     "verdict": "Decent early tank alternative",
+     "note": "Can tank lower stages of Deadly Harpy before acquiring higher-tier legendary defensive options.",
+     "known": true
+    },
+    {
+     "name": "Synarell",
+     "verdict": "Clutch early support",
+     "note": "Provides immense defensive and healing value in Deadly Harpy Stage 8 without needing skill scroll investment.",
+     "known": true
+    },
+    {
+     "name": "Vidimir",
+     "verdict": "Reliable early DPS",
+     "note": "Deals strong Frost damage in both Goblin Lair and Harpy dungeons and maintains utility in multiple modes.",
+     "known": true
+    },
+    {
+     "name": "Rava",
+     "verdict": "Reliable early DPS",
+     "note": "Pairs with Vidimir to provide necessary wave clear and boss damage without wasting resources.",
+     "known": true
+    },
+    {
+     "name": "Usha",
+     "verdict": "Viable free starter DPS",
+     "note": "Easily helps 3-star clear Goblin Lair Stage 6 on day one alongside early starter units.",
+     "known": true
+    },
+    {
+     "name": "Rowena",
+     "verdict": "Budget early damage dealer",
+     "note": "Effective filler DPS used to clear Goblin Lair Stage 6.",
+     "known": true
+    }
+   ],
+   "teams": [
+    {
+     "mode": "Goblin Lair - Stage 6",
+     "heroes": [
+      "Usha",
+      "Vidimir",
+      "Rava",
+      "Rowena",
+      "Synarell"
+     ],
+     "note": "F2P-friendly Day 1 team used to 3-star Goblin Lair 6 at level 50 with basic equipment."
+    },
+    {
+     "mode": "Grave of Venom (Deadly Harpy) - Stage 8",
+     "heroes": [
+      "Eurion",
+      "Torrin",
+      "Synarell",
+      "Vidimir",
+      "Rava"
+     ],
+     "note": "Focuses on Eurion surviving the initial burst while Vidimir and Rava clear wisps to reduce boss damage."
+    }
+   ],
+   "meta_changes": [],
+   "tips": [
+    "Push the main campaign immediately after stage 1.6 until hitting the Dark Forest Day 2 unlock condition.",
+    "Prioritize clearing and 3-starring Goblin Lair Stage 6 early to farm hero experience efficiently.",
+    "Climb Grand Gladiator Arena under rank 200 on Day 1 to unlock the legendary healer Torrin for free.",
+    "Use daily Double Concentrate items on Grave of Venom starting at Stage 4 or higher to farm Epic gear efficiently.",
+    "Craft equipment at camp Forge III and prioritize gear sets with Skill Haste to lower skill cooldowns before scrolls are available.",
+    "Do not spend attempts on Outlands Rift on Day 1; wait until Day 6 when higher resonance unlocks significantly better rewards.",
+    "When stuck, clear Fey Meander stages focusing on survival rather than pure damage.",
+    "Save Heliolite dice for guaranteed Prophecy Summon targets (such as Eurion) or wait for top banners like Child of Chaos."
+   ],
+   "season": "unknown",
+   "server_scope": "mixed",
+   "value": "high",
+   "id": "T5dqvUcqhbo",
+   "model": "gemini-3.8-flash",
+   "channel": "Gorax",
+   "title": "The BEST Day 1 Start for New Players! | Beginner Series | Dragonheir x Dragonstride",
+   "published": "2026-09-28T12:00:00+00:00",
+   "url": "https://www.youtube.com/watch?v=T5dqvUcqhbo",
+   "short": false,
+   "summarized": "2026-11-09T01:32Z"
+  },
+  {
    "summary": "Dragonheir's 1st Anniversary celebration introduces a three-phase web event titled Prelude to Nightfall. In Phase 1 (Sept 2–Sept 9), players log in daily to roll dice, unlocking story entries and rewards such as Scholar Scrolls and up to 1,400 Wyrmarrow. Phase 2 (Sept 9–Sept 15) allows players to claim a free Legendary hero and select their faction. Phase 3 (Sept 15–Oct 2) opens an ultimate prize pool with physical prizes and a Legendary hero option chest.",
    "topics": [
     "anniversary event",
@@ -34640,6 +34748,13 @@
     "url": "https://www.youtube.com/watch?v=I2wsiqvliYg"
    },
    {
+    "verdict": "Reliable early DPS",
+    "note": "Pairs with Vidimir to provide necessary wave clear and boss damage without wasting resources.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=T5dqvUcqhbo"
+   },
+   {
     "verdict": "Fast Def Down Enabler",
     "note": "Applies reliable Defense Penalty in Grave of Venom using the Misty Conch artifact.",
     "date": "2026-09-28",
@@ -38970,6 +39085,13 @@
     "url": "https://www.youtube.com/watch?v=o_jfaB478PE"
    },
    {
+    "verdict": "Essential early-game healer",
+    "note": "Unlocked by reaching top 200 in Grand Gladiator Arena; his passive grants bonus HP, Defense, and Invisibility to the frontline tank.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=T5dqvUcqhbo"
+   },
+   {
     "verdict": "artifact currency / average",
     "note": "Mainly serves as duplicate fodder to exchange for shop artifacts.",
     "date": "2026-09-28",
@@ -39067,6 +39189,13 @@
     "date": "2026-10-20",
     "channel": "Gorax",
     "url": "https://www.youtube.com/watch?v=iQN8FFgvVTk"
+   },
+   {
+    "verdict": "Reliable early DPS",
+    "note": "Deals strong Frost damage in both Goblin Lair and Harpy dungeons and maintains utility in multiple modes.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=T5dqvUcqhbo"
    },
    {
     "verdict": "Top Free Epic DPS",
@@ -39355,6 +39484,13 @@
     "date": "2026-10-16",
     "channel": "Gorax",
     "url": "https://www.youtube.com/watch?v=62IBjaXyVBk"
+   },
+   {
+    "verdict": "Top-tier PvE progression tank",
+    "note": "Survives Deadly Harpy Stage 8's opening burst using Invincibility and recovery mechanics even without skill scrolls.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=T5dqvUcqhbo"
    },
    {
     "verdict": "Defense tank hero",
@@ -42339,6 +42475,13 @@
     "url": "https://www.youtube.com/watch?v=TviMe77f8sQ"
    },
    {
+    "verdict": "Clutch early support",
+    "note": "Provides immense defensive and healing value in Deadly Harpy Stage 8 without needing skill scroll investment.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=T5dqvUcqhbo"
+   },
+   {
     "verdict": "Consider for awakening",
     "note": "Targeted as a duplicate option from Prime Chest II to push hero awakening levels.",
     "date": "2026-09-28",
@@ -42525,6 +42668,47 @@
     "url": "https://www.youtube.com/watch?v=ydl2Hi0lAy8"
    }
   ],
+  "Dallbam": [
+   {
+    "verdict": "Decent early tank alternative",
+    "note": "Can tank lower stages of Deadly Harpy before acquiring higher-tier legendary defensive options.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=T5dqvUcqhbo"
+   }
+  ],
+  "Usha": [
+   {
+    "verdict": "Viable free starter DPS",
+    "note": "Easily helps 3-star clear Goblin Lair Stage 6 on day one alongside early starter units.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=T5dqvUcqhbo"
+   },
+   {
+    "verdict": "Great Rare Unit",
+    "note": "Highlighted as one of the best Rare heroes in the game for early progression.",
+    "date": "2026-09-28",
+    "channel": "Fastidious Dragonheir",
+    "url": "https://www.youtube.com/watch?v=WM4Je3TfTb0"
+   },
+   {
+    "verdict": "Excellent F2P main damage dealer",
+    "note": "Serves as primary damage dealer; prioritize Crit Rate, Crit Damage, and Attack stats.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=rWOyNxD1K7w"
+   }
+  ],
+  "Rowena": [
+   {
+    "verdict": "Budget early damage dealer",
+    "note": "Effective filler DPS used to clear Goblin Lair Stage 6.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=T5dqvUcqhbo"
+   }
+  ],
   "Sigrid": [
    {
     "verdict": "Top Rare pairing for Serpentemis",
@@ -42564,22 +42748,6 @@
     "date": "2026-09-28",
     "channel": "Fastidious Dragonheir",
     "url": "https://www.youtube.com/watch?v=WM4Je3TfTb0"
-   }
-  ],
-  "Usha": [
-   {
-    "verdict": "Great Rare Unit",
-    "note": "Highlighted as one of the best Rare heroes in the game for early progression.",
-    "date": "2026-09-28",
-    "channel": "Fastidious Dragonheir",
-    "url": "https://www.youtube.com/watch?v=WM4Je3TfTb0"
-   },
-   {
-    "verdict": "Excellent F2P main damage dealer",
-    "note": "Serves as primary damage dealer; prioritize Crit Rate, Crit Damage, and Attack stats.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=rWOyNxD1K7w"
    }
   ],
   "Crisis": [

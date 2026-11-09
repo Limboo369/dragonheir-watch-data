@@ -1,0 +1,108 @@
+{
+ "summary": "This guide covers the optimal Day 1 progression strategy for new players in Dragonheir: Silent Gods. Players should push the main story until reaching the Day 2 gate, then achieve a 3-star clear on Goblin Lair Stage 6 to level heroes. Reaching rank 200 in the Grand Gladiator Arena unlocks Torrin, who facilitates pushing Grave of Venom (Deadly Harpy) up to Stage 8. Gear crafting should focus heavily on Skill Haste pieces to compensate for the early lack of skill scrolls. Players should avoid running Outlands Rift on Day 1, saving attempts until their resonance level increases.",
+ "topics": [
+  "Day 1 Guide",
+  "Goblin Lair",
+  "Grave of Venom",
+  "Deadly Harpy",
+  "Equipment Forging",
+  "Torrin Unlock",
+  "Beginner Progression"
+ ],
+ "heroes": [
+  {
+   "name": "Torrin",
+   "verdict": "Essential early-game healer",
+   "note": "Unlocked by reaching top 200 in Grand Gladiator Arena; his passive grants bonus HP, Defense, and Invisibility to the frontline tank.",
+   "known": true
+  },
+  {
+   "name": "Eurion",
+   "verdict": "Top-tier PvE progression tank",
+   "note": "Survives Deadly Harpy Stage 8's opening burst using Invincibility and recovery mechanics even without skill scrolls.",
+   "known": true
+  },
+  {
+   "name": "Dallbam",
+   "verdict": "Decent early tank alternative",
+   "note": "Can tank lower stages of Deadly Harpy before acquiring higher-tier legendary defensive options.",
+   "known": true
+  },
+  {
+   "name": "Synarell",
+   "verdict": "Clutch early support",
+   "note": "Provides immense defensive and healing value in Deadly Harpy Stage 8 without needing skill scroll investment.",
+   "known": true
+  },
+  {
+   "name": "Vidimir",
+   "verdict": "Reliable early DPS",
+   "note": "Deals strong Frost damage in both Goblin Lair and Harpy dungeons and maintains utility in multiple modes.",
+   "known": true
+  },
+  {
+   "name": "Rava",
+   "verdict": "Reliable early DPS",
+   "note": "Pairs with Vidimir to provide necessary wave clear and boss damage without wasting resources.",
+   "known": true
+  },
+  {
+   "name": "Usha",
+   "verdict": "Viable free starter DPS",
+   "note": "Easily helps 3-star clear Goblin Lair Stage 6 on day one alongside early starter units.",
+   "known": true
+  },
+  {
+   "name": "Rowena",
+   "verdict": "Budget early damage dealer",
+   "note": "Effective filler DPS used to clear Goblin Lair Stage 6.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Goblin Lair - Stage 6",
+   "heroes": [
+    "Usha",
+    "Vidimir",
+    "Rava",
+    "Rowena",
+    "Synarell"
+   ],
+   "note": "F2P-friendly Day 1 team used to 3-star Goblin Lair 6 at level 50 with basic equipment."
+  },
+  {
+   "mode": "Grave of Venom (Deadly Harpy) - Stage 8",
+   "heroes": [
+    "Eurion",
+    "Torrin",
+    "Synarell",
+    "Vidimir",
+    "Rava"
+   ],
+   "note": "Focuses on Eurion surviving the initial burst while Vidimir and Rava clear wisps to reduce boss damage."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Push the main campaign immediately after stage 1.6 until hitting the Dark Forest Day 2 unlock condition.",
+  "Prioritize clearing and 3-starring Goblin Lair Stage 6 early to farm hero experience efficiently.",
+  "Climb Grand Gladiator Arena under rank 200 on Day 1 to unlock the legendary healer Torrin for free.",
+  "Use daily Double Concentrate items on Grave of Venom starting at Stage 4 or higher to farm Epic gear efficiently.",
+  "Craft equipment at camp Forge III and prioritize gear sets with Skill Haste to lower skill cooldowns before scrolls are available.",
+  "Do not spend attempts on Outlands Rift on Day 1; wait until Day 6 when higher resonance unlocks significantly better rewards.",
+  "When stuck, clear Fey Meander stages focusing on survival rather than pure damage.",
+  "Save Heliolite dice for guaranteed Prophecy Summon targets (such as Eurion) or wait for top banners like Child of Chaos."
+ ],
+ "season": "unknown",
+ "server_scope": "mixed",
+ "value": "high",
+ "id": "T5dqvUcqhbo",
+ "model": "gemini-3.8-flash",
+ "channel": "Gorax",
+ "title": "The BEST Day 1 Start for New Players! | Beginner Series | Dragonheir x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=T5dqvUcqhbo",
+ "short": false,
+ "summarized": "2026-11-09T01:32Z"
+}
