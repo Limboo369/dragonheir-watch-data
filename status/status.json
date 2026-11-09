@@ -1,22 +1,16 @@
 {
- "built": "2026-11-09T07:23Z",
+ "built": "2026-11-09T07:26Z",
  "last_fetch": "2026-11-09T07:17Z",
  "counts": {
-  "summarized": 396,
+  "summarized": 398,
   "skipped_giveaway": 17,
   "baseline": 22,
   "new": 236,
-  "retry": 8,
   "skipped_live": 1,
-  "failed": 3
+  "failed": 3,
+  "retry": 6
  },
  "problems": [
-  {
-   "title": "FREE Daily Summons! NO BANNER YET? - Day 1 Update & MORE!!! [Dragonheir: Silent Gods]",
-   "channel": "Volkin Dragonheir",
-   "status": "retry",
-   "error": ""
-  },
   {
    "title": "Season 9 NEW INFO: 2 Free Heroes, New Affinities & Selectable Banner! | Dragonheir: Silent Gods",
    "channel": "liveranov",
@@ -54,12 +48,6 @@
    "error": ""
   },
   {
-   "title": "🎂 Dragonheir 3rd ANNIVERSARY — New EVENT & Details Explained! | Dragonheir: Silent Gods",
-   "channel": "Skyasterix Gaming",
-   "status": "retry",
-   "error": ""
-  },
-  {
    "title": "INCANDESCENCE Team Speed Runs | Dragonheir: Silent Gods",
    "channel": "liveranov",
    "status": "retry",
@@ -85,10 +73,6 @@
   "quota_hit": 1794208692.7710142
  },
  "log_tail": [
-  "+ Skratch Gaming: The Best Crown Contest Teams! The Lightning Fortress Dragonh",
-  "saved RkOaHBayB0Y",
-  "+ Suzi Plays: My Starweave Echo Exchange & Advice 🎁  3rd Anniversary Event",
-  "saved SeE4BCCmxz4",
   "+ OddOneGaming RPGs: 💥 They Are BACK! 💥Corrosion vs Durem CC Boss S8 GUIDE | Drag",
   "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 391 videos, 221 heroes",
   "== 2026-11-09 04:17",
@@ -164,7 +148,11 @@
   "! I Went to China to Visit the Dragonheir: Silent Go: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
   "! 💥 1 Team FULL AUTO All Stages 💥Meander Trial 1-60 : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
   "saved Qk0ejZ_Wiaw",
-  "+ Gorax: Temporal Vortex Team Guide | Best Meta Heroes & Teams | Drag"
+  "+ Gorax: Temporal Vortex Team Guide | Best Meta Heroes & Teams | Drag",
+  "saved P05OqBeZnug",
+  "+ Volkin Dragonheir: FREE Daily Summons! NO BANNER YET? - Day 1 Update & MORE!!! ",
+  "saved P7wro12Zl00",
+  "+ Skyasterix Gaming: 🎂 Dragonheir 3rd ANNIVERSARY — New EVENT & Details Explained"
  ],
  "crontab": [],
  "channels": [

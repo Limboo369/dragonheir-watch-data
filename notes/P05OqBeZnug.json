@@ -1,0 +1,69 @@
+{
+ "summary": "Volkin reviews his Day 1 progress on a fresh server, focusing on summoning plans and stamina optimization. The Child of Chaos banner (Reversal Summon) is delayed until Day 5 on new servers, prompting a summoning hold to reach the 300-pull guarantee. Players should avoid letting regular stamina overcap into reserve stamina because the generation rate drops by half. Free daily riddles provide 15 pulls per day, and Starlight summons should be spaced at 10 pulls daily to clear Alliance commissions.",
+ "topics": [
+  "Day 1 progression",
+  "Child of Chaos banner",
+  "Stamina reserve mechanics",
+  "Summon saving strategy"
+ ],
+ "heroes": [
+  {
+   "name": "Child of Chaos",
+   "verdict": "Top summoning priority (aim for 300 pulls)",
+   "note": "Rebalanced to trade some team buffing for stronger personal damage, execute mechanics, and healing, making him an exceptional carry.",
+   "known": true
+  },
+  {
+   "name": "Felosia",
+   "verdict": "Top pick from web event",
+   "note": "Provides ice shields and buffs to strengthen early-game ice lineups alongside Auster and Hochadir.",
+   "known": true
+  },
+  {
+   "name": "Garius",
+   "verdict": "Must-build epic sustain tank",
+   "note": "Available via daily check-in milestones, offering high-tier defense-scaling heals and frontline tanking.",
+   "known": true
+  },
+  {
+   "name": "Torrin",
+   "verdict": "Great early necrosis healer",
+   "note": "Earned by climbing to top 200 in Arena, providing immediate team sustain for early dungeon clearing.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Story / Fey Meander",
+   "heroes": [
+    "Auster",
+    "Hochadir",
+    "Felosia",
+    "Torrin"
+   ],
+   "note": "Core early lineup combining free starter legendaries with web event Felosia for shields and Torrin for healing."
+  }
+ ],
+ "meta_changes": [
+  "Child of Chaos rebalance shifted power from ally buffs into increased self-damage, self-sustain, and execution.",
+  "The Reversal Summon banner for Child of Chaos is gated behind a 5-day delay on fresh servers, while Option Summons I opens on Day 4."
+ ],
+ "tips": [
+  "Save regular and gem summons until Day 5 to reach the 300-pull threshold for guaranteed Child of Chaos.",
+  "Do not let stamina stay overcapped: reserve stamina regenerates at 1 per 20 minutes (up to 720) compared to regular stamina at 1 per 10 minutes, cutting energy income in half.",
+  "Save Starlight (purple) dice to pull only 10 times per day to satisfy daily Alliance commissions.",
+  "Claim the daily riddle event codes to receive 15 free pulls every day.",
+  "Prioritize first-time dungeon clears and wait for daily talent domain rotations before dumping stamina into repeat gear runs."
+ ],
+ "season": "S1",
+ "server_scope": "S1",
+ "value": "medium",
+ "id": "P05OqBeZnug",
+ "model": "gemini-3.8-flash",
+ "channel": "Volkin Dragonheir",
+ "title": "FREE Daily Summons! NO BANNER YET? - Day 1 Update & MORE!!! [Dragonheir: Silent Gods]",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=P05OqBeZnug",
+ "short": false,
+ "summarized": "2026-11-09T07:26Z"
+}

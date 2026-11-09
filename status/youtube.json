@@ -1,5 +1,5 @@
 {
- "built": "2026-11-09T07:23Z",
+ "built": "2026-11-09T07:26Z",
  "videos": [
   {
    "summary": "Skyasterix conducts a 600 Heliolite Dice summon session split across the Anneliesis return banner and the Total Selectable banner. He advises players, especially beginners building Aura teams, to prioritize pulling Anneliesis over niche booster heroes. Specifically, he recommends reaching Inspiration 3 on Anneliesis to unlock a passive start-of-battle boost granting all allies 10% max HP and 10% damage bonus. The remainder of the video covers summon pulls alongside persistent client performance issues and lag.",
@@ -19398,6 +19398,103 @@
    "summarized": "2026-11-03T01:23Z"
   },
   {
+   "summary": "Volkin reviews his Day 1 progress on a fresh server, focusing on summoning plans and stamina optimization. The Child of Chaos banner (Reversal Summon) is delayed until Day 5 on new servers, prompting a summoning hold to reach the 300-pull guarantee. Players should avoid letting regular stamina overcap into reserve stamina because the generation rate drops by half. Free daily riddles provide 15 pulls per day, and Starlight summons should be spaced at 10 pulls daily to clear Alliance commissions.",
+   "topics": [
+    "Day 1 progression",
+    "Child of Chaos banner",
+    "Stamina reserve mechanics",
+    "Summon saving strategy"
+   ],
+   "heroes": [
+    {
+     "name": "Child of Chaos",
+     "verdict": "Top summoning priority (aim for 300 pulls)",
+     "note": "Rebalanced to trade some team buffing for stronger personal damage, execute mechanics, and healing, making him an exceptional carry.",
+     "known": true
+    },
+    {
+     "name": "Felosia",
+     "verdict": "Top pick from web event",
+     "note": "Provides ice shields and buffs to strengthen early-game ice lineups alongside Auster and Hochadir.",
+     "known": true
+    },
+    {
+     "name": "Garius",
+     "verdict": "Must-build epic sustain tank",
+     "note": "Available via daily check-in milestones, offering high-tier defense-scaling heals and frontline tanking.",
+     "known": true
+    },
+    {
+     "name": "Torrin",
+     "verdict": "Great early necrosis healer",
+     "note": "Earned by climbing to top 200 in Arena, providing immediate team sustain for early dungeon clearing.",
+     "known": true
+    }
+   ],
+   "teams": [
+    {
+     "mode": "Story / Fey Meander",
+     "heroes": [
+      "Auster",
+      "Hochadir",
+      "Felosia",
+      "Torrin"
+     ],
+     "note": "Core early lineup combining free starter legendaries with web event Felosia for shields and Torrin for healing."
+    }
+   ],
+   "meta_changes": [
+    "Child of Chaos rebalance shifted power from ally buffs into increased self-damage, self-sustain, and execution.",
+    "The Reversal Summon banner for Child of Chaos is gated behind a 5-day delay on fresh servers, while Option Summons I opens on Day 4."
+   ],
+   "tips": [
+    "Save regular and gem summons until Day 5 to reach the 300-pull threshold for guaranteed Child of Chaos.",
+    "Do not let stamina stay overcapped: reserve stamina regenerates at 1 per 20 minutes (up to 720) compared to regular stamina at 1 per 10 minutes, cutting energy income in half.",
+    "Save Starlight (purple) dice to pull only 10 times per day to satisfy daily Alliance commissions.",
+    "Claim the daily riddle event codes to receive 15 free pulls every day.",
+    "Prioritize first-time dungeon clears and wait for daily talent domain rotations before dumping stamina into repeat gear runs."
+   ],
+   "season": "S1",
+   "server_scope": "S1",
+   "value": "medium",
+   "id": "P05OqBeZnug",
+   "model": "gemini-3.8-flash",
+   "channel": "Volkin Dragonheir",
+   "title": "FREE Daily Summons! NO BANNER YET? - Day 1 Update & MORE!!! [Dragonheir: Silent Gods]",
+   "published": "2026-09-28T12:00:00+00:00",
+   "url": "https://www.youtube.com/watch?v=P05OqBeZnug",
+   "short": false,
+   "summarized": "2026-11-09T07:26Z"
+  },
+  {
+   "summary": "This video covers the Dragonheir 3rd Anniversary event running from September 2 to October 1, 2026. The event is split into three main phases: Prelude to Nightfall, First Glimpse of Fate, and Gift of Fate. Players can unlock daily story chapters and roll dice for materials, invite friends, and take daily quizzes across four scenes. Progressing through the event grants access to a random SSR Fate Hero from a preset pool with chances to reselect, along with a gift draw pool featuring an R-Legendary Hero Option Chest.",
+   "topics": [
+    "3rd Anniversary",
+    "Event Rules",
+    "Fate Heroes",
+    "Hero Option Chest"
+   ],
+   "heroes": [],
+   "teams": [],
+   "meta_changes": [],
+   "tips": [
+    "Make sure to log in during the Prelude to Nightfall phase (Sep 2 - Sep 9) to complete the daily prologue story chapters and roll dice for extra Wyrmarrow, Scholar Scrolls, and Auric Tokens.",
+    "During the First Glimpse of Fate phase (Sep 9 - Sep 15), enter all 4 story scenes and answer quizzes; entering a new scene provides a chance to reselect your Fate Hero if you dislike your current random roll.",
+    "Complete the First Glimpse of Fate to qualify for the Gift of Fate draw pool, aiming for the Tier A R-Legendary Hero Option Chest to select a legendary hero directly."
+   ],
+   "season": "unknown",
+   "server_scope": "S9",
+   "value": "medium",
+   "id": "P7wro12Zl00",
+   "model": "gemini-3.8-flash",
+   "channel": "Skyasterix Gaming",
+   "title": "🎂 Dragonheir 3rd ANNIVERSARY — New EVENT & Details Explained! | Dragonheir: Silent Gods",
+   "published": "2026-09-28T12:00:00+00:00",
+   "url": "https://www.youtube.com/watch?v=P7wro12Zl00",
+   "short": false,
+   "summarized": "2026-11-09T07:26Z"
+  },
+  {
    "summary": "Gorax showcases end-game Temporal Vortex teams used by top veteran players, achieving scores up to 74+ billion damage. The video breaks down two main end-game setups: a single-target Dauntless team and an AoE Toxin team. Detailed guidance is provided for hero stat priorities, exclusive artifacts, key gear sets like Puppeteer for 18-second cooldown reduction, and exact ultimate skill timing sequences.",
    "topics": [
     "Temporal Vortex",
@@ -35031,6 +35128,13 @@
     "url": "https://www.youtube.com/watch?v=ydl2Hi0lAy8"
    },
    {
+    "verdict": "Top summoning priority (aim for 300 pulls)",
+    "note": "Rebalanced to trade some team buffing for stronger personal damage, execute mechanics, and healing, making him an exceptional carry.",
+    "date": "2026-09-28",
+    "channel": "Volkin Dragonheir",
+    "url": "https://www.youtube.com/watch?v=P05OqBeZnug"
+   },
+   {
     "verdict": "Top Toxin Support (Replaces Reytah)",
     "note": "Uses Dragonbone Catalyst artifact for a 25% damage boost; build high HP and DEF for survivability.",
     "date": "2026-09-28",
@@ -40231,6 +40335,13 @@
     "url": "https://www.youtube.com/watch?v=o_jfaB478PE"
    },
    {
+    "verdict": "Great early necrosis healer",
+    "note": "Earned by climbing to top 200 in Arena, providing immediate team sustain for early dungeon clearing.",
+    "date": "2026-09-28",
+    "channel": "Volkin Dragonheir",
+    "url": "https://www.youtube.com/watch?v=P05OqBeZnug"
+   },
+   {
     "verdict": "Essential early-game healer",
     "note": "Unlocked by reaching top 200 in Grand Gladiator Arena; his passive grants bonus HP, Defense, and Invisibility to the frontline tank.",
     "date": "2026-09-28",
@@ -40579,6 +40690,13 @@
     "date": "2026-09-30",
     "channel": "Fastidious Dragonheir",
     "url": "https://www.youtube.com/watch?v=e1p87KNEq0g"
+   },
+   {
+    "verdict": "Must-build epic sustain tank",
+    "note": "Available via daily check-in milestones, offering high-tier defense-scaling heals and frontline tanking.",
+    "date": "2026-09-28",
+    "channel": "Volkin Dragonheir",
+    "url": "https://www.youtube.com/watch?v=P05OqBeZnug"
    },
    {
     "verdict": "Top-tier tank & healer",
@@ -42274,6 +42392,13 @@
     "date": "2026-09-30",
     "channel": "OddOneGaming RPGs",
     "url": "https://www.youtube.com/watch?v=TviMe77f8sQ"
+   },
+   {
+    "verdict": "Top pick from web event",
+    "note": "Provides ice shields and buffs to strengthen early-game ice lineups alongside Auster and Hochadir.",
+    "date": "2026-09-28",
+    "channel": "Volkin Dragonheir",
+    "url": "https://www.youtube.com/watch?v=P05OqBeZnug"
    },
    {
     "verdict": "Crucial support for timing control",
