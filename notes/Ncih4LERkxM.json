@@ -1,0 +1,143 @@
+{
+ "summary": "Gorax highlights the top three Mythic artifacts every player should prioritize when spending Soul Imprints earned from duplicate legendary hero summons. Witch's Remains provides an incredible AoE Defense Penalty II when multi-hit ultimate damage dealers strike enemies. Rift Hourglass grants massive Skill Haste, lowering skill cooldowns to reliably sync support skills with 18-second boss attack rotations. Gatekeeper's Staff converts 100% of overhealing into shields, transforming Defense-scaling healers like Garius into massive team-wide shield generators.",
+ "topics": [
+  "artifacts",
+  "Witch's Remains",
+  "Rift Hourglass",
+  "Gatekeeper's Staff",
+  "Soul Imprints",
+  "gear guide"
+ ],
+ "heroes": [
+  {
+   "name": "Shinnah",
+   "verdict": "Top Witch's Remains user for Ice Blast teams",
+   "note": "Her multi-hit AoE ultimate triggers Witch's Remains Defense Penalty II reliably across multiple targets.",
+   "known": true
+  },
+  {
+   "name": "Lossenia",
+   "verdict": "Best Witch's Remains user for Frost teams",
+   "note": "Utilizes ultimate skill damage to inflict Defense Penalty II on enemies.",
+   "known": true
+  },
+  {
+   "name": "Kurvida",
+   "verdict": "Best Witch's Remains user for Dauntless teams",
+   "note": "Applies AoE defense penalties through ultimate skill damage.",
+   "known": true
+  },
+  {
+   "name": "Tariz",
+   "verdict": "Witch's Remains or Misty Conch user for Thunderbolt",
+   "note": "Can utilize Witch's Remains or Misty Conch to apply defense penalties to enemies.",
+   "known": true
+  },
+  {
+   "name": "Twitch",
+   "verdict": "Misty Conch or Witch's Remains user for Toxin",
+   "note": "Misty Conch works slightly better for Twitch, but Witch's Remains serves as a solid alternative.",
+   "known": true
+  },
+  {
+   "name": "Alton",
+   "verdict": "Witch's Remains user for Rally teams",
+   "note": "Applies Defense Penalty II to targets when triggering ultimate damage.",
+   "known": true
+  },
+  {
+   "name": "Diantha",
+   "verdict": "Witch's Remains user for Aura teams",
+   "note": "Inflicts defense debuffs on enemies via ultimate skill strikes.",
+   "known": true
+  },
+  {
+   "name": "Bernade",
+   "verdict": "Witch's Remains user for Summon teams",
+   "note": "Triggers AoE defense penalty when dealing ultimate damage.",
+   "known": true
+  },
+  {
+   "name": "Aspalta",
+   "verdict": "Witch's Remains user for Shadow teams",
+   "note": "Great option for applying defense penalty debuffs in Shadow compositions.",
+   "known": true
+  },
+  {
+   "name": "Sacredeia",
+   "verdict": "Witch's Remains user for Corrosion teams",
+   "note": "Applies defense penalties to multiple targets with her ultimate.",
+   "known": true
+  },
+  {
+   "name": "Vinyara",
+   "verdict": "Premier Rift Hourglass user",
+   "note": "Gains huge Skill Haste from Rift Hourglass to drastically lower ultimate cooldowns for boss control.",
+   "known": true
+  },
+  {
+   "name": "Feenja",
+   "verdict": "Excellent user for Rift Hourglass or Gatekeeper's Staff",
+   "note": "Can use Rift Hourglass for skill timing or Gatekeeper's Staff to turn healing into massive shields.",
+   "known": true
+  },
+  {
+   "name": "Garius",
+   "verdict": "Best Gatekeeper's Staff user",
+   "note": "Converts 100% of his massive Defense-scaled overheals into team-wide shields, dramatically raising team survivability.",
+   "known": true
+  },
+  {
+   "name": "Scaarr",
+   "verdict": "Strong candidate for Gatekeeper's Staff",
+   "note": "Defense-scaling support who converts excess healing into protective shields.",
+   "known": true
+  },
+  {
+   "name": "Torrin",
+   "verdict": "Viable Gatekeeper's Staff user",
+   "note": "Can turn overheals into shields to protect the team.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Temporal Vortex / Boss Dungeons",
+   "heroes": [
+    "Shinnah",
+    "Lossenia",
+    "Kurvida",
+    "Tariz",
+    "Twitch"
+   ],
+   "note": "Equip multi-hit ultimate damage dealers with Witch's Remains or Misty Conch to apply Defense Penalty II."
+  },
+  {
+   "mode": "Dungeons / Continental Challenge",
+   "heroes": [
+    "Garius",
+    "Feenja",
+    "Torrin"
+   ],
+   "note": "Equip Defense-scaling healers with Gatekeeper's Staff to convert overheals into shields and survive big boss hits."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Prioritize purchasing Witch's Remains, Rift Hourglass, and Gatekeeper's Staff with Soul Imprints from duplicate hero pulls.",
+  "Ensure heroes equipped with debuff artifacts like Witch's Remains have sufficient Accuracy to meet boss resistance requirements.",
+  "Use Rift Hourglass's massive Skill Haste to tune hero skill recasts to match 18-second boss rotation timers in auto-battle skill timing settings.",
+  "Save duplicate hero pulls if you plan to craft exclusive artifacts, which require one duplicate copy of that specific hero plus one duplicate copy of any hero."
+ ],
+ "season": "S8",
+ "server_scope": "S1",
+ "value": "high",
+ "id": "Ncih4LERkxM",
+ "model": "gemini-3.5-flash",
+ "channel": "Gorax",
+ "title": "The BEST Artifacts Every Player Needs Early | Dragonheir x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=Ncih4LERkxM",
+ "short": false,
+ "summarized": "2026-11-09T09:23Z"
+}

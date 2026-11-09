@@ -1,14 +1,14 @@
 {
- "built": "2026-11-09T09:04Z",
- "last_fetch": "2026-11-09T08:17Z",
+ "built": "2026-11-09T09:23Z",
+ "last_fetch": "2026-11-09T09:17Z",
  "counts": {
-  "summarized": 398,
+  "summarized": 403,
   "skipped_giveaway": 17,
   "baseline": 22,
-  "new": 237,
+  "new": 236,
   "skipped_live": 1,
   "failed": 3,
-  "retry": 6
+  "retry": 2
  },
  "problems": [
   {
@@ -24,32 +24,8 @@
    "error": ""
   },
   {
-   "title": "The BEST Artifacts Every Player Needs Early | Dragonheir x Dragonstride",
-   "channel": "Gorax",
-   "status": "retry",
-   "error": ""
-  },
-  {
-   "title": "How to JOIN the Faction War & Claim Web Event Legendary Hero! | Dragonheir x Dragonstride",
-   "channel": "Gorax",
-   "status": "retry",
-   "error": ""
-  },
-  {
-   "title": "Day 1 Guide - PROGRESS FAST!!! [Dragonheir: Silent Gods]",
-   "channel": "Volkin Dragonheir",
-   "status": "retry",
-   "error": ""
-  },
-  {
    "title": "💥 1 Team FULL AUTO All Stages 💥Meander Trial 1-60 S8 Team Showcase | Dragonheir x Dragonstride",
    "channel": "OddOneGaming RPGs",
-   "status": "retry",
-   "error": ""
-  },
-  {
-   "title": "INCANDESCENCE Team Speed Runs | Dragonheir: Silent Gods",
-   "channel": "liveranov",
    "status": "retry",
    "error": ""
   },
@@ -68,34 +44,11 @@
  ],
  "budget": {
   "day": "2026-11-09",
-  "seconds": 23097,
+  "seconds": 26271,
   "v2": 1,
   "quota_hit": 1794208692.7710142
  },
  "log_tail": [
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 391 videos, 221 heroes",
-  "== 2026-11-09 05:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "… OddOneGaming RPGs: 💥 I HIT THE JACKPOT 💥My First EVER Triple Lego In A 10 Pull … Neff Gaming: BEST Cheap Aura Team vs Joyce! | S8 Continental Challenge | ",
-  "",
-  "… Skratch Gaming: I GOT LUCKY Maxing The New Banner!! Dragonheir: Silent Gods ",
-  "… OddOneGaming RPGs: 🚨 As EASY As It Gets 🚨 Ancient Battlefield Stage 12 & Challe",
-  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
-  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
-  "… Gorax: Temporal Vortex Team Guide | Best Meta Heroes & Teams | Drag",
-  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
-  "saved R3lV4su2x4k",
-  "+ Skratch Gaming: I GOT LUCKY Maxing The New Banner!! Dragonheir: Silent Gods ",
-  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
-  "… Skyasterix Gaming: 🎂 Dragonheir 3rd ANNIVERSARY — New EVENT & Details Explained",
-  "! Temporal Vortex Team Guide | Best Meta Heroes & Te: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
-  "… Volkin Dragonheir: FREE Daily Summons! NO BANNER YET? - Day 1 Update & MORE!!! ",
-  "! 🎂 Dragonheir 3rd ANNIVERSARY — New EVENT & Details: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
-  "… Volkin Dragonheir: Day 1 Guide - PROGRESS FAST!!! [Dragonheir: Silent Gods]",
-  "! FREE Daily Summons! NO BANNER YET? - Day 1 Update : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
-  "… Gorax: How to JOIN the Faction War & Claim Web Event Legendary Hero",
-  "! Day 1 Guide - PROGRESS FAST!!! [Dragonheir: Silent: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
   "… Gorax: The BEST Artifacts Every Player Needs Early | Dragonheir x D",
   "! How to JOIN the Faction War & Claim Web Event Lege: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
   "… liveranov: INCANDESCENCE Team Speed Runs | Dragonheir: Silent Gods",
@@ -152,7 +105,30 @@
   "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "Gemini quota was full less than an hour ago, trying again next round",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 398 videos, 222 heroes"
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 398 videos, 222 heroes",
+  "== 2026-11-09 09:17",
+  "fetch done: 0 new transcripts, 0 not available yet",
+  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
+  "… liveranov: Dragonheir Community Event Recap – November 2026 (Round 1)",
+  "… Volkin Dragonheir: Day 1 Guide - PROGRESS FAST!!! [Dragonheir: Silent Gods]",
+  "… Gorax: How to JOIN the Faction War & Claim Web Event Legendary Hero",
+  "… Gorax: The BEST Artifacts Every Player Needs Early | Dragonheir x D",
+  "  gemini-3.8-flash: 503, using gemini-3.5-flash",
+  "  gemini-3.8-flash: 503, using gemini-3.5-flash",
+  "  gemini-3.8-flash: 503, using gemini-3.5-flash",
+  "… liveranov: INCANDESCENCE Team Speed Runs | Dragonheir: Silent Gods",
+  "saved OT_4D0rAtZ4",
+  "+ Volkin Dragonheir: Day 1 Guide - PROGRESS FAST!!! [Dragonheir: Silent Gods]",
+  "saved z7clS71P76A",
+  "+ liveranov: Dragonheir Community Event Recap – November 2026 (Round 1)",
+  "saved OJ85WHq6pPs",
+  "+ Gorax: How to JOIN the Faction War & Claim Web Event Legendary Hero",
+  "  gemini-3.8-flash: 503, using gemini-3.5-flash",
+  "  gemini-3.8-flash: 503, using gemini-3.5-flash",
+  "saved Nb_6NSFmeT8",
+  "+ liveranov: INCANDESCENCE Team Speed Runs | Dragonheir: Silent Gods",
+  "saved Ncih4LERkxM",
+  "+ Gorax: The BEST Artifacts Every Player Needs Early | Dragonheir x D"
  ],
  "crontab": [],
  "channels": [
@@ -160,55 +136,55 @@
    "name": "Skratch Gaming",
    "id": "UCoSkzr1pXpt3d0jIxsc6ufw",
    "enabled": true,
-   "checked": "2026-11-09T08:17Z"
+   "checked": "2026-11-09T09:17Z"
   },
   {
    "name": "Gorax",
    "id": "UCNas7BnuOIjDEzY1D53kb1w",
    "enabled": true,
-   "checked": "2026-11-09T08:17Z"
+   "checked": "2026-11-09T09:17Z"
   },
   {
    "name": "Neff Gaming",
    "id": "UCsxs6YhNd_B36RgUAjbpJ_A",
    "enabled": true,
-   "checked": "2026-11-09T08:17Z"
+   "checked": "2026-11-09T09:17Z"
   },
   {
    "name": "Volkin Dragonheir",
    "id": "UCfRpOh_ywVjzhh9fxHbreGw",
    "enabled": true,
-   "checked": "2026-11-09T08:17Z"
+   "checked": "2026-11-09T09:17Z"
   },
   {
    "name": "Fastidious Dragonheir",
    "id": "UC16mpj5wEemSZX-uTlHe9Ww",
    "enabled": true,
-   "checked": "2026-11-09T08:17Z"
+   "checked": "2026-11-09T09:17Z"
   },
   {
    "name": "OddOneGaming RPGs",
    "id": "UC1ivUEf_poI9_R2eVKa8wRQ",
    "enabled": true,
-   "checked": "2026-11-09T08:17Z"
+   "checked": "2026-11-09T09:17Z"
   },
   {
    "name": "Suzi Plays",
    "id": "UCyo1-TkunhGcK6khU1h8Ypw",
    "enabled": true,
-   "checked": "2026-11-09T08:17Z"
+   "checked": "2026-11-09T09:17Z"
   },
   {
    "name": "Skyasterix Gaming",
    "id": "UCr5Gb3910rK7QPmKMmdagsA",
    "enabled": true,
-   "checked": "2026-11-09T08:17Z"
+   "checked": "2026-11-09T09:17Z"
   },
   {
    "name": "liveranov",
    "id": "UCqCR7ofFHhWwXy3Hg00fqEw",
    "enabled": true,
-   "checked": "2026-11-09T08:17Z"
+   "checked": "2026-11-09T09:17Z"
   }
  ]
 }

@@ -1,6 +1,28 @@
 {
- "built": "2026-11-09T09:04Z",
+ "built": "2026-11-09T09:23Z",
  "videos": [
+  {
+   "summary": "This video covers a community giveaway draw hosted by creator liveranov using AppSorteos. Five winners were randomly selected from the YouTube comment section to receive rewards. The creator instructs the winning participants to leave their Discord username in the comments or reach out directly on Discord to claim their prize.",
+   "topics": [
+    "giveaway",
+    "community event"
+   ],
+   "heroes": [],
+   "teams": [],
+   "meta_changes": [],
+   "tips": [],
+   "season": "unknown",
+   "server_scope": "S1",
+   "value": "low",
+   "id": "z7clS71P76A",
+   "model": "gemini-3.5-flash",
+   "channel": "liveranov",
+   "title": "Dragonheir Community Event Recap – November 2026 (Round 1)",
+   "published": "2026-11-09T06:58:59+00:00",
+   "url": "https://www.youtube.com/shorts/z7clS71P76A",
+   "short": true,
+   "summarized": "2026-11-09T09:20Z"
+  },
   {
    "summary": "Skyasterix conducts a 600 Heliolite Dice summon session split across the Anneliesis return banner and the Total Selectable banner. He advises players, especially beginners building Aura teams, to prioritize pulling Anneliesis over niche booster heroes. Specifically, he recommends reaching Inspiration 3 on Anneliesis to unlock a passive start-of-battle boost granting all allies 10% max HP and 10% damage bonus. The remainder of the video covers summon pulls alongside persistent client performance issues and lag.",
    "topics": [
@@ -19398,6 +19420,367 @@
    "summarized": "2026-11-03T01:23Z"
   },
   {
+   "summary": "This video showcases an Incandescence team speedrunning major dungeons using level 79 heroes. The lineup consists of Anneliesis, Talethia, Lincos, Diantha, and Journ. The team achieves rapid clear times across multiple boss stages, including Grave of Venom in 7 seconds, Grave of Curse in 12 seconds, Grave of Rot in 11 seconds, and Heretical Ruins in 10 seconds. The showcase highlights the extreme burst damage capability of full Incandescence synergies.",
+   "topics": [
+    "Incandescence",
+    "Speedrun",
+    "Grave of Venom",
+    "Grave of Curse",
+    "Grave of Rot",
+    "Heretical Ruins"
+   ],
+   "heroes": [
+    {
+     "name": "Anneliesis",
+     "verdict": "Core Incandescence speedrun hero",
+     "note": "Provides vital support and synergy for rapid dungeon burst clears.",
+     "known": true
+    },
+    {
+     "name": "Talethia",
+     "verdict": "Primary Incandescence DPS",
+     "note": "Deals massive burst damage to eliminate dungeon bosses in seconds.",
+     "known": true
+    },
+    {
+     "name": "Lincos",
+     "verdict": "Essential Incandescence enabler",
+     "note": "Facilitates fast ultimate cycles for high-speed boss clears.",
+     "known": true
+    },
+    {
+     "name": "Diantha",
+     "verdict": "High-impact Incandescence hero",
+     "note": "Contributes significant damage to sub-12 second dungeon runs.",
+     "known": true
+    },
+    {
+     "name": "Journ",
+     "verdict": "Key Incandescence support",
+     "note": "Completes the 5-man Incandescence roster for high speed dungeon clearing.",
+     "known": true
+    }
+   ],
+   "teams": [
+    {
+     "mode": "Grave of Venom",
+     "heroes": [
+      "Anneliesis",
+      "Talethia",
+      "Lincos",
+      "Diantha",
+      "Journ"
+     ],
+     "note": "Clears Grave of Venom 20 in 7 seconds using level 79 heroes."
+    },
+    {
+     "mode": "Grave of Curse",
+     "heroes": [
+      "Anneliesis",
+      "Talethia",
+      "Lincos",
+      "Diantha",
+      "Journ"
+     ],
+     "note": "Clears Grave of Curse 20 in 12 seconds."
+    },
+    {
+     "mode": "Grave of Rot",
+     "heroes": [
+      "Anneliesis",
+      "Talethia",
+      "Lincos",
+      "Diantha",
+      "Journ"
+     ],
+     "note": "Clears Grave of Rot 20 in 11 seconds."
+    },
+    {
+     "mode": "Heretical Ruins",
+     "heroes": [
+      "Anneliesis",
+      "Talethia",
+      "Lincos",
+      "Diantha",
+      "Journ"
+     ],
+     "note": "Clears Heretical Ruins 12 in 10 seconds."
+    }
+   ],
+   "meta_changes": [],
+   "tips": [
+    "Full Incandescence teams can clear major gear dungeons in under 12 seconds even when heroes are under-leveled at level 79.",
+    "Timing ultimate activations simultaneously allows bursting bosses down before dungeon mechanic phases trigger."
+   ],
+   "season": "unknown",
+   "server_scope": "S9",
+   "value": "high",
+   "id": "Nb_6NSFmeT8",
+   "model": "gemini-3.5-flash",
+   "channel": "liveranov",
+   "title": "INCANDESCENCE Team Speed Runs | Dragonheir: Silent Gods",
+   "published": "2026-09-28T12:00:00+00:00",
+   "url": "https://www.youtube.com/watch?v=Nb_6NSFmeT8",
+   "short": false,
+   "summarized": "2026-11-09T09:22Z"
+  },
+  {
+   "summary": "Gorax highlights the top three Mythic artifacts every player should prioritize when spending Soul Imprints earned from duplicate legendary hero summons. Witch's Remains provides an incredible AoE Defense Penalty II when multi-hit ultimate damage dealers strike enemies. Rift Hourglass grants massive Skill Haste, lowering skill cooldowns to reliably sync support skills with 18-second boss attack rotations. Gatekeeper's Staff converts 100% of overhealing into shields, transforming Defense-scaling healers like Garius into massive team-wide shield generators.",
+   "topics": [
+    "artifacts",
+    "Witch's Remains",
+    "Rift Hourglass",
+    "Gatekeeper's Staff",
+    "Soul Imprints",
+    "gear guide"
+   ],
+   "heroes": [
+    {
+     "name": "Shinnah",
+     "verdict": "Top Witch's Remains user for Ice Blast teams",
+     "note": "Her multi-hit AoE ultimate triggers Witch's Remains Defense Penalty II reliably across multiple targets.",
+     "known": true
+    },
+    {
+     "name": "Lossenia",
+     "verdict": "Best Witch's Remains user for Frost teams",
+     "note": "Utilizes ultimate skill damage to inflict Defense Penalty II on enemies.",
+     "known": true
+    },
+    {
+     "name": "Kurvida",
+     "verdict": "Best Witch's Remains user for Dauntless teams",
+     "note": "Applies AoE defense penalties through ultimate skill damage.",
+     "known": true
+    },
+    {
+     "name": "Tariz",
+     "verdict": "Witch's Remains or Misty Conch user for Thunderbolt",
+     "note": "Can utilize Witch's Remains or Misty Conch to apply defense penalties to enemies.",
+     "known": true
+    },
+    {
+     "name": "Twitch",
+     "verdict": "Misty Conch or Witch's Remains user for Toxin",
+     "note": "Misty Conch works slightly better for Twitch, but Witch's Remains serves as a solid alternative.",
+     "known": true
+    },
+    {
+     "name": "Alton",
+     "verdict": "Witch's Remains user for Rally teams",
+     "note": "Applies Defense Penalty II to targets when triggering ultimate damage.",
+     "known": true
+    },
+    {
+     "name": "Diantha",
+     "verdict": "Witch's Remains user for Aura teams",
+     "note": "Inflicts defense debuffs on enemies via ultimate skill strikes.",
+     "known": true
+    },
+    {
+     "name": "Bernade",
+     "verdict": "Witch's Remains user for Summon teams",
+     "note": "Triggers AoE defense penalty when dealing ultimate damage.",
+     "known": true
+    },
+    {
+     "name": "Aspalta",
+     "verdict": "Witch's Remains user for Shadow teams",
+     "note": "Great option for applying defense penalty debuffs in Shadow compositions.",
+     "known": true
+    },
+    {
+     "name": "Sacredeia",
+     "verdict": "Witch's Remains user for Corrosion teams",
+     "note": "Applies defense penalties to multiple targets with her ultimate.",
+     "known": true
+    },
+    {
+     "name": "Vinyara",
+     "verdict": "Premier Rift Hourglass user",
+     "note": "Gains huge Skill Haste from Rift Hourglass to drastically lower ultimate cooldowns for boss control.",
+     "known": true
+    },
+    {
+     "name": "Feenja",
+     "verdict": "Excellent user for Rift Hourglass or Gatekeeper's Staff",
+     "note": "Can use Rift Hourglass for skill timing or Gatekeeper's Staff to turn healing into massive shields.",
+     "known": true
+    },
+    {
+     "name": "Garius",
+     "verdict": "Best Gatekeeper's Staff user",
+     "note": "Converts 100% of his massive Defense-scaled overheals into team-wide shields, dramatically raising team survivability.",
+     "known": true
+    },
+    {
+     "name": "Scaarr",
+     "verdict": "Strong candidate for Gatekeeper's Staff",
+     "note": "Defense-scaling support who converts excess healing into protective shields.",
+     "known": true
+    },
+    {
+     "name": "Torrin",
+     "verdict": "Viable Gatekeeper's Staff user",
+     "note": "Can turn overheals into shields to protect the team.",
+     "known": true
+    }
+   ],
+   "teams": [
+    {
+     "mode": "Temporal Vortex / Boss Dungeons",
+     "heroes": [
+      "Shinnah",
+      "Lossenia",
+      "Kurvida",
+      "Tariz",
+      "Twitch"
+     ],
+     "note": "Equip multi-hit ultimate damage dealers with Witch's Remains or Misty Conch to apply Defense Penalty II."
+    },
+    {
+     "mode": "Dungeons / Continental Challenge",
+     "heroes": [
+      "Garius",
+      "Feenja",
+      "Torrin"
+     ],
+     "note": "Equip Defense-scaling healers with Gatekeeper's Staff to convert overheals into shields and survive big boss hits."
+    }
+   ],
+   "meta_changes": [],
+   "tips": [
+    "Prioritize purchasing Witch's Remains, Rift Hourglass, and Gatekeeper's Staff with Soul Imprints from duplicate hero pulls.",
+    "Ensure heroes equipped with debuff artifacts like Witch's Remains have sufficient Accuracy to meet boss resistance requirements.",
+    "Use Rift Hourglass's massive Skill Haste to tune hero skill recasts to match 18-second boss rotation timers in auto-battle skill timing settings.",
+    "Save duplicate hero pulls if you plan to craft exclusive artifacts, which require one duplicate copy of that specific hero plus one duplicate copy of any hero."
+   ],
+   "season": "S8",
+   "server_scope": "S1",
+   "value": "high",
+   "id": "Ncih4LERkxM",
+   "model": "gemini-3.5-flash",
+   "channel": "Gorax",
+   "title": "The BEST Artifacts Every Player Needs Early | Dragonheir x Dragonstride",
+   "published": "2026-09-28T12:00:00+00:00",
+   "url": "https://www.youtube.com/watch?v=Ncih4LERkxM",
+   "short": false,
+   "summarized": "2026-11-09T09:23Z"
+  },
+  {
+   "summary": "Gorax provides a step-by-step guide on how to participate in the Eve of the Rift and Riftbound All-Star Night web event. Players must complete the in-game Fated Path quiz under Nightveil Standoff to pick a faction, with Gorax advising players to join The Dark Lady (Nightsworn Vanguard). Rewards from the web quiz can be sent to in-game mail via Prelude to Nightfall, and players can link their creators on the event webpage to gain draw entries for prizes.",
+   "topics": [
+    "Eve of the Rift",
+    "Riftbound All-Star Night",
+    "Web Event",
+    "Faction War"
+   ],
+   "heroes": [],
+   "teams": [],
+   "meta_changes": [],
+   "tips": [
+    "Complete the Fated Path quiz under Nightveil Standoff in the event menu; your quiz answers will not lock you out of choosing your preferred faction at the end.",
+    "Click Prelude to Nightfall inside the Eve of the Rift event screen to send your completed web quiz rewards directly to your mail.",
+    "Visit the Riftbound All-Star Night website to choose your God Envoy and Preacher to maximize your estimated draw count for lucky draw rewards."
+   ],
+   "season": "unknown",
+   "server_scope": "mixed",
+   "value": "medium",
+   "id": "OJ85WHq6pPs",
+   "model": "gemini-3.5-flash",
+   "channel": "Gorax",
+   "title": "How to JOIN the Faction War & Claim Web Event Legendary Hero! | Dragonheir x Dragonstride",
+   "published": "2026-09-28T12:00:00+00:00",
+   "url": "https://www.youtube.com/watch?v=OJ85WHq6pPs",
+   "short": false,
+   "summarized": "2026-11-09T09:20Z"
+  },
+  {
+   "summary": "This Day 1 progression guide covers the most efficient strategies for fresh accounts in Dragonheir: Silent Gods. It details how to set up an early Frost-based team using free and accessible heroes like Auster and Torrin. The guide highlights stamina management, dungeon progression caps, and pushing Grand Gladiator Arena early against bots to unlock milestone rewards. Additionally, it provides advice on Tavern Gambit (Magic Chess), side quest navigation, Artifact Shop purchases, and joining an Alliance on day one.",
+   "topics": [
+    "Day 1 Guide",
+    "Early Game Progression",
+    "Grand Gladiator Arena",
+    "Frost Team",
+    "Stamina Management",
+    "Tavern Gambit"
+   ],
+   "heroes": [
+    {
+     "name": "Auster",
+     "verdict": "Essential Early DPS",
+     "note": "Acts as your primary damage dealer for Days 1 to 3, hard-carrying damage in early game content.",
+     "known": true
+    },
+    {
+     "name": "Torrin",
+     "verdict": "Great Free Support",
+     "note": "Obtained by reaching top 200 in the Grand Gladiator Arena; provides reliable AoE healing, invisibility, and debuff protection.",
+     "known": true
+    },
+    {
+     "name": "Hochadir",
+     "verdict": "Solid Early Tank",
+     "note": "Serves as the main frontline tank for early Frost team lineups.",
+     "known": true
+    },
+    {
+     "name": "Vidimir",
+     "verdict": "Good Sub-DPS",
+     "note": "Excels in AoE scenarios due to bouncing iceball mechanics, synergy with Frost teams.",
+     "known": true
+    },
+    {
+     "name": "Olgan",
+     "verdict": "Secondary Tank Option",
+     "note": "Can be flexed in as a second tank if additional frontline sustain is required.",
+     "known": true
+    },
+    {
+     "name": "Child of Chaos",
+     "verdict": "High Value Support Banner Pick",
+     "note": "If available at account creation, guaranteed pulls on his banner offer top-tier support utility.",
+     "known": true
+    }
+   ],
+   "teams": [
+    {
+     "mode": "Early Game Progression",
+     "heroes": [
+      "Hochadir",
+      "Auster",
+      "Vidimir",
+      "Torrin",
+      "Olgan"
+     ],
+     "note": "Standard early Frost synergy lineup with Hochadir tanking, Auster carrying main DPS, Vidimir providing sub-DPS, Torrin healing, and Olgan flexed for additional frontline."
+    }
+   ],
+   "meta_changes": [],
+   "tips": [
+    "Focus on pushing the main quest chain until hit with soft level locks before spending time backtracking for side quests.",
+    "Click the scroll icon or press Tab on the quest UI to properly view and track side quests.",
+    "Push Grand Gladiator Arena immediately on Day 1 to reach top 200 while ranks are filled with bots in order to unlock Torrin.",
+    "Avoid over-farming Goblin Lair at low difficulty stages (like Stage 4); aim to clear higher stages like Stage 6 before spending heavy stamina.",
+    "Stop spending stamina on Goblin Lair once heroes hit level 59, as that is the level cap until subsequent dungeon stages unlock.",
+    "Save extra stamina near reset to dump into newly unlocked Talent upgrade dungeons on Day 2.",
+    "Push Tavern Gambit (Magic Chess) and Tactical Adventure to gather extra summons and Legendary Soul Fragments.",
+    "Buy high-impact artifacts like Crown of the Unclean using duplicate hero exchange tokens to add 30% Defense Penalty to your AoE damage dealers.",
+    "Join an Alliance as soon as unlocked to complete daily gold donations and commissions for free progression rewards."
+   ],
+   "season": "S1",
+   "server_scope": "S1",
+   "value": "high",
+   "id": "OT_4D0rAtZ4",
+   "model": "gemini-3.5-flash",
+   "channel": "Volkin Dragonheir",
+   "title": "Day 1 Guide - PROGRESS FAST!!! [Dragonheir: Silent Gods]",
+   "published": "2026-09-28T12:00:00+00:00",
+   "url": "https://www.youtube.com/watch?v=OT_4D0rAtZ4",
+   "short": false,
+   "summarized": "2026-11-09T09:20Z"
+  },
+  {
    "summary": "Volkin reviews his Day 1 progress on a fresh server, focusing on summoning plans and stamina optimization. The Child of Chaos banner (Reversal Summon) is delayed until Day 5 on new servers, prompting a summoning hold to reach the 300-pull guarantee. Players should avoid letting regular stamina overcap into reserve stamina because the generation rate drops by half. Free daily riddles provide 15 pulls per day, and Starlight summons should be spaced at 10 pulls daily to clear Alliance commissions.",
    "topics": [
     "Day 1 progression",
@@ -30365,6 +30748,13 @@
     "url": "https://www.youtube.com/watch?v=zlkDqeP9Des"
    },
    {
+    "verdict": "Core Incandescence speedrun hero",
+    "note": "Provides vital support and synergy for rapid dungeon burst clears.",
+    "date": "2026-09-28",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=Nb_6NSFmeT8"
+   },
+   {
     "verdict": "Top sustain support",
     "note": "Provides vital shielding, healing, and debuff cleansing to keep the team alive through early burst.",
     "date": "2026-09-28",
@@ -31067,6 +31457,13 @@
     "date": "2026-09-30",
     "channel": "Fastidious Dragonheir",
     "url": "https://www.youtube.com/watch?v=e1p87KNEq0g"
+   },
+   {
+    "verdict": "Primary Incandescence DPS",
+    "note": "Deals massive burst damage to eliminate dungeon bosses in seconds.",
+    "date": "2026-09-28",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=Nb_6NSFmeT8"
    },
    {
     "verdict": "Top damage dealer",
@@ -31817,6 +32214,20 @@
     "url": "https://www.youtube.com/watch?v=x6LdzqgusYk"
    },
    {
+    "verdict": "High-impact Incandescence hero",
+    "note": "Contributes significant damage to sub-12 second dungeon runs.",
+    "date": "2026-09-28",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=Nb_6NSFmeT8"
+   },
+   {
+    "verdict": "Witch's Remains user for Aura teams",
+    "note": "Inflicts defense debuffs on enemies via ultimate skill strikes.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=Ncih4LERkxM"
+   },
+   {
     "verdict": "Core frontline tank and debuffer",
     "note": "Built full tank with Sylvan Refuge and Monelisse's Teardrop to withstand boss attacks while applying Defense Penalty II via Witch's Remains.",
     "date": "2026-09-28",
@@ -32216,6 +32627,13 @@
     "date": "2026-10-07",
     "channel": "liveranov",
     "url": "https://www.youtube.com/watch?v=x6LdzqgusYk"
+   },
+   {
+    "verdict": "Essential Incandescence enabler",
+    "note": "Facilitates fast ultimate cycles for high-speed boss clears.",
+    "date": "2026-09-28",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=Nb_6NSFmeT8"
    },
    {
     "verdict": "Key offensive support",
@@ -33052,6 +33470,13 @@
     "url": "https://www.youtube.com/watch?v=wWFEFO70B9Q"
    },
    {
+    "verdict": "Witch's Remains or Misty Conch user for Thunderbolt",
+    "note": "Can utilize Witch's Remains or Misty Conch to apply defense penalties to enemies.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=Ncih4LERkxM"
+   },
+   {
     "verdict": "Strong Thunderbolt DPS",
     "note": "Great Thunderbolt damage dealer that significantly boosts Thunderbolt lineups.",
     "date": "2026-09-28",
@@ -33884,6 +34309,13 @@
     "date": "2026-09-30",
     "channel": "Gorax",
     "url": "https://www.youtube.com/watch?v=ydl2Hi0lAy8"
+   },
+   {
+    "verdict": "Misty Conch or Witch's Remains user for Toxin",
+    "note": "Misty Conch works slightly better for Twitch, but Witch's Remains serves as a solid alternative.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=Ncih4LERkxM"
    },
    {
     "verdict": "Toxin Debuffer & Accuracy Buffer",
@@ -35128,6 +35560,13 @@
     "url": "https://www.youtube.com/watch?v=ydl2Hi0lAy8"
    },
    {
+    "verdict": "High Value Support Banner Pick",
+    "note": "If available at account creation, guaranteed pulls on his banner offer top-tier support utility.",
+    "date": "2026-09-28",
+    "channel": "Volkin Dragonheir",
+    "url": "https://www.youtube.com/watch?v=OT_4D0rAtZ4"
+   },
+   {
     "verdict": "Top summoning priority (aim for 300 pulls)",
     "note": "Rebalanced to trade some team buffing for stronger personal damage, execute mechanics, and healing, making him an exceptional carry.",
     "date": "2026-09-28",
@@ -35757,6 +36196,13 @@
     "url": "https://www.youtube.com/watch?v=ONMMBlvyWpc"
    },
    {
+    "verdict": "Key Incandescence support",
+    "note": "Completes the 5-man Incandescence roster for high speed dungeon clearing.",
+    "date": "2026-09-28",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=Nb_6NSFmeT8"
+   },
+   {
     "verdict": "Essential energy and attack buffer",
     "note": "Provides rapid ultimate energy generation and attack buffs to maintain a strict 15-second team skill cycle.",
     "date": "2026-09-28",
@@ -35997,6 +36443,13 @@
     "date": "2026-10-28",
     "channel": "OddOneGaming RPGs",
     "url": "https://www.youtube.com/watch?v=r9wn40_LN6w"
+   },
+   {
+    "verdict": "Witch's Remains user for Rally teams",
+    "note": "Applies Defense Penalty II to targets when triggering ultimate damage.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=Ncih4LERkxM"
    }
   ],
   "Anselmo": [
@@ -37803,6 +38256,13 @@
     "url": "https://www.youtube.com/watch?v=yblGYoVUm-M"
    },
    {
+    "verdict": "Strong candidate for Gatekeeper's Staff",
+    "note": "Defense-scaling support who converts excess healing into protective shields.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=Ncih4LERkxM"
+   },
+   {
     "verdict": "Best performing support option",
     "note": "Equipped with Punisher's Whip, he provides reliable damage reduction, team damage amplification, and recharge speed penalties, enabling the highest score of 693M.",
     "date": "2026-09-28",
@@ -37966,6 +38426,13 @@
     "date": "2026-09-30",
     "channel": "liveranov",
     "url": "https://www.youtube.com/watch?v=-qh8Km9Lsw0"
+   },
+   {
+    "verdict": "Best Witch's Remains user for Dauntless teams",
+    "note": "Applies AoE defense penalties through ultimate skill damage.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=Ncih4LERkxM"
    },
    {
     "verdict": "Essential Dauntless Enabler",
@@ -38252,6 +38719,13 @@
     "date": "2026-10-14",
     "channel": "Neff Gaming",
     "url": "https://www.youtube.com/watch?v=oEsP_IFBWjw"
+   },
+   {
+    "verdict": "Witch's Remains user for Shadow teams",
+    "note": "Great option for applying defense penalty debuffs in Shadow compositions.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=Ncih4LERkxM"
    },
    {
     "verdict": "Strong secondary DPS",
@@ -39143,6 +39617,13 @@
     "url": "https://www.youtube.com/watch?v=ydl2Hi0lAy8"
    },
    {
+    "verdict": "Witch's Remains user for Corrosion teams",
+    "note": "Applies defense penalties to multiple targets with her ultimate.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=Ncih4LERkxM"
+   },
+   {
     "verdict": "Key debuffer and damage dealer",
     "note": "Her Marrow Drain talent inflicts a 30 Resistance penalty, allowing her to reliably apply Poison Vulnerability with only 160-170 Accuracy.",
     "date": "2026-09-28",
@@ -39606,6 +40087,13 @@
     "date": "2026-09-30",
     "channel": "Fastidious Dragonheir",
     "url": "https://www.youtube.com/watch?v=e1p87KNEq0g"
+   },
+   {
+    "verdict": "Essential Early DPS",
+    "note": "Acts as your primary damage dealer for Days 1 to 3, hard-carrying damage in early game content.",
+    "date": "2026-09-28",
+    "channel": "Volkin Dragonheir",
+    "url": "https://www.youtube.com/watch?v=OT_4D0rAtZ4"
    },
    {
     "verdict": "Strong Frost DPS",
@@ -40087,6 +40575,13 @@
     "url": "https://www.youtube.com/watch?v=xW7fJsl5GJM"
    },
    {
+    "verdict": "Premier Rift Hourglass user",
+    "note": "Gains huge Skill Haste from Rift Hourglass to drastically lower ultimate cooldowns for boss control.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=Ncih4LERkxM"
+   },
+   {
     "verdict": "Essential control anchor",
     "note": "Immune to control effects so she baits the boss's furthest-target stun, while applying Attack Penalty II to trigger the Deluxe Mimic familiar's recharge lock.",
     "date": "2026-09-28",
@@ -40335,6 +40830,20 @@
     "url": "https://www.youtube.com/watch?v=o_jfaB478PE"
    },
    {
+    "verdict": "Viable Gatekeeper's Staff user",
+    "note": "Can turn overheals into shields to protect the team.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=Ncih4LERkxM"
+   },
+   {
+    "verdict": "Great Free Support",
+    "note": "Obtained by reaching top 200 in the Grand Gladiator Arena; provides reliable AoE healing, invisibility, and debuff protection.",
+    "date": "2026-09-28",
+    "channel": "Volkin Dragonheir",
+    "url": "https://www.youtube.com/watch?v=OT_4D0rAtZ4"
+   },
+   {
     "verdict": "Great early necrosis healer",
     "note": "Earned by climbing to top 200 in Arena, providing immediate team sustain for early dungeon clearing.",
     "date": "2026-09-28",
@@ -40446,6 +40955,13 @@
     "date": "2026-10-20",
     "channel": "Gorax",
     "url": "https://www.youtube.com/watch?v=iQN8FFgvVTk"
+   },
+   {
+    "verdict": "Good Sub-DPS",
+    "note": "Excels in AoE scenarios due to bouncing iceball mechanics, synergy with Frost teams.",
+    "date": "2026-09-28",
+    "channel": "Volkin Dragonheir",
+    "url": "https://www.youtube.com/watch?v=OT_4D0rAtZ4"
    },
    {
     "verdict": "Reliable early DPS",
@@ -40692,6 +41208,13 @@
     "url": "https://www.youtube.com/watch?v=e1p87KNEq0g"
    },
    {
+    "verdict": "Best Gatekeeper's Staff user",
+    "note": "Converts 100% of his massive Defense-scaled overheals into team-wide shields, dramatically raising team survivability.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=Ncih4LERkxM"
+   },
+   {
     "verdict": "Must-build epic sustain tank",
     "note": "Available via daily check-in milestones, offering high-tier defense-scaling heals and frontline tanking.",
     "date": "2026-09-28",
@@ -40850,6 +41373,13 @@
     "date": "2026-09-30",
     "channel": "Fastidious Dragonheir",
     "url": "https://www.youtube.com/watch?v=e1p87KNEq0g"
+   },
+   {
+    "verdict": "Best Witch's Remains user for Frost teams",
+    "note": "Utilizes ultimate skill damage to inflict Defense Penalty II on enemies.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=Ncih4LERkxM"
    },
    {
     "verdict": "Great Frost enabler",
@@ -41022,6 +41552,13 @@
     "date": "2026-10-07",
     "channel": "Neff Gaming",
     "url": "https://www.youtube.com/watch?v=xW7fJsl5GJM"
+   },
+   {
+    "verdict": "Top Witch's Remains user for Ice Blast teams",
+    "note": "Her multi-hit AoE ultimate triggers Witch's Remains Defense Penalty II reliably across multiple targets.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=Ncih4LERkxM"
    },
    {
     "verdict": "Key Ice Blast DPS",
@@ -42925,6 +43462,13 @@
     "date": "2026-09-30",
     "channel": "OddOneGaming RPGs",
     "url": "https://www.youtube.com/watch?v=TviMe77f8sQ"
+   },
+   {
+    "verdict": "Excellent user for Rift Hourglass or Gatekeeper's Staff",
+    "note": "Can use Rift Hourglass for skill timing or Gatekeeper's Staff to turn healing into massive shields.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=Ncih4LERkxM"
    }
   ],
   "Aethereal": [
@@ -43052,6 +43596,13 @@
     "date": "2026-10-14",
     "channel": "Fastidious Dragonheir",
     "url": "https://www.youtube.com/watch?v=KzauN75qkjQ"
+   },
+   {
+    "verdict": "Solid Early Tank",
+    "note": "Serves as the main frontline tank for early Frost team lineups.",
+    "date": "2026-09-28",
+    "channel": "Volkin Dragonheir",
+    "url": "https://www.youtube.com/watch?v=OT_4D0rAtZ4"
    },
    {
     "verdict": "Essential Free Frost Legendary",
@@ -43267,6 +43818,13 @@
     "date": "2026-10-14",
     "channel": "Neff Gaming",
     "url": "https://www.youtube.com/watch?v=q3M5jmrUWjc"
+   },
+   {
+    "verdict": "Secondary Tank Option",
+    "note": "Can be flexed in as a second tank if additional frontline sustain is required.",
+    "date": "2026-09-28",
+    "channel": "Volkin Dragonheir",
+    "url": "https://www.youtube.com/watch?v=OT_4D0rAtZ4"
    },
    {
     "verdict": "Solid F2P Frost hero",
@@ -43523,6 +44081,13 @@
     "date": "2026-10-14",
     "channel": "Skratch Gaming",
     "url": "https://www.youtube.com/watch?v=xQsiosr7QFU"
+   },
+   {
+    "verdict": "Witch's Remains user for Summon teams",
+    "note": "Triggers AoE defense penalty when dealing ultimate damage.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=Ncih4LERkxM"
    },
    {
     "verdict": "High Value Support",

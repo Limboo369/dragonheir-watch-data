@@ -1,0 +1,105 @@
+{
+ "summary": "This video showcases an Incandescence team speedrunning major dungeons using level 79 heroes. The lineup consists of Anneliesis, Talethia, Lincos, Diantha, and Journ. The team achieves rapid clear times across multiple boss stages, including Grave of Venom in 7 seconds, Grave of Curse in 12 seconds, Grave of Rot in 11 seconds, and Heretical Ruins in 10 seconds. The showcase highlights the extreme burst damage capability of full Incandescence synergies.",
+ "topics": [
+  "Incandescence",
+  "Speedrun",
+  "Grave of Venom",
+  "Grave of Curse",
+  "Grave of Rot",
+  "Heretical Ruins"
+ ],
+ "heroes": [
+  {
+   "name": "Anneliesis",
+   "verdict": "Core Incandescence speedrun hero",
+   "note": "Provides vital support and synergy for rapid dungeon burst clears.",
+   "known": true
+  },
+  {
+   "name": "Talethia",
+   "verdict": "Primary Incandescence DPS",
+   "note": "Deals massive burst damage to eliminate dungeon bosses in seconds.",
+   "known": true
+  },
+  {
+   "name": "Lincos",
+   "verdict": "Essential Incandescence enabler",
+   "note": "Facilitates fast ultimate cycles for high-speed boss clears.",
+   "known": true
+  },
+  {
+   "name": "Diantha",
+   "verdict": "High-impact Incandescence hero",
+   "note": "Contributes significant damage to sub-12 second dungeon runs.",
+   "known": true
+  },
+  {
+   "name": "Journ",
+   "verdict": "Key Incandescence support",
+   "note": "Completes the 5-man Incandescence roster for high speed dungeon clearing.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Grave of Venom",
+   "heroes": [
+    "Anneliesis",
+    "Talethia",
+    "Lincos",
+    "Diantha",
+    "Journ"
+   ],
+   "note": "Clears Grave of Venom 20 in 7 seconds using level 79 heroes."
+  },
+  {
+   "mode": "Grave of Curse",
+   "heroes": [
+    "Anneliesis",
+    "Talethia",
+    "Lincos",
+    "Diantha",
+    "Journ"
+   ],
+   "note": "Clears Grave of Curse 20 in 12 seconds."
+  },
+  {
+   "mode": "Grave of Rot",
+   "heroes": [
+    "Anneliesis",
+    "Talethia",
+    "Lincos",
+    "Diantha",
+    "Journ"
+   ],
+   "note": "Clears Grave of Rot 20 in 11 seconds."
+  },
+  {
+   "mode": "Heretical Ruins",
+   "heroes": [
+    "Anneliesis",
+    "Talethia",
+    "Lincos",
+    "Diantha",
+    "Journ"
+   ],
+   "note": "Clears Heretical Ruins 12 in 10 seconds."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Full Incandescence teams can clear major gear dungeons in under 12 seconds even when heroes are under-leveled at level 79.",
+  "Timing ultimate activations simultaneously allows bursting bosses down before dungeon mechanic phases trigger."
+ ],
+ "season": "unknown",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "Nb_6NSFmeT8",
+ "model": "gemini-3.5-flash",
+ "channel": "liveranov",
+ "title": "INCANDESCENCE Team Speed Runs | Dragonheir: Silent Gods",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=Nb_6NSFmeT8",
+ "short": false,
+ "summarized": "2026-11-09T09:22Z"
+}

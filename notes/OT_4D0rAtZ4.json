@@ -1,0 +1,85 @@
+{
+ "summary": "This Day 1 progression guide covers the most efficient strategies for fresh accounts in Dragonheir: Silent Gods. It details how to set up an early Frost-based team using free and accessible heroes like Auster and Torrin. The guide highlights stamina management, dungeon progression caps, and pushing Grand Gladiator Arena early against bots to unlock milestone rewards. Additionally, it provides advice on Tavern Gambit (Magic Chess), side quest navigation, Artifact Shop purchases, and joining an Alliance on day one.",
+ "topics": [
+  "Day 1 Guide",
+  "Early Game Progression",
+  "Grand Gladiator Arena",
+  "Frost Team",
+  "Stamina Management",
+  "Tavern Gambit"
+ ],
+ "heroes": [
+  {
+   "name": "Auster",
+   "verdict": "Essential Early DPS",
+   "note": "Acts as your primary damage dealer for Days 1 to 3, hard-carrying damage in early game content.",
+   "known": true
+  },
+  {
+   "name": "Torrin",
+   "verdict": "Great Free Support",
+   "note": "Obtained by reaching top 200 in the Grand Gladiator Arena; provides reliable AoE healing, invisibility, and debuff protection.",
+   "known": true
+  },
+  {
+   "name": "Hochadir",
+   "verdict": "Solid Early Tank",
+   "note": "Serves as the main frontline tank for early Frost team lineups.",
+   "known": true
+  },
+  {
+   "name": "Vidimir",
+   "verdict": "Good Sub-DPS",
+   "note": "Excels in AoE scenarios due to bouncing iceball mechanics, synergy with Frost teams.",
+   "known": true
+  },
+  {
+   "name": "Olgan",
+   "verdict": "Secondary Tank Option",
+   "note": "Can be flexed in as a second tank if additional frontline sustain is required.",
+   "known": true
+  },
+  {
+   "name": "Child of Chaos",
+   "verdict": "High Value Support Banner Pick",
+   "note": "If available at account creation, guaranteed pulls on his banner offer top-tier support utility.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Early Game Progression",
+   "heroes": [
+    "Hochadir",
+    "Auster",
+    "Vidimir",
+    "Torrin",
+    "Olgan"
+   ],
+   "note": "Standard early Frost synergy lineup with Hochadir tanking, Auster carrying main DPS, Vidimir providing sub-DPS, Torrin healing, and Olgan flexed for additional frontline."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Focus on pushing the main quest chain until hit with soft level locks before spending time backtracking for side quests.",
+  "Click the scroll icon or press Tab on the quest UI to properly view and track side quests.",
+  "Push Grand Gladiator Arena immediately on Day 1 to reach top 200 while ranks are filled with bots in order to unlock Torrin.",
+  "Avoid over-farming Goblin Lair at low difficulty stages (like Stage 4); aim to clear higher stages like Stage 6 before spending heavy stamina.",
+  "Stop spending stamina on Goblin Lair once heroes hit level 59, as that is the level cap until subsequent dungeon stages unlock.",
+  "Save extra stamina near reset to dump into newly unlocked Talent upgrade dungeons on Day 2.",
+  "Push Tavern Gambit (Magic Chess) and Tactical Adventure to gather extra summons and Legendary Soul Fragments.",
+  "Buy high-impact artifacts like Crown of the Unclean using duplicate hero exchange tokens to add 30% Defense Penalty to your AoE damage dealers.",
+  "Join an Alliance as soon as unlocked to complete daily gold donations and commissions for free progression rewards."
+ ],
+ "season": "S1",
+ "server_scope": "S1",
+ "value": "high",
+ "id": "OT_4D0rAtZ4",
+ "model": "gemini-3.5-flash",
+ "channel": "Volkin Dragonheir",
+ "title": "Day 1 Guide - PROGRESS FAST!!! [Dragonheir: Silent Gods]",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=OT_4D0rAtZ4",
+ "short": false,
+ "summarized": "2026-11-09T09:20Z"
+}
