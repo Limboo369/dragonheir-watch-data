@@ -1,5 +1,5 @@
 {
- "built": "2026-11-09T00:59Z",
+ "built": "2026-11-09T01:19Z",
  "videos": [
   {
    "summary": "Skyasterix conducts a 600 Heliolite Dice summon session split across the Anneliesis return banner and the Total Selectable banner. He advises players, especially beginners building Aura teams, to prioritize pulling Anneliesis over niche booster heroes. Specifically, he recommends reaching Inspiration 3 on Anneliesis to unlock a passive start-of-battle boost granting all allies 10% max HP and 10% damage bonus. The remainder of the video covers summon pulls alongside persistent client performance issues and lag.",
@@ -19398,6 +19398,331 @@
    "summarized": "2026-11-03T01:23Z"
   },
   {
+   "summary": "Skratch showcases an updated high-performing Thunderbolt team lineup for the Continental Challenge boss Talethia in Season 8. The setup achieves over 851 million damage on a 15-second skill timing rotation without high hero inspiration levels. Key build details include stacking extreme Skill Haste on Phaessa, using Journ for ultimate energy generation, and equipping Alaura with Dawn Pipe Organ to heavily buff Perkunte's damage output. Substitutions for missing heroes such as Nissa for Tariz are also explained.",
+   "topics": [
+    "Continental Challenge",
+    "Thunderbolt",
+    "Boss Challenge",
+    "Talethia",
+    "Team Composition"
+   ],
+   "heroes": [
+    {
+     "name": "Perkunte",
+     "verdict": "Top Thunderbolt DPS",
+     "note": "Primary damage dealer in the Thunderbolt team, dealing over 780 million damage individually on Talethia.",
+     "known": true
+    },
+    {
+     "name": "Phaessa",
+     "verdict": "Core Thunderbolt healer and support",
+     "note": "Requires high Skill Haste and Enlightenment to rotate healing fast enough to keep the entire team alive.",
+     "known": true
+    },
+    {
+     "name": "Journ",
+     "verdict": "Essential energy and attack buffer",
+     "note": "Provides rapid ultimate energy generation and attack buffs to maintain a strict 15-second team skill cycle.",
+     "known": true
+    },
+    {
+     "name": "Alaura",
+     "verdict": "Top Thunderbolt damage buffer",
+     "note": "Using Dawn Pipe Organ instead of her exclusive artifact allows her to heavily amplify Perkunte's damage output.",
+     "known": true
+    },
+    {
+     "name": "Tariz",
+     "verdict": "Primary Defense Down enabler",
+     "note": "Applies consistent Defense Down while taking front-row position; can be replaced by Nissa.",
+     "known": true
+    },
+    {
+     "name": "Nissa",
+     "verdict": "Best Tariz substitute",
+     "note": "Serves as the best alternative to Tariz for applying Defense Down in Thunderbolt boss setups.",
+     "known": true
+    },
+    {
+     "name": "Rena",
+     "verdict": "Phaessa substitute",
+     "note": "Can replace Phaessa as the primary team healer/support if unavailable.",
+     "known": true
+    }
+   ],
+   "teams": [
+    {
+     "mode": "Continental Challenge (Talethia)",
+     "heroes": [
+      "Tariz",
+      "Perkunte",
+      "Alaura",
+      "Phaessa",
+      "Journ"
+     ],
+     "note": "High-performing Thunderbolt team hitting 851M+ damage on Talethia using a 15-second recast cycle and Dawn Pipe Organ buffing."
+    }
+   ],
+   "meta_changes": [
+    "Thunderbolt compositions scale exceptionally well in Continental Challenge boss fights by combining fast energy battery cycles with high Skill Haste supports."
+   ],
+   "tips": [
+    "Equip Alaura with the Dawn Pipe Organ artifact rather than her exclusive artifact to maximize attack buffs on Perkunte.",
+    "Prioritize maximum Skill Haste and Enlightenment on Phaessa to rotate her battle skill healing rapidly.",
+    "Set ultimate timing on a 15-second recast cycle to synchronize energy generation with damage windows.",
+    "Ensure heroes are positioned in a straight line relative to Journ so everyone receives ultimate energy."
+   ],
+   "season": "S8",
+   "server_scope": "S9",
+   "value": "high",
+   "id": "SYO1Py5XlBQ",
+   "model": "gemini-3.6-flash",
+   "channel": "Skratch Gaming",
+   "title": "Updated Thunderbolt Team Vs Boss Challenge Talethia! Dragonheir: Silent Gods x Dragonstride",
+   "published": "2026-09-28T12:00:00+00:00",
+   "url": "https://www.youtube.com/watch?v=SYO1Py5XlBQ",
+   "short": false,
+   "summarized": "2026-11-09T01:18Z"
+  },
+  {
+   "summary": "This video showcases a fast 30-second clear of Ancient Battlefield Challenge 4 against the Level 300 Soul Devourer - Gruentius using a Dauntless team. The team composition consists of Nastjenka, Kurvida, Maashtur, Guinavivre, and Fathomdown. The creator notes that Maashtur can be swapped out for Vinyara if needed. Detailed gear builds and hero stats are displayed following the battle.",
+   "topics": [
+    "Ancient Battlefield",
+    "Dauntless",
+    "Soul Devourer",
+    "Boss Speedrun"
+   ],
+   "heroes": [
+    {
+     "name": "Nastjenka",
+     "verdict": "Core Dauntless DPS",
+     "note": "Key damage dealer used in the 30-second clear of Soul Devourer.",
+     "known": true
+    },
+    {
+     "name": "Kurvida",
+     "verdict": "Dauntless Team Member",
+     "note": "Provides strong synergistic damage in Dauntless lineups.",
+     "known": true
+    },
+    {
+     "name": "Maashtur",
+     "verdict": "Flex Dauntless DPS",
+     "note": "Contributes to quick boss clears, but can be replaced by Vinyara.",
+     "known": true
+    },
+    {
+     "name": "Guinavivre",
+     "verdict": "Core Dauntless Buffer",
+     "note": "Crucial for attack speed and team buff uptime.",
+     "known": true
+    },
+    {
+     "name": "Fathomdown",
+     "verdict": "Dauntless Support",
+     "note": "Provides essential utility and survivability/buffs for the team.",
+     "known": true
+    },
+    {
+     "name": "Vinyara",
+     "verdict": "Alternative for Maashtur",
+     "note": "Can be used as a replacement hero for Maashtur in this composition.",
+     "known": true
+    }
+   ],
+   "teams": [
+    {
+     "mode": "Ancient Battlefield - Challenge 4",
+     "heroes": [
+      "Nastjenka",
+      "Kurvida",
+      "Maashtur",
+      "Guinavivre",
+      "Fathomdown"
+     ],
+     "note": "Clears Lv 300 Soul Devourer in 30 seconds. Maashtur can be substituted with Vinyara."
+    }
+   ],
+   "meta_changes": [],
+   "tips": [
+    "If you lack Maashtur, substitute her with Vinyara to maintain fast clear performance against Soul Devourer."
+   ],
+   "season": "unknown",
+   "server_scope": "mixed",
+   "value": "medium",
+   "id": "SZ4y8OKwh-I",
+   "model": "gemini-3.6-flash",
+   "channel": "liveranov",
+   "title": "Dauntless Team vs Ancient Battlefield — Soul Devourer CHALLENGE 4! | Dragonheir: Silent Gods",
+   "published": "2026-09-28T12:00:00+00:00",
+   "url": "https://www.youtube.com/watch?v=SZ4y8OKwh-I",
+   "short": false,
+   "summarized": "2026-11-09T01:18Z"
+  },
+  {
+   "summary": "This video covers the final quiz redemption code EQUINOXIAL for 15 Heliolite Dice in Dragonheir: Silent Gods. Creator Suzi Plays discusses her upcoming summoning strategy for the Option Summons banner, choosing between Thunderbolt/Dauntless vs. Toxin supports. She also reviews her progress in the Strategy Challenge (Magic Chess) dojos, having maxed out the Toxic/Aura track.",
+   "topics": [
+    "redemption codes",
+    "Option Summons",
+    "Strategy Challenge",
+    "Magic Chess"
+   ],
+   "heroes": [
+    {
+     "name": "Reytah",
+     "verdict": "High value Toxin support",
+     "note": "Her exclusive artifact is amazing, making her a top target for Toxin team setups.",
+     "known": true
+    },
+    {
+     "name": "Tariz",
+     "verdict": "New Thunderbolt hero",
+     "note": "Available as a new Thunderbolt damage dealer in the Option Summons pool.",
+     "known": true
+    },
+    {
+     "name": "Alaura",
+     "verdict": "Accessible via shop",
+     "note": "Can be acquired from the shop using hero fragments.",
+     "known": true
+    }
+   ],
+   "teams": [],
+   "meta_changes": [],
+   "tips": [
+    "Selecting specific elemental schools on the Option Summons banner shrinks the hero pool, increasing your odds of getting desired heroes like Maashtur, Irmoush, or Selva.",
+    "Progressing through all Strategy Challenge (Magic Chess) dojo rewards gives valuable milestone items even if you don't enjoy the mode."
+   ],
+   "season": "S9",
+   "server_scope": "S9",
+   "value": "low",
+   "id": "T0GuKibW3uY",
+   "model": "gemini-3.5-flash",
+   "channel": "Suzi Plays",
+   "title": "THE FINAL CODE for 15 Summons! 🧡 QUIZ CODE #10 🎁 3rd Anniversary Event🔥 Dragonheir x Dragonstride",
+   "published": "2026-09-28T12:00:00+00:00",
+   "url": "https://www.youtube.com/watch?v=T0GuKibW3uY",
+   "short": false,
+   "summarized": "2026-11-09T01:18Z"
+  },
+  {
+   "summary": "Dragonheir's 1st Anniversary celebration introduces a three-phase web event titled Prelude to Nightfall. In Phase 1 (Sept 2–Sept 9), players log in daily to roll dice, unlocking story entries and rewards such as Scholar Scrolls and up to 1,400 Wyrmarrow. Phase 2 (Sept 9–Sept 15) allows players to claim a free Legendary hero and select their faction. Phase 3 (Sept 15–Oct 2) opens an ultimate prize pool with physical prizes and a Legendary hero option chest.",
+   "topics": [
+    "anniversary event",
+    "free legendary hero",
+    "prelude to nightfall",
+    "web event"
+   ],
+   "heroes": [],
+   "teams": [],
+   "meta_changes": [],
+   "tips": [
+    "Log into the interactive web event page daily during Phase 1 to roll the dice and accumulate Wyrmarrow and Scholar Scrolls.",
+    "Make sure to log in during Phase 2 (starting September 9th) to claim the free Legendary hero and participate in faction quests."
+   ],
+   "season": "unknown",
+   "server_scope": "S1",
+   "value": "medium",
+   "id": "TSr10ZA2VfY",
+   "model": "gemini-3.5-flash",
+   "channel": "Skratch Gaming",
+   "title": "DON'T MISS OUT! FREE Legendary & Tons Of Rewards... Dragonheir: Silent Gods x Dragonstride",
+   "published": "2026-09-28T12:00:00+00:00",
+   "url": "https://www.youtube.com/watch?v=TSr10ZA2VfY",
+   "short": false,
+   "summarized": "2026-11-09T01:18Z"
+  },
+  {
+   "summary": "Neff Gaming conducts 300 summons on the Option Summons banner selecting Dauntless and Thunderbolt factions. His primary goal is securing Nastjenka via the 300-summon selector to achieve Inspiration 5, which provides a massive performance boost to Dauntless and Vortex teams. During the summons, he pulls several legendaries including Stanguem, Tamar, Garett, Sutha, Bionphray, and Fathomdown. He highlights Thunderbolt as an essential secondary team for endgame bosses, Crown Contest, and Continental Challenge.",
+   "topics": [
+    "Option Summons",
+    "Dauntless",
+    "Thunderbolt",
+    "Nastjenka",
+    "Summoning"
+   ],
+   "heroes": [
+    {
+     "name": "Nastjenka",
+     "verdict": "Must-have I5 target",
+     "note": "Achieving Inspiration 5 provides a huge boost to all Dauntless teams, especially in Temporal Vortex.",
+     "known": true
+    },
+    {
+     "name": "Tariz",
+     "verdict": "Top seasonal damage target",
+     "note": "Guaranteed to be a new seasonal hero pull if summoned early on the option banner.",
+     "known": true
+    },
+    {
+     "name": "Stanguem",
+     "verdict": "Disappointing summon",
+     "note": "Pulled as a pity legendary during the summon session.",
+     "known": true
+    },
+    {
+     "name": "Tamar",
+     "verdict": "Thunderbolt legendary",
+     "note": "Obtained during the option summons.",
+     "known": true
+    },
+    {
+     "name": "Garett",
+     "verdict": "Legendary summon",
+     "note": "Pulled during the summon session.",
+     "known": true
+    },
+    {
+     "name": "Sutha",
+     "verdict": "Duplicate pull",
+     "note": "Summoned multiple times during the 300 pulls.",
+     "known": true
+    },
+    {
+     "name": "Bionphray",
+     "verdict": "Legendary summon",
+     "note": "Obtained during the option summon pursuit.",
+     "known": true
+    },
+    {
+     "name": "Fathomdown",
+     "verdict": "Maxed duplicate",
+     "note": "Pulled as a duplicate despite already owning Inspiration 5.",
+     "known": true
+    }
+   ],
+   "teams": [
+    {
+     "mode": "Temporal Vortex",
+     "heroes": [
+      "Nastjenka"
+     ],
+     "note": "Nastjenka at Inspiration 5 provides a major team performance boost."
+    },
+    {
+     "mode": "Continental Challenge",
+     "heroes": [],
+     "note": "Thunderbolt faction heroes excel as a high-performing team in Continental Challenge, Crown Contest, and endgame bosses."
+    }
+   ],
+   "meta_changes": [],
+   "tips": [
+    "Target key hero Inspiration levels (like Nastjenka I5) using the 300-summon selector on Option Summons banners.",
+    "Prioritize Thunderbolt heroes on option banners if you need a strong secondary team for endgame bossing and Crown Contest."
+   ],
+   "season": "S9",
+   "server_scope": "S9",
+   "value": "medium",
+   "id": "TkeS9I9YppI",
+   "model": "gemini-3.5-flash",
+   "channel": "Neff Gaming",
+   "title": "300 Dice (Dauntless & Thunderbolt) ... Was it worth it? | Dragonheir: Silent Gods",
+   "published": "2026-09-28T12:00:00+00:00",
+   "url": "https://www.youtube.com/watch?v=TkeS9I9YppI",
+   "short": false,
+   "summarized": "2026-11-09T01:18Z"
+  },
+  {
    "summary": "Gorax covers Day 10 progression on a brand new Season 1 server. Reaching Resonance Level 90 unlocks the final talent tree tier, providing a massive damage boost in modes like Temporal Vortex. He advises stopping Goblin Lair stamina spending until higher dungeon difficulty tiers unlock in 3 days, shifting all stamina to hero talents instead. He also highlights the launch of Planar Expedition, shop priorities in Golden Bell Shop, and clearing Labyrinth of Curiosities with budget epic teams for free Master Scrolls.",
    "topics": [
     "Day 10 Progression",
@@ -30957,6 +31282,13 @@
     "url": "https://www.youtube.com/watch?v=DQlhUcZ_2zg"
    },
    {
+    "verdict": "Top Thunderbolt DPS",
+    "note": "Primary damage dealer in the Thunderbolt team, dealing over 780 million damage individually on Talethia.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=SYO1Py5XlBQ"
+   },
+   {
     "verdict": "Top Tier DPS for Talethia",
     "note": "Acts as the primary Enlightenment damage dealer, scaling heavily with team Haste and Inspiration.",
     "date": "2026-09-28",
@@ -31104,6 +31436,20 @@
     "date": "2026-10-07",
     "channel": "liveranov",
     "url": "https://www.youtube.com/watch?v=wWFEFO70B9Q"
+   },
+   {
+    "verdict": "Top Thunderbolt damage buffer",
+    "note": "Using Dawn Pipe Organ instead of her exclusive artifact allows her to heavily amplify Perkunte's damage output.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=SYO1Py5XlBQ"
+   },
+   {
+    "verdict": "Accessible via shop",
+    "note": "Can be acquired from the shop using hero fragments.",
+    "date": "2026-09-28",
+    "channel": "Suzi Plays",
+    "url": "https://www.youtube.com/watch?v=T0GuKibW3uY"
    },
    {
     "verdict": "Strong Thunderbolt DPS and Support",
@@ -31381,6 +31727,13 @@
     "url": "https://www.youtube.com/watch?v=ONMMBlvyWpc"
    },
    {
+    "verdict": "Flex Dauntless DPS",
+    "note": "Contributes to quick boss clears, but can be replaced by Vinyara.",
+    "date": "2026-09-28",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=SZ4y8OKwh-I"
+   },
+   {
     "verdict": "Can be replaced by Child of Chaos",
     "note": "Exclusive Dauntless support hero whose role can be filled by Child of Chaos.",
     "date": "2026-09-28",
@@ -31549,6 +31902,27 @@
     "date": "2026-10-07",
     "channel": "liveranov",
     "url": "https://www.youtube.com/watch?v=wWFEFO70B9Q"
+   },
+   {
+    "verdict": "Primary Defense Down enabler",
+    "note": "Applies consistent Defense Down while taking front-row position; can be replaced by Nissa.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=SYO1Py5XlBQ"
+   },
+   {
+    "verdict": "New Thunderbolt hero",
+    "note": "Available as a new Thunderbolt damage dealer in the Option Summons pool.",
+    "date": "2026-09-28",
+    "channel": "Suzi Plays",
+    "url": "https://www.youtube.com/watch?v=T0GuKibW3uY"
+   },
+   {
+    "verdict": "Top seasonal damage target",
+    "note": "Guaranteed to be a new seasonal hero pull if summoned early on the option banner.",
+    "date": "2026-09-28",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=TkeS9I9YppI"
    },
    {
     "verdict": "High priority for competitive servers",
@@ -34151,6 +34525,13 @@
     "url": "https://www.youtube.com/watch?v=ONMMBlvyWpc"
    },
    {
+    "verdict": "Essential energy and attack buffer",
+    "note": "Provides rapid ultimate energy generation and attack buffs to maintain a strict 15-second team skill cycle.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=SYO1Py5XlBQ"
+   },
+   {
     "verdict": "Essential Fire Support",
     "note": "Triggers the 3-element team bonus, shares team Accuracy with Reverie of Carcass, and delays boss ultimates using Punisher's Whip.",
     "date": "2026-09-28",
@@ -34672,6 +35053,13 @@
     "url": "https://www.youtube.com/watch?v=zlkDqeP9Des"
    },
    {
+    "verdict": "High value Toxin support",
+    "note": "Her exclusive artifact is amazing, making her a top target for Toxin team setups.",
+    "date": "2026-09-28",
+    "channel": "Suzi Plays",
+    "url": "https://www.youtube.com/watch?v=T0GuKibW3uY"
+   },
+   {
     "verdict": "Essential Poison support and buffer",
     "note": "Extends debuffs and provides an ally damage boost using Miasma Staff, with Misty Conch serving as a secondary artifact option.",
     "date": "2026-09-28",
@@ -34849,6 +35237,13 @@
     "date": "2026-10-14",
     "channel": "Neff Gaming",
     "url": "https://www.youtube.com/watch?v=yzljKIdSKP8"
+   },
+   {
+    "verdict": "Phaessa substitute",
+    "note": "Can replace Phaessa as the primary team healer/support if unavailable.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=SYO1Py5XlBQ"
    },
    {
     "verdict": "Alternative Aura support",
@@ -35752,6 +36147,13 @@
     "url": "https://www.youtube.com/watch?v=-qh8Km9Lsw0"
    },
    {
+    "verdict": "Core Dauntless Buffer",
+    "note": "Crucial for attack speed and team buff uptime.",
+    "date": "2026-09-28",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=SZ4y8OKwh-I"
+   },
+   {
     "verdict": "Great Dauntless DPS",
     "note": "Obtained from the Temporal Corridor shop for 300 Dust-sealed Tomes as her main Dauntless attacker.",
     "date": "2026-09-28",
@@ -35983,6 +36385,20 @@
     "date": "2026-09-30",
     "channel": "liveranov",
     "url": "https://www.youtube.com/watch?v=-qh8Km9Lsw0"
+   },
+   {
+    "verdict": "Core Dauntless DPS",
+    "note": "Key damage dealer used in the 30-second clear of Soul Devourer.",
+    "date": "2026-09-28",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=SZ4y8OKwh-I"
+   },
+   {
+    "verdict": "Must-have I5 target",
+    "note": "Achieving Inspiration 5 provides a huge boost to all Dauntless teams, especially in Temporal Vortex.",
+    "date": "2026-09-28",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=TkeS9I9YppI"
    },
    {
     "verdict": "Essential Dauntless support/DPS",
@@ -36243,6 +36659,13 @@
     "url": "https://www.youtube.com/watch?v=-qh8Km9Lsw0"
    },
    {
+    "verdict": "Dauntless Team Member",
+    "note": "Provides strong synergistic damage in Dauntless lineups.",
+    "date": "2026-09-28",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=SZ4y8OKwh-I"
+   },
+   {
     "verdict": "Key support/debuffer",
     "note": "Equipped with the Puppeteer and Witches gear sets while stacking Resistance.",
     "date": "2026-09-28",
@@ -36299,6 +36722,13 @@
     "date": "2026-11-03",
     "channel": "Neff Gaming",
     "url": "https://www.youtube.com/shorts/bhu8a6lCUDY"
+   },
+   {
+    "verdict": "Best Tariz substitute",
+    "note": "Serves as the best alternative to Tariz for applying Defense Down in Thunderbolt boss setups.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=SYO1Py5XlBQ"
    },
    {
     "verdict": "Legendary hero",
@@ -38299,6 +38729,13 @@
     "url": "https://www.youtube.com/watch?v=xW7fJsl5GJM"
    },
    {
+    "verdict": "Alternative for Maashtur",
+    "note": "Can be used as a replacement hero for Maashtur in this composition.",
+    "date": "2026-09-28",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=SZ4y8OKwh-I"
+   },
+   {
     "verdict": "Top Tier Progression Legendary",
     "note": "Fantastic Legendary hero for overall account progression, obtainable for free via story grind.",
     "date": "2026-09-28",
@@ -39352,6 +39789,20 @@
     "date": "2026-09-30",
     "channel": "OddOneGaming RPGs",
     "url": "https://www.youtube.com/watch?v=ONMMBlvyWpc"
+   },
+   {
+    "verdict": "Dauntless Support",
+    "note": "Provides essential utility and survivability/buffs for the team.",
+    "date": "2026-09-28",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=SZ4y8OKwh-I"
+   },
+   {
+    "verdict": "Maxed duplicate",
+    "note": "Pulled as a duplicate despite already owning Inspiration 5.",
+    "date": "2026-09-28",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=TkeS9I9YppI"
    },
    {
     "verdict": "MVP boss controller",
@@ -40730,6 +41181,13 @@
     "url": "https://www.youtube.com/watch?v=lazeVsyO7_g"
    },
    {
+    "verdict": "Thunderbolt legendary",
+    "note": "Obtained during the option summons.",
+    "date": "2026-09-28",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=TkeS9I9YppI"
+   },
+   {
     "verdict": "Pulled legendary",
     "note": "Support legendary pulled during the summon session.",
     "date": "2026-09-28",
@@ -40790,6 +41248,13 @@
     "date": "2026-10-24",
     "channel": "Gorax",
     "url": "https://www.youtube.com/watch?v=p2wAxn2IAFQ"
+   },
+   {
+    "verdict": "Legendary summon",
+    "note": "Obtained during the option summon pursuit.",
+    "date": "2026-09-28",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=TkeS9I9YppI"
    },
    {
     "verdict": "Safe to reset inspiration",
@@ -41364,6 +41829,13 @@
     "url": "https://www.youtube.com/watch?v=TviMe77f8sQ"
    },
    {
+    "verdict": "Core Thunderbolt healer and support",
+    "note": "Requires high Skill Haste and Enlightenment to rotate healing fast enough to keep the entire team alive.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=SYO1Py5XlBQ"
+   },
+   {
     "verdict": "Strong support candidate",
     "note": "Evaluated in Legendary Hero Prime Chest II for her massive healing, debuff immunity, and ultimate skill delay.",
     "date": "2026-09-28",
@@ -41417,6 +41889,13 @@
     "date": "2026-10-14",
     "channel": "Skyasterix Gaming",
     "url": "https://www.youtube.com/watch?v=lazeVsyO7_g"
+   },
+   {
+    "verdict": "Duplicate pull",
+    "note": "Summoned multiple times during the 300 pulls.",
+    "date": "2026-09-28",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=TkeS9I9YppI"
    }
   ],
   "Stanguem": [
@@ -41440,6 +41919,13 @@
     "date": "2026-09-30",
     "channel": "Skratch Gaming",
     "url": "https://www.youtube.com/watch?v=DQlhUcZ_2zg"
+   },
+   {
+    "verdict": "Disappointing summon",
+    "note": "Pulled as a pity legendary during the summon session.",
+    "date": "2026-09-28",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=TkeS9I9YppI"
    },
    {
     "verdict": "Great tank alternative to Maashtur",
@@ -41771,6 +42257,13 @@
     "date": "2026-10-07",
     "channel": "Gorax",
     "url": "https://www.youtube.com/watch?v=kmI10_fvl-c"
+   },
+   {
+    "verdict": "Legendary summon",
+    "note": "Pulled during the summon session.",
+    "date": "2026-09-28",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=TkeS9I9YppI"
    },
    {
     "verdict": "Trash / Convert to dust",

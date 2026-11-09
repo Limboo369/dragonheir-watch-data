@@ -1,0 +1,87 @@
+{
+ "summary": "Skratch showcases an updated high-performing Thunderbolt team lineup for the Continental Challenge boss Talethia in Season 8. The setup achieves over 851 million damage on a 15-second skill timing rotation without high hero inspiration levels. Key build details include stacking extreme Skill Haste on Phaessa, using Journ for ultimate energy generation, and equipping Alaura with Dawn Pipe Organ to heavily buff Perkunte's damage output. Substitutions for missing heroes such as Nissa for Tariz are also explained.",
+ "topics": [
+  "Continental Challenge",
+  "Thunderbolt",
+  "Boss Challenge",
+  "Talethia",
+  "Team Composition"
+ ],
+ "heroes": [
+  {
+   "name": "Perkunte",
+   "verdict": "Top Thunderbolt DPS",
+   "note": "Primary damage dealer in the Thunderbolt team, dealing over 780 million damage individually on Talethia.",
+   "known": true
+  },
+  {
+   "name": "Phaessa",
+   "verdict": "Core Thunderbolt healer and support",
+   "note": "Requires high Skill Haste and Enlightenment to rotate healing fast enough to keep the entire team alive.",
+   "known": true
+  },
+  {
+   "name": "Journ",
+   "verdict": "Essential energy and attack buffer",
+   "note": "Provides rapid ultimate energy generation and attack buffs to maintain a strict 15-second team skill cycle.",
+   "known": true
+  },
+  {
+   "name": "Alaura",
+   "verdict": "Top Thunderbolt damage buffer",
+   "note": "Using Dawn Pipe Organ instead of her exclusive artifact allows her to heavily amplify Perkunte's damage output.",
+   "known": true
+  },
+  {
+   "name": "Tariz",
+   "verdict": "Primary Defense Down enabler",
+   "note": "Applies consistent Defense Down while taking front-row position; can be replaced by Nissa.",
+   "known": true
+  },
+  {
+   "name": "Nissa",
+   "verdict": "Best Tariz substitute",
+   "note": "Serves as the best alternative to Tariz for applying Defense Down in Thunderbolt boss setups.",
+   "known": true
+  },
+  {
+   "name": "Rena",
+   "verdict": "Phaessa substitute",
+   "note": "Can replace Phaessa as the primary team healer/support if unavailable.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Continental Challenge (Talethia)",
+   "heroes": [
+    "Tariz",
+    "Perkunte",
+    "Alaura",
+    "Phaessa",
+    "Journ"
+   ],
+   "note": "High-performing Thunderbolt team hitting 851M+ damage on Talethia using a 15-second recast cycle and Dawn Pipe Organ buffing."
+  }
+ ],
+ "meta_changes": [
+  "Thunderbolt compositions scale exceptionally well in Continental Challenge boss fights by combining fast energy battery cycles with high Skill Haste supports."
+ ],
+ "tips": [
+  "Equip Alaura with the Dawn Pipe Organ artifact rather than her exclusive artifact to maximize attack buffs on Perkunte.",
+  "Prioritize maximum Skill Haste and Enlightenment on Phaessa to rotate her battle skill healing rapidly.",
+  "Set ultimate timing on a 15-second recast cycle to synchronize energy generation with damage windows.",
+  "Ensure heroes are positioned in a straight line relative to Journ so everyone receives ultimate energy."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "SYO1Py5XlBQ",
+ "model": "gemini-3.6-flash",
+ "channel": "Skratch Gaming",
+ "title": "Updated Thunderbolt Team Vs Boss Challenge Talethia! Dragonheir: Silent Gods x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=SYO1Py5XlBQ",
+ "short": false,
+ "summarized": "2026-11-09T01:18Z"
+}

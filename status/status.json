@@ -1,13 +1,14 @@
 {
- "built": "2026-11-09T00:59Z",
- "last_fetch": "2026-11-09T00:17Z",
+ "built": "2026-11-09T01:19Z",
+ "last_fetch": "2026-11-09T01:17Z",
  "counts": {
-  "summarized": 381,
+  "summarized": 386,
   "skipped_giveaway": 17,
   "baseline": 22,
-  "new": 259,
+  "new": 250,
   "skipped_live": 1,
-  "failed": 3
+  "failed": 3,
+  "retry": 4
  },
  "problems": [
   {
@@ -15,6 +16,30 @@
    "channel": "liveranov",
    "status": "failed",
    "error": "Expecting value: line 1 column 1 (char 0)"
+  },
+  {
+   "title": "BEST Cheap Aura Team vs Joyce! | S8 Continental Challenge | Dragonheir: Silent Gods",
+   "channel": "Neff Gaming",
+   "status": "retry",
+   "error": ""
+  },
+  {
+   "title": "💥 They Are BACK! 💥Corrosion vs Durem CC Boss S8 GUIDE | Dragonheir x Dragonstridea",
+   "channel": "OddOneGaming RPGs",
+   "status": "retry",
+   "error": ""
+  },
+  {
+   "title": "💥 I HIT THE JACKPOT 💥My First EVER Triple Lego In A 10 Pull | Dragonheir x Dragonstride",
+   "channel": "OddOneGaming RPGs",
+   "status": "retry",
+   "error": ""
+  },
+  {
+   "title": "My Starweave Echo Exchange & Advice 🎁  3rd Anniversary Event🔥 Dragonheir x Dragonstride",
+   "channel": "Suzi Plays",
+   "status": "retry",
+   "error": ""
   },
   {
    "title": "🔥 Season 9 FIRST CROWN CONTEST! Code: SKYASTERIX | Dragonheir: Silent Gods",
@@ -31,44 +56,11 @@
  ],
  "budget": {
   "day": "2026-11-09",
-  "seconds": 13564,
-  "v2": 1
+  "seconds": 16812,
+  "v2": 1,
+  "quota_hit": 1794187116.0077312
  },
  "log_tail": [
-  "daily video budget used (445 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 369 videos, 217 heroes",
-  "== 2026-11-08 17:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (445 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 369 videos, 217 heroes",
-  "== 2026-11-08 18:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (445 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 369 videos, 217 heroes",
-  "== 2026-11-08 19:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (445 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 369 videos, 217 heroes",
-  "== 2026-11-08 20:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (445 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 369 videos, 217 heroes",
-  "== 2026-11-08 21:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (445 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 369 videos, 217 heroes",
-  "mv: '.run.sh.new' and 'run.sh' are the same file",
-  "mv: cannot stat '.SUMMARY_PROMPT.md.new': No such file or directory",
-  "== 2026-11-08 22:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (445 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 369 videos, 217 heroes",
   "== 2026-11-08 23:17",
   "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
@@ -114,7 +106,41 @@
   "+ Gorax: Day 10 Progression Explodes! Max LvL & New Dungeon | Beginne",
   "saved bQnIUA0HuMY",
   "+ Skyasterix Gaming: 👉 600 Dice Summons! Did I Get SCAMMED Again? | Dragonheir: S",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 381 videos, 218 heroes"
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 381 videos, 218 heroes",
+  "== 2026-11-09 01:17",
+  "fetch done: 0 new transcripts, 0 not available yet",
+  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
+  "… Neff Gaming: 300 Dice (Dauntless & Thunderbolt) ... Was it worth it? | Dr",
+  "… Skratch Gaming: DON'T MISS OUT! FREE Legendary & Tons Of Rewards... Dragonhe… Gorax: The BEST Day 1 Start for New Players! | Beginner Series | Dr",
+  "",
+  "… Suzi Plays: THE FINAL CODE for 15 Summons! 🧡 QUIZ CODE #10 🎁 3rd Anniver",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "… OddOneGaming RPGs: 💥 They Are BACK! 💥Corrosion vs Durem CC Boss S8 GUIDE | Drag",
+  "saved TSr10ZA2VfY",
+  "+ Skratch Gaming: DON'T MISS OUT! FREE Legendary & Tons Of Rewards... Dragonhe",
+  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
+  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
+  "… liveranov: Dauntless Team vs Ancient Battlefield — Soul Devourer CHALLE",
+  "! 💥 They Are BACK! 💥Corrosion vs Durem CC Boss S8 GU: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+  "… Skratch Gaming: Updated Thunderbolt Team Vs Boss Challenge Talethia! Dragonh",
+  "saved T0GuKibW3uY",
+  "+ Suzi Plays: THE FINAL CODE for 15 Summons! 🧡 QUIZ CODE #10 🎁 3rd Anniver",
+  "… Skratch Gaming: The Best Crown Contest Teams! The Lightning Fortress Dragonh",
+  "saved TkeS9I9YppI",
+  "+ Neff Gaming: 300 Dice (Dauntless & Thunderbolt) ... Was it worth it? | Dr",
+  "… liveranov: Aura Team vs Fire Guardians | Crown Contest | Dragonheir | S",
+  "saved SZ4y8OKwh-I",
+  "+ liveranov: Dauntless Team vs Ancient Battlefield — Soul Devourer CHALLE",
+  "… Suzi Plays: My Starweave Echo Exchange & Advice 🎁  3rd Anniversary Event",
+  "saved SYO1Py5XlBQ",
+  "+ Skratch Gaming: Updated Thunderbolt Team Vs Boss Challenge Talethia! Dragonh",
+  "… OddOneGaming RPGs: 💥 I HIT THE JACKPOT 💥My First EVER Triple Lego In A 10 Pull ",
+  "! My Starweave Echo Exchange & Advice 🎁  3rd Anniver: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+  "… Neff Gaming: BEST Cheap Aura Team vs Joyce! | S8 Continental Challenge | ",
+  "! 💥 I HIT THE JACKPOT 💥My First EVER Triple Lego In : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+  "! BEST Cheap Aura Team vs Joyce! | S8 Continental Ch: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g"
  ],
  "crontab": [],
  "channels": [
@@ -122,55 +148,55 @@
    "name": "Skratch Gaming",
    "id": "UCoSkzr1pXpt3d0jIxsc6ufw",
    "enabled": true,
-   "checked": "2026-11-09T00:17Z"
+   "checked": "2026-11-09T01:17Z"
   },
   {
    "name": "Gorax",
    "id": "UCNas7BnuOIjDEzY1D53kb1w",
    "enabled": true,
-   "checked": "2026-11-09T00:17Z"
+   "checked": "2026-11-09T01:17Z"
   },
   {
    "name": "Neff Gaming",
    "id": "UCsxs6YhNd_B36RgUAjbpJ_A",
    "enabled": true,
-   "checked": "2026-11-09T00:17Z"
+   "checked": "2026-11-09T01:17Z"
   },
   {
    "name": "Volkin Dragonheir",
    "id": "UCfRpOh_ywVjzhh9fxHbreGw",
    "enabled": true,
-   "checked": "2026-11-09T00:17Z"
+   "checked": "2026-11-09T01:17Z"
   },
   {
    "name": "Fastidious Dragonheir",
    "id": "UC16mpj5wEemSZX-uTlHe9Ww",
    "enabled": true,
-   "checked": "2026-11-09T00:17Z"
+   "checked": "2026-11-09T01:17Z"
   },
   {
    "name": "OddOneGaming RPGs",
    "id": "UC1ivUEf_poI9_R2eVKa8wRQ",
    "enabled": true,
-   "checked": "2026-11-09T00:17Z"
+   "checked": "2026-11-09T01:17Z"
   },
   {
    "name": "Suzi Plays",
    "id": "UCyo1-TkunhGcK6khU1h8Ypw",
    "enabled": true,
-   "checked": "2026-11-09T00:17Z"
+   "checked": "2026-11-09T01:17Z"
   },
   {
    "name": "Skyasterix Gaming",
    "id": "UCr5Gb3910rK7QPmKMmdagsA",
    "enabled": true,
-   "checked": "2026-11-09T00:17Z"
+   "checked": "2026-11-09T01:17Z"
   },
   {
    "name": "liveranov",
    "id": "UCqCR7ofFHhWwXy3Hg00fqEw",
    "enabled": true,
-   "checked": "2026-11-09T00:17Z"
+   "checked": "2026-11-09T01:17Z"
   }
  ]
 }

@@ -1,0 +1,75 @@
+{
+ "summary": "This video showcases a fast 30-second clear of Ancient Battlefield Challenge 4 against the Level 300 Soul Devourer - Gruentius using a Dauntless team. The team composition consists of Nastjenka, Kurvida, Maashtur, Guinavivre, and Fathomdown. The creator notes that Maashtur can be swapped out for Vinyara if needed. Detailed gear builds and hero stats are displayed following the battle.",
+ "topics": [
+  "Ancient Battlefield",
+  "Dauntless",
+  "Soul Devourer",
+  "Boss Speedrun"
+ ],
+ "heroes": [
+  {
+   "name": "Nastjenka",
+   "verdict": "Core Dauntless DPS",
+   "note": "Key damage dealer used in the 30-second clear of Soul Devourer.",
+   "known": true
+  },
+  {
+   "name": "Kurvida",
+   "verdict": "Dauntless Team Member",
+   "note": "Provides strong synergistic damage in Dauntless lineups.",
+   "known": true
+  },
+  {
+   "name": "Maashtur",
+   "verdict": "Flex Dauntless DPS",
+   "note": "Contributes to quick boss clears, but can be replaced by Vinyara.",
+   "known": true
+  },
+  {
+   "name": "Guinavivre",
+   "verdict": "Core Dauntless Buffer",
+   "note": "Crucial for attack speed and team buff uptime.",
+   "known": true
+  },
+  {
+   "name": "Fathomdown",
+   "verdict": "Dauntless Support",
+   "note": "Provides essential utility and survivability/buffs for the team.",
+   "known": true
+  },
+  {
+   "name": "Vinyara",
+   "verdict": "Alternative for Maashtur",
+   "note": "Can be used as a replacement hero for Maashtur in this composition.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Ancient Battlefield - Challenge 4",
+   "heroes": [
+    "Nastjenka",
+    "Kurvida",
+    "Maashtur",
+    "Guinavivre",
+    "Fathomdown"
+   ],
+   "note": "Clears Lv 300 Soul Devourer in 30 seconds. Maashtur can be substituted with Vinyara."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "If you lack Maashtur, substitute her with Vinyara to maintain fast clear performance against Soul Devourer."
+ ],
+ "season": "unknown",
+ "server_scope": "mixed",
+ "value": "medium",
+ "id": "SZ4y8OKwh-I",
+ "model": "gemini-3.6-flash",
+ "channel": "liveranov",
+ "title": "Dauntless Team vs Ancient Battlefield — Soul Devourer CHALLENGE 4! | Dragonheir: Silent Gods",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=SZ4y8OKwh-I",
+ "short": false,
+ "summarized": "2026-11-09T01:18Z"
+}

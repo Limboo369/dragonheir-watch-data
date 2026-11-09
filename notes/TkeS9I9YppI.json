@@ -1,0 +1,90 @@
+{
+ "summary": "Neff Gaming conducts 300 summons on the Option Summons banner selecting Dauntless and Thunderbolt factions. His primary goal is securing Nastjenka via the 300-summon selector to achieve Inspiration 5, which provides a massive performance boost to Dauntless and Vortex teams. During the summons, he pulls several legendaries including Stanguem, Tamar, Garett, Sutha, Bionphray, and Fathomdown. He highlights Thunderbolt as an essential secondary team for endgame bosses, Crown Contest, and Continental Challenge.",
+ "topics": [
+  "Option Summons",
+  "Dauntless",
+  "Thunderbolt",
+  "Nastjenka",
+  "Summoning"
+ ],
+ "heroes": [
+  {
+   "name": "Nastjenka",
+   "verdict": "Must-have I5 target",
+   "note": "Achieving Inspiration 5 provides a huge boost to all Dauntless teams, especially in Temporal Vortex.",
+   "known": true
+  },
+  {
+   "name": "Tariz",
+   "verdict": "Top seasonal damage target",
+   "note": "Guaranteed to be a new seasonal hero pull if summoned early on the option banner.",
+   "known": true
+  },
+  {
+   "name": "Stanguem",
+   "verdict": "Disappointing summon",
+   "note": "Pulled as a pity legendary during the summon session.",
+   "known": true
+  },
+  {
+   "name": "Tamar",
+   "verdict": "Thunderbolt legendary",
+   "note": "Obtained during the option summons.",
+   "known": true
+  },
+  {
+   "name": "Garett",
+   "verdict": "Legendary summon",
+   "note": "Pulled during the summon session.",
+   "known": true
+  },
+  {
+   "name": "Sutha",
+   "verdict": "Duplicate pull",
+   "note": "Summoned multiple times during the 300 pulls.",
+   "known": true
+  },
+  {
+   "name": "Bionphray",
+   "verdict": "Legendary summon",
+   "note": "Obtained during the option summon pursuit.",
+   "known": true
+  },
+  {
+   "name": "Fathomdown",
+   "verdict": "Maxed duplicate",
+   "note": "Pulled as a duplicate despite already owning Inspiration 5.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Temporal Vortex",
+   "heroes": [
+    "Nastjenka"
+   ],
+   "note": "Nastjenka at Inspiration 5 provides a major team performance boost."
+  },
+  {
+   "mode": "Continental Challenge",
+   "heroes": [],
+   "note": "Thunderbolt faction heroes excel as a high-performing team in Continental Challenge, Crown Contest, and endgame bosses."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Target key hero Inspiration levels (like Nastjenka I5) using the 300-summon selector on Option Summons banners.",
+  "Prioritize Thunderbolt heroes on option banners if you need a strong secondary team for endgame bossing and Crown Contest."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "TkeS9I9YppI",
+ "model": "gemini-3.5-flash",
+ "channel": "Neff Gaming",
+ "title": "300 Dice (Dauntless & Thunderbolt) ... Was it worth it? | Dragonheir: Silent Gods",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=TkeS9I9YppI",
+ "short": false,
+ "summarized": "2026-11-09T01:18Z"
+}

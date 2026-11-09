@@ -1,26 +1,6 @@
 {
- "built": "2026-11-09T00:59Z",
+ "built": "2026-11-09T01:19Z",
  "videos": [
-  {
-   "id": "TkeS9I9YppI",
-   "title": "300 Dice (Dauntless & Thunderbolt) ... Was it worth it? | Dragonheir: Silent Gods",
-   "channel": "Neff Gaming",
-   "published": "2026-09-28T12:00:00+00:00",
-   "status": "new",
-   "priority": false,
-   "duration_s": 436,
-   "error": ""
-  },
-  {
-   "id": "TSr10ZA2VfY",
-   "title": "DON'T MISS OUT! FREE Legendary & Tons Of Rewards... Dragonheir: Silent Gods x Dragonstride",
-   "channel": "Skratch Gaming",
-   "published": "2026-09-28T12:00:00+00:00",
-   "status": "new",
-   "priority": false,
-   "duration_s": 287,
-   "error": ""
-  },
   {
    "id": "T5dqvUcqhbo",
    "title": "The BEST Day 1 Start for New Players! | Beginner Series | Dragonheir x Dragonstride",
@@ -32,43 +12,13 @@
    "error": ""
   },
   {
-   "id": "T0GuKibW3uY",
-   "title": "THE FINAL CODE for 15 Summons! 🧡 QUIZ CODE #10 🎁 3rd Anniversary Event🔥 Dragonheir x Dragonstride",
-   "channel": "Suzi Plays",
-   "published": "2026-09-28T12:00:00+00:00",
-   "status": "new",
-   "priority": false,
-   "duration_s": 282,
-   "error": ""
-  },
-  {
    "id": "SeE4BCCmxz4",
    "title": "💥 They Are BACK! 💥Corrosion vs Durem CC Boss S8 GUIDE | Dragonheir x Dragonstridea",
    "channel": "OddOneGaming RPGs",
    "published": "2026-09-28T12:00:00+00:00",
-   "status": "new",
+   "status": "retry",
    "priority": false,
    "duration_s": 918,
-   "error": ""
-  },
-  {
-   "id": "SZ4y8OKwh-I",
-   "title": "Dauntless Team vs Ancient Battlefield — Soul Devourer CHALLENGE 4! | Dragonheir: Silent Gods",
-   "channel": "liveranov",
-   "published": "2026-09-28T12:00:00+00:00",
-   "status": "new",
-   "priority": false,
-   "duration_s": 88,
-   "error": ""
-  },
-  {
-   "id": "SYO1Py5XlBQ",
-   "title": "Updated Thunderbolt Team Vs Boss Challenge Talethia! Dragonheir: Silent Gods x Dragonstride",
-   "channel": "Skratch Gaming",
-   "published": "2026-09-28T12:00:00+00:00",
-   "status": "new",
-   "priority": false,
-   "duration_s": 700,
    "error": ""
   },
   {
@@ -96,7 +46,7 @@
    "title": "My Starweave Echo Exchange & Advice 🎁  3rd Anniversary Event🔥 Dragonheir x Dragonstride",
    "channel": "Suzi Plays",
    "published": "2026-09-28T12:00:00+00:00",
-   "status": "new",
+   "status": "retry",
    "priority": false,
    "duration_s": 749,
    "error": ""
@@ -106,7 +56,7 @@
    "title": "💥 I HIT THE JACKPOT 💥My First EVER Triple Lego In A 10 Pull | Dragonheir x Dragonstride",
    "channel": "OddOneGaming RPGs",
    "published": "2026-09-28T12:00:00+00:00",
-   "status": "new",
+   "status": "retry",
    "priority": false,
    "duration_s": 580,
    "error": ""
@@ -116,7 +66,7 @@
    "title": "BEST Cheap Aura Team vs Joyce! | S8 Continental Challenge | Dragonheir: Silent Gods",
    "channel": "Neff Gaming",
    "published": "2026-09-28T12:00:00+00:00",
-   "status": "new",
+   "status": "retry",
    "priority": false,
    "duration_s": 406,
    "error": ""
