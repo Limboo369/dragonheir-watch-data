@@ -1,0 +1,99 @@
+{
+ "summary": "Skratch showcases what he considers the absolute strongest and most busted team in Dragonheir: the Toxin team centered around Serpentemis. Through her passive Bone-Seeping Poison and the continuous application of poison ticks by teammates, enemy waves and dungeon bosses are melted in literal seconds. The build completely blitzes Outlands Rift in 0 seconds, clears Stage 18 Frost Domain waves instantly, and clears Challenge Mode dungeon bosses like Grave of Venom and Grave of Curse in 10-12 seconds. It also outputs between 14 and 17+ billion damage in Temporal Vortex against the Arbor Hydra even at Inspiration 1.",
+ "topics": [
+  "Toxin Team",
+  "Serpentemis",
+  "Speedrun",
+  "Dungeons",
+  "Temporal Vortex"
+ ],
+ "heroes": [
+  {
+   "name": "Serpentemis",
+   "verdict": "Absolute best AoE / Toxin carry in the game",
+   "note": "Her passive triggers explosive derivative Poison damage whenever poisoned enemies take hit damage, melting waves and bosses instantly even at Inspiration 1.",
+   "known": true
+  },
+  {
+   "name": "Sleight",
+   "verdict": "Core Toxin team partner",
+   "note": "Provides passive synergy that accelerates poison procs alongside Serpentemis.",
+   "known": true
+  },
+  {
+   "name": "Durango",
+   "verdict": "Insanely good for wave-clearing and dungeon speedruns",
+   "note": "His passive triggers instant multi-target attacks and poison applications at battle start, but falls off in Temporal Vortex boss fights.",
+   "known": true
+  },
+  {
+   "name": "Twitch",
+   "verdict": "Essential single-target and boss-oriented Toxin enabler",
+   "note": "Applies consistent poison stacks needed to constantly trigger Serpentemis's damage in boss content like Temporal Vortex.",
+   "known": true
+  },
+  {
+   "name": "Vicana",
+   "verdict": "Decent Toxin option",
+   "note": "Usable poison unit, though not quite at the top tier of synergy.",
+   "known": true
+  },
+  {
+   "name": "Jathalea",
+   "verdict": "Not recommended for this synergy",
+   "note": "Focuses on Thorny Poison, which functions differently and does not supply the standard Toxin ticks this team requires.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Outlands Rift Co-op / Dungeons Speedrun",
+   "heroes": [
+    "Serpentemis",
+    "Sleight",
+    "Durango",
+    "Twitch"
+   ],
+   "note": "Four-man core that obliterates waves and dungeon bosses in 0 to 12 seconds with no healers or supports required."
+  },
+  {
+   "mode": "Frost Domain Stage 18 & Dungeon Challenge Mode",
+   "heroes": [
+    "Serpentemis",
+    "Twitch",
+    "Sleight",
+    "Durango",
+    "Lava Batwing"
+   ],
+   "note": "All-poison lineup using Lava Batwing as familiar; relies on Durango holding Lunar Radiance Helm to survive initial hits."
+  },
+  {
+   "mode": "Temporal Vortex IV (Arbor Hydra)",
+   "heroes": [
+    "Serpentemis",
+    "Sleight",
+    "Twitch",
+    "Durango",
+    "Lava Batwing"
+   ],
+   "note": "Hit 14B to 17B+ total damage on simulation runs; creator expects 20B+ at Inspiration 5."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Serpentemis scales heavily off Enlightenment and Attack to maximize her derivative poison bursts.",
+  "Put the Mythic helmet Lunar Radiance Helm on Durango to grant him immortality and damage reduction upon fatal damage, keeping him alive long enough to trigger full team skills.",
+  "Skip farming Heretical Ruins and Ancient Battlefield on Challenge Mode as the rewards are not worth the investment."
+ ],
+ "season": "unknown",
+ "server_scope": "mixed",
+ "value": "high",
+ "id": "Jqs7wSn2_p0",
+ "model": "gemini-3.8-flash",
+ "channel": "Skratch Gaming",
+ "title": "The Strongest Team in Dragonheir: Silent Gods x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=Jqs7wSn2_p0",
+ "short": false,
+ "summarized": "2026-11-10T03:22Z"
+}

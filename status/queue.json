@@ -1,52 +1,12 @@
 {
- "built": "2026-11-10T03:18Z",
+ "built": "2026-11-10T03:23Z",
  "videos": [
-  {
-   "id": "Jqs7wSn2_p0",
-   "title": "The Strongest Team in Dragonheir: Silent Gods x Dragonstride",
-   "channel": "Skratch Gaming",
-   "published": "2026-09-28T12:00:00+00:00",
-   "status": "retry",
-   "priority": false,
-   "duration_s": 800,
-   "error": ""
-  },
-  {
-   "id": "JdV2F-ncZFI",
-   "title": "🚨 Serpentemis Still ROCKS! 🚨 Toxin vs Durem CC Boss S8 GUIDE | Dragonheir x Dragonstride",
-   "channel": "OddOneGaming RPGs",
-   "published": "2026-09-28T12:00:00+00:00",
-   "status": "retry",
-   "priority": false,
-   "duration_s": 835,
-   "error": ""
-  },
-  {
-   "id": "JcYr69Bpu40",
-   "title": "💥 NO WAY!  💥I Pulled 2 NEW Premiums While Chasing Talethia i5 | Dragonheir x Dragonstridea",
-   "channel": "OddOneGaming RPGs",
-   "published": "2026-09-28T12:00:00+00:00",
-   "status": "retry",
-   "priority": false,
-   "duration_s": 609,
-   "error": ""
-  },
-  {
-   "id": "IhdvHizkl6M",
-   "title": "DON'T Choose Your Faction Yet! Watch This First | Dragonheir",
-   "channel": "Gorax",
-   "published": "2026-09-28T12:00:00+00:00",
-   "status": "new",
-   "priority": false,
-   "duration_s": 616,
-   "error": ""
-  },
   {
    "id": "IPIbglFr7r0",
    "title": "Day 8 Huge Upgrade! Puppeteer Set Changes Your Teams | Beginner Series | Dragonheir x Dragonstride",
    "channel": "Gorax",
    "published": "2026-09-28T12:00:00+00:00",
-   "status": "new",
+   "status": "retry",
    "priority": false,
    "duration_s": 635,
    "error": ""
@@ -56,7 +16,7 @@
    "title": "Season 9 COMES with 4 NEW Exclusive Artifacts! | Dragonheir: Silent Gods x Dragonstride",
    "channel": "Neff Gaming",
    "published": "2026-09-28T12:00:00+00:00",
-   "status": "new",
+   "status": "retry",
    "priority": false,
    "duration_s": 492,
    "error": ""
@@ -66,7 +26,7 @@
    "title": "Durem - THE BEST Teams & Strategy | Continental Challenge | Dragonheir x Dragonstride",
    "channel": "Gorax",
    "published": "2026-09-28T12:00:00+00:00",
-   "status": "new",
+   "status": "retry",
    "priority": false,
    "duration_s": 1493,
    "error": ""
@@ -76,7 +36,7 @@
    "title": "Toxin vs Durem | Continental Challenge | Season 8 | Dragonheir",
    "channel": "liveranov",
    "published": "2026-09-28T12:00:00+00:00",
-   "status": "new",
+   "status": "retry",
    "priority": false,
    "duration_s": 264,
    "error": ""
@@ -86,7 +46,7 @@
    "title": "300 Reversal Summons! Here’s What I Got | Dragonheir: Silent Gods x Dragonstride",
    "channel": "Neff Gaming",
    "published": "2026-09-28T12:00:00+00:00",
-   "status": "new",
+   "status": "retry",
    "priority": false,
    "duration_s": 400,
    "error": ""
@@ -96,7 +56,7 @@
    "title": "👉S9 FOUR New Heroes ARTIFACTS  | Dragonheir: Silent Gods",
    "channel": "Skyasterix Gaming",
    "published": "2026-09-28T12:00:00+00:00",
-   "status": "new",
+   "status": "retry",
    "priority": false,
    "duration_s": 507,
    "error": ""
@@ -106,7 +66,7 @@
    "title": "Iola - THE BEST Teams & Strategy | Continental Challenge | Dragonheir x Dragonstride",
    "channel": "Gorax",
    "published": "2026-09-28T12:00:00+00:00",
-   "status": "new",
+   "status": "retry",
    "priority": false,
    "duration_s": 833,
    "error": ""

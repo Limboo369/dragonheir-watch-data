@@ -1,0 +1,74 @@
+{
+ "summary": "OddOneGaming showcases a Toxin team strategy against the Continental Challenge boss Durem in Season 8, dealing over 335 million damage. The setup relies on Serpentemis as the primary damage dealer, backed by Twitch and Durango for Toxin application, with Oggok and Reytah providing dual healing and cleansing. Proper skill sequencing is crucial: Durango triggers Puppeteer's Inspiration every 15 seconds to accelerate team ultimates, while Reytah cleanses debuffs before Twitch lands Toxin to prevent damage penalties. Serpentemis's resistance reduction significantly lowers the Accuracy requirements for the entire team to around 100-150.",
+ "topics": [
+  "Continental Challenge",
+  "Durem",
+  "Toxin Team",
+  "Boss Guide",
+  "Skill Timings"
+ ],
+ "heroes": [
+  {
+   "name": "Serpentemis",
+   "verdict": "Top DPS for Durem",
+   "note": "Serves as the team's core damage dealer, capable of outputting massive damage even at Inspiration 0 while reducing enemy resistance by 35%.",
+   "known": true
+  },
+  {
+   "name": "Reytah",
+   "verdict": "Essential cleanser and healer",
+   "note": "Paired with Oggok for survivability, cleansing Attack Penalty right before damage windows to maximize Toxin procs.",
+   "known": true
+  },
+  {
+   "name": "Oggok",
+   "verdict": "Top sustain support",
+   "note": "Provides consistent healing, shields, and Attack Penalty debuffs, enabling the team to survive Durem's onslaught.",
+   "known": true
+  },
+  {
+   "name": "Durango",
+   "verdict": "Crucial utility sub-DPS",
+   "note": "Requires near 100% Crit Rate to cycle ultimate energy and apply Toxins, functioning as the team's Puppeteer's Inspiration activator.",
+   "known": true
+  },
+  {
+   "name": "Twitch",
+   "verdict": "Strong secondary Toxin DPS",
+   "note": "Applies high stacks of Toxin; excels when equipped with Iluya's Fang to offset low base infliction chances.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Continental Challenge - Durem",
+   "heroes": [
+    "Serpentemis",
+    "Reytah",
+    "Oggok",
+    "Durango",
+    "Twitch"
+   ],
+   "note": "Toxin team reaching 335M+ damage. Durango uses Puppeteer's Inspiration on a 15s cooldown to accelerate ultimates, while Reytah cleanses debuffs prior to Twitch and Serpentemis cycling."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Because Serpentemis passively reduces enemy Resistance by 35%, heroes only need between 100 to 150 Accuracy to land debuffs consistently.",
+  "Tune ultimate timings so Reytah cleanses Attack Penalty before Twitch and Serpentemis detonate or re-apply Toxins.",
+  "Build Durango with near 100% Crit Rate so his battle skill and passive reliably grant extra ultimate energy and apply Toxin stacks.",
+  "Set Durango's ultimate recast interval to 15 seconds so he reliably procs Puppeteer's Inspiration without wasting uptime.",
+  "Use Durango's Accuracy Aura to ease gear requirements across all team members."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "JdV2F-ncZFI",
+ "model": "gemini-3.8-flash",
+ "channel": "OddOneGaming RPGs",
+ "title": "🚨 Serpentemis Still ROCKS! 🚨 Toxin vs Durem CC Boss S8 GUIDE | Dragonheir x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=JdV2F-ncZFI",
+ "short": false,
+ "summarized": "2026-11-10T03:20Z"
+}

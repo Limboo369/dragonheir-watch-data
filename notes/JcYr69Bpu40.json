@@ -1,0 +1,73 @@
+{
+ "summary": "OddOneGaming performs summons on the Option Summons 1 banner, pairing Aura and Ice Blast schools to chase dupes of Talethia to reach Inspire 5 for Continental Challenge while guaranteeing new season damage dealer Ernesto if a premium DPS drops. Along the way to and slightly past the 300-summon milestone, he pulls Elecebre, Lincos, Eurion, Solmo, and successfully lands Ernesto on an extra roll past 300 before claiming Talethia from the selector. He notes that older staples like Elecebre have been powercrept outside of Arena and that Zhorak is frequently replaced in top Ice Blast teams by Fredegonda, Beldelle, and Ernesto.",
+ "topics": [
+  "Option Summons",
+  "Continental Challenge",
+  "Ice Blast",
+  "Summoning Strategy"
+ ],
+ "heroes": [
+  {
+   "name": "Talethia",
+   "verdict": "High priority DPS / Inspire 5 target",
+   "note": "A prime target for Inspire 5 to maximize damage output against Continental Challenge bosses.",
+   "known": true
+  },
+  {
+   "name": "Ernesto",
+   "verdict": "Top Ice Blast damage dealer",
+   "note": "Essential piece for upgrading single-target Ice Blast compositions.",
+   "known": true
+  },
+  {
+   "name": "Elecebre",
+   "verdict": "Powercrept / Arena-only",
+   "note": "Used to be top tier for Arena, but has fallen off and offers little value in modern PvE content if an account has alternatives like Felosia or Feenja.",
+   "known": true
+  },
+  {
+   "name": "Zhorak",
+   "verdict": "Replaced in optimal Ice Blast lineups",
+   "note": "Loses his slot in end-game Ice Blast teams once you run Fredegonda, Shinnah, Beldelle, Ernesto, and a required support.",
+   "known": true
+  },
+  {
+   "name": "Solmo",
+   "verdict": "Solid pickup",
+   "note": "A welcome duplicate pull to enhance his Inspire level.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Continental Challenge",
+   "heroes": [
+    "Fredegonda",
+    "Shinnah",
+    "Beldelle",
+    "Ernesto"
+   ],
+   "note": "Core four single-target Ice Blast damage dealers; the fifth slot must be dedicated to a support."
+  }
+ ],
+ "meta_changes": [
+  "Elecebre has been significantly powercrept in PvE and is now largely relegated to Arena.",
+  "Zhorak has been displaced from optimal Ice Blast comps by newer units like Beldelle and Ernesto."
+ ],
+ "tips": [
+  "When selecting schools for Option Summons, pair a school where you want duplicates with a school where the guaranteed first new damage dealer pull secures a top-tier premium unit you lack (like Ernesto).",
+  "Avoid pairing schools that contain newly added premium damage dealers you do not want to dilute your guaranteed first seasonal DPS roll.",
+  "Prioritize quality over quantity when summoning, as late-game content rewards invested, high-impact legendaries."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "JcYr69Bpu40",
+ "model": "gemini-3.7-flash",
+ "channel": "OddOneGaming RPGs",
+ "title": "💥 NO WAY!  💥I Pulled 2 NEW Premiums While Chasing Talethia i5 | Dragonheir x Dragonstridea",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=JcYr69Bpu40",
+ "short": false,
+ "summarized": "2026-11-10T03:23Z"
+}

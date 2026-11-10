@@ -1,5 +1,5 @@
 {
- "built": "2026-11-10T03:18Z",
+ "built": "2026-11-10T03:23Z",
  "videos": [
   {
    "summary": "Suzi conducts a massive summon session on the returning Radiant Wings banner featuring Anneliesis with her daughter Lily. She discusses Anneliesis's summon value, noting she has not been available in over a year and is a very unique hero worth acquiring. She analyzes Anneliesis's inspiration levels, highlighting that I1 through I3 provide huge value, whereas pushing to I5 is unnecessary for most players because the buff does not stack with heroes like Holfast. Ultimately, she recommends players aim for I3 at most and stop there.",
@@ -19741,6 +19741,36 @@
    "summarized": "2026-11-03T01:23Z"
   },
   {
+   "summary": "Gorax introduces the 3rd Anniversary Two Faction War event featuring Dark Lady versus Child of Chaos. He announces his choice of the Dark Lady faction and urges viewers to bind with him as a God Envoy. The video explains the three-step participation process: picking a faction, binding one God Envoy and one Preacher, and staying active in game. It details how Reputation is earned through view count, daily in-game activity caps, spending, and binding completion, along with player multipliers. Finally, it outlines the prize pools for both winning and losing factions, including physical collectibles, Wymarrow, Starweave, and Heliolite Dice.",
+   "topics": [
+    "3rd Anniversary Event",
+    "Faction War",
+    "Dark Lady vs Child of Chaos",
+    "Reputation Mechanics",
+    "Event Rewards"
+   ],
+   "heroes": [],
+   "teams": [],
+   "meta_changes": [],
+   "tips": [
+    "Choose your faction and creator bindings carefully, as choices are final once submitted.",
+    "Max out daily event activity points (capped at 2,000 Rep/day) by clearing daily content like dungeons and Temporal Vortex.",
+    "Bind creators immediately to receive a 10,000 Reputation bonus for your faction.",
+    "Watch eligible creator videos during the event to earn 100 Reputation per view with no cap."
+   ],
+   "season": "S9",
+   "server_scope": "mixed",
+   "value": "low",
+   "id": "IhdvHizkl6M",
+   "model": "gemini-3.5-flash",
+   "channel": "Gorax",
+   "title": "DON'T Choose Your Faction Yet! Watch This First | Dragonheir",
+   "published": "2026-09-28T12:00:00+00:00",
+   "url": "https://www.youtube.com/watch?v=IhdvHizkl6M",
+   "short": false,
+   "summarized": "2026-11-10T03:18Z"
+  },
+  {
    "summary": "This guide showcases a top-performing Burn element team against the Season 8 Continental Challenge boss, Joyce. By leveraging Journ's ultimate to dispel Joyce's defense and damage buffs at key intervals (18.2s recast timing), the team maintains maximum damage output with Durem as the primary DPS. Mithrasea is highlighted as a powerful support providing resurrection and survivability, making this setup a viable alternative to high-inspiration Taletia aura teams. Detailed gear setups, attack-sharing mechanics, and skill timings are demonstrated.",
    "topics": [
     "Continental Challenge",
@@ -19814,6 +19844,252 @@
    "url": "https://www.youtube.com/watch?v=IjQ9BlCQInY",
    "short": false,
    "summarized": "2026-11-10T03:18Z"
+  },
+  {
+   "summary": "OddOneGaming performs summons on the Option Summons 1 banner, pairing Aura and Ice Blast schools to chase dupes of Talethia to reach Inspire 5 for Continental Challenge while guaranteeing new season damage dealer Ernesto if a premium DPS drops. Along the way to and slightly past the 300-summon milestone, he pulls Elecebre, Lincos, Eurion, Solmo, and successfully lands Ernesto on an extra roll past 300 before claiming Talethia from the selector. He notes that older staples like Elecebre have been powercrept outside of Arena and that Zhorak is frequently replaced in top Ice Blast teams by Fredegonda, Beldelle, and Ernesto.",
+   "topics": [
+    "Option Summons",
+    "Continental Challenge",
+    "Ice Blast",
+    "Summoning Strategy"
+   ],
+   "heroes": [
+    {
+     "name": "Talethia",
+     "verdict": "High priority DPS / Inspire 5 target",
+     "note": "A prime target for Inspire 5 to maximize damage output against Continental Challenge bosses.",
+     "known": true
+    },
+    {
+     "name": "Ernesto",
+     "verdict": "Top Ice Blast damage dealer",
+     "note": "Essential piece for upgrading single-target Ice Blast compositions.",
+     "known": true
+    },
+    {
+     "name": "Elecebre",
+     "verdict": "Powercrept / Arena-only",
+     "note": "Used to be top tier for Arena, but has fallen off and offers little value in modern PvE content if an account has alternatives like Felosia or Feenja.",
+     "known": true
+    },
+    {
+     "name": "Zhorak",
+     "verdict": "Replaced in optimal Ice Blast lineups",
+     "note": "Loses his slot in end-game Ice Blast teams once you run Fredegonda, Shinnah, Beldelle, Ernesto, and a required support.",
+     "known": true
+    },
+    {
+     "name": "Solmo",
+     "verdict": "Solid pickup",
+     "note": "A welcome duplicate pull to enhance his Inspire level.",
+     "known": true
+    }
+   ],
+   "teams": [
+    {
+     "mode": "Continental Challenge",
+     "heroes": [
+      "Fredegonda",
+      "Shinnah",
+      "Beldelle",
+      "Ernesto"
+     ],
+     "note": "Core four single-target Ice Blast damage dealers; the fifth slot must be dedicated to a support."
+    }
+   ],
+   "meta_changes": [
+    "Elecebre has been significantly powercrept in PvE and is now largely relegated to Arena.",
+    "Zhorak has been displaced from optimal Ice Blast comps by newer units like Beldelle and Ernesto."
+   ],
+   "tips": [
+    "When selecting schools for Option Summons, pair a school where you want duplicates with a school where the guaranteed first new damage dealer pull secures a top-tier premium unit you lack (like Ernesto).",
+    "Avoid pairing schools that contain newly added premium damage dealers you do not want to dilute your guaranteed first seasonal DPS roll.",
+    "Prioritize quality over quantity when summoning, as late-game content rewards invested, high-impact legendaries."
+   ],
+   "season": "S9",
+   "server_scope": "S9",
+   "value": "medium",
+   "id": "JcYr69Bpu40",
+   "model": "gemini-3.7-flash",
+   "channel": "OddOneGaming RPGs",
+   "title": "💥 NO WAY!  💥I Pulled 2 NEW Premiums While Chasing Talethia i5 | Dragonheir x Dragonstridea",
+   "published": "2026-09-28T12:00:00+00:00",
+   "url": "https://www.youtube.com/watch?v=JcYr69Bpu40",
+   "short": false,
+   "summarized": "2026-11-10T03:23Z"
+  },
+  {
+   "summary": "OddOneGaming showcases a Toxin team strategy against the Continental Challenge boss Durem in Season 8, dealing over 335 million damage. The setup relies on Serpentemis as the primary damage dealer, backed by Twitch and Durango for Toxin application, with Oggok and Reytah providing dual healing and cleansing. Proper skill sequencing is crucial: Durango triggers Puppeteer's Inspiration every 15 seconds to accelerate team ultimates, while Reytah cleanses debuffs before Twitch lands Toxin to prevent damage penalties. Serpentemis's resistance reduction significantly lowers the Accuracy requirements for the entire team to around 100-150.",
+   "topics": [
+    "Continental Challenge",
+    "Durem",
+    "Toxin Team",
+    "Boss Guide",
+    "Skill Timings"
+   ],
+   "heroes": [
+    {
+     "name": "Serpentemis",
+     "verdict": "Top DPS for Durem",
+     "note": "Serves as the team's core damage dealer, capable of outputting massive damage even at Inspiration 0 while reducing enemy resistance by 35%.",
+     "known": true
+    },
+    {
+     "name": "Reytah",
+     "verdict": "Essential cleanser and healer",
+     "note": "Paired with Oggok for survivability, cleansing Attack Penalty right before damage windows to maximize Toxin procs.",
+     "known": true
+    },
+    {
+     "name": "Oggok",
+     "verdict": "Top sustain support",
+     "note": "Provides consistent healing, shields, and Attack Penalty debuffs, enabling the team to survive Durem's onslaught.",
+     "known": true
+    },
+    {
+     "name": "Durango",
+     "verdict": "Crucial utility sub-DPS",
+     "note": "Requires near 100% Crit Rate to cycle ultimate energy and apply Toxins, functioning as the team's Puppeteer's Inspiration activator.",
+     "known": true
+    },
+    {
+     "name": "Twitch",
+     "verdict": "Strong secondary Toxin DPS",
+     "note": "Applies high stacks of Toxin; excels when equipped with Iluya's Fang to offset low base infliction chances.",
+     "known": true
+    }
+   ],
+   "teams": [
+    {
+     "mode": "Continental Challenge - Durem",
+     "heroes": [
+      "Serpentemis",
+      "Reytah",
+      "Oggok",
+      "Durango",
+      "Twitch"
+     ],
+     "note": "Toxin team reaching 335M+ damage. Durango uses Puppeteer's Inspiration on a 15s cooldown to accelerate ultimates, while Reytah cleanses debuffs prior to Twitch and Serpentemis cycling."
+    }
+   ],
+   "meta_changes": [],
+   "tips": [
+    "Because Serpentemis passively reduces enemy Resistance by 35%, heroes only need between 100 to 150 Accuracy to land debuffs consistently.",
+    "Tune ultimate timings so Reytah cleanses Attack Penalty before Twitch and Serpentemis detonate or re-apply Toxins.",
+    "Build Durango with near 100% Crit Rate so his battle skill and passive reliably grant extra ultimate energy and apply Toxin stacks.",
+    "Set Durango's ultimate recast interval to 15 seconds so he reliably procs Puppeteer's Inspiration without wasting uptime.",
+    "Use Durango's Accuracy Aura to ease gear requirements across all team members."
+   ],
+   "season": "S8",
+   "server_scope": "S9",
+   "value": "high",
+   "id": "JdV2F-ncZFI",
+   "model": "gemini-3.8-flash",
+   "channel": "OddOneGaming RPGs",
+   "title": "🚨 Serpentemis Still ROCKS! 🚨 Toxin vs Durem CC Boss S8 GUIDE | Dragonheir x Dragonstride",
+   "published": "2026-09-28T12:00:00+00:00",
+   "url": "https://www.youtube.com/watch?v=JdV2F-ncZFI",
+   "short": false,
+   "summarized": "2026-11-10T03:20Z"
+  },
+  {
+   "summary": "Skratch showcases what he considers the absolute strongest and most busted team in Dragonheir: the Toxin team centered around Serpentemis. Through her passive Bone-Seeping Poison and the continuous application of poison ticks by teammates, enemy waves and dungeon bosses are melted in literal seconds. The build completely blitzes Outlands Rift in 0 seconds, clears Stage 18 Frost Domain waves instantly, and clears Challenge Mode dungeon bosses like Grave of Venom and Grave of Curse in 10-12 seconds. It also outputs between 14 and 17+ billion damage in Temporal Vortex against the Arbor Hydra even at Inspiration 1.",
+   "topics": [
+    "Toxin Team",
+    "Serpentemis",
+    "Speedrun",
+    "Dungeons",
+    "Temporal Vortex"
+   ],
+   "heroes": [
+    {
+     "name": "Serpentemis",
+     "verdict": "Absolute best AoE / Toxin carry in the game",
+     "note": "Her passive triggers explosive derivative Poison damage whenever poisoned enemies take hit damage, melting waves and bosses instantly even at Inspiration 1.",
+     "known": true
+    },
+    {
+     "name": "Sleight",
+     "verdict": "Core Toxin team partner",
+     "note": "Provides passive synergy that accelerates poison procs alongside Serpentemis.",
+     "known": true
+    },
+    {
+     "name": "Durango",
+     "verdict": "Insanely good for wave-clearing and dungeon speedruns",
+     "note": "His passive triggers instant multi-target attacks and poison applications at battle start, but falls off in Temporal Vortex boss fights.",
+     "known": true
+    },
+    {
+     "name": "Twitch",
+     "verdict": "Essential single-target and boss-oriented Toxin enabler",
+     "note": "Applies consistent poison stacks needed to constantly trigger Serpentemis's damage in boss content like Temporal Vortex.",
+     "known": true
+    },
+    {
+     "name": "Vicana",
+     "verdict": "Decent Toxin option",
+     "note": "Usable poison unit, though not quite at the top tier of synergy.",
+     "known": true
+    },
+    {
+     "name": "Jathalea",
+     "verdict": "Not recommended for this synergy",
+     "note": "Focuses on Thorny Poison, which functions differently and does not supply the standard Toxin ticks this team requires.",
+     "known": true
+    }
+   ],
+   "teams": [
+    {
+     "mode": "Outlands Rift Co-op / Dungeons Speedrun",
+     "heroes": [
+      "Serpentemis",
+      "Sleight",
+      "Durango",
+      "Twitch"
+     ],
+     "note": "Four-man core that obliterates waves and dungeon bosses in 0 to 12 seconds with no healers or supports required."
+    },
+    {
+     "mode": "Frost Domain Stage 18 & Dungeon Challenge Mode",
+     "heroes": [
+      "Serpentemis",
+      "Twitch",
+      "Sleight",
+      "Durango",
+      "Lava Batwing"
+     ],
+     "note": "All-poison lineup using Lava Batwing as familiar; relies on Durango holding Lunar Radiance Helm to survive initial hits."
+    },
+    {
+     "mode": "Temporal Vortex IV (Arbor Hydra)",
+     "heroes": [
+      "Serpentemis",
+      "Sleight",
+      "Twitch",
+      "Durango",
+      "Lava Batwing"
+     ],
+     "note": "Hit 14B to 17B+ total damage on simulation runs; creator expects 20B+ at Inspiration 5."
+    }
+   ],
+   "meta_changes": [],
+   "tips": [
+    "Serpentemis scales heavily off Enlightenment and Attack to maximize her derivative poison bursts.",
+    "Put the Mythic helmet Lunar Radiance Helm on Durango to grant him immortality and damage reduction upon fatal damage, keeping him alive long enough to trigger full team skills.",
+    "Skip farming Heretical Ruins and Ancient Battlefield on Challenge Mode as the rewards are not worth the investment."
+   ],
+   "season": "unknown",
+   "server_scope": "mixed",
+   "value": "high",
+   "id": "Jqs7wSn2_p0",
+   "model": "gemini-3.8-flash",
+   "channel": "Skratch Gaming",
+   "title": "The Strongest Team in Dragonheir: Silent Gods x Dragonstride",
+   "published": "2026-09-28T12:00:00+00:00",
+   "url": "https://www.youtube.com/watch?v=Jqs7wSn2_p0",
+   "short": false,
+   "summarized": "2026-11-10T03:22Z"
   },
   {
    "summary": "Neff Gaming addresses members of the Child of Chaos faction during the Nightveil Standoff event, where Order of Reversal is trailing behind Nightsworn Vanguard. He urges players to participate in Magic Chess during its two daily time windows to boost contribution points. Additionally, he explains how creator reputation points are earned, highlighting that watching eligible content accounts for 50% of reputation. He suggests leaving his dedicated YouTube playlist running on mute in the background to help increase the faction's standings.",
@@ -33657,6 +33933,13 @@
     "url": "https://www.youtube.com/watch?v=e1p87KNEq0g"
    },
    {
+    "verdict": "High priority DPS / Inspire 5 target",
+    "note": "A prime target for Inspire 5 to maximize damage output against Continental Challenge bosses.",
+    "date": "2026-09-28",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=JcYr69Bpu40"
+   },
+   {
     "verdict": "Primary Aura damage dealer",
     "note": "Extremely powerful DPS whose damage scales dramatically with high Inspiration levels.",
     "date": "2026-09-28",
@@ -34347,6 +34630,13 @@
     "url": "https://www.youtube.com/watch?v=WEpc_QIKnRM"
    },
    {
+    "verdict": "Solid pickup",
+    "note": "A welcome duplicate pull to enhance his Inspire level.",
+    "date": "2026-09-28",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=JcYr69Bpu40"
+   },
+   {
     "verdict": "Essential frontline for Aura team",
     "note": "Requires Aurellium Vest artifact to prevent the team from getting wiped by the boss's initial burst.",
     "date": "2026-09-28",
@@ -34872,6 +35162,20 @@
     "date": "2026-09-30",
     "channel": "Gorax",
     "url": "https://www.youtube.com/watch?v=ydl2Hi0lAy8"
+   },
+   {
+    "verdict": "Top DPS for Durem",
+    "note": "Serves as the team's core damage dealer, capable of outputting massive damage even at Inspiration 0 while reducing enemy resistance by 35%.",
+    "date": "2026-09-28",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=JdV2F-ncZFI"
+   },
+   {
+    "verdict": "Absolute best AoE / Toxin carry in the game",
+    "note": "Her passive triggers explosive derivative Poison damage whenever poisoned enemies take hit damage, melting waves and bosses instantly even at Inspiration 1.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=Jqs7wSn2_p0"
    },
    {
     "verdict": "Strong Toxin DPS option",
@@ -35949,6 +36253,13 @@
     "url": "https://www.youtube.com/watch?v=ydl2Hi0lAy8"
    },
    {
+    "verdict": "Top sustain support",
+    "note": "Provides consistent healing, shields, and Attack Penalty debuffs, enabling the team to survive Durem's onslaught.",
+    "date": "2026-09-28",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=JdV2F-ncZFI"
+   },
+   {
     "verdict": "Niche pick for Toxin teams",
     "note": "Consider selecting him from the Chaotic Neutral pool if you play Toxin and need inspirations.",
     "date": "2026-09-28",
@@ -36201,6 +36512,13 @@
     "date": "2026-10-07",
     "channel": "liveranov",
     "url": "https://www.youtube.com/watch?v=rwe-Dd4l8ps"
+   },
+   {
+    "verdict": "Core Toxin team partner",
+    "note": "Provides passive synergy that accelerates poison procs alongside Serpentemis.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=Jqs7wSn2_p0"
    },
    {
     "verdict": "Toxin enabler",
@@ -36583,6 +36901,20 @@
     "date": "2026-09-30",
     "channel": "Gorax",
     "url": "https://www.youtube.com/watch?v=ydl2Hi0lAy8"
+   },
+   {
+    "verdict": "Crucial utility sub-DPS",
+    "note": "Requires near 100% Crit Rate to cycle ultimate energy and apply Toxins, functioning as the team's Puppeteer's Inspiration activator.",
+    "date": "2026-09-28",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=JdV2F-ncZFI"
+   },
+   {
+    "verdict": "Insanely good for wave-clearing and dungeon speedruns",
+    "note": "His passive triggers instant multi-target attacks and poison applications at battle start, but falls off in Temporal Vortex boss fights.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=Jqs7wSn2_p0"
    },
    {
     "verdict": "Great Toxin character",
@@ -38874,6 +39206,20 @@
     "url": "https://www.youtube.com/watch?v=ydl2Hi0lAy8"
    },
    {
+    "verdict": "Strong secondary Toxin DPS",
+    "note": "Applies high stacks of Toxin; excels when equipped with Iluya's Fang to offset low base infliction chances.",
+    "date": "2026-09-28",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=JdV2F-ncZFI"
+   },
+   {
+    "verdict": "Essential single-target and boss-oriented Toxin enabler",
+    "note": "Applies consistent poison stacks needed to constantly trigger Serpentemis's damage in boss content like Temporal Vortex.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=Jqs7wSn2_p0"
+   },
+   {
     "verdict": "Budget Toxin substitute",
     "note": "Can replace Lothair if unavailable, maintaining around 5.6 billion damage.",
     "date": "2026-09-28",
@@ -39744,6 +40090,13 @@
     "date": "2026-10-07",
     "channel": "Skratch Gaming",
     "url": "https://www.youtube.com/watch?v=zlkDqeP9Des"
+   },
+   {
+    "verdict": "Essential cleanser and healer",
+    "note": "Paired with Oggok for survivability, cleansing Attack Penalty right before damage windows to maximize Toxin procs.",
+    "date": "2026-09-28",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=JdV2F-ncZFI"
    },
    {
     "verdict": "Toxin survival support",
@@ -43684,6 +44037,13 @@
     "url": "https://www.youtube.com/watch?v=xW7fJsl5GJM"
    },
    {
+    "verdict": "Top Ice Blast damage dealer",
+    "note": "Essential piece for upgrading single-target Ice Blast compositions.",
+    "date": "2026-09-28",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=JcYr69Bpu40"
+   },
+   {
     "verdict": "Core stats buffer and tank",
     "note": "Shares attributes with team members and provides essential team survival and stats.",
     "date": "2026-09-28",
@@ -45715,6 +46075,13 @@
     "url": "https://www.youtube.com/watch?v=zlkDqeP9Des"
    },
    {
+    "verdict": "Powercrept / Arena-only",
+    "note": "Used to be top tier for Arena, but has fallen off and offers little value in modern PvE content if an account has alternatives like Felosia or Feenja.",
+    "date": "2026-09-28",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=JcYr69Bpu40"
+   },
+   {
     "verdict": "skip banner",
     "note": "No longer widely used outside of niche PvP, offering a great window to save dice for Wish Summons.",
     "date": "2026-09-28",
@@ -45856,6 +46223,13 @@
     "date": "2026-10-07",
     "channel": "Gorax",
     "url": "https://www.youtube.com/watch?v=kmI10_fvl-c"
+   },
+   {
+    "verdict": "Decent Toxin option",
+    "note": "Usable poison unit, though not quite at the top tier of synergy.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=Jqs7wSn2_p0"
    },
    {
     "verdict": "Niche DPS",
@@ -46323,6 +46697,13 @@
     "date": "2026-10-07",
     "channel": "Gorax",
     "url": "https://www.youtube.com/watch?v=kmI10_fvl-c"
+   },
+   {
+    "verdict": "Not recommended for this synergy",
+    "note": "Focuses on Thorny Poison, which functions differently and does not supply the standard Toxin ticks this team requires.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=Jqs7wSn2_p0"
    },
    {
     "verdict": "Great Poison DPS",
@@ -46805,6 +47186,22 @@
     "date": "2026-09-30",
     "channel": "Gorax",
     "url": "https://www.youtube.com/watch?v=ydl2Hi0lAy8"
+   }
+  ],
+  "Zhorak": [
+   {
+    "verdict": "Replaced in optimal Ice Blast lineups",
+    "note": "Loses his slot in end-game Ice Blast teams once you run Fredegonda, Shinnah, Beldelle, Ernesto, and a required support.",
+    "date": "2026-09-28",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=JcYr69Bpu40"
+   },
+   {
+    "verdict": "Ice Blast core hero",
+    "note": "Determines whether Starlight Stoneborn or Starshade Servitor is best for Ice Blast teams.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=shuBe80QMA4"
    }
   ],
   "Jenka": [
@@ -47360,15 +47757,6 @@
     "date": "2026-09-28",
     "channel": "Skyasterix Gaming",
     "url": "https://www.youtube.com/watch?v=rDHctaOAVEA"
-   }
-  ],
-  "Zhorak": [
-   {
-    "verdict": "Ice Blast core hero",
-    "note": "Determines whether Starlight Stoneborn or Starshade Servitor is best for Ice Blast teams.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=shuBe80QMA4"
    }
   ],
   "Severio": [
