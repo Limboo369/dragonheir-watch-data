@@ -1,0 +1,70 @@
+{
+ "summary": "Liveranov showcases a high-performing Toxin team strategy against the Continental Challenge boss Durem, achieving over 714 million damage. The video provides battle footage, hero builds, recommended gear attributes, artifact options, and complete ultimate skill timing setups.",
+ "topics": [
+  "Continental Challenge",
+  "Durem",
+  "Toxin Team",
+  "Skill Timing"
+ ],
+ "heroes": [
+  {
+   "name": "Serpentemis",
+   "verdict": "Toxin DPS / Support",
+   "note": "Build full Enlightenment and Attack; can equip support artifacts if Lothair is your primary DPS.",
+   "known": true
+  },
+  {
+   "name": "Sleight",
+   "verdict": "Toxin DPS",
+   "note": "Build full Attack.",
+   "known": true
+  },
+  {
+   "name": "Reytah",
+   "verdict": "Toxin Debuffer",
+   "note": "Build full Accuracy and HP.",
+   "known": true
+  },
+  {
+   "name": "Lothair",
+   "verdict": "Toxin DPS",
+   "note": "Build full Enlightenment and Attack.",
+   "known": true
+  },
+  {
+   "name": "Child of Chaos",
+   "verdict": "Tank / Support",
+   "note": "Equip with the Puppeteer set focusing on defensive stats.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Continental Challenge",
+   "heroes": [
+    "Serpentemis",
+    "Sleight",
+    "Reytah",
+    "Lothair",
+    "Child of Chaos"
+   ],
+   "note": "Toxin team configuration scoring 714M+ damage against boss Durem."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Equip Child of Chaos with the Puppeteer set and defensive stats for high boss survival.",
+  "If Lothair has higher inspiration than Serpentemis, switch Serpentemis to a supportive artifact to boost Lothair's damage output."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "Hb1nVIAgoTE",
+ "model": "gemini-3.5-flash",
+ "channel": "liveranov",
+ "title": "Toxin vs Durem | Continental Challenge | Season 8 | Dragonheir",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=Hb1nVIAgoTE",
+ "short": false,
+ "summarized": "2026-11-10T05:17Z"
+}

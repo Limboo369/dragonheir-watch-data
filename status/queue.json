@@ -1,5 +1,5 @@
 {
- "built": "2026-11-10T04:59Z",
+ "built": "2026-11-10T05:18Z",
  "videos": [
   {
    "id": "IPIbglFr7r0",
@@ -29,16 +29,6 @@
    "status": "retry",
    "priority": false,
    "duration_s": 1493,
-   "error": ""
-  },
-  {
-   "id": "Hb1nVIAgoTE",
-   "title": "Toxin vs Durem | Continental Challenge | Season 8 | Dragonheir",
-   "channel": "liveranov",
-   "published": "2026-09-28T12:00:00+00:00",
-   "status": "retry",
-   "priority": false,
-   "duration_s": 264,
    "error": ""
   },
   {
@@ -76,7 +66,7 @@
    "title": "These Heroes Are Getting A Big Damage Boost!! New Artifacts Dragonheir: Silent Gods x Dragonstride",
    "channel": "Skratch Gaming",
    "published": "2026-09-28T12:00:00+00:00",
-   "status": "new",
+   "status": "retry",
    "priority": false,
    "duration_s": 853,
    "error": ""
@@ -86,7 +76,7 @@
    "title": "I Spent 2,750 Dice on Inspiration 5... Don't Do This! | Dragonheir: Silent Gods x Dragonstride",
    "channel": "Neff Gaming",
    "published": "2026-09-28T12:00:00+00:00",
-   "status": "new",
+   "status": "retry",
    "priority": false,
    "duration_s": 2022,
    "error": ""
@@ -96,7 +86,7 @@
    "title": "Toxin Team (UPDATED) vs Fire Guardians | Crown Contest | Dragonheir | Season 8",
    "channel": "liveranov",
    "published": "2026-09-28T12:00:00+00:00",
-   "status": "new",
+   "status": "retry",
    "priority": false,
    "duration_s": 212,
    "error": ""

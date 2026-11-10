@@ -1,5 +1,5 @@
 {
- "built": "2026-11-10T04:59Z",
+ "built": "2026-11-10T05:18Z",
  "videos": [
   {
    "summary": "Suzi conducts a massive summon session on the returning Radiant Wings banner featuring Anneliesis with her daughter Lily. She discusses Anneliesis's summon value, noting she has not been available in over a year and is a very unique hero worth acquiring. She analyzes Anneliesis's inspiration levels, highlighting that I1 through I3 provide huge value, whereas pushing to I5 is unnecessary for most players because the buff does not stack with heroes like Holfast. Ultimately, she recommends players aim for I3 at most and stop there.",
@@ -19741,6 +19741,76 @@
    "summarized": "2026-11-03T01:23Z"
   },
   {
+   "summary": "Liveranov showcases a high-performing Toxin team strategy against the Continental Challenge boss Durem, achieving over 714 million damage. The video provides battle footage, hero builds, recommended gear attributes, artifact options, and complete ultimate skill timing setups.",
+   "topics": [
+    "Continental Challenge",
+    "Durem",
+    "Toxin Team",
+    "Skill Timing"
+   ],
+   "heroes": [
+    {
+     "name": "Serpentemis",
+     "verdict": "Toxin DPS / Support",
+     "note": "Build full Enlightenment and Attack; can equip support artifacts if Lothair is your primary DPS.",
+     "known": true
+    },
+    {
+     "name": "Sleight",
+     "verdict": "Toxin DPS",
+     "note": "Build full Attack.",
+     "known": true
+    },
+    {
+     "name": "Reytah",
+     "verdict": "Toxin Debuffer",
+     "note": "Build full Accuracy and HP.",
+     "known": true
+    },
+    {
+     "name": "Lothair",
+     "verdict": "Toxin DPS",
+     "note": "Build full Enlightenment and Attack.",
+     "known": true
+    },
+    {
+     "name": "Child of Chaos",
+     "verdict": "Tank / Support",
+     "note": "Equip with the Puppeteer set focusing on defensive stats.",
+     "known": true
+    }
+   ],
+   "teams": [
+    {
+     "mode": "Continental Challenge",
+     "heroes": [
+      "Serpentemis",
+      "Sleight",
+      "Reytah",
+      "Lothair",
+      "Child of Chaos"
+     ],
+     "note": "Toxin team configuration scoring 714M+ damage against boss Durem."
+    }
+   ],
+   "meta_changes": [],
+   "tips": [
+    "Equip Child of Chaos with the Puppeteer set and defensive stats for high boss survival.",
+    "If Lothair has higher inspiration than Serpentemis, switch Serpentemis to a supportive artifact to boost Lothair's damage output."
+   ],
+   "season": "S8",
+   "server_scope": "S9",
+   "value": "medium",
+   "id": "Hb1nVIAgoTE",
+   "model": "gemini-3.5-flash",
+   "channel": "liveranov",
+   "title": "Toxin vs Durem | Continental Challenge | Season 8 | Dragonheir",
+   "published": "2026-09-28T12:00:00+00:00",
+   "url": "https://www.youtube.com/watch?v=Hb1nVIAgoTE",
+   "short": false,
+   "summarized": "2026-11-10T05:17Z"
+  },
+  {
    "summary": "Gorax introduces the 3rd Anniversary Two Faction War event featuring Dark Lady versus Child of Chaos. He announces his choice of the Dark Lady faction and urges viewers to bind with him as a God Envoy. The video explains the three-step participation process: picking a faction, binding one God Envoy and one Preacher, and staying active in game. It details how Reputation is earned through view count, daily in-game activity caps, spending, and binding completion, along with player multipliers. Finally, it outlines the prize pools for both winning and losing factions, including physical collectibles, Wymarrow, Starweave, and Heliolite Dice.",
    "topics": [
     "3rd Anniversary Event",
@@ -35164,6 +35234,13 @@
     "url": "https://www.youtube.com/watch?v=ydl2Hi0lAy8"
    },
    {
+    "verdict": "Toxin DPS / Support",
+    "note": "Build full Enlightenment and Attack; can equip support artifacts if Lothair is your primary DPS.",
+    "date": "2026-09-28",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=Hb1nVIAgoTE"
+   },
+   {
     "verdict": "Top DPS for Durem",
     "note": "Serves as the team's core damage dealer, capable of outputting massive damage even at Inspiration 0 while reducing enemy resistance by 35%.",
     "date": "2026-09-28",
@@ -35801,6 +35878,13 @@
     "date": "2026-09-30",
     "channel": "Gorax",
     "url": "https://www.youtube.com/watch?v=ydl2Hi0lAy8"
+   },
+   {
+    "verdict": "Tank / Support",
+    "note": "Equip with the Puppeteer set focusing on defensive stats.",
+    "date": "2026-09-28",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=Hb1nVIAgoTE"
    },
    {
     "verdict": "Top tier lead for Toxin and Dauntless teams",
@@ -36512,6 +36596,13 @@
     "date": "2026-10-07",
     "channel": "liveranov",
     "url": "https://www.youtube.com/watch?v=rwe-Dd4l8ps"
+   },
+   {
+    "verdict": "Toxin DPS",
+    "note": "Build full Attack.",
+    "date": "2026-09-28",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=Hb1nVIAgoTE"
    },
    {
     "verdict": "Core Toxin team partner",
@@ -38917,6 +39008,13 @@
     "url": "https://www.youtube.com/watch?v=ydl2Hi0lAy8"
    },
    {
+    "verdict": "Toxin DPS",
+    "note": "Build full Enlightenment and Attack.",
+    "date": "2026-09-28",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=Hb1nVIAgoTE"
+   },
+   {
     "verdict": "Primary DPS for high damage Toxin team",
     "note": "Drives Toxin team damage up to nearly 8 billion when paired with Child of Chaos.",
     "date": "2026-09-28",
@@ -40090,6 +40188,13 @@
     "date": "2026-10-07",
     "channel": "Skratch Gaming",
     "url": "https://www.youtube.com/watch?v=zlkDqeP9Des"
+   },
+   {
+    "verdict": "Toxin Debuffer",
+    "note": "Build full Accuracy and HP.",
+    "date": "2026-09-28",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=Hb1nVIAgoTE"
    },
    {
     "verdict": "Essential cleanser and healer",

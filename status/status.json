@@ -1,14 +1,14 @@
 {
- "built": "2026-11-10T04:59Z",
- "last_fetch": "2026-11-10T04:17Z",
+ "built": "2026-11-10T05:18Z",
+ "last_fetch": "2026-11-10T05:17Z",
  "counts": {
-  "summarized": 428,
+  "summarized": 429,
   "skipped_giveaway": 17,
   "baseline": 22,
-  "new": 209,
+  "new": 206,
   "skipped_live": 1,
   "failed": 3,
-  "retry": 7
+  "retry": 9
  },
  "problems": [
   {
@@ -16,6 +16,12 @@
    "channel": "liveranov",
    "status": "failed",
    "error": "Expecting value: line 1 column 1 (char 0)"
+  },
+  {
+   "title": "These Heroes Are Getting A Big Damage Boost!! New Artifacts Dragonheir: Silent Gods x Dragonstride",
+   "channel": "Skratch Gaming",
+   "status": "retry",
+   "error": ""
   },
   {
    "title": "Day 8 Huge Upgrade! Puppeteer Set Changes Your Teams | Beginner Series | Dragonheir x Dragonstride",
@@ -42,6 +48,12 @@
    "error": ""
   },
   {
+   "title": "I Spent 2,750 Dice on Inspiration 5... Don't Do This! | Dragonheir: Silent Gods x Dragonstride",
+   "channel": "Neff Gaming",
+   "status": "retry",
+   "error": ""
+  },
+  {
    "title": "300 Reversal Summons! Here’s What I Got | Dragonheir: Silent Gods x Dragonstride",
    "channel": "Neff Gaming",
    "status": "retry",
@@ -54,7 +66,7 @@
    "error": ""
   },
   {
-   "title": "Toxin vs Durem | Continental Challenge | Season 8 | Dragonheir",
+   "title": "Toxin Team (UPDATED) vs Fire Guardians | Crown Contest | Dragonheir | Season 8",
    "channel": "liveranov",
    "status": "retry",
    "error": ""
@@ -74,47 +86,11 @@
  ],
  "budget": {
   "day": "2026-11-10",
-  "seconds": 18296,
+  "seconds": 18560,
   "v2": 1,
-  "quota_hit": 1794280714.7988608
+  "quota_hit": 1794287928.9310265
  },
  "log_tail": [
-  "… Skratch Gaming: GET BIG DAMAGE! My Temporal Vortex Team | Dragonheir: Silent",
-  "saved KmSNUMhqu7A",
-  "+ Suzi Plays: My CODE & MORE HELIOLITE! 🧡 QUIZ PROMO CODE #9 🎁 3rd Anniver",
-  "… Skratch Gaming: USE These Teams For The Crown Contest! Dragonheir: Silent Go",
-  "saved KypMuG9CP_I",
-  "+ Gorax: All 6 Bosses & Mechanics You NEED to Know | Continental Chal",
-  "… Neff Gaming: A Critical Message for Child of Chaos Faction: How We Turn T",
-  "saved LHU2IlO1Goo (unknown hero names: Labaoer)",
-  "+ Skyasterix Gaming: CHILD OF SCAM?! 😱 My WORST Summons EVER! | Dragonheir: Silen",
-  "… Skratch Gaming: The Strongest Team in Dragonheir: Silent Gods x Dragonstride",
-  "saved K2nfz4G_H-w",
-  "+ Neff Gaming: A Critical Message for Child of Chaos Faction: How We Turn T",
-  "… OddOneGaming RPGs: 🚨 Serpentemis Still ROCKS! 🚨 Toxin vs Durem CC Boss S8 GUIDE",
-  "… OddOneGaming RPGs: 💥 NO WAY!  💥I Pulled 2 NEW Premiums While Chasing Talethia i",
-  "saved Kednd9zRcJ8",
-  "+ Skratch Gaming: USE These Teams For The Crown Contest! Dragonheir: Silent Go",
-  "saved KhU12r5-B1E (unknown hero names: Jenka)",
-  "+ Skratch Gaming: GET BIG DAMAGE! My Temporal Vortex Team | Dragonheir: Silent",
-  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
-  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
-  "… Neff Gaming: BEST Burn Setup vs Boss Joyce! | Season 8 Continental Challe",
-  "! The Strongest Team in Dragonheir: Silent Gods x Dr: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
-  "! BEST Burn Setup vs Boss Joyce! | Season 8 Continen: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
-  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
-  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
-  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
-  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
-  "! 🚨 Serpentemis Still ROCKS! 🚨 Toxin vs Durem CC Bos: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
-  "! 💥 NO WAY!  💥I Pulled 2 NEW Premiums While Chasing : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
-  "saved LOIzIR-Nk8g",
-  "+ Skyasterix Gaming: ⚠️ Child of Chaos is COMING - Fantastic Teaser! 🔥 | Dragonhe",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 423 videos, 228 heroes",
-  "== 2026-11-10 02:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "Gemini quota was full less than an hour ago, trying again next round",
   "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 423 videos, 228 heroes",
   "== 2026-11-10 03:17",
   "fetch done: 0 new transcripts, 0 not available yet",
@@ -158,7 +134,43 @@
   "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "Gemini quota was full less than an hour ago, trying again next round",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 428 videos, 228 heroes"
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 428 videos, 228 heroes",
+  "== 2026-11-10 05:17",
+  "fetch done: 0 new transcripts, 0 not available yet",
+  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
+  "… Gorax: Day 8 Huge Upgrade! Puppeteer Set Changes Your Teams | Begin",
+  "… Neff Gaming: Season 9 COMES with 4 NEW Exclusive Artifacts! | Dragonheir:",
+  "… Gorax: Durem - THE BEST Teams & Strategy | Continental Challenge | ",
+  "… liveranov: Toxin vs Durem | Continental Challenge | Season 8 | Dragonhe",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "… Neff Gaming: 300 Reversal Summons! Here’s What I Got | Dragonheir: Silent",
+  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
+  "saved Hb1nVIAgoTE",
+  "+ liveranov: Toxin vs Durem | Continental Challenge | Season 8 | Dragonhe",
+  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
+  "… Skyasterix Gaming: 👉S9 FOUR New Heroes ARTIFACTS  | Dragonheir: Silent Gods",
+  "! 300 Reversal Summons! Here’s What I Got | Dragonhe: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+  "… Gorax: Iola - THE BEST Teams & Strategy | Continental Challenge | D",
+  "! 👉S9 FOUR New Heroes ARTIFACTS  | Dragonheir: Silen: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+  "… Skratch Gaming: These Heroes Are Getting A Big Damage Boost!! New Artifacts ",
+  "! Iola - THE BEST Teams & Strategy | Continental Cha: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+  "… Neff Gaming: I Spent 2,750 Dice on Inspiration 5... Don't Do This! | Drag",
+  "! These Heroes Are Getting A Big Damage Boost!! New : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+  "… liveranov: Toxin Team (UPDATED) vs Fire Guardians | Crown Contest | Dra",
+  "! I Spent 2,750 Dice on Inspiration 5... Don't Do Th: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+  "! Toxin Team (UPDATED) vs Fire Guardians | Crown Con: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
+  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
+  "! Durem - THE BEST Teams & Strategy | Continental Ch: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
+  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
+  "! Season 9 COMES with 4 NEW Exclusive Artifacts! | D: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
+  "! Day 8 Huge Upgrade! Puppeteer Set Changes Your Tea: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g"
  ],
  "crontab": [],
  "channels": [
@@ -166,55 +178,55 @@
    "name": "Skratch Gaming",
    "id": "UCoSkzr1pXpt3d0jIxsc6ufw",
    "enabled": true,
-   "checked": "2026-11-10T04:17Z"
+   "checked": "2026-11-10T05:17Z"
   },
   {
    "name": "Gorax",
    "id": "UCNas7BnuOIjDEzY1D53kb1w",
    "enabled": true,
-   "checked": "2026-11-10T04:17Z"
+   "checked": "2026-11-10T05:17Z"
   },
   {
    "name": "Neff Gaming",
    "id": "UCsxs6YhNd_B36RgUAjbpJ_A",
    "enabled": true,
-   "checked": "2026-11-10T04:17Z"
+   "checked": "2026-11-10T05:17Z"
   },
   {
    "name": "Volkin Dragonheir",
    "id": "UCfRpOh_ywVjzhh9fxHbreGw",
    "enabled": true,
-   "checked": "2026-11-10T04:17Z"
+   "checked": "2026-11-10T05:17Z"
   },
   {
    "name": "Fastidious Dragonheir",
    "id": "UC16mpj5wEemSZX-uTlHe9Ww",
    "enabled": true,
-   "checked": "2026-11-10T04:17Z"
+   "checked": "2026-11-10T05:17Z"
   },
   {
    "name": "OddOneGaming RPGs",
    "id": "UC1ivUEf_poI9_R2eVKa8wRQ",
    "enabled": true,
-   "checked": "2026-11-10T04:17Z"
+   "checked": "2026-11-10T05:17Z"
   },
   {
    "name": "Suzi Plays",
    "id": "UCyo1-TkunhGcK6khU1h8Ypw",
    "enabled": true,
-   "checked": "2026-11-10T04:17Z"
+   "checked": "2026-11-10T05:17Z"
   },
   {
    "name": "Skyasterix Gaming",
    "id": "UCr5Gb3910rK7QPmKMmdagsA",
    "enabled": true,
-   "checked": "2026-11-10T04:17Z"
+   "checked": "2026-11-10T05:17Z"
   },
   {
    "name": "liveranov",
    "id": "UCqCR7ofFHhWwXy3Hg00fqEw",
    "enabled": true,
-   "checked": "2026-11-10T04:17Z"
+   "checked": "2026-11-10T05:17Z"
   }
  ]
 }
