@@ -1,0 +1,140 @@
+{
+ "summary": "A guide for the Continental Challenge boss Durem, covering boss mechanics, optimal team lineups, gear requirements, and skill timings across different Inspiration levels. The boss features an AoE battle against three Durems where hero HP above 90% grants 25% Enlightenment damage, while HP below 90% grants 25% Crit Damage. Debuffs on Durem reduce boss damage output by 3% per stack up to 5 stacks. Two primary team compositions are detailed: a high-performing Toxin team led by Lothair and a Corrosion crit team centered around Rook and Szecedith.",
+ "topics": [
+  "Continental Challenge",
+  "Durem",
+  "Toxin Team",
+  "Corrosion Team",
+  "Boss Guide"
+ ],
+ "heroes": [
+  {
+   "name": "Lothair",
+   "verdict": "Top DPS for Toxin team against Durem",
+   "note": "Deals massive AoE damage scaling with Enlightenment and Attack; requires 10-11 Skill Haste to sync skill rotations.",
+   "known": true
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "Core sub-DPS and buffer",
+   "note": "Provides debuffs and damage; builds with Golden Antlers artifact for team survivability and extra healing.",
+   "known": true
+  },
+  {
+   "name": "Sleight",
+   "verdict": "Essential Toxin support",
+   "note": "Shares Attack with the primary DPS and applies derivative damage debuffs.",
+   "known": true
+  },
+  {
+   "name": "Sacredeia",
+   "verdict": "Top tier support for Toxin and Corrosion teams",
+   "note": "Inflicts Poison Vulnerability and provides team-wide offense and defense via Angelic Alliance artifact and Puppeteer set.",
+   "known": true
+  },
+  {
+   "name": "Reytah",
+   "verdict": "Core debuffer and healer",
+   "note": "Requires high Accuracy and 40+ Skill Haste to maintain debuffs and stack healing.",
+   "known": true
+  },
+  {
+   "name": "Rook",
+   "verdict": "Primary DPS for Corrosion team",
+   "note": "Scales purely with 100% Crit Rate and Crit Damage while ignoring Attack stats.",
+   "known": true
+  },
+  {
+   "name": "Szecedith",
+   "verdict": "High-value Corrosion DPS",
+   "note": "Requires 100% Crit Rate, high Attack, and Crit Damage to maximize damage conversion.",
+   "known": true
+  },
+  {
+   "name": "Alarick",
+   "verdict": "Excellent survival support for Durem",
+   "note": "Requires Inspiration 2 to target all 3 Durem bosses, stealing ultimate energy and reducing boss damage.",
+   "known": true
+  },
+  {
+   "name": "Oggok",
+   "verdict": "Budget replacement for Reytah",
+   "note": "Provides immortality and strong healing to keep teams alive longer at the cost of total DPS output.",
+   "known": true
+  },
+  {
+   "name": "Journ",
+   "verdict": "Alternative support buffer",
+   "note": "Grants extra Skill Haste and Attack sharing to allies when Alarick is unavailable.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Continental Challenge - Durem",
+   "heroes": [
+    "Lothair",
+    "Serpentemis",
+    "Sleight",
+    "Sacredeia",
+    "Reytah"
+   ],
+   "note": "Optimal Toxin team capable of dealing over 2.5 billion damage at Inspiration 5 and over 500 million at Inspiration 0."
+  },
+  {
+   "mode": "Continental Challenge - Durem",
+   "heroes": [
+    "Rook",
+    "Szecedith",
+    "Sacredeia",
+    "Reytah",
+    "Alarick"
+   ],
+   "note": "Corrosion team leveraging Durem's low HP crit damage buff mechanic, reaching 1+ billion damage at high Inspiration."
+  },
+  {
+   "mode": "Continental Challenge - Durem",
+   "heroes": [
+    "Rook",
+    "Szecedith",
+    "Sacredeia",
+    "Reytah",
+    "Journ"
+   ],
+   "note": "Alternative Corrosion lineup using Journ for skill haste sharing when Alarick is not present."
+  },
+  {
+   "mode": "Continental Challenge - Durem",
+   "heroes": [
+    "Serpentemis",
+    "Sacredeia",
+    "Durango",
+    "Twitch",
+    "Oggok"
+   ],
+   "note": "Budget Toxin alternative team for players missing Lothair, Sleight, or Reytah."
+  }
+ ],
+ "meta_changes": [
+  "Toxin teams utilizing Lothair outperform traditional Serpentemis carry setups against Durem.",
+  "Corrosion teams benefit significantly from keeping hero HP below 90% during skill casts to gain Durem's 25% Crit Damage bonus."
+ ],
+ "tips": [
+  "Stack up to 5 unique debuffs on Durem to reduce boss damage output by up to 15%.",
+  "Build hero defensive stats and extra healing to ensure survival across the full battle timer before maxing out offensive stats.",
+  "For Lothair, aim for at least 10 to 11 Skill Haste to maintain optimal skill rotation timings.",
+  "For Reytah, prioritize triple or double Skill Haste runes to reach 40+ Skill Haste.",
+  "Ensure Rook and Szecedith reach 100% Crit Rate when running Corrosion teams."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "HqVIrNsj0jg",
+ "model": "gemini-3.5-flash",
+ "channel": "Gorax",
+ "title": "Durem - THE BEST Teams & Strategy | Continental Challenge | Dragonheir x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=HqVIrNsj0jg",
+ "short": false,
+ "summarized": "2026-11-10T07:19Z"
+}

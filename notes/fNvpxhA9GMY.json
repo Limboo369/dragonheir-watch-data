@@ -1,0 +1,77 @@
+{
+ "summary": "Gorax showcases the updated end-game Aura team for Temporal Vortex featuring new heroes Annelisis and Holfast. The video details hero builds, artifact options, positioning, alternate support choices, and exact 18-second skill timing rotations. Replacing Lincos with Holfast allows Aura teams to reach over 10 billion damage, outperforming top-tier Toxin teams in single-target bosses.",
+ "topics": [
+  "Temporal Vortex",
+  "Aura Team",
+  "Holfast",
+  "Annelisis",
+  "Team Build",
+  "Skill Timing"
+ ],
+ "heroes": [
+  {
+   "name": "Annelisis",
+   "verdict": "Essential Aura buffer and sub-DPS",
+   "note": "Enhances Aura allies, dispels buffs, and boosts overall team damage; build with high HP for survival in Temporal Vortex.",
+   "known": false
+  },
+  {
+   "name": "Holfast",
+   "verdict": "Top pick Aura enabler",
+   "note": "Replaces Lincos in Aura lineups, providing passive Aura energy gain and teamwide damage buffs even at Inspiration 0.",
+   "known": true
+  },
+  {
+   "name": "Talethia",
+   "verdict": "Core Aura DPS",
+   "note": "Primary damage dealer built with maximum HP, Crit Rate, and Crit Damage using mythic gear and Golden Alarm.",
+   "known": true
+  },
+  {
+   "name": "Diantha",
+   "verdict": "Secondary Aura DPS",
+   "note": "Provides secondary damage and utility; build with accuracy, crit stats, and HP.",
+   "known": true
+  },
+  {
+   "name": "Solmo",
+   "verdict": "Top Radiance defensive support",
+   "note": "Provides persistent shields and damage reduction using Puppeteer set and Aurelium Vest.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Temporal Vortex",
+   "heroes": [
+    "Talethia",
+    "Annelisis",
+    "Holfast",
+    "Diantha",
+    "Solmo"
+   ],
+   "note": "End-game Aura team capable of dealing over 10 billion damage using an 18-second skill rotation."
+  }
+ ],
+ "meta_changes": [
+  "Holfast replaces Lincos as the best Aura buffer/enabler, outperforming Lincos even at low inspiration levels.",
+  "Aura teams now surpass high-inspiration Toxin teams in single-target damage output like Temporal Vortex."
+ ],
+ "tips": [
+  "Position Annelisis behind Talethia in season deployment layout.",
+  "Build maximum HP on Annelisis to balance target priority and keep Talethia alive longer.",
+  "Use an 18-second recast cycle for the entire team, starting pet skills 2 seconds before Talethia.",
+  "If Solmo is unavailable, substitute with other Radiance supports like Rena, Ardreth, Gillian, or Acilia."
+ ],
+ "season": "S9",
+ "server_scope": "mixed",
+ "value": "high",
+ "id": "fNvpxhA9GMY",
+ "model": "gemini-3.5-flash",
+ "channel": "Gorax",
+ "title": "Annelisis + Holfast Change the Aura Meta! New Team Showcase | Dragonheir x Dragonstride",
+ "published": "2026-11-10T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=fNvpxhA9GMY",
+ "short": false,
+ "summarized": "2026-11-10T07:19Z"
+}

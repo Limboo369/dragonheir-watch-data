@@ -1,0 +1,84 @@
+{
+ "summary": "Gorax covers Day 8 progression, highlighting the massive impact of the 3-piece Puppeteer gear set on team rotations. Equipping Puppeteer set allows mono-element Toxin teams to reduce ultimate recast timing from 20 seconds to 18 seconds, boosting Temporal Vortex damage by nearly 100 million. He also details Golden Bell Shop priorities, dungeon stamina allocation, and the importance of Realmwide Arena Affinity Solvent rewards for Psychicore progression.",
+ "topics": [
+  "Puppeteer Set",
+  "Temporal Vortex",
+  "Toxin Team",
+  "Golden Bell Shop",
+  "Psychicore",
+  "Realmwide Arena",
+  "Fallen Shadow Spire"
+ ],
+ "heroes": [
+  {
+   "name": "Divine Ascetic",
+   "verdict": "Skip / Low priority",
+   "note": "Not recommended to invest in, and his signature artifact Kui Crown in the Golden Bell Shop should be skipped.",
+   "known": true
+  },
+  {
+   "name": "Twitch",
+   "verdict": "Core Toxin DPS / Puppeteer Carrier",
+   "note": "Carries the 3-piece Puppeteer set to grant ultimate energy to poison allies and accelerate team rotation to 18s.",
+   "known": true
+  },
+  {
+   "name": "Oggok",
+   "verdict": "Essential Support",
+   "note": "Kept on a 20-second ultimate recast cycle to remain synchronized with the boss's 20-second skill rotation.",
+   "known": true
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "Top Toxin DPS",
+   "note": "High damage dealer in Toxin setups for Temporal Vortex, dungeon clears, and speed runs.",
+   "known": true
+  },
+  {
+   "name": "Ergander",
+   "verdict": "Top Arena Defense Tank",
+   "note": "Extremely annoying PvP tank featuring invincibility, defense aura, and attack penalty.",
+   "known": true
+  },
+  {
+   "name": "Halramar",
+   "verdict": "Strong PvP Tank",
+   "note": "Frequently paired with Reytah in high-ranking Grand Gladiator Arena defense lineups.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Temporal Vortex / Fallen Shadow Spire / Grave of Curse",
+   "heroes": [
+    "Durango",
+    "Serpentemis",
+    "Twitch",
+    "Deeno",
+    "Oggok"
+   ],
+   "note": "Core Toxin team using 3-piece Puppeteer set on Twitch to run an 18s recast rotation for DPS heroes while keeping Oggok at 20s to sync with boss skill timing."
+  }
+ ],
+ "meta_changes": [
+  "3-piece Puppeteer set reduces team skill rotations from 20 seconds to 18 seconds for same-element allies, leading to massive DPS increases across PvE content."
+ ],
+ "tips": [
+  "Equip a 3-piece Puppeteer set on one unit to grant 10% ultimate energy to allies of the same element, enabling an 18-second recast cycle.",
+  "Do not spend stamina heavily on equipment dungeons on Day 8; prioritize farming Talent domains to prepare for higher stage unlocks.",
+  "Skip the Kui Crown artifact in Golden Bell Shop and prioritize buying Master Pages and Legendary Soul Fragments instead.",
+  "Compete in Realmwide Arena for Affinity Solvent rewards to unlock higher Psychicore nodes, such as the 20% Elemental Damage Bonus.",
+  "For Once More Unto Finale of Plagues weekly challenge, use your weaker team on Stage 1 and your stronger team on Stage 2 as heroes can only be used once per reset."
+ ],
+ "season": "S1",
+ "server_scope": "S1",
+ "value": "high",
+ "id": "IPIbglFr7r0",
+ "model": "gemini-3.6-flash",
+ "channel": "Gorax",
+ "title": "Day 8 Huge Upgrade! Puppeteer Set Changes Your Teams | Beginner Series | Dragonheir x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=IPIbglFr7r0",
+ "short": false,
+ "summarized": "2026-11-10T07:20Z"
+}

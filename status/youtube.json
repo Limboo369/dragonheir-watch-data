@@ -1,6 +1,83 @@
 {
- "built": "2026-11-10T06:50Z",
+ "built": "2026-11-10T07:20Z",
  "videos": [
+  {
+   "summary": "Gorax showcases the updated end-game Aura team for Temporal Vortex featuring new heroes Annelisis and Holfast. The video details hero builds, artifact options, positioning, alternate support choices, and exact 18-second skill timing rotations. Replacing Lincos with Holfast allows Aura teams to reach over 10 billion damage, outperforming top-tier Toxin teams in single-target bosses.",
+   "topics": [
+    "Temporal Vortex",
+    "Aura Team",
+    "Holfast",
+    "Annelisis",
+    "Team Build",
+    "Skill Timing"
+   ],
+   "heroes": [
+    {
+     "name": "Annelisis",
+     "verdict": "Essential Aura buffer and sub-DPS",
+     "note": "Enhances Aura allies, dispels buffs, and boosts overall team damage; build with high HP for survival in Temporal Vortex.",
+     "known": false
+    },
+    {
+     "name": "Holfast",
+     "verdict": "Top pick Aura enabler",
+     "note": "Replaces Lincos in Aura lineups, providing passive Aura energy gain and teamwide damage buffs even at Inspiration 0.",
+     "known": true
+    },
+    {
+     "name": "Talethia",
+     "verdict": "Core Aura DPS",
+     "note": "Primary damage dealer built with maximum HP, Crit Rate, and Crit Damage using mythic gear and Golden Alarm.",
+     "known": true
+    },
+    {
+     "name": "Diantha",
+     "verdict": "Secondary Aura DPS",
+     "note": "Provides secondary damage and utility; build with accuracy, crit stats, and HP.",
+     "known": true
+    },
+    {
+     "name": "Solmo",
+     "verdict": "Top Radiance defensive support",
+     "note": "Provides persistent shields and damage reduction using Puppeteer set and Aurelium Vest.",
+     "known": true
+    }
+   ],
+   "teams": [
+    {
+     "mode": "Temporal Vortex",
+     "heroes": [
+      "Talethia",
+      "Annelisis",
+      "Holfast",
+      "Diantha",
+      "Solmo"
+     ],
+     "note": "End-game Aura team capable of dealing over 10 billion damage using an 18-second skill rotation."
+    }
+   ],
+   "meta_changes": [
+    "Holfast replaces Lincos as the best Aura buffer/enabler, outperforming Lincos even at low inspiration levels.",
+    "Aura teams now surpass high-inspiration Toxin teams in single-target damage output like Temporal Vortex."
+   ],
+   "tips": [
+    "Position Annelisis behind Talethia in season deployment layout.",
+    "Build maximum HP on Annelisis to balance target priority and keep Talethia alive longer.",
+    "Use an 18-second recast cycle for the entire team, starting pet skills 2 seconds before Talethia.",
+    "If Solmo is unavailable, substitute with other Radiance supports like Rena, Ardreth, Gillian, or Acilia."
+   ],
+   "season": "S9",
+   "server_scope": "mixed",
+   "value": "high",
+   "id": "fNvpxhA9GMY",
+   "model": "gemini-3.5-flash",
+   "channel": "Gorax",
+   "title": "Annelisis + Holfast Change the Aura Meta! New Team Showcase | Dragonheir x Dragonstride",
+   "published": "2026-11-10T12:00:00+00:00",
+   "url": "https://www.youtube.com/watch?v=fNvpxhA9GMY",
+   "short": false,
+   "summarized": "2026-11-10T07:19Z"
+  },
   {
    "summary": "Suzi conducts a massive summon session on the returning Radiant Wings banner featuring Anneliesis with her daughter Lily. She discusses Anneliesis's summon value, noting she has not been available in over a year and is a very unique hero worth acquiring. She analyzes Anneliesis's inspiration levels, highlighting that I1 through I3 provide huge value, whereas pushing to I5 is unnecessary for most players because the buff does not stack with heroes like Holfast. Ultimately, she recommends players aim for I3 at most and stop there.",
    "topics": [
@@ -19811,6 +19888,230 @@
    "summarized": "2026-11-10T05:17Z"
   },
   {
+   "summary": "A guide for the Continental Challenge boss Durem, covering boss mechanics, optimal team lineups, gear requirements, and skill timings across different Inspiration levels. The boss features an AoE battle against three Durems where hero HP above 90% grants 25% Enlightenment damage, while HP below 90% grants 25% Crit Damage. Debuffs on Durem reduce boss damage output by 3% per stack up to 5 stacks. Two primary team compositions are detailed: a high-performing Toxin team led by Lothair and a Corrosion crit team centered around Rook and Szecedith.",
+   "topics": [
+    "Continental Challenge",
+    "Durem",
+    "Toxin Team",
+    "Corrosion Team",
+    "Boss Guide"
+   ],
+   "heroes": [
+    {
+     "name": "Lothair",
+     "verdict": "Top DPS for Toxin team against Durem",
+     "note": "Deals massive AoE damage scaling with Enlightenment and Attack; requires 10-11 Skill Haste to sync skill rotations.",
+     "known": true
+    },
+    {
+     "name": "Serpentemis",
+     "verdict": "Core sub-DPS and buffer",
+     "note": "Provides debuffs and damage; builds with Golden Antlers artifact for team survivability and extra healing.",
+     "known": true
+    },
+    {
+     "name": "Sleight",
+     "verdict": "Essential Toxin support",
+     "note": "Shares Attack with the primary DPS and applies derivative damage debuffs.",
+     "known": true
+    },
+    {
+     "name": "Sacredeia",
+     "verdict": "Top tier support for Toxin and Corrosion teams",
+     "note": "Inflicts Poison Vulnerability and provides team-wide offense and defense via Angelic Alliance artifact and Puppeteer set.",
+     "known": true
+    },
+    {
+     "name": "Reytah",
+     "verdict": "Core debuffer and healer",
+     "note": "Requires high Accuracy and 40+ Skill Haste to maintain debuffs and stack healing.",
+     "known": true
+    },
+    {
+     "name": "Rook",
+     "verdict": "Primary DPS for Corrosion team",
+     "note": "Scales purely with 100% Crit Rate and Crit Damage while ignoring Attack stats.",
+     "known": true
+    },
+    {
+     "name": "Szecedith",
+     "verdict": "High-value Corrosion DPS",
+     "note": "Requires 100% Crit Rate, high Attack, and Crit Damage to maximize damage conversion.",
+     "known": true
+    },
+    {
+     "name": "Alarick",
+     "verdict": "Excellent survival support for Durem",
+     "note": "Requires Inspiration 2 to target all 3 Durem bosses, stealing ultimate energy and reducing boss damage.",
+     "known": true
+    },
+    {
+     "name": "Oggok",
+     "verdict": "Budget replacement for Reytah",
+     "note": "Provides immortality and strong healing to keep teams alive longer at the cost of total DPS output.",
+     "known": true
+    },
+    {
+     "name": "Journ",
+     "verdict": "Alternative support buffer",
+     "note": "Grants extra Skill Haste and Attack sharing to allies when Alarick is unavailable.",
+     "known": true
+    }
+   ],
+   "teams": [
+    {
+     "mode": "Continental Challenge - Durem",
+     "heroes": [
+      "Lothair",
+      "Serpentemis",
+      "Sleight",
+      "Sacredeia",
+      "Reytah"
+     ],
+     "note": "Optimal Toxin team capable of dealing over 2.5 billion damage at Inspiration 5 and over 500 million at Inspiration 0."
+    },
+    {
+     "mode": "Continental Challenge - Durem",
+     "heroes": [
+      "Rook",
+      "Szecedith",
+      "Sacredeia",
+      "Reytah",
+      "Alarick"
+     ],
+     "note": "Corrosion team leveraging Durem's low HP crit damage buff mechanic, reaching 1+ billion damage at high Inspiration."
+    },
+    {
+     "mode": "Continental Challenge - Durem",
+     "heroes": [
+      "Rook",
+      "Szecedith",
+      "Sacredeia",
+      "Reytah",
+      "Journ"
+     ],
+     "note": "Alternative Corrosion lineup using Journ for skill haste sharing when Alarick is not present."
+    },
+    {
+     "mode": "Continental Challenge - Durem",
+     "heroes": [
+      "Serpentemis",
+      "Sacredeia",
+      "Durango",
+      "Twitch",
+      "Oggok"
+     ],
+     "note": "Budget Toxin alternative team for players missing Lothair, Sleight, or Reytah."
+    }
+   ],
+   "meta_changes": [
+    "Toxin teams utilizing Lothair outperform traditional Serpentemis carry setups against Durem.",
+    "Corrosion teams benefit significantly from keeping hero HP below 90% during skill casts to gain Durem's 25% Crit Damage bonus."
+   ],
+   "tips": [
+    "Stack up to 5 unique debuffs on Durem to reduce boss damage output by up to 15%.",
+    "Build hero defensive stats and extra healing to ensure survival across the full battle timer before maxing out offensive stats.",
+    "For Lothair, aim for at least 10 to 11 Skill Haste to maintain optimal skill rotation timings.",
+    "For Reytah, prioritize triple or double Skill Haste runes to reach 40+ Skill Haste.",
+    "Ensure Rook and Szecedith reach 100% Crit Rate when running Corrosion teams."
+   ],
+   "season": "S9",
+   "server_scope": "S9",
+   "value": "high",
+   "id": "HqVIrNsj0jg",
+   "model": "gemini-3.5-flash",
+   "channel": "Gorax",
+   "title": "Durem - THE BEST Teams & Strategy | Continental Challenge | Dragonheir x Dragonstride",
+   "published": "2026-09-28T12:00:00+00:00",
+   "url": "https://www.youtube.com/watch?v=HqVIrNsj0jg",
+   "short": false,
+   "summarized": "2026-11-10T07:19Z"
+  },
+  {
+   "summary": "Gorax covers Day 8 progression, highlighting the massive impact of the 3-piece Puppeteer gear set on team rotations. Equipping Puppeteer set allows mono-element Toxin teams to reduce ultimate recast timing from 20 seconds to 18 seconds, boosting Temporal Vortex damage by nearly 100 million. He also details Golden Bell Shop priorities, dungeon stamina allocation, and the importance of Realmwide Arena Affinity Solvent rewards for Psychicore progression.",
+   "topics": [
+    "Puppeteer Set",
+    "Temporal Vortex",
+    "Toxin Team",
+    "Golden Bell Shop",
+    "Psychicore",
+    "Realmwide Arena",
+    "Fallen Shadow Spire"
+   ],
+   "heroes": [
+    {
+     "name": "Divine Ascetic",
+     "verdict": "Skip / Low priority",
+     "note": "Not recommended to invest in, and his signature artifact Kui Crown in the Golden Bell Shop should be skipped.",
+     "known": true
+    },
+    {
+     "name": "Twitch",
+     "verdict": "Core Toxin DPS / Puppeteer Carrier",
+     "note": "Carries the 3-piece Puppeteer set to grant ultimate energy to poison allies and accelerate team rotation to 18s.",
+     "known": true
+    },
+    {
+     "name": "Oggok",
+     "verdict": "Essential Support",
+     "note": "Kept on a 20-second ultimate recast cycle to remain synchronized with the boss's 20-second skill rotation.",
+     "known": true
+    },
+    {
+     "name": "Serpentemis",
+     "verdict": "Top Toxin DPS",
+     "note": "High damage dealer in Toxin setups for Temporal Vortex, dungeon clears, and speed runs.",
+     "known": true
+    },
+    {
+     "name": "Ergander",
+     "verdict": "Top Arena Defense Tank",
+     "note": "Extremely annoying PvP tank featuring invincibility, defense aura, and attack penalty.",
+     "known": true
+    },
+    {
+     "name": "Halramar",
+     "verdict": "Strong PvP Tank",
+     "note": "Frequently paired with Reytah in high-ranking Grand Gladiator Arena defense lineups.",
+     "known": true
+    }
+   ],
+   "teams": [
+    {
+     "mode": "Temporal Vortex / Fallen Shadow Spire / Grave of Curse",
+     "heroes": [
+      "Durango",
+      "Serpentemis",
+      "Twitch",
+      "Deeno",
+      "Oggok"
+     ],
+     "note": "Core Toxin team using 3-piece Puppeteer set on Twitch to run an 18s recast rotation for DPS heroes while keeping Oggok at 20s to sync with boss skill timing."
+    }
+   ],
+   "meta_changes": [
+    "3-piece Puppeteer set reduces team skill rotations from 20 seconds to 18 seconds for same-element allies, leading to massive DPS increases across PvE content."
+   ],
+   "tips": [
+    "Equip a 3-piece Puppeteer set on one unit to grant 10% ultimate energy to allies of the same element, enabling an 18-second recast cycle.",
+    "Do not spend stamina heavily on equipment dungeons on Day 8; prioritize farming Talent domains to prepare for higher stage unlocks.",
+    "Skip the Kui Crown artifact in Golden Bell Shop and prioritize buying Master Pages and Legendary Soul Fragments instead.",
+    "Compete in Realmwide Arena for Affinity Solvent rewards to unlock higher Psychicore nodes, such as the 20% Elemental Damage Bonus.",
+    "For Once More Unto Finale of Plagues weekly challenge, use your weaker team on Stage 1 and your stronger team on Stage 2 as heroes can only be used once per reset."
+   ],
+   "season": "S1",
+   "server_scope": "S1",
+   "value": "high",
+   "id": "IPIbglFr7r0",
+   "model": "gemini-3.6-flash",
+   "channel": "Gorax",
+   "title": "Day 8 Huge Upgrade! Puppeteer Set Changes Your Teams | Beginner Series | Dragonheir x Dragonstride",
+   "published": "2026-09-28T12:00:00+00:00",
+   "url": "https://www.youtube.com/watch?v=IPIbglFr7r0",
+   "short": false,
+   "summarized": "2026-11-10T07:20Z"
+  },
+  {
    "summary": "Gorax introduces the 3rd Anniversary Two Faction War event featuring Dark Lady versus Child of Chaos. He announces his choice of the Dark Lady faction and urges viewers to bind with him as a God Envoy. The video explains the three-step participation process: picking a faction, binding one God Envoy and one Preacher, and staying active in game. It details how Reputation is earned through view count, daily in-game activity caps, spending, and binding completion, along with player multipliers. Finally, it outlines the prize pools for both winning and losing factions, including physical collectibles, Wymarrow, Starweave, and Heliolite Dice.",
    "topics": [
     "3rd Anniversary Event",
@@ -32126,716 +32427,23 @@
   }
  ],
  "heroes": {
-  "Anneliesis": [
+  "Annelisis": [
    {
-    "verdict": "Must-pull, stop at Inspiration 3 (I3)",
-    "note": "A rare and unique hero whose I1, I2, and I3 provide massive power spikes, while I5 only adds raw stats and overlapping buffs that do not stack with Holfast.",
-    "date": "2026-11-09",
-    "channel": "Suzi Plays",
-    "url": "https://www.youtube.com/watch?v=UtZmF-8dKVw"
-   },
-   {
-    "verdict": "Top Radiant Support",
-    "note": "Positioned behind Talethia to boost and protect her while providing debuffs and sustain.",
-    "date": "2026-11-09",
+    "verdict": "Essential Aura buffer and sub-DPS",
+    "note": "Enhances Aura allies, dispels buffs, and boosts overall team damage; build with high HP for survival in Temporal Vortex.",
+    "date": "2026-11-10",
     "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=pgksOlyG-E8"
-   },
-   {
-    "verdict": "Must-pull for Aura teams (aim for I3)",
-    "note": "Essential core for Aura teams; reaching Inspiration 3 grants all allies 10% Max HP and 10% bonus damage at the start of battle.",
-    "date": "2026-11-08",
-    "channel": "Skyasterix Gaming",
-    "url": "https://www.youtube.com/watch?v=bQnIUA0HuMY"
-   },
-   {
-    "verdict": "Primary healer",
-    "note": "Provided 87% of the team's healing holding Golden Antlers with nearly 100k HP.",
-    "date": "2026-11-08",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/watch?v=vC9dRFEYD4A"
-   },
-   {
-    "verdict": "Aura support",
-    "note": "Provides possess control and Radiant/Aura team support.",
-    "date": "2026-11-08",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/watch?v=UaQD1-RL_OU"
-   },
-   {
-    "verdict": "Must-have legend",
-    "note": "High priority hero for summons, recommended to pursue up to Inspiration 3.",
-    "date": "2026-11-08",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=vonwUUqCne4"
-   },
-   {
-    "verdict": "Must-have top tier support hero",
-    "note": "Provides healing, shields, stuns, debuff/buff dispels, aura energy generation, and stat boosts to front-line allies.",
-    "date": "2026-11-08",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/shorts/cmiJeXMr108"
-   },
-   {
-    "verdict": "Must pull",
-    "note": "Top priority exclusive support hero alongside Child of Chaos who will not enter the standard summon pool after her banner ends.",
-    "date": "2026-11-08",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=RjpnhQCQO30"
-   },
-   {
-    "verdict": "Must-have / Highest priority support",
-    "note": "Top support in the game who boosts damage, grants 20% Ultimate Energy at battle start, shields, strips buffs, and provides CC across all modes; optimal sweet spot is Inspiration 3.",
-    "date": "2026-11-08",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=RQs1H4k4_tk"
-   },
-   {
-    "verdict": "Must-summon top tier support",
-    "note": "Provides cleanse, buff dispel, crowd control, shields, heals, and Aura energy generation, though she does not deal high personal damage.",
-    "date": "2026-11-08",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=CFXDo-Psx7g"
-   },
-   {
-    "verdict": "High-value Inspiration 2 target",
-    "note": "Her Inspiration 2 enables allies with a shield to deal +10% damage and expands her battle skill shield to cover the entire team.",
-    "date": "2026-11-08",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/watch?v=Gd2mJ34vOvI"
-   },
-   {
-    "verdict": "Build to Inspiration 3; push to Inspiration 5 only for Magic Chess",
-    "note": "Her Inspiration 5 30% Damage Up buff does not stack with the identical 30% buffs from Lincos or Holfast.",
-    "date": "2026-11-08",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=YFI7cbkrmv8"
-   },
-   {
-    "verdict": "Must-have core support for Aura",
-    "note": "Replaces an existing support in Aura teams to drastically boost Talethia and overall team output; Inspiration 3 provides a 30% teamwide damage buff.",
-    "date": "2026-11-08",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=WI8NEyeWbO0"
-   },
-   {
-    "verdict": "Top teammate",
-    "note": "Restores 30 Aura Energy to Radiance heroes with her battle skill, accelerating Holfast's passive engine.",
-    "date": "2026-11-07",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/watch?v=wVYgz2Rvkro"
-   },
-   {
-    "verdict": "Key opening buffer",
-    "note": "Possesses Thelendor at battle start to grant him +20% Max HP, +20% damage, and +20 Ultimate Energy.",
-    "date": "2026-11-07",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/watch?v=JqB1po_4ZgM"
-   },
-   {
-    "verdict": "Key Aura healer and shielder",
-    "note": "Requires high HP chest gear to maintain survival and consistent shields for the Aura squad.",
-    "date": "2026-11-06",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=b9L3kRlw8vU"
-   },
-   {
-    "verdict": "Essential Aura support",
-    "note": "Geared with the Secrecy set, accuracy, skill haste, and Golden Antlers for optimal buffing.",
-    "date": "2026-11-06",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=M1l8V-XyEvs"
-   },
-   {
-    "verdict": "Core Aura buffer and damage enabler",
-    "note": "Enhances Aura allies and provides strong control and crowd support.",
-    "date": "2026-11-05",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=5hS240x9cFc"
-   },
-   {
-    "verdict": "Upcoming banner hero",
-    "note": "Featured in an upcoming S9 summon banner.",
-    "date": "2026-11-04",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/shorts/dzP-TL4G0Is"
-   },
-   {
-    "verdict": "Cornerstone of Aura teams",
-    "note": "Shields allies, boosts offensive performance, and increases both team damage and survival.",
-    "date": "2026-11-04",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/shorts/zFOeZDFv0Q8"
-   },
-   {
-    "verdict": "Essential Radiance Support",
-    "note": "Provides team-wide shields, healing, buff stripping, and energy generation while boosting the bonded main DPS.",
-    "date": "2026-11-04",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/watch?v=gk6u8e-zwLg"
-   },
-   {
-    "verdict": "Core Radiance DPS",
-    "note": "Built for high Radiance damage using the Elite's Key artifact.",
-    "date": "2026-11-03",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/shorts/iyc1c1lve5o"
-   },
-   {
-    "verdict": "Essential speedrun support",
-    "note": "Positioned behind Nissa to grant crucial skill recharge speed.",
-    "date": "2026-11-03",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/shorts/bhu8a6lCUDY"
-   },
-   {
-    "verdict": "wait for banner before committing gear",
-    "note": "Her upcoming exclusive banner will determine whether investing in Aura mythic gear is worth prioritizing over Dauntless.",
-    "date": "2026-11-03",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=YTSkf8whQbM"
-   },
-   {
-    "verdict": "High priority savings target",
-    "note": "Recommended as a key banner hero to save 300 summons for.",
-    "date": "2026-11-03",
-    "channel": "Suzi Plays",
-    "url": "https://www.youtube.com/watch?v=F96DH9xeYnw"
-   },
-   {
-    "verdict": "Top damage buffer",
-    "note": "Provides team-wide damage boosts using Ascendant's Key and Golden Antlers.",
-    "date": "2026-11-03",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/watch?v=jRdl34i5jqs"
-   },
-   {
-    "verdict": "Main healer",
-    "note": "Handled nearly 90% of team healing, geared with over 67k HP, 235 Resistance, and Golden Antlers.",
-    "date": "2026-11-01",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/watch?v=-OuAUscqGVw"
-   },
-   {
-    "verdict": "Save Heliolite Dice for rerun",
-    "note": "Recommended as the primary upcoming target to pull for when her banner returns in mid-November.",
-    "date": "2026-11-01",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=G8YVnlncNMo"
-   },
-   {
-    "verdict": "Core Aura healer & buffer",
-    "note": "Builds Moonlight's Grace, Devout Prayer, and Solar King's Horn for massive team-wide offensive buffs.",
-    "date": "2026-11-01",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=O28V9w5PJdA"
-   },
-   {
-    "verdict": "Save summons for upcoming banner",
-    "note": "Scheduled to return on November 8th, making this spending event a prime way to hoard resources beforehand.",
-    "date": "2026-11-01",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=oeExx0bLKOE"
-   },
-   {
-    "verdict": "Must-pull / arguably best hero in the game",
-    "note": "Ultra-premium Radiance unit whose limited banner requires saving up to 300 summons.",
-    "date": "2026-10-31",
-    "channel": "Fastidious Dragonheir",
-    "url": "https://www.youtube.com/watch?v=wM0sFqru6M4"
-   },
-   {
-    "verdict": "Save resources for",
-    "note": "Target hero to save summon resources for on future banners.",
-    "date": "2026-10-31",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=k5r_YS0v7fU"
-   },
-   {
-    "verdict": "Must-have limited support",
-    "note": "An outstanding Radiant support hero returning in early November; highly recommended to save 300 summons to guarantee her.",
-    "date": "2026-10-31",
-    "channel": "Volkin Dragonheir",
-    "url": "https://www.youtube.com/watch?v=r6R18doSyz8"
-   },
-   {
-    "verdict": "Core dungeon offensive buffer",
-    "note": "Enhances ally output and heavily boosts Talethia to melt dungeon bosses quickly.",
-    "date": "2026-10-30",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/shorts/1m_XUtCo3Jo"
-   },
-   {
-    "verdict": "Core Radiance ultimate battery",
-    "note": "Feeds ultimate energy directly to Talethia through her passive mechanics.",
-    "date": "2026-10-30",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=j2FsBiDB1ak"
-   },
-   {
-    "verdict": "Anticipated upcoming hero",
-    "note": "Mentioned as an upcoming hero to prepare resources and summons for.",
-    "date": "2026-10-29",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=QY6-x79h2QE"
-   },
-   {
-    "verdict": "Aura Healer and Buffer",
-    "note": "Uses Sacred River set to provide essential healing and damage buffs for the Aura lineup.",
-    "date": "2026-10-28",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=AdMJvbFJWS0"
-   },
-   {
-    "verdict": "Great Aura support",
-    "note": "Provides supportive utility positioned behind Talethia in the Aura setup.",
-    "date": "2026-10-28",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=Lagk5772OdM"
-   },
-   {
-    "verdict": "Top solo support for Mekkatorque",
-    "note": "Provides enough shielding and sustain to solo heal the team while boosting overall damage output.",
-    "date": "2026-10-28",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=PBPVabwsqG0"
-   },
-   {
-    "verdict": "Essential Radiance Dispeller",
-    "note": "Requires 260 Accuracy to strip boss buffs and keep the team rotation from drifting.",
-    "date": "2026-10-28",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/watch?v=urx_maL6O6s"
-   },
-   {
-    "verdict": "Must-pull hero",
-    "note": "Top priority hero to summon when her banner returns in early November if you do not already have her.",
-    "date": "2026-10-27",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=yhryGv6s8nU"
-   },
-   {
-    "verdict": "Recommended Aura support",
-    "note": "Deployed directly behind Talethia in the Fallen Shadow Spire Aura team setup.",
-    "date": "2026-10-27",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/shorts/mScAHcDJmSI"
-   },
-   {
-    "verdict": "Key Aura buffer",
-    "note": "Equipped with Solar King's Horn or Angelic Alliance to boost overall team damage output.",
-    "date": "2026-10-27",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=uRyYXuQ6suI"
-   },
-   {
-    "verdict": "Must-pull top priority",
-    "note": "A limited hero providing huge HP, ultimate energy, and damage buffs to bonded allies; extremely versatile across PvE, PvP, and Magicless Chess.",
-    "date": "2026-10-27",
-    "channel": "Volkin Dragonheir",
-    "url": "https://www.youtube.com/watch?v=vWWBqHvwtro"
-   },
-   {
-    "verdict": "Must-pull S9 Radiance hero worth saving for",
-    "note": "Radiance damage dealer with extremely powerful inspiration nodes; saving around 2,000 pulls is recommended to get max copies.",
-    "date": "2026-10-27",
-    "channel": "Suzi Plays",
-    "url": "https://www.youtube.com/watch?v=-QV5EZT6kXI"
-   },
-   {
-    "verdict": "Must-pull top tier hero",
-    "note": "Returns November 8th; brings crowd control, state manipulation, and team buffs via Possess.",
-    "date": "2026-10-26",
-    "channel": "Fastidious Dragonheir",
-    "url": "https://www.youtube.com/watch?v=VZJeo9_euaw"
-   },
-   {
-    "verdict": "Premier energy buffer for Vinyara",
-    "note": "Boosts Vinyara's initial energy; can be swapped for Sagomir if Vinyara is deployed first.",
-    "date": "2026-10-26",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=UNE3t_LurBA"
-   },
-   {
-    "verdict": "Essential Radiance support",
-    "note": "Built with Sacred River's Revelation set pieces to grant damage reduction when healing or shielding.",
-    "date": "2026-10-26",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=ZTBevjYvrOo"
-   },
-   {
-    "verdict": "Support / Buffer",
-    "note": "Buffs Vinyara and supports the overall team flow.",
-    "date": "2026-10-25",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/shorts/nrlNlI82CIM"
-   },
-   {
-    "verdict": "Fragile Radiance DPS",
-    "note": "Deals heavy damage but suffers from very low base defense, requiring defensive sets like Verdant Breath Cowl to avoid boss targeting.",
-    "date": "2026-10-25",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=MzK7B1nM5ys"
-   },
-   {
-    "verdict": "Must-summon priority",
-    "note": "Featured on the upcoming Radiant Wings banner after more than a year; players should save to grab at least one or two copies.",
-    "date": "2026-10-24",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=TNNyYpFXHdA"
-   },
-   {
-    "verdict": "High-priority rerun to save for",
-    "note": "Confirmed to return on a rerun banner in November without an exclusive artifact.",
-    "date": "2026-10-24",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=hEve9odLIs8"
-   },
-   {
-    "verdict": "high priority limited unit",
-    "note": "A powerful limited-time Aura core hero arriving on banner who provides strong crowd control and state manipulation.",
-    "date": "2026-10-24",
-    "channel": "Suzi Plays",
-    "url": "https://www.youtube.com/watch?v=scDahdyomBc"
-   },
-   {
-    "verdict": "Must-save priority",
-    "note": "Top-tier enabler for Aura teams who gains massive value across her inspirations (especially I2, I3, and I5); returning in a banner on November 8th.",
-    "date": "2026-10-24",
-    "channel": "Suzi Plays",
-    "url": "https://www.youtube.com/watch?v=xoS9KUTB3Is"
-   },
-   {
-    "verdict": "Top priority summon target",
-    "note": "Bonds with a main damage dealer at start of battle to grant 20% Max HP, 20% Damage Bonus, and 20% Ultimate Energy.",
-    "date": "2026-10-24",
-    "channel": "Volkin Dragonheir",
-    "url": "https://www.youtube.com/watch?v=riHiHpJVtjY"
-   },
-   {
-    "verdict": "High-priority limited summon",
-    "note": "A limited hero arriving on November 8th worth saving summons to acquire.",
-    "date": "2026-10-23",
-    "channel": "Suzi Plays",
-    "url": "https://www.youtube.com/watch?v=-i_pyccY6L8"
-   },
-   {
-    "verdict": "Must-have versatile support and DPS",
-    "note": "Possesses an ally for immediate stat boosts, then descends to deliver heavy AOE control, purges, cleanses, and heals.",
-    "date": "2026-10-23",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/watch?v=EZe7SqG0EUE"
-   },
-   {
-    "verdict": "Must-save target",
-    "note": "Limited Aura hero confirmed to arrive on banner on November 8th for both Season 9 and Season 1 servers.",
-    "date": "2026-10-23",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=_mr028hQasE"
-   },
-   {
-    "verdict": "Priority save target",
-    "note": "Advised holding onto summons and Heliolite dice for her anticipated banner arrival in early November.",
-    "date": "2026-10-23",
-    "channel": "Skyasterix Gaming",
-    "url": "https://www.youtube.com/watch?v=oTOLrbXN0T4"
-   },
-   {
-    "verdict": "Potential rerun hero",
-    "note": "Rumored to be returning in a video/banner very soon.",
-    "date": "2026-10-22",
-    "channel": "Fastidious Dragonheir",
-    "url": "https://www.youtube.com/watch?v=k73hjQA6h1M"
-   },
-   {
-    "verdict": "Must-have S-tier overall support",
-    "note": "Provides possess buffs to bonded allies, full-board knockup/stun, complete buff removal, full debuff cleansing, shields, and massive healing scaling off target HP.",
-    "date": "2026-10-22",
-    "channel": "Fastidious Dragonheir",
-    "url": "https://www.youtube.com/watch?v=P0FQYqP34Xk"
-   },
-   {
-    "verdict": "Essential Aura support",
-    "note": "Equipped with Solar King's Horn artifact and stacked with HP% gear pieces.",
-    "date": "2026-10-19",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=Z46YlrpnOfc"
-   },
-   {
-    "verdict": "Must-save priority target",
-    "note": "Key Radiant Aura damage dealer expected to return soon, making resource management critical between current banners and her rerun.",
-    "date": "2026-10-18",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=j4_0OuYJeHU"
-   },
-   {
-    "verdict": "Core Aura Support / Debuffer",
-    "note": "Requires 60+ Skill Haste to ensure ultimate aligns with the 15-second team rotation; built with Titan Rib artifact, Secrecy Order set, and Wildsand Devotion.",
-    "date": "2026-10-17",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=Zzd5qAz5B9E"
-   },
-   {
-    "verdict": "Core Aura enabler",
-    "note": "Essential member of the Aura roster whose banner is expected to return around November.",
-    "date": "2026-10-17",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=sQYC7VdWNeE"
-   },
-   {
-    "verdict": "Must-save priority",
-    "note": "Considered vastly more important than standard banner heroes, with an unconfirmed banner expected around December.",
-    "date": "2026-10-14",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=21_BZz5E0XM"
-   },
-   {
-    "verdict": "Key shielder & support",
-    "note": "Provides team shielding and attack buffs built with high Accuracy and HP.",
-    "date": "2026-10-14",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=WEpc_QIKnRM"
-   },
-   {
-    "verdict": "Must-have Aura Support",
-    "note": "Key support for the Aura team whose analysis banner is expected in November.",
-    "date": "2026-10-14",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=ZQS3vb4JuWU"
-   },
-   {
-    "verdict": "Top-tier universal support",
-    "note": "An exclusive Aura support from CN servers who fits into any team and is worth saving 300 summons for if she arrives globally.",
-    "date": "2026-10-14",
-    "channel": "Volkin Dragonheir",
-    "url": "https://www.youtube.com/watch?v=sWDYLD9S2yE"
-   },
-   {
-    "verdict": "Crucial rotation enabler",
-    "note": "Requires Skill Haste above 60 and sufficient Accuracy to maintain team skill timing.",
-    "date": "2026-10-14",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=yzljKIdSKP8"
-   },
-   {
-    "verdict": "Must-pull top priority support",
-    "note": "Provides unmatched utility across all game modes through team HP and damage buffs, energy gain, crowd control, shields, healing, and buff removal.",
-    "date": "2026-10-07",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=8YDjnEZR2as"
-   },
-   {
-    "verdict": "High priority upcoming banner target",
-    "note": "Gorax recommends saving dice specifically for her banner and the upcoming Aura hero banner.",
-    "date": "2026-10-07",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=KXlWLBT9M5w"
-   },
-   {
-    "verdict": "Aura staple",
-    "note": "Placed in the backline with high stat investment to bolster Aura team output.",
-    "date": "2026-10-07",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=VEwv_TEaZkc"
-   },
-   {
-    "verdict": "Aura buffer and support",
-    "note": "Supports the team with a delayed 28.0s first cast ultimate followed by a 17.5s recast cycle.",
-    "date": "2026-10-07",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/watch?v=VMnggAEkhNU"
-   },
-   {
-    "verdict": "Must-have for Aura teams",
-    "note": "Returning on a limited-time banner; highly recommended for Aura teams with several inspirations if possible.",
-    "date": "2026-10-07",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=dff1T986Zg8"
-   },
-   {
-    "verdict": "Core support for Aura team",
-    "note": "Requires exactly 62 Skill Haste for proper rotation, equipped with Secrecy Order set, Golden Antlers, and Wildsand Devotion.",
-    "date": "2026-10-07",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=e3O_XZvWCPo"
-   },
-   {
-    "verdict": "Support buffer in Aura team",
-    "note": "Equipped with Angelic Alliance, Wildsand Devotion, and Secrecy sets; left on default timing with high skill haste.",
-    "date": "2026-10-07",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=gAoX3-kT1mo"
-   },
-   {
-    "verdict": "Core Aura Support",
-    "note": "Provides vital buffs and ultimate alignment for the Aura composition.",
-    "date": "2026-10-07",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/watch?v=ql--QLIbiZQ"
-   },
-   {
-    "verdict": "Core Aura DPS",
-    "note": "Contributes 26.1% of team damage using default skill timing settings.",
-    "date": "2026-10-07",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/watch?v=rideArj4Ug4"
-   },
-   {
-    "verdict": "Aura support",
-    "note": "Provides key buffs and utility for the Aura team against Area Boss 4.",
-    "date": "2026-10-07",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/watch?v=x6LdzqgusYk"
-   },
-   {
-    "verdict": "Must-pull / Ultimate GOAT Aura Support",
-    "note": "She is the most versatile aura support hero in the game, boosting damage, HP, and ultimate energy while providing exceptional control for any composition.",
-    "date": "2026-10-07",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=zlkDqeP9Des"
-   },
-   {
-    "verdict": "Essential Aura dispeller",
-    "note": "Strips Joyce's massive Defense Up and Damage Up buffs; requires high Accuracy stats.",
-    "date": "2026-09-28",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=LowEegAwwJI"
-   },
-   {
-    "verdict": "Cheat code control hero",
-    "note": "Locks down enemy waves with knock-up and stuns while also providing healing, buff removal, and allied debuff cleansing.",
-    "date": "2026-09-28",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=NEVHI1wjARM"
-   },
-   {
-    "verdict": "Core Incandescence speedrun hero",
-    "note": "Provides vital support and synergy for rapid dungeon burst clears.",
-    "date": "2026-09-28",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/watch?v=Nb_6NSFmeT8"
-   },
-   {
-    "verdict": "Top sustain support",
-    "note": "Provides vital shielding, healing, and debuff cleansing to keep the team alive through early burst.",
-    "date": "2026-09-28",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=QunAX6Rsid0"
-   },
-   {
-    "verdict": "Core Aura buffer/support",
-    "note": "Performs at Inspiration 0 when built with around 60 Skill Haste and the Secrecy set to maintain proper buff uptime.",
-    "date": "2026-09-28",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=R4_F3M1Bq7A"
-   },
-   {
-    "verdict": "Aura Tank / Support",
-    "note": "Built with full HP stats to survive and sustain the frontline.",
-    "date": "2026-09-28",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/watch?v=S9ROeJI66hk"
-   },
-   {
-    "verdict": "Essential dispel support",
-    "note": "Equipped with Angelic Alliance to buff the team, timed to cast her ultimate at 17.7s to dispel Joyce's buffs.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=XPwLhWG92qs"
-   },
-   {
-    "verdict": "Example of unique hero design",
-    "note": "Highlighted as a unique Radiant support unit possessing dual element affinity traits.",
-    "date": "2026-09-28",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=_0reOyv5BB0"
-   },
-   {
-    "verdict": "Aura sustain support",
-    "note": "Provides healing and team damage buffs using Moonlight's Grace and Devout Prayer sets; can be substituted with Solmo, Acilia, or Rena.",
-    "date": "2026-09-28",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=em_1Gc-pIuY"
-   },
-   {
-    "verdict": "Core Devitalization hero",
-    "note": "Key component of the Devitalization dungeon speed run team.",
-    "date": "2026-09-28",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/watch?v=euHy0xtygTo"
-   },
-   {
-    "verdict": "Top dispeller for Aura teams",
-    "note": "Cleanses all allied debuffs and strips all enemy buffs with a 100% chance on her ultimate.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=fwiptMwyFNo"
-   },
-   {
-    "verdict": "Core tank/support for Aura team",
-    "note": "Build with maximum HP, Accuracy, and Defense to prevent early team wipes.",
-    "date": "2026-09-28",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=gfSqo_HbDxM"
-   },
-   {
-    "verdict": "Essential cleanser and tank for Aura team",
-    "note": "Built for max HP with Sylvan Refuge and Solar King's Horn to absorb single-target boss execution hits and cleanse debuffs.",
-    "date": "2026-09-28",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=hG8YnV5WAqk"
-   },
-   {
-    "verdict": "Top Support for Joyce",
-    "note": "Dispels the boss's self-buffs (Damage Up & Defense Up) and debuffs while providing team-wide healing and shields.",
-    "date": "2026-09-28",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=lo9KfxUCvfM"
-   },
-   {
-    "verdict": "top tier limited support",
-    "note": "Past limited exclusive support hero who proved essential across almost all game content.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=m_mPa3snJ_Y"
-   },
-   {
-    "verdict": "Core Aura DPS",
-    "note": "Delivers heavy damage in fast Grave of Venom Challenge 6 speed runs.",
-    "date": "2026-09-28",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/watch?v=oMnysr6kbXg"
-   },
-   {
-    "verdict": "Full HP buffer/shielder",
-    "note": "Built with full HP to strengthen team shields and survivability.",
-    "date": "2026-09-28",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/watch?v=oVuyK0yW2TA"
-   },
-   {
-    "verdict": "Struggles in Meander Trial 61-120",
-    "note": "Her debuff-reliant kit and control become useless for the first 60 seconds due to undispellable enemy immunity.",
-    "date": "2026-09-28",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=tuRi0m83stw"
-   },
-   {
-    "verdict": "Top control and healing support",
-    "note": "Provides team healing, debuff clears, and hard crowd control; needs high Skill Haste and Accuracy to spam her ultimate.",
-    "date": "2026-09-28",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=yq_L4gc55vU"
-   },
-   {
-    "verdict": "S Tier Core",
-    "note": "One of two crucial exclusive enablers that make Aura the strongest overall school in the game.",
-    "date": "2026-08-28",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=V2r59itUDMA"
+    "url": "https://www.youtube.com/watch?v=fNvpxhA9GMY"
    }
   ],
   "Holfast": [
+   {
+    "verdict": "Top pick Aura enabler",
+    "note": "Replaces Lincos in Aura lineups, providing passive Aura energy gain and teamwide damage buffs even at Inspiration 0.",
+    "date": "2026-11-10",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=fNvpxhA9GMY"
+   },
    {
     "verdict": "Buff overlap with Anneliesis",
     "note": "Shares a similar non-stacking buff with Anneliesis's max inspiration effects, making I5 Anneliesis redundant when paired with him.",
@@ -33089,415 +32697,14 @@
     "url": "https://www.youtube.com/watch?v=v7j7nvLg6Qg"
    }
   ],
-  "Lincos": [
-   {
-    "verdict": "Replaced by Holfast",
-    "note": "His 30% Damage Up does not stack with Holfast's passive, rendering even an Inspiration 5 copy obsolete in top-tier Aura comps.",
-    "date": "2026-11-09",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=FYVKxkmeNag"
-   },
-   {
-    "verdict": "Budget replacement for Holfast",
-    "note": "Achieves 2.02 billion damage in place of Holfast in the same Crown Contest setup.",
-    "date": "2026-11-08",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/watch?v=vC9dRFEYD4A"
-   },
-   {
-    "verdict": "Outclassed",
-    "note": "Gets replaced in Aura team compositions by newer premium support units.",
-    "date": "2026-11-08",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=RjpnhQCQO30"
-   },
-   {
-    "verdict": "Banner filler",
-    "note": "Common legendary filler pull on standard rerun banners with low current meta value.",
-    "date": "2026-11-08",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=RQs1H4k4_tk"
-   },
-   {
-    "verdict": "Outclassed by Holfast",
-    "note": "Holfast serves as a direct upgrade and replacement for Lincos in high-end Aura compositions.",
-    "date": "2026-11-08",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=CFXDo-Psx7g"
-   },
-   {
-    "verdict": "Solid Aura support and damage dealer",
-    "note": "His ultimate provides a 30% Damage Up buff that does not stack with Holfast's buff or Anneliesis's Inspiration 5.",
-    "date": "2026-11-08",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=YFI7cbkrmv8"
-   },
-   {
-    "verdict": "Outclassed in Aura meta",
-    "note": "Fully replaced by Holfast in primary Aura teams even when heavily invested at Inspiration 5.",
-    "date": "2026-11-08",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=WI8NEyeWbO0"
-   },
-   {
-    "verdict": "Essential Aura buffer",
-    "note": "Equipped with Puppeteer set to maximize attack transfers and energy buffs to Aura damage dealers.",
-    "date": "2026-11-06",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=b9L3kRlw8vU"
-   },
-   {
-    "verdict": "Alternative front-line melee DPS option",
-    "note": "Can replace Rena in speed-clearing dungeons like Ancient Battlefield, though prone to getting stunned at battle start without CC immunity artifacts.",
-    "date": "2026-11-05",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=5hS240x9cFc"
-   },
-   {
-    "verdict": "likely to be replaced",
-    "note": "Expected to be outclassed by the new exclusive Aura banner character even at inspiration level 0.",
-    "date": "2026-11-03",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=YTSkf8whQbM"
-   },
-   {
-    "verdict": "Energy generator for Radiance",
-    "note": "Feeds Aura Energy to the team and applies defense debuffs early when paired with Sagomir.",
-    "date": "2026-11-03",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/watch?v=jRdl34i5jqs"
-   },
-   {
-    "verdict": "Aura energy battery",
-    "note": "Built with over 65k HP, 150 Resistance, and Chest of Radiance to feed Aura energy into the team.",
-    "date": "2026-11-01",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/watch?v=-OuAUscqGVw"
-   },
-   {
-    "verdict": "Risky vs Ice Guardian",
-    "note": "His summoned accompanist feeds the boss permanent Defense Up and Attack Up stacks whenever it dies.",
-    "date": "2026-11-01",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=0ZADnrn_jh0"
-   },
-   {
-    "verdict": "Aura stat-sharer",
-    "note": "Runs Orb of the Dragon God, Whirling Edge, and Everlasting Candleflame to share Attack and Defense with Talethia.",
-    "date": "2026-11-01",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=O28V9w5PJdA"
-   },
-   {
-    "verdict": "Key dungeon DPS",
-    "note": "Acts as secondary Radiance damage dealer powered up by Sagomir's buffs.",
-    "date": "2026-10-30",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/shorts/1m_XUtCo3Jo"
-   },
-   {
-    "verdict": "Core Radiance buffer and debuffer",
-    "note": "Applies defense penalties with Witch's Remains and syncs ultimates alongside Talethia.",
-    "date": "2026-10-30",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=j2FsBiDB1ak"
-   },
-   {
-    "verdict": "Temporary Aura filler",
-    "note": "Avoid investing talent books into him because he will be replaced once upcoming exclusive Aura supports release.",
-    "date": "2026-10-29",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=O9tGozaro1g"
-   },
-   {
-    "verdict": "Temporary Aura Buffer",
-    "note": "Useful for boosting team attack, but advised not to max his talents as he gets replaced quickly.",
-    "date": "2026-10-28",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=AdMJvbFJWS0"
-   },
-   {
-    "verdict": "Key support for Talethia",
-    "note": "Equipped with Everlasting Candleflame to share substantial attack and defense with the main DPS.",
-    "date": "2026-10-28",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=Lagk5772OdM"
-   },
-   {
-    "verdict": "Core Aura support/buffer",
-    "note": "Grants Radiant damage buffs and Aura Energy to the ally with the highest Attack.",
-    "date": "2026-10-28",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=PBPVabwsqG0"
-   },
-   {
-    "verdict": "Recommended Aura hero",
-    "note": "Needs to be positioned close to the deer in the Fallen Shadow Spire fight.",
-    "date": "2026-10-27",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/shorts/mScAHcDJmSI"
-   },
-   {
-    "verdict": "Radiance buffer / support for Grave of Venom",
-    "note": "Built with Golden Antlers to assist the Radiance team in sustaining and buffing damage.",
-    "date": "2026-10-27",
-    "channel": "Suzi Plays",
-    "url": "https://www.youtube.com/watch?v=ikpjPqQhRow"
-   },
-   {
-    "verdict": "Aura buffer and sub-DPS",
-    "note": "Uses Orb of the Dragon God to increase elemental damage and trigger frequent team ultimate cycles.",
-    "date": "2026-10-27",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=uRyYXuQ6suI"
-   },
-   {
-    "verdict": "Replace in high-tier Aura teams",
-    "note": "Does not provide enough survivability or utility for stage 18 domains; replace with an additional support hero.",
-    "date": "2026-10-26",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=bt7j_X7T5HA"
-   },
-   {
-    "verdict": "Flex support option",
-    "note": "Can wear Verdant Crystal for extra shield or be replaced by tanks like Ardreth or Eurion in Grave of Venom.",
-    "date": "2026-10-26",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=UNE3t_LurBA"
-   },
-   {
-    "verdict": "Radiance turn engine",
-    "note": "Equipped with the Puppeteer set to boost team action bar and ultimate energy.",
-    "date": "2026-10-26",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=ZTBevjYvrOo"
-   },
-   {
-    "verdict": "Aura Support",
-    "note": "Generates Aura Energy and grants coordinated attacks/damage buffs.",
-    "date": "2026-10-25",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/shorts/nrlNlI82CIM"
-   },
-   {
-    "verdict": "Potentially replaceable",
-    "note": "Mentioned alongside Tamar as a hero likely to be phased out by the upcoming Aura hero.",
-    "date": "2026-10-24",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=TNNyYpFXHdA"
-   },
-   {
-    "verdict": "Great Aura battery and buffer",
-    "note": "Provides Aura energy and damage buffs that synergize with Anneliesis in pure Aura comps.",
-    "date": "2026-10-22",
-    "channel": "Fastidious Dragonheir",
-    "url": "https://www.youtube.com/watch?v=P0FQYqP34Xk"
-   },
-   {
-    "verdict": "Aura filler support",
-    "note": "Used at Level 59 as a substitute before new hero Holfast becomes available.",
-    "date": "2026-10-19",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=Z46YlrpnOfc"
-   },
-   {
-    "verdict": "Aura Enabler / Support",
-    "note": "Needs 72+ Skill Haste to sustain the 15-second rotation, which may require running two 2-piece Skill Haste sets (Astrologer and Secrecy Order) if rune substats fall short.",
-    "date": "2026-10-17",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=Zzd5qAz5B9E"
-   },
-   {
-    "verdict": "Replaced by Holfast",
-    "note": "His spot in top Aura teams is taken over by Holfast, who beats his I5 output even at I0.",
-    "date": "2026-10-17",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=sQYC7VdWNeE"
-   },
-   {
-    "verdict": "Essential Aura buffer",
-    "note": "Provides a crucial 30% damage boost for 10s to the Aura ally with highest Attack and wears Puppeteer to enable the 18-second rotation.",
-    "date": "2026-10-15",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=SKgs45pKE8I"
-   },
-   {
-    "verdict": "Core debuff reflector & attack buffer",
-    "note": "Built with high Resistance and Prismatic Cloak to reflect boss debuffs while sharing Attack with the team.",
-    "date": "2026-10-14",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=WEpc_QIKnRM"
-   },
-   {
-    "verdict": "Core Aura Pick",
-    "note": "Mandatory Aura damage dealer until replaced by upcoming new season Aura heroes.",
-    "date": "2026-10-14",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=ZQS3vb4JuWU"
-   },
-   {
-    "verdict": "Temporary Aura support",
-    "note": "Functional Aura buffer for now, but will be replaced next season by a new Aura hero that outperforms him even at Inspiration 0.",
-    "date": "2026-10-14",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=soNuRXPx71Y"
-   },
-   {
-    "verdict": "Essential debuffer and attack buffer",
-    "note": "Equipped with Prismatic Cloak to reflect boss debuffs and maximize boss vulnerability.",
-    "date": "2026-10-14",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=yzljKIdSKP8"
-   },
-   {
-    "verdict": "Phasing out",
-    "note": "Older Aura staple that becomes obsolete as new Aura support options arrive.",
-    "date": "2026-10-07",
-    "channel": "Suzi Plays",
-    "url": "https://www.youtube.com/watch?v=SKvUJeFHJIw"
-   },
-   {
-    "verdict": "Core Aura buffer",
-    "note": "Equipped with the Puppetmaster artifact to boost overall team performance.",
-    "date": "2026-10-07",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=VEwv_TEaZkc"
-   },
-   {
-    "verdict": "Aura team support/DPS",
-    "note": "Contributes to the synchronized burst rotation with an 11.5s initial skill timing.",
-    "date": "2026-10-07",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/watch?v=VMnggAEkhNU"
-   },
-   {
-    "verdict": "Attack buffer in Aura team",
-    "note": "Uses Puppeteer set to maximize shared attack bonus to team damage dealers.",
-    "date": "2026-10-07",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=gAoX3-kT1mo"
-   },
-   {
-    "verdict": "Solid Aura Utility Support",
-    "note": "Helps maintain optimal skill cycles and team survival.",
-    "date": "2026-10-07",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/watch?v=ql--QLIbiZQ"
-   },
-   {
-    "verdict": "Core Support",
-    "note": "Buffers team skill rotation and utility to maximize Aura synergy.",
-    "date": "2026-10-07",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/watch?v=rideArj4Ug4"
-   },
-   {
-    "verdict": "Aura support",
-    "note": "Enables team synergy and supports overall team damage output.",
-    "date": "2026-10-07",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/watch?v=x6LdzqgusYk"
-   },
-   {
-    "verdict": "Outclassed in Aura meta",
-    "note": "Replaced by Folvarst who provides significantly higher team damage output even at lower inspiration ranks.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=LoshJITl5VE"
-   },
-   {
-    "verdict": "Core Aura summoner DPS",
-    "note": "Built with Puppeteer set or Vortex Illusion HP% pieces to maximize damage Output.",
-    "date": "2026-09-28",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=LowEegAwwJI"
-   },
-   {
-    "verdict": "Essential Incandescence enabler",
-    "note": "Facilitates fast ultimate cycles for high-speed boss clears.",
-    "date": "2026-09-28",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/watch?v=Nb_6NSFmeT8"
-   },
-   {
-    "verdict": "Key offensive support",
-    "note": "Buffs Talethia's damage output while carrying Ascendant's Key and the Puppeteer's Inspiration gear set.",
-    "date": "2026-09-28",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=QunAX6Rsid0"
-   },
-   {
-    "verdict": "Top Aura damage dealer",
-    "note": "Built with Puppeteer set and stacked Attack, dealing approximately 1.8 billion damage in the encounter.",
-    "date": "2026-09-28",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=R4_F3M1Bq7A"
-   },
-   {
-    "verdict": "Aura Support",
-    "note": "Equipped with the Puppeteer gear set to boost team functionality.",
-    "date": "2026-09-28",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/watch?v=S9ROeJI66hk"
-   },
-   {
-    "verdict": "Core Aura offensive buffer",
-    "note": "Built with maximum ATK to provide extra damage and Aura energy to the ally with the highest ATK.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=XPwLhWG92qs"
-   },
-   {
-    "verdict": "Key Aura buffer",
-    "note": "Wears Puppeteer's Inspiration set to speed up ultimate rotation for same-element allies, with recast timing set to 15s if needed.",
-    "date": "2026-09-28",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=em_1Gc-pIuY"
-   },
-   {
-    "verdict": "Core Aura buffer",
-    "note": "Grants significant damage bonuses and shares attack with the highest attack Aura damage dealer.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=fwiptMwyFNo"
-   },
-   {
-    "verdict": "Essential buffer for Aura team",
-    "note": "Buffs the second-highest Attack ally (Talethia), but is prone to dying early if focus-fired.",
-    "date": "2026-09-28",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=gfSqo_HbDxM"
-   },
-   {
-    "verdict": "Attack buffer for Talethia",
-    "note": "Stacked with maximum Attack using Orb of the Dragon God and Everlasting Candleflame to share Attack stats with Talethia.",
-    "date": "2026-09-28",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=hG8YnV5WAqk"
-   },
-   {
-    "verdict": "Essential Radiant Buffer",
-    "note": "Provides Aura energy and grants the Accompanist damage boost to the ally with highest attack.",
-    "date": "2026-09-28",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=lo9KfxUCvfM"
-   },
-   {
-    "verdict": "Aura support / DPS",
-    "note": "Enables high damage potential and utility for the Aura composition.",
-    "date": "2026-09-28",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/watch?v=oMnysr6kbXg"
-   },
-   {
-    "verdict": "Puppet Master set enabler",
-    "note": "Equipped with the Puppet Master artifact set for Aura team utility.",
-    "date": "2026-09-28",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/watch?v=oVuyK0yW2TA"
-   }
-  ],
   "Talethia": [
+   {
+    "verdict": "Core Aura DPS",
+    "note": "Primary damage dealer built with maximum HP, Crit Rate, and Crit Damage using mythic gear and Golden Alarm.",
+    "date": "2026-11-10",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=fNvpxhA9GMY"
+   },
    {
     "verdict": "Top-tier Aura DPS",
     "note": "Carries team damage output completely in fast dungeon runs and Temporal Vortex regardless of secondary support choices.",
@@ -34215,6 +33422,13 @@
   ],
   "Diantha": [
    {
+    "verdict": "Secondary Aura DPS",
+    "note": "Provides secondary damage and utility; build with accuracy, crit stats, and HP.",
+    "date": "2026-11-10",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=fNvpxhA9GMY"
+   },
+   {
     "verdict": "Essential Aura support",
     "note": "Should not be removed for Holfast because she provides Defense Down and essential utility.",
     "date": "2026-11-09",
@@ -34595,6 +33809,13 @@
   ],
   "Solmo": [
    {
+    "verdict": "Top Radiance defensive support",
+    "note": "Provides persistent shields and damage reduction using Puppeteer set and Aurelium Vest.",
+    "date": "2026-11-10",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=fNvpxhA9GMY"
+   },
+   {
     "verdict": "Aura tank/support",
     "note": "Used as the frontline support for shields and team survivability in Temporal Vortex.",
     "date": "2026-11-09",
@@ -34810,6 +34031,1123 @@
     "date": "2026-09-28",
     "channel": "OddOneGaming RPGs",
     "url": "https://www.youtube.com/watch?v=yq_L4gc55vU"
+   }
+  ],
+  "Anneliesis": [
+   {
+    "verdict": "Must-pull, stop at Inspiration 3 (I3)",
+    "note": "A rare and unique hero whose I1, I2, and I3 provide massive power spikes, while I5 only adds raw stats and overlapping buffs that do not stack with Holfast.",
+    "date": "2026-11-09",
+    "channel": "Suzi Plays",
+    "url": "https://www.youtube.com/watch?v=UtZmF-8dKVw"
+   },
+   {
+    "verdict": "Top Radiant Support",
+    "note": "Positioned behind Talethia to boost and protect her while providing debuffs and sustain.",
+    "date": "2026-11-09",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=pgksOlyG-E8"
+   },
+   {
+    "verdict": "Must-pull for Aura teams (aim for I3)",
+    "note": "Essential core for Aura teams; reaching Inspiration 3 grants all allies 10% Max HP and 10% bonus damage at the start of battle.",
+    "date": "2026-11-08",
+    "channel": "Skyasterix Gaming",
+    "url": "https://www.youtube.com/watch?v=bQnIUA0HuMY"
+   },
+   {
+    "verdict": "Primary healer",
+    "note": "Provided 87% of the team's healing holding Golden Antlers with nearly 100k HP.",
+    "date": "2026-11-08",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=vC9dRFEYD4A"
+   },
+   {
+    "verdict": "Aura support",
+    "note": "Provides possess control and Radiant/Aura team support.",
+    "date": "2026-11-08",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=UaQD1-RL_OU"
+   },
+   {
+    "verdict": "Must-have legend",
+    "note": "High priority hero for summons, recommended to pursue up to Inspiration 3.",
+    "date": "2026-11-08",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=vonwUUqCne4"
+   },
+   {
+    "verdict": "Must-have top tier support hero",
+    "note": "Provides healing, shields, stuns, debuff/buff dispels, aura energy generation, and stat boosts to front-line allies.",
+    "date": "2026-11-08",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/shorts/cmiJeXMr108"
+   },
+   {
+    "verdict": "Must pull",
+    "note": "Top priority exclusive support hero alongside Child of Chaos who will not enter the standard summon pool after her banner ends.",
+    "date": "2026-11-08",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=RjpnhQCQO30"
+   },
+   {
+    "verdict": "Must-have / Highest priority support",
+    "note": "Top support in the game who boosts damage, grants 20% Ultimate Energy at battle start, shields, strips buffs, and provides CC across all modes; optimal sweet spot is Inspiration 3.",
+    "date": "2026-11-08",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=RQs1H4k4_tk"
+   },
+   {
+    "verdict": "Must-summon top tier support",
+    "note": "Provides cleanse, buff dispel, crowd control, shields, heals, and Aura energy generation, though she does not deal high personal damage.",
+    "date": "2026-11-08",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=CFXDo-Psx7g"
+   },
+   {
+    "verdict": "High-value Inspiration 2 target",
+    "note": "Her Inspiration 2 enables allies with a shield to deal +10% damage and expands her battle skill shield to cover the entire team.",
+    "date": "2026-11-08",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=Gd2mJ34vOvI"
+   },
+   {
+    "verdict": "Build to Inspiration 3; push to Inspiration 5 only for Magic Chess",
+    "note": "Her Inspiration 5 30% Damage Up buff does not stack with the identical 30% buffs from Lincos or Holfast.",
+    "date": "2026-11-08",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=YFI7cbkrmv8"
+   },
+   {
+    "verdict": "Must-have core support for Aura",
+    "note": "Replaces an existing support in Aura teams to drastically boost Talethia and overall team output; Inspiration 3 provides a 30% teamwide damage buff.",
+    "date": "2026-11-08",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=WI8NEyeWbO0"
+   },
+   {
+    "verdict": "Top teammate",
+    "note": "Restores 30 Aura Energy to Radiance heroes with her battle skill, accelerating Holfast's passive engine.",
+    "date": "2026-11-07",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=wVYgz2Rvkro"
+   },
+   {
+    "verdict": "Key opening buffer",
+    "note": "Possesses Thelendor at battle start to grant him +20% Max HP, +20% damage, and +20 Ultimate Energy.",
+    "date": "2026-11-07",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=JqB1po_4ZgM"
+   },
+   {
+    "verdict": "Key Aura healer and shielder",
+    "note": "Requires high HP chest gear to maintain survival and consistent shields for the Aura squad.",
+    "date": "2026-11-06",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=b9L3kRlw8vU"
+   },
+   {
+    "verdict": "Essential Aura support",
+    "note": "Geared with the Secrecy set, accuracy, skill haste, and Golden Antlers for optimal buffing.",
+    "date": "2026-11-06",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=M1l8V-XyEvs"
+   },
+   {
+    "verdict": "Core Aura buffer and damage enabler",
+    "note": "Enhances Aura allies and provides strong control and crowd support.",
+    "date": "2026-11-05",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=5hS240x9cFc"
+   },
+   {
+    "verdict": "Upcoming banner hero",
+    "note": "Featured in an upcoming S9 summon banner.",
+    "date": "2026-11-04",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/shorts/dzP-TL4G0Is"
+   },
+   {
+    "verdict": "Cornerstone of Aura teams",
+    "note": "Shields allies, boosts offensive performance, and increases both team damage and survival.",
+    "date": "2026-11-04",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/shorts/zFOeZDFv0Q8"
+   },
+   {
+    "verdict": "Essential Radiance Support",
+    "note": "Provides team-wide shields, healing, buff stripping, and energy generation while boosting the bonded main DPS.",
+    "date": "2026-11-04",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=gk6u8e-zwLg"
+   },
+   {
+    "verdict": "Core Radiance DPS",
+    "note": "Built for high Radiance damage using the Elite's Key artifact.",
+    "date": "2026-11-03",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/shorts/iyc1c1lve5o"
+   },
+   {
+    "verdict": "Essential speedrun support",
+    "note": "Positioned behind Nissa to grant crucial skill recharge speed.",
+    "date": "2026-11-03",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/shorts/bhu8a6lCUDY"
+   },
+   {
+    "verdict": "wait for banner before committing gear",
+    "note": "Her upcoming exclusive banner will determine whether investing in Aura mythic gear is worth prioritizing over Dauntless.",
+    "date": "2026-11-03",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=YTSkf8whQbM"
+   },
+   {
+    "verdict": "High priority savings target",
+    "note": "Recommended as a key banner hero to save 300 summons for.",
+    "date": "2026-11-03",
+    "channel": "Suzi Plays",
+    "url": "https://www.youtube.com/watch?v=F96DH9xeYnw"
+   },
+   {
+    "verdict": "Top damage buffer",
+    "note": "Provides team-wide damage boosts using Ascendant's Key and Golden Antlers.",
+    "date": "2026-11-03",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=jRdl34i5jqs"
+   },
+   {
+    "verdict": "Main healer",
+    "note": "Handled nearly 90% of team healing, geared with over 67k HP, 235 Resistance, and Golden Antlers.",
+    "date": "2026-11-01",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=-OuAUscqGVw"
+   },
+   {
+    "verdict": "Save Heliolite Dice for rerun",
+    "note": "Recommended as the primary upcoming target to pull for when her banner returns in mid-November.",
+    "date": "2026-11-01",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=G8YVnlncNMo"
+   },
+   {
+    "verdict": "Core Aura healer & buffer",
+    "note": "Builds Moonlight's Grace, Devout Prayer, and Solar King's Horn for massive team-wide offensive buffs.",
+    "date": "2026-11-01",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=O28V9w5PJdA"
+   },
+   {
+    "verdict": "Save summons for upcoming banner",
+    "note": "Scheduled to return on November 8th, making this spending event a prime way to hoard resources beforehand.",
+    "date": "2026-11-01",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=oeExx0bLKOE"
+   },
+   {
+    "verdict": "Must-pull / arguably best hero in the game",
+    "note": "Ultra-premium Radiance unit whose limited banner requires saving up to 300 summons.",
+    "date": "2026-10-31",
+    "channel": "Fastidious Dragonheir",
+    "url": "https://www.youtube.com/watch?v=wM0sFqru6M4"
+   },
+   {
+    "verdict": "Save resources for",
+    "note": "Target hero to save summon resources for on future banners.",
+    "date": "2026-10-31",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=k5r_YS0v7fU"
+   },
+   {
+    "verdict": "Must-have limited support",
+    "note": "An outstanding Radiant support hero returning in early November; highly recommended to save 300 summons to guarantee her.",
+    "date": "2026-10-31",
+    "channel": "Volkin Dragonheir",
+    "url": "https://www.youtube.com/watch?v=r6R18doSyz8"
+   },
+   {
+    "verdict": "Core dungeon offensive buffer",
+    "note": "Enhances ally output and heavily boosts Talethia to melt dungeon bosses quickly.",
+    "date": "2026-10-30",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/shorts/1m_XUtCo3Jo"
+   },
+   {
+    "verdict": "Core Radiance ultimate battery",
+    "note": "Feeds ultimate energy directly to Talethia through her passive mechanics.",
+    "date": "2026-10-30",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=j2FsBiDB1ak"
+   },
+   {
+    "verdict": "Anticipated upcoming hero",
+    "note": "Mentioned as an upcoming hero to prepare resources and summons for.",
+    "date": "2026-10-29",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=QY6-x79h2QE"
+   },
+   {
+    "verdict": "Aura Healer and Buffer",
+    "note": "Uses Sacred River set to provide essential healing and damage buffs for the Aura lineup.",
+    "date": "2026-10-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=AdMJvbFJWS0"
+   },
+   {
+    "verdict": "Great Aura support",
+    "note": "Provides supportive utility positioned behind Talethia in the Aura setup.",
+    "date": "2026-10-28",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=Lagk5772OdM"
+   },
+   {
+    "verdict": "Top solo support for Mekkatorque",
+    "note": "Provides enough shielding and sustain to solo heal the team while boosting overall damage output.",
+    "date": "2026-10-28",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=PBPVabwsqG0"
+   },
+   {
+    "verdict": "Essential Radiance Dispeller",
+    "note": "Requires 260 Accuracy to strip boss buffs and keep the team rotation from drifting.",
+    "date": "2026-10-28",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=urx_maL6O6s"
+   },
+   {
+    "verdict": "Must-pull hero",
+    "note": "Top priority hero to summon when her banner returns in early November if you do not already have her.",
+    "date": "2026-10-27",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=yhryGv6s8nU"
+   },
+   {
+    "verdict": "Recommended Aura support",
+    "note": "Deployed directly behind Talethia in the Fallen Shadow Spire Aura team setup.",
+    "date": "2026-10-27",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/shorts/mScAHcDJmSI"
+   },
+   {
+    "verdict": "Key Aura buffer",
+    "note": "Equipped with Solar King's Horn or Angelic Alliance to boost overall team damage output.",
+    "date": "2026-10-27",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=uRyYXuQ6suI"
+   },
+   {
+    "verdict": "Must-pull top priority",
+    "note": "A limited hero providing huge HP, ultimate energy, and damage buffs to bonded allies; extremely versatile across PvE, PvP, and Magicless Chess.",
+    "date": "2026-10-27",
+    "channel": "Volkin Dragonheir",
+    "url": "https://www.youtube.com/watch?v=vWWBqHvwtro"
+   },
+   {
+    "verdict": "Must-pull S9 Radiance hero worth saving for",
+    "note": "Radiance damage dealer with extremely powerful inspiration nodes; saving around 2,000 pulls is recommended to get max copies.",
+    "date": "2026-10-27",
+    "channel": "Suzi Plays",
+    "url": "https://www.youtube.com/watch?v=-QV5EZT6kXI"
+   },
+   {
+    "verdict": "Must-pull top tier hero",
+    "note": "Returns November 8th; brings crowd control, state manipulation, and team buffs via Possess.",
+    "date": "2026-10-26",
+    "channel": "Fastidious Dragonheir",
+    "url": "https://www.youtube.com/watch?v=VZJeo9_euaw"
+   },
+   {
+    "verdict": "Premier energy buffer for Vinyara",
+    "note": "Boosts Vinyara's initial energy; can be swapped for Sagomir if Vinyara is deployed first.",
+    "date": "2026-10-26",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=UNE3t_LurBA"
+   },
+   {
+    "verdict": "Essential Radiance support",
+    "note": "Built with Sacred River's Revelation set pieces to grant damage reduction when healing or shielding.",
+    "date": "2026-10-26",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=ZTBevjYvrOo"
+   },
+   {
+    "verdict": "Support / Buffer",
+    "note": "Buffs Vinyara and supports the overall team flow.",
+    "date": "2026-10-25",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/shorts/nrlNlI82CIM"
+   },
+   {
+    "verdict": "Fragile Radiance DPS",
+    "note": "Deals heavy damage but suffers from very low base defense, requiring defensive sets like Verdant Breath Cowl to avoid boss targeting.",
+    "date": "2026-10-25",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=MzK7B1nM5ys"
+   },
+   {
+    "verdict": "Must-summon priority",
+    "note": "Featured on the upcoming Radiant Wings banner after more than a year; players should save to grab at least one or two copies.",
+    "date": "2026-10-24",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=TNNyYpFXHdA"
+   },
+   {
+    "verdict": "High-priority rerun to save for",
+    "note": "Confirmed to return on a rerun banner in November without an exclusive artifact.",
+    "date": "2026-10-24",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=hEve9odLIs8"
+   },
+   {
+    "verdict": "high priority limited unit",
+    "note": "A powerful limited-time Aura core hero arriving on banner who provides strong crowd control and state manipulation.",
+    "date": "2026-10-24",
+    "channel": "Suzi Plays",
+    "url": "https://www.youtube.com/watch?v=scDahdyomBc"
+   },
+   {
+    "verdict": "Must-save priority",
+    "note": "Top-tier enabler for Aura teams who gains massive value across her inspirations (especially I2, I3, and I5); returning in a banner on November 8th.",
+    "date": "2026-10-24",
+    "channel": "Suzi Plays",
+    "url": "https://www.youtube.com/watch?v=xoS9KUTB3Is"
+   },
+   {
+    "verdict": "Top priority summon target",
+    "note": "Bonds with a main damage dealer at start of battle to grant 20% Max HP, 20% Damage Bonus, and 20% Ultimate Energy.",
+    "date": "2026-10-24",
+    "channel": "Volkin Dragonheir",
+    "url": "https://www.youtube.com/watch?v=riHiHpJVtjY"
+   },
+   {
+    "verdict": "High-priority limited summon",
+    "note": "A limited hero arriving on November 8th worth saving summons to acquire.",
+    "date": "2026-10-23",
+    "channel": "Suzi Plays",
+    "url": "https://www.youtube.com/watch?v=-i_pyccY6L8"
+   },
+   {
+    "verdict": "Must-have versatile support and DPS",
+    "note": "Possesses an ally for immediate stat boosts, then descends to deliver heavy AOE control, purges, cleanses, and heals.",
+    "date": "2026-10-23",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=EZe7SqG0EUE"
+   },
+   {
+    "verdict": "Must-save target",
+    "note": "Limited Aura hero confirmed to arrive on banner on November 8th for both Season 9 and Season 1 servers.",
+    "date": "2026-10-23",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=_mr028hQasE"
+   },
+   {
+    "verdict": "Priority save target",
+    "note": "Advised holding onto summons and Heliolite dice for her anticipated banner arrival in early November.",
+    "date": "2026-10-23",
+    "channel": "Skyasterix Gaming",
+    "url": "https://www.youtube.com/watch?v=oTOLrbXN0T4"
+   },
+   {
+    "verdict": "Potential rerun hero",
+    "note": "Rumored to be returning in a video/banner very soon.",
+    "date": "2026-10-22",
+    "channel": "Fastidious Dragonheir",
+    "url": "https://www.youtube.com/watch?v=k73hjQA6h1M"
+   },
+   {
+    "verdict": "Must-have S-tier overall support",
+    "note": "Provides possess buffs to bonded allies, full-board knockup/stun, complete buff removal, full debuff cleansing, shields, and massive healing scaling off target HP.",
+    "date": "2026-10-22",
+    "channel": "Fastidious Dragonheir",
+    "url": "https://www.youtube.com/watch?v=P0FQYqP34Xk"
+   },
+   {
+    "verdict": "Essential Aura support",
+    "note": "Equipped with Solar King's Horn artifact and stacked with HP% gear pieces.",
+    "date": "2026-10-19",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=Z46YlrpnOfc"
+   },
+   {
+    "verdict": "Must-save priority target",
+    "note": "Key Radiant Aura damage dealer expected to return soon, making resource management critical between current banners and her rerun.",
+    "date": "2026-10-18",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=j4_0OuYJeHU"
+   },
+   {
+    "verdict": "Core Aura Support / Debuffer",
+    "note": "Requires 60+ Skill Haste to ensure ultimate aligns with the 15-second team rotation; built with Titan Rib artifact, Secrecy Order set, and Wildsand Devotion.",
+    "date": "2026-10-17",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=Zzd5qAz5B9E"
+   },
+   {
+    "verdict": "Core Aura enabler",
+    "note": "Essential member of the Aura roster whose banner is expected to return around November.",
+    "date": "2026-10-17",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=sQYC7VdWNeE"
+   },
+   {
+    "verdict": "Must-save priority",
+    "note": "Considered vastly more important than standard banner heroes, with an unconfirmed banner expected around December.",
+    "date": "2026-10-14",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=21_BZz5E0XM"
+   },
+   {
+    "verdict": "Key shielder & support",
+    "note": "Provides team shielding and attack buffs built with high Accuracy and HP.",
+    "date": "2026-10-14",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=WEpc_QIKnRM"
+   },
+   {
+    "verdict": "Must-have Aura Support",
+    "note": "Key support for the Aura team whose analysis banner is expected in November.",
+    "date": "2026-10-14",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=ZQS3vb4JuWU"
+   },
+   {
+    "verdict": "Top-tier universal support",
+    "note": "An exclusive Aura support from CN servers who fits into any team and is worth saving 300 summons for if she arrives globally.",
+    "date": "2026-10-14",
+    "channel": "Volkin Dragonheir",
+    "url": "https://www.youtube.com/watch?v=sWDYLD9S2yE"
+   },
+   {
+    "verdict": "Crucial rotation enabler",
+    "note": "Requires Skill Haste above 60 and sufficient Accuracy to maintain team skill timing.",
+    "date": "2026-10-14",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=yzljKIdSKP8"
+   },
+   {
+    "verdict": "Must-pull top priority support",
+    "note": "Provides unmatched utility across all game modes through team HP and damage buffs, energy gain, crowd control, shields, healing, and buff removal.",
+    "date": "2026-10-07",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=8YDjnEZR2as"
+   },
+   {
+    "verdict": "High priority upcoming banner target",
+    "note": "Gorax recommends saving dice specifically for her banner and the upcoming Aura hero banner.",
+    "date": "2026-10-07",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=KXlWLBT9M5w"
+   },
+   {
+    "verdict": "Aura staple",
+    "note": "Placed in the backline with high stat investment to bolster Aura team output.",
+    "date": "2026-10-07",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=VEwv_TEaZkc"
+   },
+   {
+    "verdict": "Aura buffer and support",
+    "note": "Supports the team with a delayed 28.0s first cast ultimate followed by a 17.5s recast cycle.",
+    "date": "2026-10-07",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=VMnggAEkhNU"
+   },
+   {
+    "verdict": "Must-have for Aura teams",
+    "note": "Returning on a limited-time banner; highly recommended for Aura teams with several inspirations if possible.",
+    "date": "2026-10-07",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=dff1T986Zg8"
+   },
+   {
+    "verdict": "Core support for Aura team",
+    "note": "Requires exactly 62 Skill Haste for proper rotation, equipped with Secrecy Order set, Golden Antlers, and Wildsand Devotion.",
+    "date": "2026-10-07",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=e3O_XZvWCPo"
+   },
+   {
+    "verdict": "Support buffer in Aura team",
+    "note": "Equipped with Angelic Alliance, Wildsand Devotion, and Secrecy sets; left on default timing with high skill haste.",
+    "date": "2026-10-07",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=gAoX3-kT1mo"
+   },
+   {
+    "verdict": "Core Aura Support",
+    "note": "Provides vital buffs and ultimate alignment for the Aura composition.",
+    "date": "2026-10-07",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=ql--QLIbiZQ"
+   },
+   {
+    "verdict": "Core Aura DPS",
+    "note": "Contributes 26.1% of team damage using default skill timing settings.",
+    "date": "2026-10-07",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=rideArj4Ug4"
+   },
+   {
+    "verdict": "Aura support",
+    "note": "Provides key buffs and utility for the Aura team against Area Boss 4.",
+    "date": "2026-10-07",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=x6LdzqgusYk"
+   },
+   {
+    "verdict": "Must-pull / Ultimate GOAT Aura Support",
+    "note": "She is the most versatile aura support hero in the game, boosting damage, HP, and ultimate energy while providing exceptional control for any composition.",
+    "date": "2026-10-07",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=zlkDqeP9Des"
+   },
+   {
+    "verdict": "Essential Aura dispeller",
+    "note": "Strips Joyce's massive Defense Up and Damage Up buffs; requires high Accuracy stats.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=LowEegAwwJI"
+   },
+   {
+    "verdict": "Cheat code control hero",
+    "note": "Locks down enemy waves with knock-up and stuns while also providing healing, buff removal, and allied debuff cleansing.",
+    "date": "2026-09-28",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=NEVHI1wjARM"
+   },
+   {
+    "verdict": "Core Incandescence speedrun hero",
+    "note": "Provides vital support and synergy for rapid dungeon burst clears.",
+    "date": "2026-09-28",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=Nb_6NSFmeT8"
+   },
+   {
+    "verdict": "Top sustain support",
+    "note": "Provides vital shielding, healing, and debuff cleansing to keep the team alive through early burst.",
+    "date": "2026-09-28",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=QunAX6Rsid0"
+   },
+   {
+    "verdict": "Core Aura buffer/support",
+    "note": "Performs at Inspiration 0 when built with around 60 Skill Haste and the Secrecy set to maintain proper buff uptime.",
+    "date": "2026-09-28",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=R4_F3M1Bq7A"
+   },
+   {
+    "verdict": "Aura Tank / Support",
+    "note": "Built with full HP stats to survive and sustain the frontline.",
+    "date": "2026-09-28",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=S9ROeJI66hk"
+   },
+   {
+    "verdict": "Essential dispel support",
+    "note": "Equipped with Angelic Alliance to buff the team, timed to cast her ultimate at 17.7s to dispel Joyce's buffs.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=XPwLhWG92qs"
+   },
+   {
+    "verdict": "Example of unique hero design",
+    "note": "Highlighted as a unique Radiant support unit possessing dual element affinity traits.",
+    "date": "2026-09-28",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=_0reOyv5BB0"
+   },
+   {
+    "verdict": "Aura sustain support",
+    "note": "Provides healing and team damage buffs using Moonlight's Grace and Devout Prayer sets; can be substituted with Solmo, Acilia, or Rena.",
+    "date": "2026-09-28",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=em_1Gc-pIuY"
+   },
+   {
+    "verdict": "Core Devitalization hero",
+    "note": "Key component of the Devitalization dungeon speed run team.",
+    "date": "2026-09-28",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=euHy0xtygTo"
+   },
+   {
+    "verdict": "Top dispeller for Aura teams",
+    "note": "Cleanses all allied debuffs and strips all enemy buffs with a 100% chance on her ultimate.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=fwiptMwyFNo"
+   },
+   {
+    "verdict": "Core tank/support for Aura team",
+    "note": "Build with maximum HP, Accuracy, and Defense to prevent early team wipes.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=gfSqo_HbDxM"
+   },
+   {
+    "verdict": "Essential cleanser and tank for Aura team",
+    "note": "Built for max HP with Sylvan Refuge and Solar King's Horn to absorb single-target boss execution hits and cleanse debuffs.",
+    "date": "2026-09-28",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=hG8YnV5WAqk"
+   },
+   {
+    "verdict": "Top Support for Joyce",
+    "note": "Dispels the boss's self-buffs (Damage Up & Defense Up) and debuffs while providing team-wide healing and shields.",
+    "date": "2026-09-28",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=lo9KfxUCvfM"
+   },
+   {
+    "verdict": "top tier limited support",
+    "note": "Past limited exclusive support hero who proved essential across almost all game content.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=m_mPa3snJ_Y"
+   },
+   {
+    "verdict": "Core Aura DPS",
+    "note": "Delivers heavy damage in fast Grave of Venom Challenge 6 speed runs.",
+    "date": "2026-09-28",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=oMnysr6kbXg"
+   },
+   {
+    "verdict": "Full HP buffer/shielder",
+    "note": "Built with full HP to strengthen team shields and survivability.",
+    "date": "2026-09-28",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=oVuyK0yW2TA"
+   },
+   {
+    "verdict": "Struggles in Meander Trial 61-120",
+    "note": "Her debuff-reliant kit and control become useless for the first 60 seconds due to undispellable enemy immunity.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=tuRi0m83stw"
+   },
+   {
+    "verdict": "Top control and healing support",
+    "note": "Provides team healing, debuff clears, and hard crowd control; needs high Skill Haste and Accuracy to spam her ultimate.",
+    "date": "2026-09-28",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=yq_L4gc55vU"
+   },
+   {
+    "verdict": "S Tier Core",
+    "note": "One of two crucial exclusive enablers that make Aura the strongest overall school in the game.",
+    "date": "2026-08-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=V2r59itUDMA"
+   }
+  ],
+  "Lincos": [
+   {
+    "verdict": "Replaced by Holfast",
+    "note": "His 30% Damage Up does not stack with Holfast's passive, rendering even an Inspiration 5 copy obsolete in top-tier Aura comps.",
+    "date": "2026-11-09",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=FYVKxkmeNag"
+   },
+   {
+    "verdict": "Budget replacement for Holfast",
+    "note": "Achieves 2.02 billion damage in place of Holfast in the same Crown Contest setup.",
+    "date": "2026-11-08",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=vC9dRFEYD4A"
+   },
+   {
+    "verdict": "Outclassed",
+    "note": "Gets replaced in Aura team compositions by newer premium support units.",
+    "date": "2026-11-08",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=RjpnhQCQO30"
+   },
+   {
+    "verdict": "Banner filler",
+    "note": "Common legendary filler pull on standard rerun banners with low current meta value.",
+    "date": "2026-11-08",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=RQs1H4k4_tk"
+   },
+   {
+    "verdict": "Outclassed by Holfast",
+    "note": "Holfast serves as a direct upgrade and replacement for Lincos in high-end Aura compositions.",
+    "date": "2026-11-08",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=CFXDo-Psx7g"
+   },
+   {
+    "verdict": "Solid Aura support and damage dealer",
+    "note": "His ultimate provides a 30% Damage Up buff that does not stack with Holfast's buff or Anneliesis's Inspiration 5.",
+    "date": "2026-11-08",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=YFI7cbkrmv8"
+   },
+   {
+    "verdict": "Outclassed in Aura meta",
+    "note": "Fully replaced by Holfast in primary Aura teams even when heavily invested at Inspiration 5.",
+    "date": "2026-11-08",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=WI8NEyeWbO0"
+   },
+   {
+    "verdict": "Essential Aura buffer",
+    "note": "Equipped with Puppeteer set to maximize attack transfers and energy buffs to Aura damage dealers.",
+    "date": "2026-11-06",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=b9L3kRlw8vU"
+   },
+   {
+    "verdict": "Alternative front-line melee DPS option",
+    "note": "Can replace Rena in speed-clearing dungeons like Ancient Battlefield, though prone to getting stunned at battle start without CC immunity artifacts.",
+    "date": "2026-11-05",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=5hS240x9cFc"
+   },
+   {
+    "verdict": "likely to be replaced",
+    "note": "Expected to be outclassed by the new exclusive Aura banner character even at inspiration level 0.",
+    "date": "2026-11-03",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=YTSkf8whQbM"
+   },
+   {
+    "verdict": "Energy generator for Radiance",
+    "note": "Feeds Aura Energy to the team and applies defense debuffs early when paired with Sagomir.",
+    "date": "2026-11-03",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=jRdl34i5jqs"
+   },
+   {
+    "verdict": "Aura energy battery",
+    "note": "Built with over 65k HP, 150 Resistance, and Chest of Radiance to feed Aura energy into the team.",
+    "date": "2026-11-01",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=-OuAUscqGVw"
+   },
+   {
+    "verdict": "Risky vs Ice Guardian",
+    "note": "His summoned accompanist feeds the boss permanent Defense Up and Attack Up stacks whenever it dies.",
+    "date": "2026-11-01",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=0ZADnrn_jh0"
+   },
+   {
+    "verdict": "Aura stat-sharer",
+    "note": "Runs Orb of the Dragon God, Whirling Edge, and Everlasting Candleflame to share Attack and Defense with Talethia.",
+    "date": "2026-11-01",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=O28V9w5PJdA"
+   },
+   {
+    "verdict": "Key dungeon DPS",
+    "note": "Acts as secondary Radiance damage dealer powered up by Sagomir's buffs.",
+    "date": "2026-10-30",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/shorts/1m_XUtCo3Jo"
+   },
+   {
+    "verdict": "Core Radiance buffer and debuffer",
+    "note": "Applies defense penalties with Witch's Remains and syncs ultimates alongside Talethia.",
+    "date": "2026-10-30",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=j2FsBiDB1ak"
+   },
+   {
+    "verdict": "Temporary Aura filler",
+    "note": "Avoid investing talent books into him because he will be replaced once upcoming exclusive Aura supports release.",
+    "date": "2026-10-29",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=O9tGozaro1g"
+   },
+   {
+    "verdict": "Temporary Aura Buffer",
+    "note": "Useful for boosting team attack, but advised not to max his talents as he gets replaced quickly.",
+    "date": "2026-10-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=AdMJvbFJWS0"
+   },
+   {
+    "verdict": "Key support for Talethia",
+    "note": "Equipped with Everlasting Candleflame to share substantial attack and defense with the main DPS.",
+    "date": "2026-10-28",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=Lagk5772OdM"
+   },
+   {
+    "verdict": "Core Aura support/buffer",
+    "note": "Grants Radiant damage buffs and Aura Energy to the ally with the highest Attack.",
+    "date": "2026-10-28",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=PBPVabwsqG0"
+   },
+   {
+    "verdict": "Recommended Aura hero",
+    "note": "Needs to be positioned close to the deer in the Fallen Shadow Spire fight.",
+    "date": "2026-10-27",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/shorts/mScAHcDJmSI"
+   },
+   {
+    "verdict": "Radiance buffer / support for Grave of Venom",
+    "note": "Built with Golden Antlers to assist the Radiance team in sustaining and buffing damage.",
+    "date": "2026-10-27",
+    "channel": "Suzi Plays",
+    "url": "https://www.youtube.com/watch?v=ikpjPqQhRow"
+   },
+   {
+    "verdict": "Aura buffer and sub-DPS",
+    "note": "Uses Orb of the Dragon God to increase elemental damage and trigger frequent team ultimate cycles.",
+    "date": "2026-10-27",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=uRyYXuQ6suI"
+   },
+   {
+    "verdict": "Replace in high-tier Aura teams",
+    "note": "Does not provide enough survivability or utility for stage 18 domains; replace with an additional support hero.",
+    "date": "2026-10-26",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=bt7j_X7T5HA"
+   },
+   {
+    "verdict": "Flex support option",
+    "note": "Can wear Verdant Crystal for extra shield or be replaced by tanks like Ardreth or Eurion in Grave of Venom.",
+    "date": "2026-10-26",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=UNE3t_LurBA"
+   },
+   {
+    "verdict": "Radiance turn engine",
+    "note": "Equipped with the Puppeteer set to boost team action bar and ultimate energy.",
+    "date": "2026-10-26",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=ZTBevjYvrOo"
+   },
+   {
+    "verdict": "Aura Support",
+    "note": "Generates Aura Energy and grants coordinated attacks/damage buffs.",
+    "date": "2026-10-25",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/shorts/nrlNlI82CIM"
+   },
+   {
+    "verdict": "Potentially replaceable",
+    "note": "Mentioned alongside Tamar as a hero likely to be phased out by the upcoming Aura hero.",
+    "date": "2026-10-24",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=TNNyYpFXHdA"
+   },
+   {
+    "verdict": "Great Aura battery and buffer",
+    "note": "Provides Aura energy and damage buffs that synergize with Anneliesis in pure Aura comps.",
+    "date": "2026-10-22",
+    "channel": "Fastidious Dragonheir",
+    "url": "https://www.youtube.com/watch?v=P0FQYqP34Xk"
+   },
+   {
+    "verdict": "Aura filler support",
+    "note": "Used at Level 59 as a substitute before new hero Holfast becomes available.",
+    "date": "2026-10-19",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=Z46YlrpnOfc"
+   },
+   {
+    "verdict": "Aura Enabler / Support",
+    "note": "Needs 72+ Skill Haste to sustain the 15-second rotation, which may require running two 2-piece Skill Haste sets (Astrologer and Secrecy Order) if rune substats fall short.",
+    "date": "2026-10-17",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=Zzd5qAz5B9E"
+   },
+   {
+    "verdict": "Replaced by Holfast",
+    "note": "His spot in top Aura teams is taken over by Holfast, who beats his I5 output even at I0.",
+    "date": "2026-10-17",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=sQYC7VdWNeE"
+   },
+   {
+    "verdict": "Essential Aura buffer",
+    "note": "Provides a crucial 30% damage boost for 10s to the Aura ally with highest Attack and wears Puppeteer to enable the 18-second rotation.",
+    "date": "2026-10-15",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=SKgs45pKE8I"
+   },
+   {
+    "verdict": "Core debuff reflector & attack buffer",
+    "note": "Built with high Resistance and Prismatic Cloak to reflect boss debuffs while sharing Attack with the team.",
+    "date": "2026-10-14",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=WEpc_QIKnRM"
+   },
+   {
+    "verdict": "Core Aura Pick",
+    "note": "Mandatory Aura damage dealer until replaced by upcoming new season Aura heroes.",
+    "date": "2026-10-14",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=ZQS3vb4JuWU"
+   },
+   {
+    "verdict": "Temporary Aura support",
+    "note": "Functional Aura buffer for now, but will be replaced next season by a new Aura hero that outperforms him even at Inspiration 0.",
+    "date": "2026-10-14",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=soNuRXPx71Y"
+   },
+   {
+    "verdict": "Essential debuffer and attack buffer",
+    "note": "Equipped with Prismatic Cloak to reflect boss debuffs and maximize boss vulnerability.",
+    "date": "2026-10-14",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=yzljKIdSKP8"
+   },
+   {
+    "verdict": "Phasing out",
+    "note": "Older Aura staple that becomes obsolete as new Aura support options arrive.",
+    "date": "2026-10-07",
+    "channel": "Suzi Plays",
+    "url": "https://www.youtube.com/watch?v=SKvUJeFHJIw"
+   },
+   {
+    "verdict": "Core Aura buffer",
+    "note": "Equipped with the Puppetmaster artifact to boost overall team performance.",
+    "date": "2026-10-07",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=VEwv_TEaZkc"
+   },
+   {
+    "verdict": "Aura team support/DPS",
+    "note": "Contributes to the synchronized burst rotation with an 11.5s initial skill timing.",
+    "date": "2026-10-07",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=VMnggAEkhNU"
+   },
+   {
+    "verdict": "Attack buffer in Aura team",
+    "note": "Uses Puppeteer set to maximize shared attack bonus to team damage dealers.",
+    "date": "2026-10-07",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=gAoX3-kT1mo"
+   },
+   {
+    "verdict": "Solid Aura Utility Support",
+    "note": "Helps maintain optimal skill cycles and team survival.",
+    "date": "2026-10-07",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=ql--QLIbiZQ"
+   },
+   {
+    "verdict": "Core Support",
+    "note": "Buffers team skill rotation and utility to maximize Aura synergy.",
+    "date": "2026-10-07",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=rideArj4Ug4"
+   },
+   {
+    "verdict": "Aura support",
+    "note": "Enables team synergy and supports overall team damage output.",
+    "date": "2026-10-07",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=x6LdzqgusYk"
+   },
+   {
+    "verdict": "Outclassed in Aura meta",
+    "note": "Replaced by Folvarst who provides significantly higher team damage output even at lower inspiration ranks.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=LoshJITl5VE"
+   },
+   {
+    "verdict": "Core Aura summoner DPS",
+    "note": "Built with Puppeteer set or Vortex Illusion HP% pieces to maximize damage Output.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=LowEegAwwJI"
+   },
+   {
+    "verdict": "Essential Incandescence enabler",
+    "note": "Facilitates fast ultimate cycles for high-speed boss clears.",
+    "date": "2026-09-28",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=Nb_6NSFmeT8"
+   },
+   {
+    "verdict": "Key offensive support",
+    "note": "Buffs Talethia's damage output while carrying Ascendant's Key and the Puppeteer's Inspiration gear set.",
+    "date": "2026-09-28",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=QunAX6Rsid0"
+   },
+   {
+    "verdict": "Top Aura damage dealer",
+    "note": "Built with Puppeteer set and stacked Attack, dealing approximately 1.8 billion damage in the encounter.",
+    "date": "2026-09-28",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=R4_F3M1Bq7A"
+   },
+   {
+    "verdict": "Aura Support",
+    "note": "Equipped with the Puppeteer gear set to boost team functionality.",
+    "date": "2026-09-28",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=S9ROeJI66hk"
+   },
+   {
+    "verdict": "Core Aura offensive buffer",
+    "note": "Built with maximum ATK to provide extra damage and Aura energy to the ally with the highest ATK.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=XPwLhWG92qs"
+   },
+   {
+    "verdict": "Key Aura buffer",
+    "note": "Wears Puppeteer's Inspiration set to speed up ultimate rotation for same-element allies, with recast timing set to 15s if needed.",
+    "date": "2026-09-28",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=em_1Gc-pIuY"
+   },
+   {
+    "verdict": "Core Aura buffer",
+    "note": "Grants significant damage bonuses and shares attack with the highest attack Aura damage dealer.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=fwiptMwyFNo"
+   },
+   {
+    "verdict": "Essential buffer for Aura team",
+    "note": "Buffs the second-highest Attack ally (Talethia), but is prone to dying early if focus-fired.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=gfSqo_HbDxM"
+   },
+   {
+    "verdict": "Attack buffer for Talethia",
+    "note": "Stacked with maximum Attack using Orb of the Dragon God and Everlasting Candleflame to share Attack stats with Talethia.",
+    "date": "2026-09-28",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=hG8YnV5WAqk"
+   },
+   {
+    "verdict": "Essential Radiant Buffer",
+    "note": "Provides Aura energy and grants the Accompanist damage boost to the ally with highest attack.",
+    "date": "2026-09-28",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=lo9KfxUCvfM"
+   },
+   {
+    "verdict": "Aura support / DPS",
+    "note": "Enables high damage potential and utility for the Aura composition.",
+    "date": "2026-09-28",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=oMnysr6kbXg"
+   },
+   {
+    "verdict": "Puppet Master set enabler",
+    "note": "Equipped with the Puppet Master artifact set for Aura team utility.",
+    "date": "2026-09-28",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=oVuyK0yW2TA"
    }
   ],
   "Serpentemis": [
@@ -35239,6 +35577,20 @@
     "date": "2026-09-28",
     "channel": "liveranov",
     "url": "https://www.youtube.com/watch?v=Hb1nVIAgoTE"
+   },
+   {
+    "verdict": "Core sub-DPS and buffer",
+    "note": "Provides debuffs and damage; builds with Golden Antlers artifact for team survivability and extra healing.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=HqVIrNsj0jg"
+   },
+   {
+    "verdict": "Top Toxin DPS",
+    "note": "High damage dealer in Toxin setups for Temporal Vortex, dungeon clears, and speed runs.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=IPIbglFr7r0"
    },
    {
     "verdict": "Top DPS for Durem",
@@ -36337,6 +36689,20 @@
     "url": "https://www.youtube.com/watch?v=ydl2Hi0lAy8"
    },
    {
+    "verdict": "Budget replacement for Reytah",
+    "note": "Provides immortality and strong healing to keep teams alive longer at the cost of total DPS output.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=HqVIrNsj0jg"
+   },
+   {
+    "verdict": "Essential Support",
+    "note": "Kept on a 20-second ultimate recast cycle to remain synchronized with the boss's 20-second skill rotation.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=IPIbglFr7r0"
+   },
+   {
     "verdict": "Top sustain support",
     "note": "Provides consistent healing, shields, and Attack Penalty debuffs, enabling the team to survive Durem's onslaught.",
     "date": "2026-09-28",
@@ -36605,6 +36971,13 @@
     "url": "https://www.youtube.com/watch?v=Hb1nVIAgoTE"
    },
    {
+    "verdict": "Essential Toxin support",
+    "note": "Shares Attack with the primary DPS and applies derivative damage debuffs.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=HqVIrNsj0jg"
+   },
+   {
     "verdict": "Core Toxin team partner",
     "note": "Provides passive synergy that accelerates poison procs alongside Serpentemis.",
     "date": "2026-09-28",
@@ -36864,6 +37237,13 @@
     "date": "2026-09-30",
     "channel": "Gorax",
     "url": "https://www.youtube.com/watch?v=ydl2Hi0lAy8"
+   },
+   {
+    "verdict": "Top tier support for Toxin and Corrosion teams",
+    "note": "Inflicts Poison Vulnerability and provides team-wide offense and defense via Angelic Alliance artifact and Puppeteer set.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=HqVIrNsj0jg"
    },
    {
     "verdict": "Replaced in premier Corrosion teams",
@@ -39015,6 +39395,13 @@
     "url": "https://www.youtube.com/watch?v=Hb1nVIAgoTE"
    },
    {
+    "verdict": "Top DPS for Toxin team against Durem",
+    "note": "Deals massive AoE damage scaling with Enlightenment and Attack; requires 10-11 Skill Haste to sync skill rotations.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=HqVIrNsj0jg"
+   },
+   {
     "verdict": "Primary DPS for high damage Toxin team",
     "note": "Drives Toxin team damage up to nearly 8 billion when paired with Child of Chaos.",
     "date": "2026-09-28",
@@ -39302,6 +39689,13 @@
     "date": "2026-09-30",
     "channel": "Gorax",
     "url": "https://www.youtube.com/watch?v=ydl2Hi0lAy8"
+   },
+   {
+    "verdict": "Core Toxin DPS / Puppeteer Carrier",
+    "note": "Carries the 3-piece Puppeteer set to grant ultimate energy to poison allies and accelerate team rotation to 18s.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=IPIbglFr7r0"
    },
    {
     "verdict": "Strong secondary Toxin DPS",
@@ -39618,6 +40012,13 @@
     "date": "2026-09-30",
     "channel": "OddOneGaming RPGs",
     "url": "https://www.youtube.com/watch?v=ONMMBlvyWpc"
+   },
+   {
+    "verdict": "Alternative support buffer",
+    "note": "Grants extra Skill Haste and Attack sharing to allies when Alarick is unavailable.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=HqVIrNsj0jg"
    },
    {
     "verdict": "Essential dispelexpert for Boss Joyce",
@@ -40197,6 +40598,13 @@
     "url": "https://www.youtube.com/watch?v=Hb1nVIAgoTE"
    },
    {
+    "verdict": "Core debuffer and healer",
+    "note": "Requires high Accuracy and 40+ Skill Haste to maintain debuffs and stack healing.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=HqVIrNsj0jg"
+   },
+   {
     "verdict": "Essential cleanser and healer",
     "note": "Paired with Oggok for survivability, cleansing Attack Penalty right before damage windows to maximize Toxin procs.",
     "date": "2026-09-28",
@@ -40695,6 +41103,13 @@
     "url": "https://www.youtube.com/watch?v=bzTAdskU1kA"
    },
    {
+    "verdict": "Primary DPS for Corrosion team",
+    "note": "Scales purely with 100% Crit Rate and Crit Damage while ignoring Attack stats.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=HqVIrNsj0jg"
+   },
+   {
     "verdict": "Top Corrosion damage dealer",
     "note": "Reaches extreme damage numbers when paired with Lariel's Tear defense reduction and Corrosion synergy.",
     "date": "2026-09-28",
@@ -40870,6 +41285,13 @@
     "date": "2026-09-30",
     "channel": "Neff Gaming",
     "url": "https://www.youtube.com/watch?v=bzTAdskU1kA"
+   },
+   {
+    "verdict": "High-value Corrosion DPS",
+    "note": "Requires 100% Crit Rate, high Attack, and Crit Damage to maximize damage conversion.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=HqVIrNsj0jg"
    },
    {
     "verdict": "Viable alternative to Whisk",
@@ -45249,6 +45671,13 @@
     "url": "https://www.youtube.com/watch?v=e1p87KNEq0g"
    },
    {
+    "verdict": "Skip / Low priority",
+    "note": "Not recommended to invest in, and his signature artifact Kui Crown in the Golden Bell Shop should be skipped.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=IPIbglFr7r0"
+   },
+   {
     "verdict": "Must-get free Legendary hero",
     "note": "Obtained as the grand reward upon completing Chapter 12 of the Season Journey.",
     "date": "2026-09-28",
@@ -46668,6 +47097,13 @@
     "date": "2026-09-30",
     "channel": "OddOneGaming RPGs",
     "url": "https://www.youtube.com/watch?v=TviMe77f8sQ"
+   },
+   {
+    "verdict": "Top Arena Defense Tank",
+    "note": "Extremely annoying PvP tank featuring invincibility, defense aura, and attack penalty.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=IPIbglFr7r0"
    }
   ],
   "Vitar": [
@@ -46954,6 +47390,13 @@
     "url": "https://www.youtube.com/watch?v=zwqb59YlmvY"
    },
    {
+    "verdict": "Excellent survival support for Durem",
+    "note": "Requires Inspiration 2 to target all 3 Durem bosses, stealing ultimate energy and reducing boss damage.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=HqVIrNsj0jg"
+   },
+   {
     "verdict": "High performance option requiring Inspiration 2",
     "note": "Requires Inspiration 2 to push 2B+ damage in Corrosion teams; replaced by Journ in this budget setup.",
     "date": "2026-09-28",
@@ -47163,6 +47606,13 @@
     "date": "2026-09-30",
     "channel": "OddOneGaming RPGs",
     "url": "https://www.youtube.com/watch?v=TviMe77f8sQ"
+   },
+   {
+    "verdict": "Strong PvP Tank",
+    "note": "Frequently paired with Reytah in high-ranking Grand Gladiator Arena defense lineups.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=IPIbglFr7r0"
    }
   ],
   "Theodemer": [
