@@ -1,0 +1,71 @@
+{
+ "summary": "This video showcases an updated Toxin team performance in the Crown Contest against the Fire Guardians (Lava Balor / Elemental Guardian - Fire). The lineup scores over 3.86 billion damage in a 5-minute encounter. Specific stat thresholds and gear build guidelines are detailed for all five heroes.",
+ "topics": [
+  "Crown Contest",
+  "Fire Guardians",
+  "Toxin Team",
+  "Hero Builds"
+ ],
+ "heroes": [
+  {
+   "name": "Serpentemis",
+   "verdict": "Main DPS for Toxin Crown Contest team",
+   "note": "Build with full Enlightenment and Attack to maximize damage.",
+   "known": true
+  },
+  {
+   "name": "Sleight",
+   "verdict": "Secondary Toxin DPS",
+   "note": "Build with as much Attack as possible.",
+   "known": true
+  },
+  {
+   "name": "Twitch",
+   "verdict": "Toxin enabler and debuffer",
+   "note": "Focus on high Accuracy to apply debuffs reliably.",
+   "known": true
+  },
+  {
+   "name": "Oggok",
+   "verdict": "Resistance buffer and support",
+   "note": "Build full Resistance and take the talent that shares Resistance to the team.",
+   "known": true
+  },
+  {
+   "name": "Sacredeia",
+   "verdict": "Support unit",
+   "note": "Equipped with the Puppeteer artifact/set for team support.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Crown Contest",
+   "heroes": [
+    "Serpentemis",
+    "Sleight",
+    "Twitch",
+    "Oggok",
+    "Sacredeia"
+   ],
+   "note": "Deals 3.86B damage to Lv 240 Elemental Guardian - Fire by maintaining high Resistance across all heroes."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Ensure every hero in the team has at least 250 Resistance for the strategy to work.",
+  "Build Serpentemis focusing on Enlightenment and Attack as the primary damage dealer.",
+  "Equip Oggok with full Resistance and use the talent that shares Resistance with allies."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "GijTOGTEjHI",
+ "model": "gemini-3.5-flash",
+ "channel": "liveranov",
+ "title": "Toxin Team (UPDATED) vs Fire Guardians | Crown Contest | Dragonheir | Season 8",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=GijTOGTEjHI",
+ "short": false,
+ "summarized": "2026-11-10T09:43Z"
+}

@@ -1,5 +1,5 @@
 {
- "built": "2026-11-10T09:41Z",
+ "built": "2026-11-10T09:51Z",
  "videos": [
   {
    "summary": "Gorax showcases the updated end-game Aura team for Temporal Vortex featuring new heroes Annelisis and Holfast. The video details hero builds, artifact options, positioning, alternate support choices, and exact 18-second skill timing rotations. Replacing Lincos with Holfast allows Aura teams to reach over 10 billion damage, outperforming top-tier Toxin teams in single-target bosses.",
@@ -19818,6 +19818,77 @@
    "summarized": "2026-11-03T01:23Z"
   },
   {
+   "summary": "This video showcases an updated Toxin team performance in the Crown Contest against the Fire Guardians (Lava Balor / Elemental Guardian - Fire). The lineup scores over 3.86 billion damage in a 5-minute encounter. Specific stat thresholds and gear build guidelines are detailed for all five heroes.",
+   "topics": [
+    "Crown Contest",
+    "Fire Guardians",
+    "Toxin Team",
+    "Hero Builds"
+   ],
+   "heroes": [
+    {
+     "name": "Serpentemis",
+     "verdict": "Main DPS for Toxin Crown Contest team",
+     "note": "Build with full Enlightenment and Attack to maximize damage.",
+     "known": true
+    },
+    {
+     "name": "Sleight",
+     "verdict": "Secondary Toxin DPS",
+     "note": "Build with as much Attack as possible.",
+     "known": true
+    },
+    {
+     "name": "Twitch",
+     "verdict": "Toxin enabler and debuffer",
+     "note": "Focus on high Accuracy to apply debuffs reliably.",
+     "known": true
+    },
+    {
+     "name": "Oggok",
+     "verdict": "Resistance buffer and support",
+     "note": "Build full Resistance and take the talent that shares Resistance to the team.",
+     "known": true
+    },
+    {
+     "name": "Sacredeia",
+     "verdict": "Support unit",
+     "note": "Equipped with the Puppeteer artifact/set for team support.",
+     "known": true
+    }
+   ],
+   "teams": [
+    {
+     "mode": "Crown Contest",
+     "heroes": [
+      "Serpentemis",
+      "Sleight",
+      "Twitch",
+      "Oggok",
+      "Sacredeia"
+     ],
+     "note": "Deals 3.86B damage to Lv 240 Elemental Guardian - Fire by maintaining high Resistance across all heroes."
+    }
+   ],
+   "meta_changes": [],
+   "tips": [
+    "Ensure every hero in the team has at least 250 Resistance for the strategy to work.",
+    "Build Serpentemis focusing on Enlightenment and Attack as the primary damage dealer.",
+    "Equip Oggok with full Resistance and use the talent that shares Resistance with allies."
+   ],
+   "season": "S8",
+   "server_scope": "S9",
+   "value": "high",
+   "id": "GijTOGTEjHI",
+   "model": "gemini-3.5-flash",
+   "channel": "liveranov",
+   "title": "Toxin Team (UPDATED) vs Fire Guardians | Crown Contest | Dragonheir | Season 8",
+   "published": "2026-09-28T12:00:00+00:00",
+   "url": "https://www.youtube.com/watch?v=GijTOGTEjHI",
+   "short": false,
+   "summarized": "2026-11-10T09:43Z"
+  },
+  {
    "summary": "Neff Gaming completes a massive 2,750 Heliolite Dice summoning session on the Reversal Summon banner to max out Child of Chaos to Inspiration 5 and unlock his exclusive Mythic artifact, Dragonbone Catalyst. While successful, Neff issues a strong warning to players against chasing max Inspiration with real money due to the high financial cost and potential post-spending regret. He equips the maxed Child of Chaos with the upgraded Dragonbone Catalyst to test in Temporal Vortex against top-tier Anselmo teams. The video demonstrates the heavy dice commitment required for high Inspiration levels on Legendary heroes.",
    "topics": [
     "Reversal Summon",
@@ -35910,6 +35981,13 @@
     "url": "https://www.youtube.com/watch?v=ydl2Hi0lAy8"
    },
    {
+    "verdict": "Main DPS for Toxin Crown Contest team",
+    "note": "Build with full Enlightenment and Attack to maximize damage.",
+    "date": "2026-09-28",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=GijTOGTEjHI"
+   },
+   {
     "verdict": "Toxin DPS / Support",
     "note": "Build full Enlightenment and Attack; can equip support artifacts if Lothair is your primary DPS.",
     "date": "2026-09-28",
@@ -37041,6 +37119,13 @@
     "url": "https://www.youtube.com/watch?v=ydl2Hi0lAy8"
    },
    {
+    "verdict": "Resistance buffer and support",
+    "note": "Build full Resistance and take the talent that shares Resistance to the team.",
+    "date": "2026-09-28",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=GijTOGTEjHI"
+   },
+   {
     "verdict": "Pulled legendary hero",
     "note": "Obtained alongside Sagomir in a double legendary pull.",
     "date": "2026-09-28",
@@ -37323,6 +37408,13 @@
     "url": "https://www.youtube.com/watch?v=rwe-Dd4l8ps"
    },
    {
+    "verdict": "Secondary Toxin DPS",
+    "note": "Build with as much Attack as possible.",
+    "date": "2026-09-28",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=GijTOGTEjHI"
+   },
+   {
     "verdict": "Toxin DPS",
     "note": "Build full Attack.",
     "date": "2026-09-28",
@@ -37596,6 +37688,13 @@
     "date": "2026-09-30",
     "channel": "Gorax",
     "url": "https://www.youtube.com/watch?v=ydl2Hi0lAy8"
+   },
+   {
+    "verdict": "Support unit",
+    "note": "Equipped with the Puppeteer artifact/set for team support.",
+    "date": "2026-09-28",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=GijTOGTEjHI"
    },
    {
     "verdict": "Top tier support for Toxin and Corrosion teams",
@@ -40055,6 +40154,13 @@
     "date": "2026-09-30",
     "channel": "Gorax",
     "url": "https://www.youtube.com/watch?v=ydl2Hi0lAy8"
+   },
+   {
+    "verdict": "Toxin enabler and debuffer",
+    "note": "Focus on high Accuracy to apply debuffs reliably.",
+    "date": "2026-09-28",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=GijTOGTEjHI"
    },
    {
     "verdict": "Core Toxin DPS / Puppeteer Carrier",
