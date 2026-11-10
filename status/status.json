@@ -1,13 +1,14 @@
 {
- "built": "2026-11-10T00:56Z",
- "last_fetch": "2026-11-10T00:17Z",
+ "built": "2026-11-10T01:20Z",
+ "last_fetch": "2026-11-10T01:17Z",
  "counts": {
-  "summarized": 415,
+  "summarized": 423,
   "skipped_giveaway": 17,
   "baseline": 22,
-  "new": 229,
+  "new": 217,
   "skipped_live": 1,
-  "failed": 3
+  "failed": 3,
+  "retry": 4
  },
  "problems": [
   {
@@ -15,6 +16,30 @@
    "channel": "liveranov",
    "status": "failed",
    "error": "Expecting value: line 1 column 1 (char 0)"
+  },
+  {
+   "title": "The Strongest Team in Dragonheir: Silent Gods x Dragonstride",
+   "channel": "Skratch Gaming",
+   "status": "retry",
+   "error": ""
+  },
+  {
+   "title": "BEST Burn Setup vs Boss Joyce! | Season 8 Continental Challenge | Dragonheir: Silent Gods",
+   "channel": "Neff Gaming",
+   "status": "retry",
+   "error": ""
+  },
+  {
+   "title": "💥 NO WAY!  💥I Pulled 2 NEW Premiums While Chasing Talethia i5 | Dragonheir x Dragonstridea",
+   "channel": "OddOneGaming RPGs",
+   "status": "retry",
+   "error": ""
+  },
+  {
+   "title": "🚨 Serpentemis Still ROCKS! 🚨 Toxin vs Durem CC Boss S8 GUIDE | Dragonheir x Dragonstride",
+   "channel": "OddOneGaming RPGs",
+   "status": "retry",
+   "error": ""
   },
   {
    "title": "🔥 Season 9 FIRST CROWN CONTEST! Code: SKYASTERIX | Dragonheir: Silent Gods",
@@ -31,55 +56,11 @@
  ],
  "budget": {
   "day": "2026-11-10",
-  "seconds": 10696,
-  "v2": 1
+  "seconds": 15023,
+  "v2": 1,
+  "quota_hit": 1794273567.287556
  },
  "log_tail": [
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (437 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 403 videos, 222 heroes",
-  "== 2026-11-09 17:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (437 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 403 videos, 222 heroes",
-  "== 2026-11-09 18:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (437 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 403 videos, 222 heroes",
-  "== 2026-11-09 19:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (437 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 403 videos, 222 heroes",
-  "== 2026-11-09 20:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (437 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 403 videos, 222 heroes",
-  "curl: (56) Recv failure: Connection reset by peer",
-  "== 2026-11-09 21:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (437 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 403 videos, 222 heroes",
-  "== 2026-11-09 22:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (437 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 403 videos, 222 heroes",
-  "== 2026-11-09 23:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (437 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 403 videos, 222 heroes",
-  "== 2026-11-10 00:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "… Suzi Plays: LILY BROUGHT THE LUCK! 💥My INSANE Start for Anneliesis Banne",
-  "… Skratch Gaming: Can Holfast Replace A Maxed Lincos?? Dragonheir: Silent Gods… Gorax: Resurgent Dragon Ultimate Guide – 8 Teams, Builds & Codes | … Skratch Gaming: I Went to China to Visit the Dragonheir: Silent Gods Studio!",
-  "",
   "",
   "… OddOneGaming RPGs: 💥 1 Team FULL AUTO All Stages 💥Meander Trial 1-60 S8 Team Sh",
   "saved UtZmF-8dKVw",
@@ -114,7 +95,52 @@
   "+ Skratch Gaming: Can Holfast Replace A Maxed Lincos?? Dragonheir: Silent Gods",
   "saved NEVHI1wjARM",
   "+ OddOneGaming RPGs: 💥 1 Team FULL AUTO All Stages 💥Meander Trial 1-60 S8 Team Sh",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 415 videos, 226 heroes"
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 415 videos, 226 heroes",
+  "== 2026-11-10 01:17",
+  "fetch done: 0 new transcripts, 0 not available yet",
+  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
+  "… Skyasterix Gaming: ⚠️ Child of Chaos is COMING - Fantastic Teaser! 🔥 | Dragonhe",
+  "… Gorax: Fate Test - ALL Questions & Answers! Get Legendary Hero You ",
+  "… Skyasterix Gaming: CHILD OF SCAM?! 😱 My WORST Summons EVER! | Dragonheir: Silen",
+  "… Gorax: All 6 Bosses & Mechanics You NEED to Know | Continental Chal",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "… Suzi Plays: My CODE & MORE HELIOLITE! 🧡 QUIZ PROMO CODE #9 🎁 3rd Anniver",
+  "saved LI0IGikvqJc",
+  "+ Gorax: Fate Test - ALL Questions & Answers! Get Legendary Hero You ",
+  "… Skratch Gaming: GET BIG DAMAGE! My Temporal Vortex Team | Dragonheir: Silent",
+  "saved KmSNUMhqu7A",
+  "+ Suzi Plays: My CODE & MORE HELIOLITE! 🧡 QUIZ PROMO CODE #9 🎁 3rd Anniver",
+  "… Skratch Gaming: USE These Teams For The Crown Contest! Dragonheir: Silent Go",
+  "saved KypMuG9CP_I",
+  "+ Gorax: All 6 Bosses & Mechanics You NEED to Know | Continental Chal",
+  "… Neff Gaming: A Critical Message for Child of Chaos Faction: How We Turn T",
+  "saved LHU2IlO1Goo (unknown hero names: Labaoer)",
+  "+ Skyasterix Gaming: CHILD OF SCAM?! 😱 My WORST Summons EVER! | Dragonheir: Silen",
+  "… Skratch Gaming: The Strongest Team in Dragonheir: Silent Gods x Dragonstride",
+  "saved K2nfz4G_H-w",
+  "+ Neff Gaming: A Critical Message for Child of Chaos Faction: How We Turn T",
+  "… OddOneGaming RPGs: 🚨 Serpentemis Still ROCKS! 🚨 Toxin vs Durem CC Boss S8 GUIDE",
+  "… OddOneGaming RPGs: 💥 NO WAY!  💥I Pulled 2 NEW Premiums While Chasing Talethia i",
+  "saved Kednd9zRcJ8",
+  "+ Skratch Gaming: USE These Teams For The Crown Contest! Dragonheir: Silent Go",
+  "saved KhU12r5-B1E (unknown hero names: Jenka)",
+  "+ Skratch Gaming: GET BIG DAMAGE! My Temporal Vortex Team | Dragonheir: Silent",
+  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
+  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
+  "… Neff Gaming: BEST Burn Setup vs Boss Joyce! | Season 8 Continental Challe",
+  "! The Strongest Team in Dragonheir: Silent Gods x Dr: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+  "! BEST Burn Setup vs Boss Joyce! | Season 8 Continen: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
+  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
+  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
+  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
+  "! 🚨 Serpentemis Still ROCKS! 🚨 Toxin vs Durem CC Bos: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+  "! 💥 NO WAY!  💥I Pulled 2 NEW Premiums While Chasing : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+  "saved LOIzIR-Nk8g",
+  "+ Skyasterix Gaming: ⚠️ Child of Chaos is COMING - Fantastic Teaser! 🔥 | Dragonhe"
  ],
  "crontab": [],
  "channels": [
@@ -122,55 +148,55 @@
    "name": "Skratch Gaming",
    "id": "UCoSkzr1pXpt3d0jIxsc6ufw",
    "enabled": true,
-   "checked": "2026-11-10T00:17Z"
+   "checked": "2026-11-10T01:17Z"
   },
   {
    "name": "Gorax",
    "id": "UCNas7BnuOIjDEzY1D53kb1w",
    "enabled": true,
-   "checked": "2026-11-10T00:17Z"
+   "checked": "2026-11-10T01:17Z"
   },
   {
    "name": "Neff Gaming",
    "id": "UCsxs6YhNd_B36RgUAjbpJ_A",
    "enabled": true,
-   "checked": "2026-11-10T00:17Z"
+   "checked": "2026-11-10T01:17Z"
   },
   {
    "name": "Volkin Dragonheir",
    "id": "UCfRpOh_ywVjzhh9fxHbreGw",
    "enabled": true,
-   "checked": "2026-11-10T00:17Z"
+   "checked": "2026-11-10T01:17Z"
   },
   {
    "name": "Fastidious Dragonheir",
    "id": "UC16mpj5wEemSZX-uTlHe9Ww",
    "enabled": true,
-   "checked": "2026-11-10T00:17Z"
+   "checked": "2026-11-10T01:17Z"
   },
   {
    "name": "OddOneGaming RPGs",
    "id": "UC1ivUEf_poI9_R2eVKa8wRQ",
    "enabled": true,
-   "checked": "2026-11-10T00:17Z"
+   "checked": "2026-11-10T01:17Z"
   },
   {
    "name": "Suzi Plays",
    "id": "UCyo1-TkunhGcK6khU1h8Ypw",
    "enabled": true,
-   "checked": "2026-11-10T00:17Z"
+   "checked": "2026-11-10T01:17Z"
   },
   {
    "name": "Skyasterix Gaming",
    "id": "UCr5Gb3910rK7QPmKMmdagsA",
    "enabled": true,
-   "checked": "2026-11-10T00:17Z"
+   "checked": "2026-11-10T01:17Z"
   },
   {
    "name": "liveranov",
    "id": "UCqCR7ofFHhWwXy3Hg00fqEw",
    "enabled": true,
-   "checked": "2026-11-10T00:17Z"
+   "checked": "2026-11-10T01:17Z"
   }
  ]
 }

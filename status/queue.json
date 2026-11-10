@@ -1,92 +1,12 @@
 {
- "built": "2026-11-10T00:56Z",
+ "built": "2026-11-10T01:20Z",
  "videos": [
-  {
-   "id": "LOIzIR-Nk8g",
-   "title": "⚠️ Child of Chaos is COMING - Fantastic Teaser! 🔥 | Dragonheir: Silent Gods",
-   "channel": "Skyasterix Gaming",
-   "published": "2026-09-28T12:00:00+00:00",
-   "status": "new",
-   "priority": false,
-   "duration_s": 215,
-   "error": ""
-  },
-  {
-   "id": "LI0IGikvqJc",
-   "title": "Fate Test - ALL Questions & Answers! Get Legendary Hero You Want | Dragonheir x Dragonstride",
-   "channel": "Gorax",
-   "published": "2026-09-28T12:00:00+00:00",
-   "status": "new",
-   "priority": false,
-   "duration_s": 260,
-   "error": ""
-  },
-  {
-   "id": "LHU2IlO1Goo",
-   "title": "CHILD OF SCAM?! 😱 My WORST Summons EVER! | Dragonheir: Silent Gods",
-   "channel": "Skyasterix Gaming",
-   "published": "2026-09-28T12:00:00+00:00",
-   "status": "new",
-   "priority": false,
-   "duration_s": 1012,
-   "error": ""
-  },
-  {
-   "id": "KypMuG9CP_I",
-   "title": "All 6 Bosses & Mechanics You NEED to Know | Continental Challenge | Dragonheir x Dragonstride",
-   "channel": "Gorax",
-   "published": "2026-09-28T12:00:00+00:00",
-   "status": "new",
-   "priority": false,
-   "duration_s": 892,
-   "error": ""
-  },
-  {
-   "id": "KmSNUMhqu7A",
-   "title": "My CODE & MORE HELIOLITE! 🧡 QUIZ PROMO CODE #9 🎁 3rd Anniversary Event🔥 Dragonheir x Dragonstride",
-   "channel": "Suzi Plays",
-   "published": "2026-09-28T12:00:00+00:00",
-   "status": "new",
-   "priority": false,
-   "duration_s": 154,
-   "error": ""
-  },
-  {
-   "id": "KhU12r5-B1E",
-   "title": "GET BIG DAMAGE! My Temporal Vortex Team | Dragonheir: Silent Gods x Dragonstride",
-   "channel": "Skratch Gaming",
-   "published": "2026-09-28T12:00:00+00:00",
-   "status": "new",
-   "priority": false,
-   "duration_s": 831,
-   "error": ""
-  },
-  {
-   "id": "Kednd9zRcJ8",
-   "title": "USE These Teams For The Crown Contest! Dragonheir: Silent Gods x Dragonstride",
-   "channel": "Skratch Gaming",
-   "published": "2026-09-28T12:00:00+00:00",
-   "status": "new",
-   "priority": false,
-   "duration_s": 770,
-   "error": ""
-  },
-  {
-   "id": "K2nfz4G_H-w",
-   "title": "A Critical Message for Child of Chaos Faction: How We Turn Things Around | Dragonheir: Silent Gods",
-   "channel": "Neff Gaming",
-   "published": "2026-09-28T12:00:00+00:00",
-   "status": "new",
-   "priority": false,
-   "duration_s": 193,
-   "error": ""
-  },
   {
    "id": "Jqs7wSn2_p0",
    "title": "The Strongest Team in Dragonheir: Silent Gods x Dragonstride",
    "channel": "Skratch Gaming",
    "published": "2026-09-28T12:00:00+00:00",
-   "status": "new",
+   "status": "retry",
    "priority": false,
    "duration_s": 800,
    "error": ""
@@ -96,7 +16,7 @@
    "title": "🚨 Serpentemis Still ROCKS! 🚨 Toxin vs Durem CC Boss S8 GUIDE | Dragonheir x Dragonstride",
    "channel": "OddOneGaming RPGs",
    "published": "2026-09-28T12:00:00+00:00",
-   "status": "new",
+   "status": "retry",
    "priority": false,
    "duration_s": 835,
    "error": ""
@@ -106,7 +26,7 @@
    "title": "💥 NO WAY!  💥I Pulled 2 NEW Premiums While Chasing Talethia i5 | Dragonheir x Dragonstridea",
    "channel": "OddOneGaming RPGs",
    "published": "2026-09-28T12:00:00+00:00",
-   "status": "new",
+   "status": "retry",
    "priority": false,
    "duration_s": 609,
    "error": ""
@@ -116,7 +36,7 @@
    "title": "BEST Burn Setup vs Boss Joyce! | Season 8 Continental Challenge | Dragonheir: Silent Gods",
    "channel": "Neff Gaming",
    "published": "2026-09-28T12:00:00+00:00",
-   "status": "new",
+   "status": "retry",
    "priority": false,
    "duration_s": 413,
    "error": ""

@@ -1,0 +1,116 @@
+{
+ "summary": "Skratch demonstrates his updated Temporal Vortex setups aiming for over 20 Billion total damage using Dauntless and Toxin teams. He covers Psychicore adjustments, opting for Damage Resistance nodes over raw damage to improve Dauntless survivability. He details key gear setups including Secrecy Order on Maashtur and high Accuracy on Twitch to capitalize on the boss's team-wide damage reduction mechanic.",
+ "topics": [
+  "Temporal Vortex",
+  "Dauntless Team",
+  "Toxin Team",
+  "Psychicore",
+  "Gear Builds"
+ ],
+ "heroes": [
+  {
+   "name": "Maashtur",
+   "verdict": "Key shielder for Dauntless team",
+   "note": "Equipped with the Secrecy Order set to boost team damage while allies are shielded.",
+   "known": true
+  },
+  {
+   "name": "Selva",
+   "verdict": "Dauntless shield enabler",
+   "note": "Helps maintain shields and provides team-wide damage buffs through gear set procs.",
+   "known": true
+  },
+  {
+   "name": "Guinavivre",
+   "verdict": "Primary Dauntless DPS",
+   "note": "Performs best with the Knight Order of Dragon Blood set for HP-to-Attack conversion paired with high Crit Damage.",
+   "known": true
+  },
+  {
+   "name": "Jenka",
+   "verdict": "High damage Dauntless unit",
+   "note": "Built with full mythic gear focusing on attack, crit damage, and survival stats.",
+   "known": false
+  },
+  {
+   "name": "Kurvida",
+   "verdict": "Dauntless DPS/Debuffer",
+   "note": "Built with extra defense stats to maintain uptime during long boss encounters.",
+   "known": true
+  },
+  {
+   "name": "Twitch",
+   "verdict": "Accuracy buffer for Toxin team",
+   "note": "Built with maximum Accuracy to trigger the Temporal Vortex boss mechanic that grants team damage reduction based on highest Accuracy.",
+   "known": true
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "Core Toxin DPS",
+   "note": "Requires high Accuracy to prevent debuff resists, as missed debuffs cause huge damage drop-offs.",
+   "known": true
+  },
+  {
+   "name": "Reytah",
+   "verdict": "Toxin survival support",
+   "note": "Provides vital healing and passive damage reduction that keeps the Toxin team alive for the full fight duration.",
+   "known": true
+  },
+  {
+   "name": "Stegamoffyn",
+   "verdict": "Toxin DPS",
+   "note": "Benefits significantly from elemental ascension on gear pieces to push higher overall damage.",
+   "known": true
+  },
+  {
+   "name": "Sleight",
+   "verdict": "Toxin enabler",
+   "note": "Positioned strategic in the front line to maximize team synergy and attack buffs.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Temporal Vortex",
+   "heroes": [
+    "Maashtur",
+    "Selva",
+    "Guinavivre",
+    "Jenka",
+    "Kurvida"
+   ],
+   "note": "Dauntless team capable of 9-10B+ damage; requires Damage Resistance Psychicore nodes to survive long fights."
+  },
+  {
+   "mode": "Temporal Vortex",
+   "heroes": [
+    "Sleight",
+    "Stegamoffyn",
+    "Serpentemis",
+    "Twitch",
+    "Reytah"
+   ],
+   "note": "Toxin team reaching 11B+ damage; relies on high Accuracy on Twitch for team damage reduction."
+  }
+ ],
+ "meta_changes": [
+  "Fey Meander challenge mode unlocks higher tier tempering materials and Mythic gear sets that drastically lift damage caps in Temporal Vortex."
+ ],
+ "tips": [
+  "Switch Psychicore nodes to Damage Resistance for Vertigo/Dauntless heroes if they die before the 3-minute mark.",
+  "Build your highest Accuracy hero (such as Twitch) as high as possible in Temporal Vortex when Nocturna's handicap is active to grant the entire team free damage reduction.",
+  "Prioritize tempering materials on gear slots for fragile teams to stabilize run consistency.",
+  "Ensure debuffers like Serpentemis do not miss accuracy checks, as resisted debuffs can cost over 1 Billion in total damage."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "KhU12r5-B1E",
+ "model": "gemini-3.5-flash",
+ "channel": "Skratch Gaming",
+ "title": "GET BIG DAMAGE! My Temporal Vortex Team | Dragonheir: Silent Gods x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=KhU12r5-B1E",
+ "short": false,
+ "summarized": "2026-11-10T01:18Z"
+}

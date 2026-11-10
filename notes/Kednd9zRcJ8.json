@@ -1,0 +1,106 @@
+{
+ "summary": "Skratch showcases top performing teams for the Lightning Fortress in Crown Contest, highlighting Toxin, Aura, and Dauntless compositions. He demonstrates how adjusting skill timings and using survival artifacts like Aurellium Vest on Solmo are key to surviving high boss damage and hitting multi-billion damage scores. A Toxin team centered around Child of Chaos and Lothair achieved nearly 8 billion damage, while Dauntless hit over 7.1 billion.",
+ "topics": [
+  "Crown Contest",
+  "Lightning Fortress",
+  "Boss Guide",
+  "Team Compositions"
+ ],
+ "heroes": [
+  {
+   "name": "Child of Chaos",
+   "verdict": "Top tier lead for Toxin and Dauntless teams",
+   "note": "Used in Puppeteer set to push teammates and provide massive utility in Crown Contest.",
+   "known": true
+  },
+  {
+   "name": "Lothair",
+   "verdict": "Primary DPS for high damage Toxin team",
+   "note": "Drives Toxin team damage up to nearly 8 billion when paired with Child of Chaos.",
+   "known": true
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "Strong Toxin DPS option",
+   "note": "Serves as the main damage dealer when running Toxin variations with Twitch.",
+   "known": true
+  },
+  {
+   "name": "Solmo",
+   "verdict": "Essential frontline for Aura team",
+   "note": "Requires Aurellium Vest artifact to prevent the team from getting wiped by the boss's initial burst.",
+   "known": true
+  },
+  {
+   "name": "Twitch",
+   "verdict": "Budget Toxin substitute",
+   "note": "Can replace Lothair if unavailable, maintaining around 5.6 billion damage.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Crown Contest - Lightning Fortress",
+   "heroes": [
+    "Child of Chaos",
+    "Lothair",
+    "Serpentemis",
+    "Sleight",
+    "Reytah"
+   ],
+   "note": "Toxin team reaching nearly 8 billion damage; relies on Puppeteer set on Child of Chaos and Misty Conch on Reytah."
+  },
+  {
+   "mode": "Crown Contest - Lightning Fortress",
+   "heroes": [
+    "Child of Chaos",
+    "Twitch",
+    "Serpentemis",
+    "Sleight",
+    "Reytah"
+   ],
+   "note": "Alternative Toxin variant substituting Lothair for Twitch, reaching 5.6 billion damage."
+  },
+  {
+   "mode": "Crown Contest - Lightning Fortress",
+   "heroes": [
+    "Solmo",
+    "Lincos",
+    "Talethia",
+    "Diantha",
+    "Anneliesis"
+   ],
+   "note": "Aura Vortex team achieving ~6.6 billion damage; Solmo must wear Aurellium Vest for team survival."
+  },
+  {
+   "mode": "Crown Contest - Lightning Fortress",
+   "heroes": [
+    "Guinavivre",
+    "Nastjenka",
+    "Child of Chaos",
+    "Kurvida",
+    "Selva"
+   ],
+   "note": "Dauntless team reaching 7.1B+ damage when skill timings are tuned to prevent early hero deaths."
+  }
+ ],
+ "meta_changes": [
+  "Crown Contest boss difficulty and damage output increased significantly from previous weeks, requiring survival artifacts like Aurellium Vest."
+ ],
+ "tips": [
+  "Equip Solmo with Aurellium Vest in Aura teams to absorb initial boss AoE damage.",
+  "Tune ultimate skill timings (e.g. 17.5s or 22.5s recast intervals) to align defense debuffs and survival shields with boss skill cycles.",
+  "Use Twitch as a viable alternative DPS in Toxin teams if you do not own Lothair."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "Kednd9zRcJ8",
+ "model": "gemini-3.5-flash",
+ "channel": "Skratch Gaming",
+ "title": "USE These Teams For The Crown Contest! Dragonheir: Silent Gods x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=Kednd9zRcJ8",
+ "short": false,
+ "summarized": "2026-11-10T01:18Z"
+}

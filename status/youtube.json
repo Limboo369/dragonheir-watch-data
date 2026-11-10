@@ -1,5 +1,5 @@
 {
- "built": "2026-11-10T00:56Z",
+ "built": "2026-11-10T01:20Z",
  "videos": [
   {
    "summary": "Suzi conducts a massive summon session on the returning Radiant Wings banner featuring Anneliesis with her daughter Lily. She discusses Anneliesis's summon value, noting she has not been available in over a year and is a very unique hero worth acquiring. She analyzes Anneliesis's inspiration levels, highlighting that I1 through I3 provide huge value, whereas pushing to I5 is unnecessary for most players because the buff does not stack with heroes like Holfast. Ultimately, she recommends players aim for I3 at most and stop there.",
@@ -19741,6 +19741,535 @@
    "summarized": "2026-11-03T01:23Z"
   },
   {
+   "summary": "Neff Gaming addresses members of the Child of Chaos faction during the Nightveil Standoff event, where Order of Reversal is trailing behind Nightsworn Vanguard. He urges players to participate in Magic Chess during its two daily time windows to boost contribution points. Additionally, he explains how creator reputation points are earned, highlighting that watching eligible content accounts for 50% of reputation. He suggests leaving his dedicated YouTube playlist running on mute in the background to help increase the faction's standings.",
+   "topics": [
+    "Nightveil Standoff",
+    "Child of Chaos",
+    "Faction Standoff",
+    "Magic Chess",
+    "Creator Binding"
+   ],
+   "heroes": [],
+   "teams": [],
+   "meta_changes": [],
+   "tips": [
+    "Play Magic Chess during the two available daily time windows to earn maximum contribution points for the Order of Reversal.",
+    "Ensure creator binding with your chosen creator is completed to claim the 10,000 Reputation point bonus.",
+    "Open the creator's eligible content playlist, mute the audio, and let it play in the background to generate views and earn reputation points continuously."
+   ],
+   "season": "unknown",
+   "server_scope": "mixed",
+   "value": "low",
+   "id": "K2nfz4G_H-w",
+   "model": "gemini-3.5-flash",
+   "channel": "Neff Gaming",
+   "title": "A Critical Message for Child of Chaos Faction: How We Turn Things Around | Dragonheir: Silent Gods",
+   "published": "2026-09-28T12:00:00+00:00",
+   "url": "https://www.youtube.com/watch?v=K2nfz4G_H-w",
+   "short": false,
+   "summarized": "2026-11-10T01:18Z"
+  },
+  {
+   "summary": "Skratch showcases top performing teams for the Lightning Fortress in Crown Contest, highlighting Toxin, Aura, and Dauntless compositions. He demonstrates how adjusting skill timings and using survival artifacts like Aurellium Vest on Solmo are key to surviving high boss damage and hitting multi-billion damage scores. A Toxin team centered around Child of Chaos and Lothair achieved nearly 8 billion damage, while Dauntless hit over 7.1 billion.",
+   "topics": [
+    "Crown Contest",
+    "Lightning Fortress",
+    "Boss Guide",
+    "Team Compositions"
+   ],
+   "heroes": [
+    {
+     "name": "Child of Chaos",
+     "verdict": "Top tier lead for Toxin and Dauntless teams",
+     "note": "Used in Puppeteer set to push teammates and provide massive utility in Crown Contest.",
+     "known": true
+    },
+    {
+     "name": "Lothair",
+     "verdict": "Primary DPS for high damage Toxin team",
+     "note": "Drives Toxin team damage up to nearly 8 billion when paired with Child of Chaos.",
+     "known": true
+    },
+    {
+     "name": "Serpentemis",
+     "verdict": "Strong Toxin DPS option",
+     "note": "Serves as the main damage dealer when running Toxin variations with Twitch.",
+     "known": true
+    },
+    {
+     "name": "Solmo",
+     "verdict": "Essential frontline for Aura team",
+     "note": "Requires Aurellium Vest artifact to prevent the team from getting wiped by the boss's initial burst.",
+     "known": true
+    },
+    {
+     "name": "Twitch",
+     "verdict": "Budget Toxin substitute",
+     "note": "Can replace Lothair if unavailable, maintaining around 5.6 billion damage.",
+     "known": true
+    }
+   ],
+   "teams": [
+    {
+     "mode": "Crown Contest - Lightning Fortress",
+     "heroes": [
+      "Child of Chaos",
+      "Lothair",
+      "Serpentemis",
+      "Sleight",
+      "Reytah"
+     ],
+     "note": "Toxin team reaching nearly 8 billion damage; relies on Puppeteer set on Child of Chaos and Misty Conch on Reytah."
+    },
+    {
+     "mode": "Crown Contest - Lightning Fortress",
+     "heroes": [
+      "Child of Chaos",
+      "Twitch",
+      "Serpentemis",
+      "Sleight",
+      "Reytah"
+     ],
+     "note": "Alternative Toxin variant substituting Lothair for Twitch, reaching 5.6 billion damage."
+    },
+    {
+     "mode": "Crown Contest - Lightning Fortress",
+     "heroes": [
+      "Solmo",
+      "Lincos",
+      "Talethia",
+      "Diantha",
+      "Anneliesis"
+     ],
+     "note": "Aura Vortex team achieving ~6.6 billion damage; Solmo must wear Aurellium Vest for team survival."
+    },
+    {
+     "mode": "Crown Contest - Lightning Fortress",
+     "heroes": [
+      "Guinavivre",
+      "Nastjenka",
+      "Child of Chaos",
+      "Kurvida",
+      "Selva"
+     ],
+     "note": "Dauntless team reaching 7.1B+ damage when skill timings are tuned to prevent early hero deaths."
+    }
+   ],
+   "meta_changes": [
+    "Crown Contest boss difficulty and damage output increased significantly from previous weeks, requiring survival artifacts like Aurellium Vest."
+   ],
+   "tips": [
+    "Equip Solmo with Aurellium Vest in Aura teams to absorb initial boss AoE damage.",
+    "Tune ultimate skill timings (e.g. 17.5s or 22.5s recast intervals) to align defense debuffs and survival shields with boss skill cycles.",
+    "Use Twitch as a viable alternative DPS in Toxin teams if you do not own Lothair."
+   ],
+   "season": "S9",
+   "server_scope": "S9",
+   "value": "high",
+   "id": "Kednd9zRcJ8",
+   "model": "gemini-3.5-flash",
+   "channel": "Skratch Gaming",
+   "title": "USE These Teams For The Crown Contest! Dragonheir: Silent Gods x Dragonstride",
+   "published": "2026-09-28T12:00:00+00:00",
+   "url": "https://www.youtube.com/watch?v=Kednd9zRcJ8",
+   "short": false,
+   "summarized": "2026-11-10T01:18Z"
+  },
+  {
+   "summary": "Skratch demonstrates his updated Temporal Vortex setups aiming for over 20 Billion total damage using Dauntless and Toxin teams. He covers Psychicore adjustments, opting for Damage Resistance nodes over raw damage to improve Dauntless survivability. He details key gear setups including Secrecy Order on Maashtur and high Accuracy on Twitch to capitalize on the boss's team-wide damage reduction mechanic.",
+   "topics": [
+    "Temporal Vortex",
+    "Dauntless Team",
+    "Toxin Team",
+    "Psychicore",
+    "Gear Builds"
+   ],
+   "heroes": [
+    {
+     "name": "Maashtur",
+     "verdict": "Key shielder for Dauntless team",
+     "note": "Equipped with the Secrecy Order set to boost team damage while allies are shielded.",
+     "known": true
+    },
+    {
+     "name": "Selva",
+     "verdict": "Dauntless shield enabler",
+     "note": "Helps maintain shields and provides team-wide damage buffs through gear set procs.",
+     "known": true
+    },
+    {
+     "name": "Guinavivre",
+     "verdict": "Primary Dauntless DPS",
+     "note": "Performs best with the Knight Order of Dragon Blood set for HP-to-Attack conversion paired with high Crit Damage.",
+     "known": true
+    },
+    {
+     "name": "Jenka",
+     "verdict": "High damage Dauntless unit",
+     "note": "Built with full mythic gear focusing on attack, crit damage, and survival stats.",
+     "known": false
+    },
+    {
+     "name": "Kurvida",
+     "verdict": "Dauntless DPS/Debuffer",
+     "note": "Built with extra defense stats to maintain uptime during long boss encounters.",
+     "known": true
+    },
+    {
+     "name": "Twitch",
+     "verdict": "Accuracy buffer for Toxin team",
+     "note": "Built with maximum Accuracy to trigger the Temporal Vortex boss mechanic that grants team damage reduction based on highest Accuracy.",
+     "known": true
+    },
+    {
+     "name": "Serpentemis",
+     "verdict": "Core Toxin DPS",
+     "note": "Requires high Accuracy to prevent debuff resists, as missed debuffs cause huge damage drop-offs.",
+     "known": true
+    },
+    {
+     "name": "Reytah",
+     "verdict": "Toxin survival support",
+     "note": "Provides vital healing and passive damage reduction that keeps the Toxin team alive for the full fight duration.",
+     "known": true
+    },
+    {
+     "name": "Stegamoffyn",
+     "verdict": "Toxin DPS",
+     "note": "Benefits significantly from elemental ascension on gear pieces to push higher overall damage.",
+     "known": true
+    },
+    {
+     "name": "Sleight",
+     "verdict": "Toxin enabler",
+     "note": "Positioned strategic in the front line to maximize team synergy and attack buffs.",
+     "known": true
+    }
+   ],
+   "teams": [
+    {
+     "mode": "Temporal Vortex",
+     "heroes": [
+      "Maashtur",
+      "Selva",
+      "Guinavivre",
+      "Jenka",
+      "Kurvida"
+     ],
+     "note": "Dauntless team capable of 9-10B+ damage; requires Damage Resistance Psychicore nodes to survive long fights."
+    },
+    {
+     "mode": "Temporal Vortex",
+     "heroes": [
+      "Sleight",
+      "Stegamoffyn",
+      "Serpentemis",
+      "Twitch",
+      "Reytah"
+     ],
+     "note": "Toxin team reaching 11B+ damage; relies on high Accuracy on Twitch for team damage reduction."
+    }
+   ],
+   "meta_changes": [
+    "Fey Meander challenge mode unlocks higher tier tempering materials and Mythic gear sets that drastically lift damage caps in Temporal Vortex."
+   ],
+   "tips": [
+    "Switch Psychicore nodes to Damage Resistance for Vertigo/Dauntless heroes if they die before the 3-minute mark.",
+    "Build your highest Accuracy hero (such as Twitch) as high as possible in Temporal Vortex when Nocturna's handicap is active to grant the entire team free damage reduction.",
+    "Prioritize tempering materials on gear slots for fragile teams to stabilize run consistency.",
+    "Ensure debuffers like Serpentemis do not miss accuracy checks, as resisted debuffs can cost over 1 Billion in total damage."
+   ],
+   "season": "S9",
+   "server_scope": "S9",
+   "value": "high",
+   "id": "KhU12r5-B1E",
+   "model": "gemini-3.5-flash",
+   "channel": "Skratch Gaming",
+   "title": "GET BIG DAMAGE! My Temporal Vortex Team | Dragonheir: Silent Gods x Dragonstride",
+   "published": "2026-09-28T12:00:00+00:00",
+   "url": "https://www.youtube.com/watch?v=KhU12r5-B1E",
+   "short": false,
+   "summarized": "2026-11-10T01:18Z"
+  },
+  {
+   "summary": "This video covers the 9th anniversary quiz promo code for Dragonheir: Silent Gods. Creator Suzi Plays demonstrates redeeming the code DECRESCENT to receive 15 Heliolite Dice from the in-game mail. She also mentions her ongoing creator promo code SUZIPLAYS0003 for extra reward bonuses. Finally, she briefly shows her Season 7 progress and equipped hero Vinyara.",
+   "topics": [
+    "redeem code",
+    "promo code",
+    "anniversary event",
+    "heliolite dice"
+   ],
+   "heroes": [],
+   "teams": [],
+   "meta_changes": [],
+   "tips": [
+    "Redeem the promo code DECRESCENT in-game to claim 15 Heliolite Dice.",
+    "Use creator promo code SUZIPLAYS0003 for extra bonus rewards."
+   ],
+   "season": "S7",
+   "server_scope": "S1",
+   "value": "low",
+   "id": "KmSNUMhqu7A",
+   "model": "gemini-3.5-flash",
+   "channel": "Suzi Plays",
+   "title": "My CODE & MORE HELIOLITE! 🧡 QUIZ PROMO CODE #9 🎁 3rd Anniversary Event🔥 Dragonheir x Dragonstride",
+   "published": "2026-09-28T12:00:00+00:00",
+   "url": "https://www.youtube.com/watch?v=KmSNUMhqu7A",
+   "short": false,
+   "summarized": "2026-11-10T01:17Z"
+  },
+  {
+   "summary": "Gorax previews all six bosses featured in the Continental Challenge event and breaks down their unique battle mechanics and counters. He explains key strategies for Talethia, Joyce, Whisk, Elecebre, Durem, and Iola, highlighting required team archetypes such as Thunderbolt, Aura, Dauntless, Ice Blast, and Toxin. Gorax also provides advice on managing debuffs, energy drain, HP thresholds, and crowd control immunity across the boss fights.",
+   "topics": [
+    "Continental Challenge",
+    "Boss Mechanics",
+    "Team Building",
+    "Talethia",
+    "Joyce",
+    "Whisk",
+    "Elecebre",
+    "Durem",
+    "Iola"
+   ],
+   "heroes": [
+    {
+     "name": "Fathomdown",
+     "verdict": "Top pick for Whisk boss",
+     "note": "Drains energy from Whisk to prevent him from casting his dangerous ultimate skill.",
+     "known": true
+    },
+    {
+     "name": "Shinnah",
+     "verdict": "Great pick for Elecebre boss",
+     "note": "Ice Blast passive talent automatically dispels boss shields and buffs to activate team damage bonuses.",
+     "known": true
+    },
+    {
+     "name": "Rena",
+     "verdict": "Key hero for Joyce boss formations",
+     "note": "Enables high damage potential when built into Aura team setups for the Joyce fight.",
+     "known": true
+    },
+    {
+     "name": "Child of Chaos",
+     "verdict": "Meta-shifting hero option",
+     "note": "Expected to change optimal team setups across Continental Challenge once released.",
+     "known": true
+    }
+   ],
+   "teams": [
+    {
+     "mode": "Continental Challenge - Talethia",
+     "heroes": [
+      "Thunderbolt Team"
+     ],
+     "note": "Deploying heroes of three different elements triggers a 50% damage boost against Talethia."
+    },
+    {
+     "mode": "Continental Challenge - Joyce",
+     "heroes": [
+      "Rena",
+      "Aura Team"
+     ],
+     "note": "Aura teams handle Joyce and her cloned summons best to achieve top damage output."
+    },
+    {
+     "mode": "Continental Challenge - Whisk",
+     "heroes": [
+      "Fathomdown",
+      "Dauntless Team"
+     ],
+     "note": "Single-target Dauntless setup combined with Fathomdown energy drain prevents Whisk from using ultimate abilities."
+    },
+    {
+     "mode": "Continental Challenge - Elecebre",
+     "heroes": [
+      "Shinnah",
+      "Ice Blast Team"
+     ],
+     "note": "Ice Blast team automatically dispels Elecebre's buffs while offering defense against her charm and blind effects."
+    },
+    {
+     "mode": "Continental Challenge - Durem",
+     "heroes": [
+      "Toxin Team"
+     ],
+     "note": "Enlightenment Toxin team with single healer keeps hero HP above 90% for a 25% damage boost while avoiding shields."
+    }
+   ],
+   "meta_changes": [
+    "Continental Challenge boss mechanics enforce specific counter strategies such as multi-element drafting, energy denial, shield avoidance, and CC immunity.",
+    "Child of Chaos is anticipated to redefine high-end Continental Challenge team compositions."
+   ],
+   "tips": [
+    "Avoid using shield casters against Durem and Joyce as both bosses counter shield mechanics.",
+    "Deploy heroes of three distinct elements against Talethia to receive an automatic 50% damage increase.",
+    "Use energy stealers like Fathomdown against Whisk to keep him from ever casting his ultimate skill.",
+    "Keep hero HP above 90% when using Enlightenment teams on Durem to gain +25% Enlightenment damage.",
+    "Bring CC immunity or debuff prevention against Elecebre and Iola to avoid team-wiping silence, charm, and stun effects."
+   ],
+   "season": "S9",
+   "server_scope": "S9",
+   "value": "high",
+   "id": "KypMuG9CP_I",
+   "model": "gemini-3.5-flash",
+   "channel": "Gorax",
+   "title": "All 6 Bosses & Mechanics You NEED to Know | Continental Challenge | Dragonheir x Dragonstride",
+   "published": "2026-09-28T12:00:00+00:00",
+   "url": "https://www.youtube.com/watch?v=KypMuG9CP_I",
+   "short": false,
+   "summarized": "2026-11-10T01:18Z"
+  },
+  {
+   "summary": "Creator Skyasterix conducts a 300 Heliolite dice summon session on the Born of Chaos banner targeting Child of Chaos in Dragonheir: Silent Gods. Throughout the session, he experiences poor banner RNG, pulling off-banner legendaries like Viliana, Torrin, Labaoer, Sagomir, and Ripekas. He expresses strong frustration regarding the inclusion of standard, low-utility legendaries inside exclusive event summon pools. He warns players about the high cost of guaranteeing event heroes and their exclusive artifacts.",
+   "topics": [
+    "Born of Chaos",
+    "Child of Chaos",
+    "summons",
+    "Reversal Summon",
+    "gacha banner review"
+   ],
+   "heroes": [
+    {
+     "name": "Child of Chaos",
+     "verdict": "Strong support",
+     "note": "Versatile support hero who can switch elements, heal team members, and amplify ally damage, though acquiring duplicate copies for his artifact is extremely costly.",
+     "known": true
+    },
+    {
+     "name": "Torrin",
+     "verdict": "Low value pull",
+     "note": "Standard pool legendary that creator finds frustrating to pull on an exclusive event banner.",
+     "known": true
+    },
+    {
+     "name": "Labaoer",
+     "verdict": "Disappointing pull",
+     "note": " dianggap low-utility legendary that dilutes the high-tier hero pool in exclusive banners.",
+     "known": false
+    },
+    {
+     "name": "Sagomir",
+     "verdict": "Disappointing pull",
+     "note": "Frustrating off-banner pull from exclusive dice summons for long-time players.",
+     "known": true
+    },
+    {
+     "name": "Ripekas",
+     "verdict": "Disappointing pull",
+     "note": "Considered low value by veteran players when pulled from expensive event banners.",
+     "known": true
+    }
+   ],
+   "teams": [],
+   "meta_changes": [],
+   "tips": [
+    "Prepare up to 300 dice if attempting to guarantee an exclusive hero and their artifact on event banners.",
+    "Evaluate the full pool of potential legendaries on event banners before committing dice, as off-banner RNG can be unforgiving."
+   ],
+   "season": "unknown",
+   "server_scope": "mixed",
+   "value": "low",
+   "id": "LHU2IlO1Goo",
+   "model": "gemini-3.5-flash",
+   "channel": "Skyasterix Gaming",
+   "title": "CHILD OF SCAM?! 😱 My WORST Summons EVER! | Dragonheir: Silent Gods",
+   "published": "2026-09-28T12:00:00+00:00",
+   "url": "https://www.youtube.com/watch?v=LHU2IlO1Goo",
+   "short": false,
+   "summarized": "2026-11-10T01:18Z"
+  },
+  {
+   "summary": "This guide explains how to get your desired Legendary Hero from the Fate Test tabletop event. The event features 12 branching questions that adjust your alignment score across two axes: Good-Evil and Lawful-Chaotic. Hero choices trigger at checkpoints Q3, Q6, and Q9 based on your current 3x3 alignment pool. Players can either use the answer affinity values to calculate their exact path or bypass the quiz entirely by inheriting hero codes shared by other players.",
+   "topics": [
+    "Fate Test",
+    "Exclusive Legendary Hero",
+    "Bonus Event",
+    "Alignment System"
+   ],
+   "heroes": [
+    {
+     "name": "Felosia",
+     "verdict": "Top recommended pick",
+     "note": "One of the absolute standout heroes available in the Lawful Good pool.",
+     "known": true
+    },
+    {
+     "name": "Synarell",
+     "verdict": "Top recommended pick",
+     "note": "A top-tier hero choice alongside Felosia in the Lawful Good pool.",
+     "known": true
+    },
+    {
+     "name": "Durem",
+     "verdict": "Top recommended pick",
+     "note": "Stands out as one of the strongest heroes available in the event.",
+     "known": true
+    },
+    {
+     "name": "Oggok",
+     "verdict": "Niche pick for Toxin teams",
+     "note": "Consider selecting him from the Chaotic Neutral pool if you play Toxin and need inspirations.",
+     "known": true
+    }
+   ],
+   "teams": [],
+   "meta_changes": [],
+   "tips": [
+    "If you already completed the test and claimed your hero, your choice is locked and cannot be changed.",
+    "The easiest way to get Felosia or Synarell via the quiz is by picking option A for every question.",
+    "Instead of completing the quiz, you can inherit a hero code from other players on Discord to get the exact hero you want.",
+    "Pay attention to checkpoints Q3, Q6, and Q9: if a hero from your current alignment cell is already owned or picked, the alternate hero in that cell will appear instead."
+   ],
+   "season": "unknown",
+   "server_scope": "S1",
+   "value": "high",
+   "id": "LI0IGikvqJc",
+   "model": "gemini-3.5-flash",
+   "channel": "Gorax",
+   "title": "Fate Test - ALL Questions & Answers! Get Legendary Hero You Want | Dragonheir x Dragonstride",
+   "published": "2026-09-28T12:00:00+00:00",
+   "url": "https://www.youtube.com/watch?v=LI0IGikvqJc",
+   "short": false,
+   "summarized": "2026-11-10T01:17Z"
+  },
+  {
+   "summary": "Skyasterix reviews the official teaser for the upcoming hero Child of Chaos in Dragonheir: Silent Gods. The teaser reveals a unique Element Switch mechanic allowing Child of Chaos to change elements between Ice, Fire, Necrosis, Poison, and others, paired with strong AoE skill effects. Skyasterix strongly advises players to stop spending Heliolite Dice immediately and save all resources to pull Child of Chaos, aiming for at least Inspiration 2 (I2) as he expects him to be one of the most versatile and powerful heroes in the game.",
+   "topics": [
+    "Child of Chaos",
+    "Hero Teaser",
+    "Resource Management",
+    "Inspiration"
+   ],
+   "heroes": [
+    {
+     "name": "Child of Chaos",
+     "verdict": "Must-pull top tier",
+     "note": "Features a multi-element switch mechanic and strong AoE damage skills; recommended to save dice to obtain him and reach at least Inspiration 2.",
+     "known": true
+    }
+   ],
+   "teams": [],
+   "meta_changes": [
+    "Upcoming release of Child of Chaos introducing a new Element Switch mechanic to change elemental affinity."
+   ],
+   "tips": [
+    "Stop spending Heliolite Dice and save all resources for the release of Child of Chaos.",
+    "Aim to get Child of Chaos to at least Inspiration 2 (I2) for optimal performance."
+   ],
+   "season": "unknown",
+   "server_scope": "mixed",
+   "value": "high",
+   "id": "LOIzIR-Nk8g",
+   "model": "gemini-3.5-flash",
+   "channel": "Skyasterix Gaming",
+   "title": "⚠️ Child of Chaos is COMING - Fantastic Teaser! 🔥 | Dragonheir: Silent Gods",
+   "published": "2026-09-28T12:00:00+00:00",
+   "url": "https://www.youtube.com/watch?v=LOIzIR-Nk8g",
+   "short": false,
+   "summarized": "2026-11-10T01:20Z"
+  },
+  {
    "summary": "This video showcases an updated Summons team composition competing in the Crown Contest against the Fire Guardian boss, reaching over 3.77 billion damage. The featured lineup consists of Lelwanis, Sintrellia, Irzillas, Bernade, and The Dark Lady. Build recommendations highlight prioritizing full damage stats on Lelwanis and stacking maximum Attack on Sintrellia. Defensive stats are assigned to Irzillas to ensure frontline survival, while Bernade uses the Puppeteer set and The Dark Lady uses the Witches set.",
    "topics": [
     "Crown Contest",
@@ -33743,6 +34272,13 @@
     "url": "https://www.youtube.com/watch?v=WEpc_QIKnRM"
    },
    {
+    "verdict": "Essential frontline for Aura team",
+    "note": "Requires Aurellium Vest artifact to prevent the team from getting wiped by the boss's initial burst.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=Kednd9zRcJ8"
+   },
+   {
     "verdict": "Viable budget replacement",
     "note": "Can replace Anneliesis as a healing and shielding support if she is unavailable.",
     "date": "2026-09-28",
@@ -34261,6 +34797,20 @@
     "date": "2026-09-30",
     "channel": "Gorax",
     "url": "https://www.youtube.com/watch?v=ydl2Hi0lAy8"
+   },
+   {
+    "verdict": "Strong Toxin DPS option",
+    "note": "Serves as the main damage dealer when running Toxin variations with Twitch.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=Kednd9zRcJ8"
+   },
+   {
+    "verdict": "Core Toxin DPS",
+    "note": "Requires high Accuracy to prevent debuff resists, as missed debuffs cause huge damage drop-offs.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=KhU12r5-B1E"
    },
    {
     "verdict": "Top-tier Toxin DPS",
@@ -34874,6 +35424,34 @@
     "url": "https://www.youtube.com/watch?v=ydl2Hi0lAy8"
    },
    {
+    "verdict": "Top tier lead for Toxin and Dauntless teams",
+    "note": "Used in Puppeteer set to push teammates and provide massive utility in Crown Contest.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=Kednd9zRcJ8"
+   },
+   {
+    "verdict": "Meta-shifting hero option",
+    "note": "Expected to change optimal team setups across Continental Challenge once released.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=KypMuG9CP_I"
+   },
+   {
+    "verdict": "Strong support",
+    "note": "Versatile support hero who can switch elements, heal team members, and amplify ally damage, though acquiring duplicate copies for his artifact is extremely costly.",
+    "date": "2026-09-28",
+    "channel": "Skyasterix Gaming",
+    "url": "https://www.youtube.com/watch?v=LHU2IlO1Goo"
+   },
+   {
+    "verdict": "Must-pull top tier",
+    "note": "Features a multi-element switch mechanic and strong AoE damage skills; recommended to save dice to obtain him and reach at least Inspiration 2.",
+    "date": "2026-09-28",
+    "channel": "Skyasterix Gaming",
+    "url": "https://www.youtube.com/watch?v=LOIzIR-Nk8g"
+   },
+   {
     "verdict": "High Value Support Banner Pick",
     "note": "If available at account creation, guaranteed pulls on his banner offer top-tier support utility.",
     "date": "2026-09-28",
@@ -35296,6 +35874,13 @@
     "url": "https://www.youtube.com/watch?v=ydl2Hi0lAy8"
    },
    {
+    "verdict": "Niche pick for Toxin teams",
+    "note": "Consider selecting him from the Chaotic Neutral pool if you play Toxin and need inspirations.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=LI0IGikvqJc"
+   },
+   {
     "verdict": "Not recommended for Durem",
     "note": "Durem ignores shields and deals 25% bonus damage to shielded targets, and Oggok's positioning causes three heroes instead of two to get clipped by the boss's diamond AoE.",
     "date": "2026-09-28",
@@ -35541,6 +36126,13 @@
     "date": "2026-10-07",
     "channel": "liveranov",
     "url": "https://www.youtube.com/watch?v=rwe-Dd4l8ps"
+   },
+   {
+    "verdict": "Toxin enabler",
+    "note": "Positioned strategic in the front line to maximize team synergy and attack buffs.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=KhU12r5-B1E"
    },
    {
     "verdict": "Recommended exchange pick",
@@ -36312,6 +36904,13 @@
     "date": "2026-09-30",
     "channel": "OddOneGaming RPGs",
     "url": "https://www.youtube.com/watch?v=ONMMBlvyWpc"
+   },
+   {
+    "verdict": "Key shielder for Dauntless team",
+    "note": "Equipped with the Secrecy Order set to boost team damage while allies are shielded.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=KhU12r5-B1E"
    },
    {
     "verdict": "High value inspiration target",
@@ -37911,6 +38510,13 @@
     "url": "https://www.youtube.com/watch?v=ydl2Hi0lAy8"
    },
    {
+    "verdict": "Primary DPS for high damage Toxin team",
+    "note": "Drives Toxin team damage up to nearly 8 billion when paired with Child of Chaos.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=Kednd9zRcJ8"
+   },
+   {
     "verdict": "High-value pick",
     "note": "Back in the meta and performing strongly in Continental Challenge and endgame boss setups, functioning either as an enlightenment damage dealer or booster.",
     "date": "2026-09-28",
@@ -38191,6 +38797,20 @@
     "date": "2026-09-30",
     "channel": "Gorax",
     "url": "https://www.youtube.com/watch?v=ydl2Hi0lAy8"
+   },
+   {
+    "verdict": "Budget Toxin substitute",
+    "note": "Can replace Lothair if unavailable, maintaining around 5.6 billion damage.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=Kednd9zRcJ8"
+   },
+   {
+    "verdict": "Accuracy buffer for Toxin team",
+    "note": "Built with maximum Accuracy to trigger the Temporal Vortex boss mechanic that grants team damage reduction based on highest Accuracy.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=KhU12r5-B1E"
    },
    {
     "verdict": "Misty Conch or Witch's Remains user for Toxin",
@@ -38888,6 +39508,13 @@
     "url": "https://www.youtube.com/watch?v=kmI10_fvl-c"
    },
    {
+    "verdict": "Toxin DPS",
+    "note": "Benefits significantly from elemental ascension on gear pieces to push higher overall damage.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=KhU12r5-B1E"
+   },
+   {
     "verdict": "Key Toxin Support & Healer",
     "note": "Uses Misty Conch artifact to stack debuffs and relies on high ATK to scale his reworked healing.",
     "date": "2026-09-28",
@@ -39035,6 +39662,13 @@
     "date": "2026-10-07",
     "channel": "Skratch Gaming",
     "url": "https://www.youtube.com/watch?v=zlkDqeP9Des"
+   },
+   {
+    "verdict": "Toxin survival support",
+    "note": "Provides vital healing and passive damage reduction that keeps the Toxin team alive for the full fight duration.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=KhU12r5-B1E"
    },
    {
     "verdict": "Essential Corrosion sustain",
@@ -39235,6 +39869,13 @@
     "date": "2026-10-14",
     "channel": "Neff Gaming",
     "url": "https://www.youtube.com/watch?v=yzljKIdSKP8"
+   },
+   {
+    "verdict": "Key hero for Joyce boss formations",
+    "note": "Enables high damage potential when built into Aura team setups for the Joyce fight.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=KypMuG9CP_I"
    },
    {
     "verdict": "High damage ceiling support",
@@ -39975,6 +40616,13 @@
     "url": "https://www.youtube.com/watch?v=-qh8Km9Lsw0"
    },
    {
+    "verdict": "Primary Dauntless DPS",
+    "note": "Performs best with the Knight Order of Dragon Blood set for HP-to-Attack conversion paired with high Crit Damage.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=KhU12r5-B1E"
+   },
+   {
     "verdict": "Core Dauntless DPS",
     "note": "Requires high ATK, 100% Crit Rate, Crit Damage, and low Attack Interval via Attack Speed runes.",
     "date": "2026-09-28",
@@ -40515,6 +41163,13 @@
     "url": "https://www.youtube.com/watch?v=-qh8Km9Lsw0"
    },
    {
+    "verdict": "Dauntless DPS/Debuffer",
+    "note": "Built with extra defense stats to maintain uptime during long boss encounters.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=KhU12r5-B1E"
+   },
+   {
     "verdict": "Best Witch's Remains user for Dauntless teams",
     "note": "Applies AoE defense penalties through ultimate skill damage.",
     "date": "2026-09-28",
@@ -40968,6 +41623,13 @@
     "url": "https://www.youtube.com/watch?v=uRyYXuQ6suI"
    },
    {
+    "verdict": "Disappointing pull",
+    "note": "Frustrating off-banner pull from exclusive dice summons for long-time players.",
+    "date": "2026-09-28",
+    "channel": "Skyasterix Gaming",
+    "url": "https://www.youtube.com/watch?v=LHU2IlO1Goo"
+   },
+   {
     "verdict": "Niche tank duplicate",
     "note": "Provides little added value once core inspiration copies are already owned.",
     "date": "2026-09-28",
@@ -41308,6 +41970,13 @@
     "date": "2026-09-30",
     "channel": "Skratch Gaming",
     "url": "https://www.youtube.com/watch?v=DQlhUcZ_2zg"
+   },
+   {
+    "verdict": "Dauntless shield enabler",
+    "note": "Helps maintain shields and provides team-wide damage buffs through gear set procs.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=KhU12r5-B1E"
    },
    {
     "verdict": "Top Exclusive Support Enabler",
@@ -42288,6 +42957,13 @@
     "url": "https://www.youtube.com/watch?v=o_jfaB478PE"
    },
    {
+    "verdict": "Low value pull",
+    "note": "Standard pool legendary that creator finds frustrating to pull on an exclusive event banner.",
+    "date": "2026-09-28",
+    "channel": "Skyasterix Gaming",
+    "url": "https://www.youtube.com/watch?v=LHU2IlO1Goo"
+   },
+   {
     "verdict": "Viable replacement healer",
     "note": "Pairs well with frontline tanks by providing bonus max HP, strong healing, and personal invisibility.",
     "date": "2026-09-28",
@@ -43019,6 +43695,13 @@
     "url": "https://www.youtube.com/watch?v=xW7fJsl5GJM"
    },
    {
+    "verdict": "Great pick for Elecebre boss",
+    "note": "Ice Blast passive talent automatically dispels boss shields and buffs to activate team damage bonuses.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=KypMuG9CP_I"
+   },
+   {
     "verdict": "Top Witch's Remains user for Ice Blast teams",
     "note": "Her multi-hit AoE ultimate triggers Witch's Remains Defense Penalty II reliably across multiple targets.",
     "date": "2026-09-28",
@@ -43214,6 +43897,13 @@
     "url": "https://www.youtube.com/watch?v=ONMMBlvyWpc"
    },
    {
+    "verdict": "Top pick for Whisk boss",
+    "note": "Drains energy from Whisk to prevent him from casting his dangerous ultimate skill.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=KypMuG9CP_I"
+   },
+   {
     "verdict": "Dauntless Support",
     "note": "Provides essential utility and survivability/buffs for the team.",
     "date": "2026-09-28",
@@ -43390,6 +44080,13 @@
     "date": "2026-10-14",
     "channel": "liveranov",
     "url": "https://www.youtube.com/watch?v=e05LIFMVHBA"
+   },
+   {
+    "verdict": "Top recommended pick",
+    "note": "Stands out as one of the strongest heroes available in the event.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=LI0IGikvqJc"
    },
    {
     "verdict": "Premier Burn DPS",
@@ -44273,6 +44970,13 @@
     "url": "https://www.youtube.com/watch?v=TviMe77f8sQ"
    },
    {
+    "verdict": "Top recommended pick",
+    "note": "One of the absolute standout heroes available in the Lawful Good pool.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=LI0IGikvqJc"
+   },
+   {
     "verdict": "Top pick from web event",
     "note": "Provides ice shields and buffs to strengthen early-game ice lineups alongside Auster and Hochadir.",
     "date": "2026-09-28",
@@ -45074,6 +45778,13 @@
     "url": "https://www.youtube.com/watch?v=8DjovIyXzCw"
    },
    {
+    "verdict": "Disappointing pull",
+    "note": "Considered low value by veteran players when pulled from expensive event banners.",
+    "date": "2026-09-28",
+    "channel": "Skyasterix Gaming",
+    "url": "https://www.youtube.com/watch?v=LHU2IlO1Goo"
+   },
+   {
     "verdict": "Top alternative tank",
     "note": "A king of crowd control who knocks up, stuns, reduces ultimate energy, and applies multiple debuffs.",
     "date": "2026-09-28",
@@ -45779,6 +46490,13 @@
     "url": "https://www.youtube.com/watch?v=TviMe77f8sQ"
    },
    {
+    "verdict": "Top recommended pick",
+    "note": "A top-tier hero choice alongside Felosia in the Lawful Good pool.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=LI0IGikvqJc"
+   },
+   {
     "verdict": "Clutch early support",
     "note": "Provides immense defensive and healing value in Deadly Harpy Stage 8 without needing skill scroll investment.",
     "date": "2026-09-28",
@@ -45977,6 +46695,24 @@
     "date": "2026-09-30",
     "channel": "Gorax",
     "url": "https://www.youtube.com/watch?v=ydl2Hi0lAy8"
+   }
+  ],
+  "Jenka": [
+   {
+    "verdict": "High damage Dauntless unit",
+    "note": "Built with full mythic gear focusing on attack, crit damage, and survival stats.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=KhU12r5-B1E"
+   }
+  ],
+  "Labaoer": [
+   {
+    "verdict": "Disappointing pull",
+    "note": " dianggap low-utility legendary that dilutes the high-tier hero pool in exclusive banners.",
+    "date": "2026-09-28",
+    "channel": "Skyasterix Gaming",
+    "url": "https://www.youtube.com/watch?v=LHU2IlO1Goo"
    }
   ],
   "Folvarst": [

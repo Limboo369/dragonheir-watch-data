@@ -1,0 +1,102 @@
+{
+ "summary": "Gorax previews all six bosses featured in the Continental Challenge event and breaks down their unique battle mechanics and counters. He explains key strategies for Talethia, Joyce, Whisk, Elecebre, Durem, and Iola, highlighting required team archetypes such as Thunderbolt, Aura, Dauntless, Ice Blast, and Toxin. Gorax also provides advice on managing debuffs, energy drain, HP thresholds, and crowd control immunity across the boss fights.",
+ "topics": [
+  "Continental Challenge",
+  "Boss Mechanics",
+  "Team Building",
+  "Talethia",
+  "Joyce",
+  "Whisk",
+  "Elecebre",
+  "Durem",
+  "Iola"
+ ],
+ "heroes": [
+  {
+   "name": "Fathomdown",
+   "verdict": "Top pick for Whisk boss",
+   "note": "Drains energy from Whisk to prevent him from casting his dangerous ultimate skill.",
+   "known": true
+  },
+  {
+   "name": "Shinnah",
+   "verdict": "Great pick for Elecebre boss",
+   "note": "Ice Blast passive talent automatically dispels boss shields and buffs to activate team damage bonuses.",
+   "known": true
+  },
+  {
+   "name": "Rena",
+   "verdict": "Key hero for Joyce boss formations",
+   "note": "Enables high damage potential when built into Aura team setups for the Joyce fight.",
+   "known": true
+  },
+  {
+   "name": "Child of Chaos",
+   "verdict": "Meta-shifting hero option",
+   "note": "Expected to change optimal team setups across Continental Challenge once released.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Continental Challenge - Talethia",
+   "heroes": [
+    "Thunderbolt Team"
+   ],
+   "note": "Deploying heroes of three different elements triggers a 50% damage boost against Talethia."
+  },
+  {
+   "mode": "Continental Challenge - Joyce",
+   "heroes": [
+    "Rena",
+    "Aura Team"
+   ],
+   "note": "Aura teams handle Joyce and her cloned summons best to achieve top damage output."
+  },
+  {
+   "mode": "Continental Challenge - Whisk",
+   "heroes": [
+    "Fathomdown",
+    "Dauntless Team"
+   ],
+   "note": "Single-target Dauntless setup combined with Fathomdown energy drain prevents Whisk from using ultimate abilities."
+  },
+  {
+   "mode": "Continental Challenge - Elecebre",
+   "heroes": [
+    "Shinnah",
+    "Ice Blast Team"
+   ],
+   "note": "Ice Blast team automatically dispels Elecebre's buffs while offering defense against her charm and blind effects."
+  },
+  {
+   "mode": "Continental Challenge - Durem",
+   "heroes": [
+    "Toxin Team"
+   ],
+   "note": "Enlightenment Toxin team with single healer keeps hero HP above 90% for a 25% damage boost while avoiding shields."
+  }
+ ],
+ "meta_changes": [
+  "Continental Challenge boss mechanics enforce specific counter strategies such as multi-element drafting, energy denial, shield avoidance, and CC immunity.",
+  "Child of Chaos is anticipated to redefine high-end Continental Challenge team compositions."
+ ],
+ "tips": [
+  "Avoid using shield casters against Durem and Joyce as both bosses counter shield mechanics.",
+  "Deploy heroes of three distinct elements against Talethia to receive an automatic 50% damage increase.",
+  "Use energy stealers like Fathomdown against Whisk to keep him from ever casting his ultimate skill.",
+  "Keep hero HP above 90% when using Enlightenment teams on Durem to gain +25% Enlightenment damage.",
+  "Bring CC immunity or debuff prevention against Elecebre and Iola to avoid team-wiping silence, charm, and stun effects."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "KypMuG9CP_I",
+ "model": "gemini-3.5-flash",
+ "channel": "Gorax",
+ "title": "All 6 Bosses & Mechanics You NEED to Know | Continental Challenge | Dragonheir x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=KypMuG9CP_I",
+ "short": false,
+ "summarized": "2026-11-10T01:18Z"
+}

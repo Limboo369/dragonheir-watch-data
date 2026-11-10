@@ -1,0 +1,54 @@
+{
+ "summary": "This guide explains how to get your desired Legendary Hero from the Fate Test tabletop event. The event features 12 branching questions that adjust your alignment score across two axes: Good-Evil and Lawful-Chaotic. Hero choices trigger at checkpoints Q3, Q6, and Q9 based on your current 3x3 alignment pool. Players can either use the answer affinity values to calculate their exact path or bypass the quiz entirely by inheriting hero codes shared by other players.",
+ "topics": [
+  "Fate Test",
+  "Exclusive Legendary Hero",
+  "Bonus Event",
+  "Alignment System"
+ ],
+ "heroes": [
+  {
+   "name": "Felosia",
+   "verdict": "Top recommended pick",
+   "note": "One of the absolute standout heroes available in the Lawful Good pool.",
+   "known": true
+  },
+  {
+   "name": "Synarell",
+   "verdict": "Top recommended pick",
+   "note": "A top-tier hero choice alongside Felosia in the Lawful Good pool.",
+   "known": true
+  },
+  {
+   "name": "Durem",
+   "verdict": "Top recommended pick",
+   "note": "Stands out as one of the strongest heroes available in the event.",
+   "known": true
+  },
+  {
+   "name": "Oggok",
+   "verdict": "Niche pick for Toxin teams",
+   "note": "Consider selecting him from the Chaotic Neutral pool if you play Toxin and need inspirations.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [],
+ "tips": [
+  "If you already completed the test and claimed your hero, your choice is locked and cannot be changed.",
+  "The easiest way to get Felosia or Synarell via the quiz is by picking option A for every question.",
+  "Instead of completing the quiz, you can inherit a hero code from other players on Discord to get the exact hero you want.",
+  "Pay attention to checkpoints Q3, Q6, and Q9: if a hero from your current alignment cell is already owned or picked, the alternate hero in that cell will appear instead."
+ ],
+ "season": "unknown",
+ "server_scope": "S1",
+ "value": "high",
+ "id": "LI0IGikvqJc",
+ "model": "gemini-3.5-flash",
+ "channel": "Gorax",
+ "title": "Fate Test - ALL Questions & Answers! Get Legendary Hero You Want | Dragonheir x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=LI0IGikvqJc",
+ "short": false,
+ "summarized": "2026-11-10T01:17Z"
+}
