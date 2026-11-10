@@ -1,5 +1,5 @@
 {
- "built": "2026-11-10T05:18Z",
+ "built": "2026-11-10T05:49Z",
  "last_fetch": "2026-11-10T05:17Z",
  "counts": {
   "summarized": 429,
@@ -91,7 +91,6 @@
   "quota_hit": 1794287928.9310265
  },
  "log_tail": [
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 423 videos, 228 heroes",
   "== 2026-11-10 03:17",
   "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
@@ -170,7 +169,8 @@
   "  gemini-3.7-flash: 429, using gemini-3.6-flash",
   "! Season 9 COMES with 4 NEW Exclusive Artifacts! | D: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
   "  gemini-3.7-flash: 429, using gemini-3.6-flash",
-  "! Day 8 Huge Upgrade! Puppeteer Set Changes Your Tea: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g"
+  "! Day 8 Huge Upgrade! Puppeteer Set Changes Your Tea: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 429 videos, 228 heroes"
  ],
  "crontab": [],
  "channels": [
