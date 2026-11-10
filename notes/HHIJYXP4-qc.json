@@ -1,0 +1,102 @@
+{
+ "summary": "This video details effective team setups and strategies for defeating the Iola boss in the Continental Challenge. Gorax demonstrates how Dauntless teams dominate this boss by countering her Silence and Stun mechanics. The guide highlights both high-inspiration (I5) and inspiration-zero (I0) team variants, proving that Stanguem serves as an exceptional budget alternative to Selva by providing teamwide Control Immunity.",
+ "topics": [
+  "Continental Challenge",
+  "Iola Boss",
+  "Dauntless Team",
+  "Stanguem",
+  "Boss Strategy"
+ ],
+ "heroes": [
+  {
+   "name": "Stanguem",
+   "verdict": "Best budget support pick for Iola",
+   "note": "Grants teamwide Control Immunity and Defense Up II on ultimate, triggering Iola's +30% damage bonus stage property. Build with maximum Skill Haste.",
+   "known": true
+  },
+  {
+   "name": "Selva",
+   "verdict": "Top Dauntless buffer at Inspiration 1+",
+   "note": "Massively boosts team damage against Iola when upgraded to Inspiration 1 or higher.",
+   "known": true
+  },
+  {
+   "name": "Guinavivre",
+   "verdict": "Core Dauntless DPS",
+   "note": "Primary damage dealer who scales immensely with inspiration and high Resistance gear.",
+   "known": true
+  },
+  {
+   "name": "Nastjenka",
+   "verdict": "Strong Dauntless DPS",
+   "note": "Delivers heavy damage in Dauntless compositions when built with Resistance and offensive stats.",
+   "known": true
+  },
+  {
+   "name": "Kurvida",
+   "verdict": "Essential Dauntless buffer",
+   "note": "Shares Attack stats and triggers Vortex Illusion set bonuses when deployed alongside melee allies.",
+   "known": true
+  },
+  {
+   "name": "Maashtur",
+   "verdict": "Key Dauntless debuffer and healer",
+   "note": "Inflicts Attack Penalty II and Recharge Speed Penalty on Iola to reduce skill frequency while sustaining the team.",
+   "known": true
+  },
+  {
+   "name": "Felosia",
+   "verdict": "Ice Blast support alternative",
+   "note": "Provides teamwide Control Immunity and Damage Reduction shields to counter Iola's control debuffs.",
+   "known": true
+  },
+  {
+   "name": "Elminster Aumar",
+   "verdict": "Niche Burn support option",
+   "note": "Grants Control Immunity shields, though limited availability and a 5-second downtime gap make him less reliable than Stanguem.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Continental Challenge - Iola",
+   "heroes": [
+    "Nastjenka",
+    "Kurvida",
+    "Guinavivre",
+    "Maashtur",
+    "Selva"
+   ],
+   "note": "Highest-scoring Dauntless lineup for Iola when Selva has Inspiration 1+, reaching up to 2.2B damage at I5."
+  },
+  {
+   "mode": "Continental Challenge - Iola",
+   "heroes": [
+    "Nastjenka",
+    "Kurvida",
+    "Guinavivre",
+    "Maashtur",
+    "Stanguem"
+   ],
+   "note": "Top budget Dauntless team using Stanguem for full team Control Immunity. Outperforms I0 Selva setups, reaching ~494M damage at I0."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Build 170 to 200 Resistance on your DPS and supports to resist Iola's Silence, Stun, and Attack Penalty debuffs.",
+  "Use heroes that grant teamwide Control Immunity (such as Stanguem or Felosia) to trigger Iola's stage property, giving your heroes +10% Damage Bonus per stack (up to 30%).",
+  "Apply multiple unique debuff types to Iola to lower her defense by 3% per debuff type (up to 5 stacks / 15%).",
+  "Pair Kurvida with at least two melee heroes while wearing the Vortex Illusion gear set to maximize teamwide damage buffs."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "HHIJYXP4-qc",
+ "model": "gemini-3.5-flash",
+ "channel": "Gorax",
+ "title": "Iola - THE BEST Teams & Strategy | Continental Challenge | Dragonheir x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=HHIJYXP4-qc",
+ "short": false,
+ "summarized": "2026-11-10T09:21Z"
+}

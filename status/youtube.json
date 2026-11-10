@@ -1,5 +1,5 @@
 {
- "built": "2026-11-10T09:21Z",
+ "built": "2026-11-10T09:31Z",
  "videos": [
   {
    "summary": "Gorax showcases the updated end-game Aura team for Temporal Vortex featuring new heroes Annelisis and Holfast. The video details hero builds, artifact options, positioning, alternate support choices, and exact 18-second skill timing rotations. Replacing Lincos with Holfast allows Aura teams to reach over 10 billion damage, outperforming top-tier Toxin teams in single-target bosses.",
@@ -19818,6 +19818,164 @@
    "summarized": "2026-11-03T01:23Z"
   },
   {
+   "summary": "This video details effective team setups and strategies for defeating the Iola boss in the Continental Challenge. Gorax demonstrates how Dauntless teams dominate this boss by countering her Silence and Stun mechanics. The guide highlights both high-inspiration (I5) and inspiration-zero (I0) team variants, proving that Stanguem serves as an exceptional budget alternative to Selva by providing teamwide Control Immunity.",
+   "topics": [
+    "Continental Challenge",
+    "Iola Boss",
+    "Dauntless Team",
+    "Stanguem",
+    "Boss Strategy"
+   ],
+   "heroes": [
+    {
+     "name": "Stanguem",
+     "verdict": "Best budget support pick for Iola",
+     "note": "Grants teamwide Control Immunity and Defense Up II on ultimate, triggering Iola's +30% damage bonus stage property. Build with maximum Skill Haste.",
+     "known": true
+    },
+    {
+     "name": "Selva",
+     "verdict": "Top Dauntless buffer at Inspiration 1+",
+     "note": "Massively boosts team damage against Iola when upgraded to Inspiration 1 or higher.",
+     "known": true
+    },
+    {
+     "name": "Guinavivre",
+     "verdict": "Core Dauntless DPS",
+     "note": "Primary damage dealer who scales immensely with inspiration and high Resistance gear.",
+     "known": true
+    },
+    {
+     "name": "Nastjenka",
+     "verdict": "Strong Dauntless DPS",
+     "note": "Delivers heavy damage in Dauntless compositions when built with Resistance and offensive stats.",
+     "known": true
+    },
+    {
+     "name": "Kurvida",
+     "verdict": "Essential Dauntless buffer",
+     "note": "Shares Attack stats and triggers Vortex Illusion set bonuses when deployed alongside melee allies.",
+     "known": true
+    },
+    {
+     "name": "Maashtur",
+     "verdict": "Key Dauntless debuffer and healer",
+     "note": "Inflicts Attack Penalty II and Recharge Speed Penalty on Iola to reduce skill frequency while sustaining the team.",
+     "known": true
+    },
+    {
+     "name": "Felosia",
+     "verdict": "Ice Blast support alternative",
+     "note": "Provides teamwide Control Immunity and Damage Reduction shields to counter Iola's control debuffs.",
+     "known": true
+    },
+    {
+     "name": "Elminster Aumar",
+     "verdict": "Niche Burn support option",
+     "note": "Grants Control Immunity shields, though limited availability and a 5-second downtime gap make him less reliable than Stanguem.",
+     "known": true
+    }
+   ],
+   "teams": [
+    {
+     "mode": "Continental Challenge - Iola",
+     "heroes": [
+      "Nastjenka",
+      "Kurvida",
+      "Guinavivre",
+      "Maashtur",
+      "Selva"
+     ],
+     "note": "Highest-scoring Dauntless lineup for Iola when Selva has Inspiration 1+, reaching up to 2.2B damage at I5."
+    },
+    {
+     "mode": "Continental Challenge - Iola",
+     "heroes": [
+      "Nastjenka",
+      "Kurvida",
+      "Guinavivre",
+      "Maashtur",
+      "Stanguem"
+     ],
+     "note": "Top budget Dauntless team using Stanguem for full team Control Immunity. Outperforms I0 Selva setups, reaching ~494M damage at I0."
+    }
+   ],
+   "meta_changes": [],
+   "tips": [
+    "Build 170 to 200 Resistance on your DPS and supports to resist Iola's Silence, Stun, and Attack Penalty debuffs.",
+    "Use heroes that grant teamwide Control Immunity (such as Stanguem or Felosia) to trigger Iola's stage property, giving your heroes +10% Damage Bonus per stack (up to 30%).",
+    "Apply multiple unique debuff types to Iola to lower her defense by 3% per debuff type (up to 5 stacks / 15%).",
+    "Pair Kurvida with at least two melee heroes while wearing the Vortex Illusion gear set to maximize teamwide damage buffs."
+   ],
+   "season": "S9",
+   "server_scope": "S9",
+   "value": "high",
+   "id": "HHIJYXP4-qc",
+   "model": "gemini-3.5-flash",
+   "channel": "Gorax",
+   "title": "Iola - THE BEST Teams & Strategy | Continental Challenge | Dragonheir x Dragonstride",
+   "published": "2026-09-28T12:00:00+00:00",
+   "url": "https://www.youtube.com/watch?v=HHIJYXP4-qc",
+   "short": false,
+   "summarized": "2026-11-10T09:21Z"
+  },
+  {
+   "summary": "Skyasterix previews four upcoming hero-exclusive artifacts releasing in Season 9. The new artifacts belong to Szecedith, Blah Blah, Monelisse, and Larclys, enhancing their respective kit mechanics such as Corrosion, Aura stacking, Inspiration, and Shadow summoning. The video highlights how these artifacts increase damage output, attack power, healing, or survivability for each hero.",
+   "topics": [
+    "Season 9",
+    "Artifacts",
+    "Szecedith",
+    "Blah Blah",
+    "Monelisse",
+    "Larclys"
+   ],
+   "heroes": [
+    {
+     "name": "Szecedith",
+     "verdict": "Receives new exclusive artifact",
+     "note": "Artifact grants Attack and Crit Damage while boosting Swamp Poison damage and stacking Attack Power when consuming Corruption.",
+     "known": true
+    },
+    {
+     "name": "Blah Blah",
+     "verdict": "Receives new exclusive artifact",
+     "note": "Artifact grants Health % and Proficiency, healing all allies upon gaining auras and boosting team damage at max aura stacks.",
+     "known": true
+    },
+    {
+     "name": "Monelisse",
+     "verdict": "Receives new exclusive artifact",
+     "note": "Artifact grants Attack and Attack %, stacking permanent Attack Power whenever Inspiration is gained or consumed.",
+     "known": true
+    },
+    {
+     "name": "Larclys",
+     "verdict": "Receives new exclusive artifact",
+     "note": "Artifact grants Attack and Attack %, dealing extra Dark Corrosion damage and granting a shield when Shadows disappear.",
+     "known": true
+    }
+   ],
+   "teams": [],
+   "meta_changes": [
+    "Introduction of four new hero-exclusive artifacts in Season 9 for Szecedith, Blah Blah, Monelisse, and Larclys.",
+    "Corrosion mechanics expected to gain increased meta prominence with Szecedith's new artifact."
+   ],
+   "tips": [
+    "Plan ahead for Season 9 artifact acquisitions if you own or plan to use Szecedith, Blah Blah, Monelisse, or Larclys."
+   ],
+   "season": "S9",
+   "server_scope": "S9",
+   "value": "high",
+   "id": "HP6_Qff9VJc",
+   "model": "gemini-3.5-flash",
+   "channel": "Skyasterix Gaming",
+   "title": "👉S9 FOUR New Heroes ARTIFACTS  | Dragonheir: Silent Gods",
+   "published": "2026-09-28T12:00:00+00:00",
+   "url": "https://www.youtube.com/watch?v=HP6_Qff9VJc",
+   "short": false,
+   "summarized": "2026-11-10T09:26Z"
+  },
+  {
    "summary": "Liveranov showcases a high-performing Toxin team strategy against the Continental Challenge boss Durem, achieving over 714 million damage. The video provides battle footage, hero builds, recommended gear attributes, artifact options, and complete ultimate skill timing setups.",
    "topics": [
     "Continental Challenge",
@@ -20026,6 +20184,65 @@
    "url": "https://www.youtube.com/watch?v=HqVIrNsj0jg",
    "short": false,
    "summarized": "2026-11-10T07:19Z"
+  },
+  {
+   "summary": "This video previews four upcoming Season 9 exclusive artifacts revealed on the Chinese server. Szecedith receives Bonewing of Corrosion, significantly boosting Swamp Poison and Corrosion damage while granting stacking Attack. Blah Blah gets Trumpet of Summons, which unleashes massive team-wide healing whenever allies gain Radiance stacks. Monelisse gains Lunar Radiance Necklace, offering up to 60% Attack boost and huge damage scaling that could make her overpowered. Lastly, Larclys receives Twilight Crystal Wings, providing damage amplification, Corrosion damage, and a 500% Attack shield.",
+   "topics": [
+    "exclusive artifacts",
+    "Season 9",
+    "Chinese server leaks",
+    "Szecedith",
+    "Monelisse",
+    "Blah Blah",
+    "Larclys"
+   ],
+   "heroes": [
+    {
+     "name": "Szecedith",
+     "verdict": "massive buff via exclusive artifact",
+     "note": "His Bonewing of Corrosion artifact amplifies Swamp Poison and Corrosion while stacking up to 24% additional Attack power, making Corrosion highly competitive in Vortex.",
+     "known": true
+    },
+    {
+     "name": "Blah Blah",
+     "verdict": "potential top-tier Radiance healer",
+     "note": "Equipping Trumpet of Summons grants a massive team heal whenever any ally gains Radiance stacks, potentially overshadowing Reytah.",
+     "known": true
+    },
+    {
+     "name": "Monelisse",
+     "verdict": "expected to be overpowered in Season 9",
+     "note": "Lunar Radiance Necklace scales her damage heavily per stack and permanently boosts her Attack by up to 60%.",
+     "known": true
+    },
+    {
+     "name": "Larclys",
+     "verdict": "boosted into a strong shielding support",
+     "note": "Twilight Crystal Wings triggers bonus damage amplification and grants a 500% Attack shield when shadows expire.",
+     "known": true
+    }
+   ],
+   "teams": [],
+   "meta_changes": [
+    "Corrosion damage scaling receives a major boost through Szecedith's artifact, potentially rivaling Toxin in Vortex encounters.",
+    "Monelisse's exclusive artifact drastically increases Rally archetype damage potential.",
+    "Blah Blah's exclusive artifact introduces high passive team sustain for Radiance compositions."
+   ],
+   "tips": [
+    "Prepare to build Monelisse and Szecedith if looking forward to Season 9 exclusive artifact power spikes.",
+    "Watch for Blah Blah's exclusive artifact if your Radiance team requires heavy Enlightenment-based sustain."
+   ],
+   "season": "S9",
+   "server_scope": "S9",
+   "value": "medium",
+   "id": "I8sI3YOKQ5Y",
+   "model": "gemini-3.8-flash",
+   "channel": "Neff Gaming",
+   "title": "Season 9 COMES with 4 NEW Exclusive Artifacts! | Dragonheir: Silent Gods x Dragonstride",
+   "published": "2026-09-28T12:00:00+00:00",
+   "url": "https://www.youtube.com/watch?v=I8sI3YOKQ5Y",
+   "short": false,
+   "summarized": "2026-11-10T09:26Z"
   },
   {
    "summary": "Gorax covers Day 8 progression, highlighting the massive impact of the 3-piece Puppeteer gear set on team rotations. Equipping Puppeteer set allows mono-element Toxin teams to reduce ultimate recast timing from 20 seconds to 18 seconds, boosting Temporal Vortex damage by nearly 100 million. He also details Golden Bell Shop priorities, dungeon stamina allocation, and the importance of Realmwide Arena Affinity Solvent rewards for Psychicore progression.",
@@ -37784,6 +38001,13 @@
     "url": "https://www.youtube.com/watch?v=ONMMBlvyWpc"
    },
    {
+    "verdict": "Key Dauntless debuffer and healer",
+    "note": "Inflicts Attack Penalty II and Recharge Speed Penalty on Iola to reduce skill frequency while sustaining the team.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=HHIJYXP4-qc"
+   },
+   {
     "verdict": "Key shielder for Dauntless team",
     "note": "Equipped with the Secrecy Order set to boost team damage while allies are shielded.",
     "date": "2026-09-28",
@@ -40754,6 +40978,20 @@
     "url": "https://www.youtube.com/watch?v=gTzILPNg-ek"
    },
    {
+    "verdict": "Receives new exclusive artifact",
+    "note": "Artifact grants Attack and Attack %, stacking permanent Attack Power whenever Inspiration is gained or consumed.",
+    "date": "2026-09-28",
+    "channel": "Skyasterix Gaming",
+    "url": "https://www.youtube.com/watch?v=HP6_Qff9VJc"
+   },
+   {
+    "verdict": "expected to be overpowered in Season 9",
+    "note": "Lunar Radiance Necklace scales her damage heavily per stack and permanently boosts her Attack by up to 60%.",
+    "date": "2026-09-28",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=I8sI3YOKQ5Y"
+   },
+   {
     "verdict": "Great Rally Synergy",
     "note": "Pairs exceptionally well alongside Thelendor in Rally team compositions.",
     "date": "2026-09-28",
@@ -41287,11 +41525,25 @@
     "url": "https://www.youtube.com/watch?v=bzTAdskU1kA"
    },
    {
+    "verdict": "Receives new exclusive artifact",
+    "note": "Artifact grants Attack and Crit Damage while boosting Swamp Poison damage and stacking Attack Power when consuming Corruption.",
+    "date": "2026-09-28",
+    "channel": "Skyasterix Gaming",
+    "url": "https://www.youtube.com/watch?v=HP6_Qff9VJc"
+   },
+   {
     "verdict": "High-value Corrosion DPS",
     "note": "Requires 100% Crit Rate, high Attack, and Crit Damage to maximize damage conversion.",
     "date": "2026-09-28",
     "channel": "Gorax",
     "url": "https://www.youtube.com/watch?v=HqVIrNsj0jg"
+   },
+   {
+    "verdict": "massive buff via exclusive artifact",
+    "note": "His Bonewing of Corrosion artifact amplifies Swamp Poison and Corrosion while stacking up to 24% additional Attack power, making Corrosion highly competitive in Vortex.",
+    "date": "2026-09-28",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=I8sI3YOKQ5Y"
    },
    {
     "verdict": "Viable alternative to Whisk",
@@ -41578,6 +41830,13 @@
     "url": "https://www.youtube.com/watch?v=-qh8Km9Lsw0"
    },
    {
+    "verdict": "Core Dauntless DPS",
+    "note": "Primary damage dealer who scales immensely with inspiration and high Resistance gear.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=HHIJYXP4-qc"
+   },
+   {
     "verdict": "Primary Dauntless DPS",
     "note": "Performs best with the Knight Order of Dragon Blood set for HP-to-Attack conversion paired with high Crit Damage.",
     "date": "2026-09-28",
@@ -41830,6 +42089,13 @@
     "date": "2026-09-30",
     "channel": "liveranov",
     "url": "https://www.youtube.com/watch?v=-qh8Km9Lsw0"
+   },
+   {
+    "verdict": "Strong Dauntless DPS",
+    "note": "Delivers heavy damage in Dauntless compositions when built with Resistance and offensive stats.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=HHIJYXP4-qc"
    },
    {
     "verdict": "High-Damage Dauntless DPS",
@@ -42123,6 +42389,13 @@
     "date": "2026-09-30",
     "channel": "liveranov",
     "url": "https://www.youtube.com/watch?v=-qh8Km9Lsw0"
+   },
+   {
+    "verdict": "Essential Dauntless buffer",
+    "note": "Shares Attack stats and triggers Vortex Illusion set bonuses when deployed alongside melee allies.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=HHIJYXP4-qc"
    },
    {
     "verdict": "Dauntless DPS/Debuffer",
@@ -42932,6 +43205,13 @@
     "date": "2026-09-30",
     "channel": "Skratch Gaming",
     "url": "https://www.youtube.com/watch?v=DQlhUcZ_2zg"
+   },
+   {
+    "verdict": "Top Dauntless buffer at Inspiration 1+",
+    "note": "Massively boosts team damage against Iola when upgraded to Inspiration 1 or higher.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=HHIJYXP4-qc"
    },
    {
     "verdict": "Dauntless shield enabler",
@@ -45395,6 +45675,20 @@
     "url": "https://www.youtube.com/watch?v=SKvUJeFHJIw"
    },
    {
+    "verdict": "Receives new exclusive artifact",
+    "note": "Artifact grants Health % and Proficiency, healing all allies upon gaining auras and boosting team damage at max aura stacks.",
+    "date": "2026-09-28",
+    "channel": "Skyasterix Gaming",
+    "url": "https://www.youtube.com/watch?v=HP6_Qff9VJc"
+   },
+   {
+    "verdict": "potential top-tier Radiance healer",
+    "note": "Equipping Trumpet of Summons grants a massive team heal whenever any ally gains Radiance stacks, potentially overshadowing Reytah.",
+    "date": "2026-09-28",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=I8sI3YOKQ5Y"
+   },
+   {
     "verdict": "Powerful offensive support",
     "note": "Effective even at 0 Inspiration; built with HP, Defense, Accuracy, and Skill Haste with shield-triggered team damage buffs.",
     "date": "2026-09-28",
@@ -45972,6 +46266,13 @@
     "date": "2026-09-30",
     "channel": "OddOneGaming RPGs",
     "url": "https://www.youtube.com/watch?v=TviMe77f8sQ"
+   },
+   {
+    "verdict": "Ice Blast support alternative",
+    "note": "Provides teamwide Control Immunity and Damage Reduction shields to counter Iola's control debuffs.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=HHIJYXP4-qc"
    },
    {
     "verdict": "Top recommended pick",
@@ -46711,6 +47012,20 @@
     "date": "2026-10-15",
     "channel": "Neff Gaming",
     "url": "https://www.youtube.com/watch?v=sf_unyhFgtk"
+   },
+   {
+    "verdict": "Receives new exclusive artifact",
+    "note": "Artifact grants Attack and Attack %, dealing extra Dark Corrosion damage and granting a shield when Shadows disappear.",
+    "date": "2026-09-28",
+    "channel": "Skyasterix Gaming",
+    "url": "https://www.youtube.com/watch?v=HP6_Qff9VJc"
+   },
+   {
+    "verdict": "boosted into a strong shielding support",
+    "note": "Twilight Crystal Wings triggers bonus damage amplification and grants a 500% Attack shield when shadows expire.",
+    "date": "2026-09-28",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=I8sI3YOKQ5Y"
    }
   ],
   "Irzillas": [
@@ -47053,6 +47368,13 @@
     "date": "2026-09-30",
     "channel": "Skratch Gaming",
     "url": "https://www.youtube.com/watch?v=DQlhUcZ_2zg"
+   },
+   {
+    "verdict": "Best budget support pick for Iola",
+    "note": "Grants teamwide Control Immunity and Defense Up II on ultimate, triggering Iola's +30% damage bonus stage property. Build with maximum Skill Haste.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=HHIJYXP4-qc"
    },
    {
     "verdict": "Disappointing summon",
@@ -47743,6 +48065,22 @@
     "url": "https://www.youtube.com/watch?v=ydl2Hi0lAy8"
    }
   ],
+  "Elminster Aumar": [
+   {
+    "verdict": "Niche Burn support option",
+    "note": "Grants Control Immunity shields, though limited availability and a 5-second downtime gap make him less reliable than Stanguem.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=HHIJYXP4-qc"
+   },
+   {
+    "verdict": "Ineligible for exchange",
+    "note": "Hero tokens cannot be converted into Starweave Fragments during the Starweave Echo event.",
+    "date": "2026-09-28",
+    "channel": "Skyasterix Gaming",
+    "url": "https://www.youtube.com/watch?v=deRUCaZKNDU"
+   }
+  ],
   "Zhorak": [
    {
     "verdict": "Replaced in optimal Ice Blast lineups",
@@ -47980,15 +48318,6 @@
    }
   ],
   "Drizzt Do'Urden": [
-   {
-    "verdict": "Ineligible for exchange",
-    "note": "Hero tokens cannot be converted into Starweave Fragments during the Starweave Echo event.",
-    "date": "2026-09-28",
-    "channel": "Skyasterix Gaming",
-    "url": "https://www.youtube.com/watch?v=deRUCaZKNDU"
-   }
-  ],
-  "Elminster Aumar": [
    {
     "verdict": "Ineligible for exchange",
     "note": "Hero tokens cannot be converted into Starweave Fragments during the Starweave Echo event.",

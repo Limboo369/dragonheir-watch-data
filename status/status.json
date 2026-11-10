@@ -1,14 +1,14 @@
 {
- "built": "2026-11-10T09:21Z",
+ "built": "2026-11-10T09:31Z",
  "last_fetch": "2026-11-10T09:17Z",
  "counts": {
-  "summarized": 432,
+  "summarized": 435,
   "skipped_giveaway": 17,
   "baseline": 22,
   "new": 206,
   "skipped_live": 1,
   "failed": 3,
-  "retry": 7
+  "retry": 4
  },
  "problems": [
   {
@@ -24,18 +24,6 @@
    "error": ""
   },
   {
-   "title": "Iola - THE BEST Teams & Strategy | Continental Challenge | Dragonheir x Dragonstride",
-   "channel": "Gorax",
-   "status": "retry",
-   "error": ""
-  },
-  {
-   "title": "Season 9 COMES with 4 NEW Exclusive Artifacts! | Dragonheir: Silent Gods x Dragonstride",
-   "channel": "Neff Gaming",
-   "status": "retry",
-   "error": ""
-  },
-  {
    "title": "I Spent 2,750 Dice on Inspiration 5... Don't Do This! | Dragonheir: Silent Gods x Dragonstride",
    "channel": "Neff Gaming",
    "status": "retry",
@@ -44,12 +32,6 @@
   {
    "title": "300 Reversal Summons! Here’s What I Got | Dragonheir: Silent Gods x Dragonstride",
    "channel": "Neff Gaming",
-   "status": "retry",
-   "error": ""
-  },
-  {
-   "title": "👉S9 FOUR New Heroes ARTIFACTS  | Dragonheir: Silent Gods",
-   "channel": "Skyasterix Gaming",
    "status": "retry",
    "error": ""
   },
@@ -79,17 +61,6 @@
   "quota_hit": 1794295993.542331
  },
  "log_tail": [
-  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
-  "saved Hb1nVIAgoTE",
-  "+ liveranov: Toxin vs Durem | Continental Challenge | Season 8 | Dragonhe",
-  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
-  "… Skyasterix Gaming: 👉S9 FOUR New Heroes ARTIFACTS  | Dragonheir: Silent Gods",
-  "! 300 Reversal Summons! Here’s What I Got | Dragonhe: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
-  "… Gorax: Iola - THE BEST Teams & Strategy | Continental Challenge | D",
-  "! 👉S9 FOUR New Heroes ARTIFACTS  | Dragonheir: Silen: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
-  "… Skratch Gaming: These Heroes Are Getting A Big Damage Boost!! New Artifacts ",
-  "! Iola - THE BEST Teams & Strategy | Continental Cha: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
-  "… Neff Gaming: I Spent 2,750 Dice on Inspiration 5... Don't Do This! | Drag",
   "! These Heroes Are Getting A Big Damage Boost!! New : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
   "… liveranov: Toxin Team (UPDATED) vs Fire Guardians | Crown Contest | Dra",
   "! I Spent 2,750 Dice on Inspiration 5... Don't Do Th: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
@@ -158,6 +129,17 @@
   "… Neff Gaming: 300 Reversal Summons! Here’s What I Got | Dragonheir: Silent",
   "… Skyasterix Gaming: 👉S9 FOUR New Heroes ARTIFACTS  | Dragonheir: Silent Gods",
   "… Gorax: Iola - THE BEST Teams & Strategy | Continental Challenge | D",
+  "  gemini-3.8-flash: 503, using gemini-3.5-flash",
+  "… Skratch Gaming: These Heroes Are Getting A Big Damage Boost!! New Artifacts ",
+  "saved HHIJYXP4-qc",
+  "+ Gorax: Iola - THE BEST Teams & Strategy | Continental Challenge | D",
+  "  gemini-3.8-flash: 503, using gemini-3.5-flash",
+  "… Neff Gaming: I Spent 2,750 Dice on Inspiration 5... Don't Do This! | Drag",
+  "saved I8sI3YOKQ5Y",
+  "+ Neff Gaming: Season 9 COMES with 4 NEW Exclusive Artifacts! | Dragonheir:",
+  "… liveranov: Toxin Team (UPDATED) vs Fire Guardians | Crown Contest | Dra",
+  "saved HP6_Qff9VJc",
+  "+ Skyasterix Gaming: 👉S9 FOUR New Heroes ARTIFACTS  | Dragonheir: Silent Gods",
   "  gemini-3.8-flash: 503, using gemini-3.5-flash"
  ],
  "crontab": [],

@@ -1,0 +1,59 @@
+{
+ "summary": "This video previews four upcoming Season 9 exclusive artifacts revealed on the Chinese server. Szecedith receives Bonewing of Corrosion, significantly boosting Swamp Poison and Corrosion damage while granting stacking Attack. Blah Blah gets Trumpet of Summons, which unleashes massive team-wide healing whenever allies gain Radiance stacks. Monelisse gains Lunar Radiance Necklace, offering up to 60% Attack boost and huge damage scaling that could make her overpowered. Lastly, Larclys receives Twilight Crystal Wings, providing damage amplification, Corrosion damage, and a 500% Attack shield.",
+ "topics": [
+  "exclusive artifacts",
+  "Season 9",
+  "Chinese server leaks",
+  "Szecedith",
+  "Monelisse",
+  "Blah Blah",
+  "Larclys"
+ ],
+ "heroes": [
+  {
+   "name": "Szecedith",
+   "verdict": "massive buff via exclusive artifact",
+   "note": "His Bonewing of Corrosion artifact amplifies Swamp Poison and Corrosion while stacking up to 24% additional Attack power, making Corrosion highly competitive in Vortex.",
+   "known": true
+  },
+  {
+   "name": "Blah Blah",
+   "verdict": "potential top-tier Radiance healer",
+   "note": "Equipping Trumpet of Summons grants a massive team heal whenever any ally gains Radiance stacks, potentially overshadowing Reytah.",
+   "known": true
+  },
+  {
+   "name": "Monelisse",
+   "verdict": "expected to be overpowered in Season 9",
+   "note": "Lunar Radiance Necklace scales her damage heavily per stack and permanently boosts her Attack by up to 60%.",
+   "known": true
+  },
+  {
+   "name": "Larclys",
+   "verdict": "boosted into a strong shielding support",
+   "note": "Twilight Crystal Wings triggers bonus damage amplification and grants a 500% Attack shield when shadows expire.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [
+  "Corrosion damage scaling receives a major boost through Szecedith's artifact, potentially rivaling Toxin in Vortex encounters.",
+  "Monelisse's exclusive artifact drastically increases Rally archetype damage potential.",
+  "Blah Blah's exclusive artifact introduces high passive team sustain for Radiance compositions."
+ ],
+ "tips": [
+  "Prepare to build Monelisse and Szecedith if looking forward to Season 9 exclusive artifact power spikes.",
+  "Watch for Blah Blah's exclusive artifact if your Radiance team requires heavy Enlightenment-based sustain."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "I8sI3YOKQ5Y",
+ "model": "gemini-3.8-flash",
+ "channel": "Neff Gaming",
+ "title": "Season 9 COMES with 4 NEW Exclusive Artifacts! | Dragonheir: Silent Gods x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=I8sI3YOKQ5Y",
+ "short": false,
+ "summarized": "2026-11-10T09:26Z"
+}

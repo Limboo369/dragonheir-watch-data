@@ -1,0 +1,56 @@
+{
+ "summary": "Skyasterix previews four upcoming hero-exclusive artifacts releasing in Season 9. The new artifacts belong to Szecedith, Blah Blah, Monelisse, and Larclys, enhancing their respective kit mechanics such as Corrosion, Aura stacking, Inspiration, and Shadow summoning. The video highlights how these artifacts increase damage output, attack power, healing, or survivability for each hero.",
+ "topics": [
+  "Season 9",
+  "Artifacts",
+  "Szecedith",
+  "Blah Blah",
+  "Monelisse",
+  "Larclys"
+ ],
+ "heroes": [
+  {
+   "name": "Szecedith",
+   "verdict": "Receives new exclusive artifact",
+   "note": "Artifact grants Attack and Crit Damage while boosting Swamp Poison damage and stacking Attack Power when consuming Corruption.",
+   "known": true
+  },
+  {
+   "name": "Blah Blah",
+   "verdict": "Receives new exclusive artifact",
+   "note": "Artifact grants Health % and Proficiency, healing all allies upon gaining auras and boosting team damage at max aura stacks.",
+   "known": true
+  },
+  {
+   "name": "Monelisse",
+   "verdict": "Receives new exclusive artifact",
+   "note": "Artifact grants Attack and Attack %, stacking permanent Attack Power whenever Inspiration is gained or consumed.",
+   "known": true
+  },
+  {
+   "name": "Larclys",
+   "verdict": "Receives new exclusive artifact",
+   "note": "Artifact grants Attack and Attack %, dealing extra Dark Corrosion damage and granting a shield when Shadows disappear.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [
+  "Introduction of four new hero-exclusive artifacts in Season 9 for Szecedith, Blah Blah, Monelisse, and Larclys.",
+  "Corrosion mechanics expected to gain increased meta prominence with Szecedith's new artifact."
+ ],
+ "tips": [
+  "Plan ahead for Season 9 artifact acquisitions if you own or plan to use Szecedith, Blah Blah, Monelisse, or Larclys."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "HP6_Qff9VJc",
+ "model": "gemini-3.5-flash",
+ "channel": "Skyasterix Gaming",
+ "title": "👉S9 FOUR New Heroes ARTIFACTS  | Dragonheir: Silent Gods",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=HP6_Qff9VJc",
+ "short": false,
+ "summarized": "2026-11-10T09:26Z"
+}
