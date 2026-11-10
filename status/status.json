@@ -1,5 +1,5 @@
 {
- "built": "2026-11-10T07:20Z",
+ "built": "2026-11-10T07:50Z",
  "last_fetch": "2026-11-10T07:17Z",
  "counts": {
   "summarized": 432,
@@ -74,16 +74,11 @@
  ],
  "budget": {
   "day": "2026-11-10",
-  "seconds": 21567,
+  "seconds": 21075,
   "v2": 1,
-  "quota_hit": 1794295141.890765
+  "quota_hit": 1794295993.542331
  },
  "log_tail": [
-  "saved JcYr69Bpu40",
-  "+ OddOneGaming RPGs: 💥 NO WAY!  💥I Pulled 2 NEW Premiums While Chasing Talethia i",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 428 videos, 228 heroes",
-  "== 2026-11-10 04:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "Gemini quota was full less than an hour ago, trying again next round",
   "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 428 videos, 228 heroes",
@@ -158,7 +153,12 @@
   "saved fNvpxhA9GMY (unknown hero names: Annelisis)",
   "+ Gorax: Annelisis + Holfast Change the Aura Meta! New Team Showcase ",
   "saved IPIbglFr7r0",
-  "+ Gorax: Day 8 Huge Upgrade! Puppeteer Set Changes Your Teams | Begin"
+  "+ Gorax: Day 8 Huge Upgrade! Puppeteer Set Changes Your Teams | Begin",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
+  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
+  "! Season 9 COMES with 4 NEW Exclusive Artifacts! | D: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 432 videos, 229 heroes"
  ],
  "crontab": [],
  "channels": [
