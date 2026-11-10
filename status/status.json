@@ -1,14 +1,13 @@
 {
- "built": "2026-11-10T09:51Z",
+ "built": "2026-11-10T09:52Z",
  "last_fetch": "2026-11-10T09:17Z",
  "counts": {
-  "summarized": 438,
+  "summarized": 439,
   "skipped_giveaway": 17,
   "baseline": 22,
   "new": 206,
   "skipped_live": 1,
-  "failed": 3,
-  "retry": 1
+  "failed": 3
  },
  "problems": [
   {
@@ -16,12 +15,6 @@
    "channel": "liveranov",
    "status": "failed",
    "error": "Expecting value: line 1 column 1 (char 0)"
-  },
-  {
-   "title": "These Heroes Are Getting A Big Damage Boost!! New Artifacts Dragonheir: Silent Gods x Dragonstride",
-   "channel": "Skratch Gaming",
-   "status": "retry",
-   "error": ""
   },
   {
    "title": "🔥 Season 9 FIRST CROWN CONTEST! Code: SKYASTERIX | Dragonheir: Silent Gods",
@@ -43,8 +36,6 @@
   "quota_hit": 1794295993.542331
  },
  "log_tail": [
-  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
-  "! Durem - THE BEST Teams & Strategy | Continental Ch: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
   "  gemini-3.5-flash: 429, using gemini-3.7-flash",
   "  gemini-3.7-flash: 429, using gemini-3.6-flash",
   "! Season 9 COMES with 4 NEW Exclusive Artifacts! | D: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
@@ -122,7 +113,9 @@
   "+ Neff Gaming: 300 Reversal Summons! Here’s What I Got | Dragonheir: Silent",
   "  gemini-3.8-flash: 503, using gemini-3.5-flash",
   "saved GijTOGTEjHI",
-  "+ liveranov: Toxin Team (UPDATED) vs Fire Guardians | Crown Contest | Dra"
+  "+ liveranov: Toxin Team (UPDATED) vs Fire Guardians | Crown Contest | Dra",
+  "saved H0Tu1OdZ898",
+  "+ Skratch Gaming: These Heroes Are Getting A Big Damage Boost!! New Artifacts "
  ],
  "crontab": [],
  "channels": [

@@ -1,5 +1,5 @@
 {
- "built": "2026-11-10T09:51Z",
+ "built": "2026-11-10T09:52Z",
  "videos": [
   {
    "summary": "Gorax showcases the updated end-game Aura team for Temporal Vortex featuring new heroes Annelisis and Holfast. The video details hero builds, artifact options, positioning, alternate support choices, and exact 18-second skill timing rotations. Replacing Lincos with Holfast allows Aura teams to reach over 10 billion damage, outperforming top-tier Toxin teams in single-target bosses.",
@@ -19934,6 +19934,104 @@
    "summarized": "2026-11-10T09:32Z"
   },
   {
+   "summary": "This video previews four new hero-exclusive artifacts coming in the next season for Szecedith, Blah Blah, Monelisse, and Larclys. Szecedith's artifact significantly amplifies Corrosion damage and synergizes with her role as the premier Corrosion activator alongside upcoming hero Lannet. Monelisse gains substantial attack scaling and damage amplification via her exclusive necklace, making the Rally archetype extremely threatening alongside Gladys and Lorentheel. Conversely, Blah Blah's healing artifact is skippable compared to his inspirations, and Larclys's artifact mainly shines in Magic Chess PvP rather than PvE where Lelwanis remains dominant.",
+   "topics": [
+    "Exclusive Artifacts",
+    "Hero Builds",
+    "Rally Team",
+    "Corrosion Team",
+    "Magic Chess"
+   ],
+   "heroes": [
+    {
+     "name": "Szecedith",
+     "verdict": "High value pickup",
+     "note": "Gets the Bowstring of Corrosion exclusive artifact, increasing Corrosion value to 25% and boosting her own Attack by up to 24% when hitting poisoned enemies.",
+     "known": true
+    },
+    {
+     "name": "Monelisse",
+     "verdict": "Must-have artifact",
+     "note": "Her Lunar Radiance Necklace provides massive Attack boosts (up to 60%) and extra self-damage amplification, turning her into a monster boss killer in Rally teams.",
+     "known": true
+    },
+    {
+     "name": "Blah Blah",
+     "verdict": "Skip exclusive artifact",
+     "note": "His exclusive trumpet only adds Enlightenment-based healing with a 20s cooldown; unlocking his Inspiration 1 is far more valuable.",
+     "known": true
+    },
+    {
+     "name": "Larclys",
+     "verdict": "PvP / Magic Chess specialist",
+     "note": "His Twilight Crystal Wings artifact grants huge damage scaling and a shield when clones vanish, which is strong in Magic Chess PvP but will not replace Lelwanis in Summoner PvE.",
+     "known": true
+    },
+    {
+     "name": "Talethia",
+     "verdict": "Delayed artifact",
+     "note": "Still lacks an exclusive artifact, likely because pairing it with the upcoming Aura exclusive DPS would completely break game balance.",
+     "known": true
+    },
+    {
+     "name": "Gladys",
+     "verdict": "Top Rally buffer",
+     "note": "Provides immense Crit Damage buffs through her exclusive artifact, perfectly complementing Monelisse's attack-stacking exclusive artifact.",
+     "known": true
+    },
+    {
+     "name": "Lelwanis",
+     "verdict": "Still superior Summoner DPS",
+     "note": "Remains the indispensable mother of dragons for Summoner PvE damage; Larclys does not come close to replacing her.",
+     "known": true
+    }
+   ],
+   "teams": [
+    {
+     "mode": "Bosses",
+     "heroes": [
+      "Monelisse",
+      "Gladys",
+      "Lorentheel",
+      "Alton",
+      "Philto"
+     ],
+     "note": "Rally team setup leveraging Monelisse's massive Attack scaling alongside Gladys's huge Crit Damage buffs."
+    },
+    {
+     "mode": "Bosses",
+     "heroes": [
+      "Szecedith",
+      "Maashtur",
+      "Sacredeia",
+      "Guinavivre"
+     ],
+     "note": "Corrosion archetype that gains major damage through Szecedith's artifact and upcoming support."
+    }
+   ],
+   "meta_changes": [
+    "Introduction of 4 exclusive artifacts: Bowstring of Corrosion (Szecedith), Trumpet of Summons (Blah Blah), Lunar Radiance Necklace (Monelisse), and Twilight Crystal Wings (Larclys).",
+    "Rally and Corrosion teams receive major end-game damage boosts from new exclusive artifacts.",
+    "Aura archetype exclusive artifact for Talethia remains held back to preserve game balance."
+   ],
+   "tips": [
+    "Do not break Blah Blah inspirations to acquire his exclusive artifact, as Inspiration 1 is significantly better than healing.",
+    "Corrosion is an extremely expensive archetype requiring multiple high inspirations on Szecedith and Maashtur to reach full potential.",
+    "Prioritize Monelisse and Szecedith exclusive artifacts over Blah Blah or Larclys if resources are limited."
+   ],
+   "season": "unknown",
+   "server_scope": "mixed",
+   "value": "high",
+   "id": "H0Tu1OdZ898",
+   "model": "gemini-3.8-flash",
+   "channel": "Skratch Gaming",
+   "title": "These Heroes Are Getting A Big Damage Boost!! New Artifacts Dragonheir: Silent Gods x Dragonstride",
+   "published": "2026-09-28T12:00:00+00:00",
+   "url": "https://www.youtube.com/watch?v=H0Tu1OdZ898",
+   "short": false,
+   "summarized": "2026-11-10T09:52Z"
+  },
+  {
    "summary": "This video details effective team setups and strategies for defeating the Iola boss in the Continental Challenge. Gorax demonstrates how Dauntless teams dominate this boss by countering her Silence and Stun mechanics. The guide highlights both high-inspiration (I5) and inspiration-zero (I0) team variants, proving that Stanguem serves as an exceptional budget alternative to Selva by providing teamwide Control Immunity.",
    "topics": [
     "Continental Challenge",
@@ -33612,6 +33710,13 @@
     "url": "https://www.youtube.com/watch?v=e1p87KNEq0g"
    },
    {
+    "verdict": "Delayed artifact",
+    "note": "Still lacks an exclusive artifact, likely because pairing it with the upcoming Aura exclusive DPS would completely break game balance.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=H0Tu1OdZ898"
+   },
+   {
     "verdict": "High priority DPS / Inspire 5 target",
     "note": "A prime target for Inspire 5 to maximize damage output against Continental Challenge bosses.",
     "date": "2026-09-28",
@@ -40710,6 +40815,13 @@
     "url": "https://www.youtube.com/watch?v=scDahdyomBc"
    },
    {
+    "verdict": "Top Rally buffer",
+    "note": "Provides immense Crit Damage buffs through her exclusive artifact, perfectly complementing Monelisse's attack-stacking exclusive artifact.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=H0Tu1OdZ898"
+   },
+   {
     "verdict": "Key Rally Hero",
     "note": "Works alongside Monelisse as an essential core unit for high-damage Rally lineups.",
     "date": "2026-08-28",
@@ -41231,6 +41343,13 @@
     "date": "2026-10-15",
     "channel": "Suzi Plays",
     "url": "https://www.youtube.com/watch?v=gTzILPNg-ek"
+   },
+   {
+    "verdict": "Must-have artifact",
+    "note": "Her Lunar Radiance Necklace provides massive Attack boosts (up to 60%) and extra self-damage amplification, turning her into a monster boss killer in Rally teams.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=H0Tu1OdZ898"
    },
    {
     "verdict": "Receives new exclusive artifact",
@@ -41778,6 +41897,13 @@
     "date": "2026-09-30",
     "channel": "Neff Gaming",
     "url": "https://www.youtube.com/watch?v=bzTAdskU1kA"
+   },
+   {
+    "verdict": "High value pickup",
+    "note": "Gets the Bowstring of Corrosion exclusive artifact, increasing Corrosion value to 25% and boosting her own Attack by up to 24% when hitting poisoned enemies.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=H0Tu1OdZ898"
    },
    {
     "verdict": "Receives new exclusive artifact",
@@ -45944,6 +46070,13 @@
     "url": "https://www.youtube.com/watch?v=SKvUJeFHJIw"
    },
    {
+    "verdict": "Skip exclusive artifact",
+    "note": "His exclusive trumpet only adds Enlightenment-based healing with a 20s cooldown; unlocking his Inspiration 1 is far more valuable.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=H0Tu1OdZ898"
+   },
+   {
     "verdict": "Receives new exclusive artifact",
     "note": "Artifact grants Health % and Proficiency, healing all allies upon gaining auras and boosting team damage at max aura stacks.",
     "date": "2026-09-28",
@@ -46079,6 +46212,13 @@
     "date": "2026-10-07",
     "channel": "Gorax",
     "url": "https://www.youtube.com/watch?v=z3tO57-B6Gs"
+   },
+   {
+    "verdict": "Still superior Summoner DPS",
+    "note": "Remains the indispensable mother of dragons for Summoner PvE damage; Larclys does not come close to replacing her.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=H0Tu1OdZ898"
    },
    {
     "verdict": "Main DPS for Summons team",
@@ -47281,6 +47421,13 @@
     "date": "2026-10-15",
     "channel": "Neff Gaming",
     "url": "https://www.youtube.com/watch?v=sf_unyhFgtk"
+   },
+   {
+    "verdict": "PvP / Magic Chess specialist",
+    "note": "His Twilight Crystal Wings artifact grants huge damage scaling and a shield when clones vanish, which is strong in Magic Chess PvP but will not replace Lelwanis in Summoner PvE.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=H0Tu1OdZ898"
    },
    {
     "verdict": "Receives new exclusive artifact",

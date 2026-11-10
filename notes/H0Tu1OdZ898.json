@@ -1,0 +1,98 @@
+{
+ "summary": "This video previews four new hero-exclusive artifacts coming in the next season for Szecedith, Blah Blah, Monelisse, and Larclys. Szecedith's artifact significantly amplifies Corrosion damage and synergizes with her role as the premier Corrosion activator alongside upcoming hero Lannet. Monelisse gains substantial attack scaling and damage amplification via her exclusive necklace, making the Rally archetype extremely threatening alongside Gladys and Lorentheel. Conversely, Blah Blah's healing artifact is skippable compared to his inspirations, and Larclys's artifact mainly shines in Magic Chess PvP rather than PvE where Lelwanis remains dominant.",
+ "topics": [
+  "Exclusive Artifacts",
+  "Hero Builds",
+  "Rally Team",
+  "Corrosion Team",
+  "Magic Chess"
+ ],
+ "heroes": [
+  {
+   "name": "Szecedith",
+   "verdict": "High value pickup",
+   "note": "Gets the Bowstring of Corrosion exclusive artifact, increasing Corrosion value to 25% and boosting her own Attack by up to 24% when hitting poisoned enemies.",
+   "known": true
+  },
+  {
+   "name": "Monelisse",
+   "verdict": "Must-have artifact",
+   "note": "Her Lunar Radiance Necklace provides massive Attack boosts (up to 60%) and extra self-damage amplification, turning her into a monster boss killer in Rally teams.",
+   "known": true
+  },
+  {
+   "name": "Blah Blah",
+   "verdict": "Skip exclusive artifact",
+   "note": "His exclusive trumpet only adds Enlightenment-based healing with a 20s cooldown; unlocking his Inspiration 1 is far more valuable.",
+   "known": true
+  },
+  {
+   "name": "Larclys",
+   "verdict": "PvP / Magic Chess specialist",
+   "note": "His Twilight Crystal Wings artifact grants huge damage scaling and a shield when clones vanish, which is strong in Magic Chess PvP but will not replace Lelwanis in Summoner PvE.",
+   "known": true
+  },
+  {
+   "name": "Talethia",
+   "verdict": "Delayed artifact",
+   "note": "Still lacks an exclusive artifact, likely because pairing it with the upcoming Aura exclusive DPS would completely break game balance.",
+   "known": true
+  },
+  {
+   "name": "Gladys",
+   "verdict": "Top Rally buffer",
+   "note": "Provides immense Crit Damage buffs through her exclusive artifact, perfectly complementing Monelisse's attack-stacking exclusive artifact.",
+   "known": true
+  },
+  {
+   "name": "Lelwanis",
+   "verdict": "Still superior Summoner DPS",
+   "note": "Remains the indispensable mother of dragons for Summoner PvE damage; Larclys does not come close to replacing her.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Bosses",
+   "heroes": [
+    "Monelisse",
+    "Gladys",
+    "Lorentheel",
+    "Alton",
+    "Philto"
+   ],
+   "note": "Rally team setup leveraging Monelisse's massive Attack scaling alongside Gladys's huge Crit Damage buffs."
+  },
+  {
+   "mode": "Bosses",
+   "heroes": [
+    "Szecedith",
+    "Maashtur",
+    "Sacredeia",
+    "Guinavivre"
+   ],
+   "note": "Corrosion archetype that gains major damage through Szecedith's artifact and upcoming support."
+  }
+ ],
+ "meta_changes": [
+  "Introduction of 4 exclusive artifacts: Bowstring of Corrosion (Szecedith), Trumpet of Summons (Blah Blah), Lunar Radiance Necklace (Monelisse), and Twilight Crystal Wings (Larclys).",
+  "Rally and Corrosion teams receive major end-game damage boosts from new exclusive artifacts.",
+  "Aura archetype exclusive artifact for Talethia remains held back to preserve game balance."
+ ],
+ "tips": [
+  "Do not break Blah Blah inspirations to acquire his exclusive artifact, as Inspiration 1 is significantly better than healing.",
+  "Corrosion is an extremely expensive archetype requiring multiple high inspirations on Szecedith and Maashtur to reach full potential.",
+  "Prioritize Monelisse and Szecedith exclusive artifacts over Blah Blah or Larclys if resources are limited."
+ ],
+ "season": "unknown",
+ "server_scope": "mixed",
+ "value": "high",
+ "id": "H0Tu1OdZ898",
+ "model": "gemini-3.8-flash",
+ "channel": "Skratch Gaming",
+ "title": "These Heroes Are Getting A Big Damage Boost!! New Artifacts Dragonheir: Silent Gods x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=H0Tu1OdZ898",
+ "short": false,
+ "summarized": "2026-11-10T09:52Z"
+}
