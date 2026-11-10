@@ -1,0 +1,85 @@
+{
+ "summary": "Skratch tests whether the new Aura hero Holfast can replace a maxed Inspiration 5 Lincos. Testing in Temporal Vortex shows that swapping Lincos for Holfast increased total Aura team damage from approximately 7.2B to 8.1B (and overall team damage by roughly 1B). Because Holfast's 20-second 30% Damage Up buff from his passive does not stack with Lincos's ultimate 30% Damage Up, running both together is redundant and Lincos becomes obsolete. Diantha remains essential in the lineup for Defense Down and utility, while Holfast serves as the primary offensive buffer and personal damage dealer.",
+ "topics": [
+  "Holfast",
+  "Lincos",
+  "Aura Team",
+  "Temporal Vortex",
+  "Hero Comparison"
+ ],
+ "heroes": [
+  {
+   "name": "Holfast",
+   "verdict": "Must-have upgrade over Lincos",
+   "note": "Provides consistent 30% Damage Up via his passive/talent, channels Aura energy, and provides substantial personal damage along with random offensive buffs.",
+   "known": true
+  },
+  {
+   "name": "Lincos",
+   "verdict": "Replaced by Holfast",
+   "note": "His 30% Damage Up does not stack with Holfast's passive, rendering even an Inspiration 5 copy obsolete in top-tier Aura comps.",
+   "known": true
+  },
+  {
+   "name": "Talethia",
+   "verdict": "Top-tier Aura DPS",
+   "note": "Carries team damage output completely in fast dungeon runs and Temporal Vortex regardless of secondary support choices.",
+   "known": true
+  },
+  {
+   "name": "Diantha",
+   "verdict": "Essential Aura support",
+   "note": "Should not be removed for Holfast because she provides Defense Down and essential utility.",
+   "known": true
+  },
+  {
+   "name": "Solmo",
+   "verdict": "Aura tank/support",
+   "note": "Used as the frontline support for shields and team survivability in Temporal Vortex.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Temporal Vortex",
+   "heroes": [
+    "Talethia",
+    "Holfast",
+    "Diantha",
+    "Solmo",
+    "Anneliesis"
+   ],
+   "note": "Aura team setup that outdamaged the Lincos variation by almost 1 billion damage, dealing over 8B Aura damage."
+  },
+  {
+   "mode": "Grave of Venom",
+   "heroes": [
+    "Talethia",
+    "Lincos",
+    "Anneliesis",
+    "Diantha",
+    "Solmo"
+   ],
+   "note": "Fast 15-second dungeon clear team; swapped between Holfast and Lincos with nearly identical clear speeds due to Talethia's heavy carry."
+  }
+ ],
+ "meta_changes": [
+  "Holfast replaces Lincos in high-end Aura compositions because his passive 30% Damage Up buff does not stack with Lincos's ultimate buff."
+ ],
+ "tips": [
+  "Prioritize Skill Haste on Holfast so his battle skill procs more frequently to distribute offensive buffs faster.",
+  "Do not remove Diantha when slotting in Holfast; replace Lincos instead to retain Defense Down debuffs.",
+  "Equip Holfast with full mythical DPS gear or Puppeteer set to maximize his personal damage contributions."
+ ],
+ "season": "unknown",
+ "server_scope": "mixed",
+ "value": "high",
+ "id": "FYVKxkmeNag",
+ "model": "gemini-3.8-flash",
+ "channel": "Skratch Gaming",
+ "title": "Can Holfast Replace A Maxed Lincos?? Dragonheir: Silent Gods x Dragonstride",
+ "published": "2026-11-09T18:19:52+00:00",
+ "url": "https://www.youtube.com/watch?v=FYVKxkmeNag",
+ "short": false,
+ "summarized": "2026-11-10T00:24Z"
+}

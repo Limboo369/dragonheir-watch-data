@@ -1,0 +1,103 @@
+{
+ "summary": "OddOne showcases a single team used to auto-climb Meander Trial stages 1 to 60 in Season 8, reaching 9th place on the leaderboard. Departing from standard Aura setups, the team uses a Poison and Ice Devitalization core featuring Serpentemis, Durango, Theodemer, Feenja, and Anneliesis. Theodemer and Feenja form a powerful defensive combo granting Theodemer 10 seconds of invincibility and full ultimate energy upon lethal damage. Detailed gear setups, skill timing adjustments, and replacement hero options are provided for tanks, healers, and control roles.",
+ "topics": [
+  "Meander Trial",
+  "Fey Meander",
+  "Serpentemis",
+  "Theodemer",
+  "Feenja",
+  "Team Build"
+ ],
+ "heroes": [
+  {
+   "name": "Serpentemis",
+   "verdict": "Top DPS pick",
+   "note": "Delivers massive Poison derivative damage and lowers enemy resistance by 35% via her passive, reducing team Accuracy requirements.",
+   "known": true
+  },
+  {
+   "name": "Durango",
+   "verdict": "Great Poison enabler",
+   "note": "Immediately inflicts Toxin stacks at the start of battle via his passive, triggering Serpentemis's damage burst without needing initial skill casts.",
+   "known": true
+  },
+  {
+   "name": "Theodemer",
+   "verdict": "Top tier tank",
+   "note": "Provides a full-board taunt, Defense Up II, and 30% damage reduction, gaining 10s of invincibility and debuff immunity upon death when paired with Feenja.",
+   "known": true
+  },
+  {
+   "name": "Feenja",
+   "verdict": "Core healer partner",
+   "note": "Offers immense Enlightenment-scaling healing and unlocks Theodemer's cheat-death mechanic.",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "Cheat code control hero",
+   "note": "Locks down enemy waves with knock-up and stuns while also providing healing, buff removal, and allied debuff cleansing.",
+   "known": true
+  },
+  {
+   "name": "Ripekas",
+   "verdict": "Top alternative tank",
+   "note": "A king of crowd control who knocks up, stuns, reduces ultimate energy, and applies multiple debuffs.",
+   "known": true
+  },
+  {
+   "name": "Torrin",
+   "verdict": "Viable replacement healer",
+   "note": "Pairs well with frontline tanks by providing bonus max HP, strong healing, and personal invisibility.",
+   "known": true
+  },
+  {
+   "name": "The Dark Lady",
+   "verdict": "Strong alternative control tank",
+   "note": "Functions as a fantastic tank and disruption option if available.",
+   "known": true
+  },
+  {
+   "name": "Tamar",
+   "verdict": "Alternative control pick",
+   "note": "Applies stuns and buff prohibition across enemies.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Meander Trial",
+   "heroes": [
+    "Theodemer",
+    "Feenja",
+    "Serpentemis",
+    "Durango",
+    "Anneliesis"
+   ],
+   "note": "Auto-climbing team for stages 1 to 60. Theodemer's first ultimate cast is delayed to 10 seconds to chain after Anneliesis's stuns expire."
+  }
+ ],
+ "meta_changes": [
+  "Season 8 features Ice and Poison paired together under the Devitalization elemental affinity.",
+  "Meander Trial stages 1 to 60 grant +100 Enlightenment to all allied units, heavily favoring Poison derivative damage and Enlightenment-scaling healers."
+ ],
+ "tips": [
+  "Delay Theodemer's first ultimate cast to 10.0s so his taunt lands right after Anneliesis's opening stuns wear off.",
+  "Equip Rift Hourglass on your primary crowd control hero (or control tank) to accelerate skill cycles.",
+  "Put Gatekeeper's Staff on Feenja to convert overhealing into shields for the rest of the team.",
+  "When running Serpentemis, her 35% enemy resistance reduction allows DPS and debuffers to operate effectively with only 140-150 Accuracy.",
+  "Use the Glimmering Long-Eared Deer familiar for supplemental crowd control in Meander Trial.",
+  "Equip Sacred River's Revelation on your healer for teamwide damage mitigation."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "NEVHI1wjARM",
+ "model": "gemini-3.8-flash",
+ "channel": "OddOneGaming RPGs",
+ "title": "💥 1 Team FULL AUTO All Stages 💥Meander Trial 1-60 S8 Team Showcase | Dragonheir x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=NEVHI1wjARM",
+ "short": false,
+ "summarized": "2026-11-10T00:25Z"
+}

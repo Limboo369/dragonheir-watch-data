@@ -1,0 +1,97 @@
+{
+ "summary": "Skratch showcases Aura team strategies for defeating the Continental Challenge boss Joyce. He breaks down the boss's clone-summoning and buff mechanics, explaining why an 18-second skill timing cycle is mandatory for clearing clones efficiently. He evaluates two main Aura setups—one using Ardreth for high survivability and another featuring Rena for maximum damage output—while highlighting key equipment, accuracy requirements, and Psychicore dependencies.",
+ "topics": [
+  "Continental Challenge",
+  "Joyce",
+  "Aura Team",
+  "Ardreth",
+  "Rena",
+  "Psychicore"
+ ],
+ "heroes": [
+  {
+   "name": "Joyce",
+   "verdict": "Continental Challenge Boss",
+   "note": "Summons clones and gains heavy stackable buffs, requiring dispels and timed AoE skill bursts.",
+   "known": true
+  },
+  {
+   "name": "Ardreth",
+   "verdict": "Best defensive support for Joyce",
+   "note": "Provides a Defense Aura and strong shields/healing to keep squishy Aura damage dealers alive.",
+   "known": true
+  },
+  {
+   "name": "Rena",
+   "verdict": "High damage ceiling support",
+   "note": "Offers huge buffing utility, but lacks a Defense Aura which leaves squishy damage dealers vulnerable to random boss targets.",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "Essential Aura dispeller",
+   "note": "Strips Joyce's massive Defense Up and Damage Up buffs; requires high Accuracy stats.",
+   "known": true
+  },
+  {
+   "name": "Talethia",
+   "verdict": "Primary Aura damage dealer",
+   "note": "Extremely powerful DPS whose damage scales dramatically with high Inspiration levels.",
+   "known": true
+  },
+  {
+   "name": "Diantha",
+   "verdict": "Core debuffer and sub-DPS",
+   "note": "Consistently applies Defense Down to boost overall team damage against the boss.",
+   "known": true
+  },
+  {
+   "name": "Lincos",
+   "verdict": "Core Aura summoner DPS",
+   "note": "Built with Puppeteer set or Vortex Illusion HP% pieces to maximize damage Output.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Continental Challenge (Joyce)",
+   "heroes": [
+    "Ardreth",
+    "Anneliesis",
+    "Diantha",
+    "Talethia",
+    "Lincos"
+   ],
+   "note": "Defensive Aura setup using Ardreth's Defense Aura and an 18-second ultimate skill timing cycle to clear clones safely."
+  },
+  {
+   "mode": "Continental Challenge (Joyce)",
+   "heroes": [
+    "Rena",
+    "Anneliesis",
+    "Diantha",
+    "Talethia",
+    "Lincos"
+   ],
+   "note": "Offensive Aura setup using Gatekeeper's Staff on Rena; yields higher total damage but risks early deaths."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Set ultimate skill timers to an 18-second recast cycle so heroes unleash AoE attacks right after Joyce casts Reprise and summons clones.",
+  "Build sufficient Accuracy on Anneliesis to guarantee her dispels remove Joyce's Defense Up and Damage Up buffs.",
+  "Upgrade the Incandescence Psychicore node for elemental damage and damage resistance to significantly increase Aura team scores.",
+  "If you do not have Anneliesis to dispel Joyce's buffs, consider running a Burn team instead of an Aura team."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "LowEegAwwJI",
+ "model": "gemini-3.5-flash",
+ "channel": "Skratch Gaming",
+ "title": "Aura Teams Vs. Challenge Boss Joyce! Dragonheir: Silent Gods Guide",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=LowEegAwwJI",
+ "short": false,
+ "summarized": "2026-11-10T00:21Z"
+}

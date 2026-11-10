@@ -1,0 +1,40 @@
+{
+ "summary": "Suzi conducts a massive summon session on the returning Radiant Wings banner featuring Anneliesis with her daughter Lily. She discusses Anneliesis's summon value, noting she has not been available in over a year and is a very unique hero worth acquiring. She analyzes Anneliesis's inspiration levels, highlighting that I1 through I3 provide huge value, whereas pushing to I5 is unnecessary for most players because the buff does not stack with heroes like Holfast. Ultimately, she recommends players aim for I3 at most and stop there.",
+ "topics": [
+  "Anneliesis banner",
+  "summons",
+  "hero inspiration",
+  "Radiant Wings"
+ ],
+ "heroes": [
+  {
+   "name": "Anneliesis",
+   "verdict": "Must-pull, stop at Inspiration 3 (I3)",
+   "note": "A rare and unique hero whose I1, I2, and I3 provide massive power spikes, while I5 only adds raw stats and overlapping buffs that do not stack with Holfast.",
+   "known": true
+  },
+  {
+   "name": "Holfast",
+   "verdict": "Buff overlap with Anneliesis",
+   "note": "Shares a similar non-stacking buff with Anneliesis's max inspiration effects, making I5 Anneliesis redundant when paired with him.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [],
+ "tips": [
+  "Aim for Inspiration 3 (I3) on Anneliesis rather than chasing I5, as the ultimate buff enhancements do not stack with similar buffs like Holfast's.",
+  "Try to obtain at least one base copy of Anneliesis when her banner is live, as her exclusive banner returns very infrequently."
+ ],
+ "season": "unknown",
+ "server_scope": "mixed",
+ "value": "low",
+ "id": "UtZmF-8dKVw",
+ "model": "gemini-3.8-flash",
+ "channel": "Suzi Plays",
+ "title": "LILY BROUGHT THE LUCK! 💥My INSANE Start for Anneliesis Banner (Part 1) 🔥 Dragonheir x Dragonstride",
+ "published": "2026-11-09T18:50:30+00:00",
+ "url": "https://www.youtube.com/watch?v=UtZmF-8dKVw",
+ "short": false,
+ "summarized": "2026-11-10T00:19Z"
+}

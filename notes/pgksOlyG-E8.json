@@ -1,0 +1,196 @@
+{
+ "summary": "Gorax provides a comprehensive guide for maximizing damage against the endgame boss Undyne Inferno - Cypreum (Resurgent Dragon). He showcases multiple high-end and budget team compositions across Toxin, Radiant/Aura, Dauntless, Necrosis/Shadow, and Frost schools, with many surpassing 200M to over 3B damage. The guide explains boss mechanics, specifically how to manage the boss's Power of Dragon Rage stacks using ultimate energy manipulation. Detailed 20-second skill timing rotations and gearing priorities are broken down to ensure maximum damage uptime and survivability.",
+ "topics": [
+  "Resurgent Dragon",
+  "Undyne Inferno - Cypreum",
+  "Endgame Boss",
+  "Team Compositions",
+  "Skill Timings"
+ ],
+ "heroes": [
+  {
+   "name": "Serpentemis",
+   "verdict": "Top Toxin DPS",
+   "note": "Reaches up to 3B damage against Cypreum when built with high Enlightenment, Attack, and Accuracy.",
+   "known": true
+  },
+  {
+   "name": "Talethia",
+   "verdict": "Top Radiant DPS",
+   "note": "Performs on par with Serpentemis at high inspiration; built with Crit Rate, Crit Damage, and high HP.",
+   "known": true
+  },
+  {
+   "name": "Child of Chaos",
+   "verdict": "Best-in-slot Support",
+   "note": "Mitigates the boss's Attack Penalty debuff and can solo sustain team survivability even at low inspiration.",
+   "known": true
+  },
+  {
+   "name": "Oggok",
+   "verdict": "Top Defensive Alternative",
+   "note": "Provides healing and immortality; his 'Born to Be Proud' talent gives energy on ally resist to enable 18-second rotations.",
+   "known": true
+  },
+  {
+   "name": "Sleight",
+   "verdict": "Top Toxin Derivative DPS",
+   "note": "Essential derivative damage dealer; built offensively with Enlightenment, Accuracy, and Attack.",
+   "known": true
+  },
+  {
+   "name": "Sacredeia",
+   "verdict": "Essential Toxin Debuffer",
+   "note": "Provides a crucial 30% Poison Vulnerability debuff with Mystic Conch, significantly raising team damage.",
+   "known": true
+  },
+  {
+   "name": "Durango",
+   "verdict": "Budget Sacredeia Substitute",
+   "note": "Can replace Sacredeia for applying Corrosion/Toxin, though overall team output drops due to lacking her 30% vulnerability debuff.",
+   "known": true
+  },
+  {
+   "name": "Shahla",
+   "verdict": "Key Radiant Utility",
+   "note": "Grants ultimate energy to allies, which actively removes the boss's Power of Dragon Rage stacks.",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "Top Radiant Support",
+   "note": "Positioned behind Talethia to boost and protect her while providing debuffs and sustain.",
+   "known": true
+  },
+  {
+   "name": "Holfast",
+   "verdict": "High-Scaling Radiant DPS",
+   "note": "Scales massively with higher inspirations; built purely for offensive Radiant damage.",
+   "known": true
+  },
+  {
+   "name": "Maashtur",
+   "verdict": "Mandatory Dauntless Support",
+   "note": "Reduces enemy ultimate energy on his skill, effectively stripping Dragon Rage stacks from the boss.",
+   "known": true
+  },
+  {
+   "name": "Nathaniel",
+   "verdict": "Top Defensive Dauntless Pick",
+   "note": "Replaces offensive supports when survival is an issue, providing debuff cleansing, shields, and Resistance sharing.",
+   "known": true
+  },
+  {
+   "name": "Saverio",
+   "verdict": "Top Necrosis DPS",
+   "note": "Main damage dealer for Shadow/Necrosis comps; easily deals 370M+ damage built with Enlightenment and Attack.",
+   "known": true
+  },
+  {
+   "name": "Usha",
+   "verdict": "Top Budget Frost DPS",
+   "note": "Anchor for an all-epic/rare Frost team that reliably clears over 200M damage.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Undyne Inferno - Cypreum",
+   "heroes": [
+    "Serpentemis",
+    "Lothair",
+    "Sleight",
+    "Sacredeia",
+    "Child of Chaos"
+   ],
+   "note": "High-end Toxin team doing nearly 3B damage on a 20s skill rotation with Child of Chaos handling buffs and survival."
+  },
+  {
+   "mode": "Undyne Inferno - Cypreum",
+   "heroes": [
+    "Oggok",
+    "Durango",
+    "Sleight",
+    "Deeno",
+    "Dench"
+   ],
+   "note": "Budget Toxin setup using epics and rares capable of easily surpassing 200M damage with Enlightenment builds."
+  },
+  {
+   "mode": "Undyne Inferno - Cypreum",
+   "heroes": [
+    "Talethia",
+    "Anneliesis",
+    "Holfast",
+    "Diantha",
+    "Shahla"
+   ],
+   "note": "Premier Aura/Radiant composition hitting over 2B damage; Shahla provides ultimate energy to strip dragon rage stacks."
+  },
+  {
+   "mode": "Undyne Inferno - Cypreum",
+   "heroes": [
+    "Guinavivre",
+    "Nastjenka",
+    "Kurvida",
+    "Maashtur",
+    "Tharivol"
+   ],
+   "note": "High-damage Dauntless composition doing 500M–600M damage; Maashtur controls boss ultimate energy."
+  },
+  {
+   "mode": "Undyne Inferno - Cypreum",
+   "heroes": [
+    "Guinavivre",
+    "Nastjenka",
+    "Kurvida",
+    "Maashtur",
+    "Nathaniel"
+   ],
+   "note": "Defensive Dauntless variant using Nathaniel for debuff dispels and shields, hitting 610M damage."
+  },
+  {
+   "mode": "Undyne Inferno - Cypreum",
+   "heroes": [
+    "Saverio",
+    "Aspalta",
+    "Astaion",
+    "Daphne",
+    "Sia"
+   ],
+   "note": "Necrosis/Shadow comp achieving 370M+ damage running purely default skill timings."
+  },
+  {
+   "mode": "Undyne Inferno - Cypreum",
+   "heroes": [
+    "Usha",
+    "Rava",
+    "Vidimir",
+    "Felosia",
+    "Olgan"
+   ],
+   "note": "Budget Frost composition of epics/rares that reaches 239M+ damage without legendary inspirations."
+  }
+ ],
+ "meta_changes": [
+  "Resurgent Dragon (Undyne Inferno - Cypreum) introduces the 'Power of Dragon Rage' passive, granting 8 stacks that must be reduced by increasing ally ultimate energy or decreasing boss ultimate energy.",
+  "Puppeteer artifact sets trigger boss mechanics that consume stacks while nullifying the set's stat benefits, shifting rotation strategies away from strict 18-second loops to 20-second loops."
+ ],
+ "tips": [
+  "Run a 20-second rotation on your skills rather than an 18-second rotation to prevent boss mechanics from desyncing Puppeteer sets and ultimate sequences.",
+  "Counter the boss's Dragon Rage stacks by using heroes that grant ally ultimate energy (like Shahla) or reduce enemy ultimate energy (like Maashtur).",
+  "In Phase 1 of the dragon, prioritize Enlightenment, Attack, and Accuracy over Resistance; save heavy Resistance gear for Phase 2.",
+  "If your team struggles to survive under Child of Chaos alone, swap a secondary damage dealer for Oggok built with high Resistance and the 'Born to Be Proud' talent."
+ ],
+ "season": "S1",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "pgksOlyG-E8",
+ "model": "gemini-3.8-flash",
+ "channel": "Gorax",
+ "title": "Resurgent Dragon Ultimate Guide – 8 Teams, Builds & Codes | Dragonheir",
+ "published": "2026-11-09T12:00:03+00:00",
+ "url": "https://www.youtube.com/watch?v=pgksOlyG-E8",
+ "short": false,
+ "summarized": "2026-11-10T00:19Z"
+}

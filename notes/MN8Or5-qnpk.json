@@ -1,0 +1,111 @@
+{
+ "summary": "This video showcases top-ranking endgame boss Phase 1 teams and builds from the Chinese server, reaching over 12 billion total daily damage. Teams highlighted include Aura hitting 2.5B+ damage, Poison/Toxin reaching 3.3B damage, and Corrosion achieving up to 2B damage. The creator examines individual gearing, enlightenment levels, and artifacts across several leaderboard players. Key takeaways include the revival of Lothair, the necessity of Tariz for Thunderbolt compositions, and Reytah's strong sustain role in Corrosion.",
+ "topics": [
+  "Endgame Boss",
+  "Chinese Server",
+  "Team Compositions",
+  "Leaderboard",
+  "Hero Builds"
+ ],
+ "heroes": [
+  {
+   "name": "Tariz",
+   "verdict": "Must-have support",
+   "note": "Crucial hero needed for Thunderbolt teams in both Continental Challenge and the endgame boss; creator suggests picking him up from optional banners.",
+   "known": true
+  },
+  {
+   "name": "Lothair",
+   "verdict": "High-value pick",
+   "note": "Back in the meta and performing strongly in Continental Challenge and endgame boss setups, functioning either as an enlightenment damage dealer or booster.",
+   "known": true
+  },
+  {
+   "name": "Tauricen",
+   "verdict": "Top Aura DPS",
+   "note": "Drives over 2.5 billion damage in fully inspired Aura teams when built with high HP and 340-350% Crit Damage.",
+   "known": true
+  },
+  {
+   "name": "Reytah",
+   "verdict": "Essential Corrosion sustain",
+   "note": "Able to solo sustain the entire Corrosion team with his exclusive artifact, allowing the team to output 1.4B to 2B damage.",
+   "known": true
+  },
+  {
+   "name": "Saverio",
+   "verdict": "Viable at Inspiration 0",
+   "note": "Performs solidly dealing 650M+ damage even without inspirations when equipped with his exclusive artifact.",
+   "known": true
+  },
+  {
+   "name": "Irmoush",
+   "verdict": "Strong debuffer/utility",
+   "note": "Frequently utilized holding the Witch's Remains artifact in the Puppeteer set.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Endgame Boss Phase 1",
+   "heroes": [
+    "Twitch",
+    "Serpentemis",
+    "Lothair",
+    "Sleight",
+    "Oggok"
+   ],
+   "note": "Top-performing Poison/Toxin composition dealing 3.3 billion damage, relying on Lothair boosting and Serpentemis as main damage dealer."
+  },
+  {
+   "mode": "Endgame Boss Phase 1",
+   "heroes": [
+    "Tauricen",
+    "Lincos",
+    "Anneliesis"
+   ],
+   "note": "High-investment Aura composition reaching 2.55 billion damage with high critical damage builds."
+  },
+  {
+   "mode": "Endgame Boss Phase 1",
+   "heroes": [
+    "Sacredeia",
+    "Rook",
+    "Szecedith",
+    "Reytah",
+    "Whisk"
+   ],
+   "note": "Corrosion setup dealing 1.47B to 2B damage where Reytah with exclusive artifact keeps the team alive."
+  },
+  {
+   "mode": "Endgame Boss Phase 1",
+   "heroes": [
+    "Perkunte",
+    "Alaura",
+    "Tariz",
+    "Irmoush"
+   ],
+   "note": "Thunderbolt setup achieving around 1.4 billion damage; Tariz is essential for enabling the team."
+  }
+ ],
+ "meta_changes": [
+  "Lothair has returned to top-tier endgame PvE relevance in both Continental Challenge and Endgame Boss.",
+  "Burn without Vyressa shows weaker relative performance (~500M damage) compared to Aura, Poison, and Corrosion setups."
+ ],
+ "tips": [
+  "Consider pulling Tariz from optional banners due to his high demand in endgame Thunderbolt teams.",
+  "Build Tauricen with maximum Crit Damage (aiming for +340% to +350%) and high HP to maximize Aura team output.",
+  "Equip Reytah with his exclusive artifact to allow him to solo sustain Corrosion teams against endgame bosses."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "MN8Or5-qnpk",
+ "model": "gemini-3.8-flash",
+ "channel": "Neff Gaming",
+ "title": "S8 Endgame Boss - Best Teams from the Chinese Server | Dragonheir: Silent Gods x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=MN8Or5-qnpk",
+ "short": false,
+ "summarized": "2026-11-10T00:21Z"
+}

@@ -1,0 +1,112 @@
+{
+ "summary": "Season 9 introduces 9 new heroes and 4 new exclusive artifacts that completely shift the endgame meta. Folvarst emerges as a game-changing Aura DPS/buffer that outperforms Lincos even at low inspiration levels. Seraphine elevates Ice Blast teams to compete directly with top-tier Dauntless teams in Temporal Vortex IV by providing massive defense, cleansing, and max HP buffs. Lariel replaces Sacredeia in Corrosion teams, boosting Rook's damage to record-breaking levels in AoE content. Meanwhile, Seonios offers unique 1v1 isolation mechanics tailored primarily for PvP.",
+ "topics": [
+  "Season 9 meta",
+  "Option Summons",
+  "New Heroes",
+  "Artifacts",
+  "Temporal Vortex IV",
+  "Chinese Test Server"
+ ],
+ "heroes": [
+  {
+   "name": "Folvarst",
+   "verdict": "Must-have meta game-changer for Aura teams",
+   "note": "Replaces Lincos by buffing allied Aura ultimate damage by 30% and transferring energy, easily outdamaging I5 Lincos teams even at I0.",
+   "known": false
+  },
+  {
+   "name": "Seraphine",
+   "verdict": "Top-tier exclusive Ice support hero",
+   "note": "Provides teamwide 60% DEF boost, debuff cleanse, control immunity, and converts taken damage into permanent max HP and ATK buffs.",
+   "known": false
+  },
+  {
+   "name": "Lariel",
+   "verdict": "Meta-defining Corrosion buffer/DPS",
+   "note": "Replaces Sacredeia in Corrosion comps by applying Tear for 35% DEF reduction and summoning clone hounds that deal true damage based on Corrosion value.",
+   "known": false
+  },
+  {
+   "name": "Seonios",
+   "verdict": "Specialized PvP 1v1 isolation unit",
+   "note": "Reduces enemy DEF based on mastery and pulls the highest ATK enemy into an isolated 1v1 Corrosion Realm while blocking energy recovery.",
+   "known": false
+  },
+  {
+   "name": "Lincos",
+   "verdict": "Outclassed in Aura meta",
+   "note": "Replaced by Folvarst who provides significantly higher team damage output even at lower inspiration ranks.",
+   "known": true
+  },
+  {
+   "name": "Sacredeia",
+   "verdict": "Replaced in premier Corrosion teams",
+   "note": "Replaced by Lariel in top Corrosion lineups, though she also gains a strong new exclusive artifact.",
+   "known": true
+  },
+  {
+   "name": "Rook",
+   "verdict": "Top Corrosion damage dealer",
+   "note": "Reaches extreme damage numbers when paired with Lariel's Tear defense reduction and Corrosion synergy.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Temporal Vortex IV",
+   "heroes": [
+    "Folvarst",
+    "Talethia",
+    "Garia",
+    "Hinges",
+    "Rheta"
+   ],
+   "note": "New S9 Aura team reaching over 4.6 billion damage on test server, significantly beating previous Lincos setups."
+  },
+  {
+   "mode": "Temporal Vortex IV",
+   "heroes": [
+    "Seraphine",
+    "Lossenia",
+    "Zhar'loth",
+    "Hvitar",
+    "Broll"
+   ],
+   "note": "Ice Blast comp utilizing Seraphine for survival and buffs, achieving 30+ billion damage to rival top Dauntless teams."
+  },
+  {
+   "mode": "Temporal Vortex IV (AoE Boss)",
+   "heroes": [
+    "Lariel",
+    "Rook",
+    "Shai'nachtan",
+    "Sacredeia",
+    "Ghul'ende"
+   ],
+   "note": "High-investment Corrosion team dealing over 71.8 billion total damage in AoE boss encounters."
+  }
+ ],
+ "meta_changes": [
+  "Aura team meta shifts from Lincos to Folvarst, who provides massive passive teamwide damage amplification for Lumina/Aura heroes.",
+  "Ice Blast teams reach top-tier Temporal Vortex IV performance thanks to Seraphine's defensive, cleansing, and permanent scaling buffs.",
+  "Corrosion teams receive Lariel, who applies stackable Tear DEF reduction and drives Rook's true damage output through the roof.",
+  "Four new exclusive artifacts arrive for Sacredeia, Larclys, Monalisse, and Blah Blah."
+ ],
+ "tips": [
+  "Prioritize pulling for new exclusive support heroes like Seraphine, as they enable existing DPS cores to survive and compete in high-tier content without requiring multiple I5 heroes.",
+  "Consider long-term value when choosing banners in Option Summons II, as new Aura and Corrosion heroes significantly shift element rankings.",
+  "For new or F2P players, focus on obtaining core exclusive supports at I0 rather than chasing high inspiration levels on expensive DPS units."
+ ],
+ "season": "S9",
+ "server_scope": "mixed",
+ "value": "high",
+ "id": "LoshJITl5VE",
+ "model": "gemini-3.5-flash",
+ "channel": "Gorax",
+ "title": "Option Summons II: Watch Before You Pull! New Meta-Defining Heroes | Dragonheir x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=LoshJITl5VE",
+ "short": false,
+ "summarized": "2026-11-10T00:22Z"
+}

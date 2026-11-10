@@ -1,14 +1,13 @@
 {
- "built": "2026-11-10T00:05Z",
- "last_fetch": "2026-11-09T23:17Z",
+ "built": "2026-11-10T00:25Z",
+ "last_fetch": "2026-11-10T00:17Z",
  "counts": {
-  "summarized": 403,
+  "summarized": 415,
   "skipped_giveaway": 17,
   "baseline": 22,
-  "new": 239,
+  "new": 229,
   "skipped_live": 1,
-  "failed": 3,
-  "retry": 2
+  "failed": 3
  },
  "problems": [
   {
@@ -16,18 +15,6 @@
    "channel": "liveranov",
    "status": "failed",
    "error": "Expecting value: line 1 column 1 (char 0)"
-  },
-  {
-   "title": "I Went to China to Visit the Dragonheir: Silent Gods Studio!",
-   "channel": "Skratch Gaming",
-   "status": "retry",
-   "error": ""
-  },
-  {
-   "title": "💥 1 Team FULL AUTO All Stages 💥Meander Trial 1-60 S8 Team Showcase | Dragonheir x Dragonstride",
-   "channel": "OddOneGaming RPGs",
-   "status": "retry",
-   "error": ""
   },
   {
    "title": "🔥 Season 9 FIRST CROWN CONTEST! Code: SKYASTERIX | Dragonheir: Silent Gods",
@@ -43,52 +30,11 @@
   }
  ],
  "budget": {
-  "day": "2026-11-09",
-  "seconds": 26271,
-  "v2": 1,
-  "quota_hit": 1794208692.7710142
+  "day": "2026-11-10",
+  "seconds": 10696,
+  "v2": 1
  },
  "log_tail": [
-  "saved OJ85WHq6pPs",
-  "+ Gorax: How to JOIN the Faction War & Claim Web Event Legendary Hero",
-  "  gemini-3.8-flash: 503, using gemini-3.5-flash",
-  "  gemini-3.8-flash: 503, using gemini-3.5-flash",
-  "saved Nb_6NSFmeT8",
-  "+ liveranov: INCANDESCENCE Team Speed Runs | Dragonheir: Silent Gods",
-  "saved Ncih4LERkxM",
-  "+ Gorax: The BEST Artifacts Every Player Needs Early | Dragonheir x D",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 403 videos, 222 heroes",
-  "== 2026-11-09 10:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (437 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 403 videos, 222 heroes",
-  "== 2026-11-09 11:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (437 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 403 videos, 222 heroes",
-  "== 2026-11-09 12:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (437 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 403 videos, 222 heroes",
-  "== 2026-11-09 13:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (437 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 403 videos, 222 heroes",
-  "== 2026-11-09 14:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (437 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 403 videos, 222 heroes",
-  "== 2026-11-09 15:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (437 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 403 videos, 222 heroes",
-  "== 2026-11-09 16:17",
   "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "daily video budget used (437 min), waiting for tomorrow",
@@ -128,7 +74,47 @@
   "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "daily video budget used (437 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 403 videos, 222 heroes"
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 403 videos, 222 heroes",
+  "== 2026-11-10 00:17",
+  "fetch done: 0 new transcripts, 0 not available yet",
+  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
+  "… Suzi Plays: LILY BROUGHT THE LUCK! 💥My INSANE Start for Anneliesis Banne",
+  "… Skratch Gaming: Can Holfast Replace A Maxed Lincos?? Dragonheir: Silent Gods… Gorax: Resurgent Dragon Ultimate Guide – 8 Teams, Builds & Codes | … Skratch Gaming: I Went to China to Visit the Dragonheir: Silent Gods Studio!",
+  "",
+  "",
+  "… OddOneGaming RPGs: 💥 1 Team FULL AUTO All Stages 💥Meander Trial 1-60 S8 Team Sh",
+  "saved UtZmF-8dKVw",
+  "+ Suzi Plays: LILY BROUGHT THE LUCK! 💥My INSANE Start for Anneliesis Banne",
+  "… Skratch Gaming: I PULLED On The BEST BANNER & This Is What I Got... Dragonhe",
+  "saved NUnUfOOm1eU",
+  "+ Skratch Gaming: I Went to China to Visit the Dragonheir: Silent Gods Studio!",
+  "… Neff Gaming: S8 Endgame Boss - Best Teams from the Chinese Server | Drago",
+  "saved pgksOlyG-E8",
+  "+ Gorax: Resurgent Dragon Ultimate Guide – 8 Teams, Builds & Codes | ",
+  "… Skratch Gaming: Sagomir Invited Me To The Dragonheir Studio For Their 3rd An",
+  "saved Msd6wfUmCgM",
+  "+ Skratch Gaming: I PULLED On The BEST BANNER & This Is What I Got... Dragonhe",
+  "… OddOneGaming RPGs: 🚨 I DID THEM ALL So You Don't Have To 🚨 All Summer Night Rid",
+  "saved MN8Or5-qnpk",
+  "+ Neff Gaming: S8 Endgame Boss - Best Teams from the Chinese Server | Drago",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "… Skratch Gaming: Aura Teams Vs. Challenge Boss Joyce! Dragonheir: Silent Gods",
+  "saved MB7SGv4A4Jw",
+  "+ Skratch Gaming: Sagomir Invited Me To The Dragonheir Studio For Their 3rd An",
+  "… Gorax: Option Summons II: Watch Before You Pull! New Meta-Defining ",
+  "saved M0X5qEITkZc",
+  "+ OddOneGaming RPGs: 🚨 I DID THEM ALL So You Don't Have To 🚨 All Summer Night Rid",
+  "… liveranov: Summons Team (UPDATED)  vs Fire Guardians | Crown Contest | ",
+  "saved LowEegAwwJI",
+  "+ Skratch Gaming: Aura Teams Vs. Challenge Boss Joyce! Dragonheir: Silent Gods",
+  "saved LOgDWwBQQS8",
+  "+ liveranov: Summons Team (UPDATED)  vs Fire Guardians | Crown Contest | ",
+  "saved LoshJITl5VE (unknown hero names: Folvarst, Seraphine, Lariel, Seonios)",
+  "+ Gorax: Option Summons II: Watch Before You Pull! New Meta-Defining ",
+  "saved FYVKxkmeNag",
+  "+ Skratch Gaming: Can Holfast Replace A Maxed Lincos?? Dragonheir: Silent Gods",
+  "saved NEVHI1wjARM",
+  "+ OddOneGaming RPGs: 💥 1 Team FULL AUTO All Stages 💥Meander Trial 1-60 S8 Team Sh"
  ],
  "crontab": [],
  "channels": [
@@ -136,55 +122,55 @@
    "name": "Skratch Gaming",
    "id": "UCoSkzr1pXpt3d0jIxsc6ufw",
    "enabled": true,
-   "checked": "2026-11-09T23:17Z"
+   "checked": "2026-11-10T00:17Z"
   },
   {
    "name": "Gorax",
    "id": "UCNas7BnuOIjDEzY1D53kb1w",
    "enabled": true,
-   "checked": "2026-11-09T23:17Z"
+   "checked": "2026-11-10T00:17Z"
   },
   {
    "name": "Neff Gaming",
    "id": "UCsxs6YhNd_B36RgUAjbpJ_A",
    "enabled": true,
-   "checked": "2026-11-09T23:17Z"
+   "checked": "2026-11-10T00:17Z"
   },
   {
    "name": "Volkin Dragonheir",
    "id": "UCfRpOh_ywVjzhh9fxHbreGw",
    "enabled": true,
-   "checked": "2026-11-09T23:17Z"
+   "checked": "2026-11-10T00:17Z"
   },
   {
    "name": "Fastidious Dragonheir",
    "id": "UC16mpj5wEemSZX-uTlHe9Ww",
    "enabled": true,
-   "checked": "2026-11-09T23:17Z"
+   "checked": "2026-11-10T00:17Z"
   },
   {
    "name": "OddOneGaming RPGs",
    "id": "UC1ivUEf_poI9_R2eVKa8wRQ",
    "enabled": true,
-   "checked": "2026-11-09T23:17Z"
+   "checked": "2026-11-10T00:17Z"
   },
   {
    "name": "Suzi Plays",
    "id": "UCyo1-TkunhGcK6khU1h8Ypw",
    "enabled": true,
-   "checked": "2026-11-09T23:17Z"
+   "checked": "2026-11-10T00:17Z"
   },
   {
    "name": "Skyasterix Gaming",
    "id": "UCr5Gb3910rK7QPmKMmdagsA",
    "enabled": true,
-   "checked": "2026-11-09T23:17Z"
+   "checked": "2026-11-10T00:17Z"
   },
   {
    "name": "liveranov",
    "id": "UCqCR7ofFHhWwXy3Hg00fqEw",
    "enabled": true,
-   "checked": "2026-11-09T23:17Z"
+   "checked": "2026-11-10T00:17Z"
   }
  ]
 }

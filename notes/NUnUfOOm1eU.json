@@ -1,0 +1,33 @@
+{
+ "summary": "Skratch visited the Dragonheir development studio to interview the developers about community concerns and future updates. The developers addressed Team Arena, explaining it was temporarily removed due to tedium and gear-swapping friction, with a reworked version planned for later in the year. They also discussed player feedback regarding the endgame seasonal boss Phase 2, noting they are re-evaluating pacing and progression balance. Furthermore, the team explained that early-season stamina and event limitations are intentional design choices to encourage strategic resource management. Finally, the developers acknowledged that exchange shops lose value over time and confirmed they are exploring shop refreshes and long-term resource sinks.",
+ "topics": [
+  "Developer Q&A",
+  "Studio Visit",
+  "Team Arena",
+  "Seasonal Progression",
+  "Endgame Boss",
+  "Exchange Shops"
+ ],
+ "heroes": [],
+ "teams": [],
+ "meta_changes": [
+  "Team Arena rework is planned for late year to streamline mechanics, reduce gear swapping, and reduce time commitment across seasons.",
+  "Endgame seasonal boss Phase 2 pacing and mechanics are being re-evaluated based on player feedback to reduce tedium.",
+  "Alliance, Journey, and Glory exchange shops are being evaluated for future refreshes or meaningful late-season resource sinks."
+ ],
+ "tips": [
+  "Plan early-season stamina and resource spending strictly, as developers intentionally limit early resources to prioritize strategic account progression over farming.",
+  "Expect stamina rewards to expand significantly toward the end of each season to serve as a catch-up mechanic."
+ ],
+ "season": "unknown",
+ "server_scope": "mixed",
+ "value": "medium",
+ "id": "NUnUfOOm1eU",
+ "model": "gemini-3.8-flash",
+ "channel": "Skratch Gaming",
+ "title": "I Went to China to Visit the Dragonheir: Silent Gods Studio!",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=NUnUfOOm1eU",
+ "short": false,
+ "summarized": "2026-11-10T00:19Z"
+}

@@ -1,0 +1,72 @@
+{
+ "summary": "This video showcases an updated Summons team composition competing in the Crown Contest against the Fire Guardian boss, reaching over 3.77 billion damage. The featured lineup consists of Lelwanis, Sintrellia, Irzillas, Bernade, and The Dark Lady. Build recommendations highlight prioritizing full damage stats on Lelwanis and stacking maximum Attack on Sintrellia. Defensive stats are assigned to Irzillas to ensure frontline survival, while Bernade uses the Puppeteer set and The Dark Lady uses the Witches set.",
+ "topics": [
+  "Crown Contest",
+  "Summons Team",
+  "Fire Fortress",
+  "Hero Builds"
+ ],
+ "heroes": [
+  {
+   "name": "Lelwanis",
+   "verdict": "Main DPS for Summons team",
+   "note": "Built with full damage stats, focusing on high Attack, Crit Rate, and Crit Damage.",
+   "known": true
+  },
+  {
+   "name": "Sintrellia",
+   "verdict": "Key Summons buffer/support",
+   "note": "Built with as much Attack stat as possible to maximize team efficiency.",
+   "known": true
+  },
+  {
+   "name": "Irzillas",
+   "verdict": "Frontline Tank",
+   "note": "Built with heavy defensive stats focusing on maximum HP and Defense.",
+   "known": true
+  },
+  {
+   "name": "Bernade",
+   "verdict": "Core Summons enabler",
+   "note": "Equipped with the Puppeteer gear set.",
+   "known": true
+  },
+  {
+   "name": "The Dark Lady",
+   "verdict": "Core Summons enabler",
+   "note": "Equipped with the Witches gear set.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Crown Contest",
+   "heroes": [
+    "Lelwanis",
+    "Sintrellia",
+    "Irzillas",
+    "Bernade",
+    "The Dark Lady"
+   ],
+   "note": "Scored 3,778,797,742 total damage against the Fire Guardian boss."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Build Lelwanis with full damage stats including high Crit Rate and Crit Damage for maximum output.",
+  "Stack as much Attack as possible on Sintrellia to optimize her scaling.",
+  "Equip Irzillas with heavy defensive gear (HP and Defense) to take damage for the team.",
+  "Use the Puppeteer set on Bernade and the Witches set on The Dark Lady."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "LOgDWwBQQS8",
+ "model": "gemini-3.5-flash",
+ "channel": "liveranov",
+ "title": "Summons Team (UPDATED)  vs Fire Guardians | Crown Contest | Dragonheir | Season 8",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=LOgDWwBQQS8",
+ "short": false,
+ "summarized": "2026-11-10T00:21Z"
+}

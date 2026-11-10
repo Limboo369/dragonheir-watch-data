@@ -1,0 +1,78 @@
+{
+ "summary": "Skratch reviews the Option Summons banner, which he considers the best banner in the game because it allows players to select two damage schools and includes exclusive support characters. He pulls 300 summons to reach the selector pity, aiming for copies of Talethia or Serpentemis to boost their inspiration levels for high-end PvE content. After failing to pull them early, he selects Talethia to reach Inspiration 5 for the weekly Chief Challenge and buys another copy in the Temporal Corridor exchange shop. For newer players, he cautions against building expensive archetypes like Dauntless and highlights cheaper, high-performing alternatives like Ice Blast. He also warns that summon banner mercy counters do not carry over between different banners.",
+ "topics": [
+  "Option Summons",
+  "Banner Advice",
+  "Temporal Vortex",
+  "Temporal Corridor",
+  "Chief Challenge"
+ ],
+ "heroes": [
+  {
+   "name": "Talethia",
+   "verdict": "Top-tier boss DPS",
+   "note": "Reaching Inspiration 5 drastically boosts her damage output, making her essential for competing in the top ranks of the weekly Chief Challenge bosses.",
+   "known": true
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "Top-tier Toxin DPS",
+   "note": "An insane damage dealer for Temporal Vortex whose performance scales massively with higher inspiration levels.",
+   "known": true
+  },
+  {
+   "name": "Durango",
+   "verdict": "Great Toxin character",
+   "note": "A strong component of Toxin teams across PvP, PvE, and Magi-Chess.",
+   "known": true
+  },
+  {
+   "name": "Aemonleyda",
+   "verdict": "Worst pick on selector",
+   "note": "Described as the least desirable option among the selectable exclusive legendaries on the banner.",
+   "known": true
+  },
+  {
+   "name": "Maashtur",
+   "verdict": "High value inspiration target",
+   "note": "Targeted for an Inspiration 2 upgrade in the Temporal Corridor shop exchange.",
+   "known": true
+  },
+  {
+   "name": "Sleight",
+   "verdict": "Recommended exchange pick",
+   "note": "Targeted for duplicate acquisition in upcoming shop rotations once key inspirations are finished.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Temporal Vortex",
+   "heroes": [
+    "Serpentemis",
+    "Durango"
+   ],
+   "note": "Core Toxin damage setup shown dealing close to 30 billion damage against the Arbor Hydra boss."
+  }
+ ],
+ "meta_changes": [
+  "Option Summons allows players to pick two schools of heroes, adding exclusive supports into the summon pool alongside exclusive damage dealers.",
+  "A hidden guarantee exists granting the exclusive character at 1,000 pulls on banners if not summoned earlier."
+ ],
+ "tips": [
+  "New players should avoid building Dauntless teams first because they are the most expensive archetype and require all exclusive characters to shine; Ice Blast is a cheaper and effective alternative.",
+  "Banner mercy and pity do not carry over from one summon banner to the next.",
+  "Avoid over-committing past the 300-summon selector milestone unless prepared to go all the way to 1,000 summons for the guaranteed exclusive safety net."
+ ],
+ "season": "S8",
+ "server_scope": "mixed",
+ "value": "medium",
+ "id": "Msd6wfUmCgM",
+ "model": "gemini-3.8-flash",
+ "channel": "Skratch Gaming",
+ "title": "I PULLED On The BEST BANNER & This Is What I Got... Dragonheir: Silent Gods",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=Msd6wfUmCgM",
+ "short": false,
+ "summarized": "2026-11-10T00:20Z"
+}
