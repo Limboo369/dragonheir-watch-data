@@ -1,5 +1,5 @@
 {
- "built": "2026-11-10T02:58Z",
+ "built": "2026-11-10T03:18Z",
  "videos": [
   {
    "summary": "Suzi conducts a massive summon session on the returning Radiant Wings banner featuring Anneliesis with her daughter Lily. She discusses Anneliesis's summon value, noting she has not been available in over a year and is a very unique hero worth acquiring. She analyzes Anneliesis's inspiration levels, highlighting that I1 through I3 provide huge value, whereas pushing to I5 is unnecessary for most players because the buff does not stack with heroes like Holfast. Ultimately, she recommends players aim for I3 at most and stop there.",
@@ -19741,6 +19741,81 @@
    "summarized": "2026-11-03T01:23Z"
   },
   {
+   "summary": "This guide showcases a top-performing Burn element team against the Season 8 Continental Challenge boss, Joyce. By leveraging Journ's ultimate to dispel Joyce's defense and damage buffs at key intervals (18.2s recast timing), the team maintains maximum damage output with Durem as the primary DPS. Mithrasea is highlighted as a powerful support providing resurrection and survivability, making this setup a viable alternative to high-inspiration Taletia aura teams. Detailed gear setups, attack-sharing mechanics, and skill timings are demonstrated.",
+   "topics": [
+    "Continental Challenge",
+    "Boss Joyce",
+    "Burn Team",
+    "Hero Gear",
+    "Skill Timing"
+   ],
+   "heroes": [
+    {
+     "name": "Journ",
+     "verdict": "Essential dispelexpert for Boss Joyce",
+     "note": "Requires high Accuracy and an 18.2-second ultimate recast timer to reliably strip Joyce's Defense Up and Damage Up buffs.",
+     "known": true
+    },
+    {
+     "name": "Mithrasea",
+     "verdict": "Top-tier revive and survivability support",
+     "note": "Provides vital resurrection when frontline allies like Paixton fall in late fight, alongside an HP Aura and shield synergy.",
+     "known": true
+    },
+    {
+     "name": "Durem",
+     "verdict": "Main Burn damage dealer",
+     "note": "Requires high Accuracy (or the Direct Ray talent to ignore Resistance) alongside Crit Rate and Crit Damage for maximum Burn output.",
+     "known": true
+    },
+    {
+     "name": "Karf",
+     "verdict": "Attack-sharing enabler and debuffer",
+     "note": "Built with Everburning Netherfire mythic gear to share attack, sufficient Accuracy to land debuffs, and Skill Haste.",
+     "known": true
+    },
+    {
+     "name": "Paixton",
+     "verdict": "Attack-sharing frontline support",
+     "note": "Utilizes Puppeteer and attack-sharing gear with a 15.0-second ultimate recast timer to continuously sustain team DPS.",
+     "known": true
+    }
+   ],
+   "teams": [
+    {
+     "mode": "Continental Challenge - Boss Joyce",
+     "heroes": [
+      "Journ",
+      "Mithrasea",
+      "Durem",
+      "Karf",
+      "Paixton"
+     ],
+     "note": "Burn element team focused on dispelling Joyce's buffs with timed Journ ultimates while Durem delivers heavy damage."
+    }
+   ],
+   "meta_changes": [
+    "Mithrasea Burn team configuration offers a competitive alternative to high-inspiration Taletia aura compositions for boss fights."
+   ],
+   "tips": [
+    "Set Journ's ultimate recast timing to 18.2 seconds to automatically clear Joyce's Defense Up and Damage Up buffs.",
+    "Set Paixton's ultimate recast timing to 15.0 seconds for optimal buff rotation.",
+    "Ensure debuffers like Journ, Karf, and Durem have close to 300 Accuracy (or use resistance-ignoring talents like Direct Ray) to consistently land effects on high-level bosses.",
+    "Position heroes equipped with Vortex Illusion within one tile of Journ to properly stack damage increase buffs."
+   ],
+   "season": "S8",
+   "server_scope": "S9",
+   "value": "high",
+   "id": "IjQ9BlCQInY",
+   "model": "gemini-3.5-flash",
+   "channel": "Neff Gaming",
+   "title": "BEST Burn Setup vs Boss Joyce! | Season 8 Continental Challenge | Dragonheir: Silent Gods",
+   "published": "2026-09-28T12:00:00+00:00",
+   "url": "https://www.youtube.com/watch?v=IjQ9BlCQInY",
+   "short": false,
+   "summarized": "2026-11-10T03:18Z"
+  },
+  {
    "summary": "Neff Gaming addresses members of the Child of Chaos faction during the Nightveil Standoff event, where Order of Reversal is trailing behind Nightsworn Vanguard. He urges players to participate in Magic Chess during its two daily time windows to boost contribution points. Additionally, he explains how creator reputation points are earned, highlighting that watching eligible content accounts for 50% of reputation. He suggests leaving his dedicated YouTube playlist running on mute in the background to help increase the faction's standings.",
    "topics": [
     "Nightveil Standoff",
@@ -39101,6 +39176,13 @@
     "url": "https://www.youtube.com/watch?v=ONMMBlvyWpc"
    },
    {
+    "verdict": "Essential dispelexpert for Boss Joyce",
+    "note": "Requires high Accuracy and an 18.2-second ultimate recast timer to reliably strip Joyce's Defense Up and Damage Up buffs.",
+    "date": "2026-09-28",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=IjQ9BlCQInY"
+   },
+   {
     "verdict": "Key Incandescence support",
     "note": "Completes the 5-man Incandescence roster for high speed dungeon clearing.",
     "date": "2026-09-28",
@@ -44024,6 +44106,13 @@
     "url": "https://www.youtube.com/watch?v=YKXKm7v-bJA"
    },
    {
+    "verdict": "Attack-sharing frontline support",
+    "note": "Utilizes Puppeteer and attack-sharing gear with a 15.0-second ultimate recast timer to continuously sustain team DPS.",
+    "date": "2026-09-28",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=IjQ9BlCQInY"
+   },
+   {
     "verdict": "recommended for Burn",
     "note": "Great pickup if running Burn compositions, with a focus on pushing him to Inspiration 2 rather than buying his artifact.",
     "date": "2026-09-28",
@@ -44080,6 +44169,13 @@
     "date": "2026-10-14",
     "channel": "liveranov",
     "url": "https://www.youtube.com/watch?v=e05LIFMVHBA"
+   },
+   {
+    "verdict": "Main Burn damage dealer",
+    "note": "Requires high Accuracy (or the Direct Ray talent to ignore Resistance) alongside Crit Rate and Crit Damage for maximum Burn output.",
+    "date": "2026-09-28",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=IjQ9BlCQInY"
    },
    {
     "verdict": "Top recommended pick",
@@ -44159,6 +44255,13 @@
     "date": "2026-10-24",
     "channel": "Suzi Plays",
     "url": "https://www.youtube.com/watch?v=scDahdyomBc"
+   },
+   {
+    "verdict": "Attack-sharing enabler and debuffer",
+    "note": "Built with Everburning Netherfire mythic gear to share attack, sufficient Accuracy to land debuffs, and Skill Haste.",
+    "date": "2026-09-28",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=IjQ9BlCQInY"
    },
    {
     "verdict": "safe to recycle",
@@ -44607,6 +44710,13 @@
     "date": "2026-10-07",
     "channel": "liveranov",
     "url": "https://www.youtube.com/watch?v=rideArj4Ug4"
+   },
+   {
+    "verdict": "Top-tier revive and survivability support",
+    "note": "Provides vital resurrection when frontline allies like Paixton fall in late fight, alongside an HP Aura and shield synergy.",
+    "date": "2026-09-28",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=IjQ9BlCQInY"
    },
    {
     "verdict": "skip banner",

@@ -1,0 +1,75 @@
+{
+ "summary": "This guide showcases a top-performing Burn element team against the Season 8 Continental Challenge boss, Joyce. By leveraging Journ's ultimate to dispel Joyce's defense and damage buffs at key intervals (18.2s recast timing), the team maintains maximum damage output with Durem as the primary DPS. Mithrasea is highlighted as a powerful support providing resurrection and survivability, making this setup a viable alternative to high-inspiration Taletia aura teams. Detailed gear setups, attack-sharing mechanics, and skill timings are demonstrated.",
+ "topics": [
+  "Continental Challenge",
+  "Boss Joyce",
+  "Burn Team",
+  "Hero Gear",
+  "Skill Timing"
+ ],
+ "heroes": [
+  {
+   "name": "Journ",
+   "verdict": "Essential dispelexpert for Boss Joyce",
+   "note": "Requires high Accuracy and an 18.2-second ultimate recast timer to reliably strip Joyce's Defense Up and Damage Up buffs.",
+   "known": true
+  },
+  {
+   "name": "Mithrasea",
+   "verdict": "Top-tier revive and survivability support",
+   "note": "Provides vital resurrection when frontline allies like Paixton fall in late fight, alongside an HP Aura and shield synergy.",
+   "known": true
+  },
+  {
+   "name": "Durem",
+   "verdict": "Main Burn damage dealer",
+   "note": "Requires high Accuracy (or the Direct Ray talent to ignore Resistance) alongside Crit Rate and Crit Damage for maximum Burn output.",
+   "known": true
+  },
+  {
+   "name": "Karf",
+   "verdict": "Attack-sharing enabler and debuffer",
+   "note": "Built with Everburning Netherfire mythic gear to share attack, sufficient Accuracy to land debuffs, and Skill Haste.",
+   "known": true
+  },
+  {
+   "name": "Paixton",
+   "verdict": "Attack-sharing frontline support",
+   "note": "Utilizes Puppeteer and attack-sharing gear with a 15.0-second ultimate recast timer to continuously sustain team DPS.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Continental Challenge - Boss Joyce",
+   "heroes": [
+    "Journ",
+    "Mithrasea",
+    "Durem",
+    "Karf",
+    "Paixton"
+   ],
+   "note": "Burn element team focused on dispelling Joyce's buffs with timed Journ ultimates while Durem delivers heavy damage."
+  }
+ ],
+ "meta_changes": [
+  "Mithrasea Burn team configuration offers a competitive alternative to high-inspiration Taletia aura compositions for boss fights."
+ ],
+ "tips": [
+  "Set Journ's ultimate recast timing to 18.2 seconds to automatically clear Joyce's Defense Up and Damage Up buffs.",
+  "Set Paixton's ultimate recast timing to 15.0 seconds for optimal buff rotation.",
+  "Ensure debuffers like Journ, Karf, and Durem have close to 300 Accuracy (or use resistance-ignoring talents like Direct Ray) to consistently land effects on high-level bosses.",
+  "Position heroes equipped with Vortex Illusion within one tile of Journ to properly stack damage increase buffs."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "IjQ9BlCQInY",
+ "model": "gemini-3.5-flash",
+ "channel": "Neff Gaming",
+ "title": "BEST Burn Setup vs Boss Joyce! | Season 8 Continental Challenge | Dragonheir: Silent Gods",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=IjQ9BlCQInY",
+ "short": false,
+ "summarized": "2026-11-10T03:18Z"
+}
