@@ -1,5 +1,5 @@
 {
- "built": "2026-11-10T00:25Z",
+ "built": "2026-11-10T00:56Z",
  "last_fetch": "2026-11-10T00:17Z",
  "counts": {
   "summarized": 415,
@@ -35,7 +35,6 @@
   "v2": 1
  },
  "log_tail": [
-  "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "daily video budget used (437 min), waiting for tomorrow",
   "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 403 videos, 222 heroes",
@@ -114,7 +113,8 @@
   "saved FYVKxkmeNag",
   "+ Skratch Gaming: Can Holfast Replace A Maxed Lincos?? Dragonheir: Silent Gods",
   "saved NEVHI1wjARM",
-  "+ OddOneGaming RPGs: 💥 1 Team FULL AUTO All Stages 💥Meander Trial 1-60 S8 Team Sh"
+  "+ OddOneGaming RPGs: 💥 1 Team FULL AUTO All Stages 💥Meander Trial 1-60 S8 Team Sh",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 415 videos, 226 heroes"
  ],
  "crontab": [],
  "channels": [
