@@ -1,0 +1,45 @@
+{
+ "summary": "Neff Gaming completes a massive 2,750 Heliolite Dice summoning session on the Reversal Summon banner to max out Child of Chaos to Inspiration 5 and unlock his exclusive Mythic artifact, Dragonbone Catalyst. While successful, Neff issues a strong warning to players against chasing max Inspiration with real money due to the high financial cost and potential post-spending regret. He equips the maxed Child of Chaos with the upgraded Dragonbone Catalyst to test in Temporal Vortex against top-tier Anselmo teams. The video demonstrates the heavy dice commitment required for high Inspiration levels on Legendary heroes.",
+ "topics": [
+  "Reversal Summon",
+  "Child of Chaos",
+  "Inspiration 5",
+  "Dragonbone Catalyst",
+  "Temporal Vortex"
+ ],
+ "heroes": [
+  {
+   "name": "Child of Chaos",
+   "verdict": "High-tier support unit requiring heavy investment",
+   "note": "Extremely potent buff and debuff support whose team-wide damage boost scales heavily with his Exclusive Mythic Artifact (Dragonbone Catalyst) and higher Inspiration levels.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Temporal Vortex",
+   "heroes": [
+    "Child of Chaos"
+   ],
+   "note": "Integrated at Inspiration 5 with Dragonbone Catalyst to rival Anselmo teams and push boss scores past 60 Billion damage."
+  }
+ ],
+ "meta_changes": [
+  "Child of Chaos with Dragonbone Catalyst provides major elemental damage buffing and damage reduction across multi-element teams."
+ ],
+ "tips": [
+  "Do not spend extreme amounts of money to force Inspiration 5 on a single Legendary hero unless prepared for high opportunity costs.",
+  "Prioritize obtaining a hero's Exclusive Mythic Artifact from the Artifact Shop using duplicate Soul Imprints before spending extras elsewhere."
+ ],
+ "season": "unknown",
+ "server_scope": "mixed",
+ "value": "medium",
+ "id": "GxOOjwf4x5E",
+ "model": "gemini-3.5-flash",
+ "channel": "Neff Gaming",
+ "title": "I Spent 2,750 Dice on Inspiration 5... Don't Do This! | Dragonheir: Silent Gods x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=GxOOjwf4x5E",
+ "short": false,
+ "summarized": "2026-11-10T09:32Z"
+}

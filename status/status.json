@@ -1,14 +1,14 @@
 {
- "built": "2026-11-10T09:31Z",
+ "built": "2026-11-10T09:41Z",
  "last_fetch": "2026-11-10T09:17Z",
  "counts": {
-  "summarized": 435,
+  "summarized": 437,
   "skipped_giveaway": 17,
   "baseline": 22,
   "new": 206,
   "skipped_live": 1,
   "failed": 3,
-  "retry": 4
+  "retry": 2
  },
  "problems": [
   {
@@ -20,18 +20,6 @@
   {
    "title": "These Heroes Are Getting A Big Damage Boost!! New Artifacts Dragonheir: Silent Gods x Dragonstride",
    "channel": "Skratch Gaming",
-   "status": "retry",
-   "error": ""
-  },
-  {
-   "title": "I Spent 2,750 Dice on Inspiration 5... Don't Do This! | Dragonheir: Silent Gods x Dragonstride",
-   "channel": "Neff Gaming",
-   "status": "retry",
-   "error": ""
-  },
-  {
-   "title": "300 Reversal Summons! Here’s What I Got | Dragonheir: Silent Gods x Dragonstride",
-   "channel": "Neff Gaming",
    "status": "retry",
    "error": ""
   },
@@ -61,11 +49,6 @@
   "quota_hit": 1794295993.542331
  },
  "log_tail": [
-  "! These Heroes Are Getting A Big Damage Boost!! New : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
-  "… liveranov: Toxin Team (UPDATED) vs Fire Guardians | Crown Contest | Dra",
-  "! I Spent 2,750 Dice on Inspiration 5... Don't Do Th: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
-  "! Toxin Team (UPDATED) vs Fire Guardians | Crown Con: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
-  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
   "  gemini-3.5-flash: 429, using gemini-3.7-flash",
   "  gemini-3.8-flash: 429, using gemini-3.5-flash",
   "  gemini-3.5-flash: 429, using gemini-3.7-flash",
@@ -140,7 +123,12 @@
   "… liveranov: Toxin Team (UPDATED) vs Fire Guardians | Crown Contest | Dra",
   "saved HP6_Qff9VJc",
   "+ Skyasterix Gaming: 👉S9 FOUR New Heroes ARTIFACTS  | Dragonheir: Silent Gods",
-  "  gemini-3.8-flash: 503, using gemini-3.5-flash"
+  "  gemini-3.8-flash: 503, using gemini-3.5-flash",
+  "saved GxOOjwf4x5E",
+  "+ Neff Gaming: I Spent 2,750 Dice on Inspiration 5... Don't Do This! | Drag",
+  "  gemini-3.8-flash: 503, using gemini-3.5-flash",
+  "saved HUd-inisCr4",
+  "+ Neff Gaming: 300 Reversal Summons! Here’s What I Got | Dragonheir: Silent"
  ],
  "crontab": [],
  "channels": [

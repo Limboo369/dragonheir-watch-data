@@ -1,5 +1,5 @@
 {
- "built": "2026-11-10T09:31Z",
+ "built": "2026-11-10T09:41Z",
  "videos": [
   {
    "summary": "Gorax showcases the updated end-game Aura team for Temporal Vortex featuring new heroes Annelisis and Holfast. The video details hero builds, artifact options, positioning, alternate support choices, and exact 18-second skill timing rotations. Replacing Lincos with Holfast allows Aura teams to reach over 10 billion damage, outperforming top-tier Toxin teams in single-target bosses.",
@@ -19818,6 +19818,51 @@
    "summarized": "2026-11-03T01:23Z"
   },
   {
+   "summary": "Neff Gaming completes a massive 2,750 Heliolite Dice summoning session on the Reversal Summon banner to max out Child of Chaos to Inspiration 5 and unlock his exclusive Mythic artifact, Dragonbone Catalyst. While successful, Neff issues a strong warning to players against chasing max Inspiration with real money due to the high financial cost and potential post-spending regret. He equips the maxed Child of Chaos with the upgraded Dragonbone Catalyst to test in Temporal Vortex against top-tier Anselmo teams. The video demonstrates the heavy dice commitment required for high Inspiration levels on Legendary heroes.",
+   "topics": [
+    "Reversal Summon",
+    "Child of Chaos",
+    "Inspiration 5",
+    "Dragonbone Catalyst",
+    "Temporal Vortex"
+   ],
+   "heroes": [
+    {
+     "name": "Child of Chaos",
+     "verdict": "High-tier support unit requiring heavy investment",
+     "note": "Extremely potent buff and debuff support whose team-wide damage boost scales heavily with his Exclusive Mythic Artifact (Dragonbone Catalyst) and higher Inspiration levels.",
+     "known": true
+    }
+   ],
+   "teams": [
+    {
+     "mode": "Temporal Vortex",
+     "heroes": [
+      "Child of Chaos"
+     ],
+     "note": "Integrated at Inspiration 5 with Dragonbone Catalyst to rival Anselmo teams and push boss scores past 60 Billion damage."
+    }
+   ],
+   "meta_changes": [
+    "Child of Chaos with Dragonbone Catalyst provides major elemental damage buffing and damage reduction across multi-element teams."
+   ],
+   "tips": [
+    "Do not spend extreme amounts of money to force Inspiration 5 on a single Legendary hero unless prepared for high opportunity costs.",
+    "Prioritize obtaining a hero's Exclusive Mythic Artifact from the Artifact Shop using duplicate Soul Imprints before spending extras elsewhere."
+   ],
+   "season": "unknown",
+   "server_scope": "mixed",
+   "value": "medium",
+   "id": "GxOOjwf4x5E",
+   "model": "gemini-3.5-flash",
+   "channel": "Neff Gaming",
+   "title": "I Spent 2,750 Dice on Inspiration 5... Don't Do This! | Dragonheir: Silent Gods x Dragonstride",
+   "published": "2026-09-28T12:00:00+00:00",
+   "url": "https://www.youtube.com/watch?v=GxOOjwf4x5E",
+   "short": false,
+   "summarized": "2026-11-10T09:32Z"
+  },
+  {
    "summary": "This video details effective team setups and strategies for defeating the Iola boss in the Continental Challenge. Gorax demonstrates how Dauntless teams dominate this boss by countering her Silence and Stun mechanics. The guide highlights both high-inspiration (I5) and inspiration-zero (I0) team variants, proving that Stanguem serves as an exceptional budget alternative to Selva by providing teamwide Control Immunity.",
    "topics": [
     "Continental Challenge",
@@ -19974,6 +20019,75 @@
    "url": "https://www.youtube.com/watch?v=HP6_Qff9VJc",
    "short": false,
    "summarized": "2026-11-10T09:26Z"
+  },
+  {
+   "summary": "In this video, Neff Gaming conducts a 300 Reversal Summon session targeting the guaranteed legendary hero Child of Chaos. During the summons, multiple legendary heroes drop, including Talwer, Sagomir, Oggok, Torrin, Ripekas, and three duplicates of Solmo. The session successfully yields the 300-summon milestone guarantee for Child of Chaos while allowing Solmo to be upgraded to Inspiration 5.",
+   "topics": [
+    "reversal summon",
+    "summons",
+    "child of chaos",
+    "solmo"
+   ],
+   "heroes": [
+    {
+     "name": "Child of Chaos",
+     "verdict": "Guaranteed banner legendary at 300 summons",
+     "note": "Obtained by reaching the 300 accumulated summon milestone on the Reversal Banner.",
+     "known": true
+    },
+    {
+     "name": "Solmo",
+     "verdict": "Radiance support hero worth inspiring",
+     "note": "Provides shields, buffs, radiant damage, and debuff dispels; reaching Inspiration 5 grants enhanced shield scaling and bonus stats.",
+     "known": true
+    },
+    {
+     "name": "Talwer",
+     "verdict": "Pulled legendary hero",
+     "note": "Obtained during the 300 reversal summons session.",
+     "known": true
+    },
+    {
+     "name": "Sagomir",
+     "verdict": "Pulled legendary hero",
+     "note": "Obtained during a double legendary pull.",
+     "known": true
+    },
+    {
+     "name": "Oggok",
+     "verdict": "Pulled legendary hero",
+     "note": "Obtained alongside Sagomir in a double legendary pull.",
+     "known": true
+    },
+    {
+     "name": "Torrin",
+     "verdict": "Pulled legendary hero",
+     "note": "Obtained during the reversal summoning session.",
+     "known": true
+    },
+    {
+     "name": "Ripekas",
+     "verdict": "Pulled legendary hero",
+     "note": "Obtained near the end of the summoning session.",
+     "known": true
+    }
+   ],
+   "teams": [],
+   "meta_changes": [],
+   "tips": [
+    "The Reversal Banner stays available for two weeks, so players have time to test the hero and save resources before deciding to pull."
+   ],
+   "season": "unknown",
+   "server_scope": "mixed",
+   "value": "low",
+   "id": "HUd-inisCr4",
+   "model": "gemini-3.5-flash",
+   "channel": "Neff Gaming",
+   "title": "300 Reversal Summons! Here’s What I Got | Dragonheir: Silent Gods x Dragonstride",
+   "published": "2026-09-28T12:00:00+00:00",
+   "url": "https://www.youtube.com/watch?v=HUd-inisCr4",
+   "short": false,
+   "summarized": "2026-11-10T09:36Z"
   },
   {
    "summary": "Liveranov showcases a high-performing Toxin team strategy against the Continental Challenge boss Durem, achieving over 714 million damage. The video provides battle footage, hero builds, recommended gear attributes, artifact options, and complete ultimate skill timing setups.",
@@ -34138,6 +34252,13 @@
     "url": "https://www.youtube.com/watch?v=WEpc_QIKnRM"
    },
    {
+    "verdict": "Radiance support hero worth inspiring",
+    "note": "Provides shields, buffs, radiant damage, and debuff dispels; reaching Inspiration 5 grants enhanced shield scaling and bonus stats.",
+    "date": "2026-09-28",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=HUd-inisCr4"
+   },
+   {
     "verdict": "Solid pickup",
     "note": "A welcome duplicate pull to enhance his Inspire level.",
     "date": "2026-09-28",
@@ -36449,6 +36570,20 @@
     "url": "https://www.youtube.com/watch?v=ydl2Hi0lAy8"
    },
    {
+    "verdict": "High-tier support unit requiring heavy investment",
+    "note": "Extremely potent buff and debuff support whose team-wide damage boost scales heavily with his Exclusive Mythic Artifact (Dragonbone Catalyst) and higher Inspiration levels.",
+    "date": "2026-09-28",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=GxOOjwf4x5E"
+   },
+   {
+    "verdict": "Guaranteed banner legendary at 300 summons",
+    "note": "Obtained by reaching the 300 accumulated summon milestone on the Reversal Banner.",
+    "date": "2026-09-28",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=HUd-inisCr4"
+   },
+   {
     "verdict": "Tank / Support",
     "note": "Equip with the Puppeteer set focusing on defensive stats.",
     "date": "2026-09-28",
@@ -36904,6 +37039,13 @@
     "date": "2026-09-30",
     "channel": "Gorax",
     "url": "https://www.youtube.com/watch?v=ydl2Hi0lAy8"
+   },
+   {
+    "verdict": "Pulled legendary hero",
+    "note": "Obtained alongside Sagomir in a double legendary pull.",
+    "date": "2026-09-28",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=HUd-inisCr4"
    },
    {
     "verdict": "Budget replacement for Reytah",
@@ -40131,6 +40273,13 @@
     "url": "https://www.youtube.com/watch?v=8DjovIyXzCw"
    },
    {
+    "verdict": "Pulled legendary hero",
+    "note": "Obtained during the 300 reversal summons session.",
+    "date": "2026-09-28",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=HUd-inisCr4"
+   },
+   {
     "verdict": "safe to recycle",
     "note": "Considered an underperforming tank whose duplicate soul imprints are better spent on top-tier heroes.",
     "date": "2026-09-28",
@@ -42858,6 +43007,13 @@
     "url": "https://www.youtube.com/watch?v=uRyYXuQ6suI"
    },
    {
+    "verdict": "Pulled legendary hero",
+    "note": "Obtained during a double legendary pull.",
+    "date": "2026-09-28",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=HUd-inisCr4"
+   },
+   {
     "verdict": "Disappointing pull",
     "note": "Frustrating off-banner pull from exclusive dice summons for long-time players.",
     "date": "2026-09-28",
@@ -44197,6 +44353,13 @@
     "date": "2026-09-30",
     "channel": "Neff Gaming",
     "url": "https://www.youtube.com/watch?v=o_jfaB478PE"
+   },
+   {
+    "verdict": "Pulled legendary hero",
+    "note": "Obtained during the reversal summoning session.",
+    "date": "2026-09-28",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=HUd-inisCr4"
    },
    {
     "verdict": "Low value pull",
@@ -47109,6 +47272,13 @@
     "date": "2026-10-14",
     "channel": "Fastidious Dragonheir",
     "url": "https://www.youtube.com/watch?v=8DjovIyXzCw"
+   },
+   {
+    "verdict": "Pulled legendary hero",
+    "note": "Obtained near the end of the summoning session.",
+    "date": "2026-09-28",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=HUd-inisCr4"
    },
    {
     "verdict": "Disappointing pull",

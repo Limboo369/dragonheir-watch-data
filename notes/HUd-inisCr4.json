@@ -1,0 +1,69 @@
+{
+ "summary": "In this video, Neff Gaming conducts a 300 Reversal Summon session targeting the guaranteed legendary hero Child of Chaos. During the summons, multiple legendary heroes drop, including Talwer, Sagomir, Oggok, Torrin, Ripekas, and three duplicates of Solmo. The session successfully yields the 300-summon milestone guarantee for Child of Chaos while allowing Solmo to be upgraded to Inspiration 5.",
+ "topics": [
+  "reversal summon",
+  "summons",
+  "child of chaos",
+  "solmo"
+ ],
+ "heroes": [
+  {
+   "name": "Child of Chaos",
+   "verdict": "Guaranteed banner legendary at 300 summons",
+   "note": "Obtained by reaching the 300 accumulated summon milestone on the Reversal Banner.",
+   "known": true
+  },
+  {
+   "name": "Solmo",
+   "verdict": "Radiance support hero worth inspiring",
+   "note": "Provides shields, buffs, radiant damage, and debuff dispels; reaching Inspiration 5 grants enhanced shield scaling and bonus stats.",
+   "known": true
+  },
+  {
+   "name": "Talwer",
+   "verdict": "Pulled legendary hero",
+   "note": "Obtained during the 300 reversal summons session.",
+   "known": true
+  },
+  {
+   "name": "Sagomir",
+   "verdict": "Pulled legendary hero",
+   "note": "Obtained during a double legendary pull.",
+   "known": true
+  },
+  {
+   "name": "Oggok",
+   "verdict": "Pulled legendary hero",
+   "note": "Obtained alongside Sagomir in a double legendary pull.",
+   "known": true
+  },
+  {
+   "name": "Torrin",
+   "verdict": "Pulled legendary hero",
+   "note": "Obtained during the reversal summoning session.",
+   "known": true
+  },
+  {
+   "name": "Ripekas",
+   "verdict": "Pulled legendary hero",
+   "note": "Obtained near the end of the summoning session.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [],
+ "tips": [
+  "The Reversal Banner stays available for two weeks, so players have time to test the hero and save resources before deciding to pull."
+ ],
+ "season": "unknown",
+ "server_scope": "mixed",
+ "value": "low",
+ "id": "HUd-inisCr4",
+ "model": "gemini-3.5-flash",
+ "channel": "Neff Gaming",
+ "title": "300 Reversal Summons! Here’s What I Got | Dragonheir: Silent Gods x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=HUd-inisCr4",
+ "short": false,
+ "summarized": "2026-11-10T09:36Z"
+}
