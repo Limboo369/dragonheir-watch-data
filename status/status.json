@@ -1,5 +1,5 @@
 {
- "built": "2026-11-10T01:20Z",
+ "built": "2026-11-10T01:57Z",
  "last_fetch": "2026-11-10T01:17Z",
  "counts": {
   "summarized": 423,
@@ -61,7 +61,6 @@
   "quota_hit": 1794273567.287556
  },
  "log_tail": [
-  "",
   "… OddOneGaming RPGs: 💥 1 Team FULL AUTO All Stages 💥Meander Trial 1-60 S8 Team Sh",
   "saved UtZmF-8dKVw",
   "+ Suzi Plays: LILY BROUGHT THE LUCK! 💥My INSANE Start for Anneliesis Banne",
@@ -140,7 +139,8 @@
   "! 🚨 Serpentemis Still ROCKS! 🚨 Toxin vs Durem CC Bos: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
   "! 💥 NO WAY!  💥I Pulled 2 NEW Premiums While Chasing : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
   "saved LOIzIR-Nk8g",
-  "+ Skyasterix Gaming: ⚠️ Child of Chaos is COMING - Fantastic Teaser! 🔥 | Dragonhe"
+  "+ Skyasterix Gaming: ⚠️ Child of Chaos is COMING - Fantastic Teaser! 🔥 | Dragonhe",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 423 videos, 228 heroes"
  ],
  "crontab": [],
  "channels": [
