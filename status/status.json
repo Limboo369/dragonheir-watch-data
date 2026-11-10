@@ -1,11 +1,11 @@
 {
- "built": "2026-11-10T05:49Z",
- "last_fetch": "2026-11-10T05:17Z",
+ "built": "2026-11-10T06:19Z",
+ "last_fetch": "2026-11-10T06:17Z",
  "counts": {
   "summarized": 429,
   "skipped_giveaway": 17,
   "baseline": 22,
-  "new": 206,
+  "new": 207,
   "skipped_live": 1,
   "failed": 3,
   "retry": 9
@@ -91,11 +91,6 @@
   "quota_hit": 1794287928.9310265
  },
  "log_tail": [
-  "== 2026-11-10 03:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "… Skratch Gaming: The Strongest Team in Dragonheir: Silent Gods x Dragonstride",
-  "… OddOneGaming RPGs: 🚨 Serpentemis Still ROCKS! 🚨 Toxin vs Durem CC Boss S8 GUIDE",
   "… OddOneGaming RPGs: 💥 NO WAY!  💥I Pulled 2 NEW Premiums While Chasing Talethia i… Neff Gaming: BEST Burn Setup vs Boss Joyce! | Season 8 Continental Challe",
   "",
   "  gemini-3.8-flash: 429, using gemini-3.5-flash",
@@ -170,6 +165,11 @@
   "! Season 9 COMES with 4 NEW Exclusive Artifacts! | D: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
   "  gemini-3.7-flash: 429, using gemini-3.6-flash",
   "! Day 8 Huge Upgrade! Puppeteer Set Changes Your Tea: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 429 videos, 228 heroes",
+  "== 2026-11-10 06:17",
+  "fetch done: 0 new transcripts, 0 not available yet",
+  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
+  "Gemini quota was full less than an hour ago, trying again next round",
   "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 429 videos, 228 heroes"
  ],
  "crontab": [],
@@ -178,55 +178,55 @@
    "name": "Skratch Gaming",
    "id": "UCoSkzr1pXpt3d0jIxsc6ufw",
    "enabled": true,
-   "checked": "2026-11-10T05:17Z"
+   "checked": "2026-11-10T06:17Z"
   },
   {
    "name": "Gorax",
    "id": "UCNas7BnuOIjDEzY1D53kb1w",
    "enabled": true,
-   "checked": "2026-11-10T05:17Z"
+   "checked": "2026-11-10T06:17Z"
   },
   {
    "name": "Neff Gaming",
    "id": "UCsxs6YhNd_B36RgUAjbpJ_A",
    "enabled": true,
-   "checked": "2026-11-10T05:17Z"
+   "checked": "2026-11-10T06:17Z"
   },
   {
    "name": "Volkin Dragonheir",
    "id": "UCfRpOh_ywVjzhh9fxHbreGw",
    "enabled": true,
-   "checked": "2026-11-10T05:17Z"
+   "checked": "2026-11-10T06:17Z"
   },
   {
    "name": "Fastidious Dragonheir",
    "id": "UC16mpj5wEemSZX-uTlHe9Ww",
    "enabled": true,
-   "checked": "2026-11-10T05:17Z"
+   "checked": "2026-11-10T06:17Z"
   },
   {
    "name": "OddOneGaming RPGs",
    "id": "UC1ivUEf_poI9_R2eVKa8wRQ",
    "enabled": true,
-   "checked": "2026-11-10T05:17Z"
+   "checked": "2026-11-10T06:17Z"
   },
   {
    "name": "Suzi Plays",
    "id": "UCyo1-TkunhGcK6khU1h8Ypw",
    "enabled": true,
-   "checked": "2026-11-10T05:17Z"
+   "checked": "2026-11-10T06:17Z"
   },
   {
    "name": "Skyasterix Gaming",
    "id": "UCr5Gb3910rK7QPmKMmdagsA",
    "enabled": true,
-   "checked": "2026-11-10T05:17Z"
+   "checked": "2026-11-10T06:17Z"
   },
   {
    "name": "liveranov",
    "id": "UCqCR7ofFHhWwXy3Hg00fqEw",
    "enabled": true,
-   "checked": "2026-11-10T05:17Z"
+   "checked": "2026-11-10T06:17Z"
   }
  ]
 }
