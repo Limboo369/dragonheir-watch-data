@@ -1,13 +1,14 @@
 {
- "built": "2026-11-11T01:18Z",
+ "built": "2026-11-11T01:23Z",
  "last_fetch": "2026-11-11T01:17Z",
  "counts": {
-  "summarized": 457,
+  "summarized": 460,
   "skipped_giveaway": 17,
   "baseline": 22,
   "skipped_live": 1,
   "failed": 3,
-  "new": 192
+  "new": 186,
+  "retry": 3
  },
  "problems": [
   {
@@ -15,6 +16,24 @@
    "channel": "liveranov",
    "status": "failed",
    "error": "Expecting value: line 1 column 1 (char 0)"
+  },
+  {
+   "title": "300 Dice Into Option Summons 1… Unlucky Again?! | Dragonheir x Dragonstride",
+   "channel": "Gorax",
+   "status": "retry",
+   "error": ""
+  },
+  {
+   "title": "WOW!💥My Summoning Luck is BACK! 🔥 Dragonheir x Dragonstride",
+   "channel": "Suzi Plays",
+   "status": "retry",
+   "error": ""
+  },
+  {
+   "title": "Burn Team vs Joyce | Continental Challenge | Season 8 | Dragonheir",
+   "channel": "liveranov",
+   "status": "retry",
+   "error": ""
   },
   {
    "title": "🔥 Season 9 FIRST CROWN CONTEST! Code: SKYASTERIX | Dragonheir: Silent Gods",
@@ -31,25 +50,11 @@
  ],
  "budget": {
   "day": "2026-11-11",
-  "seconds": 19468,
-  "v2": 1
+  "seconds": 17282,
+  "v2": 1,
+  "quota_hit": 1794359962.2668548
  },
  "log_tail": [
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 439 videos, 229 heroes",
-  "== 2026-11-10 22:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (439 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 439 videos, 229 heroes",
-  "== 2026-11-10 23:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (439 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 439 videos, 229 heroes",
-  "== 2026-11-11 00:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "… OddOneGaming RPGs: 🚨 1 TEAM CLEARS ALL 🚨 Meander Trial 1-60 S9 Full Auto GUIDE ",
   "… OddOneGaming RPGs: 🚨 EASY Full Auto Clear 🚨 1 Team ALL Of Meander Trial Stage 1",
   "… OddOneGaming RPGs: 💥 Over 1000 Summons For i3 Anneliesis 💥 My BIGGEST Summon Se… liveranov: Official Aura Team Guide: Best Lineup, Swaps & Gear 🛡️ Holfa",
   "",
@@ -114,7 +119,22 @@
   "+ Gorax: Day 9 Was a Slow One… But Progress Is Progress! | Beginner S",
   "… Suzi Plays: WOW!💥My Summoning Luck is BACK! 🔥 Dragonheir x Dragonstride",
   "saved CjzC2bmYnCI",
-  "+ Neff Gaming: Eve of the Rift FULL BREAKDOWN! Everything You Need to Know!"
+  "+ Neff Gaming: Eve of the Rift FULL BREAKDOWN! Everything You Need to Know!",
+  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
+  "… liveranov: Burn Team vs Joyce | Continental Challenge | Season 8 | Drag",
+  "saved CbR3blhRAM0",
+  "+ Skratch Gaming: SUPERCHARGE Your Account With MORE FREE Rewards! Dragonheir:",
+  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
+  "… Gorax: 300 Dice Into Option Summons 1… Unlucky Again?! | Dragonheir",
+  "! Burn Team vs Joyce | Continental Challenge | Seaso: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+  "! 300 Dice Into Option Summons 1… Unlucky Again?! | : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
+  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
+  "! WOW!💥My Summoning Luck is BACK! 🔥 Dragonheir x Dra: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+  "saved DeeNnLK1QkI",
+  "+ Skyasterix Gaming: 👉NEW S9 HERO REVEALED?! What You NEED to Know is Here! | Dra",
+  "saved BIBgfSl4eds",
+  "+ Skratch Gaming: I MAXED The New Banner But Should You?? Dragonheir: Silent G"
  ],
  "crontab": [],
  "channels": [

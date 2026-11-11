@@ -1,0 +1,78 @@
+{
+ "summary": "Skratch conducts a 300-pull summoning session to acquire the new Burn legendary Vyressa on the Selected Summons III banner. He strongly advises free-to-play players and low spenders to hold their summons until the upcoming Child of Chaos banner is revealed. The banner pool is criticized for including mediocre heroes like Victor and Bionphray rather than premier supports. Vyressa provides both heavy self-damage and enabling through Hex Flame and Total Immolation, standing out as a premier anchor for Burn compositions. Upon obtaining her, Skratch demonstrates her skill maxing and talent tree setup focused on Attack Speed and Attack buffs.",
+ "topics": [
+  "Banners",
+  "Summoning",
+  "Hero Review",
+  "Burn Team",
+  "Talent Builds"
+ ],
+ "heroes": [
+  {
+   "name": "Vyressa",
+   "verdict": "Top tier Burn DPS / Hold pulls first",
+   "note": "Serves as a premier Burn damage dealer and enabler via Hex Flame and Total Immolation, but players should wait to see the Child of Chaos banner before summoning.",
+   "known": true
+  },
+  {
+   "name": "Aschetius",
+   "verdict": "Niche enabler",
+   "note": "Acts mainly as a pure enabler and sees less utility against most bosses compared to self-damaging Burn units like Vyressa.",
+   "known": true
+  },
+  {
+   "name": "Durem",
+   "verdict": "Essential Burn DPS",
+   "note": "Core damage dealer driving 800M+ damage Burn boss setups.",
+   "known": true
+  },
+  {
+   "name": "Karf",
+   "verdict": "Solid Burn igniter",
+   "note": "Provides reliable Ignite applications, though he may be replaced by Vyressa in optimized Burn lineups.",
+   "known": true
+  },
+  {
+   "name": "Majtan",
+   "verdict": "Hard to slot",
+   "note": "A Fire damage dealer who ignites enemies but is awkward to fit effectively into top-end Burn teams.",
+   "known": true
+  },
+  {
+   "name": "Tamar",
+   "verdict": "Solid PvP pick",
+   "note": "Mainly shines in PvP and sees occasional use in Chief Challenge boss encounters.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Bosses / Chief Challenge",
+   "heroes": [
+    "Vyressa",
+    "Durem",
+    "Karf"
+   ],
+   "note": "High-damage Burn setup centered on Durem's output, evaluating Vyressa as a direct replacement or partner for Karf."
+  }
+ ],
+ "meta_changes": [
+  "Vyressa establishes a new damage ceiling for Burn archetype teams by providing significant personal DPS alongside Total Immolation and Hex Flame debuffs."
+ ],
+ "tips": [
+  "Do not pull on the Selected Summons III banner immediately; hold dice until the upcoming Child of Chaos banner and kit are revealed.",
+  "On Vyressa's talent tree, select Bloodfire Shackles for the 50% Attack Speed buff and diamond AoE dispellation over accuracy nodes.",
+  "Avoid spending Affinity Solvents on psychicore branches you do not intend to main for the current season."
+ ],
+ "season": "S8",
+ "server_scope": "mixed",
+ "value": "medium",
+ "id": "BIBgfSl4eds",
+ "model": "gemini-3.7-flash",
+ "channel": "Skratch Gaming",
+ "title": "I MAXED The New Banner But Should You?? Dragonheir: Silent Gods x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=BIBgfSl4eds",
+ "short": false,
+ "summarized": "2026-11-11T01:23Z"
+}

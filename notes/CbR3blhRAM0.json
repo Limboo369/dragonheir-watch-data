@@ -1,0 +1,49 @@
+{
+ "summary": "This video highlights active anniversary and faction events in Dragonheir: Silent Gods, focusing on the Eve of the Rift event. Skratch explains the process of binding to a creator on the event web page to earn extra draw rewards based on faction performance. He advises members of The Dark Lady faction to consolidate their votes on The Dark Lady in the Coronation of Night event to win an exclusive hero skin. Additionally, he claims voting milestone rewards to earn a Dragon Crown Homage shop voucher and mentions that Chief Challenge boss team setups and active promo codes are available in his Discord server.",
+ "topics": [
+  "Eve of the Rift",
+  "Coronation of Night",
+  "Creator Support",
+  "Dragon Crown Homage",
+  "Promo Codes"
+ ],
+ "heroes": [
+  {
+   "name": "The Dark Lady",
+   "verdict": "Recommended vote target",
+   "note": "Recommended to receive all faction votes in Coronation of Night to win an exclusive hero appearance.",
+   "known": true
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "Alternative vote target",
+   "note": "Previously received faction votes, but Skratch recommends shifting focus to a single candidate.",
+   "known": true
+  },
+  {
+   "name": "Child of Chaos",
+   "verdict": "Current voting leader",
+   "note": "Currently leading the Coronation of Night hero appearance vote.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [],
+ "tips": [
+  "Bind your account to a faction creator on the event webpage to maximize estimated draw rewards.",
+  "Focus all event votes on a single hero candidate (The Dark Lady) in Coronation of Night to increase the chance of securing a skin reward.",
+  "Claim voting milestone rewards to receive vouchers for the Dragon Crown Homage shop.",
+  "Check community channels or Discord for active promo codes and weekly Chief Challenge boss team setups."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "CbR3blhRAM0",
+ "model": "gemini-3.5-flash",
+ "channel": "Skratch Gaming",
+ "title": "SUPERCHARGE Your Account With MORE FREE Rewards! Dragonheir: Silent Gods",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=CbR3blhRAM0",
+ "short": false,
+ "summarized": "2026-11-11T01:19Z"
+}

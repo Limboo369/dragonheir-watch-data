@@ -1,5 +1,5 @@
 {
- "built": "2026-11-11T01:18Z",
+ "built": "2026-11-11T01:23Z",
  "videos": [
   {
    "summary": "OddOne presents a single full-auto team capable of clearing all 60 stages of the Season 9 Meander Trial. The core damage dealer is Talethia, supported by Anneliesis, Child of Chaos, Diantha, and Holfast. Talethia ideally requires at least Inspiration 2, whereas Anneliesis and Child of Chaos function well at base copies. Diantha and Holfast can be swapped out for other aura support heroes if needed.",
@@ -20122,6 +20122,133 @@
    "summarized": "2026-11-03T01:23Z"
   },
   {
+   "summary": "Skratch conducts a 300-pull summoning session to acquire the new Burn legendary Vyressa on the Selected Summons III banner. He strongly advises free-to-play players and low spenders to hold their summons until the upcoming Child of Chaos banner is revealed. The banner pool is criticized for including mediocre heroes like Victor and Bionphray rather than premier supports. Vyressa provides both heavy self-damage and enabling through Hex Flame and Total Immolation, standing out as a premier anchor for Burn compositions. Upon obtaining her, Skratch demonstrates her skill maxing and talent tree setup focused on Attack Speed and Attack buffs.",
+   "topics": [
+    "Banners",
+    "Summoning",
+    "Hero Review",
+    "Burn Team",
+    "Talent Builds"
+   ],
+   "heroes": [
+    {
+     "name": "Vyressa",
+     "verdict": "Top tier Burn DPS / Hold pulls first",
+     "note": "Serves as a premier Burn damage dealer and enabler via Hex Flame and Total Immolation, but players should wait to see the Child of Chaos banner before summoning.",
+     "known": true
+    },
+    {
+     "name": "Aschetius",
+     "verdict": "Niche enabler",
+     "note": "Acts mainly as a pure enabler and sees less utility against most bosses compared to self-damaging Burn units like Vyressa.",
+     "known": true
+    },
+    {
+     "name": "Durem",
+     "verdict": "Essential Burn DPS",
+     "note": "Core damage dealer driving 800M+ damage Burn boss setups.",
+     "known": true
+    },
+    {
+     "name": "Karf",
+     "verdict": "Solid Burn igniter",
+     "note": "Provides reliable Ignite applications, though he may be replaced by Vyressa in optimized Burn lineups.",
+     "known": true
+    },
+    {
+     "name": "Majtan",
+     "verdict": "Hard to slot",
+     "note": "A Fire damage dealer who ignites enemies but is awkward to fit effectively into top-end Burn teams.",
+     "known": true
+    },
+    {
+     "name": "Tamar",
+     "verdict": "Solid PvP pick",
+     "note": "Mainly shines in PvP and sees occasional use in Chief Challenge boss encounters.",
+     "known": true
+    }
+   ],
+   "teams": [
+    {
+     "mode": "Bosses / Chief Challenge",
+     "heroes": [
+      "Vyressa",
+      "Durem",
+      "Karf"
+     ],
+     "note": "High-damage Burn setup centered on Durem's output, evaluating Vyressa as a direct replacement or partner for Karf."
+    }
+   ],
+   "meta_changes": [
+    "Vyressa establishes a new damage ceiling for Burn archetype teams by providing significant personal DPS alongside Total Immolation and Hex Flame debuffs."
+   ],
+   "tips": [
+    "Do not pull on the Selected Summons III banner immediately; hold dice until the upcoming Child of Chaos banner and kit are revealed.",
+    "On Vyressa's talent tree, select Bloodfire Shackles for the 50% Attack Speed buff and diamond AoE dispellation over accuracy nodes.",
+    "Avoid spending Affinity Solvents on psychicore branches you do not intend to main for the current season."
+   ],
+   "season": "S8",
+   "server_scope": "mixed",
+   "value": "medium",
+   "id": "BIBgfSl4eds",
+   "model": "gemini-3.7-flash",
+   "channel": "Skratch Gaming",
+   "title": "I MAXED The New Banner But Should You?? Dragonheir: Silent Gods x Dragonstride",
+   "published": "2026-09-28T12:00:00+00:00",
+   "url": "https://www.youtube.com/watch?v=BIBgfSl4eds",
+   "short": false,
+   "summarized": "2026-11-11T01:23Z"
+  },
+  {
+   "summary": "This video highlights active anniversary and faction events in Dragonheir: Silent Gods, focusing on the Eve of the Rift event. Skratch explains the process of binding to a creator on the event web page to earn extra draw rewards based on faction performance. He advises members of The Dark Lady faction to consolidate their votes on The Dark Lady in the Coronation of Night event to win an exclusive hero skin. Additionally, he claims voting milestone rewards to earn a Dragon Crown Homage shop voucher and mentions that Chief Challenge boss team setups and active promo codes are available in his Discord server.",
+   "topics": [
+    "Eve of the Rift",
+    "Coronation of Night",
+    "Creator Support",
+    "Dragon Crown Homage",
+    "Promo Codes"
+   ],
+   "heroes": [
+    {
+     "name": "The Dark Lady",
+     "verdict": "Recommended vote target",
+     "note": "Recommended to receive all faction votes in Coronation of Night to win an exclusive hero appearance.",
+     "known": true
+    },
+    {
+     "name": "Serpentemis",
+     "verdict": "Alternative vote target",
+     "note": "Previously received faction votes, but Skratch recommends shifting focus to a single candidate.",
+     "known": true
+    },
+    {
+     "name": "Child of Chaos",
+     "verdict": "Current voting leader",
+     "note": "Currently leading the Coronation of Night hero appearance vote.",
+     "known": true
+    }
+   ],
+   "teams": [],
+   "meta_changes": [],
+   "tips": [
+    "Bind your account to a faction creator on the event webpage to maximize estimated draw rewards.",
+    "Focus all event votes on a single hero candidate (The Dark Lady) in Coronation of Night to increase the chance of securing a skin reward.",
+    "Claim voting milestone rewards to receive vouchers for the Dragon Crown Homage shop.",
+    "Check community channels or Discord for active promo codes and weekly Chief Challenge boss team setups."
+   ],
+   "season": "S9",
+   "server_scope": "S9",
+   "value": "medium",
+   "id": "CbR3blhRAM0",
+   "model": "gemini-3.5-flash",
+   "channel": "Skratch Gaming",
+   "title": "SUPERCHARGE Your Account With MORE FREE Rewards! Dragonheir: Silent Gods",
+   "published": "2026-09-28T12:00:00+00:00",
+   "url": "https://www.youtube.com/watch?v=CbR3blhRAM0",
+   "short": false,
+   "summarized": "2026-11-11T01:19Z"
+  },
+  {
    "summary": "This video breaks down all modes and features in the Eve of the Rift anniversary event. Players can claim a free Legendary Hero Prime Chest on day 14 of the Otherworld Tour check-in. The Nightvell Standoff mode requires taking the 12-chapter Fated Path Test to pick a faction and earn Rift Stardust through Temporal Vortex, Dungeons, and Tavern Gambit. Coronation of Night lets players vote for hero skins using Starlight Support Tickets. Starlight Delights offers a Dragon Crystal rebate capped at 30,000, and Starweave Echo allows conversion of duplicate hero imprints into Starweave Echo fragments.",
    "topics": [
     "Eve of the Rift",
@@ -20273,6 +20400,61 @@
    "url": "https://www.youtube.com/watch?v=DQeK0iZblw0",
    "short": false,
    "summarized": "2026-11-11T01:17Z"
+  },
+  {
+   "summary": "Skyasterix discusses upcoming content and speculations for Season 9 based on recent reveals from the Chinese server. A new Legendary Shadow hero, depicted as a nun in a mechanical war suit wielding axes, was previewed as an aggressive damage dealer suitable for Arena and Fey Meander. The video also previews the Season 9 elemental pairings: Ice with Radiance, Fire with Lightning, and Necrosis with Poison. Additionally, under-represented schools such as Shadow, Aura, and Corrosion are expected to receive roster expansions and potential meta shifts in Season 9.",
+   "topics": [
+    "Season 9",
+    "new heroes",
+    "Shadow",
+    "elemental affinities",
+    "leaks"
+   ],
+   "heroes": [
+    {
+     "name": "Thea",
+     "verdict": "Promising new Shadow hero",
+     "note": "Revealed on the CN server as a nun in a mechanical battle suit wielding axes; expected to be an aggressive hero built for Arena and Fey Meander like Saverio (name unclear, translated from Chinese text).",
+     "known": true
+    },
+    {
+     "name": "Aemonleyda",
+     "verdict": "Top tier Arena hero",
+     "note": "Highlighted as an amazing Aura damage dealer in Arena.",
+     "known": true
+    },
+    {
+     "name": "Saverio",
+     "verdict": "Reliable Shadow carry",
+     "note": "Mentioned as an example of a strong, reliable Shadow DPS for Arena and PvE progression.",
+     "known": true
+    },
+    {
+     "name": "Rook",
+     "verdict": "Former meta defining carry",
+     "note": "Referenced for shifting the Vortex meta upon release when Corrosion was introduced.",
+     "known": true
+    }
+   ],
+   "teams": [],
+   "meta_changes": [
+    "Season 9 elemental affinity pairings are Ice + Radiance, Fire + Lightning, and Necrosis + Poison.",
+    "Schools with smaller rosters like Shadow, Aura, and Corrosion are expected to receive new heroes and support in Season 9."
+   ],
+   "tips": [
+    "Prepare for Shadow and Corrosion synergies to potentially shape the Season 9 meta in modes like Vortex and Arena."
+   ],
+   "season": "S9",
+   "server_scope": "S9",
+   "value": "medium",
+   "id": "DeeNnLK1QkI",
+   "model": "gemini-3.8-flash",
+   "channel": "Skyasterix Gaming",
+   "title": "👉NEW S9 HERO REVEALED?! What You NEED to Know is Here! | Dragonheir: Silent Gods",
+   "published": "2026-09-28T12:00:00+00:00",
+   "url": "https://www.youtube.com/watch?v=DeeNnLK1QkI",
+   "short": false,
+   "summarized": "2026-11-11T01:19Z"
   },
   {
    "summary": "This video showcases a Dauntless team setup used against the Fire Guardian boss in Crown Contest. The lineup consists of Nastjenka, Kurvida, Maashtur, Guinavivre, and Astaion, achieving over 3.1 billion total damage. The creator outlines specific gear choices, stats (such as Resistance and Accuracy), and ultimate skill timing for the team.",
@@ -36762,6 +36944,13 @@
     "url": "https://www.youtube.com/watch?v=ydl2Hi0lAy8"
    },
    {
+    "verdict": "Current voting leader",
+    "note": "Currently leading the Coronation of Night hero appearance vote.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=CbR3blhRAM0"
+   },
+   {
     "verdict": "Recommended event target",
     "note": "A powerful warrior hero featured in the event that the creator is actively supporting.",
     "date": "2026-09-28",
@@ -38257,6 +38446,13 @@
     "url": "https://www.youtube.com/watch?v=gAoX3-kT1mo"
    },
    {
+    "verdict": "Top tier Arena hero",
+    "note": "Highlighted as an amazing Aura damage dealer in Arena.",
+    "date": "2026-09-28",
+    "channel": "Skyasterix Gaming",
+    "url": "https://www.youtube.com/watch?v=DeeNnLK1QkI"
+   },
+   {
     "verdict": "Worst pick on selector",
     "note": "Described as the least desirable option among the selectable exclusive legendaries on the banner.",
     "date": "2026-09-28",
@@ -38924,6 +39120,13 @@
     "date": "2026-09-30",
     "channel": "Gorax",
     "url": "https://www.youtube.com/watch?v=ydl2Hi0lAy8"
+   },
+   {
+    "verdict": "Alternative vote target",
+    "note": "Previously received faction votes, but Skratch recommends shifting focus to a single candidate.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=CbR3blhRAM0"
    },
    {
     "verdict": "top pick for domain clearing",
@@ -40837,6 +41040,13 @@
     "date": "2026-09-30",
     "channel": "Neff Gaming",
     "url": "https://www.youtube.com/watch?v=o_jfaB478PE"
+   },
+   {
+    "verdict": "Reliable Shadow carry",
+    "note": "Mentioned as an example of a strong, reliable Shadow DPS for Arena and PvE progression.",
+    "date": "2026-09-28",
+    "channel": "Skyasterix Gaming",
+    "url": "https://www.youtube.com/watch?v=DeeNnLK1QkI"
    },
    {
     "verdict": "Viable at Inspiration 0",
@@ -43430,6 +43640,13 @@
     "date": "2026-09-30",
     "channel": "Neff Gaming",
     "url": "https://www.youtube.com/watch?v=bzTAdskU1kA"
+   },
+   {
+    "verdict": "Former meta defining carry",
+    "note": "Referenced for shifting the Vortex meta upon release when Corrosion was introduced.",
+    "date": "2026-09-28",
+    "channel": "Skyasterix Gaming",
+    "url": "https://www.youtube.com/watch?v=DeeNnLK1QkI"
    },
    {
     "verdict": "Primary DPS for Corrosion team",
@@ -47544,6 +47761,13 @@
     "url": "https://www.youtube.com/watch?v=e05LIFMVHBA"
    },
    {
+    "verdict": "Essential Burn DPS",
+    "note": "Core damage dealer driving 800M+ damage Burn boss setups.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=BIBgfSl4eds"
+   },
+   {
     "verdict": "Main Burn damage dealer",
     "note": "Requires high Accuracy (or the Direct Ray talent to ignore Resistance) alongside Crit Rate and Crit Damage for maximum Burn output.",
     "date": "2026-09-28",
@@ -47628,6 +47852,13 @@
     "date": "2026-10-24",
     "channel": "Suzi Plays",
     "url": "https://www.youtube.com/watch?v=scDahdyomBc"
+   },
+   {
+    "verdict": "Solid Burn igniter",
+    "note": "Provides reliable Ignite applications, though he may be replaced by Vyressa in optimized Burn lineups.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=BIBgfSl4eds"
    },
    {
     "verdict": "Attack-sharing enabler and debuffer",
@@ -47779,6 +48010,13 @@
     "date": "2026-10-07",
     "channel": "Volkin Dragonheir",
     "url": "https://www.youtube.com/watch?v=Qz1B9JVRYjo"
+   },
+   {
+    "verdict": "Recommended vote target",
+    "note": "Recommended to receive all faction votes in Coronation of Night to win an exclusive hero appearance.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=CbR3blhRAM0"
    },
    {
     "verdict": "Available premium hero",
@@ -48766,6 +49004,13 @@
     "url": "https://www.youtube.com/watch?v=lazeVsyO7_g"
    },
    {
+    "verdict": "Solid PvP pick",
+    "note": "Mainly shines in PvP and sees occasional use in Chief Challenge boss encounters.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=BIBgfSl4eds"
+   },
+   {
     "verdict": "Alternative control pick",
     "note": "Applies stuns and buff prohibition across enemies.",
     "date": "2026-09-28",
@@ -48886,6 +49131,13 @@
     "date": "2026-10-24",
     "channel": "Suzi Plays",
     "url": "https://www.youtube.com/watch?v=scDahdyomBc"
+   },
+   {
+    "verdict": "Niche enabler",
+    "note": "Acts mainly as a pure enabler and sees less utility against most bosses compared to self-damaging Burn units like Vyressa.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=BIBgfSl4eds"
    },
    {
     "verdict": "High endgame PvE value alongside Vyressa",
@@ -50318,7 +50570,60 @@
     "url": "https://www.youtube.com/watch?v=ydl2Hi0lAy8"
    }
   ],
+  "Vyressa": [
+   {
+    "verdict": "Top tier Burn DPS / Hold pulls first",
+    "note": "Serves as a premier Burn damage dealer and enabler via Hex Flame and Total Immolation, but players should wait to see the Child of Chaos banner before summoning.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=BIBgfSl4eds"
+   },
+   {
+    "verdict": "Top Fire Burn DPS",
+    "note": "Exclusive Fire damage dealer enabling heavy Burn synergy when allies trigger Blast.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=FaAD_y36yfk"
+   },
+   {
+    "verdict": "Top-tier Burn support & AoE DPS",
+    "note": "Replaces Karf in Burn teams with 5-hit full-board damage, making her an ideal wielder for Witch's Remains or Mystic Conch.",
+    "date": "2026-09-28",
+    "channel": "Suzi Plays",
+    "url": "https://www.youtube.com/watch?v=gC9IEQky5_k"
+   },
+   {
+    "verdict": "Not recommended for Joyce Burn team",
+    "note": "Replacing any standard Burn team member with Vyressa consistently resulted in lower total damage.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=gfSqo_HbDxM"
+   },
+   {
+    "verdict": "Top-tier Burn exclusive DPS",
+    "note": "Replaces Durem in optimal Burn teams and enables massive endgame PvE damage via Hex Flame mechanics, Total Immolation debuffs, and bonus basic attacks.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=ggMIhIYLB2A"
+   }
+  ],
+  "Majtan": [
+   {
+    "verdict": "Hard to slot",
+    "note": "A Fire damage dealer who ignites enemies but is awkward to fit effectively into top-end Burn teams.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=BIBgfSl4eds"
+   }
+  ],
   "Thea": [
+   {
+    "verdict": "Promising new Shadow hero",
+    "note": "Revealed on the CN server as a nun in a mechanical battle suit wielding axes; expected to be an aggressive hero built for Arena and Fey Meander like Saverio (name unclear, translated from Chinese text).",
+    "date": "2026-09-28",
+    "channel": "Skyasterix Gaming",
+    "url": "https://www.youtube.com/watch?v=DeeNnLK1QkI"
+   },
    {
     "verdict": "Must-have meta support for Season 9",
     "note": "Provides teamwide damage amplification, damage reduction, massive shields, heals via her Mercy absorption mechanic, clean debuffs, ATK Reduction, and charge speed penalties.",
@@ -50355,36 +50660,6 @@
     "date": "2026-09-28",
     "channel": "Skratch Gaming",
     "url": "https://www.youtube.com/watch?v=FaAD_y36yfk"
-   }
-  ],
-  "Vyressa": [
-   {
-    "verdict": "Top Fire Burn DPS",
-    "note": "Exclusive Fire damage dealer enabling heavy Burn synergy when allies trigger Blast.",
-    "date": "2026-09-28",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=FaAD_y36yfk"
-   },
-   {
-    "verdict": "Top-tier Burn support & AoE DPS",
-    "note": "Replaces Karf in Burn teams with 5-hit full-board damage, making her an ideal wielder for Witch's Remains or Mystic Conch.",
-    "date": "2026-09-28",
-    "channel": "Suzi Plays",
-    "url": "https://www.youtube.com/watch?v=gC9IEQky5_k"
-   },
-   {
-    "verdict": "Not recommended for Joyce Burn team",
-    "note": "Replacing any standard Burn team member with Vyressa consistently resulted in lower total damage.",
-    "date": "2026-09-28",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=gfSqo_HbDxM"
-   },
-   {
-    "verdict": "Top-tier Burn exclusive DPS",
-    "note": "Replaces Durem in optimal Burn teams and enables massive endgame PvE damage via Hex Flame mechanics, Total Immolation debuffs, and bonus basic attacks.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=ggMIhIYLB2A"
    }
   ],
   "Dallbam": [

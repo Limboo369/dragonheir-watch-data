@@ -1,0 +1,55 @@
+{
+ "summary": "Skyasterix discusses upcoming content and speculations for Season 9 based on recent reveals from the Chinese server. A new Legendary Shadow hero, depicted as a nun in a mechanical war suit wielding axes, was previewed as an aggressive damage dealer suitable for Arena and Fey Meander. The video also previews the Season 9 elemental pairings: Ice with Radiance, Fire with Lightning, and Necrosis with Poison. Additionally, under-represented schools such as Shadow, Aura, and Corrosion are expected to receive roster expansions and potential meta shifts in Season 9.",
+ "topics": [
+  "Season 9",
+  "new heroes",
+  "Shadow",
+  "elemental affinities",
+  "leaks"
+ ],
+ "heroes": [
+  {
+   "name": "Thea",
+   "verdict": "Promising new Shadow hero",
+   "note": "Revealed on the CN server as a nun in a mechanical battle suit wielding axes; expected to be an aggressive hero built for Arena and Fey Meander like Saverio (name unclear, translated from Chinese text).",
+   "known": true
+  },
+  {
+   "name": "Aemonleyda",
+   "verdict": "Top tier Arena hero",
+   "note": "Highlighted as an amazing Aura damage dealer in Arena.",
+   "known": true
+  },
+  {
+   "name": "Saverio",
+   "verdict": "Reliable Shadow carry",
+   "note": "Mentioned as an example of a strong, reliable Shadow DPS for Arena and PvE progression.",
+   "known": true
+  },
+  {
+   "name": "Rook",
+   "verdict": "Former meta defining carry",
+   "note": "Referenced for shifting the Vortex meta upon release when Corrosion was introduced.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [
+  "Season 9 elemental affinity pairings are Ice + Radiance, Fire + Lightning, and Necrosis + Poison.",
+  "Schools with smaller rosters like Shadow, Aura, and Corrosion are expected to receive new heroes and support in Season 9."
+ ],
+ "tips": [
+  "Prepare for Shadow and Corrosion synergies to potentially shape the Season 9 meta in modes like Vortex and Arena."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "DeeNnLK1QkI",
+ "model": "gemini-3.8-flash",
+ "channel": "Skyasterix Gaming",
+ "title": "👉NEW S9 HERO REVEALED?! What You NEED to Know is Here! | Dragonheir: Silent Gods",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=DeeNnLK1QkI",
+ "short": false,
+ "summarized": "2026-11-11T01:19Z"
+}

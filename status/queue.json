@@ -1,42 +1,12 @@
 {
- "built": "2026-11-11T01:18Z",
+ "built": "2026-11-11T01:23Z",
  "videos": [
-  {
-   "id": "DeeNnLK1QkI",
-   "title": "👉NEW S9 HERO REVEALED?! What You NEED to Know is Here! | Dragonheir: Silent Gods",
-   "channel": "Skyasterix Gaming",
-   "published": "2026-09-28T12:00:00+00:00",
-   "status": "new",
-   "priority": false,
-   "duration_s": 902,
-   "error": ""
-  },
-  {
-   "id": "CbR3blhRAM0",
-   "title": "SUPERCHARGE Your Account With MORE FREE Rewards! Dragonheir: Silent Gods",
-   "channel": "Skratch Gaming",
-   "published": "2026-09-28T12:00:00+00:00",
-   "status": "new",
-   "priority": false,
-   "duration_s": 316,
-   "error": ""
-  },
-  {
-   "id": "BIBgfSl4eds",
-   "title": "I MAXED The New Banner But Should You?? Dragonheir: Silent Gods x Dragonstride",
-   "channel": "Skratch Gaming",
-   "published": "2026-09-28T12:00:00+00:00",
-   "status": "new",
-   "priority": false,
-   "duration_s": 813,
-   "error": ""
-  },
   {
    "id": "B8d86fYA6EA",
    "title": "WOW!💥My Summoning Luck is BACK! 🔥 Dragonheir x Dragonstride",
    "channel": "Suzi Plays",
    "published": "2026-09-28T12:00:00+00:00",
-   "status": "new",
+   "status": "retry",
    "priority": false,
    "duration_s": 975,
    "error": ""
@@ -46,7 +16,7 @@
    "title": "Burn Team vs Joyce | Continental Challenge | Season 8 | Dragonheir",
    "channel": "liveranov",
    "published": "2026-09-28T12:00:00+00:00",
-   "status": "new",
+   "status": "retry",
    "priority": false,
    "duration_s": 248,
    "error": ""
@@ -56,7 +26,7 @@
    "title": "300 Dice Into Option Summons 1… Unlucky Again?! | Dragonheir x Dragonstride",
    "channel": "Gorax",
    "published": "2026-09-28T12:00:00+00:00",
-   "status": "new",
+   "status": "retry",
    "priority": false,
    "duration_s": 963,
    "error": ""
