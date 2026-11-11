@@ -1,0 +1,73 @@
+{
+ "summary": "This video showcases a high-performing Burn team against Joyce, a Continental Challenge boss in Season 8. The lineup composed of Durem, Karf, Synarell, Paixton, and Naro achieves an S-rank score of 880.6 million damage. Detailed gear sets, stat priorities, and artifact recommendations are provided for each hero. Exact skill rotation timings are demonstrated, featuring synchronized 18-second recasts to optimize debuffs and damage windows.",
+ "topics": [
+  "Continental Challenge",
+  "Burn Team",
+  "Joyce Boss",
+  "Hero Builds",
+  "Skill Timing"
+ ],
+ "heroes": [
+  {
+   "name": "Durem",
+   "verdict": "Core Burn DPS against Joyce",
+   "note": "Built for full damage output while maintaining over 100 Accuracy.",
+   "known": true
+  },
+  {
+   "name": "Karf",
+   "verdict": "Burn DPS and buffer",
+   "note": "Built with full Attack and equipped with the Witches Remains artifact.",
+   "known": true
+  },
+  {
+   "name": "Synarell",
+   "verdict": "Burn enabler and support",
+   "note": "Built prioritizing maximum Skill Haste to cycle skills rapidly.",
+   "known": true
+  },
+  {
+   "name": "Paixton",
+   "verdict": "Defensive frontline support",
+   "note": "Equipped with the Puppeteer gear set focusing on defensive survivability stats.",
+   "known": true
+  },
+  {
+   "name": "Naro",
+   "verdict": "Burn applicator and debuffer",
+   "note": "Equipped with the Carcass artifact and built with as much Accuracy as possible.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Continental Challenge (Joyce)",
+   "heroes": [
+    "Durem",
+    "Karf",
+    "Synarell",
+    "Paixton",
+    "Naro"
+   ],
+   "note": "Deals 880,618,805 damage (Rank S). Uses an 18-second recast cycle across all heroes with staggered initial casts."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Ensure Durem has over 100 Accuracy alongside full damage stats to land debuffs reliably on Joyce.",
+  "Equip Paixton with the Puppeteer set and defensive stats for frontline endurance.",
+  "Maximize Accuracy on Naro while running the Carcass artifact.",
+  "Synchronize team ultimate recasts to 18.0 seconds with staggered initial casts (Karf at 11.3s, Paixton and Synarell at 22.0s, Durem at 25.6s, Naro at 27.6s)."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "AzFq6dMPl7g",
+ "model": "gemini-3.8-flash",
+ "channel": "liveranov",
+ "title": "Burn Team vs Joyce | Continental Challenge | Season 8 | Dragonheir",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=AzFq6dMPl7g",
+ "short": false,
+ "summarized": "2026-11-11T03:20Z"
+}

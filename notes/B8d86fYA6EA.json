@@ -1,0 +1,72 @@
+{
+ "summary": "Suzi conducts 300 pulls on the Option Summons selectable banner to secure Kurvida and finish building her Dauntless roster. Along the way, she pulls top-tier supports Maashtur and Irmoush, as well as Dauntless DPS Nastjenka. She builds a full Dauntless team of Selva, Maashtur, Guinavivre, Kurvida, and Nastjenka for Continental Challenge III boss Ergander. She strongly cautions players to never summon on 300-pity selectable banners unless they have 300 dice saved up to guarantee the milestone reward.",
+ "topics": [
+  "Option Summons",
+  "Dauntless Team",
+  "Continental Challenge",
+  "Summoning Strategy",
+  "Maashtur"
+ ],
+ "heroes": [
+  {
+   "name": "Maashtur",
+   "verdict": "Top tier support and tank",
+   "note": "Considered the ultimate prize pull due to his massive team shields, stuns, buffs, and ultimate energy reduction.",
+   "known": true
+  },
+  {
+   "name": "Kurvida",
+   "verdict": "Must-get Dauntless core",
+   "note": "Essential component for establishing and completing high-end Dauntless team compositions.",
+   "known": true
+  },
+  {
+   "name": "Nastjenka",
+   "verdict": "Top tier Dauntless DPS",
+   "note": "The premier original Dauntless damage dealer needed for boss challenges.",
+   "known": true
+  },
+  {
+   "name": "Tharivol",
+   "verdict": "Solid temporary Dauntless DPS",
+   "note": "Functions well as an interim Dauntless damage dealer until Nastjenka is obtained.",
+   "known": true
+  },
+  {
+   "name": "Irmoush",
+   "verdict": "Strong utility hero",
+   "note": "Offers valuable silence, 50% Attack Penalty, Defense Up, and debuff immunity.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Continental Challenge - Ergander",
+   "heroes": [
+    "Selva",
+    "Maashtur",
+    "Guinavivre",
+    "Kurvida",
+    "Nastjenka"
+   ],
+   "note": "A heavy Dauntless team composition utilizing Selva and Maashtur as dual supports against Ergander."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Never pull on 300-summon selectable banners unless you have the full 300 summons saved to guarantee your hero.",
+  "The 300-summon selector is a separate milestone bonus chest and is not tied to pity or reset if you pull a legendary early.",
+  "Support heroes like Maashtur and Selva cannot easily be guaranteed on targeted DPS banners, making them high-priority pulls when available."
+ ],
+ "season": "S7",
+ "server_scope": "mixed",
+ "value": "medium",
+ "id": "B8d86fYA6EA",
+ "model": "gemini-3.8-flash",
+ "channel": "Suzi Plays",
+ "title": "WOW!💥My Summoning Luck is BACK! 🔥 Dragonheir x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=B8d86fYA6EA",
+ "short": false,
+ "summarized": "2026-11-11T03:22Z"
+}

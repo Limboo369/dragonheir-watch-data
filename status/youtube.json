@@ -1,5 +1,5 @@
 {
- "built": "2026-11-11T03:19Z",
+ "built": "2026-11-11T03:22Z",
  "videos": [
   {
    "summary": "OddOne presents a single full-auto team capable of clearing all 60 stages of the Season 9 Meander Trial. The core damage dealer is Talethia, supported by Anneliesis, Child of Chaos, Diantha, and Holfast. Talethia ideally requires at least Inspiration 2, whereas Anneliesis and Child of Chaos function well at base copies. Diantha and Holfast can be swapped out for other aura support heroes if needed.",
@@ -20305,6 +20305,151 @@
    "url": "https://www.youtube.com/watch?v=AgUrbW-yrVc",
    "short": false,
    "summarized": "2026-11-11T03:18Z"
+  },
+  {
+   "summary": "This video showcases a high-performing Burn team against Joyce, a Continental Challenge boss in Season 8. The lineup composed of Durem, Karf, Synarell, Paixton, and Naro achieves an S-rank score of 880.6 million damage. Detailed gear sets, stat priorities, and artifact recommendations are provided for each hero. Exact skill rotation timings are demonstrated, featuring synchronized 18-second recasts to optimize debuffs and damage windows.",
+   "topics": [
+    "Continental Challenge",
+    "Burn Team",
+    "Joyce Boss",
+    "Hero Builds",
+    "Skill Timing"
+   ],
+   "heroes": [
+    {
+     "name": "Durem",
+     "verdict": "Core Burn DPS against Joyce",
+     "note": "Built for full damage output while maintaining over 100 Accuracy.",
+     "known": true
+    },
+    {
+     "name": "Karf",
+     "verdict": "Burn DPS and buffer",
+     "note": "Built with full Attack and equipped with the Witches Remains artifact.",
+     "known": true
+    },
+    {
+     "name": "Synarell",
+     "verdict": "Burn enabler and support",
+     "note": "Built prioritizing maximum Skill Haste to cycle skills rapidly.",
+     "known": true
+    },
+    {
+     "name": "Paixton",
+     "verdict": "Defensive frontline support",
+     "note": "Equipped with the Puppeteer gear set focusing on defensive survivability stats.",
+     "known": true
+    },
+    {
+     "name": "Naro",
+     "verdict": "Burn applicator and debuffer",
+     "note": "Equipped with the Carcass artifact and built with as much Accuracy as possible.",
+     "known": true
+    }
+   ],
+   "teams": [
+    {
+     "mode": "Continental Challenge (Joyce)",
+     "heroes": [
+      "Durem",
+      "Karf",
+      "Synarell",
+      "Paixton",
+      "Naro"
+     ],
+     "note": "Deals 880,618,805 damage (Rank S). Uses an 18-second recast cycle across all heroes with staggered initial casts."
+    }
+   ],
+   "meta_changes": [],
+   "tips": [
+    "Ensure Durem has over 100 Accuracy alongside full damage stats to land debuffs reliably on Joyce.",
+    "Equip Paixton with the Puppeteer set and defensive stats for frontline endurance.",
+    "Maximize Accuracy on Naro while running the Carcass artifact.",
+    "Synchronize team ultimate recasts to 18.0 seconds with staggered initial casts (Karf at 11.3s, Paixton and Synarell at 22.0s, Durem at 25.6s, Naro at 27.6s)."
+   ],
+   "season": "S8",
+   "server_scope": "S9",
+   "value": "high",
+   "id": "AzFq6dMPl7g",
+   "model": "gemini-3.8-flash",
+   "channel": "liveranov",
+   "title": "Burn Team vs Joyce | Continental Challenge | Season 8 | Dragonheir",
+   "published": "2026-09-28T12:00:00+00:00",
+   "url": "https://www.youtube.com/watch?v=AzFq6dMPl7g",
+   "short": false,
+   "summarized": "2026-11-11T03:20Z"
+  },
+  {
+   "summary": "Suzi conducts 300 pulls on the Option Summons selectable banner to secure Kurvida and finish building her Dauntless roster. Along the way, she pulls top-tier supports Maashtur and Irmoush, as well as Dauntless DPS Nastjenka. She builds a full Dauntless team of Selva, Maashtur, Guinavivre, Kurvida, and Nastjenka for Continental Challenge III boss Ergander. She strongly cautions players to never summon on 300-pity selectable banners unless they have 300 dice saved up to guarantee the milestone reward.",
+   "topics": [
+    "Option Summons",
+    "Dauntless Team",
+    "Continental Challenge",
+    "Summoning Strategy",
+    "Maashtur"
+   ],
+   "heroes": [
+    {
+     "name": "Maashtur",
+     "verdict": "Top tier support and tank",
+     "note": "Considered the ultimate prize pull due to his massive team shields, stuns, buffs, and ultimate energy reduction.",
+     "known": true
+    },
+    {
+     "name": "Kurvida",
+     "verdict": "Must-get Dauntless core",
+     "note": "Essential component for establishing and completing high-end Dauntless team compositions.",
+     "known": true
+    },
+    {
+     "name": "Nastjenka",
+     "verdict": "Top tier Dauntless DPS",
+     "note": "The premier original Dauntless damage dealer needed for boss challenges.",
+     "known": true
+    },
+    {
+     "name": "Tharivol",
+     "verdict": "Solid temporary Dauntless DPS",
+     "note": "Functions well as an interim Dauntless damage dealer until Nastjenka is obtained.",
+     "known": true
+    },
+    {
+     "name": "Irmoush",
+     "verdict": "Strong utility hero",
+     "note": "Offers valuable silence, 50% Attack Penalty, Defense Up, and debuff immunity.",
+     "known": true
+    }
+   ],
+   "teams": [
+    {
+     "mode": "Continental Challenge - Ergander",
+     "heroes": [
+      "Selva",
+      "Maashtur",
+      "Guinavivre",
+      "Kurvida",
+      "Nastjenka"
+     ],
+     "note": "A heavy Dauntless team composition utilizing Selva and Maashtur as dual supports against Ergander."
+    }
+   ],
+   "meta_changes": [],
+   "tips": [
+    "Never pull on 300-summon selectable banners unless you have the full 300 summons saved to guarantee your hero.",
+    "The 300-summon selector is a separate milestone bonus chest and is not tied to pity or reset if you pull a legendary early.",
+    "Support heroes like Maashtur and Selva cannot easily be guaranteed on targeted DPS banners, making them high-priority pulls when available."
+   ],
+   "season": "S7",
+   "server_scope": "mixed",
+   "value": "medium",
+   "id": "B8d86fYA6EA",
+   "model": "gemini-3.8-flash",
+   "channel": "Suzi Plays",
+   "title": "WOW!💥My Summoning Luck is BACK! 🔥 Dragonheir x Dragonstride",
+   "published": "2026-09-28T12:00:00+00:00",
+   "url": "https://www.youtube.com/watch?v=B8d86fYA6EA",
+   "short": false,
+   "summarized": "2026-11-11T03:22Z"
   },
   {
    "summary": "Skratch conducts a 300-pull summoning session to acquire the new Burn legendary Vyressa on the Selected Summons III banner. He strongly advises free-to-play players and low spenders to hold their summons until the upcoming Child of Chaos banner is revealed. The banner pool is criticized for including mediocre heroes like Victor and Bionphray rather than premier supports. Vyressa provides both heavy self-damage and enabling through Hex Flame and Total Immolation, standing out as a premier anchor for Burn compositions. Upon obtaining her, Skratch demonstrates her skill maxing and talent tree setup focused on Attack Speed and Attack buffs.",
@@ -40880,6 +41025,13 @@
     "url": "https://www.youtube.com/watch?v=AgUrbW-yrVc"
    },
    {
+    "verdict": "Top tier support and tank",
+    "note": "Considered the ultimate prize pull due to his massive team shields, stuns, buffs, and ultimate energy reduction.",
+    "date": "2026-09-28",
+    "channel": "Suzi Plays",
+    "url": "https://www.youtube.com/watch?v=B8d86fYA6EA"
+   },
+   {
     "verdict": "Debuffer sub-DPS",
     "note": "Built with Accuracy to ensure debuffs hit the boss.",
     "date": "2026-09-28",
@@ -44668,6 +44820,13 @@
     "url": "https://www.youtube.com/watch?v=-qh8Km9Lsw0"
    },
    {
+    "verdict": "Top tier Dauntless DPS",
+    "note": "The premier original Dauntless damage dealer needed for boss challenges.",
+    "date": "2026-09-28",
+    "channel": "Suzi Plays",
+    "url": "https://www.youtube.com/watch?v=B8d86fYA6EA"
+   },
+   {
     "verdict": "Core Dauntless DPS",
     "note": "Built with high Attack Speed and Resistance.",
     "date": "2026-09-28",
@@ -44987,6 +45146,13 @@
     "date": "2026-09-30",
     "channel": "liveranov",
     "url": "https://www.youtube.com/watch?v=-qh8Km9Lsw0"
+   },
+   {
+    "verdict": "Must-get Dauntless core",
+    "note": "Essential component for establishing and completing high-end Dauntless team compositions.",
+    "date": "2026-09-28",
+    "channel": "Suzi Plays",
+    "url": "https://www.youtube.com/watch?v=B8d86fYA6EA"
    },
    {
     "verdict": "Voted for skin in Coronation of Night",
@@ -45731,6 +45897,13 @@
     "date": "2026-09-28",
     "channel": "Gorax",
     "url": "https://www.youtube.com/watch?v=AgUrbW-yrVc"
+   },
+   {
+    "verdict": "Solid temporary Dauntless DPS",
+    "note": "Functions well as an interim Dauntless damage dealer until Nastjenka is obtained.",
+    "date": "2026-09-28",
+    "channel": "Suzi Plays",
+    "url": "https://www.youtube.com/watch?v=B8d86fYA6EA"
    },
    {
     "verdict": "Dauntless enabler and sub-DPS",
@@ -47752,6 +47925,13 @@
     "url": "https://www.youtube.com/watch?v=ONMMBlvyWpc"
    },
    {
+    "verdict": "Strong utility hero",
+    "note": "Offers valuable silence, 50% Attack Penalty, Defense Up, and debuff immunity.",
+    "date": "2026-09-28",
+    "channel": "Suzi Plays",
+    "url": "https://www.youtube.com/watch?v=B8d86fYA6EA"
+   },
+   {
     "verdict": "Strong debuffer/utility",
     "note": "Frequently utilized holding the Witch's Remains artifact in the Puppeteer set.",
     "date": "2026-09-28",
@@ -47951,6 +48131,13 @@
     "url": "https://www.youtube.com/watch?v=YKXKm7v-bJA"
    },
    {
+    "verdict": "Defensive frontline support",
+    "note": "Equipped with the Puppeteer gear set focusing on defensive survivability stats.",
+    "date": "2026-09-28",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=AzFq6dMPl7g"
+   },
+   {
     "verdict": "Attack-sharing frontline support",
     "note": "Utilizes Puppeteer and attack-sharing gear with a 15.0-second ultimate recast timer to continuously sustain team DPS.",
     "date": "2026-09-28",
@@ -48014,6 +48201,13 @@
     "date": "2026-10-14",
     "channel": "liveranov",
     "url": "https://www.youtube.com/watch?v=e05LIFMVHBA"
+   },
+   {
+    "verdict": "Core Burn DPS against Joyce",
+    "note": "Built for full damage output while maintaining over 100 Accuracy.",
+    "date": "2026-09-28",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=AzFq6dMPl7g"
    },
    {
     "verdict": "Essential Burn DPS",
@@ -48107,6 +48301,13 @@
     "date": "2026-10-24",
     "channel": "Suzi Plays",
     "url": "https://www.youtube.com/watch?v=scDahdyomBc"
+   },
+   {
+    "verdict": "Burn DPS and buffer",
+    "note": "Built with full Attack and equipped with the Witches Remains artifact.",
+    "date": "2026-09-28",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=AzFq6dMPl7g"
    },
    {
     "verdict": "Solid Burn igniter",
@@ -50421,6 +50622,13 @@
     "url": "https://www.youtube.com/watch?v=ONMMBlvyWpc"
    },
    {
+    "verdict": "Burn applicator and debuffer",
+    "note": "Equipped with the Carcass artifact and built with as much Accuracy as possible.",
+    "date": "2026-09-28",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=AzFq6dMPl7g"
+   },
+   {
     "verdict": "Top budget Aura support",
     "note": "Makes a massive comeback in Continental Challenge Week 3, functioning effectively even at Inspiration 0 to replace Rina without stealing key heroes.",
     "date": "2026-09-28",
@@ -50616,6 +50824,13 @@
     "date": "2026-09-30",
     "channel": "OddOneGaming RPGs",
     "url": "https://www.youtube.com/watch?v=TviMe77f8sQ"
+   },
+   {
+    "verdict": "Burn enabler and support",
+    "note": "Built prioritizing maximum Skill Haste to cycle skills rapidly.",
+    "date": "2026-09-28",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=AzFq6dMPl7g"
    },
    {
     "verdict": "High-Damage Buffer",
