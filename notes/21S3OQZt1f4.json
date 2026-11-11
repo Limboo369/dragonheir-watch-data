@@ -1,0 +1,73 @@
+{
+ "summary": "This guide showcases a Toxin team achieving over 10 billion damage on Cloudtop Arbor IV (Shaded Side - Arbor Hydra Nocturna) in Temporal Vortex during Season 9. Together with an updated Aura team on the Sunlit side doing 15.37 billion, the total run reaches 25.5 billion (SSS rank). The creator highlights that Toxin is derivative damage and cannot critically strike, making Attack and Enlightenment the primary stats rather than Crit Rate or Crit Damage. Full stats, gear focuses, and skill rotation timings are broken down for each member of the Toxin lineup.",
+ "topics": [
+  "Temporal Vortex",
+  "Cloudtop Arbor IV",
+  "Toxin Team",
+  "Serpentemis Build",
+  "Derivative Damage"
+ ],
+ "heroes": [
+  {
+   "name": "Serpentemis",
+   "verdict": "Primary Toxin Carry",
+   "note": "Deals 97.6% of the team's total damage (9.92B); should be built purely for Attack and Enlightenment with zero investment in Crit Rate or Crit Damage.",
+   "known": true
+  },
+  {
+   "name": "Sleight",
+   "verdict": "Essential Toxin Debuffer",
+   "note": "Inflicts Potent Medicine and maintains consistent Toxin debuffs on the boss.",
+   "known": true
+  },
+  {
+   "name": "Twitch",
+   "verdict": "Core Toxin Sub-DPS and Debuffer",
+   "note": "Provides additional Toxin debuffs and deals extra damage against targets affected by Toxin.",
+   "known": true
+  },
+  {
+   "name": "Stegamoffyn",
+   "verdict": "Top Healer and Utility Debuffer",
+   "note": "Provides Resurrection Block, debuffs, and accounts for 77.9% of the team's healing.",
+   "known": true
+  },
+  {
+   "name": "Child of Chaos",
+   "verdict": "High HP Defensive Support",
+   "note": "Built with over 94,000 HP to provide supplemental healing (19.1%) and survivability buffs.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Temporal Vortex - Cloudtop Arbor IV (Shaded Side)",
+   "heroes": [
+    "Serpentemis",
+    "Sleight",
+    "Twitch",
+    "Stegamoffyn",
+    "Child of Chaos"
+   ],
+   "note": "Achieved 10.17B damage. Skill timing: Serpentemis casts first at 10.8s, Child of Chaos and Stegamoffyn at ~11.0s, Sleight and Twitch at ~13.7-13.8s, all recasting every 18.0s."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Do not build Crit Rate or Crit Damage on Toxin damage dealers because Toxin damage is derivative damage, which cannot crit.",
+  "Prioritize Attack and Enlightenment on Toxin DPS heroes to scale derivative poison damage efficiently.",
+  "Upgrade Necrotoxin Damage Resistance under Elemental Affinity to reduce incoming damage by up to 10% for improved vortex survival.",
+  "Synchronize ultimate skills on an 18-second recast loop to ensure debuffs are active when Serpentemis unleashes poison ticks."
+ ],
+ "season": "S9",
+ "server_scope": "mixed",
+ "value": "high",
+ "id": "21S3OQZt1f4",
+ "model": "gemini-3.8-flash",
+ "channel": "liveranov",
+ "title": "Toxin Team vs Temporal Vortex IV: Cloudtop Arbor (Shaded) | Dragonheir: Silent Gods",
+ "published": "2026-11-11T08:37:53+00:00",
+ "url": "https://www.youtube.com/watch?v=21S3OQZt1f4",
+ "short": false,
+ "summarized": "2026-11-11T09:18Z"
+}

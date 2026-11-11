@@ -1,5 +1,5 @@
 {
- "built": "2026-11-11T09:02Z",
+ "built": "2026-11-11T09:18Z",
  "videos": [
   {
    "summary": "This video breaks down top-ranking team compositions and hero builds from the final week of Continental Challenge in the Season 9 Chinese server. Gorax analyzes six specific boss matchups (Rose, Quaesitia, Stegamoffyn, Beldelle, Synarell, and Guinavivre) covering damage outputs, artifact choices, stat priorities, and skill rotation timings. Notable highlights include a 3.2 billion damage Radiant team utilizing Holfast and Talethia, as well as a 2.14 billion Dauntless squad. The guide also reveals that many top setups function effectively even with low-inspiration or Inspiration 0 heroes.",
@@ -161,6 +161,79 @@
    "url": "https://www.youtube.com/watch?v=iwGDcflY87g",
    "short": false,
    "summarized": "2026-11-11T07:24Z"
+  },
+  {
+   "summary": "This guide showcases a Toxin team achieving over 10 billion damage on Cloudtop Arbor IV (Shaded Side - Arbor Hydra Nocturna) in Temporal Vortex during Season 9. Together with an updated Aura team on the Sunlit side doing 15.37 billion, the total run reaches 25.5 billion (SSS rank). The creator highlights that Toxin is derivative damage and cannot critically strike, making Attack and Enlightenment the primary stats rather than Crit Rate or Crit Damage. Full stats, gear focuses, and skill rotation timings are broken down for each member of the Toxin lineup.",
+   "topics": [
+    "Temporal Vortex",
+    "Cloudtop Arbor IV",
+    "Toxin Team",
+    "Serpentemis Build",
+    "Derivative Damage"
+   ],
+   "heroes": [
+    {
+     "name": "Serpentemis",
+     "verdict": "Primary Toxin Carry",
+     "note": "Deals 97.6% of the team's total damage (9.92B); should be built purely for Attack and Enlightenment with zero investment in Crit Rate or Crit Damage.",
+     "known": true
+    },
+    {
+     "name": "Sleight",
+     "verdict": "Essential Toxin Debuffer",
+     "note": "Inflicts Potent Medicine and maintains consistent Toxin debuffs on the boss.",
+     "known": true
+    },
+    {
+     "name": "Twitch",
+     "verdict": "Core Toxin Sub-DPS and Debuffer",
+     "note": "Provides additional Toxin debuffs and deals extra damage against targets affected by Toxin.",
+     "known": true
+    },
+    {
+     "name": "Stegamoffyn",
+     "verdict": "Top Healer and Utility Debuffer",
+     "note": "Provides Resurrection Block, debuffs, and accounts for 77.9% of the team's healing.",
+     "known": true
+    },
+    {
+     "name": "Child of Chaos",
+     "verdict": "High HP Defensive Support",
+     "note": "Built with over 94,000 HP to provide supplemental healing (19.1%) and survivability buffs.",
+     "known": true
+    }
+   ],
+   "teams": [
+    {
+     "mode": "Temporal Vortex - Cloudtop Arbor IV (Shaded Side)",
+     "heroes": [
+      "Serpentemis",
+      "Sleight",
+      "Twitch",
+      "Stegamoffyn",
+      "Child of Chaos"
+     ],
+     "note": "Achieved 10.17B damage. Skill timing: Serpentemis casts first at 10.8s, Child of Chaos and Stegamoffyn at ~11.0s, Sleight and Twitch at ~13.7-13.8s, all recasting every 18.0s."
+    }
+   ],
+   "meta_changes": [],
+   "tips": [
+    "Do not build Crit Rate or Crit Damage on Toxin damage dealers because Toxin damage is derivative damage, which cannot crit.",
+    "Prioritize Attack and Enlightenment on Toxin DPS heroes to scale derivative poison damage efficiently.",
+    "Upgrade Necrotoxin Damage Resistance under Elemental Affinity to reduce incoming damage by up to 10% for improved vortex survival.",
+    "Synchronize ultimate skills on an 18-second recast loop to ensure debuffs are active when Serpentemis unleashes poison ticks."
+   ],
+   "season": "S9",
+   "server_scope": "mixed",
+   "value": "high",
+   "id": "21S3OQZt1f4",
+   "model": "gemini-3.8-flash",
+   "channel": "liveranov",
+   "title": "Toxin Team vs Temporal Vortex IV: Cloudtop Arbor (Shaded) | Dragonheir: Silent Gods",
+   "published": "2026-11-11T08:37:53+00:00",
+   "url": "https://www.youtube.com/watch?v=21S3OQZt1f4",
+   "short": false,
+   "summarized": "2026-11-11T09:18Z"
   },
   {
    "summary": "OddOne presents a single full-auto team capable of clearing all 60 stages of the Season 9 Meander Trial. The core damage dealer is Talethia, supported by Anneliesis, Child of Chaos, Diantha, and Holfast. Talethia ideally requires at least Inspiration 2, whereas Anneliesis and Child of Chaos function well at base copies. Diantha and Holfast can be swapped out for other aura support heroes if needed.",
@@ -37242,6 +37315,2326 @@
     "url": "https://www.youtube.com/watch?v=z01GX69DqrM"
    }
   ],
+  "Serpentemis": [
+   {
+    "verdict": "Primary Toxin Carry",
+    "note": "Deals 97.6% of the team's total damage (9.92B); should be built purely for Attack and Enlightenment with zero investment in Crit Rate or Crit Damage.",
+    "date": "2026-11-11",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=21S3OQZt1f4"
+   },
+   {
+    "verdict": "Top Toxin DPS",
+    "note": "Reaches up to 3B damage against Cypreum when built with high Enlightenment, Attack, and Accuracy.",
+    "date": "2026-11-09",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=pgksOlyG-E8"
+   },
+   {
+    "verdict": "Core Toxin enabler",
+    "note": "Essential core hero for maximizing Toxin team damage output.",
+    "date": "2026-11-08",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=4zWG2dQRL28"
+   },
+   {
+    "verdict": "Top Toxin derivative DPS",
+    "note": "Deals massive damage when geared with high Attack (near 5k) and Enlightenment (600+).",
+    "date": "2026-11-06",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=b9L3kRlw8vU"
+   },
+   {
+    "verdict": "Enlightenment focus",
+    "note": "Benefits significantly from Enlightenment-focused gear sets like Molten Reforging.",
+    "date": "2026-11-06",
+    "channel": "Suzi Plays",
+    "url": "https://www.youtube.com/watch?v=NfZz41jI-kU"
+   },
+   {
+    "verdict": "Top Toxin DPS vs Guinavivre",
+    "note": "Enables 870M+ at Inspiration 0 and exceeds 1.1B damage at Inspiration 5.",
+    "date": "2026-11-06",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=M1l8V-XyEvs"
+   },
+   {
+    "verdict": "high priority for gear carrying",
+    "note": "Carried over Enlightenment chest and Arcane gloves from the previous season to maximize poison damage.",
+    "date": "2026-11-03",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=YTSkf8whQbM"
+   },
+   {
+    "verdict": "Primary Toxin damage dealer",
+    "note": "Achieves high damage output even at Inspiration 0 when positioned adjacent to Reytah to receive attack sharing.",
+    "date": "2026-11-02",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/shorts/3uP3hZ785mM"
+   },
+   {
+    "verdict": "Core damage dealer for Vortex III Toxin team",
+    "note": "Achieved 8.2 billion damage in Vortex III even at Inspiration 0 when supported properly.",
+    "date": "2026-11-02",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/shorts/K78RaGNiNKI"
+   },
+   {
+    "verdict": "Core Poison damage dealer",
+    "note": "Applies consistent Poison damage and enemy resistance reduction to sustain high team DPS.",
+    "date": "2026-11-01",
+    "channel": "Skyasterix Gaming",
+    "url": "https://www.youtube.com/watch?v=S_vEulOev_0"
+   },
+   {
+    "verdict": "Main Toxin DPS",
+    "note": "Built for pure damage with Statue of the Serpent Deity, Dragonblood Brand, and Strike the Unprepared while utilizing passive enemy Resistance shred.",
+    "date": "2026-11-01",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=O28V9w5PJdA"
+   },
+   {
+    "verdict": "Best Toxin hero in the game",
+    "note": "The undisputed queen of AoE poison damage capable of transforming the battlefield into a toxic swamp.",
+    "date": "2026-10-31",
+    "channel": "Fastidious Dragonheir",
+    "url": "https://www.youtube.com/watch?v=wM0sFqru6M4"
+   },
+   {
+    "verdict": "Save resources for",
+    "note": "Recommended to preserve summoning resources for her future banner rather than pulling on current selectable banners.",
+    "date": "2026-10-31",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=k5r_YS0v7fU"
+   },
+   {
+    "verdict": "Strong Option Banner target",
+    "note": "A top-tier Poison enabler to consider targeting during end-of-season Option banners.",
+    "date": "2026-10-31",
+    "channel": "Volkin Dragonheir",
+    "url": "https://www.youtube.com/watch?v=r6R18doSyz8"
+   },
+   {
+    "verdict": "Viable at Inspiration 0",
+    "note": "Performs reliably in Vortex dual-team setups even without extra inspiration levels.",
+    "date": "2026-10-30",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/shorts/v07uYiQIt_M"
+   },
+   {
+    "verdict": "Primary damage dealer",
+    "note": "Built with high Enlightenment and Attack stats for maximum damage output in Toxin teams.",
+    "date": "2026-10-30",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/shorts/z4PK6Oze8QQ"
+   },
+   {
+    "verdict": "Toxin damage dealer",
+    "note": "Prioritize Enlightenment, Accuracy, and Attack.",
+    "date": "2026-10-28",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=F8lJPCbJwgs"
+   },
+   {
+    "verdict": "Top Poison DPS",
+    "note": "Built with high Enlightenment and Attack to drive massive Poison damage over time.",
+    "date": "2026-10-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=AdMJvbFJWS0"
+   },
+   {
+    "verdict": "Top DPS carry",
+    "note": "Deals over 1 billion damage against Mekkatorque even at Inspiration 0 on a full damage build.",
+    "date": "2026-10-28",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=QmTkNCoEHEk"
+   },
+   {
+    "verdict": "Must-have Toxin DPS",
+    "note": "Crucial core piece for Toxin teams in Continental Challenge, especially at high inspiration levels.",
+    "date": "2026-10-27",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=YKXKm7v-bJA"
+   },
+   {
+    "verdict": "Top-tier Poison damage dealer",
+    "note": "Deals massive damage and resistance reduction, benefitting from maximum Enlightenment and Attack.",
+    "date": "2026-10-26",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=ZTBevjYvrOo"
+   },
+   {
+    "verdict": "Core damage dealer for Poison teams",
+    "note": "Built with high Enlightenment, Attack, and Accuracy; stays safely in position and resists stuns due to self-buffs.",
+    "date": "2026-10-25",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=NY1zsbF-vRM"
+   },
+   {
+    "verdict": "Primary Poison carry",
+    "note": "Excels with Forge Master set bonus for stacking derivative damage, scaling drastically with higher Inspiration levels.",
+    "date": "2026-10-25",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=MzK7B1nM5ys"
+   },
+   {
+    "verdict": "top priority carry",
+    "note": "Essential Toxin damage dealer capable of delivering top-tier endgame damage.",
+    "date": "2026-10-24",
+    "channel": "Suzi Plays",
+    "url": "https://www.youtube.com/watch?v=scDahdyomBc"
+   },
+   {
+    "verdict": "Core Toxin hero",
+    "note": "Plans to invest in Temporal Corridor copies to reach Inspiration 5 for the Toxin team.",
+    "date": "2026-10-23",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=te7U8TxlWPM"
+   },
+   {
+    "verdict": "Top Enlightenment DPS",
+    "note": "Excels with Molten Reforging and Dragonblood Brand on top gear slots, gaining huge boosts from adjacent supports equipped with Might of the Inferno.",
+    "date": "2026-10-21",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=L1z08k7Q5ns"
+   },
+   {
+    "verdict": "Core Poison DPS",
+    "note": "Utilizes crafted Precise Carnage gloves with Attack percentage and Enlightenment stats.",
+    "date": "2026-10-20",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=5E5nhm0Y6zE"
+   },
+   {
+    "verdict": "Toxin DPS",
+    "note": "Built stacking high Enlightenment (over 350) and Accuracy for maximum damage.",
+    "date": "2026-10-20",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=VMqR9QYdHaI"
+   },
+   {
+    "verdict": "Premier Toxin DPS for Tamar",
+    "note": "Achieves massive scaling with high Enlightenment, Attack, and at least 150 Accuracy.",
+    "date": "2026-10-20",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=iQN8FFgvVTk"
+   },
+   {
+    "verdict": "Target counter",
+    "note": "A top-tier PvP threat whose AoE burst can be neutralized by Syonis pulling her into his Energy Drain Zone.",
+    "date": "2026-10-19",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=EyhzdvZo08A"
+   },
+   {
+    "verdict": "Core Toxin DPS",
+    "note": "Build with Enlightenment and Attack, along with roughly 20 Accuracy despite her innate requirement reduction.",
+    "date": "2026-10-19",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=Z46YlrpnOfc"
+   },
+   {
+    "verdict": "top tier DPS carry",
+    "note": "A game-changing poison DPS carry and premier target at the 300-pull milestone on the Wish Summon banner.",
+    "date": "2026-10-17",
+    "channel": "Fastidious Dragonheir",
+    "url": "https://www.youtube.com/watch?v=IByjt-bkgzo"
+   },
+   {
+    "verdict": "Top tier Poison DPS",
+    "note": "Dominates Temporal Vortex, Continental Challenge, and Tavern Gambit modes with massive Poison damage.",
+    "date": "2026-10-16",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=62IBjaXyVBk"
+   },
+   {
+    "verdict": "Must-have primary focus",
+    "note": "An essential pick if not already owned on the account.",
+    "date": "2026-10-16",
+    "channel": "Suzi Plays",
+    "url": "https://www.youtube.com/watch?v=lXIGOO_jApM"
+   },
+   {
+    "verdict": "Essential core DPS for Toxin",
+    "note": "Primary damage dealer for Toxin teams who scales massively off Enlightenment and Attack with Fearless Challenge and Precise Carnage gear.",
+    "date": "2026-10-15",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=SKgs45pKE8I"
+   },
+   {
+    "verdict": "Whale priority for Inspiration 5",
+    "note": "A top-tier damage dealer whose extra inspirations are vital for high-end competitive play, but too expensive for F2P to chase.",
+    "date": "2026-10-14",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=21_BZz5E0XM"
+   },
+   {
+    "verdict": "Top damage dealer for Mekkatorque",
+    "note": "Carried the majority of the team's DPS (over 962M damage); build for full damage with ideally 160+ Accuracy.",
+    "date": "2026-10-14",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=2O4qJ3I9erI"
+   },
+   {
+    "verdict": "Key Toxin DPS for Temporal Vortex",
+    "note": "Performs best with high Enlightenment and ATK% rolls on Strike the Unprepared or Curse of the Fallen gear.",
+    "date": "2026-10-14",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=BfwvF26B9qo"
+   },
+   {
+    "verdict": "Priority carryover recipient",
+    "note": "Target hero for forged Curse of the Fallen gear transitioning into the new season.",
+    "date": "2026-10-14",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=EPflcyTpzw0"
+   },
+   {
+    "verdict": "Core Toxin DPS",
+    "note": "Requires high Enlightenment, Attack, and Resistance; must have higher Enlightenment than Lothair to claim the Lava Batwing familiar buff.",
+    "date": "2026-10-14",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=OggIn5hmQpA"
+   },
+   {
+    "verdict": "Top Pick",
+    "note": "Extremely solid exclusive hero capable of clearing pretty much all content easily and dealing 1.2B+ damage.",
+    "date": "2026-10-14",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=ZQS3vb4JuWU"
+   },
+   {
+    "verdict": "Toxin DoT carry",
+    "note": "Main damage dealer in Poison Toxin setups, stacking damage over time.",
+    "date": "2026-10-14",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=e05LIFMVHBA"
+   },
+   {
+    "verdict": "Primary Toxin DPS for lower Lothair inspiration",
+    "note": "Serves as the main damage dealer when Lothair is at low or zero inspiration.",
+    "date": "2026-10-14",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=jQe6NkOHUL4"
+   },
+   {
+    "verdict": "essential Corrosion DPS",
+    "note": "A primary Corrosion DPS target that players should prioritize for upcoming season content.",
+    "date": "2026-10-14",
+    "channel": "Skyasterix Gaming",
+    "url": "https://www.youtube.com/watch?v=lazeVsyO7_g"
+   },
+   {
+    "verdict": "Top Poison DPS",
+    "note": "Extremely strong Poison damage dealer that benefits heavily from Carnage gear and skill upgrades.",
+    "date": "2026-10-14",
+    "channel": "Volkin Dragonheir",
+    "url": "https://www.youtube.com/watch?v=p6_LHvgp4bs"
+   },
+   {
+    "verdict": "Core secondary Toxin DPS",
+    "note": "Applies consistent poison stacks to ramp Tamar's damage taken modifier up to the 50-stack cap.",
+    "date": "2026-10-14",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=q-5Iqzt_0VI"
+   },
+   {
+    "verdict": "Top Toxin DPS",
+    "note": "Serves as the primary damage dealer against Mekkatorque, benefiting hugely from high Attack, Enlightenment, and Inspiration levels.",
+    "date": "2026-10-14",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=qUrDNsAZh-A"
+   },
+   {
+    "verdict": "Top tier Toxin DPS",
+    "note": "A core Toxin damage dealer whose Inspiration 5 gives a massive damage boost; worth targeting from selection chests.",
+    "date": "2026-10-14",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=soNuRXPx71Y"
+   },
+   {
+    "verdict": "Top Toxin DPS",
+    "note": "Acts as the primary damage engine in 30-second Toxin rotations; stack Attack and Enlightenment.",
+    "date": "2026-10-14",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=svroY6v2YuU"
+   },
+   {
+    "verdict": "Core DPS in Toxin",
+    "note": "A primary damage dealer whose output scales heavily with Enlightenment, Accuracy, and Attack from customized mythic gear.",
+    "date": "2026-10-07",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=9OIXBuLFl4k"
+   },
+   {
+    "verdict": "Top tier DPS / High priority",
+    "note": "Powers an overpowered Poison team capable of clearing dungeons, Temporal Vortex, and Fey Meander on full auto; gains huge power spikes at Inspiration 2 and 5.",
+    "date": "2026-10-07",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=B88cdyDr8dY"
+   },
+   {
+    "verdict": "Core poison damage dealer",
+    "note": "Her passive lowers enemy Resistance by 35%, making team Accuracy requirements easier, but she still requires Accuracy gear in Difficulty III to land poisons.",
+    "date": "2026-10-07",
+    "channel": "Volkin Dragonheir",
+    "url": "https://www.youtube.com/watch?v=FJ-KcKgrTcg"
+   },
+   {
+    "verdict": "Viable Toxin DPS",
+    "note": "Reaches over 3.2 billion damage in Toxin compositions, though slightly weaker than Lothair here.",
+    "date": "2026-10-07",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=NzWyPU_0D9w"
+   },
+   {
+    "verdict": "Solid Toxin enabler",
+    "note": "Geared with Alignment sets focusing on Attack, Enlightenment, and minor Accuracy.",
+    "date": "2026-10-07",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=VEwv_TEaZkc"
+   },
+   {
+    "verdict": "Top pick for Temporal Vortex AoE",
+    "note": "Excels at AoE damage in Temporal Vortex and scales exceptionally well with heavy Enlightenment and high Attack% substat rolls on bottom pieces.",
+    "date": "2026-10-07",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=XbTgoxPr9WQ"
+   },
+   {
+    "verdict": "Core booster/enabler for Toxin team",
+    "note": "Built with Angelic Alliance artifact, high attack, accuracy, and around 6 skill haste for smooth rotation synchronization.",
+    "date": "2026-10-07",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=gAoX3-kT1mo"
+   },
+   {
+    "verdict": "Key Toxin team member for Queen of Blasphemy",
+    "note": "Provided core utility and over 405 million damage (8.4% of team total).",
+    "date": "2026-10-07",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=rwe-Dd4l8ps"
+   },
+   {
+    "verdict": "Craft Enlightenment Chest",
+    "note": "Build with Enlightenment primary stat chest from the Strike the Unprepared set, aiming for ATK% and Accuracy sub-stats.",
+    "date": "2026-10-07",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=z3tO57-B6Gs"
+   },
+   {
+    "verdict": "Versatile DPS",
+    "note": "Used effectively across Toxin/Necrosis Vortex teams as well as Arena lineups.",
+    "date": "2026-09-30",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=bzTAdskU1kA"
+   },
+   {
+    "verdict": "Main DPS carry",
+    "note": "Maximizes damage output when equipped with Precise Carnage or Emperor's Might while teammates enable debuffs.",
+    "date": "2026-09-30",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=o0Y6OJRRPh8"
+   },
+   {
+    "verdict": "Top main DPS for Toxin teams",
+    "note": "Deals massive Derivative Poison damage scaling primarily with Enlightenment and Attack.",
+    "date": "2026-09-30",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=ydl2Hi0lAy8"
+   },
+   {
+    "verdict": "Top Poison DPS",
+    "note": "Deals massive damage using Molten Surge gear and Statue of the Serpent Deity, capable of hitting near 30 billion on her own at high inspiration.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=95WHT5Xp_1k"
+   },
+   {
+    "verdict": "Alternative vote target",
+    "note": "Previously received faction votes, but Skratch recommends shifting focus to a single candidate.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=CbR3blhRAM0"
+   },
+   {
+    "verdict": "top pick for domain clearing",
+    "note": "Can clear all talent and equipment dungeons easily when paired with poison epics.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=DH2IdtO0H84"
+   },
+   {
+    "verdict": "Main DPS for Toxin Crown Contest team",
+    "note": "Build with full Enlightenment and Attack to maximize damage.",
+    "date": "2026-09-28",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=GijTOGTEjHI"
+   },
+   {
+    "verdict": "Toxin DPS / Support",
+    "note": "Build full Enlightenment and Attack; can equip support artifacts if Lothair is your primary DPS.",
+    "date": "2026-09-28",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=Hb1nVIAgoTE"
+   },
+   {
+    "verdict": "Core sub-DPS and buffer",
+    "note": "Provides debuffs and damage; builds with Golden Antlers artifact for team survivability and extra healing.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=HqVIrNsj0jg"
+   },
+   {
+    "verdict": "Top Toxin DPS",
+    "note": "High damage dealer in Toxin setups for Temporal Vortex, dungeon clears, and speed runs.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=IPIbglFr7r0"
+   },
+   {
+    "verdict": "Top DPS for Durem",
+    "note": "Serves as the team's core damage dealer, capable of outputting massive damage even at Inspiration 0 while reducing enemy resistance by 35%.",
+    "date": "2026-09-28",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=JdV2F-ncZFI"
+   },
+   {
+    "verdict": "Absolute best AoE / Toxin carry in the game",
+    "note": "Her passive triggers explosive derivative Poison damage whenever poisoned enemies take hit damage, melting waves and bosses instantly even at Inspiration 1.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=Jqs7wSn2_p0"
+   },
+   {
+    "verdict": "Strong Toxin DPS option",
+    "note": "Serves as the main damage dealer when running Toxin variations with Twitch.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=Kednd9zRcJ8"
+   },
+   {
+    "verdict": "Core Toxin DPS",
+    "note": "Requires high Accuracy to prevent debuff resists, as missed debuffs cause huge damage drop-offs.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=KhU12r5-B1E"
+   },
+   {
+    "verdict": "Top-tier Toxin DPS",
+    "note": "An insane damage dealer for Temporal Vortex whose performance scales massively with higher inspiration levels.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=Msd6wfUmCgM"
+   },
+   {
+    "verdict": "Top DPS pick",
+    "note": "Delivers massive Poison derivative damage and lowers enemy resistance by 35% via her passive, reducing team Accuracy requirements.",
+    "date": "2026-09-28",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=NEVHI1wjARM"
+   },
+   {
+    "verdict": "Primary Toxin DPS",
+    "note": "Uses Statue of the Serpent Deity artifact; stack Enlightenment and ATK, skipping Accuracy if paired with Twitch's Accuracy-sharing gear.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=Qk0ejZ_Wiaw"
+   },
+   {
+    "verdict": "Top-tier Toxin DPS",
+    "note": "Reaching Inspiration 3 adds significant Enlightenment and Attack stats, boosting Toxin team output in Temporal Vortex.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=R3lV4su2x4k"
+   },
+   {
+    "verdict": "Premier Toxin DPS",
+    "note": "Deals heavy Poison Derivative Damage via her Passive and Ultimate, gaining a massive damage boost from Sleight's exclusive artifact.",
+    "date": "2026-09-28",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=RKTCWfPI9og"
+   },
+   {
+    "verdict": "Main damage dealer for Toxin teams",
+    "note": "Requires high Enlightenment stats to maximize Toxin tick damage.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=SBgHAdyNZP4"
+   },
+   {
+    "verdict": "Strong Toxin DPS",
+    "note": "Drives massive damage in Toxin boss teams and trivializes Fallen Shadow Spire and Tactical Adventure when paired with debuffers.",
+    "date": "2026-09-28",
+    "channel": "Volkin Dragonheir",
+    "url": "https://www.youtube.com/watch?v=UloYhjHwdFo"
+   },
+   {
+    "verdict": "Primary Vortex DPS",
+    "note": "Tested at Inspiration 5; can be built stacking HP via the Knight Order set to convert to Attack or built with higher Enlightenment and raw Attack.",
+    "date": "2026-09-28",
+    "channel": "Skyasterix Gaming",
+    "url": "https://www.youtube.com/watch?v=WV_QTnx4_K0"
+   },
+   {
+    "verdict": "Best AoE DPS",
+    "note": "Remains the top AoE damage option for Temporal Vortex even at low inspiration, requiring Enlightenment and ATK%.",
+    "date": "2026-09-28",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=WXJ1Kj3Blfg"
+   },
+   {
+    "verdict": "Top pick for Toxin teams",
+    "note": "Selected at the 300-pull guarantee to serve as the core DPS for a Poison/Toxin roster.",
+    "date": "2026-09-28",
+    "channel": "Volkin Dragonheir",
+    "url": "https://www.youtube.com/watch?v=XRSWWrhi0lI"
+   },
+   {
+    "verdict": "Best AoE DPS in the game",
+    "note": "Top-tier Toxin damage dealer who excels even at Inspiration 0 alongside enablers Durango and Twitch.",
+    "date": "2026-09-28",
+    "channel": "Fastidious Dragonheir",
+    "url": "https://www.youtube.com/watch?v=_bYvuY0lj4w"
+   },
+   {
+    "verdict": "Heavy AoE damage loss in Vortex",
+    "note": "Takes a massive damage hit in Temporal Vortex Noctuaa because fewer eggs spawn during vulnerable boss phases and egg placement cannot be grouped as tightly.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=cIE3zxn4cP4"
+   },
+   {
+    "verdict": "Poison DPS",
+    "note": "Works alongside Sacredeia and Twitch to form the core poison damage engine.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=dZkp2hy0fhc"
+   },
+   {
+    "verdict": "Primary Toxin DPS",
+    "note": "Built full damage with Statue of the Serpent Deity artifact to maximize poison derivative damage.",
+    "date": "2026-09-28",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=em_1Gc-pIuY"
+   },
+   {
+    "verdict": "Core Devitalization speed run hero",
+    "note": "Enables rapid boss clears across Grave dungeons and Heretical Ruins.",
+    "date": "2026-09-28",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=euHy0xtygTo"
+   },
+   {
+    "verdict": "Primary Toxin damage dealer",
+    "note": "Scales heavily with high Attack and Enlightenment stats.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=h9SJ-KM7MWc"
+   },
+   {
+    "verdict": "Primary DPS for Toxic team",
+    "note": "Requires around 140-150 Accuracy along with high Enlightenment and Statue of the Serpent Deity to deal massive Poison derivative damage.",
+    "date": "2026-09-28",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=hG8YnV5WAqk"
+   },
+   {
+    "verdict": "Core Toxin DPS",
+    "note": "Serves as the primary damage dealer in the highly accessible F2P Toxin AoE team.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=hXBPeFQV_5Y"
+   },
+   {
+    "verdict": "Top Toxin DPS",
+    "note": "Extremely powerful Toxin DPS dealer who performs exceptionally well even at Inspiration 0.",
+    "date": "2026-09-28",
+    "channel": "Volkin Dragonheir",
+    "url": "https://www.youtube.com/watch?v=jRRemeIzzrc"
+   },
+   {
+    "verdict": "High-enlightenment Toxin sub-DPS",
+    "note": "Built with nearly 500 Enlightenment to contribute heavy supplementary damage in Toxin comps.",
+    "date": "2026-09-28",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=l_v0PMyPf0s"
+   },
+   {
+    "verdict": "Top Selector Target",
+    "note": "Planned target pick for the upcoming Schools of Damage selector banner.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=nbC4lmY_1Kc"
+   },
+   {
+    "verdict": "Top endgame Toxin DPS",
+    "note": "Primary Toxin damage dealer who scales heavily off Enlightenment, making her gear the top forging priority for Toxin players.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=p4yyCNnEwa4"
+   },
+   {
+    "verdict": "Core Toxin DPS",
+    "note": "Primary Poison damage dealer who scales heavily with Enlightenment and Attack; requires Statue of the Serpent Deity artifact for maximum damage.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=pVJgz7nuDhw"
+   },
+   {
+    "verdict": "Toxin debuffer / sub-DPS",
+    "note": "Acts as secondary DPS and debuffer using Golden Antlers set with focus on Attack, Accuracy, and Enlightenment stats.",
+    "date": "2026-09-28",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=qIbUgvin3qg"
+   },
+   {
+    "verdict": "Core progression carry",
+    "note": "Serves as the main carry for Toxin compositions to clear Fey Meander, Grave of Venom, and Fallen Shadow Spire.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=qKmvS6E0Kg0"
+   },
+   {
+    "verdict": "top Toxin DPS",
+    "note": "Deals massive ramping damage over time, scaling exceptionally well with Inspiration 2 and Inspiration 5.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=r9NRq3hlJvY"
+   },
+   {
+    "verdict": "Core Toxin DPS (Inspiration 2 target)",
+    "note": "Carries early game content and speed clears, with Inspiration 2 providing a significant damage increase.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=rQ0_GiS1JTg"
+   },
+   {
+    "verdict": "High-value inspiration target",
+    "note": "Targeted in Option Summons to push for higher Inspiration levels (I2/I3) needed for top ranks in Temporal Vortex.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=rVWvv4Ex-60"
+   },
+   {
+    "verdict": "Enlightenment damage dealer",
+    "note": "Gains significant damage bonuses from Enlightenment talent synergies in PvP.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=shuBe80QMA4"
+   },
+   {
+    "verdict": "High-value Dauntless target",
+    "note": "A prime target whose duplicates are worth pulling for in Option Summons when pairing Dauntless with Toxin.",
+    "date": "2026-09-28",
+    "channel": "Suzi Plays",
+    "url": "https://www.youtube.com/watch?v=vSw-iS_uxgk"
+   },
+   {
+    "verdict": "Selected from 300-pull chest",
+    "note": "Upgrading her to Inspiration IV provides a 30% attack power boost.",
+    "date": "2026-09-28",
+    "channel": "Skyasterix Gaming",
+    "url": "https://www.youtube.com/watch?v=xGyOpnMwKvU"
+   },
+   {
+    "verdict": "High-value selector target",
+    "note": "An exceptional unit worth targeting on the upcoming anniversary selector banners for at least Inspiration 1.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=yVc9XECCX7I"
+   },
+   {
+    "verdict": "Dominates early PvP and Vortex meta",
+    "note": "Anchor for Toxic teams that excel at low inspiration levels in Arena and Temporal Vortex.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=yu4aPXLPwhU"
+   },
+   {
+    "verdict": "Target banner pick",
+    "note": "Selected on the Option Summons II pool to upgrade her inspiration tier.",
+    "date": "2026-09-28",
+    "channel": "Skyasterix Gaming",
+    "url": "https://www.youtube.com/watch?v=zLC3mySaxd8"
+   },
+   {
+    "verdict": "S Tier Enabler",
+    "note": "Massively revitalizes Toxin teams with exceptional AoE damage and fast dungeon clearing.",
+    "date": "2026-08-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=V2r59itUDMA"
+   }
+  ],
+  "Sleight": [
+   {
+    "verdict": "Essential Toxin Debuffer",
+    "note": "Inflicts Potent Medicine and maintains consistent Toxin debuffs on the boss.",
+    "date": "2026-11-11",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=21S3OQZt1f4"
+   },
+   {
+    "verdict": "Top Toxin Derivative DPS",
+    "note": "Essential derivative damage dealer; built offensively with Enlightenment, Accuracy, and Attack.",
+    "date": "2026-11-09",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=pgksOlyG-E8"
+   },
+   {
+    "verdict": "Top Toxin DPS vs Guinavivre",
+    "note": "Pumps out huge damage against Guinavivre even at Inspiration 0.",
+    "date": "2026-11-06",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=M1l8V-XyEvs"
+   },
+   {
+    "verdict": "Strong support/buffer",
+    "note": "Provides attack sharing buffs to neighboring units in the Vortex III formation.",
+    "date": "2026-11-02",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/shorts/3uP3hZ785mM"
+   },
+   {
+    "verdict": "Vortex III Toxin teammate",
+    "note": "Included in the five-man Chinese server Toxin lineup alongside Serpentemis and Twitch.",
+    "date": "2026-11-02",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/shorts/K78RaGNiNKI"
+   },
+   {
+    "verdict": "Strong Poison damage dealer",
+    "note": "Contributes steady Poison application and damage scaling against the multiple boss units.",
+    "date": "2026-11-01",
+    "channel": "Skyasterix Gaming",
+    "url": "https://www.youtube.com/watch?v=S_vEulOev_0"
+   },
+   {
+    "verdict": "Toxin buffer & sub-DPS",
+    "note": "Uses exclusive artifact Shell of Gilded Doom, Might of the Inferno, and Whirling Edge to boost allied damage.",
+    "date": "2026-11-01",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=O28V9w5PJdA"
+   },
+   {
+    "verdict": "Strong Toxin DPS",
+    "note": "Built with high Attack, Accuracy, exclusive artifact, and derivative damage gear.",
+    "date": "2026-10-28",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=F8lJPCbJwgs"
+   },
+   {
+    "verdict": "Poison DPS",
+    "note": "Provides consistent Poison damage and debuffs alongside Serpentemis in the Vortex.",
+    "date": "2026-10-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=AdMJvbFJWS0"
+   },
+   {
+    "verdict": "Strong Poison sub-DPS",
+    "note": "Equipped with the Blazeland Followers set to stack damage rotation bonuses.",
+    "date": "2026-10-26",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=ZTBevjYvrOo"
+   },
+   {
+    "verdict": "Core Poison DPS / debuffer",
+    "note": "Requires over 250 Resistance to survive Tamar's targeted damage while stacking Accuracy and offensive stats.",
+    "date": "2026-10-25",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=NY1zsbF-vRM"
+   },
+   {
+    "verdict": "core Toxin enabler",
+    "note": "A primary synergy partner required to make Toxin compositions function at their peak.",
+    "date": "2026-10-24",
+    "channel": "Suzi Plays",
+    "url": "https://www.youtube.com/watch?v=scDahdyomBc"
+   },
+   {
+    "verdict": "Toxin damage/debuff support",
+    "note": "Equipped with exclusive artifact and built with Accuracy and Enlightenment.",
+    "date": "2026-10-19",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=Z46YlrpnOfc"
+   },
+   {
+    "verdict": "Top Toxin support/enabler",
+    "note": "Provides vital Toxin and Potent Medicine application; equipped with Three-Ears Emblem to amplify team elemental damage.",
+    "date": "2026-10-15",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=SKgs45pKE8I"
+   },
+   {
+    "verdict": "Core Poison/Toxin enabler",
+    "note": "Build full Attack and aim for 160+ Accuracy.",
+    "date": "2026-10-14",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=2O4qJ3I9erI"
+   },
+   {
+    "verdict": "Key Toxin Buffer",
+    "note": "Equipped with Shell of Gilded Doom artifact and high Attack to share stats via Everburning Netherfire gear.",
+    "date": "2026-10-14",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=OggIn5hmQpA"
+   },
+   {
+    "verdict": "High priority for I5",
+    "note": "A core Poison hero that the creator spent 950 dice to upgrade from Inspiration 3 to Inspiration 5.",
+    "date": "2026-10-14",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=RIMqZDo7CUU"
+   },
+   {
+    "verdict": "Essential derivative amplifier",
+    "note": "Carries the Death Record set to increase derivative damage taken by the boss by 20%.",
+    "date": "2026-10-14",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=q-5Iqzt_0VI"
+   },
+   {
+    "verdict": "Crucial Toxin support DPS",
+    "note": "Inflicts Potent Medicine and shares 15% Attack and Defense to adjacent allies in the row when equipped with Everlasting Candleflame armor.",
+    "date": "2026-10-14",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=qUrDNsAZh-A"
+   },
+   {
+    "verdict": "Premier Toxin DPS",
+    "note": "Provides massive team damage scaling with an Alignment set, gaining roughly 40% damage increase from Inspiration 5.",
+    "date": "2026-10-07",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=VEwv_TEaZkc"
+   },
+   {
+    "verdict": "DPS and debuffer in Toxin team",
+    "note": "Equipped with Puppeteer set and built with attack and accuracy.",
+    "date": "2026-10-07",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=gAoX3-kT1mo"
+   },
+   {
+    "verdict": "Support/DPS in Toxin Crisis Rally lineup",
+    "note": "Dealt over 310 million damage (6.4% of team total) to help achieve S-rank.",
+    "date": "2026-10-07",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=rwe-Dd4l8ps"
+   },
+   {
+    "verdict": "Essential Poison buffer",
+    "note": "Should be built with high Attack and Molten Surge/Whirling Edge gear instead of Puppeteer so he can share massive attack buffs with Serpentemis and Twitch.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=95WHT5Xp_1k"
+   },
+   {
+    "verdict": "Secondary Toxin DPS",
+    "note": "Build with as much Attack as possible.",
+    "date": "2026-09-28",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=GijTOGTEjHI"
+   },
+   {
+    "verdict": "Toxin DPS",
+    "note": "Build full Attack.",
+    "date": "2026-09-28",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=Hb1nVIAgoTE"
+   },
+   {
+    "verdict": "Essential Toxin support",
+    "note": "Shares Attack with the primary DPS and applies derivative damage debuffs.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=HqVIrNsj0jg"
+   },
+   {
+    "verdict": "Core Toxin team partner",
+    "note": "Provides passive synergy that accelerates poison procs alongside Serpentemis.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=Jqs7wSn2_p0"
+   },
+   {
+    "verdict": "Toxin enabler",
+    "note": "Positioned strategic in the front line to maximize team synergy and attack buffs.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=KhU12r5-B1E"
+   },
+   {
+    "verdict": "Recommended exchange pick",
+    "note": "Targeted for duplicate acquisition in upcoming shop rotations once key inspirations are finished.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=Msd6wfUmCgM"
+   },
+   {
+    "verdict": "Meta Toxin DPS",
+    "note": "Built with Shell of Gilded Doom artifact and Puppeteer set for 18s rotation tuning; passive ignores enemy resistance.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=Qk0ejZ_Wiaw"
+   },
+   {
+    "verdict": "Top priority for Toxin teams",
+    "note": "His exclusive artifact Shell of Gilded Doom ignores resistance, applies extra Toxin stacks, and increases Poison Derivative Damage by up to 50%.",
+    "date": "2026-09-28",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=RKTCWfPI9og"
+   },
+   {
+    "verdict": "Key Toxin enabler",
+    "note": "Uses Puppeteer set and exclusive artifact to extend debuff durations across the fight.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=SBgHAdyNZP4"
+   },
+   {
+    "verdict": "Core Poison DPS",
+    "note": "Requires high Attack power and precise ultimate skill timing to keep up continuous debuffs and damage.",
+    "date": "2026-09-28",
+    "channel": "Skyasterix Gaming",
+    "url": "https://www.youtube.com/watch?v=WV_QTnx4_K0"
+   },
+   {
+    "verdict": "Strong Toxin DPS hero",
+    "note": "Key Toxin hero whose inspirations can also be built via the Temporal Corridor shop alongside Lothair.",
+    "date": "2026-09-28",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=cJ24cJf9Oh0"
+   },
+   {
+    "verdict": "Target exclusive artifact",
+    "note": "His exclusive artifact increases derivative damage by 50%, making it a top purchase target for Poison/Serpentemis teams.",
+    "date": "2026-09-28",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=dwKINIZQIxg"
+   },
+   {
+    "verdict": "Toxin poison applier",
+    "note": "Wears Puppeteer's Inspiration and Golden Antlers; can be replaced by other poison appliers like Corrin.",
+    "date": "2026-09-28",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=em_1Gc-pIuY"
+   },
+   {
+    "verdict": "Core Devitalization speed run hero",
+    "note": "Contributes to extremely fast clear times in level 79 speed run comps.",
+    "date": "2026-09-28",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=euHy0xtygTo"
+   },
+   {
+    "verdict": "Core Toxin DPS",
+    "note": "Great complementary legendary DPS unit for Toxin team compositions.",
+    "date": "2026-09-28",
+    "channel": "Volkin Dragonheir",
+    "url": "https://www.youtube.com/watch?v=jRRemeIzzrc"
+   },
+   {
+    "verdict": "Attack buffer",
+    "note": "Provides massive Attack boosts to the team; built with high Attack stats and requires her exclusive artifact.",
+    "date": "2026-09-28",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=qIbUgvin3qg"
+   },
+   {
+    "verdict": "Toxin DPS",
+    "note": "Needs defensive gear adjustments like Defense or HP% chest pieces to avoid dying early in Difficulty 3.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=r9NRq3hlJvY"
+   }
+  ],
+  "Twitch": [
+   {
+    "verdict": "Core Toxin Sub-DPS and Debuffer",
+    "note": "Provides additional Toxin debuffs and deals extra damage against targets affected by Toxin.",
+    "date": "2026-11-11",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=21S3OQZt1f4"
+   },
+   {
+    "verdict": "Budget Toxin substitute",
+    "note": "Effective alternative to Lothair, scoring over 5 billion damage in Toxin comps.",
+    "date": "2026-11-08",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=4zWG2dQRL28"
+   },
+   {
+    "verdict": "Primary Toxin damage dealer",
+    "note": "Delivers massive damage in full mythical gear; testing gear with derivative damage bonuses helped push damage even further.",
+    "date": "2026-11-02",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=XfUqC3GwXBk"
+   },
+   {
+    "verdict": "Core debuffer/DPS for Vortex III",
+    "note": "Requires around 200 Accuracy to consistently land debuffs against the increased boss resistance.",
+    "date": "2026-11-02",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/shorts/3uP3hZ785mM"
+   },
+   {
+    "verdict": "Vortex III Toxin teammate",
+    "note": "Runs as part of the primary Toxin squad for consistent poison application and damage.",
+    "date": "2026-11-02",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/shorts/K78RaGNiNKI"
+   },
+   {
+    "verdict": "Solid budget Toxin DPS",
+    "note": "Serves as an effective substitute for Lothair in a 2.38B damage Poison setup.",
+    "date": "2026-11-01",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=0ZADnrn_jh0"
+   },
+   {
+    "verdict": "Toxin buffer & sub-DPS",
+    "note": "Equipped with Might of the Inferno and Everlasting Candleflame to grant derivative damage and share stats with Serpentemis.",
+    "date": "2026-11-01",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=O28V9w5PJdA"
+   },
+   {
+    "verdict": "Strong support buffer",
+    "note": "Utilized with a Puppeteer set, boosting team Attack while maintaining high Accuracy.",
+    "date": "2026-10-30",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/shorts/z4PK6Oze8QQ"
+   },
+   {
+    "verdict": "Desired chest pick",
+    "note": "Mentioned as a favored target from the Legendary Hero Option Chest I.",
+    "date": "2026-10-29",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=QY6-x79h2QE"
+   },
+   {
+    "verdict": "Essential Toxin enabler",
+    "note": "Requires 200+ Accuracy and derivative damage boosting gear.",
+    "date": "2026-10-28",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=F8lJPCbJwgs"
+   },
+   {
+    "verdict": "Strong Corrosion DPS substitute",
+    "note": "Built for full damage equipped with the Swamp Toadstool artifact to boost Corrosion output.",
+    "date": "2026-10-28",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=95O1rcCjYgw"
+   },
+   {
+    "verdict": "Core poison enabler",
+    "note": "Built with Eluia's Fang to reliably apply and sustain Toxin stacks on the boss.",
+    "date": "2026-10-28",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=QmTkNCoEHEk"
+   },
+   {
+    "verdict": "Top Toxin DPS",
+    "note": "Core damage dealer in the 2.4B top Toxin team; needs around 300 Accuracy for Phase 2.",
+    "date": "2026-10-28",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=urx_maL6O6s"
+   },
+   {
+    "verdict": "High single-target Poison DPS",
+    "note": "Scales heavily with high Attack and Enlightenment stats.",
+    "date": "2026-10-26",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=ZTBevjYvrOo"
+   },
+   {
+    "verdict": "recommended 3rd DPS",
+    "note": "Serves as an ideal third damage dealer in standard Toxin lineups.",
+    "date": "2026-10-24",
+    "channel": "Suzi Plays",
+    "url": "https://www.youtube.com/watch?v=scDahdyomBc"
+   },
+   {
+    "verdict": "Toxin debuffer",
+    "note": "Acts as the Witch's Remains debuff applier wearing Mystic Conch.",
+    "date": "2026-10-19",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=Z46YlrpnOfc"
+   },
+   {
+    "verdict": "Strong Legendary Toxin DPS",
+    "note": "Acts as a primary poison damage dealer in Toxin team compositions.",
+    "date": "2026-10-19",
+    "channel": "Volkin Dragonheir",
+    "url": "https://www.youtube.com/watch?v=Cz1vkasa9c0"
+   },
+   {
+    "verdict": "Crucial Toxin DPS/debuffer",
+    "note": "Built with Misty Conch and elevated Resistance to ensure clean 15-second skill cycling against Mekkatorque.",
+    "date": "2026-10-18",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=hMbPhfixtdg"
+   },
+   {
+    "verdict": "Solid Poison team option",
+    "note": "A very capable Poison archetype unit worth having if missing from your roster.",
+    "date": "2026-10-14",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=21_BZz5E0XM"
+   },
+   {
+    "verdict": "Essential Toxin support/enabler",
+    "note": "Contributed over 250M damage; build with full Accuracy and Skill Haste.",
+    "date": "2026-10-14",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=2O4qJ3I9erI"
+   },
+   {
+    "verdict": "Accuracy & Defense Penalty Support",
+    "note": "Built with Misty Conch for Defense Penalty and max Accuracy to share with teammates via the Bone Resonance set.",
+    "date": "2026-10-14",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=OggIn5hmQpA"
+   },
+   {
+    "verdict": "Great Summon team enabler",
+    "note": "Provides excellent synergy when building secondary teams for multi-team boss fights.",
+    "date": "2026-10-14",
+    "channel": "Volkin Dragonheir",
+    "url": "https://www.youtube.com/watch?v=p6_LHvgp4bs"
+   },
+   {
+    "verdict": "Viable budget replacement",
+    "note": "Can substitute for Lothair to support Serpentemis as the main carry if Lothair is missing.",
+    "date": "2026-10-14",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=qUrDNsAZh-A"
+   },
+   {
+    "verdict": "Core poison damage dealer",
+    "note": "A vital core DPS pick needed to complete and optimize Toxin/Poison team compositions.",
+    "date": "2026-10-14",
+    "channel": "Volkin Dragonheir",
+    "url": "https://www.youtube.com/watch?v=sWDYLD9S2yE"
+   },
+   {
+    "verdict": "Key Toxin damage dealer",
+    "note": "Built with the Alignment gear set, prioritizing Attack and heavy Accuracy for reliable debuff application.",
+    "date": "2026-10-07",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=VEwv_TEaZkc"
+   },
+   {
+    "verdict": "High Priority Meta Hero",
+    "note": "Core unit worth keeping duplicate copies of to reach Inspiration 5 for main teams.",
+    "date": "2026-10-07",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=kmI10_fvl-c"
+   },
+   {
+    "verdict": "Solid Toxin enabler for Crisis Rally",
+    "note": "Contributed over 380 million damage (7.8% of team total).",
+    "date": "2026-10-07",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=rwe-Dd4l8ps"
+   },
+   {
+    "verdict": "Derivative damage enabler",
+    "note": "Great user of the Enwinding Flesh set to apply a 20% derivative damage increase mark on targets.",
+    "date": "2026-09-30",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=o0Y6OJRRPh8"
+   },
+   {
+    "verdict": "Core Toxin enabler and support DPS",
+    "note": "Consistently applies Toxin and boosts team elemental/derivative damage when using Three-Ears Emblem or Erwinding Flesh set.",
+    "date": "2026-09-30",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=ydl2Hi0lAy8"
+   },
+   {
+    "verdict": "Core Poison DPS and buffer",
+    "note": "Shares high accuracy with the team and needs over 1,000 defense and 30k+ HP to consistently survive Vortex hits.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=95WHT5Xp_1k"
+   },
+   {
+    "verdict": "Best non-exclusive Toxin hero",
+    "note": "Top-tier Toxin applier when paired with Mystic Conch and Boomerang artifact.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=AgUrbW-yrVc"
+   },
+   {
+    "verdict": "Toxin enabler and debuffer",
+    "note": "Focus on high Accuracy to apply debuffs reliably.",
+    "date": "2026-09-28",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=GijTOGTEjHI"
+   },
+   {
+    "verdict": "Core Toxin DPS / Puppeteer Carrier",
+    "note": "Carries the 3-piece Puppeteer set to grant ultimate energy to poison allies and accelerate team rotation to 18s.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=IPIbglFr7r0"
+   },
+   {
+    "verdict": "Strong secondary Toxin DPS",
+    "note": "Applies high stacks of Toxin; excels when equipped with Iluya's Fang to offset low base infliction chances.",
+    "date": "2026-09-28",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=JdV2F-ncZFI"
+   },
+   {
+    "verdict": "Essential single-target and boss-oriented Toxin enabler",
+    "note": "Applies consistent poison stacks needed to constantly trigger Serpentemis's damage in boss content like Temporal Vortex.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=Jqs7wSn2_p0"
+   },
+   {
+    "verdict": "Budget Toxin substitute",
+    "note": "Can replace Lothair if unavailable, maintaining around 5.6 billion damage.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=Kednd9zRcJ8"
+   },
+   {
+    "verdict": "Accuracy buffer for Toxin team",
+    "note": "Built with maximum Accuracy to trigger the Temporal Vortex boss mechanic that grants team damage reduction based on highest Accuracy.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=KhU12r5-B1E"
+   },
+   {
+    "verdict": "Misty Conch or Witch's Remains user for Toxin",
+    "note": "Misty Conch works slightly better for Twitch, but Witch's Remains serves as a solid alternative.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=Ncih4LERkxM"
+   },
+   {
+    "verdict": "Toxin Debuffer & Accuracy Buffer",
+    "note": "Equipped with Ilhuya's Fang artifact and Bone Resonance set with maxed Accuracy to share Accuracy with the team.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=Qk0ejZ_Wiaw"
+   },
+   {
+    "verdict": "Top Toxin Legendary",
+    "note": "Used by high-ranking leaderboard players to achieve massive boss damage in Temporal Vortex.",
+    "date": "2026-09-28",
+    "channel": "Volkin Dragonheir",
+    "url": "https://www.youtube.com/watch?v=UloYhjHwdFo"
+   },
+   {
+    "verdict": "Core Poison DPS",
+    "note": "Requires high Attack power and strict ultimate timing alignment within the 18-second team rotation.",
+    "date": "2026-09-28",
+    "channel": "Skyasterix Gaming",
+    "url": "https://www.youtube.com/watch?v=WV_QTnx4_K0"
+   },
+   {
+    "verdict": "Primary Poison DPS",
+    "note": "Requires tight skill timing to stack over 30 poison ticks on the boss.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=dZkp2hy0fhc"
+   },
+   {
+    "verdict": "Toxin derivative DPS",
+    "note": "Wears Ilhuya's Fang, Whirling Edge, and Bardic Inspiration weapon to maximize poison debuff landing and damage output.",
+    "date": "2026-09-28",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=em_1Gc-pIuY"
+   },
+   {
+    "verdict": "Core Devitalization speed run DPS",
+    "note": "Provides high damage output in sub-12 second dungeon clear teams at level 79.",
+    "date": "2026-09-28",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=euHy0xtygTo"
+   },
+   {
+    "verdict": "Core Toxin enabler",
+    "note": "Maximizes team damage using Angelic Alliance artifact or Iluya's Fang as an alternative.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=h9SJ-KM7MWc"
+   },
+   {
+    "verdict": "Toxin enabler for Toxic team",
+    "note": "Uses Illuya's Fang and Darknight Canticle to maximize Toxin application rate across all spawned eggs.",
+    "date": "2026-09-28",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=hG8YnV5WAqk"
+   },
+   {
+    "verdict": "Dream pull target",
+    "note": "Highlighted as the absolute best pull target from the summon pool, though odds are diluted.",
+    "date": "2026-09-28",
+    "channel": "Volkin Dragonheir",
+    "url": "https://www.youtube.com/watch?v=i5zJZ7GF9FM"
+   },
+   {
+    "verdict": "Core Toxin DPS",
+    "note": "Solid legendary DPS choice to pair with Serpentemis in Toxin teams.",
+    "date": "2026-09-28",
+    "channel": "Volkin Dragonheir",
+    "url": "https://www.youtube.com/watch?v=jRRemeIzzrc"
+   },
+   {
+    "verdict": "Top Toxin Enabler & Support",
+    "note": "Applies consistent Toxin stacks; best paired with Illya's Fang artifact to raise Toxin infliction chance near 95%.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=pVJgz7nuDhw"
+   },
+   {
+    "verdict": "Top Vow of Companionship Pick",
+    "note": "Recommended Toxin DPS choice from the $4.99 Legendary Hero Option Chest to build toward a Serpentemis comp.",
+    "date": "2026-09-28",
+    "channel": "Suzi Plays",
+    "url": "https://www.youtube.com/watch?v=qYeXj-9Kuho"
+   },
+   {
+    "verdict": "high-damage Toxin DPS",
+    "note": "Built with pure Attack and survivability rather than high Accuracy.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=r9NRq3hlJvY"
+   },
+   {
+    "verdict": "Crucial Toxin hero",
+    "note": "An essential component of competitive Toxin teams that benefits greatly from Inspiration 5.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=rQ0_GiS1JTg"
+   }
+  ],
+  "Stegamoffyn": [
+   {
+    "verdict": "Top Healer and Utility Debuffer",
+    "note": "Provides Resurrection Block, debuffs, and accounts for 77.9% of the team's healing.",
+    "date": "2026-11-11",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=21S3OQZt1f4"
+   },
+   {
+    "verdict": "Optimal Toxin debuffer",
+    "note": "Provides maximum accuracy and debuff application, outperforming alternatives when Child of Chaos has Inspiration 2.",
+    "date": "2026-11-06",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=b9L3kRlw8vU"
+   },
+   {
+    "verdict": "Viable offensive option but lower survivability",
+    "note": "Provides a useful Attack aura and poison debuffs, but the team dies much earlier compared to running Reytah.",
+    "date": "2026-11-02",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=XfUqC3GwXBk"
+   },
+   {
+    "verdict": "Top-tier Vortex III pick",
+    "note": "Previously used in Child of Chaos setups before Reytah was showcased as a comparable alternative.",
+    "date": "2026-11-02",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/shorts/3uP3hZ785mM"
+   },
+   {
+    "verdict": "Essential sustain and support in Vortex III",
+    "note": "Keeps the Toxin team alive through the fight, though players with low inspiration on him need to compensate with defensive gear stats.",
+    "date": "2026-11-02",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/shorts/K78RaGNiNKI"
+   },
+   {
+    "verdict": "Key pick for Toxin team",
+    "note": "Provides solid utility and damage synergy in Toxin comps for Vortex 2 and Vortex 3.",
+    "date": "2026-10-30",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/shorts/v07uYiQIt_M"
+   },
+   {
+    "verdict": "Core Toxic healer and enabler",
+    "note": "Built with defensive/healing set pieces to sustain the Toxic team in Vortex.",
+    "date": "2026-10-26",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=ZTBevjYvrOo"
+   },
+   {
+    "verdict": "High-value Poison debuffer and sustain",
+    "note": "Substantially outperformed Reytah in Temporal Vortex, elevating team damage from 340M to 534M when equipped with Misty Conch.",
+    "date": "2026-10-25",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=MzK7B1nM5ys"
+   },
+   {
+    "verdict": "Decent DPS when inspired",
+    "note": "A legendary damage dealer who benefits heavily from full inspiration levels.",
+    "date": "2026-10-14",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=21_BZz5E0XM"
+   },
+   {
+    "verdict": "Support healer and debuffer",
+    "note": "Provides team sustain and debuffs; build for full Attack and Skill Haste.",
+    "date": "2026-10-14",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=2O4qJ3I9erI"
+   },
+   {
+    "verdict": "Alternative defensive support",
+    "note": "Provides an Attack aura and survivability boost if struggling to survive with a full-offensive lineup.",
+    "date": "2026-10-14",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=qUrDNsAZh-A"
+   },
+   {
+    "verdict": "Meta in Temporal Vortex",
+    "note": "Received a rework adding a healing passive when damaging debuffed enemies, making him excellent alongside Child of Chaos.",
+    "date": "2026-10-07",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=kmI10_fvl-c"
+   },
+   {
+    "verdict": "Outclassed / Obsolete",
+    "note": "Useless in Poison Temporal Vortex if you have Reytah, as he cannot cleanse the attack debuffs properly.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=95WHT5Xp_1k"
+   },
+   {
+    "verdict": "Toxin DPS",
+    "note": "Benefits significantly from elemental ascension on gear pieces to push higher overall damage.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=KhU12r5-B1E"
+   },
+   {
+    "verdict": "Key Toxin Support & Healer",
+    "note": "Uses Misty Conch artifact to stack debuffs and relies on high ATK to scale his reworked healing.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=Qk0ejZ_Wiaw"
+   },
+   {
+    "verdict": "Surprising top pick in Toxin teams",
+    "note": "Referred to as the 'blueberry muffin,' he provides consistent survivability and utility that lets the Toxin team easily surpass 13 billion damage.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=okhvNfjpOsY"
+   },
+   {
+    "verdict": "conditional Toxin debuffer",
+    "note": "Requires Inspiration 2 to reduce his passive interval and Inspiration 5 to be truly viable over alternative picks.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=r9NRq3hlJvY"
+   }
+  ],
+  "Child of Chaos": [
+   {
+    "verdict": "High HP Defensive Support",
+    "note": "Built with over 94,000 HP to provide supplemental healing (19.1%) and survivability buffs.",
+    "date": "2026-11-11",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=21S3OQZt1f4"
+   },
+   {
+    "verdict": "Core utility hero",
+    "note": "Clears all 60 stages at base inspiration with no extra copies needed.",
+    "date": "2026-11-10",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/shorts/Md_N5BqS1qU"
+   },
+   {
+    "verdict": "Core frontline tank and support",
+    "note": "Acts as the frontline anchor and healer using Moonlight's Grace and Monelisse's Teardrop to prevent one-shots.",
+    "date": "2026-11-10",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=A3KEQqeUo6U"
+   },
+   {
+    "verdict": "Best-in-slot Support",
+    "note": "Mitigates the boss's Attack Penalty debuff and can solo sustain team survivability even at low inspiration.",
+    "date": "2026-11-09",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=pgksOlyG-E8"
+   },
+   {
+    "verdict": "Top tier support",
+    "note": "Extremely versatile and powerful support hero competing for top support in the game alongside Anneliesis.",
+    "date": "2026-11-08",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=RQs1H4k4_tk"
+   },
+   {
+    "verdict": "Core Toxin enabler",
+    "note": "Drives Toxin team derivative damage; performs best with Puppeteer gear and Inspiration 2.",
+    "date": "2026-11-06",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=b9L3kRlw8vU"
+   },
+   {
+    "verdict": "Essential Corrosion support",
+    "note": "Runs the Puppeteer set to support the team without needing high inspiration levels.",
+    "date": "2026-11-06",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=M1l8V-XyEvs"
+   },
+   {
+    "verdict": "High-end Vortex support",
+    "note": "Used in top Chinese server Corrosion Vortex team setups.",
+    "date": "2026-11-05",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=gLGTaQG_B0s"
+   },
+   {
+    "verdict": "Radiance Attack Buffer",
+    "note": "Equipped with the Angelic Alliance artifact to boost team attack.",
+    "date": "2026-11-03",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/shorts/iyc1c1lve5o"
+   },
+   {
+    "verdict": "Mandatory sustain support",
+    "note": "Essential at Inspiration 2 for healing and Attack Down debuffs; works best on default skill timing to apply healing and Attack Down immediately.",
+    "date": "2026-11-02",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=XfUqC3GwXBk"
+   },
+   {
+    "verdict": "Key frontline enabler for Vortex III Toxin team",
+    "note": "Positioned at the front line and geared with a Puppeteer set to tank and support the squad.",
+    "date": "2026-11-02",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/shorts/3uP3hZ785mM"
+   },
+   {
+    "verdict": "Key support for Toxin Vortex III survivability",
+    "note": "Enables the Toxin team to survive the full duration of the Vortex III boss battle when equipped with Puppeteer.",
+    "date": "2026-11-02",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/shorts/K78RaGNiNKI"
+   },
+   {
+    "verdict": "Essential Toxin support/battery",
+    "note": "Equipped with Puppeteer's Inspiration and timed to cast ultimate at 9.0s to feed energy to allies so team rotations start earlier.",
+    "date": "2026-11-01",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=O28V9w5PJdA"
+   },
+   {
+    "verdict": "Viable at Inspiration 0 or 1",
+    "note": "Functions effectively in Vortex comps without requiring specialized artifacts or high inspiration.",
+    "date": "2026-10-30",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/shorts/v07uYiQIt_M"
+   },
+   {
+    "verdict": "Core enabler for Toxin/Corrosion",
+    "note": "Requires high Skill Haste (around 73 to 78) to maximize efficiency, especially at Inspiration 5.",
+    "date": "2026-10-29",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=9WZfkPWafpo"
+   },
+   {
+    "verdict": "Versatile support/DPS",
+    "note": "Configured to Ice element for Permafrost affinity, providing periodic debuff dispels and Defense Penalty II via Witch's Remains.",
+    "date": "2026-10-29",
+    "channel": "Fastidious Dragonheir",
+    "url": "https://www.youtube.com/watch?v=EYvHCBvb8X4"
+   },
+   {
+    "verdict": "Essential Toxin support",
+    "note": "Can solo-sustain at Inspiration 2, but at Inspiration 0 needs a secondary support like Reytah; equipped with Golden Antlers and Puppeteer set.",
+    "date": "2026-10-28",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=F8lJPCbJwgs"
+   },
+   {
+    "verdict": "Solo Poison Support at Inspiration 2",
+    "note": "Can solo heal the Poison team only if he has Inspiration 2 unlocked.",
+    "date": "2026-10-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=AdMJvbFJWS0"
+   },
+   {
+    "verdict": "Key utility support",
+    "note": "Provides additional cleanses and debuffs using Whirling Doom; stack Attack and survivability.",
+    "date": "2026-10-28",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=95O1rcCjYgw"
+   },
+   {
+    "verdict": "Flexible support",
+    "note": "Can switch elements on demand (such as Ice or Radiance) and ignores enemy resistance with Gaze of Chaos, making him build-friendly without requiring accuracy.",
+    "date": "2026-10-27",
+    "channel": "Fastidious Dragonheir",
+    "url": "https://www.youtube.com/watch?v=uPT0q943mYg"
+   },
+   {
+    "verdict": "Top Toxin enabler",
+    "note": "Key partner alongside Serpentemis in high-investment Toxin lineups.",
+    "date": "2026-10-27",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=YKXKm7v-bJA"
+   },
+   {
+    "verdict": "Core support in Aura, Corrosion, and Shadow teams",
+    "note": "Requires 80+ Skill Haste and either high Accuracy or the healing talent.",
+    "date": "2026-10-26",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=ArAmzrTA6nQ"
+   },
+   {
+    "verdict": "Essential Toxic support tank",
+    "note": "Equipped with Puppeteer set and high HP to tank hits and boost team damage.",
+    "date": "2026-10-26",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=ZTBevjYvrOo"
+   },
+   {
+    "verdict": "Core Corrosion support",
+    "note": "Built with maximum HP, Puppeteer set, accuracy, and skill haste to enable a 15-second team rotation.",
+    "date": "2026-10-26",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=1yIYhy_Ce_w"
+   },
+   {
+    "verdict": "Top Poison support",
+    "note": "Switched to Poison element with Dragonbone Catalyst and Puppeteer set to boost team damage.",
+    "date": "2026-10-25",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=NY1zsbF-vRM"
+   },
+   {
+    "verdict": "Key Vortex sustain support",
+    "note": "Built with the Puppeteer set at Inspiration 5, requiring 48 to 55 Skill Haste and healing/accuracy talents to sustain without defensive sets.",
+    "date": "2026-10-23",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=yblGYoVUm-M"
+   },
+   {
+    "verdict": "Versatile support and DPS",
+    "note": "Highly versatile unit capable of element shifting, healing, supporting, and executing enemies.",
+    "date": "2026-10-22",
+    "channel": "Fastidious Dragonheir",
+    "url": "https://www.youtube.com/watch?v=k73hjQA6h1M"
+   },
+   {
+    "verdict": "Solo support for Toxin",
+    "note": "Built with Rift Hourglass for Skill Haste and sufficient Accuracy to guarantee debuffs without needing an exclusive artifact.",
+    "date": "2026-10-20",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=VMqR9QYdHaI"
+   },
+   {
+    "verdict": "Core cleanser and buffer for Tamar",
+    "note": "Uses the Puppeteer set and high Attack to reliably cleanse crowd control and debuffs from the team.",
+    "date": "2026-10-20",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=iQN8FFgvVTk"
+   },
+   {
+    "verdict": "Core Toxin enabler",
+    "note": "Works effectively at Inspiration 0 or 1; equipped with Puppeteer set and Chest of Radiance.",
+    "date": "2026-10-19",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=Z46YlrpnOfc"
+   },
+   {
+    "verdict": "Meta PvP support",
+    "note": "Built with high Skill Haste and Berserker Mask to quickly cycle utility and defenses.",
+    "date": "2026-10-19",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=a5s7exfCy4U"
+   },
+   {
+    "verdict": "Excellent utility support",
+    "note": "Provides incredible passive cleansing and control that greatly boosts team survival against bosses.",
+    "date": "2026-10-19",
+    "channel": "Volkin Dragonheir",
+    "url": "https://www.youtube.com/watch?v=Cz1vkasa9c0"
+   },
+   {
+    "verdict": "Crucial high-end enabler",
+    "note": "Powers top leaderboard comps to 58 billion+ damage when utilized at Inspiration 5 in Dauntless and Corrosion setups.",
+    "date": "2026-10-18",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=yTI3C6ck-Rk"
+   },
+   {
+    "verdict": "S-tier universal support",
+    "note": "Provides team-wide buffs, debuffs, and cleanses, while his Death's Portent deals massive bonus damage scaling entirely off his Attack stat.",
+    "date": "2026-10-15",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=SKgs45pKE8I"
+   },
+   {
+    "verdict": "Top budget survival substitute",
+    "note": "Can replace Whisk at lower inspirations if your team is wiping before the timer ends.",
+    "date": "2026-10-14",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=3KZIsOF6xYY"
+   },
+   {
+    "verdict": "Best Lothair Substitute",
+    "note": "Provides Control Immunity and Ethereal team buffs, allowing teams to survive and deal heavy damage without Lothair.",
+    "date": "2026-10-14",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=OggIn5hmQpA"
+   },
+   {
+    "verdict": "Top tier universal support",
+    "note": "Provides control immunity, AoE damage immunity, and steady buff/debuff dispels across multiple Continental Challenge bosses.",
+    "date": "2026-10-14",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=q-5Iqzt_0VI"
+   },
+   {
+    "verdict": "Best-in-slot cleanser/healer",
+    "note": "Provides passive and active cleansing, healing, and Attack Penalty II to keep the team alive without needing manual skill syncing.",
+    "date": "2026-10-14",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=qUrDNsAZh-A"
+   },
+   {
+    "verdict": "Best support for Poison/Toxin teams",
+    "note": "Provides team survivability with extra healing at Inspiration 2 and enables the Poison composition to break 6 billion damage.",
+    "date": "2026-10-14",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=vPergNPCG8I"
+   },
+   {
+    "verdict": "Continental Challenge example hero",
+    "note": "Heroes used against one Continental Challenge boss cannot be reused against any other boss.",
+    "date": "2026-10-07",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=3kZRY_brdWU"
+   },
+   {
+    "verdict": "Core Ice DPS",
+    "note": "Highlighted during rune optimization for gear and dungeon progression.",
+    "date": "2026-10-07",
+    "channel": "Fastidious Dragonheir",
+    "url": "https://www.youtube.com/watch?v=853xzAqGBbQ"
+   },
+   {
+    "verdict": "High tier utility pick for Temporal Vortex III",
+    "note": "Provides vital cleanses against the boss's Defense Penalty debuff, offers AoE damage mitigation, and amplifies healing even without his exclusive artifact.",
+    "date": "2026-10-07",
+    "channel": "Volkin Dragonheir",
+    "url": "https://www.youtube.com/watch?v=FJ-KcKgrTcg"
+   },
+   {
+    "verdict": "Requires heavy investment for peak PvE performance",
+    "note": "Inspiration 3 gives a 30% Attack boost suitable for PvP and Fey Meander, but Inspiration 5 is targeted for optimal PvE value.",
+    "date": "2026-10-07",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=KXlWLBT9M5w"
+   },
+   {
+    "verdict": "Core Toxin team anchor",
+    "note": "Equipped with Puppetmaster and built with Resistance; works at Inspiration 2, though high Inspiration increases consistency.",
+    "date": "2026-10-07",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=VEwv_TEaZkc"
+   },
+   {
+    "verdict": "Aura team support/tank",
+    "note": "Maintains team stability and rotation timing timed at 11.5s first cast.",
+    "date": "2026-10-07",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=VMnggAEkhNU"
+   },
+   {
+    "verdict": "Key Thunderbolt buffer",
+    "note": "Build with maximum Skill Haste and high Attack, as his Attack stat now scales his damage buff after the recent update.",
+    "date": "2026-10-07",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=e3O_XZvWCPo"
+   },
+   {
+    "verdict": "High-tier damage dealer in Toxin team",
+    "note": "Requires exclusive artifact Dragonbone Catalyst; increasing inspiration from level 2 to 5 increased overall team damage by roughly 1 billion.",
+    "date": "2026-10-07",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=gAoX3-kT1mo"
+   },
+   {
+    "verdict": "top-tier versatile support",
+    "note": "Passively dispels debuffs/buffs every 5 seconds to heal allies, while providing team-wide Control Immunity and Ethereal AoE damage protection.",
+    "date": "2026-10-07",
+    "channel": "Fastidious Dragonheir",
+    "url": "https://www.youtube.com/watch?v=gMlGFaRzzQM"
+   },
+   {
+    "verdict": "Essential Aura Buffer/Enabler",
+    "note": "Contributes to overall team rotation and damage scaling.",
+    "date": "2026-10-07",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=ql--QLIbiZQ"
+   },
+   {
+    "verdict": "Aura support",
+    "note": "Provides supplemental support and utility to maximize Talethia's DPS.",
+    "date": "2026-10-07",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=x6LdzqgusYk"
+   },
+   {
+    "verdict": "Top-tier versatile support",
+    "note": "Praised for the unique mechanic of adapting elemental affinities to fit into any seasonal team setup.",
+    "date": "2026-10-07",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=zlkDqeP9Des"
+   },
+   {
+    "verdict": "Key survival support in Corrosion team",
+    "note": "Provides AOE immunity through Ethereal buffs so allies survive heavy boss ultimates.",
+    "date": "2026-09-30",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=ONMMBlvyWpc"
+   },
+   {
+    "verdict": "Top-tier Necrosis support",
+    "note": "Remains central to both high-scoring Vortex lineups and top Arena defense compositions.",
+    "date": "2026-09-30",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=bzTAdskU1kA"
+   },
+   {
+    "verdict": "Top-tier flexible support",
+    "note": "Can switch elements to match teams, granting healing, damage reduction, and team attack buffs.",
+    "date": "2026-09-30",
+    "channel": "Fastidious Dragonheir",
+    "url": "https://www.youtube.com/watch?v=e1p87KNEq0g"
+   },
+   {
+    "verdict": "Core AoE mitigation support",
+    "note": "Mitigates AoE damage and dispels debuffs; requires Puppeteer set to build ultimate energy and should have second highest HP.",
+    "date": "2026-09-30",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=ydl2Hi0lAy8"
+   },
+   {
+    "verdict": "Highly anticipated spend target",
+    "note": "Creator considers saving all resources for this hero.",
+    "date": "2026-09-28",
+    "channel": "Skyasterix Gaming",
+    "url": "https://www.youtube.com/watch?v=7tKX4QXxedA"
+   },
+   {
+    "verdict": "Top anniversary banner priority",
+    "note": "Limited SP hero that should be the main focus for anniversary summons.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=8QGiF0CmuTc"
+   },
+   {
+    "verdict": "Top tier for Temporal Vortex",
+    "note": "Following an AoE immunity adjustment, he provides massive damage amplification via Dragonbone Catalyst and can equip Puppeteer to buff allies even at Inspiration 0 when paired with Reytah.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=95WHT5Xp_1k"
+   },
+   {
+    "verdict": "Current voting leader",
+    "note": "Currently leading the Coronation of Night hero appearance vote.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=CbR3blhRAM0"
+   },
+   {
+    "verdict": "Recommended event target",
+    "note": "A powerful warrior hero featured in the event that the creator is actively supporting.",
+    "date": "2026-09-28",
+    "channel": "Skyasterix Gaming",
+    "url": "https://www.youtube.com/watch?v=EKMnx7OusvU"
+   },
+   {
+    "verdict": "Must-pull limited support hero",
+    "note": "Extremely flexible element-swapping support providing high damage boosts or damage reduction while ignoring enemy resistance with talents.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=FkcnkbLbek8"
+   },
+   {
+    "verdict": "Top-tier flexible support hero",
+    "note": "Has no fixed element and can switch elements to adapt to any team composition, providing team damage mitigation, healing, and bonus damage.",
+    "date": "2026-09-28",
+    "channel": "Fastidious Dragonheir",
+    "url": "https://www.youtube.com/watch?v=GiKuQQOc5MU"
+   },
+   {
+    "verdict": "High-tier support unit requiring heavy investment",
+    "note": "Extremely potent buff and debuff support whose team-wide damage boost scales heavily with his Exclusive Mythic Artifact (Dragonbone Catalyst) and higher Inspiration levels.",
+    "date": "2026-09-28",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=GxOOjwf4x5E"
+   },
+   {
+    "verdict": "Guaranteed banner legendary at 300 summons",
+    "note": "Obtained by reaching the 300 accumulated summon milestone on the Reversal Banner.",
+    "date": "2026-09-28",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=HUd-inisCr4"
+   },
+   {
+    "verdict": "Tank / Support",
+    "note": "Equip with the Puppeteer set focusing on defensive stats.",
+    "date": "2026-09-28",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=Hb1nVIAgoTE"
+   },
+   {
+    "verdict": "Top tier lead for Toxin and Dauntless teams",
+    "note": "Used in Puppeteer set to push teammates and provide massive utility in Crown Contest.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=Kednd9zRcJ8"
+   },
+   {
+    "verdict": "Meta-shifting hero option",
+    "note": "Expected to change optimal team setups across Continental Challenge once released.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=KypMuG9CP_I"
+   },
+   {
+    "verdict": "Strong support",
+    "note": "Versatile support hero who can switch elements, heal team members, and amplify ally damage, though acquiring duplicate copies for his artifact is extremely costly.",
+    "date": "2026-09-28",
+    "channel": "Skyasterix Gaming",
+    "url": "https://www.youtube.com/watch?v=LHU2IlO1Goo"
+   },
+   {
+    "verdict": "Must-pull top tier",
+    "note": "Features a multi-element switch mechanic and strong AoE damage skills; recommended to save dice to obtain him and reach at least Inspiration 2.",
+    "date": "2026-09-28",
+    "channel": "Skyasterix Gaming",
+    "url": "https://www.youtube.com/watch?v=LOIzIR-Nk8g"
+   },
+   {
+    "verdict": "High Value Support Banner Pick",
+    "note": "If available at account creation, guaranteed pulls on his banner offer top-tier support utility.",
+    "date": "2026-09-28",
+    "channel": "Volkin Dragonheir",
+    "url": "https://www.youtube.com/watch?v=OT_4D0rAtZ4"
+   },
+   {
+    "verdict": "Top summoning priority (aim for 300 pulls)",
+    "note": "Rebalanced to trade some team buffing for stronger personal damage, execute mechanics, and healing, making him an exceptional carry.",
+    "date": "2026-09-28",
+    "channel": "Volkin Dragonheir",
+    "url": "https://www.youtube.com/watch?v=P05OqBeZnug"
+   },
+   {
+    "verdict": "Top Toxin Support (Replaces Reytah)",
+    "note": "Uses Dragonbone Catalyst artifact for a 25% damage boost; build high HP and DEF for survivability.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=Qk0ejZ_Wiaw"
+   },
+   {
+    "verdict": "Core Toxin Legendary",
+    "note": "Featured in top-ranking Toxin boss teams in Temporal Vortex alongside Serpentemis.",
+    "date": "2026-09-28",
+    "channel": "Volkin Dragonheir",
+    "url": "https://www.youtube.com/watch?v=UloYhjHwdFo"
+   },
+   {
+    "verdict": "Must-save universal support",
+    "note": "A versatile support character useful across all element teams; recommended to save dice for them if not heavily competing.",
+    "date": "2026-09-28",
+    "channel": "Skyasterix Gaming",
+    "url": "https://www.youtube.com/watch?v=VAbS6Cf5Y4I"
+   },
+   {
+    "verdict": "Strong exclusive legendary hero",
+    "note": "Received a minor kit nerf prior to release, but remains very effective and high-value.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=W-TKFyLad4I"
+   },
+   {
+    "verdict": "top tier flexible support",
+    "note": "Element-switching support providing healing, immunity, and damage or damage reduction via his exclusive artifact Dragonbone Catalyst; 1 copy is sufficient for most players.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=WSOHKRqAhc4"
+   },
+   {
+    "verdict": "Top-tier Vortex damage booster",
+    "note": "Attuned to Poison element to trigger teamwide damage buffs; built in the Puppeteer set with Dragonbone Catalyst for extra team damage reduction and damage bonuses.",
+    "date": "2026-09-28",
+    "channel": "Skyasterix Gaming",
+    "url": "https://www.youtube.com/watch?v=WV_QTnx4_K0"
+   },
+   {
+    "verdict": "Must-pull / Insanely OP",
+    "note": "Can switch to any element, grants control immunity and ethereal to allies, and can replace Maashtur in Dauntless and other teams.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=WjtBPisim9A"
+   },
+   {
+    "verdict": "Top-tier Aura support/enabler",
+    "note": "Switched to Radiant element with the Puppeteer set; his exclusive artifact is essential to beat Rena's baseline damage, but caution is advised with Inspiration 1 as Recharge Speed Penalty can desynchronize timed rotations.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=XPwLhWG92qs"
+   },
+   {
+    "verdict": "Must-have support",
+    "note": "Regarded as one of the best and most versatile supports in the game that can splash into any team archetype.",
+    "date": "2026-09-28",
+    "channel": "Volkin Dragonheir",
+    "url": "https://www.youtube.com/watch?v=XRSWWrhi0lI"
+   },
+   {
+    "verdict": "Target summon",
+    "note": "The primary objective of the Reversal Summons banner, successfully pulled alongside a duplicate copy.",
+    "date": "2026-09-28",
+    "channel": "Volkin Dragonheir",
+    "url": "https://www.youtube.com/watch?v=Xc9R1g4mUEM"
+   },
+   {
+    "verdict": "Highly versatile future meta hero",
+    "note": "Features an Element Switch Mechanic allowing alignment with all six elements, alongside Attack Penalty debuffs.",
+    "date": "2026-09-28",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=_0reOyv5BB0"
+   },
+   {
+    "verdict": "Must-save priority",
+    "note": "An upcoming limited anniversary hero usable across all elements who is expected to shift the meta significantly.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=_VJMlnXN25w"
+   },
+   {
+    "verdict": "Powerful Legendary Support hero",
+    "note": "Can switch elements, is immune to outside buffs/debuffs/energy modification, passively dispels and heals, and provides teamwide Control Immunity and Ethereal.",
+    "date": "2026-09-28",
+    "channel": "Suzi Plays",
+    "url": "https://www.youtube.com/watch?v=a-VbIDWy4iM"
+   },
+   {
+    "verdict": "must save for",
+    "note": "Arrives on Day 5 of a new server; requires 300 pulls for a guaranteed hero copy and up to 1000 pulls for his exclusive artifact.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=aaYSUc7k9sc"
+   },
+   {
+    "verdict": "High priority save",
+    "note": "A highly versatile support hero featuring an Element Switch mechanic, Attack Penalty application, and strong debuff/control skill effects.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=adV5w1W9Yag"
+   },
+   {
+    "verdict": "Guaranteed limited legendary",
+    "note": "Guaranteed at 300 summons on the Reversal Summon banner during the event.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=cZ3Mg26_W5k"
+   },
+   {
+    "verdict": "Strong Support / Prioritize Exclusive Artifact over I1",
+    "note": "His exclusive artifact Dragonbone Catalyst provides a higher team damage increase in PvE than Inspiration 1, while his kit provides valuable AOE immunity and multi-element flexibility.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=dZkp2hy0fhc"
+   },
+   {
+    "verdict": "High-priority save target",
+    "note": "Upcoming limited hero banner with a 300-summon pity guarantee; players should save resources to guarantee at least one copy.",
+    "date": "2026-09-28",
+    "channel": "Suzi Plays",
+    "url": "https://www.youtube.com/watch?v=gC9IEQky5_k"
+   },
+   {
+    "verdict": "Top Tier Versatile Support",
+    "note": "Can switch elements at will and grants massive 30% damage or damage reduction buffs when equipped with his exclusive artifact Dragonbone Catalyst.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=gdEoTXAXEiw"
+   },
+   {
+    "verdict": "Top Priority",
+    "note": "Must-get hero for new accounts; save 300 summons to guarantee pulling him.",
+    "date": "2026-09-28",
+    "channel": "Volkin Dragonheir",
+    "url": "https://www.youtube.com/watch?v=jRRemeIzzrc"
+   },
+   {
+    "verdict": "Top banner priority for new accounts",
+    "note": "Featured limited banner hero with a pity guarantee at 300 pulls.",
+    "date": "2026-09-28",
+    "channel": "Volkin Dragonheir",
+    "url": "https://www.youtube.com/watch?v=jZJt-aB15iY"
+   },
+   {
+    "verdict": "Must-pull S-tier support",
+    "note": "One of the best and most flexible supports in the game, able to adapt to any element and fit virtually any roster.",
+    "date": "2026-09-28",
+    "channel": "Fastidious Dragonheir",
+    "url": "https://www.youtube.com/watch?v=lAue-nBQkyo"
+   },
+   {
+    "verdict": "Must-pull top-tier limited support",
+    "note": "Provides teamwide AoE damage immunity, CC immunity, passive dispels/healing, low-HP execute, and element switching while ignoring enemy Resistance.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=lbhNE70VBbQ"
+   },
+   {
+    "verdict": "Universal top-tier support hero",
+    "note": "Can switch elements to match his team, grants allies Control Immunity and Ethereal (AoE damage immunity), passively dispels debuffs and buffs while healing, and executes low-HP targets.",
+    "date": "2026-09-28",
+    "channel": "Suzi Plays",
+    "url": "https://www.youtube.com/watch?v=lfnFCMdpfnk"
+   },
+   {
+    "verdict": "high priority",
+    "note": "Limited exclusive support hero guaranteed at 300 summons who will not be available after his banner ends.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=m_mPa3snJ_Y"
+   },
+   {
+    "verdict": "Must-pull / Go all-in",
+    "note": "Extremely versatile support who can change elements to fit any team; guaranteed at 300 pulls on his limited 2-week Reversal Summon banner.",
+    "date": "2026-09-28",
+    "channel": "Fastidious Dragonheir",
+    "url": "https://www.youtube.com/watch?v=mbk4Es9Brb8"
+   },
+   {
+    "verdict": "Top-tier versatile support",
+    "note": "Can switch elemental affinities freely; reaches massive healing output at Inspiration 2 and tremendous team damage amplification by Inspiration 5.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=mfvwPOgDD0I"
+   },
+   {
+    "verdict": "Must-pull hero",
+    "note": "Recommends pulling two copies to acquire both the hero and his artifact, despite a minor pre-release nerf.",
+    "date": "2026-09-28",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=mjobqRzRnkw"
+   },
+   {
+    "verdict": "High value versatile support despite nerfs",
+    "note": "Lost his 20% attack buff on battle skill and had Ethereal duration reduced to 6s, but gained 10% target max HP healing and +30 Skill Haste on Inspiration 4.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=nKHionjONr4"
+   },
+   {
+    "verdict": "Strong Alternative DPS & Support",
+    "note": "Offers solid damage reduction and damage boosting, especially when equipped with his exclusive artifact Dragonbone Catalyst.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=pVJgz7nuDhw"
+   },
+   {
+    "verdict": "Must pull",
+    "note": "Can use all six elements and may feature a game-breaking kit alongside an exclusive artifact.",
+    "date": "2026-09-28",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=qDyMKiBIf3w"
+   },
+   {
+    "verdict": "Testing candidate",
+    "note": "Planned for testing at Inspiration 0 and Inspiration 1 with his exclusive artifact.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=qKmvS6E0Kg0"
+   },
+   {
+    "verdict": "First hero with Element Switch Mechanic",
+    "note": "First character capable of swapping through all elemental affinities.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=rOmZnLZPpGk"
+   },
+   {
+    "verdict": "Top priority summon",
+    "note": "Recommended as the main priority banner target for Reversal Summon over other elemental banners.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=rVWvv4Ex-60"
+   },
+   {
+    "verdict": "Significantly buffed survivability",
+    "note": "Ethereal was changed from a buff to a special state, allowing him to gain AoE immunity on himself despite his passive.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=rfPDEbhaIxY"
+   },
+   {
+    "verdict": "Top tier for speedruns, mediocre Vortex survival replacement",
+    "note": "Provides incredible damage amplification for speedruns via his exclusive artifact, but requires high inspirations and skill haste to offer sufficient team survival in long Vortex fights.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=rhHU4zGHbqs"
+   },
+   {
+    "verdict": "Recommended event hero",
+    "note": "Worth acquiring alongside his exclusive artifact, the Dragonbone Catalyst, from the event shop.",
+    "date": "2026-09-28",
+    "channel": "Skyasterix Gaming",
+    "url": "https://www.youtube.com/watch?v=xGyOpnMwKvU"
+   },
+   {
+    "verdict": "Extremely versatile wildcard hero",
+    "note": "Can switch freely into any element in the game to fit any team archetype, though changing his element unequips any gear mismatched with the new element.",
+    "date": "2026-09-28",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=y7Xy1zxXGf4"
+   },
+   {
+    "verdict": "Must-save priority",
+    "note": "Upcoming anniversary hero expected in roughly two weeks who will likely require 300 summons to guarantee.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=yVc9XECCX7I"
+   },
+   {
+    "verdict": "Flexible support, cannot solo heal",
+    "note": "Switches elements to fit any team and provide strong buffs, but usually requires a second support to keep the team alive.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=yu4aPXLPwhU"
+   },
+   {
+    "verdict": "Essential support for Corrosion boss team",
+    "note": "Built with Puppet Master set and defensive stats for budget runs, or Inspiration 2 to significantly boost team damage and survivability.",
+    "date": "2026-09-28",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=z01GX69DqrM"
+   },
+   {
+    "verdict": "Top priority to save for",
+    "note": "Featured faction hero for the 3rd Anniversary event chosen by Skyasterix.",
+    "date": "2026-09-28",
+    "channel": "Skyasterix Gaming",
+    "url": "https://www.youtube.com/watch?v=zGWA-DE3r4w"
+   },
+   {
+    "verdict": "Slightly tankier after skill fixes",
+    "note": "Bug fixes to his skills corrected buff mechanics in battle, increasing his tankiness and potential usefulness in Arena.",
+    "date": "2026-09-28",
+    "channel": "Skyasterix Gaming",
+    "url": "https://www.youtube.com/watch?v=zLC3mySaxd8"
+   }
+  ],
   "Anneliesis": [
    {
     "verdict": "Essential support",
@@ -38385,799 +40778,6 @@
     "date": "2026-09-28",
     "channel": "OddOneGaming RPGs",
     "url": "https://www.youtube.com/watch?v=yq_L4gc55vU"
-   }
-  ],
-  "Child of Chaos": [
-   {
-    "verdict": "Core utility hero",
-    "note": "Clears all 60 stages at base inspiration with no extra copies needed.",
-    "date": "2026-11-10",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/shorts/Md_N5BqS1qU"
-   },
-   {
-    "verdict": "Core frontline tank and support",
-    "note": "Acts as the frontline anchor and healer using Moonlight's Grace and Monelisse's Teardrop to prevent one-shots.",
-    "date": "2026-11-10",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=A3KEQqeUo6U"
-   },
-   {
-    "verdict": "Best-in-slot Support",
-    "note": "Mitigates the boss's Attack Penalty debuff and can solo sustain team survivability even at low inspiration.",
-    "date": "2026-11-09",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=pgksOlyG-E8"
-   },
-   {
-    "verdict": "Top tier support",
-    "note": "Extremely versatile and powerful support hero competing for top support in the game alongside Anneliesis.",
-    "date": "2026-11-08",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=RQs1H4k4_tk"
-   },
-   {
-    "verdict": "Core Toxin enabler",
-    "note": "Drives Toxin team derivative damage; performs best with Puppeteer gear and Inspiration 2.",
-    "date": "2026-11-06",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=b9L3kRlw8vU"
-   },
-   {
-    "verdict": "Essential Corrosion support",
-    "note": "Runs the Puppeteer set to support the team without needing high inspiration levels.",
-    "date": "2026-11-06",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=M1l8V-XyEvs"
-   },
-   {
-    "verdict": "High-end Vortex support",
-    "note": "Used in top Chinese server Corrosion Vortex team setups.",
-    "date": "2026-11-05",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=gLGTaQG_B0s"
-   },
-   {
-    "verdict": "Radiance Attack Buffer",
-    "note": "Equipped with the Angelic Alliance artifact to boost team attack.",
-    "date": "2026-11-03",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/shorts/iyc1c1lve5o"
-   },
-   {
-    "verdict": "Mandatory sustain support",
-    "note": "Essential at Inspiration 2 for healing and Attack Down debuffs; works best on default skill timing to apply healing and Attack Down immediately.",
-    "date": "2026-11-02",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=XfUqC3GwXBk"
-   },
-   {
-    "verdict": "Key frontline enabler for Vortex III Toxin team",
-    "note": "Positioned at the front line and geared with a Puppeteer set to tank and support the squad.",
-    "date": "2026-11-02",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/shorts/3uP3hZ785mM"
-   },
-   {
-    "verdict": "Key support for Toxin Vortex III survivability",
-    "note": "Enables the Toxin team to survive the full duration of the Vortex III boss battle when equipped with Puppeteer.",
-    "date": "2026-11-02",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/shorts/K78RaGNiNKI"
-   },
-   {
-    "verdict": "Essential Toxin support/battery",
-    "note": "Equipped with Puppeteer's Inspiration and timed to cast ultimate at 9.0s to feed energy to allies so team rotations start earlier.",
-    "date": "2026-11-01",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=O28V9w5PJdA"
-   },
-   {
-    "verdict": "Viable at Inspiration 0 or 1",
-    "note": "Functions effectively in Vortex comps without requiring specialized artifacts or high inspiration.",
-    "date": "2026-10-30",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/shorts/v07uYiQIt_M"
-   },
-   {
-    "verdict": "Core enabler for Toxin/Corrosion",
-    "note": "Requires high Skill Haste (around 73 to 78) to maximize efficiency, especially at Inspiration 5.",
-    "date": "2026-10-29",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=9WZfkPWafpo"
-   },
-   {
-    "verdict": "Versatile support/DPS",
-    "note": "Configured to Ice element for Permafrost affinity, providing periodic debuff dispels and Defense Penalty II via Witch's Remains.",
-    "date": "2026-10-29",
-    "channel": "Fastidious Dragonheir",
-    "url": "https://www.youtube.com/watch?v=EYvHCBvb8X4"
-   },
-   {
-    "verdict": "Essential Toxin support",
-    "note": "Can solo-sustain at Inspiration 2, but at Inspiration 0 needs a secondary support like Reytah; equipped with Golden Antlers and Puppeteer set.",
-    "date": "2026-10-28",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=F8lJPCbJwgs"
-   },
-   {
-    "verdict": "Solo Poison Support at Inspiration 2",
-    "note": "Can solo heal the Poison team only if he has Inspiration 2 unlocked.",
-    "date": "2026-10-28",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=AdMJvbFJWS0"
-   },
-   {
-    "verdict": "Key utility support",
-    "note": "Provides additional cleanses and debuffs using Whirling Doom; stack Attack and survivability.",
-    "date": "2026-10-28",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=95O1rcCjYgw"
-   },
-   {
-    "verdict": "Flexible support",
-    "note": "Can switch elements on demand (such as Ice or Radiance) and ignores enemy resistance with Gaze of Chaos, making him build-friendly without requiring accuracy.",
-    "date": "2026-10-27",
-    "channel": "Fastidious Dragonheir",
-    "url": "https://www.youtube.com/watch?v=uPT0q943mYg"
-   },
-   {
-    "verdict": "Top Toxin enabler",
-    "note": "Key partner alongside Serpentemis in high-investment Toxin lineups.",
-    "date": "2026-10-27",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=YKXKm7v-bJA"
-   },
-   {
-    "verdict": "Core support in Aura, Corrosion, and Shadow teams",
-    "note": "Requires 80+ Skill Haste and either high Accuracy or the healing talent.",
-    "date": "2026-10-26",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=ArAmzrTA6nQ"
-   },
-   {
-    "verdict": "Essential Toxic support tank",
-    "note": "Equipped with Puppeteer set and high HP to tank hits and boost team damage.",
-    "date": "2026-10-26",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=ZTBevjYvrOo"
-   },
-   {
-    "verdict": "Core Corrosion support",
-    "note": "Built with maximum HP, Puppeteer set, accuracy, and skill haste to enable a 15-second team rotation.",
-    "date": "2026-10-26",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=1yIYhy_Ce_w"
-   },
-   {
-    "verdict": "Top Poison support",
-    "note": "Switched to Poison element with Dragonbone Catalyst and Puppeteer set to boost team damage.",
-    "date": "2026-10-25",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=NY1zsbF-vRM"
-   },
-   {
-    "verdict": "Key Vortex sustain support",
-    "note": "Built with the Puppeteer set at Inspiration 5, requiring 48 to 55 Skill Haste and healing/accuracy talents to sustain without defensive sets.",
-    "date": "2026-10-23",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=yblGYoVUm-M"
-   },
-   {
-    "verdict": "Versatile support and DPS",
-    "note": "Highly versatile unit capable of element shifting, healing, supporting, and executing enemies.",
-    "date": "2026-10-22",
-    "channel": "Fastidious Dragonheir",
-    "url": "https://www.youtube.com/watch?v=k73hjQA6h1M"
-   },
-   {
-    "verdict": "Solo support for Toxin",
-    "note": "Built with Rift Hourglass for Skill Haste and sufficient Accuracy to guarantee debuffs without needing an exclusive artifact.",
-    "date": "2026-10-20",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=VMqR9QYdHaI"
-   },
-   {
-    "verdict": "Core cleanser and buffer for Tamar",
-    "note": "Uses the Puppeteer set and high Attack to reliably cleanse crowd control and debuffs from the team.",
-    "date": "2026-10-20",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=iQN8FFgvVTk"
-   },
-   {
-    "verdict": "Core Toxin enabler",
-    "note": "Works effectively at Inspiration 0 or 1; equipped with Puppeteer set and Chest of Radiance.",
-    "date": "2026-10-19",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=Z46YlrpnOfc"
-   },
-   {
-    "verdict": "Meta PvP support",
-    "note": "Built with high Skill Haste and Berserker Mask to quickly cycle utility and defenses.",
-    "date": "2026-10-19",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=a5s7exfCy4U"
-   },
-   {
-    "verdict": "Excellent utility support",
-    "note": "Provides incredible passive cleansing and control that greatly boosts team survival against bosses.",
-    "date": "2026-10-19",
-    "channel": "Volkin Dragonheir",
-    "url": "https://www.youtube.com/watch?v=Cz1vkasa9c0"
-   },
-   {
-    "verdict": "Crucial high-end enabler",
-    "note": "Powers top leaderboard comps to 58 billion+ damage when utilized at Inspiration 5 in Dauntless and Corrosion setups.",
-    "date": "2026-10-18",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=yTI3C6ck-Rk"
-   },
-   {
-    "verdict": "S-tier universal support",
-    "note": "Provides team-wide buffs, debuffs, and cleanses, while his Death's Portent deals massive bonus damage scaling entirely off his Attack stat.",
-    "date": "2026-10-15",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=SKgs45pKE8I"
-   },
-   {
-    "verdict": "Top budget survival substitute",
-    "note": "Can replace Whisk at lower inspirations if your team is wiping before the timer ends.",
-    "date": "2026-10-14",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=3KZIsOF6xYY"
-   },
-   {
-    "verdict": "Best Lothair Substitute",
-    "note": "Provides Control Immunity and Ethereal team buffs, allowing teams to survive and deal heavy damage without Lothair.",
-    "date": "2026-10-14",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=OggIn5hmQpA"
-   },
-   {
-    "verdict": "Top tier universal support",
-    "note": "Provides control immunity, AoE damage immunity, and steady buff/debuff dispels across multiple Continental Challenge bosses.",
-    "date": "2026-10-14",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=q-5Iqzt_0VI"
-   },
-   {
-    "verdict": "Best-in-slot cleanser/healer",
-    "note": "Provides passive and active cleansing, healing, and Attack Penalty II to keep the team alive without needing manual skill syncing.",
-    "date": "2026-10-14",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=qUrDNsAZh-A"
-   },
-   {
-    "verdict": "Best support for Poison/Toxin teams",
-    "note": "Provides team survivability with extra healing at Inspiration 2 and enables the Poison composition to break 6 billion damage.",
-    "date": "2026-10-14",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=vPergNPCG8I"
-   },
-   {
-    "verdict": "Continental Challenge example hero",
-    "note": "Heroes used against one Continental Challenge boss cannot be reused against any other boss.",
-    "date": "2026-10-07",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=3kZRY_brdWU"
-   },
-   {
-    "verdict": "Core Ice DPS",
-    "note": "Highlighted during rune optimization for gear and dungeon progression.",
-    "date": "2026-10-07",
-    "channel": "Fastidious Dragonheir",
-    "url": "https://www.youtube.com/watch?v=853xzAqGBbQ"
-   },
-   {
-    "verdict": "High tier utility pick for Temporal Vortex III",
-    "note": "Provides vital cleanses against the boss's Defense Penalty debuff, offers AoE damage mitigation, and amplifies healing even without his exclusive artifact.",
-    "date": "2026-10-07",
-    "channel": "Volkin Dragonheir",
-    "url": "https://www.youtube.com/watch?v=FJ-KcKgrTcg"
-   },
-   {
-    "verdict": "Requires heavy investment for peak PvE performance",
-    "note": "Inspiration 3 gives a 30% Attack boost suitable for PvP and Fey Meander, but Inspiration 5 is targeted for optimal PvE value.",
-    "date": "2026-10-07",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=KXlWLBT9M5w"
-   },
-   {
-    "verdict": "Core Toxin team anchor",
-    "note": "Equipped with Puppetmaster and built with Resistance; works at Inspiration 2, though high Inspiration increases consistency.",
-    "date": "2026-10-07",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=VEwv_TEaZkc"
-   },
-   {
-    "verdict": "Aura team support/tank",
-    "note": "Maintains team stability and rotation timing timed at 11.5s first cast.",
-    "date": "2026-10-07",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/watch?v=VMnggAEkhNU"
-   },
-   {
-    "verdict": "Key Thunderbolt buffer",
-    "note": "Build with maximum Skill Haste and high Attack, as his Attack stat now scales his damage buff after the recent update.",
-    "date": "2026-10-07",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=e3O_XZvWCPo"
-   },
-   {
-    "verdict": "High-tier damage dealer in Toxin team",
-    "note": "Requires exclusive artifact Dragonbone Catalyst; increasing inspiration from level 2 to 5 increased overall team damage by roughly 1 billion.",
-    "date": "2026-10-07",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=gAoX3-kT1mo"
-   },
-   {
-    "verdict": "top-tier versatile support",
-    "note": "Passively dispels debuffs/buffs every 5 seconds to heal allies, while providing team-wide Control Immunity and Ethereal AoE damage protection.",
-    "date": "2026-10-07",
-    "channel": "Fastidious Dragonheir",
-    "url": "https://www.youtube.com/watch?v=gMlGFaRzzQM"
-   },
-   {
-    "verdict": "Essential Aura Buffer/Enabler",
-    "note": "Contributes to overall team rotation and damage scaling.",
-    "date": "2026-10-07",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/watch?v=ql--QLIbiZQ"
-   },
-   {
-    "verdict": "Aura support",
-    "note": "Provides supplemental support and utility to maximize Talethia's DPS.",
-    "date": "2026-10-07",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/watch?v=x6LdzqgusYk"
-   },
-   {
-    "verdict": "Top-tier versatile support",
-    "note": "Praised for the unique mechanic of adapting elemental affinities to fit into any seasonal team setup.",
-    "date": "2026-10-07",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=zlkDqeP9Des"
-   },
-   {
-    "verdict": "Key survival support in Corrosion team",
-    "note": "Provides AOE immunity through Ethereal buffs so allies survive heavy boss ultimates.",
-    "date": "2026-09-30",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=ONMMBlvyWpc"
-   },
-   {
-    "verdict": "Top-tier Necrosis support",
-    "note": "Remains central to both high-scoring Vortex lineups and top Arena defense compositions.",
-    "date": "2026-09-30",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=bzTAdskU1kA"
-   },
-   {
-    "verdict": "Top-tier flexible support",
-    "note": "Can switch elements to match teams, granting healing, damage reduction, and team attack buffs.",
-    "date": "2026-09-30",
-    "channel": "Fastidious Dragonheir",
-    "url": "https://www.youtube.com/watch?v=e1p87KNEq0g"
-   },
-   {
-    "verdict": "Core AoE mitigation support",
-    "note": "Mitigates AoE damage and dispels debuffs; requires Puppeteer set to build ultimate energy and should have second highest HP.",
-    "date": "2026-09-30",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=ydl2Hi0lAy8"
-   },
-   {
-    "verdict": "Highly anticipated spend target",
-    "note": "Creator considers saving all resources for this hero.",
-    "date": "2026-09-28",
-    "channel": "Skyasterix Gaming",
-    "url": "https://www.youtube.com/watch?v=7tKX4QXxedA"
-   },
-   {
-    "verdict": "Top anniversary banner priority",
-    "note": "Limited SP hero that should be the main focus for anniversary summons.",
-    "date": "2026-09-28",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=8QGiF0CmuTc"
-   },
-   {
-    "verdict": "Top tier for Temporal Vortex",
-    "note": "Following an AoE immunity adjustment, he provides massive damage amplification via Dragonbone Catalyst and can equip Puppeteer to buff allies even at Inspiration 0 when paired with Reytah.",
-    "date": "2026-09-28",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=95WHT5Xp_1k"
-   },
-   {
-    "verdict": "Current voting leader",
-    "note": "Currently leading the Coronation of Night hero appearance vote.",
-    "date": "2026-09-28",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=CbR3blhRAM0"
-   },
-   {
-    "verdict": "Recommended event target",
-    "note": "A powerful warrior hero featured in the event that the creator is actively supporting.",
-    "date": "2026-09-28",
-    "channel": "Skyasterix Gaming",
-    "url": "https://www.youtube.com/watch?v=EKMnx7OusvU"
-   },
-   {
-    "verdict": "Must-pull limited support hero",
-    "note": "Extremely flexible element-swapping support providing high damage boosts or damage reduction while ignoring enemy resistance with talents.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=FkcnkbLbek8"
-   },
-   {
-    "verdict": "Top-tier flexible support hero",
-    "note": "Has no fixed element and can switch elements to adapt to any team composition, providing team damage mitigation, healing, and bonus damage.",
-    "date": "2026-09-28",
-    "channel": "Fastidious Dragonheir",
-    "url": "https://www.youtube.com/watch?v=GiKuQQOc5MU"
-   },
-   {
-    "verdict": "High-tier support unit requiring heavy investment",
-    "note": "Extremely potent buff and debuff support whose team-wide damage boost scales heavily with his Exclusive Mythic Artifact (Dragonbone Catalyst) and higher Inspiration levels.",
-    "date": "2026-09-28",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=GxOOjwf4x5E"
-   },
-   {
-    "verdict": "Guaranteed banner legendary at 300 summons",
-    "note": "Obtained by reaching the 300 accumulated summon milestone on the Reversal Banner.",
-    "date": "2026-09-28",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=HUd-inisCr4"
-   },
-   {
-    "verdict": "Tank / Support",
-    "note": "Equip with the Puppeteer set focusing on defensive stats.",
-    "date": "2026-09-28",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/watch?v=Hb1nVIAgoTE"
-   },
-   {
-    "verdict": "Top tier lead for Toxin and Dauntless teams",
-    "note": "Used in Puppeteer set to push teammates and provide massive utility in Crown Contest.",
-    "date": "2026-09-28",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=Kednd9zRcJ8"
-   },
-   {
-    "verdict": "Meta-shifting hero option",
-    "note": "Expected to change optimal team setups across Continental Challenge once released.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=KypMuG9CP_I"
-   },
-   {
-    "verdict": "Strong support",
-    "note": "Versatile support hero who can switch elements, heal team members, and amplify ally damage, though acquiring duplicate copies for his artifact is extremely costly.",
-    "date": "2026-09-28",
-    "channel": "Skyasterix Gaming",
-    "url": "https://www.youtube.com/watch?v=LHU2IlO1Goo"
-   },
-   {
-    "verdict": "Must-pull top tier",
-    "note": "Features a multi-element switch mechanic and strong AoE damage skills; recommended to save dice to obtain him and reach at least Inspiration 2.",
-    "date": "2026-09-28",
-    "channel": "Skyasterix Gaming",
-    "url": "https://www.youtube.com/watch?v=LOIzIR-Nk8g"
-   },
-   {
-    "verdict": "High Value Support Banner Pick",
-    "note": "If available at account creation, guaranteed pulls on his banner offer top-tier support utility.",
-    "date": "2026-09-28",
-    "channel": "Volkin Dragonheir",
-    "url": "https://www.youtube.com/watch?v=OT_4D0rAtZ4"
-   },
-   {
-    "verdict": "Top summoning priority (aim for 300 pulls)",
-    "note": "Rebalanced to trade some team buffing for stronger personal damage, execute mechanics, and healing, making him an exceptional carry.",
-    "date": "2026-09-28",
-    "channel": "Volkin Dragonheir",
-    "url": "https://www.youtube.com/watch?v=P05OqBeZnug"
-   },
-   {
-    "verdict": "Top Toxin Support (Replaces Reytah)",
-    "note": "Uses Dragonbone Catalyst artifact for a 25% damage boost; build high HP and DEF for survivability.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=Qk0ejZ_Wiaw"
-   },
-   {
-    "verdict": "Core Toxin Legendary",
-    "note": "Featured in top-ranking Toxin boss teams in Temporal Vortex alongside Serpentemis.",
-    "date": "2026-09-28",
-    "channel": "Volkin Dragonheir",
-    "url": "https://www.youtube.com/watch?v=UloYhjHwdFo"
-   },
-   {
-    "verdict": "Must-save universal support",
-    "note": "A versatile support character useful across all element teams; recommended to save dice for them if not heavily competing.",
-    "date": "2026-09-28",
-    "channel": "Skyasterix Gaming",
-    "url": "https://www.youtube.com/watch?v=VAbS6Cf5Y4I"
-   },
-   {
-    "verdict": "Strong exclusive legendary hero",
-    "note": "Received a minor kit nerf prior to release, but remains very effective and high-value.",
-    "date": "2026-09-28",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=W-TKFyLad4I"
-   },
-   {
-    "verdict": "top tier flexible support",
-    "note": "Element-switching support providing healing, immunity, and damage or damage reduction via his exclusive artifact Dragonbone Catalyst; 1 copy is sufficient for most players.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=WSOHKRqAhc4"
-   },
-   {
-    "verdict": "Top-tier Vortex damage booster",
-    "note": "Attuned to Poison element to trigger teamwide damage buffs; built in the Puppeteer set with Dragonbone Catalyst for extra team damage reduction and damage bonuses.",
-    "date": "2026-09-28",
-    "channel": "Skyasterix Gaming",
-    "url": "https://www.youtube.com/watch?v=WV_QTnx4_K0"
-   },
-   {
-    "verdict": "Must-pull / Insanely OP",
-    "note": "Can switch to any element, grants control immunity and ethereal to allies, and can replace Maashtur in Dauntless and other teams.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=WjtBPisim9A"
-   },
-   {
-    "verdict": "Top-tier Aura support/enabler",
-    "note": "Switched to Radiant element with the Puppeteer set; his exclusive artifact is essential to beat Rena's baseline damage, but caution is advised with Inspiration 1 as Recharge Speed Penalty can desynchronize timed rotations.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=XPwLhWG92qs"
-   },
-   {
-    "verdict": "Must-have support",
-    "note": "Regarded as one of the best and most versatile supports in the game that can splash into any team archetype.",
-    "date": "2026-09-28",
-    "channel": "Volkin Dragonheir",
-    "url": "https://www.youtube.com/watch?v=XRSWWrhi0lI"
-   },
-   {
-    "verdict": "Target summon",
-    "note": "The primary objective of the Reversal Summons banner, successfully pulled alongside a duplicate copy.",
-    "date": "2026-09-28",
-    "channel": "Volkin Dragonheir",
-    "url": "https://www.youtube.com/watch?v=Xc9R1g4mUEM"
-   },
-   {
-    "verdict": "Highly versatile future meta hero",
-    "note": "Features an Element Switch Mechanic allowing alignment with all six elements, alongside Attack Penalty debuffs.",
-    "date": "2026-09-28",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=_0reOyv5BB0"
-   },
-   {
-    "verdict": "Must-save priority",
-    "note": "An upcoming limited anniversary hero usable across all elements who is expected to shift the meta significantly.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=_VJMlnXN25w"
-   },
-   {
-    "verdict": "Powerful Legendary Support hero",
-    "note": "Can switch elements, is immune to outside buffs/debuffs/energy modification, passively dispels and heals, and provides teamwide Control Immunity and Ethereal.",
-    "date": "2026-09-28",
-    "channel": "Suzi Plays",
-    "url": "https://www.youtube.com/watch?v=a-VbIDWy4iM"
-   },
-   {
-    "verdict": "must save for",
-    "note": "Arrives on Day 5 of a new server; requires 300 pulls for a guaranteed hero copy and up to 1000 pulls for his exclusive artifact.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=aaYSUc7k9sc"
-   },
-   {
-    "verdict": "High priority save",
-    "note": "A highly versatile support hero featuring an Element Switch mechanic, Attack Penalty application, and strong debuff/control skill effects.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=adV5w1W9Yag"
-   },
-   {
-    "verdict": "Guaranteed limited legendary",
-    "note": "Guaranteed at 300 summons on the Reversal Summon banner during the event.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=cZ3Mg26_W5k"
-   },
-   {
-    "verdict": "Strong Support / Prioritize Exclusive Artifact over I1",
-    "note": "His exclusive artifact Dragonbone Catalyst provides a higher team damage increase in PvE than Inspiration 1, while his kit provides valuable AOE immunity and multi-element flexibility.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=dZkp2hy0fhc"
-   },
-   {
-    "verdict": "High-priority save target",
-    "note": "Upcoming limited hero banner with a 300-summon pity guarantee; players should save resources to guarantee at least one copy.",
-    "date": "2026-09-28",
-    "channel": "Suzi Plays",
-    "url": "https://www.youtube.com/watch?v=gC9IEQky5_k"
-   },
-   {
-    "verdict": "Top Tier Versatile Support",
-    "note": "Can switch elements at will and grants massive 30% damage or damage reduction buffs when equipped with his exclusive artifact Dragonbone Catalyst.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=gdEoTXAXEiw"
-   },
-   {
-    "verdict": "Top Priority",
-    "note": "Must-get hero for new accounts; save 300 summons to guarantee pulling him.",
-    "date": "2026-09-28",
-    "channel": "Volkin Dragonheir",
-    "url": "https://www.youtube.com/watch?v=jRRemeIzzrc"
-   },
-   {
-    "verdict": "Top banner priority for new accounts",
-    "note": "Featured limited banner hero with a pity guarantee at 300 pulls.",
-    "date": "2026-09-28",
-    "channel": "Volkin Dragonheir",
-    "url": "https://www.youtube.com/watch?v=jZJt-aB15iY"
-   },
-   {
-    "verdict": "Must-pull S-tier support",
-    "note": "One of the best and most flexible supports in the game, able to adapt to any element and fit virtually any roster.",
-    "date": "2026-09-28",
-    "channel": "Fastidious Dragonheir",
-    "url": "https://www.youtube.com/watch?v=lAue-nBQkyo"
-   },
-   {
-    "verdict": "Must-pull top-tier limited support",
-    "note": "Provides teamwide AoE damage immunity, CC immunity, passive dispels/healing, low-HP execute, and element switching while ignoring enemy Resistance.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=lbhNE70VBbQ"
-   },
-   {
-    "verdict": "Universal top-tier support hero",
-    "note": "Can switch elements to match his team, grants allies Control Immunity and Ethereal (AoE damage immunity), passively dispels debuffs and buffs while healing, and executes low-HP targets.",
-    "date": "2026-09-28",
-    "channel": "Suzi Plays",
-    "url": "https://www.youtube.com/watch?v=lfnFCMdpfnk"
-   },
-   {
-    "verdict": "high priority",
-    "note": "Limited exclusive support hero guaranteed at 300 summons who will not be available after his banner ends.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=m_mPa3snJ_Y"
-   },
-   {
-    "verdict": "Must-pull / Go all-in",
-    "note": "Extremely versatile support who can change elements to fit any team; guaranteed at 300 pulls on his limited 2-week Reversal Summon banner.",
-    "date": "2026-09-28",
-    "channel": "Fastidious Dragonheir",
-    "url": "https://www.youtube.com/watch?v=mbk4Es9Brb8"
-   },
-   {
-    "verdict": "Top-tier versatile support",
-    "note": "Can switch elemental affinities freely; reaches massive healing output at Inspiration 2 and tremendous team damage amplification by Inspiration 5.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=mfvwPOgDD0I"
-   },
-   {
-    "verdict": "Must-pull hero",
-    "note": "Recommends pulling two copies to acquire both the hero and his artifact, despite a minor pre-release nerf.",
-    "date": "2026-09-28",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=mjobqRzRnkw"
-   },
-   {
-    "verdict": "High value versatile support despite nerfs",
-    "note": "Lost his 20% attack buff on battle skill and had Ethereal duration reduced to 6s, but gained 10% target max HP healing and +30 Skill Haste on Inspiration 4.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=nKHionjONr4"
-   },
-   {
-    "verdict": "Strong Alternative DPS & Support",
-    "note": "Offers solid damage reduction and damage boosting, especially when equipped with his exclusive artifact Dragonbone Catalyst.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=pVJgz7nuDhw"
-   },
-   {
-    "verdict": "Must pull",
-    "note": "Can use all six elements and may feature a game-breaking kit alongside an exclusive artifact.",
-    "date": "2026-09-28",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=qDyMKiBIf3w"
-   },
-   {
-    "verdict": "Testing candidate",
-    "note": "Planned for testing at Inspiration 0 and Inspiration 1 with his exclusive artifact.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=qKmvS6E0Kg0"
-   },
-   {
-    "verdict": "First hero with Element Switch Mechanic",
-    "note": "First character capable of swapping through all elemental affinities.",
-    "date": "2026-09-28",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=rOmZnLZPpGk"
-   },
-   {
-    "verdict": "Top priority summon",
-    "note": "Recommended as the main priority banner target for Reversal Summon over other elemental banners.",
-    "date": "2026-09-28",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=rVWvv4Ex-60"
-   },
-   {
-    "verdict": "Significantly buffed survivability",
-    "note": "Ethereal was changed from a buff to a special state, allowing him to gain AoE immunity on himself despite his passive.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=rfPDEbhaIxY"
-   },
-   {
-    "verdict": "Top tier for speedruns, mediocre Vortex survival replacement",
-    "note": "Provides incredible damage amplification for speedruns via his exclusive artifact, but requires high inspirations and skill haste to offer sufficient team survival in long Vortex fights.",
-    "date": "2026-09-28",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=rhHU4zGHbqs"
-   },
-   {
-    "verdict": "Recommended event hero",
-    "note": "Worth acquiring alongside his exclusive artifact, the Dragonbone Catalyst, from the event shop.",
-    "date": "2026-09-28",
-    "channel": "Skyasterix Gaming",
-    "url": "https://www.youtube.com/watch?v=xGyOpnMwKvU"
-   },
-   {
-    "verdict": "Extremely versatile wildcard hero",
-    "note": "Can switch freely into any element in the game to fit any team archetype, though changing his element unequips any gear mismatched with the new element.",
-    "date": "2026-09-28",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=y7Xy1zxXGf4"
-   },
-   {
-    "verdict": "Must-save priority",
-    "note": "Upcoming anniversary hero expected in roughly two weeks who will likely require 300 summons to guarantee.",
-    "date": "2026-09-28",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=yVc9XECCX7I"
-   },
-   {
-    "verdict": "Flexible support, cannot solo heal",
-    "note": "Switches elements to fit any team and provide strong buffs, but usually requires a second support to keep the team alive.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=yu4aPXLPwhU"
-   },
-   {
-    "verdict": "Essential support for Corrosion boss team",
-    "note": "Built with Puppet Master set and defensive stats for budget runs, or Inspiration 2 to significantly boost team damage and survivability.",
-    "date": "2026-09-28",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/watch?v=z01GX69DqrM"
-   },
-   {
-    "verdict": "Top priority to save for",
-    "note": "Featured faction hero for the 3rd Anniversary event chosen by Skyasterix.",
-    "date": "2026-09-28",
-    "channel": "Skyasterix Gaming",
-    "url": "https://www.youtube.com/watch?v=zGWA-DE3r4w"
-   },
-   {
-    "verdict": "Slightly tankier after skill fixes",
-    "note": "Bug fixes to his skills corrected buff mechanics in battle, increasing his tankiness and potential usefulness in Arena.",
-    "date": "2026-09-28",
-    "channel": "Skyasterix Gaming",
-    "url": "https://www.youtube.com/watch?v=zLC3mySaxd8"
    }
   ],
   "Lincos": [
@@ -40437,750 +42037,6 @@
     "url": "https://www.youtube.com/watch?v=v7j7nvLg6Qg"
    }
   ],
-  "Serpentemis": [
-   {
-    "verdict": "Top Toxin DPS",
-    "note": "Reaches up to 3B damage against Cypreum when built with high Enlightenment, Attack, and Accuracy.",
-    "date": "2026-11-09",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=pgksOlyG-E8"
-   },
-   {
-    "verdict": "Core Toxin enabler",
-    "note": "Essential core hero for maximizing Toxin team damage output.",
-    "date": "2026-11-08",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=4zWG2dQRL28"
-   },
-   {
-    "verdict": "Top Toxin derivative DPS",
-    "note": "Deals massive damage when geared with high Attack (near 5k) and Enlightenment (600+).",
-    "date": "2026-11-06",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=b9L3kRlw8vU"
-   },
-   {
-    "verdict": "Enlightenment focus",
-    "note": "Benefits significantly from Enlightenment-focused gear sets like Molten Reforging.",
-    "date": "2026-11-06",
-    "channel": "Suzi Plays",
-    "url": "https://www.youtube.com/watch?v=NfZz41jI-kU"
-   },
-   {
-    "verdict": "Top Toxin DPS vs Guinavivre",
-    "note": "Enables 870M+ at Inspiration 0 and exceeds 1.1B damage at Inspiration 5.",
-    "date": "2026-11-06",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=M1l8V-XyEvs"
-   },
-   {
-    "verdict": "high priority for gear carrying",
-    "note": "Carried over Enlightenment chest and Arcane gloves from the previous season to maximize poison damage.",
-    "date": "2026-11-03",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=YTSkf8whQbM"
-   },
-   {
-    "verdict": "Primary Toxin damage dealer",
-    "note": "Achieves high damage output even at Inspiration 0 when positioned adjacent to Reytah to receive attack sharing.",
-    "date": "2026-11-02",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/shorts/3uP3hZ785mM"
-   },
-   {
-    "verdict": "Core damage dealer for Vortex III Toxin team",
-    "note": "Achieved 8.2 billion damage in Vortex III even at Inspiration 0 when supported properly.",
-    "date": "2026-11-02",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/shorts/K78RaGNiNKI"
-   },
-   {
-    "verdict": "Core Poison damage dealer",
-    "note": "Applies consistent Poison damage and enemy resistance reduction to sustain high team DPS.",
-    "date": "2026-11-01",
-    "channel": "Skyasterix Gaming",
-    "url": "https://www.youtube.com/watch?v=S_vEulOev_0"
-   },
-   {
-    "verdict": "Main Toxin DPS",
-    "note": "Built for pure damage with Statue of the Serpent Deity, Dragonblood Brand, and Strike the Unprepared while utilizing passive enemy Resistance shred.",
-    "date": "2026-11-01",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=O28V9w5PJdA"
-   },
-   {
-    "verdict": "Best Toxin hero in the game",
-    "note": "The undisputed queen of AoE poison damage capable of transforming the battlefield into a toxic swamp.",
-    "date": "2026-10-31",
-    "channel": "Fastidious Dragonheir",
-    "url": "https://www.youtube.com/watch?v=wM0sFqru6M4"
-   },
-   {
-    "verdict": "Save resources for",
-    "note": "Recommended to preserve summoning resources for her future banner rather than pulling on current selectable banners.",
-    "date": "2026-10-31",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=k5r_YS0v7fU"
-   },
-   {
-    "verdict": "Strong Option Banner target",
-    "note": "A top-tier Poison enabler to consider targeting during end-of-season Option banners.",
-    "date": "2026-10-31",
-    "channel": "Volkin Dragonheir",
-    "url": "https://www.youtube.com/watch?v=r6R18doSyz8"
-   },
-   {
-    "verdict": "Viable at Inspiration 0",
-    "note": "Performs reliably in Vortex dual-team setups even without extra inspiration levels.",
-    "date": "2026-10-30",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/shorts/v07uYiQIt_M"
-   },
-   {
-    "verdict": "Primary damage dealer",
-    "note": "Built with high Enlightenment and Attack stats for maximum damage output in Toxin teams.",
-    "date": "2026-10-30",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/shorts/z4PK6Oze8QQ"
-   },
-   {
-    "verdict": "Toxin damage dealer",
-    "note": "Prioritize Enlightenment, Accuracy, and Attack.",
-    "date": "2026-10-28",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=F8lJPCbJwgs"
-   },
-   {
-    "verdict": "Top Poison DPS",
-    "note": "Built with high Enlightenment and Attack to drive massive Poison damage over time.",
-    "date": "2026-10-28",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=AdMJvbFJWS0"
-   },
-   {
-    "verdict": "Top DPS carry",
-    "note": "Deals over 1 billion damage against Mekkatorque even at Inspiration 0 on a full damage build.",
-    "date": "2026-10-28",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=QmTkNCoEHEk"
-   },
-   {
-    "verdict": "Must-have Toxin DPS",
-    "note": "Crucial core piece for Toxin teams in Continental Challenge, especially at high inspiration levels.",
-    "date": "2026-10-27",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=YKXKm7v-bJA"
-   },
-   {
-    "verdict": "Top-tier Poison damage dealer",
-    "note": "Deals massive damage and resistance reduction, benefitting from maximum Enlightenment and Attack.",
-    "date": "2026-10-26",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=ZTBevjYvrOo"
-   },
-   {
-    "verdict": "Core damage dealer for Poison teams",
-    "note": "Built with high Enlightenment, Attack, and Accuracy; stays safely in position and resists stuns due to self-buffs.",
-    "date": "2026-10-25",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=NY1zsbF-vRM"
-   },
-   {
-    "verdict": "Primary Poison carry",
-    "note": "Excels with Forge Master set bonus for stacking derivative damage, scaling drastically with higher Inspiration levels.",
-    "date": "2026-10-25",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=MzK7B1nM5ys"
-   },
-   {
-    "verdict": "top priority carry",
-    "note": "Essential Toxin damage dealer capable of delivering top-tier endgame damage.",
-    "date": "2026-10-24",
-    "channel": "Suzi Plays",
-    "url": "https://www.youtube.com/watch?v=scDahdyomBc"
-   },
-   {
-    "verdict": "Core Toxin hero",
-    "note": "Plans to invest in Temporal Corridor copies to reach Inspiration 5 for the Toxin team.",
-    "date": "2026-10-23",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=te7U8TxlWPM"
-   },
-   {
-    "verdict": "Top Enlightenment DPS",
-    "note": "Excels with Molten Reforging and Dragonblood Brand on top gear slots, gaining huge boosts from adjacent supports equipped with Might of the Inferno.",
-    "date": "2026-10-21",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=L1z08k7Q5ns"
-   },
-   {
-    "verdict": "Core Poison DPS",
-    "note": "Utilizes crafted Precise Carnage gloves with Attack percentage and Enlightenment stats.",
-    "date": "2026-10-20",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=5E5nhm0Y6zE"
-   },
-   {
-    "verdict": "Toxin DPS",
-    "note": "Built stacking high Enlightenment (over 350) and Accuracy for maximum damage.",
-    "date": "2026-10-20",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=VMqR9QYdHaI"
-   },
-   {
-    "verdict": "Premier Toxin DPS for Tamar",
-    "note": "Achieves massive scaling with high Enlightenment, Attack, and at least 150 Accuracy.",
-    "date": "2026-10-20",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=iQN8FFgvVTk"
-   },
-   {
-    "verdict": "Target counter",
-    "note": "A top-tier PvP threat whose AoE burst can be neutralized by Syonis pulling her into his Energy Drain Zone.",
-    "date": "2026-10-19",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=EyhzdvZo08A"
-   },
-   {
-    "verdict": "Core Toxin DPS",
-    "note": "Build with Enlightenment and Attack, along with roughly 20 Accuracy despite her innate requirement reduction.",
-    "date": "2026-10-19",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=Z46YlrpnOfc"
-   },
-   {
-    "verdict": "top tier DPS carry",
-    "note": "A game-changing poison DPS carry and premier target at the 300-pull milestone on the Wish Summon banner.",
-    "date": "2026-10-17",
-    "channel": "Fastidious Dragonheir",
-    "url": "https://www.youtube.com/watch?v=IByjt-bkgzo"
-   },
-   {
-    "verdict": "Top tier Poison DPS",
-    "note": "Dominates Temporal Vortex, Continental Challenge, and Tavern Gambit modes with massive Poison damage.",
-    "date": "2026-10-16",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=62IBjaXyVBk"
-   },
-   {
-    "verdict": "Must-have primary focus",
-    "note": "An essential pick if not already owned on the account.",
-    "date": "2026-10-16",
-    "channel": "Suzi Plays",
-    "url": "https://www.youtube.com/watch?v=lXIGOO_jApM"
-   },
-   {
-    "verdict": "Essential core DPS for Toxin",
-    "note": "Primary damage dealer for Toxin teams who scales massively off Enlightenment and Attack with Fearless Challenge and Precise Carnage gear.",
-    "date": "2026-10-15",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=SKgs45pKE8I"
-   },
-   {
-    "verdict": "Whale priority for Inspiration 5",
-    "note": "A top-tier damage dealer whose extra inspirations are vital for high-end competitive play, but too expensive for F2P to chase.",
-    "date": "2026-10-14",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=21_BZz5E0XM"
-   },
-   {
-    "verdict": "Top damage dealer for Mekkatorque",
-    "note": "Carried the majority of the team's DPS (over 962M damage); build for full damage with ideally 160+ Accuracy.",
-    "date": "2026-10-14",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/watch?v=2O4qJ3I9erI"
-   },
-   {
-    "verdict": "Key Toxin DPS for Temporal Vortex",
-    "note": "Performs best with high Enlightenment and ATK% rolls on Strike the Unprepared or Curse of the Fallen gear.",
-    "date": "2026-10-14",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=BfwvF26B9qo"
-   },
-   {
-    "verdict": "Priority carryover recipient",
-    "note": "Target hero for forged Curse of the Fallen gear transitioning into the new season.",
-    "date": "2026-10-14",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=EPflcyTpzw0"
-   },
-   {
-    "verdict": "Core Toxin DPS",
-    "note": "Requires high Enlightenment, Attack, and Resistance; must have higher Enlightenment than Lothair to claim the Lava Batwing familiar buff.",
-    "date": "2026-10-14",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=OggIn5hmQpA"
-   },
-   {
-    "verdict": "Top Pick",
-    "note": "Extremely solid exclusive hero capable of clearing pretty much all content easily and dealing 1.2B+ damage.",
-    "date": "2026-10-14",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=ZQS3vb4JuWU"
-   },
-   {
-    "verdict": "Toxin DoT carry",
-    "note": "Main damage dealer in Poison Toxin setups, stacking damage over time.",
-    "date": "2026-10-14",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/watch?v=e05LIFMVHBA"
-   },
-   {
-    "verdict": "Primary Toxin DPS for lower Lothair inspiration",
-    "note": "Serves as the main damage dealer when Lothair is at low or zero inspiration.",
-    "date": "2026-10-14",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=jQe6NkOHUL4"
-   },
-   {
-    "verdict": "essential Corrosion DPS",
-    "note": "A primary Corrosion DPS target that players should prioritize for upcoming season content.",
-    "date": "2026-10-14",
-    "channel": "Skyasterix Gaming",
-    "url": "https://www.youtube.com/watch?v=lazeVsyO7_g"
-   },
-   {
-    "verdict": "Top Poison DPS",
-    "note": "Extremely strong Poison damage dealer that benefits heavily from Carnage gear and skill upgrades.",
-    "date": "2026-10-14",
-    "channel": "Volkin Dragonheir",
-    "url": "https://www.youtube.com/watch?v=p6_LHvgp4bs"
-   },
-   {
-    "verdict": "Core secondary Toxin DPS",
-    "note": "Applies consistent poison stacks to ramp Tamar's damage taken modifier up to the 50-stack cap.",
-    "date": "2026-10-14",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=q-5Iqzt_0VI"
-   },
-   {
-    "verdict": "Top Toxin DPS",
-    "note": "Serves as the primary damage dealer against Mekkatorque, benefiting hugely from high Attack, Enlightenment, and Inspiration levels.",
-    "date": "2026-10-14",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=qUrDNsAZh-A"
-   },
-   {
-    "verdict": "Top tier Toxin DPS",
-    "note": "A core Toxin damage dealer whose Inspiration 5 gives a massive damage boost; worth targeting from selection chests.",
-    "date": "2026-10-14",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=soNuRXPx71Y"
-   },
-   {
-    "verdict": "Top Toxin DPS",
-    "note": "Acts as the primary damage engine in 30-second Toxin rotations; stack Attack and Enlightenment.",
-    "date": "2026-10-14",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=svroY6v2YuU"
-   },
-   {
-    "verdict": "Core DPS in Toxin",
-    "note": "A primary damage dealer whose output scales heavily with Enlightenment, Accuracy, and Attack from customized mythic gear.",
-    "date": "2026-10-07",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=9OIXBuLFl4k"
-   },
-   {
-    "verdict": "Top tier DPS / High priority",
-    "note": "Powers an overpowered Poison team capable of clearing dungeons, Temporal Vortex, and Fey Meander on full auto; gains huge power spikes at Inspiration 2 and 5.",
-    "date": "2026-10-07",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=B88cdyDr8dY"
-   },
-   {
-    "verdict": "Core poison damage dealer",
-    "note": "Her passive lowers enemy Resistance by 35%, making team Accuracy requirements easier, but she still requires Accuracy gear in Difficulty III to land poisons.",
-    "date": "2026-10-07",
-    "channel": "Volkin Dragonheir",
-    "url": "https://www.youtube.com/watch?v=FJ-KcKgrTcg"
-   },
-   {
-    "verdict": "Viable Toxin DPS",
-    "note": "Reaches over 3.2 billion damage in Toxin compositions, though slightly weaker than Lothair here.",
-    "date": "2026-10-07",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=NzWyPU_0D9w"
-   },
-   {
-    "verdict": "Solid Toxin enabler",
-    "note": "Geared with Alignment sets focusing on Attack, Enlightenment, and minor Accuracy.",
-    "date": "2026-10-07",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=VEwv_TEaZkc"
-   },
-   {
-    "verdict": "Top pick for Temporal Vortex AoE",
-    "note": "Excels at AoE damage in Temporal Vortex and scales exceptionally well with heavy Enlightenment and high Attack% substat rolls on bottom pieces.",
-    "date": "2026-10-07",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=XbTgoxPr9WQ"
-   },
-   {
-    "verdict": "Core booster/enabler for Toxin team",
-    "note": "Built with Angelic Alliance artifact, high attack, accuracy, and around 6 skill haste for smooth rotation synchronization.",
-    "date": "2026-10-07",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=gAoX3-kT1mo"
-   },
-   {
-    "verdict": "Key Toxin team member for Queen of Blasphemy",
-    "note": "Provided core utility and over 405 million damage (8.4% of team total).",
-    "date": "2026-10-07",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/watch?v=rwe-Dd4l8ps"
-   },
-   {
-    "verdict": "Craft Enlightenment Chest",
-    "note": "Build with Enlightenment primary stat chest from the Strike the Unprepared set, aiming for ATK% and Accuracy sub-stats.",
-    "date": "2026-10-07",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=z3tO57-B6Gs"
-   },
-   {
-    "verdict": "Versatile DPS",
-    "note": "Used effectively across Toxin/Necrosis Vortex teams as well as Arena lineups.",
-    "date": "2026-09-30",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=bzTAdskU1kA"
-   },
-   {
-    "verdict": "Main DPS carry",
-    "note": "Maximizes damage output when equipped with Precise Carnage or Emperor's Might while teammates enable debuffs.",
-    "date": "2026-09-30",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=o0Y6OJRRPh8"
-   },
-   {
-    "verdict": "Top main DPS for Toxin teams",
-    "note": "Deals massive Derivative Poison damage scaling primarily with Enlightenment and Attack.",
-    "date": "2026-09-30",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=ydl2Hi0lAy8"
-   },
-   {
-    "verdict": "Top Poison DPS",
-    "note": "Deals massive damage using Molten Surge gear and Statue of the Serpent Deity, capable of hitting near 30 billion on her own at high inspiration.",
-    "date": "2026-09-28",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=95WHT5Xp_1k"
-   },
-   {
-    "verdict": "Alternative vote target",
-    "note": "Previously received faction votes, but Skratch recommends shifting focus to a single candidate.",
-    "date": "2026-09-28",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=CbR3blhRAM0"
-   },
-   {
-    "verdict": "top pick for domain clearing",
-    "note": "Can clear all talent and equipment dungeons easily when paired with poison epics.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=DH2IdtO0H84"
-   },
-   {
-    "verdict": "Main DPS for Toxin Crown Contest team",
-    "note": "Build with full Enlightenment and Attack to maximize damage.",
-    "date": "2026-09-28",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/watch?v=GijTOGTEjHI"
-   },
-   {
-    "verdict": "Toxin DPS / Support",
-    "note": "Build full Enlightenment and Attack; can equip support artifacts if Lothair is your primary DPS.",
-    "date": "2026-09-28",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/watch?v=Hb1nVIAgoTE"
-   },
-   {
-    "verdict": "Core sub-DPS and buffer",
-    "note": "Provides debuffs and damage; builds with Golden Antlers artifact for team survivability and extra healing.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=HqVIrNsj0jg"
-   },
-   {
-    "verdict": "Top Toxin DPS",
-    "note": "High damage dealer in Toxin setups for Temporal Vortex, dungeon clears, and speed runs.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=IPIbglFr7r0"
-   },
-   {
-    "verdict": "Top DPS for Durem",
-    "note": "Serves as the team's core damage dealer, capable of outputting massive damage even at Inspiration 0 while reducing enemy resistance by 35%.",
-    "date": "2026-09-28",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=JdV2F-ncZFI"
-   },
-   {
-    "verdict": "Absolute best AoE / Toxin carry in the game",
-    "note": "Her passive triggers explosive derivative Poison damage whenever poisoned enemies take hit damage, melting waves and bosses instantly even at Inspiration 1.",
-    "date": "2026-09-28",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=Jqs7wSn2_p0"
-   },
-   {
-    "verdict": "Strong Toxin DPS option",
-    "note": "Serves as the main damage dealer when running Toxin variations with Twitch.",
-    "date": "2026-09-28",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=Kednd9zRcJ8"
-   },
-   {
-    "verdict": "Core Toxin DPS",
-    "note": "Requires high Accuracy to prevent debuff resists, as missed debuffs cause huge damage drop-offs.",
-    "date": "2026-09-28",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=KhU12r5-B1E"
-   },
-   {
-    "verdict": "Top-tier Toxin DPS",
-    "note": "An insane damage dealer for Temporal Vortex whose performance scales massively with higher inspiration levels.",
-    "date": "2026-09-28",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=Msd6wfUmCgM"
-   },
-   {
-    "verdict": "Top DPS pick",
-    "note": "Delivers massive Poison derivative damage and lowers enemy resistance by 35% via her passive, reducing team Accuracy requirements.",
-    "date": "2026-09-28",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=NEVHI1wjARM"
-   },
-   {
-    "verdict": "Primary Toxin DPS",
-    "note": "Uses Statue of the Serpent Deity artifact; stack Enlightenment and ATK, skipping Accuracy if paired with Twitch's Accuracy-sharing gear.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=Qk0ejZ_Wiaw"
-   },
-   {
-    "verdict": "Top-tier Toxin DPS",
-    "note": "Reaching Inspiration 3 adds significant Enlightenment and Attack stats, boosting Toxin team output in Temporal Vortex.",
-    "date": "2026-09-28",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=R3lV4su2x4k"
-   },
-   {
-    "verdict": "Premier Toxin DPS",
-    "note": "Deals heavy Poison Derivative Damage via her Passive and Ultimate, gaining a massive damage boost from Sleight's exclusive artifact.",
-    "date": "2026-09-28",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=RKTCWfPI9og"
-   },
-   {
-    "verdict": "Main damage dealer for Toxin teams",
-    "note": "Requires high Enlightenment stats to maximize Toxin tick damage.",
-    "date": "2026-09-28",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=SBgHAdyNZP4"
-   },
-   {
-    "verdict": "Strong Toxin DPS",
-    "note": "Drives massive damage in Toxin boss teams and trivializes Fallen Shadow Spire and Tactical Adventure when paired with debuffers.",
-    "date": "2026-09-28",
-    "channel": "Volkin Dragonheir",
-    "url": "https://www.youtube.com/watch?v=UloYhjHwdFo"
-   },
-   {
-    "verdict": "Primary Vortex DPS",
-    "note": "Tested at Inspiration 5; can be built stacking HP via the Knight Order set to convert to Attack or built with higher Enlightenment and raw Attack.",
-    "date": "2026-09-28",
-    "channel": "Skyasterix Gaming",
-    "url": "https://www.youtube.com/watch?v=WV_QTnx4_K0"
-   },
-   {
-    "verdict": "Best AoE DPS",
-    "note": "Remains the top AoE damage option for Temporal Vortex even at low inspiration, requiring Enlightenment and ATK%.",
-    "date": "2026-09-28",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=WXJ1Kj3Blfg"
-   },
-   {
-    "verdict": "Top pick for Toxin teams",
-    "note": "Selected at the 300-pull guarantee to serve as the core DPS for a Poison/Toxin roster.",
-    "date": "2026-09-28",
-    "channel": "Volkin Dragonheir",
-    "url": "https://www.youtube.com/watch?v=XRSWWrhi0lI"
-   },
-   {
-    "verdict": "Best AoE DPS in the game",
-    "note": "Top-tier Toxin damage dealer who excels even at Inspiration 0 alongside enablers Durango and Twitch.",
-    "date": "2026-09-28",
-    "channel": "Fastidious Dragonheir",
-    "url": "https://www.youtube.com/watch?v=_bYvuY0lj4w"
-   },
-   {
-    "verdict": "Heavy AoE damage loss in Vortex",
-    "note": "Takes a massive damage hit in Temporal Vortex Noctuaa because fewer eggs spawn during vulnerable boss phases and egg placement cannot be grouped as tightly.",
-    "date": "2026-09-28",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=cIE3zxn4cP4"
-   },
-   {
-    "verdict": "Poison DPS",
-    "note": "Works alongside Sacredeia and Twitch to form the core poison damage engine.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=dZkp2hy0fhc"
-   },
-   {
-    "verdict": "Primary Toxin DPS",
-    "note": "Built full damage with Statue of the Serpent Deity artifact to maximize poison derivative damage.",
-    "date": "2026-09-28",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=em_1Gc-pIuY"
-   },
-   {
-    "verdict": "Core Devitalization speed run hero",
-    "note": "Enables rapid boss clears across Grave dungeons and Heretical Ruins.",
-    "date": "2026-09-28",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/watch?v=euHy0xtygTo"
-   },
-   {
-    "verdict": "Primary Toxin damage dealer",
-    "note": "Scales heavily with high Attack and Enlightenment stats.",
-    "date": "2026-09-28",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=h9SJ-KM7MWc"
-   },
-   {
-    "verdict": "Primary DPS for Toxic team",
-    "note": "Requires around 140-150 Accuracy along with high Enlightenment and Statue of the Serpent Deity to deal massive Poison derivative damage.",
-    "date": "2026-09-28",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=hG8YnV5WAqk"
-   },
-   {
-    "verdict": "Core Toxin DPS",
-    "note": "Serves as the primary damage dealer in the highly accessible F2P Toxin AoE team.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=hXBPeFQV_5Y"
-   },
-   {
-    "verdict": "Top Toxin DPS",
-    "note": "Extremely powerful Toxin DPS dealer who performs exceptionally well even at Inspiration 0.",
-    "date": "2026-09-28",
-    "channel": "Volkin Dragonheir",
-    "url": "https://www.youtube.com/watch?v=jRRemeIzzrc"
-   },
-   {
-    "verdict": "High-enlightenment Toxin sub-DPS",
-    "note": "Built with nearly 500 Enlightenment to contribute heavy supplementary damage in Toxin comps.",
-    "date": "2026-09-28",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=l_v0PMyPf0s"
-   },
-   {
-    "verdict": "Top Selector Target",
-    "note": "Planned target pick for the upcoming Schools of Damage selector banner.",
-    "date": "2026-09-28",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=nbC4lmY_1Kc"
-   },
-   {
-    "verdict": "Top endgame Toxin DPS",
-    "note": "Primary Toxin damage dealer who scales heavily off Enlightenment, making her gear the top forging priority for Toxin players.",
-    "date": "2026-09-28",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=p4yyCNnEwa4"
-   },
-   {
-    "verdict": "Core Toxin DPS",
-    "note": "Primary Poison damage dealer who scales heavily with Enlightenment and Attack; requires Statue of the Serpent Deity artifact for maximum damage.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=pVJgz7nuDhw"
-   },
-   {
-    "verdict": "Toxin debuffer / sub-DPS",
-    "note": "Acts as secondary DPS and debuffer using Golden Antlers set with focus on Attack, Accuracy, and Enlightenment stats.",
-    "date": "2026-09-28",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=qIbUgvin3qg"
-   },
-   {
-    "verdict": "Core progression carry",
-    "note": "Serves as the main carry for Toxin compositions to clear Fey Meander, Grave of Venom, and Fallen Shadow Spire.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=qKmvS6E0Kg0"
-   },
-   {
-    "verdict": "top Toxin DPS",
-    "note": "Deals massive ramping damage over time, scaling exceptionally well with Inspiration 2 and Inspiration 5.",
-    "date": "2026-09-28",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=r9NRq3hlJvY"
-   },
-   {
-    "verdict": "Core Toxin DPS (Inspiration 2 target)",
-    "note": "Carries early game content and speed clears, with Inspiration 2 providing a significant damage increase.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=rQ0_GiS1JTg"
-   },
-   {
-    "verdict": "High-value inspiration target",
-    "note": "Targeted in Option Summons to push for higher Inspiration levels (I2/I3) needed for top ranks in Temporal Vortex.",
-    "date": "2026-09-28",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=rVWvv4Ex-60"
-   },
-   {
-    "verdict": "Enlightenment damage dealer",
-    "note": "Gains significant damage bonuses from Enlightenment talent synergies in PvP.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=shuBe80QMA4"
-   },
-   {
-    "verdict": "High-value Dauntless target",
-    "note": "A prime target whose duplicates are worth pulling for in Option Summons when pairing Dauntless with Toxin.",
-    "date": "2026-09-28",
-    "channel": "Suzi Plays",
-    "url": "https://www.youtube.com/watch?v=vSw-iS_uxgk"
-   },
-   {
-    "verdict": "Selected from 300-pull chest",
-    "note": "Upgrading her to Inspiration IV provides a 30% attack power boost.",
-    "date": "2026-09-28",
-    "channel": "Skyasterix Gaming",
-    "url": "https://www.youtube.com/watch?v=xGyOpnMwKvU"
-   },
-   {
-    "verdict": "High-value selector target",
-    "note": "An exceptional unit worth targeting on the upcoming anniversary selector banners for at least Inspiration 1.",
-    "date": "2026-09-28",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=yVc9XECCX7I"
-   },
-   {
-    "verdict": "Dominates early PvP and Vortex meta",
-    "note": "Anchor for Toxic teams that excel at low inspiration levels in Arena and Temporal Vortex.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=yu4aPXLPwhU"
-   },
-   {
-    "verdict": "Target banner pick",
-    "note": "Selected on the Option Summons II pool to upgrade her inspiration tier.",
-    "date": "2026-09-28",
-    "channel": "Skyasterix Gaming",
-    "url": "https://www.youtube.com/watch?v=zLC3mySaxd8"
-   },
-   {
-    "verdict": "S Tier Enabler",
-    "note": "Massively revitalizes Toxin teams with exceptional AoE damage and fast dungeon clearing.",
-    "date": "2026-08-28",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=V2r59itUDMA"
-   }
-  ],
   "Oggok": [
    {
     "verdict": "Top Defensive Alternative",
@@ -41426,281 +42282,6 @@
     "date": "2026-09-28",
     "channel": "Gorax",
     "url": "https://www.youtube.com/watch?v=ywu-55xJIKU"
-   }
-  ],
-  "Sleight": [
-   {
-    "verdict": "Top Toxin Derivative DPS",
-    "note": "Essential derivative damage dealer; built offensively with Enlightenment, Accuracy, and Attack.",
-    "date": "2026-11-09",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=pgksOlyG-E8"
-   },
-   {
-    "verdict": "Top Toxin DPS vs Guinavivre",
-    "note": "Pumps out huge damage against Guinavivre even at Inspiration 0.",
-    "date": "2026-11-06",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=M1l8V-XyEvs"
-   },
-   {
-    "verdict": "Strong support/buffer",
-    "note": "Provides attack sharing buffs to neighboring units in the Vortex III formation.",
-    "date": "2026-11-02",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/shorts/3uP3hZ785mM"
-   },
-   {
-    "verdict": "Vortex III Toxin teammate",
-    "note": "Included in the five-man Chinese server Toxin lineup alongside Serpentemis and Twitch.",
-    "date": "2026-11-02",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/shorts/K78RaGNiNKI"
-   },
-   {
-    "verdict": "Strong Poison damage dealer",
-    "note": "Contributes steady Poison application and damage scaling against the multiple boss units.",
-    "date": "2026-11-01",
-    "channel": "Skyasterix Gaming",
-    "url": "https://www.youtube.com/watch?v=S_vEulOev_0"
-   },
-   {
-    "verdict": "Toxin buffer & sub-DPS",
-    "note": "Uses exclusive artifact Shell of Gilded Doom, Might of the Inferno, and Whirling Edge to boost allied damage.",
-    "date": "2026-11-01",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=O28V9w5PJdA"
-   },
-   {
-    "verdict": "Strong Toxin DPS",
-    "note": "Built with high Attack, Accuracy, exclusive artifact, and derivative damage gear.",
-    "date": "2026-10-28",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=F8lJPCbJwgs"
-   },
-   {
-    "verdict": "Poison DPS",
-    "note": "Provides consistent Poison damage and debuffs alongside Serpentemis in the Vortex.",
-    "date": "2026-10-28",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=AdMJvbFJWS0"
-   },
-   {
-    "verdict": "Strong Poison sub-DPS",
-    "note": "Equipped with the Blazeland Followers set to stack damage rotation bonuses.",
-    "date": "2026-10-26",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=ZTBevjYvrOo"
-   },
-   {
-    "verdict": "Core Poison DPS / debuffer",
-    "note": "Requires over 250 Resistance to survive Tamar's targeted damage while stacking Accuracy and offensive stats.",
-    "date": "2026-10-25",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=NY1zsbF-vRM"
-   },
-   {
-    "verdict": "core Toxin enabler",
-    "note": "A primary synergy partner required to make Toxin compositions function at their peak.",
-    "date": "2026-10-24",
-    "channel": "Suzi Plays",
-    "url": "https://www.youtube.com/watch?v=scDahdyomBc"
-   },
-   {
-    "verdict": "Toxin damage/debuff support",
-    "note": "Equipped with exclusive artifact and built with Accuracy and Enlightenment.",
-    "date": "2026-10-19",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=Z46YlrpnOfc"
-   },
-   {
-    "verdict": "Top Toxin support/enabler",
-    "note": "Provides vital Toxin and Potent Medicine application; equipped with Three-Ears Emblem to amplify team elemental damage.",
-    "date": "2026-10-15",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=SKgs45pKE8I"
-   },
-   {
-    "verdict": "Core Poison/Toxin enabler",
-    "note": "Build full Attack and aim for 160+ Accuracy.",
-    "date": "2026-10-14",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/watch?v=2O4qJ3I9erI"
-   },
-   {
-    "verdict": "Key Toxin Buffer",
-    "note": "Equipped with Shell of Gilded Doom artifact and high Attack to share stats via Everburning Netherfire gear.",
-    "date": "2026-10-14",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=OggIn5hmQpA"
-   },
-   {
-    "verdict": "High priority for I5",
-    "note": "A core Poison hero that the creator spent 950 dice to upgrade from Inspiration 3 to Inspiration 5.",
-    "date": "2026-10-14",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=RIMqZDo7CUU"
-   },
-   {
-    "verdict": "Essential derivative amplifier",
-    "note": "Carries the Death Record set to increase derivative damage taken by the boss by 20%.",
-    "date": "2026-10-14",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=q-5Iqzt_0VI"
-   },
-   {
-    "verdict": "Crucial Toxin support DPS",
-    "note": "Inflicts Potent Medicine and shares 15% Attack and Defense to adjacent allies in the row when equipped with Everlasting Candleflame armor.",
-    "date": "2026-10-14",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=qUrDNsAZh-A"
-   },
-   {
-    "verdict": "Premier Toxin DPS",
-    "note": "Provides massive team damage scaling with an Alignment set, gaining roughly 40% damage increase from Inspiration 5.",
-    "date": "2026-10-07",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=VEwv_TEaZkc"
-   },
-   {
-    "verdict": "DPS and debuffer in Toxin team",
-    "note": "Equipped with Puppeteer set and built with attack and accuracy.",
-    "date": "2026-10-07",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=gAoX3-kT1mo"
-   },
-   {
-    "verdict": "Support/DPS in Toxin Crisis Rally lineup",
-    "note": "Dealt over 310 million damage (6.4% of team total) to help achieve S-rank.",
-    "date": "2026-10-07",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/watch?v=rwe-Dd4l8ps"
-   },
-   {
-    "verdict": "Essential Poison buffer",
-    "note": "Should be built with high Attack and Molten Surge/Whirling Edge gear instead of Puppeteer so he can share massive attack buffs with Serpentemis and Twitch.",
-    "date": "2026-09-28",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=95WHT5Xp_1k"
-   },
-   {
-    "verdict": "Secondary Toxin DPS",
-    "note": "Build with as much Attack as possible.",
-    "date": "2026-09-28",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/watch?v=GijTOGTEjHI"
-   },
-   {
-    "verdict": "Toxin DPS",
-    "note": "Build full Attack.",
-    "date": "2026-09-28",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/watch?v=Hb1nVIAgoTE"
-   },
-   {
-    "verdict": "Essential Toxin support",
-    "note": "Shares Attack with the primary DPS and applies derivative damage debuffs.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=HqVIrNsj0jg"
-   },
-   {
-    "verdict": "Core Toxin team partner",
-    "note": "Provides passive synergy that accelerates poison procs alongside Serpentemis.",
-    "date": "2026-09-28",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=Jqs7wSn2_p0"
-   },
-   {
-    "verdict": "Toxin enabler",
-    "note": "Positioned strategic in the front line to maximize team synergy and attack buffs.",
-    "date": "2026-09-28",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=KhU12r5-B1E"
-   },
-   {
-    "verdict": "Recommended exchange pick",
-    "note": "Targeted for duplicate acquisition in upcoming shop rotations once key inspirations are finished.",
-    "date": "2026-09-28",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=Msd6wfUmCgM"
-   },
-   {
-    "verdict": "Meta Toxin DPS",
-    "note": "Built with Shell of Gilded Doom artifact and Puppeteer set for 18s rotation tuning; passive ignores enemy resistance.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=Qk0ejZ_Wiaw"
-   },
-   {
-    "verdict": "Top priority for Toxin teams",
-    "note": "His exclusive artifact Shell of Gilded Doom ignores resistance, applies extra Toxin stacks, and increases Poison Derivative Damage by up to 50%.",
-    "date": "2026-09-28",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=RKTCWfPI9og"
-   },
-   {
-    "verdict": "Key Toxin enabler",
-    "note": "Uses Puppeteer set and exclusive artifact to extend debuff durations across the fight.",
-    "date": "2026-09-28",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=SBgHAdyNZP4"
-   },
-   {
-    "verdict": "Core Poison DPS",
-    "note": "Requires high Attack power and precise ultimate skill timing to keep up continuous debuffs and damage.",
-    "date": "2026-09-28",
-    "channel": "Skyasterix Gaming",
-    "url": "https://www.youtube.com/watch?v=WV_QTnx4_K0"
-   },
-   {
-    "verdict": "Strong Toxin DPS hero",
-    "note": "Key Toxin hero whose inspirations can also be built via the Temporal Corridor shop alongside Lothair.",
-    "date": "2026-09-28",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=cJ24cJf9Oh0"
-   },
-   {
-    "verdict": "Target exclusive artifact",
-    "note": "His exclusive artifact increases derivative damage by 50%, making it a top purchase target for Poison/Serpentemis teams.",
-    "date": "2026-09-28",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=dwKINIZQIxg"
-   },
-   {
-    "verdict": "Toxin poison applier",
-    "note": "Wears Puppeteer's Inspiration and Golden Antlers; can be replaced by other poison appliers like Corrin.",
-    "date": "2026-09-28",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=em_1Gc-pIuY"
-   },
-   {
-    "verdict": "Core Devitalization speed run hero",
-    "note": "Contributes to extremely fast clear times in level 79 speed run comps.",
-    "date": "2026-09-28",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/watch?v=euHy0xtygTo"
-   },
-   {
-    "verdict": "Core Toxin DPS",
-    "note": "Great complementary legendary DPS unit for Toxin team compositions.",
-    "date": "2026-09-28",
-    "channel": "Volkin Dragonheir",
-    "url": "https://www.youtube.com/watch?v=jRRemeIzzrc"
-   },
-   {
-    "verdict": "Attack buffer",
-    "note": "Provides massive Attack boosts to the team; built with high Attack stats and requires her exclusive artifact.",
-    "date": "2026-09-28",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=qIbUgvin3qg"
-   },
-   {
-    "verdict": "Toxin DPS",
-    "note": "Needs defensive gear adjustments like Defense or HP% chest pieces to avoid dying early in Difficulty 3.",
-    "date": "2026-09-28",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=r9NRq3hlJvY"
    }
   ],
   "Durango": [
@@ -43687,365 +44268,6 @@
     "url": "https://www.youtube.com/watch?v=V2r59itUDMA"
    }
   ],
-  "Twitch": [
-   {
-    "verdict": "Budget Toxin substitute",
-    "note": "Effective alternative to Lothair, scoring over 5 billion damage in Toxin comps.",
-    "date": "2026-11-08",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=4zWG2dQRL28"
-   },
-   {
-    "verdict": "Primary Toxin damage dealer",
-    "note": "Delivers massive damage in full mythical gear; testing gear with derivative damage bonuses helped push damage even further.",
-    "date": "2026-11-02",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=XfUqC3GwXBk"
-   },
-   {
-    "verdict": "Core debuffer/DPS for Vortex III",
-    "note": "Requires around 200 Accuracy to consistently land debuffs against the increased boss resistance.",
-    "date": "2026-11-02",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/shorts/3uP3hZ785mM"
-   },
-   {
-    "verdict": "Vortex III Toxin teammate",
-    "note": "Runs as part of the primary Toxin squad for consistent poison application and damage.",
-    "date": "2026-11-02",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/shorts/K78RaGNiNKI"
-   },
-   {
-    "verdict": "Solid budget Toxin DPS",
-    "note": "Serves as an effective substitute for Lothair in a 2.38B damage Poison setup.",
-    "date": "2026-11-01",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=0ZADnrn_jh0"
-   },
-   {
-    "verdict": "Toxin buffer & sub-DPS",
-    "note": "Equipped with Might of the Inferno and Everlasting Candleflame to grant derivative damage and share stats with Serpentemis.",
-    "date": "2026-11-01",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=O28V9w5PJdA"
-   },
-   {
-    "verdict": "Strong support buffer",
-    "note": "Utilized with a Puppeteer set, boosting team Attack while maintaining high Accuracy.",
-    "date": "2026-10-30",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/shorts/z4PK6Oze8QQ"
-   },
-   {
-    "verdict": "Desired chest pick",
-    "note": "Mentioned as a favored target from the Legendary Hero Option Chest I.",
-    "date": "2026-10-29",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=QY6-x79h2QE"
-   },
-   {
-    "verdict": "Essential Toxin enabler",
-    "note": "Requires 200+ Accuracy and derivative damage boosting gear.",
-    "date": "2026-10-28",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=F8lJPCbJwgs"
-   },
-   {
-    "verdict": "Strong Corrosion DPS substitute",
-    "note": "Built for full damage equipped with the Swamp Toadstool artifact to boost Corrosion output.",
-    "date": "2026-10-28",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=95O1rcCjYgw"
-   },
-   {
-    "verdict": "Core poison enabler",
-    "note": "Built with Eluia's Fang to reliably apply and sustain Toxin stacks on the boss.",
-    "date": "2026-10-28",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=QmTkNCoEHEk"
-   },
-   {
-    "verdict": "Top Toxin DPS",
-    "note": "Core damage dealer in the 2.4B top Toxin team; needs around 300 Accuracy for Phase 2.",
-    "date": "2026-10-28",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/watch?v=urx_maL6O6s"
-   },
-   {
-    "verdict": "High single-target Poison DPS",
-    "note": "Scales heavily with high Attack and Enlightenment stats.",
-    "date": "2026-10-26",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=ZTBevjYvrOo"
-   },
-   {
-    "verdict": "recommended 3rd DPS",
-    "note": "Serves as an ideal third damage dealer in standard Toxin lineups.",
-    "date": "2026-10-24",
-    "channel": "Suzi Plays",
-    "url": "https://www.youtube.com/watch?v=scDahdyomBc"
-   },
-   {
-    "verdict": "Toxin debuffer",
-    "note": "Acts as the Witch's Remains debuff applier wearing Mystic Conch.",
-    "date": "2026-10-19",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=Z46YlrpnOfc"
-   },
-   {
-    "verdict": "Strong Legendary Toxin DPS",
-    "note": "Acts as a primary poison damage dealer in Toxin team compositions.",
-    "date": "2026-10-19",
-    "channel": "Volkin Dragonheir",
-    "url": "https://www.youtube.com/watch?v=Cz1vkasa9c0"
-   },
-   {
-    "verdict": "Crucial Toxin DPS/debuffer",
-    "note": "Built with Misty Conch and elevated Resistance to ensure clean 15-second skill cycling against Mekkatorque.",
-    "date": "2026-10-18",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=hMbPhfixtdg"
-   },
-   {
-    "verdict": "Solid Poison team option",
-    "note": "A very capable Poison archetype unit worth having if missing from your roster.",
-    "date": "2026-10-14",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=21_BZz5E0XM"
-   },
-   {
-    "verdict": "Essential Toxin support/enabler",
-    "note": "Contributed over 250M damage; build with full Accuracy and Skill Haste.",
-    "date": "2026-10-14",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/watch?v=2O4qJ3I9erI"
-   },
-   {
-    "verdict": "Accuracy & Defense Penalty Support",
-    "note": "Built with Misty Conch for Defense Penalty and max Accuracy to share with teammates via the Bone Resonance set.",
-    "date": "2026-10-14",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=OggIn5hmQpA"
-   },
-   {
-    "verdict": "Great Summon team enabler",
-    "note": "Provides excellent synergy when building secondary teams for multi-team boss fights.",
-    "date": "2026-10-14",
-    "channel": "Volkin Dragonheir",
-    "url": "https://www.youtube.com/watch?v=p6_LHvgp4bs"
-   },
-   {
-    "verdict": "Viable budget replacement",
-    "note": "Can substitute for Lothair to support Serpentemis as the main carry if Lothair is missing.",
-    "date": "2026-10-14",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=qUrDNsAZh-A"
-   },
-   {
-    "verdict": "Core poison damage dealer",
-    "note": "A vital core DPS pick needed to complete and optimize Toxin/Poison team compositions.",
-    "date": "2026-10-14",
-    "channel": "Volkin Dragonheir",
-    "url": "https://www.youtube.com/watch?v=sWDYLD9S2yE"
-   },
-   {
-    "verdict": "Key Toxin damage dealer",
-    "note": "Built with the Alignment gear set, prioritizing Attack and heavy Accuracy for reliable debuff application.",
-    "date": "2026-10-07",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=VEwv_TEaZkc"
-   },
-   {
-    "verdict": "High Priority Meta Hero",
-    "note": "Core unit worth keeping duplicate copies of to reach Inspiration 5 for main teams.",
-    "date": "2026-10-07",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=kmI10_fvl-c"
-   },
-   {
-    "verdict": "Solid Toxin enabler for Crisis Rally",
-    "note": "Contributed over 380 million damage (7.8% of team total).",
-    "date": "2026-10-07",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/watch?v=rwe-Dd4l8ps"
-   },
-   {
-    "verdict": "Derivative damage enabler",
-    "note": "Great user of the Enwinding Flesh set to apply a 20% derivative damage increase mark on targets.",
-    "date": "2026-09-30",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=o0Y6OJRRPh8"
-   },
-   {
-    "verdict": "Core Toxin enabler and support DPS",
-    "note": "Consistently applies Toxin and boosts team elemental/derivative damage when using Three-Ears Emblem or Erwinding Flesh set.",
-    "date": "2026-09-30",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=ydl2Hi0lAy8"
-   },
-   {
-    "verdict": "Core Poison DPS and buffer",
-    "note": "Shares high accuracy with the team and needs over 1,000 defense and 30k+ HP to consistently survive Vortex hits.",
-    "date": "2026-09-28",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=95WHT5Xp_1k"
-   },
-   {
-    "verdict": "Best non-exclusive Toxin hero",
-    "note": "Top-tier Toxin applier when paired with Mystic Conch and Boomerang artifact.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=AgUrbW-yrVc"
-   },
-   {
-    "verdict": "Toxin enabler and debuffer",
-    "note": "Focus on high Accuracy to apply debuffs reliably.",
-    "date": "2026-09-28",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/watch?v=GijTOGTEjHI"
-   },
-   {
-    "verdict": "Core Toxin DPS / Puppeteer Carrier",
-    "note": "Carries the 3-piece Puppeteer set to grant ultimate energy to poison allies and accelerate team rotation to 18s.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=IPIbglFr7r0"
-   },
-   {
-    "verdict": "Strong secondary Toxin DPS",
-    "note": "Applies high stacks of Toxin; excels when equipped with Iluya's Fang to offset low base infliction chances.",
-    "date": "2026-09-28",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=JdV2F-ncZFI"
-   },
-   {
-    "verdict": "Essential single-target and boss-oriented Toxin enabler",
-    "note": "Applies consistent poison stacks needed to constantly trigger Serpentemis's damage in boss content like Temporal Vortex.",
-    "date": "2026-09-28",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=Jqs7wSn2_p0"
-   },
-   {
-    "verdict": "Budget Toxin substitute",
-    "note": "Can replace Lothair if unavailable, maintaining around 5.6 billion damage.",
-    "date": "2026-09-28",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=Kednd9zRcJ8"
-   },
-   {
-    "verdict": "Accuracy buffer for Toxin team",
-    "note": "Built with maximum Accuracy to trigger the Temporal Vortex boss mechanic that grants team damage reduction based on highest Accuracy.",
-    "date": "2026-09-28",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=KhU12r5-B1E"
-   },
-   {
-    "verdict": "Misty Conch or Witch's Remains user for Toxin",
-    "note": "Misty Conch works slightly better for Twitch, but Witch's Remains serves as a solid alternative.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=Ncih4LERkxM"
-   },
-   {
-    "verdict": "Toxin Debuffer & Accuracy Buffer",
-    "note": "Equipped with Ilhuya's Fang artifact and Bone Resonance set with maxed Accuracy to share Accuracy with the team.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=Qk0ejZ_Wiaw"
-   },
-   {
-    "verdict": "Top Toxin Legendary",
-    "note": "Used by high-ranking leaderboard players to achieve massive boss damage in Temporal Vortex.",
-    "date": "2026-09-28",
-    "channel": "Volkin Dragonheir",
-    "url": "https://www.youtube.com/watch?v=UloYhjHwdFo"
-   },
-   {
-    "verdict": "Core Poison DPS",
-    "note": "Requires high Attack power and strict ultimate timing alignment within the 18-second team rotation.",
-    "date": "2026-09-28",
-    "channel": "Skyasterix Gaming",
-    "url": "https://www.youtube.com/watch?v=WV_QTnx4_K0"
-   },
-   {
-    "verdict": "Primary Poison DPS",
-    "note": "Requires tight skill timing to stack over 30 poison ticks on the boss.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=dZkp2hy0fhc"
-   },
-   {
-    "verdict": "Toxin derivative DPS",
-    "note": "Wears Ilhuya's Fang, Whirling Edge, and Bardic Inspiration weapon to maximize poison debuff landing and damage output.",
-    "date": "2026-09-28",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=em_1Gc-pIuY"
-   },
-   {
-    "verdict": "Core Devitalization speed run DPS",
-    "note": "Provides high damage output in sub-12 second dungeon clear teams at level 79.",
-    "date": "2026-09-28",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/watch?v=euHy0xtygTo"
-   },
-   {
-    "verdict": "Core Toxin enabler",
-    "note": "Maximizes team damage using Angelic Alliance artifact or Iluya's Fang as an alternative.",
-    "date": "2026-09-28",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=h9SJ-KM7MWc"
-   },
-   {
-    "verdict": "Toxin enabler for Toxic team",
-    "note": "Uses Illuya's Fang and Darknight Canticle to maximize Toxin application rate across all spawned eggs.",
-    "date": "2026-09-28",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=hG8YnV5WAqk"
-   },
-   {
-    "verdict": "Dream pull target",
-    "note": "Highlighted as the absolute best pull target from the summon pool, though odds are diluted.",
-    "date": "2026-09-28",
-    "channel": "Volkin Dragonheir",
-    "url": "https://www.youtube.com/watch?v=i5zJZ7GF9FM"
-   },
-   {
-    "verdict": "Core Toxin DPS",
-    "note": "Solid legendary DPS choice to pair with Serpentemis in Toxin teams.",
-    "date": "2026-09-28",
-    "channel": "Volkin Dragonheir",
-    "url": "https://www.youtube.com/watch?v=jRRemeIzzrc"
-   },
-   {
-    "verdict": "Top Toxin Enabler & Support",
-    "note": "Applies consistent Toxin stacks; best paired with Illya's Fang artifact to raise Toxin infliction chance near 95%.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=pVJgz7nuDhw"
-   },
-   {
-    "verdict": "Top Vow of Companionship Pick",
-    "note": "Recommended Toxin DPS choice from the $4.99 Legendary Hero Option Chest to build toward a Serpentemis comp.",
-    "date": "2026-09-28",
-    "channel": "Suzi Plays",
-    "url": "https://www.youtube.com/watch?v=qYeXj-9Kuho"
-   },
-   {
-    "verdict": "high-damage Toxin DPS",
-    "note": "Built with pure Attack and survivability rather than high Accuracy.",
-    "date": "2026-09-28",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=r9NRq3hlJvY"
-   },
-   {
-    "verdict": "Crucial Toxin hero",
-    "note": "An essential component of competitive Toxin teams that benefits greatly from Inspiration 5.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=rQ0_GiS1JTg"
-   }
-  ],
   "Alphanarsy": [
    {
     "verdict": "Decent inspiration pull",
@@ -44446,120 +44668,6 @@
     "date": "2026-09-28",
     "channel": "Skratch Gaming",
     "url": "https://www.youtube.com/watch?v=p4yyCNnEwa4"
-   }
-  ],
-  "Stegamoffyn": [
-   {
-    "verdict": "Optimal Toxin debuffer",
-    "note": "Provides maximum accuracy and debuff application, outperforming alternatives when Child of Chaos has Inspiration 2.",
-    "date": "2026-11-06",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=b9L3kRlw8vU"
-   },
-   {
-    "verdict": "Viable offensive option but lower survivability",
-    "note": "Provides a useful Attack aura and poison debuffs, but the team dies much earlier compared to running Reytah.",
-    "date": "2026-11-02",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=XfUqC3GwXBk"
-   },
-   {
-    "verdict": "Top-tier Vortex III pick",
-    "note": "Previously used in Child of Chaos setups before Reytah was showcased as a comparable alternative.",
-    "date": "2026-11-02",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/shorts/3uP3hZ785mM"
-   },
-   {
-    "verdict": "Essential sustain and support in Vortex III",
-    "note": "Keeps the Toxin team alive through the fight, though players with low inspiration on him need to compensate with defensive gear stats.",
-    "date": "2026-11-02",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/shorts/K78RaGNiNKI"
-   },
-   {
-    "verdict": "Key pick for Toxin team",
-    "note": "Provides solid utility and damage synergy in Toxin comps for Vortex 2 and Vortex 3.",
-    "date": "2026-10-30",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/shorts/v07uYiQIt_M"
-   },
-   {
-    "verdict": "Core Toxic healer and enabler",
-    "note": "Built with defensive/healing set pieces to sustain the Toxic team in Vortex.",
-    "date": "2026-10-26",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=ZTBevjYvrOo"
-   },
-   {
-    "verdict": "High-value Poison debuffer and sustain",
-    "note": "Substantially outperformed Reytah in Temporal Vortex, elevating team damage from 340M to 534M when equipped with Misty Conch.",
-    "date": "2026-10-25",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=MzK7B1nM5ys"
-   },
-   {
-    "verdict": "Decent DPS when inspired",
-    "note": "A legendary damage dealer who benefits heavily from full inspiration levels.",
-    "date": "2026-10-14",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=21_BZz5E0XM"
-   },
-   {
-    "verdict": "Support healer and debuffer",
-    "note": "Provides team sustain and debuffs; build for full Attack and Skill Haste.",
-    "date": "2026-10-14",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/watch?v=2O4qJ3I9erI"
-   },
-   {
-    "verdict": "Alternative defensive support",
-    "note": "Provides an Attack aura and survivability boost if struggling to survive with a full-offensive lineup.",
-    "date": "2026-10-14",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=qUrDNsAZh-A"
-   },
-   {
-    "verdict": "Meta in Temporal Vortex",
-    "note": "Received a rework adding a healing passive when damaging debuffed enemies, making him excellent alongside Child of Chaos.",
-    "date": "2026-10-07",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=kmI10_fvl-c"
-   },
-   {
-    "verdict": "Outclassed / Obsolete",
-    "note": "Useless in Poison Temporal Vortex if you have Reytah, as he cannot cleanse the attack debuffs properly.",
-    "date": "2026-09-28",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=95WHT5Xp_1k"
-   },
-   {
-    "verdict": "Toxin DPS",
-    "note": "Benefits significantly from elemental ascension on gear pieces to push higher overall damage.",
-    "date": "2026-09-28",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=KhU12r5-B1E"
-   },
-   {
-    "verdict": "Key Toxin Support & Healer",
-    "note": "Uses Misty Conch artifact to stack debuffs and relies on high ATK to scale his reworked healing.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=Qk0ejZ_Wiaw"
-   },
-   {
-    "verdict": "Surprising top pick in Toxin teams",
-    "note": "Referred to as the 'blueberry muffin,' he provides consistent survivability and utility that lets the Toxin team easily surpass 13 billion damage.",
-    "date": "2026-09-28",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=okhvNfjpOsY"
-   },
-   {
-    "verdict": "conditional Toxin debuffer",
-    "note": "Requires Inspiration 2 to reduce his passive interval and Inspiration 5 to be truly viable over alternative picks.",
-    "date": "2026-09-28",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=r9NRq3hlJvY"
    }
   ],
   "Reytah": [

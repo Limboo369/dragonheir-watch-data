@@ -1,8 +1,8 @@
 {
- "built": "2026-11-11T09:02Z",
- "last_fetch": "2026-11-11T08:17Z",
+ "built": "2026-11-11T09:18Z",
+ "last_fetch": "2026-11-11T09:17Z",
  "counts": {
-  "summarized": 472,
+  "summarized": 473,
   "skipped_giveaway": 17,
   "baseline": 22,
   "skipped_live": 1,
@@ -62,17 +62,11 @@
  ],
  "budget": {
   "day": "2026-11-11",
-  "seconds": 25033,
+  "seconds": 26233,
   "v2": 1,
   "quota_hit": 1794381450.380657
  },
  "log_tail": [
-  "+ liveranov: Burn Team vs Joyce | Continental Challenge | Season 8 | Drag",
-  "saved B8d86fYA6EA",
-  "+ Suzi Plays: WOW!💥My Summoning Luck is BACK! 🔥 Dragonheir x Dragonstride",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 464 videos, 233 heroes",
-  "== 2026-11-11 04:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "Gemini quota was full less than an hour ago, trying again next round",
   "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 464 videos, 233 heroes",
@@ -146,7 +140,13 @@
   "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "Gemini quota was full less than an hour ago, trying again next round",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 472 videos, 234 heroes"
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 472 videos, 234 heroes",
+  "== 2026-11-11 09:17",
+  "fetch done: 0 new transcripts, 0 not available yet",
+  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
+  "… liveranov: Toxin Team vs Temporal Vortex IV: Cloudtop Arbor (Shaded) | ",
+  "saved 21S3OQZt1f4",
+  "+ liveranov: Toxin Team vs Temporal Vortex IV: Cloudtop Arbor (Shaded) | "
  ],
  "crontab": [],
  "channels": [
@@ -154,55 +154,55 @@
    "name": "Skratch Gaming",
    "id": "UCoSkzr1pXpt3d0jIxsc6ufw",
    "enabled": true,
-   "checked": "2026-11-11T08:17Z"
+   "checked": "2026-11-11T09:17Z"
   },
   {
    "name": "Gorax",
    "id": "UCNas7BnuOIjDEzY1D53kb1w",
    "enabled": true,
-   "checked": "2026-11-11T08:17Z"
+   "checked": "2026-11-11T09:17Z"
   },
   {
    "name": "Neff Gaming",
    "id": "UCsxs6YhNd_B36RgUAjbpJ_A",
    "enabled": true,
-   "checked": "2026-11-11T08:17Z"
+   "checked": "2026-11-11T09:17Z"
   },
   {
    "name": "Volkin Dragonheir",
    "id": "UCfRpOh_ywVjzhh9fxHbreGw",
    "enabled": true,
-   "checked": "2026-11-11T08:17Z"
+   "checked": "2026-11-11T09:17Z"
   },
   {
    "name": "Fastidious Dragonheir",
    "id": "UC16mpj5wEemSZX-uTlHe9Ww",
    "enabled": true,
-   "checked": "2026-11-11T08:17Z"
+   "checked": "2026-11-11T09:17Z"
   },
   {
    "name": "OddOneGaming RPGs",
    "id": "UC1ivUEf_poI9_R2eVKa8wRQ",
    "enabled": true,
-   "checked": "2026-11-11T08:17Z"
+   "checked": "2026-11-11T09:17Z"
   },
   {
    "name": "Suzi Plays",
    "id": "UCyo1-TkunhGcK6khU1h8Ypw",
    "enabled": true,
-   "checked": "2026-11-11T08:17Z"
+   "checked": "2026-11-11T09:17Z"
   },
   {
    "name": "Skyasterix Gaming",
    "id": "UCr5Gb3910rK7QPmKMmdagsA",
    "enabled": true,
-   "checked": "2026-11-11T08:17Z"
+   "checked": "2026-11-11T09:17Z"
   },
   {
    "name": "liveranov",
    "id": "UCqCR7ofFHhWwXy3Hg00fqEw",
    "enabled": true,
-   "checked": "2026-11-11T08:17Z"
+   "checked": "2026-11-11T09:17Z"
   }
  ]
 }
