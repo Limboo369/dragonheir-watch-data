@@ -1,5 +1,5 @@
 {
- "built": "2026-11-11T06:50Z",
+ "built": "2026-11-11T07:20Z",
  "videos": [
   {
    "summary": "OddOne presents a single full-auto team capable of clearing all 60 stages of the Season 9 Meander Trial. The core damage dealer is Talethia, supported by Anneliesis, Child of Chaos, Diantha, and Holfast. Talethia ideally requires at least Inspiration 2, whereas Anneliesis and Child of Chaos function well at base copies. Diantha and Holfast can be swapped out for other aura support heroes if needed.",
@@ -20122,6 +20122,76 @@
    "summarized": "2026-11-03T01:23Z"
   },
   {
+   "summary": "Gorax provides a quick guide on how to maximize rewards in the Eve of the Rift event's Nightveil Standoff faction war. Players should complete the Fated Path questionnaire and select the Dark Lady faction (Nightsworn Vanguard), which is leading in reputation points. Accessing the Riftbound All-Star Night web event via the Support Faction Creators button allows players to bind creators. Selecting Gorax as God Envoy and OddOneGam as Preacher ensures the highest possible draw count for the settlement rewards.",
+   "topics": [
+    "Eve of the Rift",
+    "Nightveil Standoff",
+    "Riftbound All-Star Night",
+    "Faction War"
+   ],
+   "heroes": [],
+   "teams": [],
+   "meta_changes": [],
+   "tips": [
+    "Complete the Fated Path questionnaire under the Nightveil Standoff menu to unlock faction selection.",
+    "Join the Dark Lady faction (Nightsworn Vanguard) instead of Child of Chaos to stay on the winning side for better draw pool rewards.",
+    "Click the Support Faction Creators button to open the Riftbound All-Star Night browser event.",
+    "Bind Gorax as your God Envoy and OddOneGam as your Preacher on the web event page to maximize your draw count before settlement."
+   ],
+   "season": "unknown",
+   "server_scope": "mixed",
+   "value": "medium",
+   "id": "7A82RrlsJac",
+   "model": "gemini-3.6-flash",
+   "channel": "Gorax",
+   "title": "Join Your Faction NOW Before You Miss These Rewards! | Dragonheir x Dragonstride",
+   "published": "2026-09-28T12:00:00+00:00",
+   "url": "https://www.youtube.com/watch?v=7A82RrlsJac",
+   "short": false,
+   "summarized": "2026-11-11T07:17Z"
+  },
+  {
+   "summary": "The video highlights the Starlit Delights rebate event, which allows players to obtain up to 30,000 Dragon Crystals rebate (equivalent to 300 Heliolite Dice, doubling total dice gain up to 600). The creator discusses saving resources for major hero releases such as Child of Chaos and important endgame heroes like Tariz. He encourages players to evaluate their roster needs before deciding which banner to pull on.",
+   "topics": [
+    "Starlit Delights",
+    "Dragon Crystal Rebate",
+    "Child of Chaos",
+    "Tariz",
+    "Heliolite Dice"
+   ],
+   "heroes": [
+    {
+     "name": "Child of Chaos",
+     "verdict": "Highly anticipated spend target",
+     "note": "Creator considers saving all resources for this hero.",
+     "known": true
+    },
+    {
+     "name": "Tariz",
+     "verdict": "Important hero for S8 endgame bosses",
+     "note": "Key hero for turn manipulation against chiefs and endgame boss content.",
+     "known": true
+    }
+   ],
+   "teams": [],
+   "meta_changes": [],
+   "tips": [
+    "Take advantage of the Starlit Delights rebate event to earn up to 30,000 extra Dragon Crystals.",
+    "Carefully plan whether to pull for endgame boss specialists like Tariz or save for Child of Chaos."
+   ],
+   "season": "S8",
+   "server_scope": "mixed",
+   "value": "medium",
+   "id": "7tKX4QXxedA",
+   "model": "gemini-3.5-flash",
+   "channel": "Skyasterix Gaming",
+   "title": "🤩 DON’T MISS THIS! 🔥 S8 NEW REBATE + 30K Dragon Crystals = 600 Dice | Dragonheir: Silent Gods",
+   "published": "2026-09-28T12:00:00+00:00",
+   "url": "https://www.youtube.com/watch?v=7tKX4QXxedA",
+   "short": false,
+   "summarized": "2026-11-11T07:17Z"
+  },
+  {
    "summary": "This video covers the 3rd Anniversary event rewards, promo codes, and optimal start strategies for new and returning Dragonheir players. Skratch outlines how to acquire up to 4 free Legendary heroes early through download links, login events, and the Fate Test web event. He also explains how to navigate beginner banners, Prophecy Summons, and Celebration Servers for maximum rewards.",
    "topics": [
     "anniversary",
@@ -37615,6 +37685,13 @@
     "url": "https://www.youtube.com/watch?v=ydl2Hi0lAy8"
    },
    {
+    "verdict": "Highly anticipated spend target",
+    "note": "Creator considers saving all resources for this hero.",
+    "date": "2026-09-28",
+    "channel": "Skyasterix Gaming",
+    "url": "https://www.youtube.com/watch?v=7tKX4QXxedA"
+   },
+   {
     "verdict": "Top anniversary banner priority",
     "note": "Limited SP hero that should be the main focus for anniversary summons.",
     "date": "2026-09-28",
@@ -42421,6 +42498,13 @@
     "date": "2026-10-07",
     "channel": "liveranov",
     "url": "https://www.youtube.com/watch?v=wWFEFO70B9Q"
+   },
+   {
+    "verdict": "Important hero for S8 endgame bosses",
+    "note": "Key hero for turn manipulation against chiefs and endgame boss content.",
+    "date": "2026-09-28",
+    "channel": "Skyasterix Gaming",
+    "url": "https://www.youtube.com/watch?v=7tKX4QXxedA"
    },
    {
     "verdict": "Key Thunderbolt debuffer",

@@ -1,6 +1,16 @@
 {
- "built": "2026-11-11T06:50Z",
+ "built": "2026-11-11T07:20Z",
  "videos": [
+  {
+   "id": "iwGDcflY87g",
+   "title": "Prepare NOW! Final Week CN Continental Challenge Teams | Dragonheir",
+   "channel": "Gorax",
+   "published": "2026-11-11T12:00:00+00:00",
+   "status": "new",
+   "priority": false,
+   "duration_s": 1479,
+   "error": ""
+  },
   {
    "id": "8LEwnu4X9JU",
    "title": "The BEST Heroes to Pick in Traveler’s Departure Gift | Dragonheir x Dragonstride",
@@ -22,16 +32,6 @@
    "error": ""
   },
   {
-   "id": "7tKX4QXxedA",
-   "title": "🤩 DON’T MISS THIS! 🔥 S8 NEW REBATE + 30K Dragon Crystals = 600 Dice | Dragonheir: Silent Gods",
-   "channel": "Skyasterix Gaming",
-   "published": "2026-09-28T12:00:00+00:00",
-   "status": "retry",
-   "priority": false,
-   "duration_s": 241,
-   "error": ""
-  },
-  {
    "id": "7CUpwx_0p38",
    "title": "Faction & Binding Explained! Everything You Need to Know! | Dragonheir: Silent Gods",
    "channel": "Neff Gaming",
@@ -39,16 +39,6 @@
    "status": "retry",
    "priority": false,
    "duration_s": 238,
-   "error": ""
-  },
-  {
-   "id": "7A82RrlsJac",
-   "title": "Join Your Faction NOW Before You Miss These Rewards! | Dragonheir x Dragonstride",
-   "channel": "Gorax",
-   "published": "2026-09-28T12:00:00+00:00",
-   "status": "retry",
-   "priority": false,
-   "duration_s": 107,
    "error": ""
   },
   {

@@ -1,14 +1,14 @@
 {
- "built": "2026-11-11T06:50Z",
- "last_fetch": "2026-11-11T06:17Z",
+ "built": "2026-11-11T07:20Z",
+ "last_fetch": "2026-11-11T07:17Z",
  "counts": {
-  "summarized": 468,
+  "summarized": 470,
   "skipped_giveaway": 17,
   "baseline": 22,
   "skipped_live": 1,
   "failed": 3,
-  "new": 173,
-  "retry": 8
+  "new": 174,
+  "retry": 6
  },
  "problems": [
   {
@@ -20,12 +20,6 @@
   {
    "title": "A MUST HAVE! Child Of Chaos Kit Reveal... Dragonheir: Silent Gods x Dragonstride",
    "channel": "Skratch Gaming",
-   "status": "retry",
-   "error": ""
-  },
-  {
-   "title": "Join Your Faction NOW Before You Miss These Rewards! | Dragonheir x Dragonstride",
-   "channel": "Gorax",
    "status": "retry",
    "error": ""
   },
@@ -54,12 +48,6 @@
    "error": ""
   },
   {
-   "title": "🤩 DON’T MISS THIS! 🔥 S8 NEW REBATE + 30K Dragon Crystals = 600 Dice | Dragonheir: Silent Gods",
-   "channel": "Skyasterix Gaming",
-   "status": "retry",
-   "error": ""
-  },
-  {
    "title": "Dauntless Team vs Whisk | Continental Challenge | Season 8 | Dragonheir",
    "channel": "liveranov",
    "status": "retry",
@@ -80,30 +68,11 @@
  ],
  "budget": {
   "day": "2026-11-11",
-  "seconds": 23067,
+  "seconds": 25033,
   "v2": 1,
-  "quota_hit": 1794374274.360478
+  "quota_hit": 1794381450.380657
  },
  "log_tail": [
-  "… Suzi Plays: WOW!💥My Summoning Luck is BACK! 🔥 Dragonheir x Dragonstride",
-  "… liveranov: Burn Team vs Joyce | Continental Challenge | Season 8 | Drag",
-  "… Gorax: 300 Dice Into Option Summons 1… Unlucky Again?! | Dragonheir",
-  "… Skratch Gaming: Pick This Faction! The Dark Lady Faction Vs. The Child Of Ch",
-  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
-  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
-  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
-  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
-  "… Neff Gaming: BEST Thunderbolt Setups & Supports + Tariz Banner! | Contine",
-  "saved AgUrbW-yrVc",
-  "+ Gorax: 300 Dice Into Option Summons 1… Unlucky Again?! | Dragonheir",
-  "… Skratch Gaming: USE THE Child Of Chaos Like This!! Temporal Vortex Guide Dra",
-  "! Pick This Faction! The Dark Lady Faction Vs. The C: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
-  "… liveranov: Thunderbolt Team vs Talethia and Aemonleyda | Continental Ch",
-  "! USE THE Child Of Chaos Like This!! Temporal Vortex: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
-  "… Skratch Gaming: The BEST TIME To START Playing Dragonheir: Silent Gods x Dra",
-  "! Thunderbolt Team vs Talethia and Aemonleyda | Cont: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
-  "… Gorax: The BEST Heroes to Pick in Traveler’s Departure Gift | Drago",
-  "! The BEST TIME To START Playing Dragonheir: Silent : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
   "… Gorax: NEW ACTIVE CODES! Claim FREE Rewards Before They Expire! | D",
   "! The BEST Heroes to Pick in Traveler’s Departure Gi: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
   "… Skyasterix Gaming: 🤩 DON’T MISS THIS! 🔥 S8 NEW REBATE + 30K Dragon Crystals = 6",
@@ -164,7 +133,26 @@
   "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "Gemini quota was full less than an hour ago, trying again next round",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 468 videos, 233 heroes"
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 468 videos, 233 heroes",
+  "== 2026-11-11 07:17",
+  "fetch done: 0 new transcripts, 0 not available yet",
+  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
+  "… Gorax: Prepare NOW! Final Week CN Continental Challenge Teams | Dra",
+  "… Gorax: The BEST Heroes to Pick in Traveler’s Departure Gift | Drago",
+  "… Gorax: NEW ACTIVE CODES! Claim FREE Rewards Before They Expire! | D",
+  "… Skyasterix Gaming: 🤩 DON’T MISS THIS! 🔥 S8 NEW REBATE + 30K Dragon Crystals = 6",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
+  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
+  "… Neff Gaming: Faction & Binding Explained! Everything You Need to Know! | ",
+  "! The BEST Heroes to Pick in Traveler’s Departure Gi: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+  "… Gorax: Join Your Faction NOW Before You Miss These Rewards! | Drago",
+  "! Faction & Binding Explained! Everything You Need t: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+  "saved 7A82RrlsJac",
+  "+ Gorax: Join Your Faction NOW Before You Miss These Rewards! | Drago",
+  "saved 7tKX4QXxedA",
+  "+ Skyasterix Gaming: 🤩 DON’T MISS THIS! 🔥 S8 NEW REBATE + 30K Dragon Crystals = 6"
  ],
  "crontab": [],
  "channels": [
@@ -172,55 +160,55 @@
    "name": "Skratch Gaming",
    "id": "UCoSkzr1pXpt3d0jIxsc6ufw",
    "enabled": true,
-   "checked": "2026-11-11T06:17Z"
+   "checked": "2026-11-11T07:17Z"
   },
   {
    "name": "Gorax",
    "id": "UCNas7BnuOIjDEzY1D53kb1w",
    "enabled": true,
-   "checked": "2026-11-11T06:17Z"
+   "checked": "2026-11-11T07:17Z"
   },
   {
    "name": "Neff Gaming",
    "id": "UCsxs6YhNd_B36RgUAjbpJ_A",
    "enabled": true,
-   "checked": "2026-11-11T06:17Z"
+   "checked": "2026-11-11T07:17Z"
   },
   {
    "name": "Volkin Dragonheir",
    "id": "UCfRpOh_ywVjzhh9fxHbreGw",
    "enabled": true,
-   "checked": "2026-11-11T06:17Z"
+   "checked": "2026-11-11T07:17Z"
   },
   {
    "name": "Fastidious Dragonheir",
    "id": "UC16mpj5wEemSZX-uTlHe9Ww",
    "enabled": true,
-   "checked": "2026-11-11T06:17Z"
+   "checked": "2026-11-11T07:17Z"
   },
   {
    "name": "OddOneGaming RPGs",
    "id": "UC1ivUEf_poI9_R2eVKa8wRQ",
    "enabled": true,
-   "checked": "2026-11-11T06:17Z"
+   "checked": "2026-11-11T07:17Z"
   },
   {
    "name": "Suzi Plays",
    "id": "UCyo1-TkunhGcK6khU1h8Ypw",
    "enabled": true,
-   "checked": "2026-11-11T06:17Z"
+   "checked": "2026-11-11T07:17Z"
   },
   {
    "name": "Skyasterix Gaming",
    "id": "UCr5Gb3910rK7QPmKMmdagsA",
    "enabled": true,
-   "checked": "2026-11-11T06:17Z"
+   "checked": "2026-11-11T07:17Z"
   },
   {
    "name": "liveranov",
    "id": "UCqCR7ofFHhWwXy3Hg00fqEw",
    "enabled": true,
-   "checked": "2026-11-11T06:17Z"
+   "checked": "2026-11-11T07:17Z"
   }
  ]
 }
