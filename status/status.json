@@ -1,5 +1,5 @@
 {
- "built": "2026-11-11T03:22Z",
+ "built": "2026-11-11T03:59Z",
  "last_fetch": "2026-11-11T03:17Z",
  "counts": {
   "summarized": 464,
@@ -85,7 +85,6 @@
   "quota_hit": 1794367138.7848237
  },
  "log_tail": [
-  "… Gorax: Things Get Serious on Day 3! New Server Progression | Beginn",
   "… liveranov: Dauntless Team vs Fire Guardians - UPDATED LVL 100 HEROES | ",
   "… Skyasterix Gaming: 👉NEW S9 HERO REVEALED?! What You NEED to Know is Here! | Dra",
   "  gemini-3.8-flash: 429, using gemini-3.5-flash",
@@ -164,7 +163,8 @@
   "saved AzFq6dMPl7g",
   "+ liveranov: Burn Team vs Joyce | Continental Challenge | Season 8 | Drag",
   "saved B8d86fYA6EA",
-  "+ Suzi Plays: WOW!💥My Summoning Luck is BACK! 🔥 Dragonheir x Dragonstride"
+  "+ Suzi Plays: WOW!💥My Summoning Luck is BACK! 🔥 Dragonheir x Dragonstride",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 464 videos, 233 heroes"
  ],
  "crontab": [],
  "channels": [
