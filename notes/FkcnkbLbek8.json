@@ -1,0 +1,60 @@
+{
+ "summary": "Child of Chaos is a versatile limited hero whose passive restricts external energy gain, but his ultimate rotation can still be tuned to 18 seconds through direct Skill Haste gear or the Benevolent talent. His exclusive artifact, Dragonbone Catalyst, provides either a 30% damage boost for matching-element allies or 30% damage reduction for different-element allies. With the Gaze of Chaos talent activated, he ignores enemy resistance, eliminating the requirement for Accuracy stats on gear. Players are strongly encouraged to pull for Child of Chaos while his limited banner is active.",
+ "topics": [
+  "Child of Chaos",
+  "Hero Mechanics",
+  "Skill Haste",
+  "Talents",
+  "Reversal Summon"
+ ],
+ "heroes": [
+  {
+   "name": "Child of Chaos",
+   "verdict": "Must-pull limited support hero",
+   "note": "Extremely flexible element-swapping support providing high damage boosts or damage reduction while ignoring enemy resistance with talents.",
+   "known": true
+  },
+  {
+   "name": "Beldelle",
+   "verdict": "Testing partner hero",
+   "note": "Used in testing to demonstrate element matching bonuses and Puppeteer gear set interactions.",
+   "known": true
+  },
+  {
+   "name": "Fathomdown",
+   "verdict": "Recommended support on banner",
+   "note": "Strong Lightning support hero useful in Continental Challenge content.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Boss / Rotation Testing",
+   "heroes": [
+    "Child of Chaos",
+    "Beldelle"
+   ],
+   "note": "Demonstrates syncing 18-second ultimate rotations and testing elemental matching damage increases."
+  }
+ ],
+ "meta_changes": [
+  "Child of Chaos introduces a flexible element-swapping support that can apply 30% damage increase or 30% damage reduction across diverse elemental team compositions."
+ ],
+ "tips": [
+  "Equip Skill Haste gear (such as Starlight Echo set) or select the Benevolent talent to lower Child of Chaos's ultimate skill rotation to 18 seconds.",
+  "Puppeteer's Inspiration set bonus only increases Child of Chaos's ultimate energy if equipped directly on him, not when worn by team allies.",
+  "Unlock the Gaze of Chaos talent to ignore enemy resistance, allowing you to skip building Accuracy on Child of Chaos.",
+  "Prioritize obtaining Child of Chaos and his exclusive artifact Dragonbone Catalyst during his limited banner period."
+ ],
+ "season": "S9",
+ "server_scope": "mixed",
+ "value": "high",
+ "id": "FkcnkbLbek8",
+ "model": "gemini-3.5-flash",
+ "channel": "Gorax",
+ "title": "The RIGHT Way to Build Child of Chaos! Advanced Tips to Make Him OP | Dragonheir x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=FkcnkbLbek8",
+ "short": false,
+ "summarized": "2026-11-11T00:21Z"
+}

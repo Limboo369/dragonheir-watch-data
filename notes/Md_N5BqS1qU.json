@@ -1,0 +1,70 @@
+{
+ "summary": "OddOne presents a single full-auto team capable of clearing all 60 stages of the Season 9 Meander Trial. The core damage dealer is Talethia, supported by Anneliesis, Child of Chaos, Diantha, and Holfast. Talethia ideally requires at least Inspiration 2, whereas Anneliesis and Child of Chaos function well at base copies. Diantha and Holfast can be swapped out for other aura support heroes if needed.",
+ "topics": [
+  "Meander Trial",
+  "Season 9",
+  "Talethia",
+  "Auto Team"
+ ],
+ "heroes": [
+  {
+   "name": "Talethia",
+   "verdict": "Core DPS for Meander Trial",
+   "note": "Built with standard damage gear; works reliably when at least Inspiration 2.",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "Essential support",
+   "note": "Functions completely fine at base copy (Inspiration 0).",
+   "known": true
+  },
+  {
+   "name": "Diantha",
+   "verdict": "Aura support",
+   "note": "Used as an aura support hero and can be substituted by other aura supports.",
+   "known": true
+  },
+  {
+   "name": "Holfast",
+   "verdict": "Aura support",
+   "note": "Acts as an aura support hero and can be substituted by other aura supports.",
+   "known": true
+  },
+  {
+   "name": "Child of Chaos",
+   "verdict": "Core utility hero",
+   "note": "Clears all 60 stages at base inspiration with no extra copies needed.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Meander Trial",
+   "heroes": [
+    "Talethia",
+    "Anneliesis",
+    "Diantha",
+    "Holfast",
+    "Child of Chaos"
+   ],
+   "note": "Full-auto team that clears stages 1 through 60; Diantha and Holfast can be swapped for other aura supports, and only Talethia benefits significantly from Inspiration 2+."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Aim for at least Inspiration 2 on Talethia for consistent full-auto clears, while keeping Anneliesis and Child of Chaos at base copies.",
+  "If missing Diantha or Holfast, swap them out for any other available aura support heroes."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "Md_N5BqS1qU",
+ "model": "gemini-3.8-flash",
+ "channel": "OddOneGaming RPGs",
+ "title": "🚨 1 TEAM CLEARS ALL 🚨 Meander Trial 1-60 S9 Full Auto GUIDE #dragonheirsilentgods  #dragonheir",
+ "published": "2026-11-10T16:00:00+00:00",
+ "url": "https://www.youtube.com/shorts/Md_N5BqS1qU",
+ "short": true,
+ "summarized": "2026-11-11T00:20Z"
+}

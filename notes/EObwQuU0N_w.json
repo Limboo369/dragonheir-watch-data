@@ -1,0 +1,46 @@
+{
+ "summary": "This video previews Thea, a new Necrosis support hero arriving in Season 9 of Dragonheir: Silent Gods. The creator details her complete kit, including her passive Mercy mechanic that accumulates reduced damage to trigger teamwide healing and shields, alongside ATK Reduction II and Charging Speed Reduction debuffs. Her skills clean negative effects, grant percent-HP shields, and apply unique debuffs like Repentance while granting defense-based blocks. Tested at Inspiration 5 in Temporal Vortex, her Corrosion team reached 45.2 billion damage, leading the creator to label her an S-tier meta-defining supporter across all modes.",
+ "topics": [
+  "Thea",
+  "Season 9 preview",
+  "hero review",
+  "Temporal Vortex",
+  "Arena"
+ ],
+ "heroes": [
+  {
+   "name": "Thea",
+   "verdict": "Must-have meta support for Season 9",
+   "note": "Provides teamwide damage amplification, damage reduction, massive shields, heals via her Mercy absorption mechanic, clean debuffs, ATK Reduction, and charge speed penalties.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Temporal Vortex",
+   "heroes": [
+    "Thea"
+   ],
+   "note": "Achieves extremely high damage outputs (over 45 billion in a single run at I5) by maintaining team survivability and continuous buff uptime."
+  }
+ ],
+ "meta_changes": [
+  "Introduction of Thea in Season 9, setting a new high standard for premium support heroes in both PvP and PvE end-game content."
+ ],
+ "tips": [
+  "Build high initial HP on Thea because her maximum Mercy storage capacity scales directly with her initial HP.",
+  "Aim for Inspiration 2 on Thea if possible to increase her Mercy accumulation speed and maximum capacity by 20%.",
+  "Use her passive skill and talent to gain initial Mercy at the start of battle for instant team survivability in Arena and boss fights."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "EObwQuU0N_w",
+ "model": "gemini-3.5-flash",
+ "channel": "Skyasterix Gaming",
+ "title": "🚨 NEW S9 META PREMIUM SUPPORTER?! Skills Revealed! 🔥 | Dragonheir: Silent Gods",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=EObwQuU0N_w",
+ "short": false,
+ "summarized": "2026-11-11T00:21Z"
+}

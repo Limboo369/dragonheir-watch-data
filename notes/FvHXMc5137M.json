@@ -1,0 +1,69 @@
+{
+ "summary": "This video showcases an updated Thunderbolt team against Talethia and Aemonleyda in the Continental Challenge. The team consists of Tariz, Perkunte, Alaura, Phaessa, and Journ, reaching over 1.03 billion total damage within 5 minutes. Detailed gear builds and skill timing setups are provided for each hero to optimize damage output.",
+ "topics": [
+  "Continental Challenge",
+  "Thunderbolt",
+  "Talethia",
+  "Boss Challenge"
+ ],
+ "heroes": [
+  {
+   "name": "Tariz",
+   "verdict": "Puppeteer Haste buffer",
+   "note": "Built with the Puppeteer set and maximum Skill Haste to buff the Thunderbolt lineup.",
+   "known": true
+  },
+  {
+   "name": "Perkunte",
+   "verdict": "Thunderbolt DPS",
+   "note": "Built with full Enlightenment and Attack stats for maximum Thunderbolt damage.",
+   "known": true
+  },
+  {
+   "name": "Alaura",
+   "verdict": "Thunderbolt DPS",
+   "note": "Built with full Enlightenment stats to boost damage.",
+   "known": true
+  },
+  {
+   "name": "Phaessa",
+   "verdict": "Haste and Accuracy support",
+   "note": "Built with full Skill Haste and Accuracy for utility and team support.",
+   "known": true
+  },
+  {
+   "name": "Journ",
+   "verdict": "Attack and Haste sub-DPS",
+   "note": "Built with full Attack and some Skill Haste to contribute team damage.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Continental Challenge (Talethia & Aemonleyda)",
+   "heroes": [
+    "Tariz",
+    "Perkunte",
+    "Alaura",
+    "Phaessa",
+    "Journ"
+   ],
+   "note": "Achieved 1,032,119,179 total damage in 5 minutes with precise ultimate skill timing."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Set ultimate skill first cast timing for Tariz (9.5s), Perkunte (10.0s), and Alaura (9.8s) with 15.0s recast to align buff windows and optimize damage against Talethia."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "medium",
+ "id": "FvHXMc5137M",
+ "model": "gemini-3.5-flash",
+ "channel": "liveranov",
+ "title": "Thunderbolt UPDATED vs Talethia and Aemonleyda | Continental Challenge | Season 8 | Dragonheir",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=FvHXMc5137M",
+ "short": false,
+ "summarized": "2026-11-11T00:21Z"
+}

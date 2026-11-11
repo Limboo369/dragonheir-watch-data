@@ -1,0 +1,114 @@
+{
+ "summary": "Gorax highlights the top Epic and select Rare heroes in Dragonheir: Silent Gods that beginners and F2P/low-spenders should prioritize building. The guide covers premium frontliners and supports like Garius, Dallbam, Voresh, Adolphus, Nathaniel, Frurbath, and Meggan, detailing their kit mechanics and best artifact pairings. It also highlights powerful Epic DPS synergies including the Ice Blast duo Gerthin with Bleddyn, and the Frost duo Rava with Vidimir.",
+ "topics": [
+  "epic heroes",
+  "beginner guide",
+  "tanks",
+  "supports",
+  "dps duos"
+ ],
+ "heroes": [
+  {
+   "name": "Garius",
+   "verdict": "Top-tier Radiance tank & healer",
+   "note": "Obtained free on Day 2; scales heals with Defense, gains up to 60% permanent Defense from taking hits, and serves as both primary tank and main healer.",
+   "known": true
+  },
+  {
+   "name": "Dallbam",
+   "verdict": "Budget Eurion / Harpy dungeon tank",
+   "note": "Features invincibility upon taking fatal damage, self-shields, boosts own Defense by 60%, and inflicts Blind based on Defense.",
+   "known": true
+  },
+  {
+   "name": "Voresh",
+   "verdict": "Must-build OP Ice debuffer & support",
+   "note": "Applies Buff Prohibition, dispels enemy buffs, and provides passive heals while dealing damage; highly effective across PvP, dungeons, and bosses.",
+   "known": true
+  },
+  {
+   "name": "Adolphus",
+   "verdict": "Budget Felosia / Fire shield support",
+   "note": "Grants large shields scaling with Enlightenment, heals allies who already have a shield, and boosts ally Ultimate Energy by 20%.",
+   "known": true
+  },
+  {
+   "name": "Nathaniel",
+   "verdict": "Top Lightning cleanser & support",
+   "note": "Dispels debuffs from adjacent allies, grants shields, heals, and applies Defense Up +30%.",
+   "known": true
+  },
+  {
+   "name": "Frurbath",
+   "verdict": "Top-tier Poison tank & healer",
+   "note": "Generates a healing nexus around himself scaling with Defense and inflicts Attack Penalty II with his ultimate.",
+   "known": true
+  },
+  {
+   "name": "Meggan",
+   "verdict": "High-value Rare energy battery support",
+   "note": "Dispels Defense Penalty from allies, recharges ally Ultimate Energy by 25% on a short cooldown, and applies Defense Up and Recovery Over Time.",
+   "known": true
+  },
+  {
+   "name": "Gerthin",
+   "verdict": "Budget Beldelle / Ice Blast DPS",
+   "note": "Self-buffs Crit Rate and Crit Damage for high burst damage, but requires Bleddyn for optimal Ice Crystal generation.",
+   "known": true
+  },
+  {
+   "name": "Bleddyn",
+   "verdict": "Essential Ice Blast enabler",
+   "note": "Generates Ice Crystals for Ice Blast allies like Gerthin while granting Attack Up.",
+   "known": true
+  },
+  {
+   "name": "Rava",
+   "verdict": "Frost enabler DPS",
+   "note": "Applies Frost debuffs to prepare enemies for Vidimir's detonation.",
+   "known": true
+  },
+  {
+   "name": "Vidimir",
+   "verdict": "Frost detonator DPS",
+   "note": "Detonates Frost on enemies and gains Ultimate Energy whenever a frosted enemy dies, allowing frequent ultimate spams against waves.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Dungeons / Ice Blast DPS",
+   "heroes": [
+    "Gerthin",
+    "Bleddyn"
+   ],
+   "note": "Bleddyn supplies Ice Crystals and Attack Up to enable Gerthin's high crit burst."
+  },
+  {
+   "mode": "Dungeons / Wave Clear Frost",
+   "heroes": [
+    "Rava",
+    "Vidimir"
+   ],
+   "note": "Rava inflicts Frost and Vidimir detonates it, gaining Ultimate Energy on kills to spam his ultimate."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Equip Garius with Gatekeeper's Staff (Mythic) to convert overhealing into team shields, or use Scarab Amulet (Legendary) early on.",
+  "Equip Voresh with Witch's Remains artifact so his full-screen ultimate inflicts Defense Penalty II across all enemies.",
+  "Equip Adolphus with Antinaya's Tiara for extra shield power, or Aurelium Vest (Mythic) to give shielded allies damage reduction.",
+  "Do not ignore the Rare hero Meggan, as her skill upgrades are cheap and her 25% ultimate energy refund is powerful."
+ ],
+ "season": "S1",
+ "server_scope": "S1",
+ "value": "high",
+ "id": "GNKkOC92jhE",
+ "model": "gemini-3.5-flash",
+ "channel": "Gorax",
+ "title": "The BEST Epic Heroes You Should Build as a Beginner! | Beginner Series | Dragonheir x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=GNKkOC92jhE",
+ "short": false,
+ "summarized": "2026-11-11T00:20Z"
+}

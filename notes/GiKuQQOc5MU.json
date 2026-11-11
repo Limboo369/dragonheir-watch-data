@@ -1,0 +1,70 @@
+{
+ "summary": "Fastidious breaks down why the 3rd Anniversary celebration is the best time to start a fresh Dragonheir account. New accounts created on designated Celebration Servers receive major progression boosts, event rewards, and starter heroes like Legendary Auster and Epic Cervinia via referral links. The limited Reversal Summon banner introduces Child of Chaos, a universal support unit that can match any element team. Players can also participate in daily sign-in events, faction showdowns, and claim 24-hour promo codes worth 15 Heliolite Dice each day.",
+ "topics": [
+  "3rd Anniversary",
+  "Celebration Server",
+  "Child of Chaos",
+  "Promo Codes",
+  "Temporal Corridor"
+ ],
+ "heroes": [
+  {
+   "name": "Child of Chaos",
+   "verdict": "Top-tier flexible support hero",
+   "note": "Has no fixed element and can switch elements to adapt to any team composition, providing team damage mitigation, healing, and bonus damage.",
+   "known": true
+  },
+  {
+   "name": "Auster",
+   "verdict": "Free legendary Frost damage dealer via download link",
+   "note": "A high-value Cold damage dealer that ignores enemy defense and inflicts Frost on targets.",
+   "known": true
+  },
+  {
+   "name": "Cervinia",
+   "verdict": "Free epic hero from anniversary referral link",
+   "note": "Starter epic hero provided alongside Auster when creating an account using the creator link.",
+   "known": true
+  },
+  {
+   "name": "Villiana",
+   "verdict": "Solid Deep Elf support hero",
+   "note": "A chaotic evil Deep Elf legendary support hero who excels in sustaining team setups.",
+   "known": false
+  },
+  {
+   "name": "Gillian",
+   "verdict": "Radiance support hero",
+   "note": "A Radiance element lawful good support hero that provides strong healing and utility.",
+   "known": true
+  },
+  {
+   "name": "Guinavivre",
+   "verdict": "Best-in-class Dauntless hero",
+   "note": "Highlighted in the Temporal Corridor exchange shop as the premier unit for Dauntless team compositions.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [
+  "Introduction of Celebration Servers designed to hyper-boost progression for new accounts during the 3rd Anniversary.",
+  "Addition of Temporal Corridor exchange shop where Dust-Sealed Tomes can be redeemed for specific legendary heroes and legendary selector chests."
+ ],
+ "tips": [
+  "Download the game using creator referral links to receive free copies of Legendary Auster and Epic Cervinia.",
+  "Choose a server marked with the yellow Celebration Server tag when creating a new account to receive account progression hyper-boosts.",
+  "Check the official Discord redeemcode-announcements channel daily during the 3rd Anniversary event for limited 24-hour promo codes worth 15 Heliolite Dice each.",
+  "Save extra hero duplicates and Soul Imprints to exchange for exclusive mythic artifacts like Dragonbone Catalyst in the Artifact Shop."
+ ],
+ "season": "S9",
+ "server_scope": "mixed",
+ "value": "medium",
+ "id": "GiKuQQOc5MU",
+ "model": "gemini-3.5-flash",
+ "channel": "Fastidious Dragonheir",
+ "title": "THE BEST TIME TO START A NEW ACCOUNT. 3rd Anniversary Breakdown & Rewards ⁂ Dragonheir: Silent Gods",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=GiKuQQOc5MU",
+ "short": false,
+ "summarized": "2026-11-11T00:20Z"
+}

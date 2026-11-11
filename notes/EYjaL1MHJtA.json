@@ -1,0 +1,73 @@
+{
+ "summary": "This video showcases the top-performing Ice Blast team setup against the Continental Challenge boss Elcebre. The lineup features Beldelle, Fredegonda, Shinnah, Ernesto, and Felosia, achieving over 1.1 billion damage. The guide details the equipment sets, stat priorities, artifacts, and exact skill timing settings required for maximum damage output. Notably, Felosia serves as the support without needing an exclusive hero, making the setup accessible while delivering elite performance.",
+ "topics": [
+  "Continental Challenge",
+  "Ice Blast Team",
+  "Boss Guide",
+  "Elcebre",
+  "Skill Timing"
+ ],
+ "heroes": [
+  {
+   "name": "Beldelle",
+   "verdict": "Primary Ice Blast DPS",
+   "note": "Built with high Crit Rate and Attack using exclusive artifact and top offensive mythic gear.",
+   "known": true
+  },
+  {
+   "name": "Fredegonda",
+   "verdict": "Key Ice Blast DPS",
+   "note": "Focuses on Crit Rate, Crit Damage, and Attack; uses exclusive artifact or Orb of the Dragon God.",
+   "known": true
+  },
+  {
+   "name": "Shinnah",
+   "verdict": "Essential Ice Blast Enabler",
+   "note": "Equipped with Witches Remains set and Booster artifact.",
+   "known": true
+  },
+  {
+   "name": "Ernesto",
+   "verdict": "High-Damage Buffer/Attacker",
+   "note": "Built with Secrecy set, high Attack stats, Angelic Alliance, and extra Skill Haste.",
+   "known": true
+  },
+  {
+   "name": "Felosia",
+   "verdict": "Best Non-Exclusive Support",
+   "note": "Equipped with Puppeteer set, Golden Antlers, Enlightenment, Defense, and Accuracy.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Continental Challenge (Elcebre)",
+   "heroes": [
+    "Beldelle",
+    "Fredegonda",
+    "Shinnah",
+    "Ernesto",
+    "Felosia"
+   ],
+   "note": "Top Ice Blast team capable of 1.1B to 1.6B+ damage against Elcebre using precise 18-second cycle timings."
+  }
+ ],
+ "meta_changes": [
+  "Ice Blast teams against Elcebre are shifting from Golem pet to Genie pet for higher overall damage output."
+ ],
+ "tips": [
+  "Set ultimate skill delays to align everyone after Felosia: Felosia at 17.3s, Ernesto and Shinnah at 17.8s, Fredegonda at 17.85s, and Beldelle at 17.9s, with all secondary delays set to 18.0s.",
+  "If you lack Fredegonda's exclusive artifact, Orb of the Dragon God or another team-boosting artifact works as a strong substitute."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "EYjaL1MHJtA",
+ "model": "gemini-3.5-flash",
+ "channel": "Neff Gaming",
+ "title": "BEST Ice Blast Team vs Elcebre! | S8 Continental Challenge | Dragonheir: Silent Gods",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=EYjaL1MHJtA",
+ "short": false,
+ "summarized": "2026-11-11T00:21Z"
+}

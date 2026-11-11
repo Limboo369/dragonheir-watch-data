@@ -1,0 +1,35 @@
+{
+ "summary": "Skyasterix discusses the extreme difficulty tuning of Meander Trial Stage 120, criticizing the developers for over-buffing the enemy lineup featuring two Phaessas and two Quaesitias. He highlights the Fire legendary hero Victor as the essential counter required to beat this encounter. Victor's kit turns enemy buffs into harmful debuffs, inflicts Buff Prohibition, and disrupts healing and ultimate energy generation. Utilizing Victor helps non-whaled accounts clear this otherwise overtuned boss stage.",
+ "topics": [
+  "Meander Trial",
+  "Stage 120",
+  "Victor",
+  "Hero Counter"
+ ],
+ "heroes": [
+  {
+   "name": "Victor",
+   "verdict": "Top key hero for Meander Trial Stage 120",
+   "note": "Converts enemy buffs into negative debuffs, applies Buff Prohibition, and reduces enemy healing and ultimate energy recovery.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [
+  "Meander Trial Stage 120 enemies (featuring Phaessa and Quaesitia) received heavy stat and buff escalations making it extremely challenging for normal accounts."
+ ],
+ "tips": [
+  "Deploy Victor on Meander Trial Stage 120 to strip and invert the massive buff stacks on enemy Phaessa and Quaesitia."
+ ],
+ "season": "unknown",
+ "server_scope": "mixed",
+ "value": "high",
+ "id": "GOH5hYKMg0E",
+ "model": "gemini-3.5-flash",
+ "channel": "Skyasterix Gaming",
+ "title": "⚠️DEVS MESSED UP AGAIN! Trial 120 Is INSANE — USE VICTOR! 🔥 | Dragonheir: Silent Gods",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=GOH5hYKMg0E",
+ "short": false,
+ "summarized": "2026-11-11T00:20Z"
+}

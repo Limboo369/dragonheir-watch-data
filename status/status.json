@@ -1,11 +1,11 @@
 {
- "built": "2026-11-10T23:58Z",
- "last_fetch": "2026-11-10T23:17Z",
+ "built": "2026-11-11T00:22Z",
+ "last_fetch": "2026-11-11T00:17Z",
  "counts": {
-  "summarized": 439,
+  "summarized": 451,
   "skipped_giveaway": 17,
   "baseline": 22,
-  "new": 210,
+  "new": 198,
   "skipped_live": 1,
   "failed": 3
  },
@@ -30,52 +30,11 @@
   }
  ],
  "budget": {
-  "day": "2026-11-10",
-  "seconds": 26394,
-  "v2": 1,
-  "quota_hit": 1794295993.542331
+  "day": "2026-11-11",
+  "seconds": 11850,
+  "v2": 1
  },
  "log_tail": [
-  "+ liveranov: Toxin Team (UPDATED) vs Fire Guardians | Crown Contest | Dra",
-  "saved H0Tu1OdZ898",
-  "+ Skratch Gaming: These Heroes Are Getting A Big Damage Boost!! New Artifacts ",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 439 videos, 229 heroes",
-  "== 2026-11-10 10:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (439 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 439 videos, 229 heroes",
-  "== 2026-11-10 11:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (439 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 439 videos, 229 heroes",
-  "== 2026-11-10 12:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (439 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 439 videos, 229 heroes",
-  "== 2026-11-10 13:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (439 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 439 videos, 229 heroes",
-  "== 2026-11-10 14:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (439 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 439 videos, 229 heroes",
-  "== 2026-11-10 15:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (439 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 439 videos, 229 heroes",
-  "== 2026-11-10 16:17",
-  "fetch done: 0 new transcripts, 0 not available yet",
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (439 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 439 videos, 229 heroes",
-  "== 2026-11-10 17:17",
   "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "daily video budget used (439 min), waiting for tomorrow",
@@ -115,7 +74,47 @@
   "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "daily video budget used (439 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 439 videos, 229 heroes"
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 439 videos, 229 heroes",
+  "== 2026-11-11 00:17",
+  "fetch done: 0 new transcripts, 0 not available yet",
+  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
+  "… OddOneGaming RPGs: 🚨 1 TEAM CLEARS ALL 🚨 Meander Trial 1-60 S9 Full Auto GUIDE ",
+  "… OddOneGaming RPGs: 🚨 EASY Full Auto Clear 🚨 1 Team ALL Of Meander Trial Stage 1",
+  "… OddOneGaming RPGs: 💥 Over 1000 Summons For i3 Anneliesis 💥 My BIGGEST Summon Se… liveranov: Official Aura Team Guide: Best Lineup, Swaps & Gear 🛡️ Holfa",
+  "",
+  "… Fastidious Dragonheir: THE BEST TIME TO START A NEW ACCOUNT. 3rd Anniversary Breakd",
+  "saved Md_N5BqS1qU",
+  "+ OddOneGaming RPGs: 🚨 1 TEAM CLEARS ALL 🚨 Meander Trial 1-60 S9 Full Auto GUIDE ",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "… Skyasterix Gaming: ⚠️DEVS MESSED UP AGAIN! Trial 120 Is INSANE — USE VICTOR! 🔥 ",
+  "saved A3KEQqeUo6U",
+  "+ OddOneGaming RPGs: 🚨 EASY Full Auto Clear 🚨 1 Team ALL Of Meander Trial Stage 1",
+  "… Gorax: The BEST Epic Heroes You Should Build as a Beginner! | Begin",
+  "saved oJ4LjJRJ5Ag",
+  "+ liveranov: Official Aura Team Guide: Best Lineup, Swaps & Gear 🛡️ Holfa",
+  "… liveranov: Thunderbolt UPDATED vs Talethia and Aemonleyda | Continental",
+  "saved GOH5hYKMg0E",
+  "+ Skyasterix Gaming: ⚠️DEVS MESSED UP AGAIN! Trial 120 Is INSANE — USE VICTOR! 🔥 ",
+  "… Gorax: The RIGHT Way to Build Child of Chaos! Advanced Tips to Make",
+  "… Skratch Gaming: START HERE! The Only Beginner Guide You Need... Dragonheir: ",
+  "saved GiKuQQOc5MU (unknown hero names: Villiana)",
+  "+ Fastidious Dragonheir: THE BEST TIME TO START A NEW ACCOUNT. 3rd Anniversary Breakd",
+  "saved GNKkOC92jhE",
+  "+ Gorax: The BEST Epic Heroes You Should Build as a Beginner! | Begin",
+  "… Neff Gaming: BEST Ice Blast Team vs Elcebre! | S8 Continental Challenge |",
+  "saved FvHXMc5137M",
+  "+ liveranov: Thunderbolt UPDATED vs Talethia and Aemonleyda | Continental",
+  "… Skyasterix Gaming: 🚨 NEW S9 META PREMIUM SUPPORTER?! Skills Revealed! 🔥 | Drago",
+  "saved FkcnkbLbek8",
+  "+ Gorax: The RIGHT Way to Build Child of Chaos! Advanced Tips to Make",
+  "saved EYjaL1MHJtA",
+  "+ Neff Gaming: BEST Ice Blast Team vs Elcebre! | S8 Continental Challenge |",
+  "saved EObwQuU0N_w",
+  "+ Skyasterix Gaming: 🚨 NEW S9 META PREMIUM SUPPORTER?! Skills Revealed! 🔥 | Drago",
+  "saved FaAD_y36yfk",
+  "+ Skratch Gaming: START HERE! The Only Beginner Guide You Need... Dragonheir: ",
+  "saved 4aU5TuXE8gc",
+  "+ OddOneGaming RPGs: 💥 Over 1000 Summons For i3 Anneliesis 💥 My BIGGEST Summon Se"
  ],
  "crontab": [],
  "channels": [
@@ -123,55 +122,55 @@
    "name": "Skratch Gaming",
    "id": "UCoSkzr1pXpt3d0jIxsc6ufw",
    "enabled": true,
-   "checked": "2026-11-10T23:17Z"
+   "checked": "2026-11-11T00:17Z"
   },
   {
    "name": "Gorax",
    "id": "UCNas7BnuOIjDEzY1D53kb1w",
    "enabled": true,
-   "checked": "2026-11-10T23:17Z"
+   "checked": "2026-11-11T00:17Z"
   },
   {
    "name": "Neff Gaming",
    "id": "UCsxs6YhNd_B36RgUAjbpJ_A",
    "enabled": true,
-   "checked": "2026-11-10T23:17Z"
+   "checked": "2026-11-11T00:17Z"
   },
   {
    "name": "Volkin Dragonheir",
    "id": "UCfRpOh_ywVjzhh9fxHbreGw",
    "enabled": true,
-   "checked": "2026-11-10T23:17Z"
+   "checked": "2026-11-11T00:17Z"
   },
   {
    "name": "Fastidious Dragonheir",
    "id": "UC16mpj5wEemSZX-uTlHe9Ww",
    "enabled": true,
-   "checked": "2026-11-10T23:17Z"
+   "checked": "2026-11-11T00:17Z"
   },
   {
    "name": "OddOneGaming RPGs",
    "id": "UC1ivUEf_poI9_R2eVKa8wRQ",
    "enabled": true,
-   "checked": "2026-11-10T23:17Z"
+   "checked": "2026-11-11T00:17Z"
   },
   {
    "name": "Suzi Plays",
    "id": "UCyo1-TkunhGcK6khU1h8Ypw",
    "enabled": true,
-   "checked": "2026-11-10T23:17Z"
+   "checked": "2026-11-11T00:17Z"
   },
   {
    "name": "Skyasterix Gaming",
    "id": "UCr5Gb3910rK7QPmKMmdagsA",
    "enabled": true,
-   "checked": "2026-11-10T23:17Z"
+   "checked": "2026-11-11T00:17Z"
   },
   {
    "name": "liveranov",
    "id": "UCqCR7ofFHhWwXy3Hg00fqEw",
    "enabled": true,
-   "checked": "2026-11-10T23:17Z"
+   "checked": "2026-11-11T00:17Z"
   }
  ]
 }

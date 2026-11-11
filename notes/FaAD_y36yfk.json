@@ -1,0 +1,143 @@
+{
+ "summary": "This comprehensive beginner guide covers fundamental mechanics and early game strategy in Dragonheir: Silent Gods. Creator Skratch explains how seasonal elemental affinity pairings work, how hero damage dealers differ between direct (Crit/Attack) and derivative (Enlightenment) scaling, and how to build synergistic teams around specific damage schools. He breaks down summoning banner rules, emphasizing pity management and why players must save 300 Heliolite Dice before pulling on exclusive banners. Additionally, he outlines daily stamina spending priorities, shop buying guides for spenders and F2P, island base upgrades, and the top Mythic Artifacts to buy first.",
+ "topics": [
+  "beginner guide",
+  "banner strategy",
+  "artifact priority",
+  "stat explanation",
+  "island management",
+  "psychicore"
+ ],
+ "heroes": [
+  {
+   "name": "Flora",
+   "verdict": "Top Wild DPS",
+   "note": "Primary exclusive damage dealer for Wild school teams.",
+   "known": true
+  },
+  {
+   "name": "Chorak",
+   "verdict": "Top Wild activator",
+   "note": "Exclusive Wild activator that boosts Wild dice roll results for the team.",
+   "known": true
+  },
+  {
+   "name": "Thorgos",
+   "verdict": "Solid Wild damage and activator",
+   "note": "Deals Fire damage and enhances team survivability and damage through Wild dice rolls.",
+   "known": true
+  },
+  {
+   "name": "Vyressa",
+   "verdict": "Top Fire Burn DPS",
+   "note": "Exclusive Fire damage dealer enabling heavy Burn synergy when allies trigger Blast.",
+   "known": true
+  },
+  {
+   "name": "Scaarr",
+   "verdict": "High-value Fire support",
+   "note": "Exclusive support hero providing Fire damage, continuous Lifesteal, healing, and buffs.",
+   "known": true
+  },
+  {
+   "name": "Hochadir",
+   "verdict": "Great early Frost DPS",
+   "note": "Ice AoE damage dealer specialized in Frost synergy, excellent for early progression.",
+   "known": true
+  },
+  {
+   "name": "Auster",
+   "verdict": "Strong Frost DPS",
+   "note": "Complements Hochadir in Frost school AoE damage teams.",
+   "known": true
+  },
+  {
+   "name": "Felosia",
+   "verdict": "Top Ice support",
+   "note": "Grants shields, Cold damage, and strong defensive buffs to allies.",
+   "known": true
+  },
+  {
+   "name": "Acilia",
+   "verdict": "Top Radiance healer and tank",
+   "note": "Provides Radiant damage, heavy healing, and teamwide debuff immunity.",
+   "known": true
+  },
+  {
+   "name": "Sintrellia",
+   "verdict": "Great Summoner enabler",
+   "note": "Key legendary unit for building summoner-focused teams.",
+   "known": true
+  },
+  {
+   "name": "Ivellios",
+   "verdict": "Key Dauntless DPS",
+   "note": "Lightning damage dealer that buffs Dauntless allies and penetrates enemy Defense.",
+   "known": true
+  },
+  {
+   "name": "Garius",
+   "verdict": "Essential early tank",
+   "note": "Free Day 2 epic tank that heals the entire team based on his Defense stat.",
+   "known": true
+  },
+  {
+   "name": "Nastjenka",
+   "verdict": "Top Lightning direct DPS",
+   "note": "Direct damage dealer scaling heavily with Attack, Crit Rate, and Crit Damage.",
+   "known": true
+  },
+  {
+   "name": "Lothair",
+   "verdict": "Top Poison derivative DPS",
+   "note": "Deals massive derivative damage scaling with Attack and Enlightenment.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Wild Team",
+   "heroes": [
+    "Flora",
+    "Thorgos",
+    "Chorak",
+    "Felicity"
+   ],
+   "note": "High-synergy Wild school team built around stacked dice roll activations."
+  },
+  {
+   "mode": "Early Frost Progression",
+   "heroes": [
+    "Hochadir",
+    "Auster"
+   ],
+   "note": "Strong early game AoE Frost pairing for fast dungeon clearing."
+  }
+ ],
+ "meta_changes": [
+  "Seasonal element pairing: Two elemental affinities are combined into one shared affinity bonus each season (e.g., Wildfire combines Fire and Poison).",
+  "Skill Haste serves as the game's speed stat, reducing battle skill and ultimate cooldown times rather than turn order.",
+  "Damage scaling splits into direct damage (Attack + Crit) and derivative damage (Attack + Enlightenment)."
+ ],
+ "tips": [
+  "Never pull on limited or selectable banners without having at least 270 to 300 Heliolite Dice reserved to guarantee the selector hero at 300 pulls.",
+  "Purchase 2 daily stamina refills (60 stamina each for 150 Wyrmarrow total) every single day to maintain steady account progression.",
+  "Do not farm gear dungeons in the early game; push to the highest stage possible once, then spend stamina on Goblin Lair and Talent dungeons instead.",
+  "Prioritize purchasing Witch's Remains as your first Mythic Artifact from the shop for its essential Defense Penalty II debuff.",
+  "Gatekeeper's Staff is the second recommended shop artifact to buy, converting overhealing into team shields and boosting Skill Haste.",
+  "Never exchange exclusive hero duplicate soul imprints for generic Mythic Artifacts; save them for that hero's Exclusive Artifact or Inspiration.",
+  "In the Psychicore mastery tree, focus on maxing nodes for your primary two elemental affinities rather than spreading points across all elements.",
+  "Prioritize upgrading your support heroes' skills before DPS heroes so their healing and buff rotations keep the team alive."
+ ],
+ "season": "S1",
+ "server_scope": "S1",
+ "value": "high",
+ "id": "FaAD_y36yfk",
+ "model": "gemini-3.5-flash",
+ "channel": "Skratch Gaming",
+ "title": "START HERE! The Only Beginner Guide You Need... Dragonheir: Silent Gods",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=FaAD_y36yfk",
+ "short": false,
+ "summarized": "2026-11-11T00:22Z"
+}

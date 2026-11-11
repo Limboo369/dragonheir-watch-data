@@ -1,0 +1,90 @@
+{
+ "summary": "This official Aura School guide breaks down the core mechanics, optimal team lineup, hero replacements, and gear choices. Aura heroes scale primarily with Max HP, delivering heavy AoE damage combined with strong survivability. The core engine consists of Anneliesis for healing, shields, and damage buffs, paired with Holfast to feed Aura energy to the team. A full recommended lineup consists of 4 Aura heroes and 1 Support, with clear swap options if core damage or support units are missing.",
+ "topics": [
+  "Aura School",
+  "Team Lineup",
+  "Hero Swaps",
+  "Gear Swaps",
+  "Talents"
+ ],
+ "heroes": [
+  {
+   "name": "Anneliesis",
+   "verdict": "Core Aura support",
+   "note": "Provides damage boosts, shields, and healing so the team only requires a single support.",
+   "known": true
+  },
+  {
+   "name": "Holfast",
+   "verdict": "Core Aura battery",
+   "note": "Provides vital Aura energy generation to power the rest of the team.",
+   "known": true
+  },
+  {
+   "name": "Talethia",
+   "verdict": "Recommended Aura DPS",
+   "note": "Acts as the primary damage dealer in the recommended Aura lineup.",
+   "known": true
+  },
+  {
+   "name": "Diantha",
+   "verdict": "Recommended Aura support",
+   "note": "Provides damage bonus support in the optimal 4 Aura composition.",
+   "known": true
+  },
+  {
+   "name": "Rena",
+   "verdict": "Recommended 5th slot support",
+   "note": "Fills the single dedicated support slot in the standard Aura composition.",
+   "known": true
+  },
+  {
+   "name": "Aemonleyda",
+   "verdict": "Alternate main DPS",
+   "note": "Recommended direct swap for Talethia as the team's main damage dealer.",
+   "known": true
+  },
+  {
+   "name": "Lincos",
+   "verdict": "Alternate damage support",
+   "note": "Serves as a direct swap for Diantha to provide damage bonus support.",
+   "known": true
+  },
+  {
+   "name": "Celestine",
+   "verdict": "Alternate survival support",
+   "note": "Serves as a direct swap for Rena if additional survival support is needed.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "General / All-Round",
+   "heroes": [
+    "Anneliesis",
+    "Holfast",
+    "Talethia",
+    "Diantha",
+    "Rena"
+   ],
+   "note": "Recommended 4 Aura + 1 Support team composition centered on the Anneliesis and Holfast core."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Aura heroes scale with Max HP, allowing the composition to achieve high AoE damage and high survival simultaneously.",
+  "If you do not have Angelic Alliance, equip Anneliesis with Solar King's Horn instead.",
+  "If missing heroes, substitute Talethia with Aemonleyda, Diantha with Lincos, or Rena with Celestine."
+ ],
+ "season": "unknown",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "oJ4LjJRJ5Ag",
+ "model": "gemini-3.8-flash",
+ "channel": "liveranov",
+ "title": "Official Aura Team Guide: Best Lineup, Swaps & Gear 🛡️ Holfast + Anneliesis | Dragonheir #shorts",
+ "published": "2026-11-10T11:38:54+00:00",
+ "url": "https://www.youtube.com/shorts/oJ4LjJRJ5Ag",
+ "short": true,
+ "summarized": "2026-11-11T00:20Z"
+}

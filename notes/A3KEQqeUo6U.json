@@ -1,0 +1,104 @@
+{
+ "summary": "OddOneGaming showcases a full-auto clear team capable of handling Meander Trial stages 1 through 60 in Season 9 without getting stuck. The core composition relies heavily on Radiance/Aura synergy featuring Talethia, Child of Chaos, and Anneliesis, supported by Diantha and Holfast. For players missing certain pieces, replacements such as Lincos, Solmo, Ardreth, Gillian, or Ripekas are recommended to add survival and crowd control. Crucial gear choices include equipping accuracy on Anneliesis to land stuns and positioning Whirlwind Edge wearers next to Talethia.",
+ "topics": [
+  "Meander Trial",
+  "Team Building",
+  "Hero Builds",
+  "Gear Sets",
+  "Full Auto"
+ ],
+ "heroes": [
+  {
+   "name": "Talethia",
+   "verdict": "Must-have Radiance DPS",
+   "note": "Described as the number one hero everyone should get, serving as the primary damage engine; does not strictly need Inspiration 5 to clear.",
+   "known": true
+  },
+  {
+   "name": "Anneliesis",
+   "verdict": "Core Radiance support and crowd controller",
+   "note": "Provides excellent crowd control and team buffs; needs sufficient Accuracy to ensure her ultimate consistently lands stuns.",
+   "known": true
+  },
+  {
+   "name": "Child of Chaos",
+   "verdict": "Core frontline tank and support",
+   "note": "Acts as the frontline anchor and healer using Moonlight's Grace and Monelisse's Teardrop to prevent one-shots.",
+   "known": true
+  },
+  {
+   "name": "Holfast",
+   "verdict": "Strong Aura damage dealer",
+   "note": "Channels Aura energy to allies and provides offensive support; can be substituted with Lincos if unavailable.",
+   "known": true
+  },
+  {
+   "name": "Diantha",
+   "verdict": "Great Radiance damage dealer and buffer",
+   "note": "Supplies an Attack Aura and Aura energy, boosting team damage through artifacts like Orb of the Dragon God and gear sets like Whirling Edge.",
+   "known": true
+  },
+  {
+   "name": "Lincos",
+   "verdict": "Top alternative for Holfast",
+   "note": "Recommended direct replacement if you lack Holfast.",
+   "known": true
+  },
+  {
+   "name": "Ripekas",
+   "verdict": "Top control and utility tank option",
+   "note": "Brings multiple debuffs, ultimate energy pushback, and stuns if your team struggles with enemy damage and survival.",
+   "known": true
+  },
+  {
+   "name": "Solmo",
+   "verdict": "Recommended defensive support substitute",
+   "note": "Can be slotted in for additional shields and survival if the team is dying.",
+   "known": true
+  },
+  {
+   "name": "Ardreth",
+   "verdict": "Recommended defensive support substitute",
+   "note": "Provides a defense aura and support utility to help keep the team alive against heavy hits.",
+   "known": true
+  },
+  {
+   "name": "Gillian",
+   "verdict": "Recommended healer substitute",
+   "note": "An accessible Radiance option if more consistent healing is required to survive stages.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Meander Trial",
+   "heroes": [
+    "Child of Chaos",
+    "Talethia",
+    "Anneliesis",
+    "Holfast",
+    "Diantha"
+   ],
+   "note": "Full auto team for stages 1 to 60. Child of Chaos tanks in front, Diantha sits within 1 tile of Talethia to grant Whirling Edge buffs, and Anneliesis provides stun CC."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Equip the hero positioned right next to Talethia with the Whirling Edge set to permanently stack bonus damage onto her.",
+  "Ensure Anneliesis is built with enough Accuracy so her ultimate ability reliably stuns enemy targets.",
+  "Equip Monelisse's Teardrop on Child of Chaos to prevent unexpected one-shots on the frontline.",
+  "Use Glimmering Long-Eared Deer (or Golden Tressym) as your familiar for control, shields, and survivability.",
+  "If failing due to lack of survival, swap a secondary damage dealer for crowd control (stun/knock-up) or healing heroes like Solmo, Gillian, or Ripekas."
+ ],
+ "season": "S9",
+ "server_scope": "mixed",
+ "value": "high",
+ "id": "A3KEQqeUo6U",
+ "model": "gemini-3.8-flash",
+ "channel": "OddOneGaming RPGs",
+ "title": "🚨 EASY Full Auto Clear 🚨 1 Team ALL Of Meander Trial Stage 1-60 S9 | Dragonheir x Dragonstride",
+ "published": "2026-11-10T14:00:37+00:00",
+ "url": "https://www.youtube.com/watch?v=A3KEQqeUo6U",
+ "short": false,
+ "summarized": "2026-11-11T00:20Z"
+}

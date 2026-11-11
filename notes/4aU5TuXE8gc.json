@@ -1,0 +1,40 @@
+{
+ "summary": "OddOne conducts a massive 1,160 summon session aiming to unlock Inspiration 3 (three copies) for the premium Aura legendary Anneliesis. He explains the banner mechanics, noting a guaranteed copy at 300 summons and a hidden 1,000-summon pity for the featured premium hero. Anneliesis's Inspiration 3 grants a permanent 10% Max HP and 10% Damage Bonus to all allies at battle start, making it a powerful milestone. After hitting high pity on multiple legendaries, he successfully pulls two copies and claims the 300-milestone copy to reach I3.",
+ "topics": [
+  "summoning",
+  "Anneliesis",
+  "banner mechanics",
+  "inspiration"
+ ],
+ "heroes": [
+  {
+   "name": "Anneliesis",
+   "verdict": "Top tier Aura buffer (worth targeting I3)",
+   "note": "Her Inspiration 3 grants all allies 10% Max HP and 10% Damage Bonus at battle start, while her Inspiration 2 adds 10% damage when allies have shields.",
+   "known": true
+  },
+  {
+   "name": "Eurion",
+   "verdict": "Amazing tank",
+   "note": "Praised as an amazing tank hero during summons, though duplicate copies have diminished returns after Inspiration 5.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [],
+ "tips": [
+  "The 300-summon accumulated guarantee banner features a hidden pity at 1,000 summons that guarantees the featured premium legendary.",
+  "Anneliesis's Inspiration 2 passive synergizes naturally with continuous shield providers like Solmo to maintain a 10% team damage buff."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "low",
+ "id": "4aU5TuXE8gc",
+ "model": "gemini-3.8-flash",
+ "channel": "OddOneGaming RPGs",
+ "title": "💥 Over 1000 Summons For i3 Anneliesis 💥 My BIGGEST Summon Session EVER | Dragonheir x Dragonstride",
+ "published": "2026-11-10T12:00:38+00:00",
+ "url": "https://www.youtube.com/watch?v=4aU5TuXE8gc",
+ "short": false,
+ "summarized": "2026-11-11T00:22Z"
+}
