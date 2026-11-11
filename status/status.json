@@ -1,13 +1,13 @@
 {
- "built": "2026-11-11T14:43Z",
- "last_fetch": "2026-11-11T14:17Z",
+ "built": "2026-11-11T15:17Z",
+ "last_fetch": "2026-11-11T15:17Z",
  "counts": {
   "summarized": 473,
   "skipped_giveaway": 17,
   "baseline": 22,
   "skipped_live": 1,
   "failed": 3,
-  "new": 175,
+  "new": 176,
   "retry": 5
  },
  "problems": [
@@ -67,10 +67,6 @@
   "quota_hit": 1794381450.380657
  },
  "log_tail": [
-  "… Gorax: Elecebre - THE BEST Teams & Strategy | Continental Challenge",
-  "! Join Your Faction NOW Before You Miss These Reward: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
-  "… liveranov: Dauntless Team vs Whisk | Continental Challenge | Season 8 |",
-  "! Elecebre - THE BEST Teams & Strategy | Continental: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
   "… Skratch Gaming: A MUST HAVE! Child Of Chaos Kit Reveal... Dragonheir: Silent",
   "! Dauntless Team vs Whisk | Continental Challenge | : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
   "! A MUST HAVE! Child Of Chaos Kit Reveal... Dragonhe: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
@@ -146,7 +142,11 @@
   "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "daily video budget used (437 min), waiting for tomorrow",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 473 videos, 234 heroes"
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 473 videos, 234 heroes",
+  "== 2026-11-11 15:17",
+  "fetch done: 0 new transcripts, 0 not available yet",
+  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
+  "daily video budget used (437 min), waiting for tomorrow"
  ],
  "crontab": [],
  "channels": [
@@ -154,55 +154,55 @@
    "name": "Skratch Gaming",
    "id": "UCoSkzr1pXpt3d0jIxsc6ufw",
    "enabled": true,
-   "checked": "2026-11-11T14:17Z"
+   "checked": "2026-11-11T15:17Z"
   },
   {
    "name": "Gorax",
    "id": "UCNas7BnuOIjDEzY1D53kb1w",
    "enabled": true,
-   "checked": "2026-11-11T14:17Z"
+   "checked": "2026-11-11T15:17Z"
   },
   {
    "name": "Neff Gaming",
    "id": "UCsxs6YhNd_B36RgUAjbpJ_A",
    "enabled": true,
-   "checked": "2026-11-11T14:17Z"
+   "checked": "2026-11-11T15:17Z"
   },
   {
    "name": "Volkin Dragonheir",
    "id": "UCfRpOh_ywVjzhh9fxHbreGw",
    "enabled": true,
-   "checked": "2026-11-11T14:17Z"
+   "checked": "2026-11-11T15:17Z"
   },
   {
    "name": "Fastidious Dragonheir",
    "id": "UC16mpj5wEemSZX-uTlHe9Ww",
    "enabled": true,
-   "checked": "2026-11-11T14:17Z"
+   "checked": "2026-11-11T15:17Z"
   },
   {
    "name": "OddOneGaming RPGs",
    "id": "UC1ivUEf_poI9_R2eVKa8wRQ",
    "enabled": true,
-   "checked": "2026-11-11T14:17Z"
+   "checked": "2026-11-11T15:17Z"
   },
   {
    "name": "Suzi Plays",
    "id": "UCyo1-TkunhGcK6khU1h8Ypw",
    "enabled": true,
-   "checked": "2026-11-11T14:17Z"
+   "checked": "2026-11-11T15:17Z"
   },
   {
    "name": "Skyasterix Gaming",
    "id": "UCr5Gb3910rK7QPmKMmdagsA",
    "enabled": true,
-   "checked": "2026-11-11T14:17Z"
+   "checked": "2026-11-11T15:17Z"
   },
   {
    "name": "liveranov",
    "id": "UCqCR7ofFHhWwXy3Hg00fqEw",
    "enabled": true,
-   "checked": "2026-11-11T14:17Z"
+   "checked": "2026-11-11T15:17Z"
   }
  ]
 }
