@@ -1,5 +1,5 @@
 {
- "built": "2026-11-11T02:59Z",
+ "built": "2026-11-11T03:19Z",
  "videos": [
   {
    "summary": "OddOne presents a single full-auto team capable of clearing all 60 stages of the Season 9 Meander Trial. The core damage dealer is Talethia, supported by Anneliesis, Child of Chaos, Diantha, and Holfast. Talethia ideally requires at least Inspiration 2, whereas Anneliesis and Child of Chaos function well at base copies. Diantha and Holfast can be swapped out for other aura support heroes if needed.",
@@ -20122,6 +20122,191 @@
    "summarized": "2026-11-03T01:23Z"
   },
   {
+   "summary": "This video previews high-performing Thunderbolt team builds for Week 3 of the Continental Challenge, based on data from the Chinese servers. It showcases two team configurations centered around Perkunte, Alaura, and Tariz, achieving between 820 million and 950 million damage. The guide details itemization, stat priorities, and skill timing rotations for key heroes like Tariz, Rena, Journ, and Solmo. Additionally, players are advised to hoard summoning resources rather than rushing the current Tariz banner, as an option summons banner and the Child of Chaos event are upcoming.",
+   "topics": [
+    "Continental Challenge",
+    "Thunderbolt Team",
+    "Tariz",
+    "Banner Strategy",
+    "Hero Builds"
+   ],
+   "heroes": [
+    {
+     "name": "Tariz",
+     "verdict": "Key Thunderbolt support hero",
+     "note": "Acts as a support hero focusing on accuracy, skill haste, and attack sharing with Puppeteer set rather than raw DPS.",
+     "known": true
+    },
+    {
+     "name": "Perkunte",
+     "verdict": "Core Thunderbolt damage dealer",
+     "note": "Delivers massive damage when built with Inspiration 2, high attack, and exclusive artifact.",
+     "known": true
+    },
+    {
+     "name": "Alaura",
+     "verdict": "High-value Thunderbolt DPS",
+     "note": "Deals high damage without requiring her exclusive artifact, making her accessible for attack-focused builds.",
+     "known": true
+    },
+    {
+     "name": "Rena",
+     "verdict": "Premium support hero",
+     "note": "Provides strong defense and skill haste with Secrecy set and Inspiration 2 in high-end compositions.",
+     "known": true
+    },
+    {
+     "name": "Journ",
+     "verdict": "Versatile control support",
+     "note": "Diminishes boss rotations using skill haste, accuracy, and support gear.",
+     "known": true
+    },
+    {
+     "name": "Solmo",
+     "verdict": "Accessible alternative support",
+     "note": "Replaces Rena in budget-friendly setups using Secrecy set, high HP, enlightenment, and the Season 8 egg artifact.",
+     "known": true
+    }
+   ],
+   "teams": [
+    {
+     "mode": "Continental Challenge Week 3",
+     "heroes": [
+      "Perkunte",
+      "Alaura",
+      "Journ",
+      "Rena",
+      "Tariz"
+     ],
+     "note": "Achieves around 950 million damage using two top support heroes and standard Thunderbolt skill timings."
+    },
+    {
+     "mode": "Continental Challenge Week 3",
+     "heroes": [
+      "Perkunte",
+      "Alaura",
+      "Tariz",
+      "Solmo",
+      "Journ"
+     ],
+     "note": "Reaches around 820 million damage using Solmo as a accessible support alternative instead of Rena."
+    }
+   ],
+   "meta_changes": [
+    "Tariz functions as a primary support enabler for high-damage Thunderbolt teams in Continental Challenge Week 3."
+   ],
+   "tips": [
+    "Save and hoard summoning dice during the current Tariz banner, as an option summons banner with better rates and the Child of Chaos event are coming soon.",
+    "Alaura works effectively without her exclusive artifact, so you do not need to pull or build her specific artifact.",
+    "Set ultimate skill timings so that Alaura casts right before Perkunte to maximize damage performance."
+   ],
+   "season": "S9",
+   "server_scope": "S9",
+   "value": "high",
+   "id": "9mAObaYbcPA",
+   "model": "gemini-3.6-flash",
+   "channel": "Neff Gaming",
+   "title": "BEST Thunderbolt Setups & Supports + Tariz Banner! | Continental Challenge | Dragonheir: Silent Gods",
+   "published": "2026-09-28T12:00:00+00:00",
+   "url": "https://www.youtube.com/watch?v=9mAObaYbcPA",
+   "short": false,
+   "summarized": "2026-11-11T03:18Z"
+  },
+  {
+   "summary": "Gorax performs 300 pulls on the Option Summons banner on a fresh celebration account. He reviews several legendary heroes pulled along the way, including Tharivol, Durango, Vicana, Twitch, Urgoula, and Tamar. He discusses optimal team archetypes for Dauntless single-target and Toxin damage, while advising players on banner pity strategies and spending efficiency.",
+   "topics": [
+    "Option Summons",
+    "Hero Verdicts",
+    "Dauntless Team",
+    "Toxin Team",
+    "Banner Advice"
+   ],
+   "heroes": [
+    {
+     "name": "Tharivol",
+     "verdict": "Great enabler for Dauntless teams",
+     "note": "Serves as an essential enabler when Curvida is unavailable by boosting basic attack frequency to support Guinavivre.",
+     "known": true
+    },
+    {
+     "name": "Maashtur",
+     "verdict": "Mandatory support for Dauntless teams",
+     "note": "Crucial for Dauntless team survivability and damage output.",
+     "known": true
+    },
+    {
+     "name": "Durango",
+     "verdict": "Strong Toxin enabler and secondary tank",
+     "note": "Applies frequent Toxin and Defense Down while gaining ultimate energy on critical hits to trigger Serpentemis's passive.",
+     "known": true
+    },
+    {
+     "name": "Vicana",
+     "verdict": "Niche budget Toxin DPS",
+     "note": "Functions as a budget version of Serpentemis that relies on her ultimate to apply Toxin, making her rarely used in current metas.",
+     "known": true
+    },
+    {
+     "name": "Twitch",
+     "verdict": "Best non-exclusive Toxin hero",
+     "note": "Top-tier Toxin applier when paired with Mystic Conch and Boomerang artifact.",
+     "known": true
+    },
+    {
+     "name": "Urgoula",
+     "verdict": "Solid PvE tank and control hero",
+     "note": "Provides strong survivability with shields, AoE stuns, Attack Penalty, and team cleanses for content like Fey Meander.",
+     "known": true
+    },
+    {
+     "name": "Tamar",
+     "verdict": "Powerful PvP disruptor",
+     "note": "Excels in Arena by inflicting Buff Prohibition to counter immortality teams, along with stuns and buff dispels.",
+     "known": true
+    }
+   ],
+   "teams": [
+    {
+     "mode": "General / Bosses",
+     "heroes": [
+      "Tharivol",
+      "Guinavivre",
+      "Maashtur"
+     ],
+     "note": "Early-to-mid Dauntless single-target team setup before acquiring Curvida."
+    },
+    {
+     "mode": "General / Fey Meander",
+     "heroes": [
+      "Twitch",
+      "Durango",
+      "Serpentemis",
+      "Urgoula"
+     ],
+     "note": "Synergistic Toxin team relying on rapid poison application, defense reduction, and tank utility."
+    }
+   ],
+   "meta_changes": [
+    "Dauntless single-target damage teams and Toxin teams remain top meta options for bossing and AoE content."
+   ],
+   "tips": [
+    "Always commit to reaching banner milestones (such as 270 or 300 summons) to claim guaranteed choice heroes rather than stopping halfway.",
+    "For low spenders and F2P players, focus on building teams around heroes you enjoy or cheaper functional archetypes like Ice Blast or Aura rather than chasing top-tier meta exclusives.",
+    "Build Durango with high Crit Rate to maximize ultimate energy gains and maintain constant Toxin and Defense Down uptime."
+   ],
+   "season": "S9",
+   "server_scope": "mixed",
+   "value": "high",
+   "id": "AgUrbW-yrVc",
+   "model": "gemini-3.5-flash",
+   "channel": "Gorax",
+   "title": "300 Dice Into Option Summons 1… Unlucky Again?! | Dragonheir x Dragonstride",
+   "published": "2026-09-28T12:00:00+00:00",
+   "url": "https://www.youtube.com/watch?v=AgUrbW-yrVc",
+   "short": false,
+   "summarized": "2026-11-11T03:18Z"
+  },
+  {
    "summary": "Skratch conducts a 300-pull summoning session to acquire the new Burn legendary Vyressa on the Selected Summons III banner. He strongly advises free-to-play players and low spenders to hold their summons until the upcoming Child of Chaos banner is revealed. The banner pool is criticized for including mediocre heroes like Victor and Bionphray rather than premier supports. Vyressa provides both heavy self-damage and enabling through Hex Flame and Total Immolation, standing out as a premier anchor for Burn compositions. Upon obtaining her, Skratch demonstrates her skill maxing and talent tree setup focused on Attack Speed and Attack buffs.",
    "topics": [
     "Banners",
@@ -37944,6 +38129,13 @@
     "url": "https://www.youtube.com/watch?v=WEpc_QIKnRM"
    },
    {
+    "verdict": "Accessible alternative support",
+    "note": "Replaces Rena in budget-friendly setups using Secrecy set, high HP, enlightenment, and the Season 8 egg artifact.",
+    "date": "2026-09-28",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=9mAObaYbcPA"
+   },
+   {
     "verdict": "Radiance support hero worth inspiring",
     "note": "Provides shields, buffs, radiant damage, and debuff dispels; reaching Inspiration 5 grants enhanced shield scaling and bonus stats.",
     "date": "2026-09-28",
@@ -38337,6 +38529,13 @@
     "date": "2026-10-14",
     "channel": "Neff Gaming",
     "url": "https://www.youtube.com/watch?v=yzljKIdSKP8"
+   },
+   {
+    "verdict": "Premium support hero",
+    "note": "Provides strong defense and skill haste with Secrecy set and Inspiration 2 in high-end compositions.",
+    "date": "2026-09-28",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=9mAObaYbcPA"
    },
    {
     "verdict": "Key hero for Joyce boss formations",
@@ -40257,6 +40456,13 @@
     "url": "https://www.youtube.com/watch?v=ydl2Hi0lAy8"
    },
    {
+    "verdict": "Strong Toxin enabler and secondary tank",
+    "note": "Applies frequent Toxin and Defense Down while gaining ultimate energy on critical hits to trigger Serpentemis's passive.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=AgUrbW-yrVc"
+   },
+   {
     "verdict": "Crucial utility sub-DPS",
     "note": "Requires near 100% Crit Rate to cycle ultimate energy and apply Toxins, functioning as the team's Puppeteer's Inspiration activator.",
     "date": "2026-09-28",
@@ -40665,6 +40871,13 @@
     "date": "2026-09-30",
     "channel": "OddOneGaming RPGs",
     "url": "https://www.youtube.com/watch?v=ONMMBlvyWpc"
+   },
+   {
+    "verdict": "Mandatory support for Dauntless teams",
+    "note": "Crucial for Dauntless team survivability and damage output.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=AgUrbW-yrVc"
    },
    {
     "verdict": "Debuffer sub-DPS",
@@ -41321,6 +41534,13 @@
     "url": "https://www.youtube.com/watch?v=DQlhUcZ_2zg"
    },
    {
+    "verdict": "Core Thunderbolt damage dealer",
+    "note": "Delivers massive damage when built with Inspiration 2, high attack, and exclusive artifact.",
+    "date": "2026-09-28",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=9mAObaYbcPA"
+   },
+   {
     "verdict": "Thunderbolt DPS",
     "note": "Built with full Enlightenment and Attack stats for maximum Thunderbolt damage.",
     "date": "2026-09-28",
@@ -41491,6 +41711,13 @@
     "url": "https://www.youtube.com/watch?v=wWFEFO70B9Q"
    },
    {
+    "verdict": "High-value Thunderbolt DPS",
+    "note": "Deals high damage without requiring her exclusive artifact, making her accessible for attack-focused builds.",
+    "date": "2026-09-28",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=9mAObaYbcPA"
+   },
+   {
     "verdict": "Thunderbolt DPS",
     "note": "Built with full Enlightenment stats to boost damage.",
     "date": "2026-09-28",
@@ -41652,6 +41879,13 @@
     "date": "2026-10-07",
     "channel": "liveranov",
     "url": "https://www.youtube.com/watch?v=wWFEFO70B9Q"
+   },
+   {
+    "verdict": "Key Thunderbolt support hero",
+    "note": "Acts as a support hero focusing on accuracy, skill haste, and attack sharing with Puppeteer set rather than raw DPS.",
+    "date": "2026-09-28",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=9mAObaYbcPA"
    },
    {
     "verdict": "Puppeteer Haste buffer",
@@ -42311,6 +42545,13 @@
     "url": "https://www.youtube.com/watch?v=ydl2Hi0lAy8"
    },
    {
+    "verdict": "Best non-exclusive Toxin hero",
+    "note": "Top-tier Toxin applier when paired with Mystic Conch and Boomerang artifact.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=AgUrbW-yrVc"
+   },
+   {
     "verdict": "Toxin enabler and debuffer",
     "note": "Focus on high Accuracy to apply debuffs reliably.",
     "date": "2026-09-28",
@@ -42595,6 +42836,13 @@
     "date": "2026-09-30",
     "channel": "OddOneGaming RPGs",
     "url": "https://www.youtube.com/watch?v=ONMMBlvyWpc"
+   },
+   {
+    "verdict": "Versatile control support",
+    "note": "Diminishes boss rotations using skill haste, accuracy, and support gear.",
+    "date": "2026-09-28",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=9mAObaYbcPA"
    },
    {
     "verdict": "Attack and Haste sub-DPS",
@@ -45476,6 +45724,13 @@
     "date": "2026-10-07",
     "channel": "Neff Gaming",
     "url": "https://www.youtube.com/watch?v=e3O_XZvWCPo"
+   },
+   {
+    "verdict": "Great enabler for Dauntless teams",
+    "note": "Serves as an essential enabler when Curvida is unavailable by boosting basic attack frequency to support Guinavivre.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=AgUrbW-yrVc"
    },
    {
     "verdict": "Dauntless enabler and sub-DPS",
@@ -49004,6 +49259,13 @@
     "url": "https://www.youtube.com/watch?v=lazeVsyO7_g"
    },
    {
+    "verdict": "Powerful PvP disruptor",
+    "note": "Excels in Arena by inflicting Buff Prohibition to counter immortality teams, along with stuns and buff dispels.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=AgUrbW-yrVc"
+   },
+   {
     "verdict": "Solid PvP pick",
     "note": "Mainly shines in PvP and sees occasional use in Chief Challenge boss encounters.",
     "date": "2026-09-28",
@@ -49433,6 +49695,13 @@
     "url": "https://www.youtube.com/watch?v=62IBjaXyVBk"
    },
    {
+    "verdict": "Solid PvE tank and control hero",
+    "note": "Provides strong survivability with shields, AoE stuns, Attack Penalty, and team cleanses for content like Fey Meander.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=AgUrbW-yrVc"
+   },
+   {
     "verdict": "Situational Poison tank",
     "note": "Creator pulled him on pity but was uncertain of his overall viability without testing his kit synergy.",
     "date": "2026-09-28",
@@ -49586,6 +49855,13 @@
     "date": "2026-10-07",
     "channel": "Gorax",
     "url": "https://www.youtube.com/watch?v=kmI10_fvl-c"
+   },
+   {
+    "verdict": "Niche budget Toxin DPS",
+    "note": "Functions as a budget version of Serpentemis that relies on her ultimate to apply Toxin, making her rarely used in current metas.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=AgUrbW-yrVc"
    },
    {
     "verdict": "Decent Toxin option",

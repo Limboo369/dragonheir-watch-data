@@ -1,0 +1,94 @@
+{
+ "summary": "Gorax performs 300 pulls on the Option Summons banner on a fresh celebration account. He reviews several legendary heroes pulled along the way, including Tharivol, Durango, Vicana, Twitch, Urgoula, and Tamar. He discusses optimal team archetypes for Dauntless single-target and Toxin damage, while advising players on banner pity strategies and spending efficiency.",
+ "topics": [
+  "Option Summons",
+  "Hero Verdicts",
+  "Dauntless Team",
+  "Toxin Team",
+  "Banner Advice"
+ ],
+ "heroes": [
+  {
+   "name": "Tharivol",
+   "verdict": "Great enabler for Dauntless teams",
+   "note": "Serves as an essential enabler when Curvida is unavailable by boosting basic attack frequency to support Guinavivre.",
+   "known": true
+  },
+  {
+   "name": "Maashtur",
+   "verdict": "Mandatory support for Dauntless teams",
+   "note": "Crucial for Dauntless team survivability and damage output.",
+   "known": true
+  },
+  {
+   "name": "Durango",
+   "verdict": "Strong Toxin enabler and secondary tank",
+   "note": "Applies frequent Toxin and Defense Down while gaining ultimate energy on critical hits to trigger Serpentemis's passive.",
+   "known": true
+  },
+  {
+   "name": "Vicana",
+   "verdict": "Niche budget Toxin DPS",
+   "note": "Functions as a budget version of Serpentemis that relies on her ultimate to apply Toxin, making her rarely used in current metas.",
+   "known": true
+  },
+  {
+   "name": "Twitch",
+   "verdict": "Best non-exclusive Toxin hero",
+   "note": "Top-tier Toxin applier when paired with Mystic Conch and Boomerang artifact.",
+   "known": true
+  },
+  {
+   "name": "Urgoula",
+   "verdict": "Solid PvE tank and control hero",
+   "note": "Provides strong survivability with shields, AoE stuns, Attack Penalty, and team cleanses for content like Fey Meander.",
+   "known": true
+  },
+  {
+   "name": "Tamar",
+   "verdict": "Powerful PvP disruptor",
+   "note": "Excels in Arena by inflicting Buff Prohibition to counter immortality teams, along with stuns and buff dispels.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "General / Bosses",
+   "heroes": [
+    "Tharivol",
+    "Guinavivre",
+    "Maashtur"
+   ],
+   "note": "Early-to-mid Dauntless single-target team setup before acquiring Curvida."
+  },
+  {
+   "mode": "General / Fey Meander",
+   "heroes": [
+    "Twitch",
+    "Durango",
+    "Serpentemis",
+    "Urgoula"
+   ],
+   "note": "Synergistic Toxin team relying on rapid poison application, defense reduction, and tank utility."
+  }
+ ],
+ "meta_changes": [
+  "Dauntless single-target damage teams and Toxin teams remain top meta options for bossing and AoE content."
+ ],
+ "tips": [
+  "Always commit to reaching banner milestones (such as 270 or 300 summons) to claim guaranteed choice heroes rather than stopping halfway.",
+  "For low spenders and F2P players, focus on building teams around heroes you enjoy or cheaper functional archetypes like Ice Blast or Aura rather than chasing top-tier meta exclusives.",
+  "Build Durango with high Crit Rate to maximize ultimate energy gains and maintain constant Toxin and Defense Down uptime."
+ ],
+ "season": "S9",
+ "server_scope": "mixed",
+ "value": "high",
+ "id": "AgUrbW-yrVc",
+ "model": "gemini-3.5-flash",
+ "channel": "Gorax",
+ "title": "300 Dice Into Option Summons 1… Unlucky Again?! | Dragonheir x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=AgUrbW-yrVc",
+ "short": false,
+ "summarized": "2026-11-11T03:18Z"
+}

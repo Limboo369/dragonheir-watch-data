@@ -1,0 +1,91 @@
+{
+ "summary": "This video previews high-performing Thunderbolt team builds for Week 3 of the Continental Challenge, based on data from the Chinese servers. It showcases two team configurations centered around Perkunte, Alaura, and Tariz, achieving between 820 million and 950 million damage. The guide details itemization, stat priorities, and skill timing rotations for key heroes like Tariz, Rena, Journ, and Solmo. Additionally, players are advised to hoard summoning resources rather than rushing the current Tariz banner, as an option summons banner and the Child of Chaos event are upcoming.",
+ "topics": [
+  "Continental Challenge",
+  "Thunderbolt Team",
+  "Tariz",
+  "Banner Strategy",
+  "Hero Builds"
+ ],
+ "heroes": [
+  {
+   "name": "Tariz",
+   "verdict": "Key Thunderbolt support hero",
+   "note": "Acts as a support hero focusing on accuracy, skill haste, and attack sharing with Puppeteer set rather than raw DPS.",
+   "known": true
+  },
+  {
+   "name": "Perkunte",
+   "verdict": "Core Thunderbolt damage dealer",
+   "note": "Delivers massive damage when built with Inspiration 2, high attack, and exclusive artifact.",
+   "known": true
+  },
+  {
+   "name": "Alaura",
+   "verdict": "High-value Thunderbolt DPS",
+   "note": "Deals high damage without requiring her exclusive artifact, making her accessible for attack-focused builds.",
+   "known": true
+  },
+  {
+   "name": "Rena",
+   "verdict": "Premium support hero",
+   "note": "Provides strong defense and skill haste with Secrecy set and Inspiration 2 in high-end compositions.",
+   "known": true
+  },
+  {
+   "name": "Journ",
+   "verdict": "Versatile control support",
+   "note": "Diminishes boss rotations using skill haste, accuracy, and support gear.",
+   "known": true
+  },
+  {
+   "name": "Solmo",
+   "verdict": "Accessible alternative support",
+   "note": "Replaces Rena in budget-friendly setups using Secrecy set, high HP, enlightenment, and the Season 8 egg artifact.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Continental Challenge Week 3",
+   "heroes": [
+    "Perkunte",
+    "Alaura",
+    "Journ",
+    "Rena",
+    "Tariz"
+   ],
+   "note": "Achieves around 950 million damage using two top support heroes and standard Thunderbolt skill timings."
+  },
+  {
+   "mode": "Continental Challenge Week 3",
+   "heroes": [
+    "Perkunte",
+    "Alaura",
+    "Tariz",
+    "Solmo",
+    "Journ"
+   ],
+   "note": "Reaches around 820 million damage using Solmo as a accessible support alternative instead of Rena."
+  }
+ ],
+ "meta_changes": [
+  "Tariz functions as a primary support enabler for high-damage Thunderbolt teams in Continental Challenge Week 3."
+ ],
+ "tips": [
+  "Save and hoard summoning dice during the current Tariz banner, as an option summons banner with better rates and the Child of Chaos event are coming soon.",
+  "Alaura works effectively without her exclusive artifact, so you do not need to pull or build her specific artifact.",
+  "Set ultimate skill timings so that Alaura casts right before Perkunte to maximize damage performance."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "9mAObaYbcPA",
+ "model": "gemini-3.6-flash",
+ "channel": "Neff Gaming",
+ "title": "BEST Thunderbolt Setups & Supports + Tariz Banner! | Continental Challenge | Dragonheir: Silent Gods",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=9mAObaYbcPA",
+ "short": false,
+ "summarized": "2026-11-11T03:18Z"
+}

@@ -1,5 +1,5 @@
 {
- "built": "2026-11-11T02:59Z",
+ "built": "2026-11-11T03:19Z",
  "videos": [
   {
    "id": "B8d86fYA6EA",
@@ -22,33 +22,13 @@
    "error": ""
   },
   {
-   "id": "AgUrbW-yrVc",
-   "title": "300 Dice Into Option Summons 1… Unlucky Again?! | Dragonheir x Dragonstride",
-   "channel": "Gorax",
-   "published": "2026-09-28T12:00:00+00:00",
-   "status": "retry",
-   "priority": false,
-   "duration_s": 963,
-   "error": ""
-  },
-  {
    "id": "AgIUhvZ-oDM",
    "title": "Pick This Faction! The Dark Lady Faction Vs. The Child Of Chaos! Dragonheir: Silent Gods",
    "channel": "Skratch Gaming",
    "published": "2026-09-28T12:00:00+00:00",
-   "status": "new",
+   "status": "retry",
    "priority": false,
    "duration_s": 647,
-   "error": ""
-  },
-  {
-   "id": "9mAObaYbcPA",
-   "title": "BEST Thunderbolt Setups & Supports + Tariz Banner! | Continental Challenge | Dragonheir: Silent Gods",
-   "channel": "Neff Gaming",
-   "published": "2026-09-28T12:00:00+00:00",
-   "status": "new",
-   "priority": false,
-   "duration_s": 494,
    "error": ""
   },
   {
@@ -56,7 +36,7 @@
    "title": "USE THE Child Of Chaos Like This!! Temporal Vortex Guide Dragonheir: Silent Gods x Dragonstride",
    "channel": "Skratch Gaming",
    "published": "2026-09-28T12:00:00+00:00",
-   "status": "new",
+   "status": "retry",
    "priority": false,
    "duration_s": 1122,
    "error": ""
@@ -66,7 +46,7 @@
    "title": "Thunderbolt Team vs Talethia and Aemonleyda | Continental Challenge | Season 8 | Dragonheir",
    "channel": "liveranov",
    "published": "2026-09-28T12:00:00+00:00",
-   "status": "new",
+   "status": "retry",
    "priority": false,
    "duration_s": 243,
    "error": ""
@@ -76,7 +56,7 @@
    "title": "The BEST TIME To START Playing Dragonheir: Silent Gods x Dragonstride",
    "channel": "Skratch Gaming",
    "published": "2026-09-28T12:00:00+00:00",
-   "status": "new",
+   "status": "retry",
    "priority": false,
    "duration_s": 1093,
    "error": ""
@@ -86,7 +66,7 @@
    "title": "The BEST Heroes to Pick in Traveler’s Departure Gift | Dragonheir x Dragonstride",
    "channel": "Gorax",
    "published": "2026-09-28T12:00:00+00:00",
-   "status": "new",
+   "status": "retry",
    "priority": false,
    "duration_s": 860,
    "error": ""
@@ -96,7 +76,7 @@
    "title": "NEW ACTIVE CODES! Claim FREE Rewards Before They Expire! | Dragonheir x Dragonstride",
    "channel": "Gorax",
    "published": "2026-09-28T12:00:00+00:00",
-   "status": "new",
+   "status": "retry",
    "priority": false,
    "duration_s": 139,
    "error": ""
@@ -106,7 +86,7 @@
    "title": "🤩 DON’T MISS THIS! 🔥 S8 NEW REBATE + 30K Dragon Crystals = 600 Dice | Dragonheir: Silent Gods",
    "channel": "Skyasterix Gaming",
    "published": "2026-09-28T12:00:00+00:00",
-   "status": "new",
+   "status": "retry",
    "priority": false,
    "duration_s": 241,
    "error": ""
@@ -116,7 +96,7 @@
    "title": "Faction & Binding Explained! Everything You Need to Know! | Dragonheir: Silent Gods",
    "channel": "Neff Gaming",
    "published": "2026-09-28T12:00:00+00:00",
-   "status": "new",
+   "status": "retry",
    "priority": false,
    "duration_s": 238,
    "error": ""

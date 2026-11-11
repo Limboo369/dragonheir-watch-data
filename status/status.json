@@ -1,14 +1,14 @@
 {
- "built": "2026-11-11T02:59Z",
- "last_fetch": "2026-11-11T02:17Z",
+ "built": "2026-11-11T03:19Z",
+ "last_fetch": "2026-11-11T03:17Z",
  "counts": {
-  "summarized": 460,
+  "summarized": 462,
   "skipped_giveaway": 17,
   "baseline": 22,
   "skipped_live": 1,
   "failed": 3,
-  "new": 186,
-  "retry": 3
+  "retry": 10,
+  "new": 177
  },
  "problems": [
   {
@@ -18,14 +18,56 @@
    "error": "Expecting value: line 1 column 1 (char 0)"
   },
   {
-   "title": "300 Dice Into Option Summons 1… Unlucky Again?! | Dragonheir x Dragonstride",
+   "title": "USE THE Child Of Chaos Like This!! Temporal Vortex Guide Dragonheir: Silent Gods x Dragonstride",
+   "channel": "Skratch Gaming",
+   "status": "retry",
+   "error": ""
+  },
+  {
+   "title": "Pick This Faction! The Dark Lady Faction Vs. The Child Of Chaos! Dragonheir: Silent Gods",
+   "channel": "Skratch Gaming",
+   "status": "retry",
+   "error": ""
+  },
+  {
+   "title": "The BEST TIME To START Playing Dragonheir: Silent Gods x Dragonstride",
+   "channel": "Skratch Gaming",
+   "status": "retry",
+   "error": ""
+  },
+  {
+   "title": "The BEST Heroes to Pick in Traveler’s Departure Gift | Dragonheir x Dragonstride",
    "channel": "Gorax",
+   "status": "retry",
+   "error": ""
+  },
+  {
+   "title": "NEW ACTIVE CODES! Claim FREE Rewards Before They Expire! | Dragonheir x Dragonstride",
+   "channel": "Gorax",
+   "status": "retry",
+   "error": ""
+  },
+  {
+   "title": "Faction & Binding Explained! Everything You Need to Know! | Dragonheir: Silent Gods",
+   "channel": "Neff Gaming",
    "status": "retry",
    "error": ""
   },
   {
    "title": "WOW!💥My Summoning Luck is BACK! 🔥 Dragonheir x Dragonstride",
    "channel": "Suzi Plays",
+   "status": "retry",
+   "error": ""
+  },
+  {
+   "title": "🤩 DON’T MISS THIS! 🔥 S8 NEW REBATE + 30K Dragon Crystals = 600 Dice | Dragonheir: Silent Gods",
+   "channel": "Skyasterix Gaming",
+   "status": "retry",
+   "error": ""
+  },
+  {
+   "title": "Thunderbolt Team vs Talethia and Aemonleyda | Continental Challenge | Season 8 | Dragonheir",
+   "channel": "liveranov",
    "status": "retry",
    "error": ""
   },
@@ -50,42 +92,11 @@
  ],
  "budget": {
   "day": "2026-11-11",
-  "seconds": 17282,
+  "seconds": 19962,
   "v2": 1,
-  "quota_hit": 1794359962.2668548
+  "quota_hit": 1794367138.7848237
  },
  "log_tail": [
-  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
-  "… Skyasterix Gaming: ⚠️DEVS MESSED UP AGAIN! Trial 120 Is INSANE — USE VICTOR! 🔥 ",
-  "saved A3KEQqeUo6U",
-  "+ OddOneGaming RPGs: 🚨 EASY Full Auto Clear 🚨 1 Team ALL Of Meander Trial Stage 1",
-  "… Gorax: The BEST Epic Heroes You Should Build as a Beginner! | Begin",
-  "saved oJ4LjJRJ5Ag",
-  "+ liveranov: Official Aura Team Guide: Best Lineup, Swaps & Gear 🛡️ Holfa",
-  "… liveranov: Thunderbolt UPDATED vs Talethia and Aemonleyda | Continental",
-  "saved GOH5hYKMg0E",
-  "+ Skyasterix Gaming: ⚠️DEVS MESSED UP AGAIN! Trial 120 Is INSANE — USE VICTOR! 🔥 ",
-  "… Gorax: The RIGHT Way to Build Child of Chaos! Advanced Tips to Make",
-  "… Skratch Gaming: START HERE! The Only Beginner Guide You Need... Dragonheir: ",
-  "saved GiKuQQOc5MU (unknown hero names: Villiana)",
-  "+ Fastidious Dragonheir: THE BEST TIME TO START A NEW ACCOUNT. 3rd Anniversary Breakd",
-  "saved GNKkOC92jhE",
-  "+ Gorax: The BEST Epic Heroes You Should Build as a Beginner! | Begin",
-  "… Neff Gaming: BEST Ice Blast Team vs Elcebre! | S8 Continental Challenge |",
-  "saved FvHXMc5137M",
-  "+ liveranov: Thunderbolt UPDATED vs Talethia and Aemonleyda | Continental",
-  "… Skyasterix Gaming: 🚨 NEW S9 META PREMIUM SUPPORTER?! Skills Revealed! 🔥 | Drago",
-  "saved FkcnkbLbek8",
-  "+ Gorax: The RIGHT Way to Build Child of Chaos! Advanced Tips to Make",
-  "saved EYjaL1MHJtA",
-  "+ Neff Gaming: BEST Ice Blast Team vs Elcebre! | S8 Continental Challenge |",
-  "saved EObwQuU0N_w",
-  "+ Skyasterix Gaming: 🚨 NEW S9 META PREMIUM SUPPORTER?! Skills Revealed! 🔥 | Drago",
-  "saved FaAD_y36yfk",
-  "+ Skratch Gaming: START HERE! The Only Beginner Guide You Need... Dragonheir: ",
-  "saved 4aU5TuXE8gc",
-  "+ OddOneGaming RPGs: 💥 Over 1000 Summons For i3 Anneliesis 💥 My BIGGEST Summon Se",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 451 videos, 232 heroes",
   "== 2026-11-11 01:17",
   "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
@@ -134,7 +145,38 @@
   "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "Gemini quota was full less than an hour ago, trying again next round",
-  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 460 videos, 233 heroes"
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 460 videos, 233 heroes",
+  "== 2026-11-11 03:17",
+  "fetch done: 0 new transcripts, 0 not available yet",
+  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
+  "… Suzi Plays: WOW!💥My Summoning Luck is BACK! 🔥 Dragonheir x Dragonstride",
+  "… liveranov: Burn Team vs Joyce | Continental Challenge | Season 8 | Drag",
+  "… Gorax: 300 Dice Into Option Summons 1… Unlucky Again?! | Dragonheir",
+  "… Skratch Gaming: Pick This Faction! The Dark Lady Faction Vs. The Child Of Ch",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.8-flash: 429, using gemini-3.5-flash",
+  "  gemini-3.5-flash: 429, using gemini-3.7-flash",
+  "  gemini-3.7-flash: 429, using gemini-3.6-flash",
+  "… Neff Gaming: BEST Thunderbolt Setups & Supports + Tariz Banner! | Contine",
+  "saved AgUrbW-yrVc",
+  "+ Gorax: 300 Dice Into Option Summons 1… Unlucky Again?! | Dragonheir",
+  "… Skratch Gaming: USE THE Child Of Chaos Like This!! Temporal Vortex Guide Dra",
+  "! Pick This Faction! The Dark Lady Faction Vs. The C: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+  "… liveranov: Thunderbolt Team vs Talethia and Aemonleyda | Continental Ch",
+  "! USE THE Child Of Chaos Like This!! Temporal Vortex: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+  "… Skratch Gaming: The BEST TIME To START Playing Dragonheir: Silent Gods x Dra",
+  "! Thunderbolt Team vs Talethia and Aemonleyda | Cont: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+  "… Gorax: The BEST Heroes to Pick in Traveler’s Departure Gift | Drago",
+  "! The BEST TIME To START Playing Dragonheir: Silent : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+  "… Gorax: NEW ACTIVE CODES! Claim FREE Rewards Before They Expire! | D",
+  "! The BEST Heroes to Pick in Traveler’s Departure Gi: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+  "… Skyasterix Gaming: 🤩 DON’T MISS THIS! 🔥 S8 NEW REBATE + 30K Dragon Crystals = 6",
+  "saved 9mAObaYbcPA",
+  "+ Neff Gaming: BEST Thunderbolt Setups & Supports + Tariz Banner! | Contine",
+  "… Neff Gaming: Faction & Binding Explained! Everything You Need to Know! | ",
+  "! 🤩 DON’T MISS THIS! 🔥 S8 NEW REBATE + 30K Dragon Cr: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+  "! Faction & Binding Explained! Everything You Need t: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
+  "! NEW ACTIVE CODES! Claim FREE Rewards Before They E: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g"
  ],
  "crontab": [],
  "channels": [
@@ -142,55 +184,55 @@
    "name": "Skratch Gaming",
    "id": "UCoSkzr1pXpt3d0jIxsc6ufw",
    "enabled": true,
-   "checked": "2026-11-11T02:17Z"
+   "checked": "2026-11-11T03:17Z"
   },
   {
    "name": "Gorax",
    "id": "UCNas7BnuOIjDEzY1D53kb1w",
    "enabled": true,
-   "checked": "2026-11-11T02:17Z"
+   "checked": "2026-11-11T03:17Z"
   },
   {
    "name": "Neff Gaming",
    "id": "UCsxs6YhNd_B36RgUAjbpJ_A",
    "enabled": true,
-   "checked": "2026-11-11T02:17Z"
+   "checked": "2026-11-11T03:17Z"
   },
   {
    "name": "Volkin Dragonheir",
    "id": "UCfRpOh_ywVjzhh9fxHbreGw",
    "enabled": true,
-   "checked": "2026-11-11T02:17Z"
+   "checked": "2026-11-11T03:17Z"
   },
   {
    "name": "Fastidious Dragonheir",
    "id": "UC16mpj5wEemSZX-uTlHe9Ww",
    "enabled": true,
-   "checked": "2026-11-11T02:17Z"
+   "checked": "2026-11-11T03:17Z"
   },
   {
    "name": "OddOneGaming RPGs",
    "id": "UC1ivUEf_poI9_R2eVKa8wRQ",
    "enabled": true,
-   "checked": "2026-11-11T02:17Z"
+   "checked": "2026-11-11T03:17Z"
   },
   {
    "name": "Suzi Plays",
    "id": "UCyo1-TkunhGcK6khU1h8Ypw",
    "enabled": true,
-   "checked": "2026-11-11T02:17Z"
+   "checked": "2026-11-11T03:17Z"
   },
   {
    "name": "Skyasterix Gaming",
    "id": "UCr5Gb3910rK7QPmKMmdagsA",
    "enabled": true,
-   "checked": "2026-11-11T02:17Z"
+   "checked": "2026-11-11T03:17Z"
   },
   {
    "name": "liveranov",
    "id": "UCqCR7ofFHhWwXy3Hg00fqEw",
    "enabled": true,
-   "checked": "2026-11-11T02:17Z"
+   "checked": "2026-11-11T03:17Z"
   }
  ]
 }
