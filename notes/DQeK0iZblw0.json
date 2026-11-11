@@ -1,0 +1,56 @@
+{
+ "summary": "This guide covers the Island feature unlocking on Day 3 of a server in Dragonheir: Silent Gods. The main priority on the island is upgrading the Ancestral Idol, which acts as the town hall and unlocks level caps for all other buildings. Players should focus on acquiring Driftwood from the Dispatch Center and Mine to upgrade buildings as fast as possible before spending dispatches on other resources. The guide also introduces the Hatchery and Familiars system, recommending players hatch their guaranteed tutorial Tressym (cat) egg first and assist alliance members daily to reduce hatch times.",
+ "topics": [
+  "Island Guide",
+  "Ancestral Idol",
+  "Dispatch Center",
+  "Hatchery",
+  "Familiars"
+ ],
+ "heroes": [
+  {
+   "name": "Auster",
+   "verdict": "Top early game pick",
+   "note": "Absolute monster for early game, especially in Magic Chess.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Tavern Gambit",
+   "heroes": [
+    "Hochadir",
+    "Olgan",
+    "Rava",
+    "Rowena",
+    "Vidimir",
+    "Dorkuraz",
+    "Auster",
+    "Lossenia",
+    "Urzog",
+    "Usha"
+   ],
+   "note": "Standard Frost-focused battle deck for Tavern Gambit."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Prioritize upgrading the Ancestral Idol first because it acts as the town hall and caps the level of all other island buildings.",
+  "Focus Dispatch Center dispatches on Driftwood (wood) early on, as wood is required to build and upgrade all island structures.",
+  "Upgrade the Dispatch Center as high as possible before completing dispatches to maximize your resource yield.",
+  "Hatch the guaranteed tutorial cat egg (Tressym) first before inserting 2-hour familiar eggs.",
+  "Use the Assist button in the Hatchery daily to lower hatch times for alliance members at zero cost.",
+  "Equip the Tressym or Batwing familiars to boost team damage via Max HP percent damage and AoE damage buffs in Temporal Vortex."
+ ],
+ "season": "S1",
+ "server_scope": "S1",
+ "value": "medium",
+ "id": "DQeK0iZblw0",
+ "model": "gemini-3.5-flash",
+ "channel": "Volkin Dragonheir",
+ "title": "DO THIS NOW - Day 3 ISLAND GUIDE!!! [Dragonheir: Silent Gods]",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=DQeK0iZblw0",
+ "short": false,
+ "summarized": "2026-11-11T01:17Z"
+}

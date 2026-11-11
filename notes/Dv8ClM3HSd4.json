@@ -1,0 +1,70 @@
+{
+ "summary": "This video showcases a Dauntless team setup used against the Fire Guardian boss in Crown Contest. The lineup consists of Nastjenka, Kurvida, Maashtur, Guinavivre, and Astaion, achieving over 3.1 billion total damage. The creator outlines specific gear choices, stats (such as Resistance and Accuracy), and ultimate skill timing for the team.",
+ "topics": [
+  "Crown Contest",
+  "Fire Guardian",
+  "Dauntless team",
+  "team build"
+ ],
+ "heroes": [
+  {
+   "name": "Nastjenka",
+   "verdict": "Core Dauntless DPS",
+   "note": "Built with high Attack Speed and Resistance.",
+   "known": true
+  },
+  {
+   "name": "Kurvida",
+   "verdict": "Support enabler",
+   "note": "Equipped with the Puppeteer gear set and Witches artifact.",
+   "known": true
+  },
+  {
+   "name": "Maashtur",
+   "verdict": "Debuffer sub-DPS",
+   "note": "Built with Accuracy to ensure debuffs hit the boss.",
+   "known": true
+  },
+  {
+   "name": "Guinavivre",
+   "verdict": "Primary Damage Dealer",
+   "note": "Built for full damage along with high Resistance.",
+   "known": true
+  },
+  {
+   "name": "Astaion",
+   "verdict": "Tank and Support",
+   "note": "Built with full Resistance.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Crown Contest - Fire Guardian",
+   "heroes": [
+    "Nastjenka",
+    "Kurvida",
+    "Maashtur",
+    "Guinavivre",
+    "Astaion"
+   ],
+   "note": "Achieved over 3.115 billion damage with tuned skill timing (12.0s–12.2s first cast, 18.0s recast)."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Tune ultimate timings so support and buffer skills trigger right before DPS casts (around 12.0s–12.2s initial delay, 18s recast interval).",
+  "Build sufficient Resistance on key heroes to avoid unwanted debuffs during the Fire Guardian encounter."
+ ],
+ "season": "S8",
+ "server_scope": "mixed",
+ "value": "high",
+ "id": "Dv8ClM3HSd4",
+ "model": "gemini-3.5-flash",
+ "channel": "liveranov",
+ "title": "Dauntless Team vs Fire Guardians - UPDATED LVL 100 HEROES | Crown Contest | Dragonheir | Season 8",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=Dv8ClM3HSd4",
+ "short": false,
+ "summarized": "2026-11-11T01:17Z"
+}

@@ -1,0 +1,42 @@
+{
+ "summary": "This video breaks down all modes and features in the Eve of the Rift anniversary event. Players can claim a free Legendary Hero Prime Chest on day 14 of the Otherworld Tour check-in. The Nightvell Standoff mode requires taking the 12-chapter Fated Path Test to pick a faction and earn Rift Stardust through Temporal Vortex, Dungeons, and Tavern Gambit. Coronation of Night lets players vote for hero skins using Starlight Support Tickets. Starlight Delights offers a Dragon Crystal rebate capped at 30,000, and Starweave Echo allows conversion of duplicate hero imprints into Starweave Echo fragments.",
+ "topics": [
+  "Eve of the Rift",
+  "Otherworld Tour",
+  "Nightvell Standoff",
+  "Coronation of Night",
+  "Starlight Delights",
+  "Starweave Echo"
+ ],
+ "heroes": [
+  {
+   "name": "Kurvida",
+   "verdict": "Voted for skin in Coronation of Night",
+   "note": "Chosen by the creator to receive votes for a potential new cosmetic appearance design.",
+   "known": true
+  }
+ ],
+ "teams": [],
+ "meta_changes": [
+  "Introduction of Eve of the Rift faction battle system in Nightvell Standoff",
+  "Imprint exchange system in Starweave Echo allowing conversion of extra legendary hero imprints"
+ ],
+ "tips": [
+  "Log in daily for 14 days during Otherworld Tour to claim the free Legendary Hero Prime Chest.",
+  "Be sure to select a faction after the Fated Path Test in Nightvell Standoff, as players without a faction cannot acquire Rift Stardust.",
+  "Earn Rift Stardust by competing in Temporal Vortex, Dungeons, and Tavern Gambit during the event.",
+  "Spend all Starlight Support Tickets before the announcement period ends, as unused tickets will be cleared.",
+  "Use Starweave Echo to convert up to 50 duplicate legendary hero imprints into 12 Starweave Echo fragments per imprint."
+ ],
+ "season": "unknown",
+ "server_scope": "mixed",
+ "value": "medium",
+ "id": "CjzC2bmYnCI",
+ "model": "gemini-3.5-flash",
+ "channel": "Neff Gaming",
+ "title": "Eve of the Rift FULL BREAKDOWN! Everything You Need to Know! | Dragonheir: Silent Gods",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=CjzC2bmYnCI",
+ "short": false,
+ "summarized": "2026-11-11T01:18Z"
+}

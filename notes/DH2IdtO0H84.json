@@ -1,0 +1,55 @@
+{
+ "summary": "Day 9 of the new server beginner series is a transition day preparing for Day 10 content and level 100 hero unlocks. Players should focus on optimizing their Temporal Vortex damage, pushing Domain dungeons using Serpentemis, and climbing Realmwide Arena for Affinity Solvent rewards before settlement. Additionally, upgrading the Island Dispatch Center and War Room provides major hero attribute boosts through Familiar stat transfers.",
+ "topics": [
+  "beginner guide",
+  "Temporal Vortex",
+  "Arena",
+  "Island",
+  "Serpentemis"
+ ],
+ "heroes": [
+  {
+   "name": "Serpentemis",
+   "verdict": "top pick for domain clearing",
+   "note": "Can clear all talent and equipment dungeons easily when paired with poison epics.",
+   "known": true
+  },
+  {
+   "name": "Halramar",
+   "verdict": "dominant in Arena",
+   "note": "Extremely strong in PvP, making Arena fights difficult for teams lacking him.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Temporal Vortex",
+   "heroes": [
+    "Lothair",
+    "Serpentemis",
+    "Twitch",
+    "Oggok"
+   ],
+   "note": "Poison team lineup tuned for pushing high damage in Temporal Vortex."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Spend time fine-tuning gear, timings, and hero positions in Temporal Vortex to increase daily damage output.",
+  "Use Serpentemis along with poison epics to push higher levels of Talent and Equipment domains.",
+  "Push Realmwide Arena rank before settlement to maximize Affinity Solvent rewards for Psychic Core upgrades.",
+  "Prioritize upgrading the Island Dispatch Center and maxing Familiar Empathy Improvement in the War Room for full pet attribute transfers to heroes.",
+  "Save stamina and resources to farm Goblin Lair and level heroes to 100 when Day 10 unlocks."
+ ],
+ "season": "S1",
+ "server_scope": "S1",
+ "value": "medium",
+ "id": "DH2IdtO0H84",
+ "model": "gemini-3.5-flash",
+ "channel": "Gorax",
+ "title": "Day 9 Was a Slow One… But Progress Is Progress! | Beginner Series | Dragonheir x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=DH2IdtO0H84",
+ "short": false,
+ "summarized": "2026-11-11T01:18Z"
+}

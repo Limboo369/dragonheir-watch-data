@@ -1,0 +1,99 @@
+{
+ "summary": "This Day 3 beginner progression guide for new Dragonheir servers outlines key goals across PvP and PvE content. It highlights effective free-to-play friendly team compositions for Grand Gladiator Arena, Temporal Vortex, and equipment dungeons. The guide stresses stamina efficiency by recommending talent dungeon farming over lower-tier gear farming. Additionally, it provides early-game priority upgrades for the newly unlocked Island feature.",
+ "topics": [
+  "Day 3 Progression",
+  "Arena Defense",
+  "Fey Meander",
+  "Temporal Vortex",
+  "Island Upgrades",
+  "Fallen Shadow Spire",
+  "Stamina Management"
+ ],
+ "heroes": [
+  {
+   "name": "Garius",
+   "verdict": "Essential Early Tank",
+   "note": "Extremely reliable tank built with max Skill Haste to ensure high survivability and frequent healing.",
+   "known": true
+  },
+  {
+   "name": "Voresh",
+   "verdict": "Top Utility Epic",
+   "note": "Blocks enemy buffs like immortality and defense boosts using Rift Hourglass for high Skill Haste and Accuracy.",
+   "known": true
+  },
+  {
+   "name": "Synarell",
+   "verdict": "High-Damage Buffer",
+   "note": "Provides team invincibility and heavy ultimate damage when geared with double Skill Haste sets.",
+   "known": true
+  },
+  {
+   "name": "Lossenia",
+   "verdict": "Core F2P Damage Dealer",
+   "note": "Free legendary DPS hero that excels when built with Skill Haste and Witch's Remains artifact.",
+   "known": true
+  },
+  {
+   "name": "Auster",
+   "verdict": "Burst Frost DPS",
+   "note": "Unlocked on Day 3 with his exclusive Ring of Winter artifact; stack Crit Rate, Crit Damage, and Skill Haste for high burst.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Arena Defense",
+   "heroes": [
+    "Garius",
+    "Voresh",
+    "Synarell",
+    "Lossenia",
+    "Auster"
+   ],
+   "note": "F2P arena defense built around fast skill haste to block enemy buffs early and cycle ultimates rapidly."
+  },
+  {
+   "mode": "Temporal Vortex",
+   "heroes": [
+    "Dallbam",
+    "Premtsa",
+    "Voresh",
+    "Auster",
+    "Garius"
+   ],
+   "note": "Budget-friendly summon-focused team capable of reaching 22M+ damage on the boss."
+  },
+  {
+   "mode": "Grave of Curse / Grave of Rot",
+   "heroes": [
+    "Vidimir",
+    "Rava",
+    "Lossenia",
+    "Auster",
+    "Garius"
+   ],
+   "note": "Frost-based setup designed to clear up to Stage 8 easily."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Clear Fey Meander up to Stage 80 as early as Day 3 using free units like Lossenia, Auster, Voresh, and Garius.",
+  "Do not waste stamina farming Epic equipment; clear up to Stage 8 in gear dungeons and save stamina for Talent Dungeons until Legendary gear unlocks on Day 7.",
+  "Prioritize upgrading the Dispatch Center on your Island to maximize Driftwood gathering for further island expansion.",
+  "Upgrade the War Room after the Island is expanded to unlock higher familiar attribute bonuses and combat talents.",
+  "Always purchase discounted Starlight Stone Dice from the Island Trading Post upon the daily 200 reset.",
+  "In Fallen Shadow Spire, save your challenge attempts and attempt the highest unlocked difficulty level based on server progression days (Days 3, 8, 15, and 23)."
+ ],
+ "season": "S1",
+ "server_scope": "S1",
+ "value": "high",
+ "id": "E7qMHAwSRNQ",
+ "model": "gemini-3.5-flash",
+ "channel": "Gorax",
+ "title": "Things Get Serious on Day 3! New Server Progression | Beginner Series | Dragonheir x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=E7qMHAwSRNQ",
+ "short": false,
+ "summarized": "2026-11-11T01:17Z"
+}

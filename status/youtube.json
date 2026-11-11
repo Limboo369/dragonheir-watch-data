@@ -1,5 +1,5 @@
 {
- "built": "2026-11-11T00:58Z",
+ "built": "2026-11-11T01:18Z",
  "videos": [
   {
    "summary": "OddOne presents a single full-auto team capable of clearing all 60 stages of the Season 9 Meander Trial. The core damage dealer is Talethia, supported by Anneliesis, Child of Chaos, Diantha, and Holfast. Talethia ideally requires at least Inspiration 2, whereas Anneliesis and Child of Chaos function well at base copies. Diantha and Holfast can be swapped out for other aura support heroes if needed.",
@@ -20122,6 +20122,369 @@
    "summarized": "2026-11-03T01:23Z"
   },
   {
+   "summary": "This video breaks down all modes and features in the Eve of the Rift anniversary event. Players can claim a free Legendary Hero Prime Chest on day 14 of the Otherworld Tour check-in. The Nightvell Standoff mode requires taking the 12-chapter Fated Path Test to pick a faction and earn Rift Stardust through Temporal Vortex, Dungeons, and Tavern Gambit. Coronation of Night lets players vote for hero skins using Starlight Support Tickets. Starlight Delights offers a Dragon Crystal rebate capped at 30,000, and Starweave Echo allows conversion of duplicate hero imprints into Starweave Echo fragments.",
+   "topics": [
+    "Eve of the Rift",
+    "Otherworld Tour",
+    "Nightvell Standoff",
+    "Coronation of Night",
+    "Starlight Delights",
+    "Starweave Echo"
+   ],
+   "heroes": [
+    {
+     "name": "Kurvida",
+     "verdict": "Voted for skin in Coronation of Night",
+     "note": "Chosen by the creator to receive votes for a potential new cosmetic appearance design.",
+     "known": true
+    }
+   ],
+   "teams": [],
+   "meta_changes": [
+    "Introduction of Eve of the Rift faction battle system in Nightvell Standoff",
+    "Imprint exchange system in Starweave Echo allowing conversion of extra legendary hero imprints"
+   ],
+   "tips": [
+    "Log in daily for 14 days during Otherworld Tour to claim the free Legendary Hero Prime Chest.",
+    "Be sure to select a faction after the Fated Path Test in Nightvell Standoff, as players without a faction cannot acquire Rift Stardust.",
+    "Earn Rift Stardust by competing in Temporal Vortex, Dungeons, and Tavern Gambit during the event.",
+    "Spend all Starlight Support Tickets before the announcement period ends, as unused tickets will be cleared.",
+    "Use Starweave Echo to convert up to 50 duplicate legendary hero imprints into 12 Starweave Echo fragments per imprint."
+   ],
+   "season": "unknown",
+   "server_scope": "mixed",
+   "value": "medium",
+   "id": "CjzC2bmYnCI",
+   "model": "gemini-3.5-flash",
+   "channel": "Neff Gaming",
+   "title": "Eve of the Rift FULL BREAKDOWN! Everything You Need to Know! | Dragonheir: Silent Gods",
+   "published": "2026-09-28T12:00:00+00:00",
+   "url": "https://www.youtube.com/watch?v=CjzC2bmYnCI",
+   "short": false,
+   "summarized": "2026-11-11T01:18Z"
+  },
+  {
+   "summary": "Day 9 of the new server beginner series is a transition day preparing for Day 10 content and level 100 hero unlocks. Players should focus on optimizing their Temporal Vortex damage, pushing Domain dungeons using Serpentemis, and climbing Realmwide Arena for Affinity Solvent rewards before settlement. Additionally, upgrading the Island Dispatch Center and War Room provides major hero attribute boosts through Familiar stat transfers.",
+   "topics": [
+    "beginner guide",
+    "Temporal Vortex",
+    "Arena",
+    "Island",
+    "Serpentemis"
+   ],
+   "heroes": [
+    {
+     "name": "Serpentemis",
+     "verdict": "top pick for domain clearing",
+     "note": "Can clear all talent and equipment dungeons easily when paired with poison epics.",
+     "known": true
+    },
+    {
+     "name": "Halramar",
+     "verdict": "dominant in Arena",
+     "note": "Extremely strong in PvP, making Arena fights difficult for teams lacking him.",
+     "known": true
+    }
+   ],
+   "teams": [
+    {
+     "mode": "Temporal Vortex",
+     "heroes": [
+      "Lothair",
+      "Serpentemis",
+      "Twitch",
+      "Oggok"
+     ],
+     "note": "Poison team lineup tuned for pushing high damage in Temporal Vortex."
+    }
+   ],
+   "meta_changes": [],
+   "tips": [
+    "Spend time fine-tuning gear, timings, and hero positions in Temporal Vortex to increase daily damage output.",
+    "Use Serpentemis along with poison epics to push higher levels of Talent and Equipment domains.",
+    "Push Realmwide Arena rank before settlement to maximize Affinity Solvent rewards for Psychic Core upgrades.",
+    "Prioritize upgrading the Island Dispatch Center and maxing Familiar Empathy Improvement in the War Room for full pet attribute transfers to heroes.",
+    "Save stamina and resources to farm Goblin Lair and level heroes to 100 when Day 10 unlocks."
+   ],
+   "season": "S1",
+   "server_scope": "S1",
+   "value": "medium",
+   "id": "DH2IdtO0H84",
+   "model": "gemini-3.5-flash",
+   "channel": "Gorax",
+   "title": "Day 9 Was a Slow One… But Progress Is Progress! | Beginner Series | Dragonheir x Dragonstride",
+   "published": "2026-09-28T12:00:00+00:00",
+   "url": "https://www.youtube.com/watch?v=DH2IdtO0H84",
+   "short": false,
+   "summarized": "2026-11-11T01:18Z"
+  },
+  {
+   "summary": "This guide covers the Island feature unlocking on Day 3 of a server in Dragonheir: Silent Gods. The main priority on the island is upgrading the Ancestral Idol, which acts as the town hall and unlocks level caps for all other buildings. Players should focus on acquiring Driftwood from the Dispatch Center and Mine to upgrade buildings as fast as possible before spending dispatches on other resources. The guide also introduces the Hatchery and Familiars system, recommending players hatch their guaranteed tutorial Tressym (cat) egg first and assist alliance members daily to reduce hatch times.",
+   "topics": [
+    "Island Guide",
+    "Ancestral Idol",
+    "Dispatch Center",
+    "Hatchery",
+    "Familiars"
+   ],
+   "heroes": [
+    {
+     "name": "Auster",
+     "verdict": "Top early game pick",
+     "note": "Absolute monster for early game, especially in Magic Chess.",
+     "known": true
+    }
+   ],
+   "teams": [
+    {
+     "mode": "Tavern Gambit",
+     "heroes": [
+      "Hochadir",
+      "Olgan",
+      "Rava",
+      "Rowena",
+      "Vidimir",
+      "Dorkuraz",
+      "Auster",
+      "Lossenia",
+      "Urzog",
+      "Usha"
+     ],
+     "note": "Standard Frost-focused battle deck for Tavern Gambit."
+    }
+   ],
+   "meta_changes": [],
+   "tips": [
+    "Prioritize upgrading the Ancestral Idol first because it acts as the town hall and caps the level of all other island buildings.",
+    "Focus Dispatch Center dispatches on Driftwood (wood) early on, as wood is required to build and upgrade all island structures.",
+    "Upgrade the Dispatch Center as high as possible before completing dispatches to maximize your resource yield.",
+    "Hatch the guaranteed tutorial cat egg (Tressym) first before inserting 2-hour familiar eggs.",
+    "Use the Assist button in the Hatchery daily to lower hatch times for alliance members at zero cost.",
+    "Equip the Tressym or Batwing familiars to boost team damage via Max HP percent damage and AoE damage buffs in Temporal Vortex."
+   ],
+   "season": "S1",
+   "server_scope": "S1",
+   "value": "medium",
+   "id": "DQeK0iZblw0",
+   "model": "gemini-3.5-flash",
+   "channel": "Volkin Dragonheir",
+   "title": "DO THIS NOW - Day 3 ISLAND GUIDE!!! [Dragonheir: Silent Gods]",
+   "published": "2026-09-28T12:00:00+00:00",
+   "url": "https://www.youtube.com/watch?v=DQeK0iZblw0",
+   "short": false,
+   "summarized": "2026-11-11T01:17Z"
+  },
+  {
+   "summary": "This video showcases a Dauntless team setup used against the Fire Guardian boss in Crown Contest. The lineup consists of Nastjenka, Kurvida, Maashtur, Guinavivre, and Astaion, achieving over 3.1 billion total damage. The creator outlines specific gear choices, stats (such as Resistance and Accuracy), and ultimate skill timing for the team.",
+   "topics": [
+    "Crown Contest",
+    "Fire Guardian",
+    "Dauntless team",
+    "team build"
+   ],
+   "heroes": [
+    {
+     "name": "Nastjenka",
+     "verdict": "Core Dauntless DPS",
+     "note": "Built with high Attack Speed and Resistance.",
+     "known": true
+    },
+    {
+     "name": "Kurvida",
+     "verdict": "Support enabler",
+     "note": "Equipped with the Puppeteer gear set and Witches artifact.",
+     "known": true
+    },
+    {
+     "name": "Maashtur",
+     "verdict": "Debuffer sub-DPS",
+     "note": "Built with Accuracy to ensure debuffs hit the boss.",
+     "known": true
+    },
+    {
+     "name": "Guinavivre",
+     "verdict": "Primary Damage Dealer",
+     "note": "Built for full damage along with high Resistance.",
+     "known": true
+    },
+    {
+     "name": "Astaion",
+     "verdict": "Tank and Support",
+     "note": "Built with full Resistance.",
+     "known": true
+    }
+   ],
+   "teams": [
+    {
+     "mode": "Crown Contest - Fire Guardian",
+     "heroes": [
+      "Nastjenka",
+      "Kurvida",
+      "Maashtur",
+      "Guinavivre",
+      "Astaion"
+     ],
+     "note": "Achieved over 3.115 billion damage with tuned skill timing (12.0s–12.2s first cast, 18.0s recast)."
+    }
+   ],
+   "meta_changes": [],
+   "tips": [
+    "Tune ultimate timings so support and buffer skills trigger right before DPS casts (around 12.0s–12.2s initial delay, 18s recast interval).",
+    "Build sufficient Resistance on key heroes to avoid unwanted debuffs during the Fire Guardian encounter."
+   ],
+   "season": "S8",
+   "server_scope": "mixed",
+   "value": "high",
+   "id": "Dv8ClM3HSd4",
+   "model": "gemini-3.5-flash",
+   "channel": "liveranov",
+   "title": "Dauntless Team vs Fire Guardians - UPDATED LVL 100 HEROES | Crown Contest | Dragonheir | Season 8",
+   "published": "2026-09-28T12:00:00+00:00",
+   "url": "https://www.youtube.com/watch?v=Dv8ClM3HSd4",
+   "short": false,
+   "summarized": "2026-11-11T01:17Z"
+  },
+  {
+   "summary": "This Day 3 beginner progression guide for new Dragonheir servers outlines key goals across PvP and PvE content. It highlights effective free-to-play friendly team compositions for Grand Gladiator Arena, Temporal Vortex, and equipment dungeons. The guide stresses stamina efficiency by recommending talent dungeon farming over lower-tier gear farming. Additionally, it provides early-game priority upgrades for the newly unlocked Island feature.",
+   "topics": [
+    "Day 3 Progression",
+    "Arena Defense",
+    "Fey Meander",
+    "Temporal Vortex",
+    "Island Upgrades",
+    "Fallen Shadow Spire",
+    "Stamina Management"
+   ],
+   "heroes": [
+    {
+     "name": "Garius",
+     "verdict": "Essential Early Tank",
+     "note": "Extremely reliable tank built with max Skill Haste to ensure high survivability and frequent healing.",
+     "known": true
+    },
+    {
+     "name": "Voresh",
+     "verdict": "Top Utility Epic",
+     "note": "Blocks enemy buffs like immortality and defense boosts using Rift Hourglass for high Skill Haste and Accuracy.",
+     "known": true
+    },
+    {
+     "name": "Synarell",
+     "verdict": "High-Damage Buffer",
+     "note": "Provides team invincibility and heavy ultimate damage when geared with double Skill Haste sets.",
+     "known": true
+    },
+    {
+     "name": "Lossenia",
+     "verdict": "Core F2P Damage Dealer",
+     "note": "Free legendary DPS hero that excels when built with Skill Haste and Witch's Remains artifact.",
+     "known": true
+    },
+    {
+     "name": "Auster",
+     "verdict": "Burst Frost DPS",
+     "note": "Unlocked on Day 3 with his exclusive Ring of Winter artifact; stack Crit Rate, Crit Damage, and Skill Haste for high burst.",
+     "known": true
+    }
+   ],
+   "teams": [
+    {
+     "mode": "Arena Defense",
+     "heroes": [
+      "Garius",
+      "Voresh",
+      "Synarell",
+      "Lossenia",
+      "Auster"
+     ],
+     "note": "F2P arena defense built around fast skill haste to block enemy buffs early and cycle ultimates rapidly."
+    },
+    {
+     "mode": "Temporal Vortex",
+     "heroes": [
+      "Dallbam",
+      "Premtsa",
+      "Voresh",
+      "Auster",
+      "Garius"
+     ],
+     "note": "Budget-friendly summon-focused team capable of reaching 22M+ damage on the boss."
+    },
+    {
+     "mode": "Grave of Curse / Grave of Rot",
+     "heroes": [
+      "Vidimir",
+      "Rava",
+      "Lossenia",
+      "Auster",
+      "Garius"
+     ],
+     "note": "Frost-based setup designed to clear up to Stage 8 easily."
+    }
+   ],
+   "meta_changes": [],
+   "tips": [
+    "Clear Fey Meander up to Stage 80 as early as Day 3 using free units like Lossenia, Auster, Voresh, and Garius.",
+    "Do not waste stamina farming Epic equipment; clear up to Stage 8 in gear dungeons and save stamina for Talent Dungeons until Legendary gear unlocks on Day 7.",
+    "Prioritize upgrading the Dispatch Center on your Island to maximize Driftwood gathering for further island expansion.",
+    "Upgrade the War Room after the Island is expanded to unlock higher familiar attribute bonuses and combat talents.",
+    "Always purchase discounted Starlight Stone Dice from the Island Trading Post upon the daily 200 reset.",
+    "In Fallen Shadow Spire, save your challenge attempts and attempt the highest unlocked difficulty level based on server progression days (Days 3, 8, 15, and 23)."
+   ],
+   "season": "S1",
+   "server_scope": "S1",
+   "value": "high",
+   "id": "E7qMHAwSRNQ",
+   "model": "gemini-3.5-flash",
+   "channel": "Gorax",
+   "title": "Things Get Serious on Day 3! New Server Progression | Beginner Series | Dragonheir x Dragonstride",
+   "published": "2026-09-28T12:00:00+00:00",
+   "url": "https://www.youtube.com/watch?v=E7qMHAwSRNQ",
+   "short": false,
+   "summarized": "2026-11-11T01:17Z"
+  },
+  {
+   "summary": "Skyasterix introduces the upcoming creator faction event, where players choose between the Child of Chaos and The Dark Lady factions. He invites viewers to join his Child of Chaos faction using his referral link. Additionally, he highlights an upcoming BuffBuff top-up event offering extra Dragon Crystals and Legendary Hero Chests. Players are advised to save their spending until the event officially starts.",
+   "topics": [
+    "Child of Chaos",
+    "The Dark Lady",
+    "BuffBuff",
+    "creator event",
+    "top up rewards"
+   ],
+   "heroes": [
+    {
+     "name": "Child of Chaos",
+     "verdict": "Recommended event target",
+     "note": "A powerful warrior hero featured in the event that the creator is actively supporting.",
+     "known": true
+    },
+    {
+     "name": "The Dark Lady",
+     "verdict": "Available premium hero",
+     "note": "Featured in the opposing faction, with her inspired hero chests available through top-up ranking rewards.",
+     "known": true
+    }
+   ],
+   "teams": [],
+   "meta_changes": [],
+   "tips": [
+    "Do not spend any money or Dragon Crystals today; wait until the BuffBuff event starts tomorrow to claim extra bonus crystals and chest rewards.",
+    "Join the Child of Chaos faction using the creator's link to participate in faction event activities and gain extra rewards."
+   ],
+   "season": "unknown",
+   "server_scope": "mixed",
+   "value": "low",
+   "id": "EKMnx7OusvU",
+   "model": "gemini-3.5-flash",
+   "channel": "Skyasterix Gaming",
+   "title": "👉 JOIN THE CHILD OF CHAOS FACTION! 🔥 All Details/BuffBuff & More | Dragonheir: Silent Gods",
+   "published": "2026-09-28T12:00:00+00:00",
+   "url": "https://www.youtube.com/watch?v=EKMnx7OusvU",
+   "short": false,
+   "summarized": "2026-11-11T01:17Z"
+  },
+  {
    "summary": "This video previews Thea, a new Necrosis support hero arriving in Season 9 of Dragonheir: Silent Gods. The creator details her complete kit, including her passive Mercy mechanic that accumulates reduced damage to trigger teamwide healing and shields, alongside ATK Reduction II and Charging Speed Reduction debuffs. Her skills clean negative effects, grant percent-HP shields, and apply unique debuffs like Repentance while granting defense-based blocks. Tested at Inspiration 5 in Temporal Vortex, her Corrosion team reached 45.2 billion damage, leading the creator to label her an S-tier meta-defining supporter across all modes.",
    "topics": [
     "Thea",
@@ -36399,6 +36762,13 @@
     "url": "https://www.youtube.com/watch?v=ydl2Hi0lAy8"
    },
    {
+    "verdict": "Recommended event target",
+    "note": "A powerful warrior hero featured in the event that the creator is actively supporting.",
+    "date": "2026-09-28",
+    "channel": "Skyasterix Gaming",
+    "url": "https://www.youtube.com/watch?v=EKMnx7OusvU"
+   },
+   {
     "verdict": "Must-pull limited support hero",
     "note": "Extremely flexible element-swapping support providing high damage boosts or damage reduction while ignoring enemy resistance with talents.",
     "date": "2026-09-28",
@@ -38556,6 +38926,13 @@
     "url": "https://www.youtube.com/watch?v=ydl2Hi0lAy8"
    },
    {
+    "verdict": "top pick for domain clearing",
+    "note": "Can clear all talent and equipment dungeons easily when paired with poison epics.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=DH2IdtO0H84"
+   },
+   {
     "verdict": "Main DPS for Toxin Crown Contest team",
     "note": "Build with full Enlightenment and Attack to maximize damage.",
     "date": "2026-09-28",
@@ -40085,6 +40462,13 @@
     "date": "2026-09-30",
     "channel": "OddOneGaming RPGs",
     "url": "https://www.youtube.com/watch?v=ONMMBlvyWpc"
+   },
+   {
+    "verdict": "Debuffer sub-DPS",
+    "note": "Built with Accuracy to ensure debuffs hit the boss.",
+    "date": "2026-09-28",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=Dv8ClM3HSd4"
    },
    {
     "verdict": "Key Dauntless debuffer and healer",
@@ -42089,6 +42473,13 @@
     "url": "https://www.youtube.com/watch?v=iQN8FFgvVTk"
    },
    {
+    "verdict": "Top Utility Epic",
+    "note": "Blocks enemy buffs like immortality and defense boosts using Rift Hourglass for high Skill Haste and Accuracy.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=E7qMHAwSRNQ"
+   },
+   {
     "verdict": "Must-build OP Ice debuffer & support",
     "note": "Applies Buff Prohibition, dispels enemy buffs, and provides passive heals while dealing damage; highly effective across PvP, dungeons, and bosses.",
     "date": "2026-09-28",
@@ -43537,6 +43928,13 @@
     "url": "https://www.youtube.com/watch?v=-qh8Km9Lsw0"
    },
    {
+    "verdict": "Primary Damage Dealer",
+    "note": "Built for full damage along with high Resistance.",
+    "date": "2026-09-28",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=Dv8ClM3HSd4"
+   },
+   {
     "verdict": "Best-in-class Dauntless hero",
     "note": "Highlighted in the Temporal Corridor exchange shop as the premier unit for Dauntless team compositions.",
     "date": "2026-09-28",
@@ -43803,6 +44201,13 @@
     "date": "2026-09-30",
     "channel": "liveranov",
     "url": "https://www.youtube.com/watch?v=-qh8Km9Lsw0"
+   },
+   {
+    "verdict": "Core Dauntless DPS",
+    "note": "Built with high Attack Speed and Resistance.",
+    "date": "2026-09-28",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=Dv8ClM3HSd4"
    },
    {
     "verdict": "Top Lightning direct DPS",
@@ -44119,6 +44524,20 @@
     "url": "https://www.youtube.com/watch?v=-qh8Km9Lsw0"
    },
    {
+    "verdict": "Voted for skin in Coronation of Night",
+    "note": "Chosen by the creator to receive votes for a potential new cosmetic appearance design.",
+    "date": "2026-09-28",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=CjzC2bmYnCI"
+   },
+   {
+    "verdict": "Support enabler",
+    "note": "Equipped with the Puppeteer gear set and Witches artifact.",
+    "date": "2026-09-28",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=Dv8ClM3HSd4"
+   },
+   {
     "verdict": "Essential Dauntless buffer",
     "note": "Shares Attack stats and triggers Vortex Illusion set bonuses when deployed alongside melee allies.",
     "date": "2026-09-28",
@@ -44345,6 +44764,13 @@
     "date": "2026-09-30",
     "channel": "Gorax",
     "url": "https://www.youtube.com/watch?v=Tdq_EWqix7k"
+   },
+   {
+    "verdict": "Tank and Support",
+    "note": "Built with full Resistance.",
+    "date": "2026-09-28",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=Dv8ClM3HSd4"
    },
    {
     "verdict": "Versatile Thunderbolt support and healer",
@@ -45205,6 +45631,20 @@
     "date": "2026-09-30",
     "channel": "Fastidious Dragonheir",
     "url": "https://www.youtube.com/watch?v=e1p87KNEq0g"
+   },
+   {
+    "verdict": "Top early game pick",
+    "note": "Absolute monster for early game, especially in Magic Chess.",
+    "date": "2026-09-28",
+    "channel": "Volkin Dragonheir",
+    "url": "https://www.youtube.com/watch?v=DQeK0iZblw0"
+   },
+   {
+    "verdict": "Burst Frost DPS",
+    "note": "Unlocked on Day 3 with his exclusive Ring of Winter artifact; stack Crit Rate, Crit Damage, and Skill Haste for high burst.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=E7qMHAwSRNQ"
    },
    {
     "verdict": "Strong Frost DPS",
@@ -46352,6 +46792,13 @@
     "url": "https://www.youtube.com/watch?v=e1p87KNEq0g"
    },
    {
+    "verdict": "Essential Early Tank",
+    "note": "Extremely reliable tank built with max Skill Haste to ensure high survivability and frequent healing.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=E7qMHAwSRNQ"
+   },
+   {
     "verdict": "Essential early tank",
     "note": "Free Day 2 epic tank that heals the entire team based on his Defense stat.",
     "date": "2026-09-28",
@@ -46487,6 +46934,13 @@
     "date": "2026-09-30",
     "channel": "Fastidious Dragonheir",
     "url": "https://www.youtube.com/watch?v=e1p87KNEq0g"
+   },
+   {
+    "verdict": "Core F2P Damage Dealer",
+    "note": "Free legendary DPS hero that excels when built with Skill Haste and Witch's Remains artifact.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=E7qMHAwSRNQ"
    },
    {
     "verdict": "Best Witch's Remains user for Frost teams",
@@ -47325,6 +47779,13 @@
     "date": "2026-10-07",
     "channel": "Volkin Dragonheir",
     "url": "https://www.youtube.com/watch?v=Qz1B9JVRYjo"
+   },
+   {
+    "verdict": "Available premium hero",
+    "note": "Featured in the opposing faction, with her inspired hero chests available through top-up ranking rewards.",
+    "date": "2026-09-28",
+    "channel": "Skyasterix Gaming",
+    "url": "https://www.youtube.com/watch?v=EKMnx7OusvU"
    },
    {
     "verdict": "Core Summons enabler",
@@ -49629,6 +50090,13 @@
     "url": "https://www.youtube.com/watch?v=TviMe77f8sQ"
    },
    {
+    "verdict": "High-Damage Buffer",
+    "note": "Provides team invincibility and heavy ultimate damage when geared with double Skill Haste sets.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=E7qMHAwSRNQ"
+   },
+   {
     "verdict": "Top recommended pick",
     "note": "A top-tier hero choice alongside Felosia in the Lawful Good pool.",
     "date": "2026-09-28",
@@ -49706,6 +50174,13 @@
     "date": "2026-09-30",
     "channel": "OddOneGaming RPGs",
     "url": "https://www.youtube.com/watch?v=TviMe77f8sQ"
+   },
+   {
+    "verdict": "dominant in Arena",
+    "note": "Extremely strong in PvP, making Arena fights difficult for teams lacking him.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=DH2IdtO0H84"
    },
    {
     "verdict": "Strong PvP Tank",
