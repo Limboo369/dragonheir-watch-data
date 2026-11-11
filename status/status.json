@@ -1,5 +1,5 @@
 {
- "built": "2026-11-11T09:18Z",
+ "built": "2026-11-11T09:52Z",
  "last_fetch": "2026-11-11T09:17Z",
  "counts": {
   "summarized": 473,
@@ -67,7 +67,6 @@
   "quota_hit": 1794381450.380657
  },
  "log_tail": [
-  "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "Gemini quota was full less than an hour ago, trying again next round",
   "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 464 videos, 233 heroes",
   "== 2026-11-11 05:17",
@@ -146,7 +145,8 @@
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "… liveranov: Toxin Team vs Temporal Vortex IV: Cloudtop Arbor (Shaded) | ",
   "saved 21S3OQZt1f4",
-  "+ liveranov: Toxin Team vs Temporal Vortex IV: Cloudtop Arbor (Shaded) | "
+  "+ liveranov: Toxin Team vs Temporal Vortex IV: Cloudtop Arbor (Shaded) | ",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 473 videos, 234 heroes"
  ],
  "crontab": [],
  "channels": [
