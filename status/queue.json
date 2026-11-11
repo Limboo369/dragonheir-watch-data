@@ -1,46 +1,6 @@
 {
- "built": "2026-11-11T05:09Z",
+ "built": "2026-11-11T05:18Z",
  "videos": [
-  {
-   "id": "AgIUhvZ-oDM",
-   "title": "Pick This Faction! The Dark Lady Faction Vs. The Child Of Chaos! Dragonheir: Silent Gods",
-   "channel": "Skratch Gaming",
-   "published": "2026-09-28T12:00:00+00:00",
-   "status": "retry",
-   "priority": false,
-   "duration_s": 647,
-   "error": ""
-  },
-  {
-   "id": "95WHT5Xp_1k",
-   "title": "USE THE Child Of Chaos Like This!! Temporal Vortex Guide Dragonheir: Silent Gods x Dragonstride",
-   "channel": "Skratch Gaming",
-   "published": "2026-09-28T12:00:00+00:00",
-   "status": "retry",
-   "priority": false,
-   "duration_s": 1122,
-   "error": ""
-  },
-  {
-   "id": "8Tj7fVZA4sA",
-   "title": "Thunderbolt Team vs Talethia and Aemonleyda | Continental Challenge | Season 8 | Dragonheir",
-   "channel": "liveranov",
-   "published": "2026-09-28T12:00:00+00:00",
-   "status": "retry",
-   "priority": false,
-   "duration_s": 243,
-   "error": ""
-  },
-  {
-   "id": "8QGiF0CmuTc",
-   "title": "The BEST TIME To START Playing Dragonheir: Silent Gods x Dragonstride",
-   "channel": "Skratch Gaming",
-   "published": "2026-09-28T12:00:00+00:00",
-   "status": "retry",
-   "priority": false,
-   "duration_s": 1093,
-   "error": ""
-  },
   {
    "id": "8LEwnu4X9JU",
    "title": "The BEST Heroes to Pick in Traveler’s Departure Gift | Dragonheir x Dragonstride",
@@ -86,7 +46,7 @@
    "title": "Join Your Faction NOW Before You Miss These Rewards! | Dragonheir x Dragonstride",
    "channel": "Gorax",
    "published": "2026-09-28T12:00:00+00:00",
-   "status": "new",
+   "status": "retry",
    "priority": false,
    "duration_s": 107,
    "error": ""
@@ -96,7 +56,7 @@
    "title": "Elecebre - THE BEST Teams & Strategy | Continental Challenge | Dragonheir x Dragonstride",
    "channel": "Gorax",
    "published": "2026-09-28T12:00:00+00:00",
-   "status": "new",
+   "status": "retry",
    "priority": false,
    "duration_s": 941,
    "error": ""
@@ -106,7 +66,7 @@
    "title": "Dauntless Team vs Whisk | Continental Challenge | Season 8 | Dragonheir",
    "channel": "liveranov",
    "published": "2026-09-28T12:00:00+00:00",
-   "status": "new",
+   "status": "retry",
    "priority": false,
    "duration_s": 217,
    "error": ""
@@ -116,7 +76,7 @@
    "title": "A MUST HAVE! Child Of Chaos Kit Reveal... Dragonheir: Silent Gods x Dragonstride",
    "channel": "Skratch Gaming",
    "published": "2026-09-28T12:00:00+00:00",
-   "status": "new",
+   "status": "retry",
    "priority": false,
    "duration_s": 950,
    "error": ""

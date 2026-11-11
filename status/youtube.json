@@ -1,5 +1,5 @@
 {
- "built": "2026-11-11T05:09Z",
+ "built": "2026-11-11T05:18Z",
  "videos": [
   {
    "summary": "OddOne presents a single full-auto team capable of clearing all 60 stages of the Season 9 Meander Trial. The core damage dealer is Talethia, supported by Anneliesis, Child of Chaos, Diantha, and Holfast. Talethia ideally requires at least Inspiration 2, whereas Anneliesis and Child of Chaos function well at base copies. Diantha and Holfast can be swapped out for other aura support heroes if needed.",
@@ -20122,6 +20122,274 @@
    "summarized": "2026-11-03T01:23Z"
   },
   {
+   "summary": "This video covers the 3rd Anniversary event rewards, promo codes, and optimal start strategies for new and returning Dragonheir players. Skratch outlines how to acquire up to 4 free Legendary heroes early through download links, login events, and the Fate Test web event. He also explains how to navigate beginner banners, Prophecy Summons, and Celebration Servers for maximum rewards.",
+   "topics": [
+    "anniversary",
+    "beginner guide",
+    "promo codes",
+    "prophecy summons",
+    "celebration server"
+   ],
+   "heroes": [
+    {
+     "name": "Auster",
+     "verdict": "Free Frost DPS",
+     "note": "Obtainable via the creator download link, serving as a high-damage Frost dealer.",
+     "known": true
+    },
+    {
+     "name": "Hochadir",
+     "verdict": "Free starting tank",
+     "note": "Granted early in-game to provide a solid Frost tanking base.",
+     "known": true
+    },
+    {
+     "name": "Lossenia",
+     "verdict": "Free Day 2 Legendary",
+     "note": "Strong Frost activator rewarded on Day 2 of the 7-day login event.",
+     "known": true
+    },
+    {
+     "name": "Zeffi",
+     "verdict": "Top-tier support carry",
+     "note": "Extremely powerful unkillable support hero if pulled from early Heliolite summons.",
+     "known": true
+    },
+    {
+     "name": "Nastjenka",
+     "verdict": "Wish hero priority",
+     "note": "Recommended DPS pick on Wish banners for speed-running dungeons and Temporal Vortex.",
+     "known": true
+    },
+    {
+     "name": "Lelwanis",
+     "verdict": "Wish hero priority",
+     "note": "Excellent summoner DPS recommended for overall content progression.",
+     "known": true
+    },
+    {
+     "name": "Synarell",
+     "verdict": "Fate Test support choice",
+     "note": "Top non-exclusive support character available to claim from the web Fate Test event.",
+     "known": true
+    },
+    {
+     "name": "Felosia",
+     "verdict": "Fate Test support choice",
+     "note": "High-value support option alongside Synarell in the Fate Test reward pool.",
+     "known": true
+    },
+    {
+     "name": "Child of Chaos",
+     "verdict": "Top anniversary banner priority",
+     "note": "Limited SP hero that should be the main focus for anniversary summons.",
+     "known": true
+    }
+   ],
+   "teams": [
+    {
+     "mode": "Early Game Frost Team",
+     "heroes": [
+      "Hochadir",
+      "Lossenia",
+      "Auster"
+     ],
+     "note": "A complete starter Frost team assembled entirely from free rewards and download gifts."
+    }
+   ],
+   "meta_changes": [
+    "Celebration Servers launched with doubled daily check-in rewards and accelerated progression.",
+    "Account Valuation event introduced to appraise existing account progress for Wyrmarrow payouts."
+   ],
+   "tips": [
+    "Start a new account on Celebration Servers launching Sept 15 to receive double daily login rewards.",
+    "Complete 20 standard Heliolite pulls to secure the guaranteed early Legendary before using Prophecy codes.",
+    "Bind creator code SKRATCH in the store settings to unlock monthly discount packs and free bonus goods.",
+    "Avoid locking in beginner Wish banner choices immediately until you see your pulls from limited banners like Child of Chaos."
+   ],
+   "season": "S1",
+   "server_scope": "S1",
+   "value": "medium",
+   "id": "8QGiF0CmuTc",
+   "model": "gemini-3.5-flash",
+   "channel": "Skratch Gaming",
+   "title": "The BEST TIME To START Playing Dragonheir: Silent Gods x Dragonstride",
+   "published": "2026-09-28T12:00:00+00:00",
+   "url": "https://www.youtube.com/watch?v=8QGiF0CmuTc",
+   "short": false,
+   "summarized": "2026-11-11T05:18Z"
+  },
+  {
+   "summary": "This video showcases liveranov using a Thunderbolt team against the Continental Challenge bosses Talethia and Aemonleyda. The team scores over 785 million damage, securing an S-rank tier completion. The creator walks through the full battle, detailed stats screen, hero gear, build stat priorities, and ultimate skill timings.",
+   "topics": [
+    "Continental Challenge",
+    "Thunderbolt",
+    "Talethia and Aemonleyda",
+    "Boss Challenge"
+   ],
+   "heroes": [
+    {
+     "name": "Tariz",
+     "verdict": "Key Thunderbolt debuffer",
+     "note": "Built with high Accuracy and Witches set to consistently land debuffs on the boss.",
+     "known": true
+    },
+    {
+     "name": "Perkunte",
+     "verdict": "Primary Thunderbolt DPS",
+     "note": "Built focusing heavily on full Enlightenment and Attack stats for maximum damage output.",
+     "known": true
+    },
+    {
+     "name": "Maashtur",
+     "verdict": "Frontline tank and support",
+     "note": "Built with full HP and accuracy to absorb incoming damage while sustaining debuffs.",
+     "known": true
+    },
+    {
+     "name": "Alaura",
+     "verdict": "Thunderbolt damage dealer",
+     "note": "Built with full Enlightenment to maximize Thunderbolt damage scaling.",
+     "known": true
+    },
+    {
+     "name": "Fathomdown",
+     "verdict": "Essential speed enabler",
+     "note": "Equipped with Puppet Master gear set and full Skill Haste to boost team skill frequency.",
+     "known": true
+    }
+   ],
+   "teams": [
+    {
+     "mode": "Continental Challenge",
+     "heroes": [
+      "Tariz",
+      "Perkunte",
+      "Maashtur",
+      "Alaura",
+      "Fathomdown"
+     ],
+     "note": "High-performing Thunderbolt team achieving 785M damage against Talethia and Aemonleyda."
+    }
+   ],
+   "meta_changes": [],
+   "tips": [
+    "Equip Fathomdown with full Skill Haste and Puppet Master set to boost team rotation speeds and overall score.",
+    "Prioritize full Enlightenment and Attack on Perkunte and Alaura to maximize Thunderbolt skill scaling."
+   ],
+   "season": "S8",
+   "server_scope": "S9",
+   "value": "high",
+   "id": "8Tj7fVZA4sA",
+   "model": "gemini-3.5-flash",
+   "channel": "liveranov",
+   "title": "Thunderbolt Team vs Talethia and Aemonleyda | Continental Challenge | Season 8 | Dragonheir",
+   "published": "2026-09-28T12:00:00+00:00",
+   "url": "https://www.youtube.com/watch?v=8Tj7fVZA4sA",
+   "short": false,
+   "summarized": "2026-11-11T05:17Z"
+  },
+  {
+   "summary": "Skratch showcases how to optimize a Poison team in Temporal Vortex using the recently buffed Child of Chaos alongside Reytah, pushing total damage past 37.5 billion. Following a balance patch, Child of Chaos gains AoE damage immunity via a special state, allowing him to survive and provide major team damage buffs. Putting Puppeteer on Child of Chaos frees Sleight to wear attack-boosting gear and share stats with Serpentemis and Twitch. Reytah activates her exclusive Miasma Staff artifact off Child of Chaos's debuffs, making Stegamoffyn obsolete in this setup. Skratch also details Psychicore tier requirements, highlighting that Tier VIII attribute bonuses require a full mono-element team.",
+   "topics": [
+    "Temporal Vortex",
+    "Child of Chaos",
+    "Poison Team",
+    "Psychicore",
+    "Artifact Builds"
+   ],
+   "heroes": [
+    {
+     "name": "Child of Chaos",
+     "verdict": "Top tier for Temporal Vortex",
+     "note": "Following an AoE immunity adjustment, he provides massive damage amplification via Dragonbone Catalyst and can equip Puppeteer to buff allies even at Inspiration 0 when paired with Reytah.",
+     "known": true
+    },
+    {
+     "name": "Reytah",
+     "verdict": "Core Poison support for Temporal Vortex",
+     "note": "Pairs perfectly with Child of Chaos, allowing her exclusive Miasma Staff artifact to easily trigger an 18% team damage bonus.",
+     "known": true
+    },
+    {
+     "name": "Stegamoffyn",
+     "verdict": "Outclassed / Obsolete",
+     "note": "Useless in Poison Temporal Vortex if you have Reytah, as he cannot cleanse the attack debuffs properly.",
+     "known": true
+    },
+    {
+     "name": "Sleight",
+     "verdict": "Essential Poison buffer",
+     "note": "Should be built with high Attack and Molten Surge/Whirling Edge gear instead of Puppeteer so he can share massive attack buffs with Serpentemis and Twitch.",
+     "known": true
+    },
+    {
+     "name": "Serpentemis",
+     "verdict": "Top Poison DPS",
+     "note": "Deals massive damage using Molten Surge gear and Statue of the Serpent Deity, capable of hitting near 30 billion on her own at high inspiration.",
+     "known": true
+    },
+    {
+     "name": "Twitch",
+     "verdict": "Core Poison DPS and buffer",
+     "note": "Shares high accuracy with the team and needs over 1,000 defense and 30k+ HP to consistently survive Vortex hits.",
+     "known": true
+    },
+    {
+     "name": "Guinavivre",
+     "verdict": "Top Dauntless DPS",
+     "note": "Main carry of the Dauntless team who benefits heavily from Angelic Alliance.",
+     "known": true
+    }
+   ],
+   "teams": [
+    {
+     "mode": "Temporal Vortex",
+     "heroes": [
+      "Child of Chaos",
+      "Reytah",
+      "Twitch",
+      "Serpentemis",
+      "Sleight"
+     ],
+     "note": "Reached 24.5 billion damage. Child of Chaos uses Puppeteer and Dragonbone Catalyst, Sleight shares attack, and Reytah runs Miasma Staff."
+    },
+    {
+     "mode": "Temporal Vortex",
+     "heroes": [
+      "Guinavivre",
+      "Nastjenka",
+      "Kurvida",
+      "Maashtur",
+      "Selva"
+     ],
+     "note": "High-end Dauntless team supporting the primary Poison team to reach 37.5B+ total damage."
+    }
+   ],
+   "meta_changes": [
+    "Child of Chaos received an adjustment to Edict Unfettered changing Ethereal from a buff to a special state that affects himself, granting him AoE damage immunity.",
+    "Stegamoffyn is completely replaced by Reytah when paired with Child of Chaos in Poison Temporal Vortex setups."
+   ],
+   "tips": [
+    "Equip the Puppeteer artifact set on Child of Chaos instead of Sleight; Child of Chaos easily achieves an 18s skill rotation via talents and rune skill haste while buffing the rest of the team.",
+    "Do not alter the positioning of Child of Chaos in Temporal Vortex, or he will push boss adds around and cause Twitch to miss targets.",
+    "Tier VIII Psychicore nodes only trigger if all 5 deployed heroes share the exact same element without any mixing.",
+    "Aim for at least 1,000 defense and 30,000+ HP on your Temporal Vortex damage dealers so they survive until the end of the battle.",
+    "If you lack Reytah's exclusive artifact (Miasma Staff), equip Misty Conch instead."
+   ],
+   "season": "S8",
+   "server_scope": "S9",
+   "value": "high",
+   "id": "95WHT5Xp_1k",
+   "model": "gemini-3.8-flash",
+   "channel": "Skratch Gaming",
+   "title": "USE THE Child Of Chaos Like This!! Temporal Vortex Guide Dragonheir: Silent Gods x Dragonstride",
+   "published": "2026-09-28T12:00:00+00:00",
+   "url": "https://www.youtube.com/watch?v=95WHT5Xp_1k",
+   "short": false,
+   "summarized": "2026-11-11T05:18Z"
+  },
+  {
    "summary": "This video previews high-performing Thunderbolt team builds for Week 3 of the Continental Challenge, based on data from the Chinese servers. It showcases two team configurations centered around Perkunte, Alaura, and Tariz, achieving between 820 million and 950 million damage. The guide details itemization, stat priorities, and skill timing rotations for key heroes like Tariz, Rena, Journ, and Solmo. Additionally, players are advised to hoard summoning resources rather than rushing the current Tariz banner, as an option summons banner and the Child of Chaos event are upcoming.",
    "topics": [
     "Continental Challenge",
@@ -20211,6 +20479,79 @@
    "url": "https://www.youtube.com/watch?v=9mAObaYbcPA",
    "short": false,
    "summarized": "2026-11-11T03:18Z"
+  },
+  {
+   "summary": "This video covers the details for the Eve of the Rift Faction Wars event during the game's anniversary celebration. The creator recommends joining The Dark Lady faction to join forces with his community for maximum rewards. Players can earn extra Rift Stardust by using at least three heroes from their faction's school in designated modes. Additionally, the event features promo codes, a 14-day login calendar offering a Legendary Hero Prime Chest, and a rebate event for Dragon Crystals.",
+   "topics": [
+    "Faction Wars",
+    "Eve of the Rift",
+    "Anniversary Event",
+    "Legendary Hero Prime Chest",
+    "Event Rewards"
+   ],
+   "heroes": [
+    {
+     "name": "Synarell",
+     "verdict": "Free Legendary Choice",
+     "note": "Available as a free selection option during the anniversary event campaign and in the Day 14 chest.",
+     "known": true
+    },
+    {
+     "name": "Felosia",
+     "verdict": "Prime Chest Option",
+     "note": "Available for selection in the Day 14 Legendary Hero Prime Chest.",
+     "known": true
+    },
+    {
+     "name": "Rose",
+     "verdict": "Prime Chest Option",
+     "note": "Available for selection in the Day 14 Legendary Hero Prime Chest.",
+     "known": true
+    },
+    {
+     "name": "Acilia",
+     "verdict": "Prime Chest Option",
+     "note": "Available for selection in the Day 14 Legendary Hero Prime Chest.",
+     "known": true
+    },
+    {
+     "name": "Feenja",
+     "verdict": "Prime Chest Option",
+     "note": "Available for selection in the Day 14 Legendary Hero Prime Chest.",
+     "known": true
+    },
+    {
+     "name": "Astaion",
+     "verdict": "Prime Chest Option",
+     "note": "Available for selection in the Day 14 Legendary Hero Prime Chest.",
+     "known": true
+    },
+    {
+     "name": "Phaessa",
+     "verdict": "Prime Chest Option",
+     "note": "Available for selection in the Day 14 Legendary Hero Prime Chest.",
+     "known": true
+    }
+   ],
+   "teams": [],
+   "meta_changes": [],
+   "tips": [
+    "Join The Dark Lady faction and bind via creator links once the event goes live on the 15th to secure winning faction rewards.",
+    "Use at least 3 heroes from your chosen faction's school in relevant game modes to earn bonus Rift Stardust points.",
+    "Follow official social media channels daily during the event to collect promo codes for up to 150 summons.",
+    "Log in daily for 14 days to claim the Legendary Hero Prime Chest and choose a free legendary hero."
+   ],
+   "season": "S3",
+   "server_scope": "S9",
+   "value": "medium",
+   "id": "AgIUhvZ-oDM",
+   "model": "gemini-3.5-flash",
+   "channel": "Skratch Gaming",
+   "title": "Pick This Faction! The Dark Lady Faction Vs. The Child Of Chaos! Dragonheir: Silent Gods",
+   "published": "2026-09-28T12:00:00+00:00",
+   "url": "https://www.youtube.com/watch?v=AgIUhvZ-oDM",
+   "short": false,
+   "summarized": "2026-11-11T05:17Z"
   },
   {
    "summary": "Gorax performs 300 pulls on the Option Summons banner on a fresh celebration account. He reviews several legendary heroes pulled along the way, including Tharivol, Durango, Vicana, Twitch, Urgoula, and Tamar. He discusses optimal team archetypes for Dauntless single-target and Toxin damage, while advising players on banner pity strategies and spending efficiency.",
@@ -37274,6 +37615,20 @@
     "url": "https://www.youtube.com/watch?v=ydl2Hi0lAy8"
    },
    {
+    "verdict": "Top anniversary banner priority",
+    "note": "Limited SP hero that should be the main focus for anniversary summons.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=8QGiF0CmuTc"
+   },
+   {
+    "verdict": "Top tier for Temporal Vortex",
+    "note": "Following an AoE immunity adjustment, he provides massive damage amplification via Dragonbone Catalyst and can equip Puppeteer to buff allies even at Inspiration 0 when paired with Reytah.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=95WHT5Xp_1k"
+   },
+   {
     "verdict": "Current voting leader",
     "note": "Currently leading the Coronation of Night hero appearance vote.",
     "date": "2026-09-28",
@@ -39466,6 +39821,13 @@
     "url": "https://www.youtube.com/watch?v=ydl2Hi0lAy8"
    },
    {
+    "verdict": "Top Poison DPS",
+    "note": "Deals massive damage using Molten Surge gear and Statue of the Serpent Deity, capable of hitting near 30 billion on her own at high inspiration.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=95WHT5Xp_1k"
+   },
+   {
     "verdict": "Alternative vote target",
     "note": "Previously received faction votes, but Skratch recommends shifting focus to a single candidate.",
     "date": "2026-09-28",
@@ -40175,6 +40537,13 @@
     "date": "2026-10-07",
     "channel": "liveranov",
     "url": "https://www.youtube.com/watch?v=rwe-Dd4l8ps"
+   },
+   {
+    "verdict": "Essential Poison buffer",
+    "note": "Should be built with high Attack and Molten Surge/Whirling Edge gear instead of Puppeteer so he can share massive attack buffs with Serpentemis and Twitch.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=95WHT5Xp_1k"
    },
    {
     "verdict": "Secondary Toxin DPS",
@@ -41018,6 +41387,13 @@
     "url": "https://www.youtube.com/watch?v=ONMMBlvyWpc"
    },
    {
+    "verdict": "Frontline tank and support",
+    "note": "Built with full HP and accuracy to absorb incoming damage while sustaining debuffs.",
+    "date": "2026-09-28",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=8Tj7fVZA4sA"
+   },
+   {
     "verdict": "Mandatory support for Dauntless teams",
     "note": "Crucial for Dauntless team survivability and damage output.",
     "date": "2026-09-28",
@@ -41686,6 +42062,13 @@
     "url": "https://www.youtube.com/watch?v=DQlhUcZ_2zg"
    },
    {
+    "verdict": "Primary Thunderbolt DPS",
+    "note": "Built focusing heavily on full Enlightenment and Attack stats for maximum damage output.",
+    "date": "2026-09-28",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=8Tj7fVZA4sA"
+   },
+   {
     "verdict": "Core Thunderbolt damage dealer",
     "note": "Delivers massive damage when built with Inspiration 2, high attack, and exclusive artifact.",
     "date": "2026-09-28",
@@ -41863,6 +42246,13 @@
     "url": "https://www.youtube.com/watch?v=wWFEFO70B9Q"
    },
    {
+    "verdict": "Thunderbolt damage dealer",
+    "note": "Built with full Enlightenment to maximize Thunderbolt damage scaling.",
+    "date": "2026-09-28",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=8Tj7fVZA4sA"
+   },
+   {
     "verdict": "High-value Thunderbolt DPS",
     "note": "Deals high damage without requiring her exclusive artifact, making her accessible for attack-focused builds.",
     "date": "2026-09-28",
@@ -42031,6 +42421,13 @@
     "date": "2026-10-07",
     "channel": "liveranov",
     "url": "https://www.youtube.com/watch?v=wWFEFO70B9Q"
+   },
+   {
+    "verdict": "Key Thunderbolt debuffer",
+    "note": "Built with high Accuracy and Witches set to consistently land debuffs on the boss.",
+    "date": "2026-09-28",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=8Tj7fVZA4sA"
    },
    {
     "verdict": "Key Thunderbolt support hero",
@@ -42695,6 +43092,13 @@
     "date": "2026-09-30",
     "channel": "Gorax",
     "url": "https://www.youtube.com/watch?v=ydl2Hi0lAy8"
+   },
+   {
+    "verdict": "Core Poison DPS and buffer",
+    "note": "Shares high accuracy with the team and needs over 1,000 defense and 30k+ HP to consistently survive Vortex hits.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=95WHT5Xp_1k"
    },
    {
     "verdict": "Best non-exclusive Toxin hero",
@@ -43460,6 +43864,13 @@
     "url": "https://www.youtube.com/watch?v=kmI10_fvl-c"
    },
    {
+    "verdict": "Outclassed / Obsolete",
+    "note": "Useless in Poison Temporal Vortex if you have Reytah, as he cannot cleanse the attack debuffs properly.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=95WHT5Xp_1k"
+   },
+   {
     "verdict": "Toxin DPS",
     "note": "Benefits significantly from elemental ascension on gear pieces to push higher overall damage.",
     "date": "2026-09-28",
@@ -43614,6 +44025,13 @@
     "date": "2026-10-07",
     "channel": "Skratch Gaming",
     "url": "https://www.youtube.com/watch?v=zlkDqeP9Des"
+   },
+   {
+    "verdict": "Core Poison support for Temporal Vortex",
+    "note": "Pairs perfectly with Child of Chaos, allowing her exclusive Miasma Staff artifact to easily trigger an 18% team damage bonus.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=95WHT5Xp_1k"
    },
    {
     "verdict": "Toxin Debuffer",
@@ -44545,6 +44963,13 @@
     "url": "https://www.youtube.com/watch?v=-qh8Km9Lsw0"
    },
    {
+    "verdict": "Top Dauntless DPS",
+    "note": "Main carry of the Dauntless team who benefits heavily from Angelic Alliance.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=95WHT5Xp_1k"
+   },
+   {
     "verdict": "Primary Damage Dealer",
     "note": "Built for full damage along with high Resistance.",
     "date": "2026-09-28",
@@ -44818,6 +45243,13 @@
     "date": "2026-09-30",
     "channel": "liveranov",
     "url": "https://www.youtube.com/watch?v=-qh8Km9Lsw0"
+   },
+   {
+    "verdict": "Wish hero priority",
+    "note": "Recommended DPS pick on Wish banners for speed-running dungeons and Temporal Vortex.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=8QGiF0CmuTc"
    },
    {
     "verdict": "Top tier Dauntless DPS",
@@ -45395,6 +45827,13 @@
     "date": "2026-09-30",
     "channel": "Gorax",
     "url": "https://www.youtube.com/watch?v=Tdq_EWqix7k"
+   },
+   {
+    "verdict": "Prime Chest Option",
+    "note": "Available for selection in the Day 14 Legendary Hero Prime Chest.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=AgIUhvZ-oDM"
    },
    {
     "verdict": "Tank and Support",
@@ -46113,6 +46552,13 @@
     "url": "https://www.youtube.com/watch?v=TviMe77f8sQ"
    },
    {
+    "verdict": "Prime Chest Option",
+    "note": "Available for selection in the Day 14 Legendary Hero Prime Chest.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=AgIUhvZ-oDM"
+   },
+   {
     "verdict": "Top Radiance healer and tank",
     "note": "Provides Radiant damage, heavy healing, and teamwide debuff immunity.",
     "date": "2026-09-28",
@@ -46276,6 +46722,13 @@
     "date": "2026-09-30",
     "channel": "Fastidious Dragonheir",
     "url": "https://www.youtube.com/watch?v=e1p87KNEq0g"
+   },
+   {
+    "verdict": "Free Frost DPS",
+    "note": "Obtainable via the creator download link, serving as a high-damage Frost dealer.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=8QGiF0CmuTc"
    },
    {
     "verdict": "Top early game pick",
@@ -47581,6 +48034,13 @@
     "url": "https://www.youtube.com/watch?v=e1p87KNEq0g"
    },
    {
+    "verdict": "Free Day 2 Legendary",
+    "note": "Strong Frost activator rewarded on Day 2 of the 7-day login event.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=8QGiF0CmuTc"
+   },
+   {
     "verdict": "Core F2P Damage Dealer",
     "note": "Free legendary DPS hero that excels when built with Skill Haste and Witch's Remains artifact.",
     "date": "2026-09-28",
@@ -47997,6 +48457,13 @@
     "url": "https://www.youtube.com/watch?v=ONMMBlvyWpc"
    },
    {
+    "verdict": "Essential speed enabler",
+    "note": "Equipped with Puppet Master gear set and full Skill Haste to boost team skill frequency.",
+    "date": "2026-09-28",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=8Tj7fVZA4sA"
+   },
+   {
     "verdict": "Recommended support on banner",
     "note": "Strong Lightning support hero useful in Continental Challenge content.",
     "date": "2026-09-28",
@@ -48076,6 +48543,13 @@
     "date": "2026-09-30",
     "channel": "OddOneGaming RPGs",
     "url": "https://www.youtube.com/watch?v=TviMe77f8sQ"
+   },
+   {
+    "verdict": "Prime Chest Option",
+    "note": "Available for selection in the Day 14 Legendary Hero Prime Chest.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=AgIUhvZ-oDM"
    },
    {
     "verdict": "Top support pick",
@@ -48726,6 +49200,13 @@
     "url": "https://www.youtube.com/watch?v=z3tO57-B6Gs"
    },
    {
+    "verdict": "Wish hero priority",
+    "note": "Excellent summoner DPS recommended for overall content progression.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=8QGiF0CmuTc"
+   },
+   {
     "verdict": "Still superior Summoner DPS",
     "note": "Remains the indispensable mother of dragons for Summoner PvE damage; Larclys does not come close to replacing her.",
     "date": "2026-09-28",
@@ -49187,6 +49668,20 @@
     "date": "2026-09-30",
     "channel": "OddOneGaming RPGs",
     "url": "https://www.youtube.com/watch?v=TviMe77f8sQ"
+   },
+   {
+    "verdict": "Fate Test support choice",
+    "note": "High-value support option alongside Synarell in the Fate Test reward pool.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=8QGiF0CmuTc"
+   },
+   {
+    "verdict": "Prime Chest Option",
+    "note": "Available for selection in the Day 14 Legendary Hero Prime Chest.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=AgIUhvZ-oDM"
    },
    {
     "verdict": "Best Non-Exclusive Support",
@@ -49713,6 +50208,13 @@
     "url": "https://www.youtube.com/watch?v=TviMe77f8sQ"
    },
    {
+    "verdict": "Top-tier support carry",
+    "note": "Extremely powerful unkillable support hero if pulled from early Heliolite summons.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=8QGiF0CmuTc"
+   },
+   {
     "verdict": "Recommended Support Pick",
     "note": "One of the high-value rare non-exclusive supports obtainable from the Day 14 Legendary Hero Prime Chest.",
     "date": "2026-09-28",
@@ -49783,6 +50285,13 @@
     "date": "2026-09-30",
     "channel": "OddOneGaming RPGs",
     "url": "https://www.youtube.com/watch?v=TviMe77f8sQ"
+   },
+   {
+    "verdict": "Prime Chest Option",
+    "note": "Available for selection in the Day 14 Legendary Hero Prime Chest.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=AgIUhvZ-oDM"
    },
    {
     "verdict": "Core healer partner",
@@ -49938,6 +50447,13 @@
     "date": "2026-10-14",
     "channel": "Fastidious Dragonheir",
     "url": "https://www.youtube.com/watch?v=KzauN75qkjQ"
+   },
+   {
+    "verdict": "Free starting tank",
+    "note": "Granted early in-game to provide a solid Frost tanking base.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=8QGiF0CmuTc"
    },
    {
     "verdict": "Great early Frost DPS",
@@ -50216,6 +50732,13 @@
     "date": "2026-09-30",
     "channel": "OddOneGaming RPGs",
     "url": "https://www.youtube.com/watch?v=TviMe77f8sQ"
+   },
+   {
+    "verdict": "Prime Chest Option",
+    "note": "Available for selection in the Day 14 Legendary Hero Prime Chest.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=AgIUhvZ-oDM"
    },
    {
     "verdict": "Haste and Accuracy support",
@@ -50824,6 +51347,20 @@
     "date": "2026-09-30",
     "channel": "OddOneGaming RPGs",
     "url": "https://www.youtube.com/watch?v=TviMe77f8sQ"
+   },
+   {
+    "verdict": "Fate Test support choice",
+    "note": "Top non-exclusive support character available to claim from the web Fate Test event.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=8QGiF0CmuTc"
+   },
+   {
+    "verdict": "Free Legendary Choice",
+    "note": "Available as a free selection option during the anniversary event campaign and in the Day 14 chest.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=AgIUhvZ-oDM"
    },
    {
     "verdict": "Burn enabler and support",

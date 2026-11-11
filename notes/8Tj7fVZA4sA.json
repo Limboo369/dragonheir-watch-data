@@ -1,0 +1,70 @@
+{
+ "summary": "This video showcases liveranov using a Thunderbolt team against the Continental Challenge bosses Talethia and Aemonleyda. The team scores over 785 million damage, securing an S-rank tier completion. The creator walks through the full battle, detailed stats screen, hero gear, build stat priorities, and ultimate skill timings.",
+ "topics": [
+  "Continental Challenge",
+  "Thunderbolt",
+  "Talethia and Aemonleyda",
+  "Boss Challenge"
+ ],
+ "heroes": [
+  {
+   "name": "Tariz",
+   "verdict": "Key Thunderbolt debuffer",
+   "note": "Built with high Accuracy and Witches set to consistently land debuffs on the boss.",
+   "known": true
+  },
+  {
+   "name": "Perkunte",
+   "verdict": "Primary Thunderbolt DPS",
+   "note": "Built focusing heavily on full Enlightenment and Attack stats for maximum damage output.",
+   "known": true
+  },
+  {
+   "name": "Maashtur",
+   "verdict": "Frontline tank and support",
+   "note": "Built with full HP and accuracy to absorb incoming damage while sustaining debuffs.",
+   "known": true
+  },
+  {
+   "name": "Alaura",
+   "verdict": "Thunderbolt damage dealer",
+   "note": "Built with full Enlightenment to maximize Thunderbolt damage scaling.",
+   "known": true
+  },
+  {
+   "name": "Fathomdown",
+   "verdict": "Essential speed enabler",
+   "note": "Equipped with Puppet Master gear set and full Skill Haste to boost team skill frequency.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Continental Challenge",
+   "heroes": [
+    "Tariz",
+    "Perkunte",
+    "Maashtur",
+    "Alaura",
+    "Fathomdown"
+   ],
+   "note": "High-performing Thunderbolt team achieving 785M damage against Talethia and Aemonleyda."
+  }
+ ],
+ "meta_changes": [],
+ "tips": [
+  "Equip Fathomdown with full Skill Haste and Puppet Master set to boost team rotation speeds and overall score.",
+  "Prioritize full Enlightenment and Attack on Perkunte and Alaura to maximize Thunderbolt skill scaling."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "8Tj7fVZA4sA",
+ "model": "gemini-3.5-flash",
+ "channel": "liveranov",
+ "title": "Thunderbolt Team vs Talethia and Aemonleyda | Continental Challenge | Season 8 | Dragonheir",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=8Tj7fVZA4sA",
+ "short": false,
+ "summarized": "2026-11-11T05:17Z"
+}

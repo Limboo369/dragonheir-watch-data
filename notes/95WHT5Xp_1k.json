@@ -1,0 +1,100 @@
+{
+ "summary": "Skratch showcases how to optimize a Poison team in Temporal Vortex using the recently buffed Child of Chaos alongside Reytah, pushing total damage past 37.5 billion. Following a balance patch, Child of Chaos gains AoE damage immunity via a special state, allowing him to survive and provide major team damage buffs. Putting Puppeteer on Child of Chaos frees Sleight to wear attack-boosting gear and share stats with Serpentemis and Twitch. Reytah activates her exclusive Miasma Staff artifact off Child of Chaos's debuffs, making Stegamoffyn obsolete in this setup. Skratch also details Psychicore tier requirements, highlighting that Tier VIII attribute bonuses require a full mono-element team.",
+ "topics": [
+  "Temporal Vortex",
+  "Child of Chaos",
+  "Poison Team",
+  "Psychicore",
+  "Artifact Builds"
+ ],
+ "heroes": [
+  {
+   "name": "Child of Chaos",
+   "verdict": "Top tier for Temporal Vortex",
+   "note": "Following an AoE immunity adjustment, he provides massive damage amplification via Dragonbone Catalyst and can equip Puppeteer to buff allies even at Inspiration 0 when paired with Reytah.",
+   "known": true
+  },
+  {
+   "name": "Reytah",
+   "verdict": "Core Poison support for Temporal Vortex",
+   "note": "Pairs perfectly with Child of Chaos, allowing her exclusive Miasma Staff artifact to easily trigger an 18% team damage bonus.",
+   "known": true
+  },
+  {
+   "name": "Stegamoffyn",
+   "verdict": "Outclassed / Obsolete",
+   "note": "Useless in Poison Temporal Vortex if you have Reytah, as he cannot cleanse the attack debuffs properly.",
+   "known": true
+  },
+  {
+   "name": "Sleight",
+   "verdict": "Essential Poison buffer",
+   "note": "Should be built with high Attack and Molten Surge/Whirling Edge gear instead of Puppeteer so he can share massive attack buffs with Serpentemis and Twitch.",
+   "known": true
+  },
+  {
+   "name": "Serpentemis",
+   "verdict": "Top Poison DPS",
+   "note": "Deals massive damage using Molten Surge gear and Statue of the Serpent Deity, capable of hitting near 30 billion on her own at high inspiration.",
+   "known": true
+  },
+  {
+   "name": "Twitch",
+   "verdict": "Core Poison DPS and buffer",
+   "note": "Shares high accuracy with the team and needs over 1,000 defense and 30k+ HP to consistently survive Vortex hits.",
+   "known": true
+  },
+  {
+   "name": "Guinavivre",
+   "verdict": "Top Dauntless DPS",
+   "note": "Main carry of the Dauntless team who benefits heavily from Angelic Alliance.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Temporal Vortex",
+   "heroes": [
+    "Child of Chaos",
+    "Reytah",
+    "Twitch",
+    "Serpentemis",
+    "Sleight"
+   ],
+   "note": "Reached 24.5 billion damage. Child of Chaos uses Puppeteer and Dragonbone Catalyst, Sleight shares attack, and Reytah runs Miasma Staff."
+  },
+  {
+   "mode": "Temporal Vortex",
+   "heroes": [
+    "Guinavivre",
+    "Nastjenka",
+    "Kurvida",
+    "Maashtur",
+    "Selva"
+   ],
+   "note": "High-end Dauntless team supporting the primary Poison team to reach 37.5B+ total damage."
+  }
+ ],
+ "meta_changes": [
+  "Child of Chaos received an adjustment to Edict Unfettered changing Ethereal from a buff to a special state that affects himself, granting him AoE damage immunity.",
+  "Stegamoffyn is completely replaced by Reytah when paired with Child of Chaos in Poison Temporal Vortex setups."
+ ],
+ "tips": [
+  "Equip the Puppeteer artifact set on Child of Chaos instead of Sleight; Child of Chaos easily achieves an 18s skill rotation via talents and rune skill haste while buffing the rest of the team.",
+  "Do not alter the positioning of Child of Chaos in Temporal Vortex, or he will push boss adds around and cause Twitch to miss targets.",
+  "Tier VIII Psychicore nodes only trigger if all 5 deployed heroes share the exact same element without any mixing.",
+  "Aim for at least 1,000 defense and 30,000+ HP on your Temporal Vortex damage dealers so they survive until the end of the battle.",
+  "If you lack Reytah's exclusive artifact (Miasma Staff), equip Misty Conch instead."
+ ],
+ "season": "S8",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "95WHT5Xp_1k",
+ "model": "gemini-3.8-flash",
+ "channel": "Skratch Gaming",
+ "title": "USE THE Child Of Chaos Like This!! Temporal Vortex Guide Dragonheir: Silent Gods x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=95WHT5Xp_1k",
+ "short": false,
+ "summarized": "2026-11-11T05:18Z"
+}

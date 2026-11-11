@@ -1,0 +1,98 @@
+{
+ "summary": "This video covers the 3rd Anniversary event rewards, promo codes, and optimal start strategies for new and returning Dragonheir players. Skratch outlines how to acquire up to 4 free Legendary heroes early through download links, login events, and the Fate Test web event. He also explains how to navigate beginner banners, Prophecy Summons, and Celebration Servers for maximum rewards.",
+ "topics": [
+  "anniversary",
+  "beginner guide",
+  "promo codes",
+  "prophecy summons",
+  "celebration server"
+ ],
+ "heroes": [
+  {
+   "name": "Auster",
+   "verdict": "Free Frost DPS",
+   "note": "Obtainable via the creator download link, serving as a high-damage Frost dealer.",
+   "known": true
+  },
+  {
+   "name": "Hochadir",
+   "verdict": "Free starting tank",
+   "note": "Granted early in-game to provide a solid Frost tanking base.",
+   "known": true
+  },
+  {
+   "name": "Lossenia",
+   "verdict": "Free Day 2 Legendary",
+   "note": "Strong Frost activator rewarded on Day 2 of the 7-day login event.",
+   "known": true
+  },
+  {
+   "name": "Zeffi",
+   "verdict": "Top-tier support carry",
+   "note": "Extremely powerful unkillable support hero if pulled from early Heliolite summons.",
+   "known": true
+  },
+  {
+   "name": "Nastjenka",
+   "verdict": "Wish hero priority",
+   "note": "Recommended DPS pick on Wish banners for speed-running dungeons and Temporal Vortex.",
+   "known": true
+  },
+  {
+   "name": "Lelwanis",
+   "verdict": "Wish hero priority",
+   "note": "Excellent summoner DPS recommended for overall content progression.",
+   "known": true
+  },
+  {
+   "name": "Synarell",
+   "verdict": "Fate Test support choice",
+   "note": "Top non-exclusive support character available to claim from the web Fate Test event.",
+   "known": true
+  },
+  {
+   "name": "Felosia",
+   "verdict": "Fate Test support choice",
+   "note": "High-value support option alongside Synarell in the Fate Test reward pool.",
+   "known": true
+  },
+  {
+   "name": "Child of Chaos",
+   "verdict": "Top anniversary banner priority",
+   "note": "Limited SP hero that should be the main focus for anniversary summons.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Early Game Frost Team",
+   "heroes": [
+    "Hochadir",
+    "Lossenia",
+    "Auster"
+   ],
+   "note": "A complete starter Frost team assembled entirely from free rewards and download gifts."
+  }
+ ],
+ "meta_changes": [
+  "Celebration Servers launched with doubled daily check-in rewards and accelerated progression.",
+  "Account Valuation event introduced to appraise existing account progress for Wyrmarrow payouts."
+ ],
+ "tips": [
+  "Start a new account on Celebration Servers launching Sept 15 to receive double daily login rewards.",
+  "Complete 20 standard Heliolite pulls to secure the guaranteed early Legendary before using Prophecy codes.",
+  "Bind creator code SKRATCH in the store settings to unlock monthly discount packs and free bonus goods.",
+  "Avoid locking in beginner Wish banner choices immediately until you see your pulls from limited banners like Child of Chaos."
+ ],
+ "season": "S1",
+ "server_scope": "S1",
+ "value": "medium",
+ "id": "8QGiF0CmuTc",
+ "model": "gemini-3.5-flash",
+ "channel": "Skratch Gaming",
+ "title": "The BEST TIME To START Playing Dragonheir: Silent Gods x Dragonstride",
+ "published": "2026-09-28T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=8QGiF0CmuTc",
+ "short": false,
+ "summarized": "2026-11-11T05:18Z"
+}
