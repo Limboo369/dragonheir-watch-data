@@ -1,14 +1,14 @@
 {
- "built": "2026-11-11T07:20Z",
+ "built": "2026-11-11T07:24Z",
  "last_fetch": "2026-11-11T07:17Z",
  "counts": {
-  "summarized": 470,
+  "summarized": 472,
   "skipped_giveaway": 17,
   "baseline": 22,
   "skipped_live": 1,
   "failed": 3,
-  "new": 174,
-  "retry": 6
+  "new": 173,
+  "retry": 5
  },
  "problems": [
   {
@@ -25,12 +25,6 @@
   },
   {
    "title": "The BEST Heroes to Pick in Traveler’s Departure Gift | Dragonheir x Dragonstride",
-   "channel": "Gorax",
-   "status": "retry",
-   "error": ""
-  },
-  {
-   "title": "NEW ACTIVE CODES! Claim FREE Rewards Before They Expire! | Dragonheir x Dragonstride",
    "channel": "Gorax",
    "status": "retry",
    "error": ""
@@ -73,10 +67,6 @@
   "quota_hit": 1794381450.380657
  },
  "log_tail": [
-  "… Gorax: NEW ACTIVE CODES! Claim FREE Rewards Before They Expire! | D",
-  "! The BEST Heroes to Pick in Traveler’s Departure Gi: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
-  "… Skyasterix Gaming: 🤩 DON’T MISS THIS! 🔥 S8 NEW REBATE + 30K Dragon Crystals = 6",
-  "saved 9mAObaYbcPA",
   "+ Neff Gaming: BEST Thunderbolt Setups & Supports + Tariz Banner! | Contine",
   "… Neff Gaming: Faction & Binding Explained! Everything You Need to Know! | ",
   "! 🤩 DON’T MISS THIS! 🔥 S8 NEW REBATE + 30K Dragon Cr: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
@@ -152,7 +142,11 @@
   "saved 7A82RrlsJac",
   "+ Gorax: Join Your Faction NOW Before You Miss These Rewards! | Drago",
   "saved 7tKX4QXxedA",
-  "+ Skyasterix Gaming: 🤩 DON’T MISS THIS! 🔥 S8 NEW REBATE + 30K Dragon Crystals = 6"
+  "+ Skyasterix Gaming: 🤩 DON’T MISS THIS! 🔥 S8 NEW REBATE + 30K Dragon Crystals = 6",
+  "saved 8KmyASkZl30",
+  "+ Gorax: NEW ACTIVE CODES! Claim FREE Rewards Before They Expire! | D",
+  "saved iwGDcflY87g",
+  "+ Gorax: Prepare NOW! Final Week CN Continental Challenge Teams | Dra"
  ],
  "crontab": [],
  "channels": [

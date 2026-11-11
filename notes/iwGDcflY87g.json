@@ -1,0 +1,161 @@
+{
+ "summary": "This video breaks down top-ranking team compositions and hero builds from the final week of Continental Challenge in the Season 9 Chinese server. Gorax analyzes six specific boss matchups (Rose, Quaesitia, Stegamoffyn, Beldelle, Synarell, and Guinavivre) covering damage outputs, artifact choices, stat priorities, and skill rotation timings. Notable highlights include a 3.2 billion damage Radiant team utilizing Holfast and Talethia, as well as a 2.14 billion Dauntless squad. The guide also reveals that many top setups function effectively even with low-inspiration or Inspiration 0 heroes.",
+ "topics": [
+  "Continental Challenge",
+  "Season 9 Meta",
+  "Boss Teams",
+  "Skill Timings",
+  "Hero Builds"
+ ],
+ "heroes": [
+  {
+   "name": "Rook",
+   "verdict": "Top AoE DPS for Rose",
+   "note": "Excels against multi-target boss Rose; build full Crit Rate and Crit Damage without worrying about Attack.",
+   "known": true
+  },
+  {
+   "name": "Holfast",
+   "verdict": "Top Radiant buffer at I2",
+   "note": "Significantly boosts teamwide damage for Talethia, making her easier to build than when paired with Lincos.",
+   "known": true
+  },
+  {
+   "name": "Talethia",
+   "verdict": "Top Radiant DPS",
+   "note": "Reached 3.2 billion damage against Beldelle when supported by Holfast, built with 100% Crit Rate, high Crit Damage, and HP.",
+   "known": true
+  },
+  {
+   "name": "Beldelle",
+   "verdict": "Top Ice Blast DPS",
+   "note": "Skip Crit Damage runes entirely and prioritize maximum Crit Rate and Attack.",
+   "known": true
+  },
+  {
+   "name": "Journ",
+   "verdict": "Essential Thunderbolt enabler",
+   "note": "Enables strict 15-second skill rotations via Skill Haste and debuffs, especially useful for new players.",
+   "known": true
+  },
+  {
+   "name": "Rena",
+   "verdict": "S tier Aura support",
+   "note": "Functions exceptionally well even at Inspiration 0 to enable 15-second rotation bursts.",
+   "known": true
+  },
+  {
+   "name": "Arlow",
+   "verdict": "Core Frost support",
+   "note": "Reflects boss debuffs and requires high Skill Haste (around 58+) to maintain team rotations.",
+   "known": true
+  },
+  {
+   "name": "Sacredeia",
+   "verdict": "Versatile tank and debuffer",
+   "note": "Can be built with high DPS stats in Corrosion teams or as a massive 90k+ HP primary tank in single-target fights.",
+   "known": true
+  }
+ ],
+ "teams": [
+  {
+   "mode": "Continental Challenge - Rose",
+   "heroes": [
+    "Rook",
+    "Szecedith",
+    "Child of Chaos",
+    "Reytah",
+    "Sacredeia"
+   ],
+   "note": "AoE Corrosion team designed to melt multiple target bodies; utilizes default rotation timings with Child of Chaos on a 15-second cycle."
+  },
+  {
+   "mode": "Continental Challenge - Quaesitia",
+   "heroes": [
+    "Aethereal",
+    "Lossenia",
+    "Olgan",
+    "Phaessa",
+    "Arlow"
+   ],
+   "note": "Frost team dealing ~298M damage; Olgan boosts attack via ultimate while Arlow cleanses and reflects boss debuffs."
+  },
+  {
+   "mode": "Continental Challenge - Stegamoffyn",
+   "heroes": [
+    "Guinavivre",
+    "Nastjenka",
+    "Kurvida",
+    "Maashtur",
+    "Selva"
+   ],
+   "note": "High-investment Dauntless composition dealing over 2.14B damage; requires around 175-200 Effect Resistance across heroes."
+  },
+  {
+   "mode": "Continental Challenge - Stegamoffyn (Alternative)",
+   "heroes": [
+    "Celestine",
+    "Beldelle",
+    "Shinnah",
+    "Fredegonda",
+    "Ernesto"
+   ],
+   "note": "Ice Blast team alternative dealing 1.16B to 1.61B damage; run Celestine on default rotation."
+  },
+  {
+   "mode": "Continental Challenge - Beldelle",
+   "heroes": [
+    "Talethia",
+    "Anneliesis",
+    "Diantha",
+    "Holfast",
+    "Rena"
+   ],
+   "note": "Insane 3.2B damage Radiant/Aura team operating on synchronized 15-second rotation cycles."
+  },
+  {
+   "mode": "Continental Challenge - Synarell",
+   "heroes": [
+    "Journ",
+    "Perkunte",
+    "Tariz",
+    "Alaura",
+    "Solmo"
+   ],
+   "note": "Thunderbolt team timed to a 15-second rotation; Journ provides high Haste to prevent skill desynchronization."
+  },
+  {
+   "mode": "Continental Challenge - Guinavivre",
+   "heroes": [
+    "Serpentemis",
+    "Twitch",
+    "Sleight",
+    "Oggok",
+    "Sacredeia"
+   ],
+   "note": "Single-target Poison/Serpentemis composition dealing 800M-1.13B damage using Sacredeia or a frontline melee tank to absorb hits."
+  }
+ ],
+ "meta_changes": [
+  "Holfast at Inspiration 2 has overtaken older Aura buffers like Lincos to create record-shattering 3.2B+ damage bursts with Talethia.",
+  "Strict 15-second skill rotation tuning driven by specific Haste thresholds and heroes like Journ and Rena dominates high-end boss clears.",
+  "Many top CN teams succeed with low-inspiration or Inspiration 0 heroes (such as Rena, Arlow, and Child of Chaos), lowering inspiration dependency."
+ ],
+ "tips": [
+  "When building Beldelle, skip Crit Damage runes completely and focus purely on Attack and Crit Rate.",
+  "Against Stegamoffyn, stack at least 175 to 200 Effect Resistance on your debuff cleansers and supports to survive boss mechanics.",
+  "For strict 15-second rotation teams (such as Thunderbolt or Radiant), match your Skill Haste thresholds carefully so heroes trigger skills in precise sync.",
+  "If you lack Inspiration on Holfast, Diantha can act as an effective secondary DPS to maintain solid Aura team output."
+ ],
+ "season": "S9",
+ "server_scope": "S9",
+ "value": "high",
+ "id": "iwGDcflY87g",
+ "model": "gemini-3.8-flash",
+ "channel": "Gorax",
+ "title": "Prepare NOW! Final Week CN Continental Challenge Teams | Dragonheir",
+ "published": "2026-11-11T12:00:00+00:00",
+ "url": "https://www.youtube.com/watch?v=iwGDcflY87g",
+ "short": false,
+ "summarized": "2026-11-11T07:24Z"
+}

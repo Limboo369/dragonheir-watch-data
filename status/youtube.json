@@ -1,6 +1,167 @@
 {
- "built": "2026-11-11T07:20Z",
+ "built": "2026-11-11T07:24Z",
  "videos": [
+  {
+   "summary": "This video breaks down top-ranking team compositions and hero builds from the final week of Continental Challenge in the Season 9 Chinese server. Gorax analyzes six specific boss matchups (Rose, Quaesitia, Stegamoffyn, Beldelle, Synarell, and Guinavivre) covering damage outputs, artifact choices, stat priorities, and skill rotation timings. Notable highlights include a 3.2 billion damage Radiant team utilizing Holfast and Talethia, as well as a 2.14 billion Dauntless squad. The guide also reveals that many top setups function effectively even with low-inspiration or Inspiration 0 heroes.",
+   "topics": [
+    "Continental Challenge",
+    "Season 9 Meta",
+    "Boss Teams",
+    "Skill Timings",
+    "Hero Builds"
+   ],
+   "heroes": [
+    {
+     "name": "Rook",
+     "verdict": "Top AoE DPS for Rose",
+     "note": "Excels against multi-target boss Rose; build full Crit Rate and Crit Damage without worrying about Attack.",
+     "known": true
+    },
+    {
+     "name": "Holfast",
+     "verdict": "Top Radiant buffer at I2",
+     "note": "Significantly boosts teamwide damage for Talethia, making her easier to build than when paired with Lincos.",
+     "known": true
+    },
+    {
+     "name": "Talethia",
+     "verdict": "Top Radiant DPS",
+     "note": "Reached 3.2 billion damage against Beldelle when supported by Holfast, built with 100% Crit Rate, high Crit Damage, and HP.",
+     "known": true
+    },
+    {
+     "name": "Beldelle",
+     "verdict": "Top Ice Blast DPS",
+     "note": "Skip Crit Damage runes entirely and prioritize maximum Crit Rate and Attack.",
+     "known": true
+    },
+    {
+     "name": "Journ",
+     "verdict": "Essential Thunderbolt enabler",
+     "note": "Enables strict 15-second skill rotations via Skill Haste and debuffs, especially useful for new players.",
+     "known": true
+    },
+    {
+     "name": "Rena",
+     "verdict": "S tier Aura support",
+     "note": "Functions exceptionally well even at Inspiration 0 to enable 15-second rotation bursts.",
+     "known": true
+    },
+    {
+     "name": "Arlow",
+     "verdict": "Core Frost support",
+     "note": "Reflects boss debuffs and requires high Skill Haste (around 58+) to maintain team rotations.",
+     "known": true
+    },
+    {
+     "name": "Sacredeia",
+     "verdict": "Versatile tank and debuffer",
+     "note": "Can be built with high DPS stats in Corrosion teams or as a massive 90k+ HP primary tank in single-target fights.",
+     "known": true
+    }
+   ],
+   "teams": [
+    {
+     "mode": "Continental Challenge - Rose",
+     "heroes": [
+      "Rook",
+      "Szecedith",
+      "Child of Chaos",
+      "Reytah",
+      "Sacredeia"
+     ],
+     "note": "AoE Corrosion team designed to melt multiple target bodies; utilizes default rotation timings with Child of Chaos on a 15-second cycle."
+    },
+    {
+     "mode": "Continental Challenge - Quaesitia",
+     "heroes": [
+      "Aethereal",
+      "Lossenia",
+      "Olgan",
+      "Phaessa",
+      "Arlow"
+     ],
+     "note": "Frost team dealing ~298M damage; Olgan boosts attack via ultimate while Arlow cleanses and reflects boss debuffs."
+    },
+    {
+     "mode": "Continental Challenge - Stegamoffyn",
+     "heroes": [
+      "Guinavivre",
+      "Nastjenka",
+      "Kurvida",
+      "Maashtur",
+      "Selva"
+     ],
+     "note": "High-investment Dauntless composition dealing over 2.14B damage; requires around 175-200 Effect Resistance across heroes."
+    },
+    {
+     "mode": "Continental Challenge - Stegamoffyn (Alternative)",
+     "heroes": [
+      "Celestine",
+      "Beldelle",
+      "Shinnah",
+      "Fredegonda",
+      "Ernesto"
+     ],
+     "note": "Ice Blast team alternative dealing 1.16B to 1.61B damage; run Celestine on default rotation."
+    },
+    {
+     "mode": "Continental Challenge - Beldelle",
+     "heroes": [
+      "Talethia",
+      "Anneliesis",
+      "Diantha",
+      "Holfast",
+      "Rena"
+     ],
+     "note": "Insane 3.2B damage Radiant/Aura team operating on synchronized 15-second rotation cycles."
+    },
+    {
+     "mode": "Continental Challenge - Synarell",
+     "heroes": [
+      "Journ",
+      "Perkunte",
+      "Tariz",
+      "Alaura",
+      "Solmo"
+     ],
+     "note": "Thunderbolt team timed to a 15-second rotation; Journ provides high Haste to prevent skill desynchronization."
+    },
+    {
+     "mode": "Continental Challenge - Guinavivre",
+     "heroes": [
+      "Serpentemis",
+      "Twitch",
+      "Sleight",
+      "Oggok",
+      "Sacredeia"
+     ],
+     "note": "Single-target Poison/Serpentemis composition dealing 800M-1.13B damage using Sacredeia or a frontline melee tank to absorb hits."
+    }
+   ],
+   "meta_changes": [
+    "Holfast at Inspiration 2 has overtaken older Aura buffers like Lincos to create record-shattering 3.2B+ damage bursts with Talethia.",
+    "Strict 15-second skill rotation tuning driven by specific Haste thresholds and heroes like Journ and Rena dominates high-end boss clears.",
+    "Many top CN teams succeed with low-inspiration or Inspiration 0 heroes (such as Rena, Arlow, and Child of Chaos), lowering inspiration dependency."
+   ],
+   "tips": [
+    "When building Beldelle, skip Crit Damage runes completely and focus purely on Attack and Crit Rate.",
+    "Against Stegamoffyn, stack at least 175 to 200 Effect Resistance on your debuff cleansers and supports to survive boss mechanics.",
+    "For strict 15-second rotation teams (such as Thunderbolt or Radiant), match your Skill Haste thresholds carefully so heroes trigger skills in precise sync.",
+    "If you lack Inspiration on Holfast, Diantha can act as an effective secondary DPS to maintain solid Aura team output."
+   ],
+   "season": "S9",
+   "server_scope": "S9",
+   "value": "high",
+   "id": "iwGDcflY87g",
+   "model": "gemini-3.8-flash",
+   "channel": "Gorax",
+   "title": "Prepare NOW! Final Week CN Continental Challenge Teams | Dragonheir",
+   "published": "2026-11-11T12:00:00+00:00",
+   "url": "https://www.youtube.com/watch?v=iwGDcflY87g",
+   "short": false,
+   "summarized": "2026-11-11T07:24Z"
+  },
   {
    "summary": "OddOne presents a single full-auto team capable of clearing all 60 stages of the Season 9 Meander Trial. The core damage dealer is Talethia, supported by Anneliesis, Child of Chaos, Diantha, and Holfast. Talethia ideally requires at least Inspiration 2, whereas Anneliesis and Child of Chaos function well at base copies. Diantha and Holfast can be swapped out for other aura support heroes if needed.",
    "topics": [
@@ -20192,6 +20353,33 @@
    "summarized": "2026-11-11T07:17Z"
   },
   {
+   "summary": "This video provides a walkthrough on how to redeem active promo codes in Dragonheir: Silent Gods. The creator demonstrates the menu path to enter redemption codes via the settings screen. Several active codes are verified in-game, yielding substantial rewards such as Heliolite Dice, Wyrmarrow, Master Scrolls, bread, and gold. Viewers are advised to redeem the codes promptly before they expire and to check for variations.",
+   "topics": [
+    "promo codes",
+    "rewards",
+    "account progression"
+   ],
+   "heroes": [],
+   "teams": [],
+   "meta_changes": [],
+   "tips": [
+    "To redeem codes, tap the menu icon in the top right, select the Settings cog, go to Service, find Redemption Code Pack, click 'Go', and paste your codes.",
+    "Try numerical variations for certain creator codes (such as Fastidious11 and Fastidious12), as multiple versions may be active.",
+    "Check your in-game mailbox immediately after redeeming to claim your items before mail expiration."
+   ],
+   "season": "unknown",
+   "server_scope": "S1",
+   "value": "low",
+   "id": "8KmyASkZl30",
+   "model": "gemini-3.8-flash",
+   "channel": "Gorax",
+   "title": "NEW ACTIVE CODES! Claim FREE Rewards Before They Expire! | Dragonheir x Dragonstride",
+   "published": "2026-09-28T12:00:00+00:00",
+   "url": "https://www.youtube.com/watch?v=8KmyASkZl30",
+   "short": false,
+   "summarized": "2026-11-11T07:22Z"
+  },
+  {
    "summary": "This video covers the 3rd Anniversary event rewards, promo codes, and optimal start strategies for new and returning Dragonheir players. Skratch outlines how to acquire up to 4 free Legendary heroes early through download links, login events, and the Fate Test web event. He also explains how to navigate beginner banners, Prophecy Summons, and Celebration Servers for maximum rewards.",
    "topics": [
     "anniversary",
@@ -35127,7 +35315,501 @@
   }
  ],
  "heroes": {
+  "Rook": [
+   {
+    "verdict": "Top AoE DPS for Rose",
+    "note": "Excels against multi-target boss Rose; build full Crit Rate and Crit Damage without worrying about Attack.",
+    "date": "2026-11-11",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=iwGDcflY87g"
+   },
+   {
+    "verdict": "Core Corrosion DPS",
+    "note": "Requires the Stream Sonata set, 100% crit rate, high crit damage, and skill haste.",
+    "date": "2026-11-06",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=M1l8V-XyEvs"
+   },
+   {
+    "verdict": "Corrosion DPS",
+    "note": "Requires Crit Damage gear pieces while prioritizing Crit Rate, Crit Damage, and Skill Haste.",
+    "date": "2026-11-04",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/shorts/Kyc5dGaAR7o"
+   },
+   {
+    "verdict": "High-tier Corrosion DPS",
+    "note": "Built primarily with high Critical Rate, Critical Damage, and supplementary Skill Haste from runes.",
+    "date": "2026-10-29",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=9WZfkPWafpo"
+   },
+   {
+    "verdict": "Top DPS carry for Corrosion teams against Mekkatorque",
+    "note": "Dealt 1.099 billion damage (78% of the total team damage) utilizing default skill timings to capitalize on enemy Corrosion stacks.",
+    "date": "2026-10-28",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=2clr7Ee4JAs"
+   },
+   {
+    "verdict": "Core DPS / 1B+ damage carry",
+    "note": "Deals massive true damage through Corrosion consumption; build with 100% Crit Rate, max Crit Damage, high Resistance, and 1-piece Steam Sonata for bonus Skill Haste.",
+    "date": "2026-10-28",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=95O1rcCjYgw"
+   },
+   {
+    "verdict": "Endgame Corrosion carry (requires Inspiration 5)",
+    "note": "Serves as the main damage carry for Corrosion, but is very weak until maxed out at Inspiration 5.",
+    "date": "2026-10-27",
+    "channel": "Volkin Dragonheir",
+    "url": "https://www.youtube.com/watch?v=vWWBqHvwtro"
+   },
+   {
+    "verdict": "Primary DPS for Corrosion team",
+    "note": "Built with Attack Speed, 100% Crit Rate, and maximum Crit Damage using Crimson Sonata artifact.",
+    "date": "2026-10-26",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=ArAmzrTA6nQ"
+   },
+   {
+    "verdict": "Top Corrosion DPS",
+    "note": "Prioritizes 100% crit rate, max crit damage, and skill haste over raw attack stats.",
+    "date": "2026-10-26",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=1yIYhy_Ce_w"
+   },
+   {
+    "verdict": "Top-tier primary Corrosion carry",
+    "note": "Remains the highest damage dealer in Corrosion setups by consuming Corrosion stacks to deal massive True Damage.",
+    "date": "2026-10-18",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=fT3qqfBNas4"
+   },
+   {
+    "verdict": "Top Corrosion damage dealer",
+    "note": "Needs high Resistance gear to avoid having his ultimate energy drained by the boss.",
+    "date": "2026-10-18",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=hMbPhfixtdg"
+   },
+   {
+    "verdict": "Top Corrosion DPS pick",
+    "note": "The primary damage dealer for Corrosion teams and a great target to secure from guaranteed selector banners.",
+    "date": "2026-10-16",
+    "channel": "Suzi Plays",
+    "url": "https://www.youtube.com/watch?v=lXIGOO_jApM"
+   },
+   {
+    "verdict": "Top Corrosion DPS",
+    "note": "His True Damage does not scale with Attack, so build him strictly with Skill Haste, Crit Rate, Crit Damage, and defensive main stats.",
+    "date": "2026-10-14",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=3KZIsOF6xYY"
+   },
+   {
+    "verdict": "Top Corrosion carry",
+    "note": "Pairs with Szecedith in high-performing Corrosion teams hitting ~1.4B damage.",
+    "date": "2026-10-14",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=e05LIFMVHBA"
+   },
+   {
+    "verdict": "Top Corrosion DPS",
+    "note": "Deals massive damage using high Crit Rate, Crit Damage, and Skill Haste while sharing Attack through support gear.",
+    "date": "2026-10-14",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=zwqb59YlmvY"
+   },
+   {
+    "verdict": "Craft Crit Damage Gloves",
+    "note": "Requires Crit Damage gloves to maximize damage output.",
+    "date": "2026-10-07",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=z3tO57-B6Gs"
+   },
+   {
+    "verdict": "Key enabler in Corrosion Vortex teams",
+    "note": "Deals massive damage against boss eggs, enabling Szecedith to amplify overall team output.",
+    "date": "2026-09-30",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=bzTAdskU1kA"
+   },
+   {
+    "verdict": "Former meta defining carry",
+    "note": "Referenced for shifting the Vortex meta upon release when Corrosion was introduced.",
+    "date": "2026-09-28",
+    "channel": "Skyasterix Gaming",
+    "url": "https://www.youtube.com/watch?v=DeeNnLK1QkI"
+   },
+   {
+    "verdict": "Primary DPS for Corrosion team",
+    "note": "Scales purely with 100% Crit Rate and Crit Damage while ignoring Attack stats.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=HqVIrNsj0jg"
+   },
+   {
+    "verdict": "Top Corrosion damage dealer",
+    "note": "Reaches extreme damage numbers when paired with Lariel's Tear defense reduction and Corrosion synergy.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=LoshJITl5VE"
+   },
+   {
+    "verdict": "Core damage dealer",
+    "note": "Carries the encounter with True Damage on his Ultimate; should run on full YOLO default timings with 100% Crit Rate, high Crit Damage, and Skill Haste.",
+    "date": "2026-09-28",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=SeE4BCCmxz4"
+   },
+   {
+    "verdict": "Corrosion DPS and energy generator",
+    "note": "Built with 100% Crit Rate and Puppeteer's Inspiration to supply extra ultimate energy to Corrosion allies.",
+    "date": "2026-09-28",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=em_1Gc-pIuY"
+   },
+   {
+    "verdict": "Late-Game Corrosion DPS",
+    "note": "Requires Inspiration 5, exclusive artifact, and endgame gear to be viable.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=hXBPeFQV_5Y"
+   },
+   {
+    "verdict": "Key Corrosion damage enabler",
+    "note": "Built with 100% Crit Rate, max Crit Damage, and Skill Haste while sharing Attack with Szecedith via Attack-sharing gloves.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=lfdXqHtcK88"
+   },
+   {
+    "verdict": "Essential Corrosion DPS built for Skill Haste",
+    "note": "Shifted away from full Crit Damage toward Skill Haste using Secrecy 2-piece set and haste stats to avoid timing issues.",
+    "date": "2026-09-28",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=lsdLS8qXc5g"
+   },
+   {
+    "verdict": "top target in Wish Banner",
+    "note": "High-value exclusive DPS hero featured in the Wish Banner.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=m_mPa3snJ_Y"
+   },
+   {
+    "verdict": "Top-tier Corrosion DPS",
+    "note": "Re-enters top meta status when paired with Lariel, contributing over 80% of team damage in high-tier boss battles.",
+    "date": "2026-09-28",
+    "channel": "Skyasterix Gaming",
+    "url": "https://www.youtube.com/watch?v=sG1x9N1qUCY"
+   },
+   {
+    "verdict": "Core Corrosion dps",
+    "note": "Built with 100% Crit Rate, max Crit Damage, and Skill Haste.",
+    "date": "2026-09-28",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=z01GX69DqrM"
+   }
+  ],
+  "Holfast": [
+   {
+    "verdict": "Top Radiant buffer at I2",
+    "note": "Significantly boosts teamwide damage for Talethia, making her easier to build than when paired with Lincos.",
+    "date": "2026-11-11",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=iwGDcflY87g"
+   },
+   {
+    "verdict": "Aura support",
+    "note": "Acts as an aura support hero and can be substituted by other aura supports.",
+    "date": "2026-11-10",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/shorts/Md_N5BqS1qU"
+   },
+   {
+    "verdict": "Strong Aura damage dealer",
+    "note": "Channels Aura energy to allies and provides offensive support; can be substituted with Lincos if unavailable.",
+    "date": "2026-11-10",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=A3KEQqeUo6U"
+   },
+   {
+    "verdict": "Top pick Aura enabler",
+    "note": "Replaces Lincos in Aura lineups, providing passive Aura energy gain and teamwide damage buffs even at Inspiration 0.",
+    "date": "2026-11-10",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=fNvpxhA9GMY"
+   },
+   {
+    "verdict": "Core Aura battery",
+    "note": "Provides vital Aura energy generation to power the rest of the team.",
+    "date": "2026-11-10",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/shorts/oJ4LjJRJ5Ag"
+   },
+   {
+    "verdict": "Buff overlap with Anneliesis",
+    "note": "Shares a similar non-stacking buff with Anneliesis's max inspiration effects, making I5 Anneliesis redundant when paired with him.",
+    "date": "2026-11-09",
+    "channel": "Suzi Plays",
+    "url": "https://www.youtube.com/watch?v=UtZmF-8dKVw"
+   },
+   {
+    "verdict": "Must-have upgrade over Lincos",
+    "note": "Provides consistent 30% Damage Up via his passive/talent, channels Aura energy, and provides substantial personal damage along with random offensive buffs.",
+    "date": "2026-11-09",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=FYVKxkmeNag"
+   },
+   {
+    "verdict": "High-Scaling Radiant DPS",
+    "note": "Scales massively with higher inspirations; built purely for offensive Radiant damage.",
+    "date": "2026-11-09",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=pgksOlyG-E8"
+   },
+   {
+    "verdict": "High-value Aura support and DPS even at Inspiration 0",
+    "note": "Dealt 12.4% (449 million) of the team's damage using Orb of the Dragon God while boosting team energy.",
+    "date": "2026-11-08",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=vC9dRFEYD4A"
+   },
+   {
+    "verdict": "Strong Aura support sub-DPS",
+    "note": "Dealt 1.48 billion damage (12.7% of Aura team output) at Inspiration 0 while boosting Aura allies with energy, damage buffs, and random stats.",
+    "date": "2026-11-08",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=UaQD1-RL_OU"
+   },
+   {
+    "verdict": "Top Aura DPS",
+    "note": "Provides over 1 billion additional damage when slotted into Aura team compositions.",
+    "date": "2026-11-08",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=4zWG2dQRL28"
+   },
+   {
+    "verdict": "Secondary choice",
+    "note": "Worth obtaining once Talethia's key Inspirations are established.",
+    "date": "2026-11-08",
+    "channel": "Suzi Plays",
+    "url": "https://www.youtube.com/watch?v=hHuBny9bgpw"
+   },
+   {
+    "verdict": "Top pick for Vortex teams",
+    "note": "Radiant element damage dealer that channels Aura Energy to allies and grants random buffs; Inspiration 1 increases damage dealt to shielded enemies by 20%.",
+    "date": "2026-11-08",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=vonwUUqCne4"
+   },
+   {
+    "verdict": "Fantastic pick for Aura teams",
+    "note": "Great hero to grab prior to going for Anneliesis if you can guarantee 300 summons on the Anneliesis banner within 14 days.",
+    "date": "2026-11-08",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/shorts/cmiJeXMr108"
+   },
+   {
+    "verdict": "Strong Aura buffer",
+    "note": "Provides massive near-permanent Damage Up buffs to Aura allies and inflicts up to 20% Radiant Vulnerability.",
+    "date": "2026-11-08",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=RjpnhQCQO30"
+   },
+   {
+    "verdict": "High priority replacement for Lincos",
+    "note": "Outstanding Aura support hero that grants Crit Rate, Crit Damage, Attack Up, Aura Energy, and 30% Damage Up to Aura allies.",
+    "date": "2026-11-08",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=CFXDo-Psx7g"
+   },
+   {
+    "verdict": "Top recommendation from Selected Summons II",
+    "note": "Recommended pick from the 300-summon selector if you lack him or Aemonleyda's artifact.",
+    "date": "2026-11-08",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=Gd2mJ34vOvI"
+   },
+   {
+    "verdict": "Top-tier support for Aura teams; aim for Inspiration 2",
+    "note": "Significantly amplifies Talethia's damage output and helps Aura teams dominate Continental Challenge.",
+    "date": "2026-11-08",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=YFI7cbkrmv8"
+   },
+   {
+    "verdict": "Top-tier Aura replacement for Lincos",
+    "note": "Replaces Lincos in Aura compositions even at Inspiration 0 compared to an Inspiration 5 Lincos.",
+    "date": "2026-11-08",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=WI8NEyeWbO0"
+   },
+   {
+    "verdict": "Must-pull for Aura teams, skip otherwise",
+    "note": "Acts as an Aura Energy engine and damage buffer whose entire kit relies on and boosts allied Aura heroes.",
+    "date": "2026-11-07",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=wVYgz2Rvkro"
+   },
+   {
+    "verdict": "Top tier Aura DPS",
+    "note": "Reaches 2.7B to 3.6B damage when built with full mythic crit rate and crit damage gear.",
+    "date": "2026-11-06",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=M1l8V-XyEvs"
+   },
+   {
+    "verdict": "Top support for Aura teams",
+    "note": "Provides massive buffs including 30% Damage Up, Crit Rate, Crit Damage, and Attack to Aura allies via his passive and battle skill.",
+    "date": "2026-10-28",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=Non35MLHvpY"
+   },
+   {
+    "verdict": "Top pick for Aura teams",
+    "note": "New Aura damage dealer featured in Selected Summons 1 who replaces Lincos in Aura team lineups.",
+    "date": "2026-10-27",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=yhryGv6s8nU"
+   },
+   {
+    "verdict": "Top priority Aura support (power creeps Lincos)",
+    "note": "Provides Aura energy and a 30% damage boost via his passive, outperforming an Inspiration 5 Lincos even at base copy.",
+    "date": "2026-10-27",
+    "channel": "Volkin Dragonheir",
+    "url": "https://www.youtube.com/watch?v=vWWBqHvwtro"
+   },
+   {
+    "verdict": "Radiance Aura damage dealer",
+    "note": "Channels Aura Energy to allies and grants team buffs.",
+    "date": "2026-10-26",
+    "channel": "Fastidious Dragonheir",
+    "url": "https://www.youtube.com/watch?v=VZJeo9_euaw"
+   },
+   {
+    "verdict": "Strong DPS in Aura team",
+    "note": "Built for near 100% Crit Rate and high Crit Damage.",
+    "date": "2026-10-26",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=ArAmzrTA6nQ"
+   },
+   {
+    "verdict": "Must-pull Aura support",
+    "note": "Directly replaces Lincos even at Inspiration 0 and can deal substantial supplementary damage.",
+    "date": "2026-10-26",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=1yIYhy_Ce_w"
+   },
+   {
+    "verdict": "Radiance buffer and DPS",
+    "note": "Radiance damage dealer who channels Aura Energy to grant buffs to team members.",
+    "date": "2026-10-24",
+    "channel": "Volkin Dragonheir",
+    "url": "https://www.youtube.com/watch?v=riHiHpJVtjY"
+   },
+   {
+    "verdict": "Strong S9 Aura teammate",
+    "note": "A new S9 Radiance Aura hero who channels Aura energy to his school.",
+    "date": "2026-10-23",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=EZe7SqG0EUE"
+   },
+   {
+    "verdict": "Aura banner exclusive",
+    "note": "The guaranteed exclusive Aura school hero at the 300-summon pity threshold.",
+    "date": "2026-10-22",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=OBfK1Ao1WqU"
+   },
+   {
+    "verdict": "Radiance Aura engine and damage buffer",
+    "note": "Channels Aura energy and damage buffs to same-school allies and triggers extra attacks for Aura heroes following his ultimate.",
+    "date": "2026-10-22",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=XhGCS6xvTRc"
+   },
+   {
+    "verdict": "New S9 Hero",
+    "note": "Featured in the S9 teaser trailer as the Harping Scholar.",
+    "date": "2026-10-21",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=wTuHdSbBISg"
+   },
+   {
+    "verdict": "Upcoming Aura hero",
+    "note": "New season hero expected to give a massive boost to Aura teams.",
+    "date": "2026-10-20",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=5E5nhm0Y6zE"
+   },
+   {
+    "verdict": "Must-have exclusive Radiance Aura enabler",
+    "note": "Generates Aura energy and grants 30% Damage Up and crit buffs to allied Aura heroes, making him a high priority targeting Inspiration 5.",
+    "date": "2026-10-19",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=H5-A51mtGFU"
+   },
+   {
+    "verdict": "Top priority Aura hero",
+    "note": "Replaces Lincos in Aura teams because his damage buffs pair better alongside Diantha and do not stack redundantly.",
+    "date": "2026-10-18",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=j4_0OuYJeHU"
+   },
+   {
+    "verdict": "Must-have Aura booster",
+    "note": "Provides a 30% damage boost via his passive and gains stacking Radiance Vulnerability at Inspiration 5, giving huge damage amplification to Aura compositions.",
+    "date": "2026-10-18",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=yTI3C6ck-Rk"
+   },
+   {
+    "verdict": "Must-pull Aura enabler and DPS",
+    "note": "Replaces Lincos completely, providing huge energy channeling, a 20s 30% Damage Up buff via talent, and outdamaging I5 Lincos even at I0.",
+    "date": "2026-10-17",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=sQYC7VdWNeE"
+   },
+   {
+    "verdict": "Top-tier Aura engine replacing Lyncos",
+    "note": "Channels Aura energy to same-school heroes, grants damage output buffs, and assists Aura heroes in triggering extra attacks.",
+    "date": "2026-10-15",
+    "channel": "Suzi Plays",
+    "url": "https://www.youtube.com/watch?v=gTzILPNg-ek"
+   },
+   {
+    "verdict": "Must-have Aura Exclusive Activator",
+    "note": "Channels Aura energy to allies, grants damage buffs, triggers assist attacks, and restores Aura energy following his power skill.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=jgyWHcBycug"
+   },
+   {
+    "verdict": "Aura DPS and Buffer",
+    "note": "Channels Aura energy to buff allies, assists Aura heroes with additional attacks, and self-recovers Aura energy.",
+    "date": "2026-09-28",
+    "channel": "Skyasterix Gaming",
+    "url": "https://www.youtube.com/watch?v=rDHctaOAVEA"
+   },
+   {
+    "verdict": "Potential Aura exclusive DPS and Lincos upgrade",
+    "note": "Channels Aura energy to allies, grants damage buffs, triggers assist attacks, and restores self Aura energy.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=v7j7nvLg6Qg"
+   }
+  ],
   "Talethia": [
+   {
+    "verdict": "Top Radiant DPS",
+    "note": "Reached 3.2 billion damage against Beldelle when supported by Holfast, built with 100% Crit Rate, high Crit Damage, and HP.",
+    "date": "2026-11-11",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=iwGDcflY87g"
+   },
    {
     "verdict": "Core DPS for Meander Trial",
     "note": "Built with standard damage gear; works reliably when at least Inspiration 2.",
@@ -35876,6 +36558,688 @@
     "date": "2026-08-28",
     "channel": "Skratch Gaming",
     "url": "https://www.youtube.com/watch?v=V2r59itUDMA"
+   }
+  ],
+  "Beldelle": [
+   {
+    "verdict": "Top Ice Blast DPS",
+    "note": "Skip Crit Damage runes entirely and prioritize maximum Crit Rate and Attack.",
+    "date": "2026-11-11",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=iwGDcflY87g"
+   },
+   {
+    "verdict": "Top-tier Frost DPS",
+    "note": "One of the strongest characters in the game, utilizing Ice Crystal mechanics to deal heavy damage.",
+    "date": "2026-10-31",
+    "channel": "Fastidious Dragonheir",
+    "url": "https://www.youtube.com/watch?v=wM0sFqru6M4"
+   },
+   {
+    "verdict": "Core Ice Blast DPS",
+    "note": "Prioritize Crit Rate and stack Attack so the pet's Attack Up buff targets her.",
+    "date": "2026-10-28",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=F8lJPCbJwgs"
+   },
+   {
+    "verdict": "Core Ice Blast DPS",
+    "note": "Extremely strong with her exclusive artifact, making Ice Blast teams very cost-effective.",
+    "date": "2026-10-27",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=YKXKm7v-bJA"
+   },
+   {
+    "verdict": "Top Ice Blast DPS",
+    "note": "Requires full crit rate and pure attack with her exclusive artifact, completely skipping crit damage.",
+    "date": "2026-10-26",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=1yIYhy_Ce_w"
+   },
+   {
+    "verdict": "core Ice Blast DPS",
+    "note": "A primary damage dealer to run alongside Ernesto in Ice Blast lineups.",
+    "date": "2026-10-24",
+    "channel": "Suzi Plays",
+    "url": "https://www.youtube.com/watch?v=scDahdyomBc"
+   },
+   {
+    "verdict": "Primary Ice Blast DPS",
+    "note": "Stack as much Attack and Crit Rate as possible; Crit Damage can be skipped unless positive runes have exceptional offensive sub-stats.",
+    "date": "2026-10-14",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=Lg9-TodNV1k"
+   },
+   {
+    "verdict": "Primary Ice Blast DPS",
+    "note": "Must have the highest Attack in the team to receive the pet's 10% Attack buff; focus on Attack and Crit Rate.",
+    "date": "2026-10-14",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=pCYtUDqkYMc"
+   },
+   {
+    "verdict": "Top Ice Blast carry",
+    "note": "Demands the highest Attack stat on the squad to receive all priority buffs and Master Genie scaling.",
+    "date": "2026-10-14",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=vPergNPCG8I"
+   },
+   {
+    "verdict": "Top single-target DPS pick",
+    "note": "When equipped with her artifact, she serves as an extremely potent single-target anchor for Ice Blast teams.",
+    "date": "2026-10-07",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=B88cdyDr8dY"
+   },
+   {
+    "verdict": "Top 300-pity target for Ice Blast teams",
+    "note": "Serves as the core DPS unit to build a very free-to-play friendly Ice Blast team.",
+    "date": "2026-10-07",
+    "channel": "Volkin Dragonheir",
+    "url": "https://www.youtube.com/watch?v=Qz1B9JVRYjo"
+   },
+   {
+    "verdict": "Core Ice Blast DPS",
+    "note": "Focus purely on Crit Rate and Attack stats without needing Resistance.",
+    "date": "2026-10-07",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=xW7fJsl5GJM"
+   },
+   {
+    "verdict": "Craft Crit Rate Gloves",
+    "note": "Scales directly with Crit Rate, making Crit Rate primary gloves ideal.",
+    "date": "2026-10-07",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=z3tO57-B6Gs"
+   },
+   {
+    "verdict": "Primary Ice Blast DPS",
+    "note": "Built with high Crit Rate and Attack using exclusive artifact and top offensive mythic gear.",
+    "date": "2026-09-28",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=EYjaL1MHJtA"
+   },
+   {
+    "verdict": "Testing partner hero",
+    "note": "Used in testing to demonstrate element matching bonuses and Puppeteer gear set interactions.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=FkcnkbLbek8"
+   },
+   {
+    "verdict": "Main Ice Blast DPS",
+    "note": "Built with high Crit Rate and Attack to maximize Ice Blast damage output.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=Vs9xdK98GU0"
+   },
+   {
+    "verdict": "Main DPS",
+    "note": "Build full damage.",
+    "date": "2026-09-28",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=fViTylAqdXY"
+   },
+   {
+    "verdict": "Top Ice Blast DPS",
+    "note": "Delivers strong single-target damage right out of the gate and becomes top tier at Inspiration 5.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=hXBPeFQV_5Y"
+   },
+   {
+    "verdict": "Top Budget Choice",
+    "note": "Excellent single-target Iceblast DPS that performs solidly even at low inspiration without requiring other exclusives.",
+    "date": "2026-09-28",
+    "channel": "Volkin Dragonheir",
+    "url": "https://www.youtube.com/watch?v=jRRemeIzzrc"
+   },
+   {
+    "verdict": "Primary Ice Blast DPS",
+    "note": "Requires maximum Crit Rate and Attack while skipping Crit Damage to optimize Ice Blast triggers.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=jz6YEj19yYk"
+   },
+   {
+    "verdict": "Core Ice Blast DPS",
+    "note": "Outputs immense damage in Ice Blast teams, reaching top-tier numbers when backed by inspirations.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=okhvNfjpOsY"
+   }
+  ],
+  "Journ": [
+   {
+    "verdict": "Essential Thunderbolt enabler",
+    "note": "Enables strict 15-second skill rotations via Skill Haste and debuffs, especially useful for new players.",
+    "date": "2026-11-11",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=iwGDcflY87g"
+   },
+   {
+    "verdict": "Solid support",
+    "note": "Benefits greatly from Inspiration 3, which grants extra Haste that synergizes with his kit.",
+    "date": "2026-11-08",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=WI8NEyeWbO0"
+   },
+   {
+    "verdict": "Essential dispel and energy enabler",
+    "note": "Dispels Increased Defense from Grave of Venom 20 with his ultimate while recharging ultimate energy for himself and allies via self-burns.",
+    "date": "2026-11-03",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=jRdl34i5jqs"
+   },
+   {
+    "verdict": "Viable alternative support",
+    "note": "Can replace Anneliesis or Diantha to dispel boss buffs and provide team-wide energy through his backfire passive.",
+    "date": "2026-10-30",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=j2FsBiDB1ak"
+   },
+   {
+    "verdict": "Debuffer and energy controller",
+    "note": "Dispels enemy buffs, decreases boss Ultimate Energy, and sustains team damage.",
+    "date": "2026-10-28",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=daxkk04dRVk"
+   },
+   {
+    "verdict": "Core Continental Challenge hero",
+    "note": "Increases ultimate energy for allies while controlling and dispelling enemy ultimate energy.",
+    "date": "2026-10-24",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=p2wAxn2IAFQ"
+   },
+   {
+    "verdict": "Great niche boss support",
+    "note": "Excels in specific boss encounters by boosting team turn speed.",
+    "date": "2026-10-24",
+    "channel": "Suzi Plays",
+    "url": "https://www.youtube.com/watch?v=xoS9KUTB3Is"
+   },
+   {
+    "verdict": "Essential buffer for Talethia",
+    "note": "Requires careful positioning to distribute ultimate energy to all four teammates.",
+    "date": "2026-09-30",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=DQlhUcZ_2zg"
+   },
+   {
+    "verdict": "Ultimate energy control enabler",
+    "note": "Reduces target ultimate energy on debuffs and applies Bleed using the Calcined Ruin set.",
+    "date": "2026-09-30",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=ONMMBlvyWpc"
+   },
+   {
+    "verdict": "Versatile control support",
+    "note": "Diminishes boss rotations using skill haste, accuracy, and support gear.",
+    "date": "2026-09-28",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=9mAObaYbcPA"
+   },
+   {
+    "verdict": "Attack and Haste sub-DPS",
+    "note": "Built with full Attack and some Skill Haste to contribute team damage.",
+    "date": "2026-09-28",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=FvHXMc5137M"
+   },
+   {
+    "verdict": "Alternative support buffer",
+    "note": "Grants extra Skill Haste and Attack sharing to allies when Alarick is unavailable.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=HqVIrNsj0jg"
+   },
+   {
+    "verdict": "Essential dispelexpert for Boss Joyce",
+    "note": "Requires high Accuracy and an 18.2-second ultimate recast timer to reliably strip Joyce's Defense Up and Damage Up buffs.",
+    "date": "2026-09-28",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=IjQ9BlCQInY"
+   },
+   {
+    "verdict": "Key Incandescence support",
+    "note": "Completes the 5-man Incandescence roster for high speed dungeon clearing.",
+    "date": "2026-09-28",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=Nb_6NSFmeT8"
+   },
+   {
+    "verdict": "Essential energy and attack buffer",
+    "note": "Provides rapid ultimate energy generation and attack buffs to maintain a strict 15-second team skill cycle.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=SYO1Py5XlBQ"
+   },
+   {
+    "verdict": "Essential Fire Support",
+    "note": "Triggers the 3-element team bonus, shares team Accuracy with Reverie of Carcass, and delays boss ultimates using Punisher's Whip.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=YTnxsHN9mR0"
+   },
+   {
+    "verdict": "Essential F2P dispeller for Burn",
+    "note": "Strips boss buffs and reduces boss ultimate energy by 25% when timed correctly.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=fwiptMwyFNo"
+   },
+   {
+    "verdict": "Great alternative support to Alarick I2 in Corrosion teams",
+    "note": "Acts as a accessible support in Corrosion comps for high-damage Continental Challenge runs when built with high HP, Skill Haste, and Accuracy.",
+    "date": "2026-09-28",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=lsdLS8qXc5g"
+   },
+   {
+    "verdict": "Strong off-element hybrid pick",
+    "note": "Casts ultimates rapidly without manual timing, dispels boss buffs, drains ultimate energy, and enables the three-element 50% damage boost.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=nAbgmMFtx_0"
+   }
+  ],
+  "Rena": [
+   {
+    "verdict": "S tier Aura support",
+    "note": "Functions exceptionally well even at Inspiration 0 to enable 15-second rotation bursts.",
+    "date": "2026-11-11",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=iwGDcflY87g"
+   },
+   {
+    "verdict": "Recommended 5th slot support",
+    "note": "Fills the single dedicated support slot in the standard Aura composition.",
+    "date": "2026-11-10",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/shorts/oJ4LjJRJ5Ag"
+   },
+   {
+    "verdict": "Best Aura rotation buffer",
+    "note": "Built with the Puppeteer set and high skill haste to accelerate team ultimate skill cycles.",
+    "date": "2026-11-06",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=M1l8V-XyEvs"
+   },
+   {
+    "verdict": "Strong secondary tank and Radiant support",
+    "note": "Provides extra survivability and energy efficiency next to Ardreth in high-damage dungeons like Grave of Venom.",
+    "date": "2026-11-05",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=5hS240x9cFc"
+   },
+   {
+    "verdict": "Frontline Radiance tank for Grave of Venom",
+    "note": "Positioned in the front spot to absorb heavy single-target hits from Deadly Harpy.",
+    "date": "2026-10-27",
+    "channel": "Suzi Plays",
+    "url": "https://www.youtube.com/watch?v=ikpjPqQhRow"
+   },
+   {
+    "verdict": "Best Aura support option",
+    "note": "Provides team-wide haste enabling a 15-second skill rotation that outdamages Celestine and Sagomir variants.",
+    "date": "2026-10-26",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=1yIYhy_Ce_w"
+   },
+   {
+    "verdict": "Essential Aura cycle enabler",
+    "note": "Allows Radiance and Aura teams to sustain an 18-second skill cycle without needing multiple Puppeteer gear sets.",
+    "date": "2026-10-25",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=MzK7B1nM5ys"
+   },
+   {
+    "verdict": "Best-in-slot support for 15s rotation",
+    "note": "Provides critical buffs and enables a tight 15-second skill rotation built with Defense and Haste.",
+    "date": "2026-10-14",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=WEpc_QIKnRM"
+   },
+   {
+    "verdict": "Best-in-slot support for top damage",
+    "note": "Enables the highest-damaging Aura setup (2.6B) with a 15-second rotation.",
+    "date": "2026-10-14",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=yzljKIdSKP8"
+   },
+   {
+    "verdict": "Premium support hero",
+    "note": "Provides strong defense and skill haste with Secrecy set and Inspiration 2 in high-end compositions.",
+    "date": "2026-09-28",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=9mAObaYbcPA"
+   },
+   {
+    "verdict": "Key hero for Joyce boss formations",
+    "note": "Enables high damage potential when built into Aura team setups for the Joyce fight.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=KypMuG9CP_I"
+   },
+   {
+    "verdict": "High damage ceiling support",
+    "note": "Offers huge buffing utility, but lacks a Defense Aura which leaves squishy damage dealers vulnerable to random boss targets.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=LowEegAwwJI"
+   },
+   {
+    "verdict": "Phaessa substitute",
+    "note": "Can replace Phaessa as the primary team healer/support if unavailable.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=SYO1Py5XlBQ"
+   },
+   {
+    "verdict": "Alternative Aura support",
+    "note": "Used as the benchmark against Joyce, dealing ~2.36B at I5 and ~609M at I0, but matched or surpassed by Child of Chaos when properly equipped.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=XPwLhWG92qs"
+   },
+   {
+    "verdict": "Best Radiance Tank and Healer",
+    "note": "Provides vital team shielding and healing; reaching Inspiration 3 grants a 15% Max HP buff to allies that drastically boosts team survival.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=YTnxsHN9mR0"
+   },
+   {
+    "verdict": "Best-in-slot Aura support",
+    "note": "Provides high healing, damage reduction, and ultimate energy cycling for maximum score.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=fwiptMwyFNo"
+   },
+   {
+    "verdict": "Preferred Aura team enabler",
+    "note": "Outperforms Solmo in Aura setups when wearing the Puppeteer gear set.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=h9SJ-KM7MWc"
+   },
+   {
+    "verdict": "Essential exclusive defensive support",
+    "note": "Provides crucial shields, healing, and battle skill unkillable buffs that are mandatory to survive Talethia's burst phases.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=nAbgmMFtx_0"
+   }
+  ],
+  "Arlow": [
+   {
+    "verdict": "Core Frost support",
+    "note": "Reflects boss debuffs and requires high Skill Haste (around 58+) to maintain team rotations.",
+    "date": "2026-11-11",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=iwGDcflY87g"
+   }
+  ],
+  "Sacredeia": [
+   {
+    "verdict": "Versatile tank and debuffer",
+    "note": "Can be built with high DPS stats in Corrosion teams or as a massive 90k+ HP primary tank in single-target fights.",
+    "date": "2026-11-11",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=iwGDcflY87g"
+   },
+   {
+    "verdict": "Essential Toxin Debuffer",
+    "note": "Provides a crucial 30% Poison Vulnerability debuff with Mystic Conch, significantly raising team damage.",
+    "date": "2026-11-09",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=pgksOlyG-E8"
+   },
+   {
+    "verdict": "Solid Poison debuffer",
+    "note": "Inflicts Corrosion and Poison damage to amplify overall team output.",
+    "date": "2026-11-01",
+    "channel": "Skyasterix Gaming",
+    "url": "https://www.youtube.com/watch?v=S_vEulOev_0"
+   },
+   {
+    "verdict": "Core debuffer for Toxin",
+    "note": "Uses Misty Conch, Prophecy Bind for damage-taken amplification, and Bone Resonance to share high Accuracy across the team.",
+    "date": "2026-11-01",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=O28V9w5PJdA"
+   },
+   {
+    "verdict": "Corrosion Poison DPS",
+    "note": "Applies Corrosion debuffs, but does not trigger Azure Prophecy's non-damage debuff condition.",
+    "date": "2026-10-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=AdMJvbFJWS0"
+   },
+   {
+    "verdict": "Key Corrosion enabler and sub-DPS",
+    "note": "Contributed 114.8M damage while maintaining consistent Corrosion debuffs using an 11.6s first cast and 17.5s recast.",
+    "date": "2026-10-28",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=2clr7Ee4JAs"
+   },
+   {
+    "verdict": "Crucial debuffer and damage dealer",
+    "note": "Build for full damage while ensuring enough Accuracy to consistently land her debuffs.",
+    "date": "2026-10-28",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=95O1rcCjYgw"
+   },
+   {
+    "verdict": "Top pick for Vortex",
+    "note": "Used effectively in high-ranking Vortex teams wearing utility debuff mythic gear.",
+    "date": "2026-10-28",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=Non35MLHvpY"
+   },
+   {
+    "verdict": "Essential Poison debuffer",
+    "note": "Carries Misty Conch artifact to apply Defense Penalty and benefits from defensive stats and Resistance.",
+    "date": "2026-10-25",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=NY1zsbF-vRM"
+   },
+   {
+    "verdict": "top flex pick for Toxin",
+    "note": "Even though she belongs to Corrosion, she inflicts Poison Vulnerability to massively amplify Toxin team damage.",
+    "date": "2026-10-24",
+    "channel": "Suzi Plays",
+    "url": "https://www.youtube.com/watch?v=scDahdyomBc"
+   },
+   {
+    "verdict": "Puppeteer holder for Toxin",
+    "note": "Utilized as the carrier for the 3-piece Puppeteer set to enable an 18-second team rotation.",
+    "date": "2026-10-20",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=VMqR9QYdHaI"
+   },
+   {
+    "verdict": "Strong Corrosion debuffer and sub-DPS",
+    "note": "Provides Poison Vulnerability and Corrosion application, synergizing well with the Misty Conch artifact.",
+    "date": "2026-10-18",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=fT3qqfBNas4"
+   },
+   {
+    "verdict": "Core support for Toxin and Corrosion",
+    "note": "Provides significant overall damage amplification for both Toxin and Corrosion teams.",
+    "date": "2026-10-16",
+    "channel": "Suzi Plays",
+    "url": "https://www.youtube.com/watch?v=lXIGOO_jApM"
+   },
+   {
+    "verdict": "Essential Corrosion Core",
+    "note": "Needs Accuracy to land debuffs alongside high Crit Rate and Crit Damage for personal damage output.",
+    "date": "2026-10-14",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=3KZIsOF6xYY"
+   },
+   {
+    "verdict": "Essential Poison support",
+    "note": "Shares attack and strips boss defense using the Conch artifact.",
+    "date": "2026-10-14",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=e05LIFMVHBA"
+   },
+   {
+    "verdict": "High-end support replacement for Twitch",
+    "note": "Enables the highest-performing Lothair setups to push damage beyond 4B.",
+    "date": "2026-10-14",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=jQe6NkOHUL4"
+   },
+   {
+    "verdict": "Top tier elemental buffer",
+    "note": "Applies Corrosion and Defense Penalty while wearing the Three-Ears Emblem set to elevate team elemental damage.",
+    "date": "2026-10-14",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=q-5Iqzt_0VI"
+   },
+   {
+    "verdict": "Top Accuracy buffer & debuffer",
+    "note": "Should hold the highest Accuracy on the team with Bone Resonance gear to share Accuracy across all allies, ensuring debuffs land.",
+    "date": "2026-10-14",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=qUrDNsAZh-A"
+   },
+   {
+    "verdict": "Toxin Accuracy Provider",
+    "note": "Essential in Toxin compositions to share Accuracy and maintain Corrosion debuffs.",
+    "date": "2026-10-14",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=svroY6v2YuU"
+   },
+   {
+    "verdict": "Core Corrosion DPS",
+    "note": "Provides Poison Vulnerability and high damage; needs high Accuracy along with Crit Rate and Crit Damage.",
+    "date": "2026-10-14",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=zwqb59YlmvY"
+   },
+   {
+    "verdict": "Crucial Toxin damage amplifier",
+    "note": "Brought primarily for her 30% poison damage vulnerability and Witch's Remains debuff; can be built defensively if survival is an issue.",
+    "date": "2026-10-07",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=VEwv_TEaZkc"
+   },
+   {
+    "verdict": "Essential buffer/debuffer in Toxin team",
+    "note": "Built with high attack and Misty Conch artifact to inflict Defense Penalty II.",
+    "date": "2026-10-07",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=gAoX3-kT1mo"
+   },
+   {
+    "verdict": "Primary DPS for Crisis Rally Area Boss 4",
+    "note": "Dealt over 2 billion damage (41.3% of team total) against Queen of Blasphemy.",
+    "date": "2026-10-07",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=rwe-Dd4l8ps"
+   },
+   {
+    "verdict": "Great replacement for Lothair",
+    "note": "Provides corrosion debuffs and enhances Serpentemis's damage output when Lothair is unavailable.",
+    "date": "2026-09-30",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=ydl2Hi0lAy8"
+   },
+   {
+    "verdict": "Support unit",
+    "note": "Equipped with the Puppeteer artifact/set for team support.",
+    "date": "2026-09-28",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=GijTOGTEjHI"
+   },
+   {
+    "verdict": "Top tier support for Toxin and Corrosion teams",
+    "note": "Inflicts Poison Vulnerability and provides team-wide offense and defense via Angelic Alliance artifact and Puppeteer set.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=HqVIrNsj0jg"
+   },
+   {
+    "verdict": "Replaced in premier Corrosion teams",
+    "note": "Replaced by Lariel in top Corrosion lineups, though she also gains a strong new exclusive artifact.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=LoshJITl5VE"
+   },
+   {
+    "verdict": "Witch's Remains user for Corrosion teams",
+    "note": "Applies defense penalties to multiple targets with her ultimate.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=Ncih4LERkxM"
+   },
+   {
+    "verdict": "Key debuffer and damage dealer",
+    "note": "Her Marrow Drain talent inflicts a 30 Resistance penalty, allowing her to reliably apply Poison Vulnerability with only 160-170 Accuracy.",
+    "date": "2026-09-28",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=SeE4BCCmxz4"
+   },
+   {
+    "verdict": "Poison Enabler",
+    "note": "Applies poison vulnerability and debuffs to boost overall team poison DPS.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=dZkp2hy0fhc"
+   },
+   {
+    "verdict": "Corrosion DPS",
+    "note": "Built with Golden Alarm artifact and near 100% Crit Rate for strong AoE damage output.",
+    "date": "2026-09-28",
+    "channel": "OddOneGaming RPGs",
+    "url": "https://www.youtube.com/watch?v=em_1Gc-pIuY"
+   },
+   {
+    "verdict": "Essential Toxin debuffer",
+    "note": "Requires the highest accuracy in the Toxin team to reliably land debuffs.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=h9SJ-KM7MWc"
+   },
+   {
+    "verdict": "Top offensive Poison/Corrosion support",
+    "note": "Applies Poison Vulnerability and uses the Puppeteer set with full Attack to share Attack with Szecedith.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=lfdXqHtcK88"
+   },
+   {
+    "verdict": "Key buffer with Puppeteer set",
+    "note": "Provides Attack and Defense boosts using Puppeteer set and Golden Antlers artifact.",
+    "date": "2026-09-28",
+    "channel": "Neff Gaming",
+    "url": "https://www.youtube.com/watch?v=lsdLS8qXc5g"
+   },
+   {
+    "verdict": "Top Poison Vulnerability Buffer",
+    "note": "Applies 30% Poison Vulnerability and team elemental damage buffs, but requires sufficient Accuracy to land debuffs.",
+    "date": "2026-09-28",
+    "channel": "Gorax",
+    "url": "https://www.youtube.com/watch?v=pVJgz7nuDhw"
+   },
+   {
+    "verdict": "strong Toxin enabler",
+    "note": "Shares Accuracy with the team so other poison damage dealers do not have to over-invest in Accuracy gear.",
+    "date": "2026-09-28",
+    "channel": "Skratch Gaming",
+    "url": "https://www.youtube.com/watch?v=r9NRq3hlJvY"
+   },
+   {
+    "verdict": "Corrosion attack and accuracy buffer",
+    "note": "Built with full Attack and accuracy using the Witches set.",
+    "date": "2026-09-28",
+    "channel": "liveranov",
+    "url": "https://www.youtube.com/watch?v=z01GX69DqrM"
    }
   ],
   "Anneliesis": [
@@ -37021,288 +38385,6 @@
     "date": "2026-09-28",
     "channel": "OddOneGaming RPGs",
     "url": "https://www.youtube.com/watch?v=yq_L4gc55vU"
-   }
-  ],
-  "Holfast": [
-   {
-    "verdict": "Aura support",
-    "note": "Acts as an aura support hero and can be substituted by other aura supports.",
-    "date": "2026-11-10",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/shorts/Md_N5BqS1qU"
-   },
-   {
-    "verdict": "Strong Aura damage dealer",
-    "note": "Channels Aura energy to allies and provides offensive support; can be substituted with Lincos if unavailable.",
-    "date": "2026-11-10",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=A3KEQqeUo6U"
-   },
-   {
-    "verdict": "Top pick Aura enabler",
-    "note": "Replaces Lincos in Aura lineups, providing passive Aura energy gain and teamwide damage buffs even at Inspiration 0.",
-    "date": "2026-11-10",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=fNvpxhA9GMY"
-   },
-   {
-    "verdict": "Core Aura battery",
-    "note": "Provides vital Aura energy generation to power the rest of the team.",
-    "date": "2026-11-10",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/shorts/oJ4LjJRJ5Ag"
-   },
-   {
-    "verdict": "Buff overlap with Anneliesis",
-    "note": "Shares a similar non-stacking buff with Anneliesis's max inspiration effects, making I5 Anneliesis redundant when paired with him.",
-    "date": "2026-11-09",
-    "channel": "Suzi Plays",
-    "url": "https://www.youtube.com/watch?v=UtZmF-8dKVw"
-   },
-   {
-    "verdict": "Must-have upgrade over Lincos",
-    "note": "Provides consistent 30% Damage Up via his passive/talent, channels Aura energy, and provides substantial personal damage along with random offensive buffs.",
-    "date": "2026-11-09",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=FYVKxkmeNag"
-   },
-   {
-    "verdict": "High-Scaling Radiant DPS",
-    "note": "Scales massively with higher inspirations; built purely for offensive Radiant damage.",
-    "date": "2026-11-09",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=pgksOlyG-E8"
-   },
-   {
-    "verdict": "High-value Aura support and DPS even at Inspiration 0",
-    "note": "Dealt 12.4% (449 million) of the team's damage using Orb of the Dragon God while boosting team energy.",
-    "date": "2026-11-08",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/watch?v=vC9dRFEYD4A"
-   },
-   {
-    "verdict": "Strong Aura support sub-DPS",
-    "note": "Dealt 1.48 billion damage (12.7% of Aura team output) at Inspiration 0 while boosting Aura allies with energy, damage buffs, and random stats.",
-    "date": "2026-11-08",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/watch?v=UaQD1-RL_OU"
-   },
-   {
-    "verdict": "Top Aura DPS",
-    "note": "Provides over 1 billion additional damage when slotted into Aura team compositions.",
-    "date": "2026-11-08",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=4zWG2dQRL28"
-   },
-   {
-    "verdict": "Secondary choice",
-    "note": "Worth obtaining once Talethia's key Inspirations are established.",
-    "date": "2026-11-08",
-    "channel": "Suzi Plays",
-    "url": "https://www.youtube.com/watch?v=hHuBny9bgpw"
-   },
-   {
-    "verdict": "Top pick for Vortex teams",
-    "note": "Radiant element damage dealer that channels Aura Energy to allies and grants random buffs; Inspiration 1 increases damage dealt to shielded enemies by 20%.",
-    "date": "2026-11-08",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=vonwUUqCne4"
-   },
-   {
-    "verdict": "Fantastic pick for Aura teams",
-    "note": "Great hero to grab prior to going for Anneliesis if you can guarantee 300 summons on the Anneliesis banner within 14 days.",
-    "date": "2026-11-08",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/shorts/cmiJeXMr108"
-   },
-   {
-    "verdict": "Strong Aura buffer",
-    "note": "Provides massive near-permanent Damage Up buffs to Aura allies and inflicts up to 20% Radiant Vulnerability.",
-    "date": "2026-11-08",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=RjpnhQCQO30"
-   },
-   {
-    "verdict": "High priority replacement for Lincos",
-    "note": "Outstanding Aura support hero that grants Crit Rate, Crit Damage, Attack Up, Aura Energy, and 30% Damage Up to Aura allies.",
-    "date": "2026-11-08",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=CFXDo-Psx7g"
-   },
-   {
-    "verdict": "Top recommendation from Selected Summons II",
-    "note": "Recommended pick from the 300-summon selector if you lack him or Aemonleyda's artifact.",
-    "date": "2026-11-08",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/watch?v=Gd2mJ34vOvI"
-   },
-   {
-    "verdict": "Top-tier support for Aura teams; aim for Inspiration 2",
-    "note": "Significantly amplifies Talethia's damage output and helps Aura teams dominate Continental Challenge.",
-    "date": "2026-11-08",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=YFI7cbkrmv8"
-   },
-   {
-    "verdict": "Top-tier Aura replacement for Lincos",
-    "note": "Replaces Lincos in Aura compositions even at Inspiration 0 compared to an Inspiration 5 Lincos.",
-    "date": "2026-11-08",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=WI8NEyeWbO0"
-   },
-   {
-    "verdict": "Must-pull for Aura teams, skip otherwise",
-    "note": "Acts as an Aura Energy engine and damage buffer whose entire kit relies on and boosts allied Aura heroes.",
-    "date": "2026-11-07",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/watch?v=wVYgz2Rvkro"
-   },
-   {
-    "verdict": "Top tier Aura DPS",
-    "note": "Reaches 2.7B to 3.6B damage when built with full mythic crit rate and crit damage gear.",
-    "date": "2026-11-06",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=M1l8V-XyEvs"
-   },
-   {
-    "verdict": "Top support for Aura teams",
-    "note": "Provides massive buffs including 30% Damage Up, Crit Rate, Crit Damage, and Attack to Aura allies via his passive and battle skill.",
-    "date": "2026-10-28",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=Non35MLHvpY"
-   },
-   {
-    "verdict": "Top pick for Aura teams",
-    "note": "New Aura damage dealer featured in Selected Summons 1 who replaces Lincos in Aura team lineups.",
-    "date": "2026-10-27",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=yhryGv6s8nU"
-   },
-   {
-    "verdict": "Top priority Aura support (power creeps Lincos)",
-    "note": "Provides Aura energy and a 30% damage boost via his passive, outperforming an Inspiration 5 Lincos even at base copy.",
-    "date": "2026-10-27",
-    "channel": "Volkin Dragonheir",
-    "url": "https://www.youtube.com/watch?v=vWWBqHvwtro"
-   },
-   {
-    "verdict": "Radiance Aura damage dealer",
-    "note": "Channels Aura Energy to allies and grants team buffs.",
-    "date": "2026-10-26",
-    "channel": "Fastidious Dragonheir",
-    "url": "https://www.youtube.com/watch?v=VZJeo9_euaw"
-   },
-   {
-    "verdict": "Strong DPS in Aura team",
-    "note": "Built for near 100% Crit Rate and high Crit Damage.",
-    "date": "2026-10-26",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=ArAmzrTA6nQ"
-   },
-   {
-    "verdict": "Must-pull Aura support",
-    "note": "Directly replaces Lincos even at Inspiration 0 and can deal substantial supplementary damage.",
-    "date": "2026-10-26",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=1yIYhy_Ce_w"
-   },
-   {
-    "verdict": "Radiance buffer and DPS",
-    "note": "Radiance damage dealer who channels Aura Energy to grant buffs to team members.",
-    "date": "2026-10-24",
-    "channel": "Volkin Dragonheir",
-    "url": "https://www.youtube.com/watch?v=riHiHpJVtjY"
-   },
-   {
-    "verdict": "Strong S9 Aura teammate",
-    "note": "A new S9 Radiance Aura hero who channels Aura energy to his school.",
-    "date": "2026-10-23",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/watch?v=EZe7SqG0EUE"
-   },
-   {
-    "verdict": "Aura banner exclusive",
-    "note": "The guaranteed exclusive Aura school hero at the 300-summon pity threshold.",
-    "date": "2026-10-22",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=OBfK1Ao1WqU"
-   },
-   {
-    "verdict": "Radiance Aura engine and damage buffer",
-    "note": "Channels Aura energy and damage buffs to same-school allies and triggers extra attacks for Aura heroes following his ultimate.",
-    "date": "2026-10-22",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/watch?v=XhGCS6xvTRc"
-   },
-   {
-    "verdict": "New S9 Hero",
-    "note": "Featured in the S9 teaser trailer as the Harping Scholar.",
-    "date": "2026-10-21",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=wTuHdSbBISg"
-   },
-   {
-    "verdict": "Upcoming Aura hero",
-    "note": "New season hero expected to give a massive boost to Aura teams.",
-    "date": "2026-10-20",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=5E5nhm0Y6zE"
-   },
-   {
-    "verdict": "Must-have exclusive Radiance Aura enabler",
-    "note": "Generates Aura energy and grants 30% Damage Up and crit buffs to allied Aura heroes, making him a high priority targeting Inspiration 5.",
-    "date": "2026-10-19",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=H5-A51mtGFU"
-   },
-   {
-    "verdict": "Top priority Aura hero",
-    "note": "Replaces Lincos in Aura teams because his damage buffs pair better alongside Diantha and do not stack redundantly.",
-    "date": "2026-10-18",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=j4_0OuYJeHU"
-   },
-   {
-    "verdict": "Must-have Aura booster",
-    "note": "Provides a 30% damage boost via his passive and gains stacking Radiance Vulnerability at Inspiration 5, giving huge damage amplification to Aura compositions.",
-    "date": "2026-10-18",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=yTI3C6ck-Rk"
-   },
-   {
-    "verdict": "Must-pull Aura enabler and DPS",
-    "note": "Replaces Lincos completely, providing huge energy channeling, a 20s 30% Damage Up buff via talent, and outdamaging I5 Lincos even at I0.",
-    "date": "2026-10-17",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=sQYC7VdWNeE"
-   },
-   {
-    "verdict": "Top-tier Aura engine replacing Lyncos",
-    "note": "Channels Aura energy to same-school heroes, grants damage output buffs, and assists Aura heroes in triggering extra attacks.",
-    "date": "2026-10-15",
-    "channel": "Suzi Plays",
-    "url": "https://www.youtube.com/watch?v=gTzILPNg-ek"
-   },
-   {
-    "verdict": "Must-have Aura Exclusive Activator",
-    "note": "Channels Aura energy to allies, grants damage buffs, triggers assist attacks, and restores Aura energy following his power skill.",
-    "date": "2026-09-28",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=jgyWHcBycug"
-   },
-   {
-    "verdict": "Aura DPS and Buffer",
-    "note": "Channels Aura energy to buff allies, assists Aura heroes with additional attacks, and self-recovers Aura energy.",
-    "date": "2026-09-28",
-    "channel": "Skyasterix Gaming",
-    "url": "https://www.youtube.com/watch?v=rDHctaOAVEA"
-   },
-   {
-    "verdict": "Potential Aura exclusive DPS and Lincos upgrade",
-    "note": "Channels Aura energy to allies, grants damage buffs, triggers assist attacks, and restores self Aura energy.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=v7j7nvLg6Qg"
    }
   ],
   "Child of Chaos": [
@@ -39050,127 +40132,6 @@
     "url": "https://www.youtube.com/watch?v=fNvpxhA9GMY"
    }
   ],
-  "Rena": [
-   {
-    "verdict": "Recommended 5th slot support",
-    "note": "Fills the single dedicated support slot in the standard Aura composition.",
-    "date": "2026-11-10",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/shorts/oJ4LjJRJ5Ag"
-   },
-   {
-    "verdict": "Best Aura rotation buffer",
-    "note": "Built with the Puppeteer set and high skill haste to accelerate team ultimate skill cycles.",
-    "date": "2026-11-06",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=M1l8V-XyEvs"
-   },
-   {
-    "verdict": "Strong secondary tank and Radiant support",
-    "note": "Provides extra survivability and energy efficiency next to Ardreth in high-damage dungeons like Grave of Venom.",
-    "date": "2026-11-05",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=5hS240x9cFc"
-   },
-   {
-    "verdict": "Frontline Radiance tank for Grave of Venom",
-    "note": "Positioned in the front spot to absorb heavy single-target hits from Deadly Harpy.",
-    "date": "2026-10-27",
-    "channel": "Suzi Plays",
-    "url": "https://www.youtube.com/watch?v=ikpjPqQhRow"
-   },
-   {
-    "verdict": "Best Aura support option",
-    "note": "Provides team-wide haste enabling a 15-second skill rotation that outdamages Celestine and Sagomir variants.",
-    "date": "2026-10-26",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=1yIYhy_Ce_w"
-   },
-   {
-    "verdict": "Essential Aura cycle enabler",
-    "note": "Allows Radiance and Aura teams to sustain an 18-second skill cycle without needing multiple Puppeteer gear sets.",
-    "date": "2026-10-25",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=MzK7B1nM5ys"
-   },
-   {
-    "verdict": "Best-in-slot support for 15s rotation",
-    "note": "Provides critical buffs and enables a tight 15-second skill rotation built with Defense and Haste.",
-    "date": "2026-10-14",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=WEpc_QIKnRM"
-   },
-   {
-    "verdict": "Best-in-slot support for top damage",
-    "note": "Enables the highest-damaging Aura setup (2.6B) with a 15-second rotation.",
-    "date": "2026-10-14",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=yzljKIdSKP8"
-   },
-   {
-    "verdict": "Premium support hero",
-    "note": "Provides strong defense and skill haste with Secrecy set and Inspiration 2 in high-end compositions.",
-    "date": "2026-09-28",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=9mAObaYbcPA"
-   },
-   {
-    "verdict": "Key hero for Joyce boss formations",
-    "note": "Enables high damage potential when built into Aura team setups for the Joyce fight.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=KypMuG9CP_I"
-   },
-   {
-    "verdict": "High damage ceiling support",
-    "note": "Offers huge buffing utility, but lacks a Defense Aura which leaves squishy damage dealers vulnerable to random boss targets.",
-    "date": "2026-09-28",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=LowEegAwwJI"
-   },
-   {
-    "verdict": "Phaessa substitute",
-    "note": "Can replace Phaessa as the primary team healer/support if unavailable.",
-    "date": "2026-09-28",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=SYO1Py5XlBQ"
-   },
-   {
-    "verdict": "Alternative Aura support",
-    "note": "Used as the benchmark against Joyce, dealing ~2.36B at I5 and ~609M at I0, but matched or surpassed by Child of Chaos when properly equipped.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=XPwLhWG92qs"
-   },
-   {
-    "verdict": "Best Radiance Tank and Healer",
-    "note": "Provides vital team shielding and healing; reaching Inspiration 3 grants a 15% Max HP buff to allies that drastically boosts team survival.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=YTnxsHN9mR0"
-   },
-   {
-    "verdict": "Best-in-slot Aura support",
-    "note": "Provides high healing, damage reduction, and ultimate energy cycling for maximum score.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=fwiptMwyFNo"
-   },
-   {
-    "verdict": "Preferred Aura team enabler",
-    "note": "Outperforms Solmo in Aura setups when wearing the Puppeteer gear set.",
-    "date": "2026-09-28",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=h9SJ-KM7MWc"
-   },
-   {
-    "verdict": "Essential exclusive defensive support",
-    "note": "Provides crucial shields, healing, and battle skill unkillable buffs that are mandatory to survive Talethia's burst phases.",
-    "date": "2026-09-28",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=nAbgmMFtx_0"
-   }
-  ],
   "Aemonleyda": [
    {
     "verdict": "Alternate main DPS",
@@ -40740,260 +41701,6 @@
     "date": "2026-09-28",
     "channel": "Skratch Gaming",
     "url": "https://www.youtube.com/watch?v=r9NRq3hlJvY"
-   }
-  ],
-  "Sacredeia": [
-   {
-    "verdict": "Essential Toxin Debuffer",
-    "note": "Provides a crucial 30% Poison Vulnerability debuff with Mystic Conch, significantly raising team damage.",
-    "date": "2026-11-09",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=pgksOlyG-E8"
-   },
-   {
-    "verdict": "Solid Poison debuffer",
-    "note": "Inflicts Corrosion and Poison damage to amplify overall team output.",
-    "date": "2026-11-01",
-    "channel": "Skyasterix Gaming",
-    "url": "https://www.youtube.com/watch?v=S_vEulOev_0"
-   },
-   {
-    "verdict": "Core debuffer for Toxin",
-    "note": "Uses Misty Conch, Prophecy Bind for damage-taken amplification, and Bone Resonance to share high Accuracy across the team.",
-    "date": "2026-11-01",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=O28V9w5PJdA"
-   },
-   {
-    "verdict": "Corrosion Poison DPS",
-    "note": "Applies Corrosion debuffs, but does not trigger Azure Prophecy's non-damage debuff condition.",
-    "date": "2026-10-28",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=AdMJvbFJWS0"
-   },
-   {
-    "verdict": "Key Corrosion enabler and sub-DPS",
-    "note": "Contributed 114.8M damage while maintaining consistent Corrosion debuffs using an 11.6s first cast and 17.5s recast.",
-    "date": "2026-10-28",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/watch?v=2clr7Ee4JAs"
-   },
-   {
-    "verdict": "Crucial debuffer and damage dealer",
-    "note": "Build for full damage while ensuring enough Accuracy to consistently land her debuffs.",
-    "date": "2026-10-28",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=95O1rcCjYgw"
-   },
-   {
-    "verdict": "Top pick for Vortex",
-    "note": "Used effectively in high-ranking Vortex teams wearing utility debuff mythic gear.",
-    "date": "2026-10-28",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=Non35MLHvpY"
-   },
-   {
-    "verdict": "Essential Poison debuffer",
-    "note": "Carries Misty Conch artifact to apply Defense Penalty and benefits from defensive stats and Resistance.",
-    "date": "2026-10-25",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=NY1zsbF-vRM"
-   },
-   {
-    "verdict": "top flex pick for Toxin",
-    "note": "Even though she belongs to Corrosion, she inflicts Poison Vulnerability to massively amplify Toxin team damage.",
-    "date": "2026-10-24",
-    "channel": "Suzi Plays",
-    "url": "https://www.youtube.com/watch?v=scDahdyomBc"
-   },
-   {
-    "verdict": "Puppeteer holder for Toxin",
-    "note": "Utilized as the carrier for the 3-piece Puppeteer set to enable an 18-second team rotation.",
-    "date": "2026-10-20",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=VMqR9QYdHaI"
-   },
-   {
-    "verdict": "Strong Corrosion debuffer and sub-DPS",
-    "note": "Provides Poison Vulnerability and Corrosion application, synergizing well with the Misty Conch artifact.",
-    "date": "2026-10-18",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=fT3qqfBNas4"
-   },
-   {
-    "verdict": "Core support for Toxin and Corrosion",
-    "note": "Provides significant overall damage amplification for both Toxin and Corrosion teams.",
-    "date": "2026-10-16",
-    "channel": "Suzi Plays",
-    "url": "https://www.youtube.com/watch?v=lXIGOO_jApM"
-   },
-   {
-    "verdict": "Essential Corrosion Core",
-    "note": "Needs Accuracy to land debuffs alongside high Crit Rate and Crit Damage for personal damage output.",
-    "date": "2026-10-14",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=3KZIsOF6xYY"
-   },
-   {
-    "verdict": "Essential Poison support",
-    "note": "Shares attack and strips boss defense using the Conch artifact.",
-    "date": "2026-10-14",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/watch?v=e05LIFMVHBA"
-   },
-   {
-    "verdict": "High-end support replacement for Twitch",
-    "note": "Enables the highest-performing Lothair setups to push damage beyond 4B.",
-    "date": "2026-10-14",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=jQe6NkOHUL4"
-   },
-   {
-    "verdict": "Top tier elemental buffer",
-    "note": "Applies Corrosion and Defense Penalty while wearing the Three-Ears Emblem set to elevate team elemental damage.",
-    "date": "2026-10-14",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=q-5Iqzt_0VI"
-   },
-   {
-    "verdict": "Top Accuracy buffer & debuffer",
-    "note": "Should hold the highest Accuracy on the team with Bone Resonance gear to share Accuracy across all allies, ensuring debuffs land.",
-    "date": "2026-10-14",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=qUrDNsAZh-A"
-   },
-   {
-    "verdict": "Toxin Accuracy Provider",
-    "note": "Essential in Toxin compositions to share Accuracy and maintain Corrosion debuffs.",
-    "date": "2026-10-14",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=svroY6v2YuU"
-   },
-   {
-    "verdict": "Core Corrosion DPS",
-    "note": "Provides Poison Vulnerability and high damage; needs high Accuracy along with Crit Rate and Crit Damage.",
-    "date": "2026-10-14",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=zwqb59YlmvY"
-   },
-   {
-    "verdict": "Crucial Toxin damage amplifier",
-    "note": "Brought primarily for her 30% poison damage vulnerability and Witch's Remains debuff; can be built defensively if survival is an issue.",
-    "date": "2026-10-07",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=VEwv_TEaZkc"
-   },
-   {
-    "verdict": "Essential buffer/debuffer in Toxin team",
-    "note": "Built with high attack and Misty Conch artifact to inflict Defense Penalty II.",
-    "date": "2026-10-07",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=gAoX3-kT1mo"
-   },
-   {
-    "verdict": "Primary DPS for Crisis Rally Area Boss 4",
-    "note": "Dealt over 2 billion damage (41.3% of team total) against Queen of Blasphemy.",
-    "date": "2026-10-07",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/watch?v=rwe-Dd4l8ps"
-   },
-   {
-    "verdict": "Great replacement for Lothair",
-    "note": "Provides corrosion debuffs and enhances Serpentemis's damage output when Lothair is unavailable.",
-    "date": "2026-09-30",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=ydl2Hi0lAy8"
-   },
-   {
-    "verdict": "Support unit",
-    "note": "Equipped with the Puppeteer artifact/set for team support.",
-    "date": "2026-09-28",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/watch?v=GijTOGTEjHI"
-   },
-   {
-    "verdict": "Top tier support for Toxin and Corrosion teams",
-    "note": "Inflicts Poison Vulnerability and provides team-wide offense and defense via Angelic Alliance artifact and Puppeteer set.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=HqVIrNsj0jg"
-   },
-   {
-    "verdict": "Replaced in premier Corrosion teams",
-    "note": "Replaced by Lariel in top Corrosion lineups, though she also gains a strong new exclusive artifact.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=LoshJITl5VE"
-   },
-   {
-    "verdict": "Witch's Remains user for Corrosion teams",
-    "note": "Applies defense penalties to multiple targets with her ultimate.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=Ncih4LERkxM"
-   },
-   {
-    "verdict": "Key debuffer and damage dealer",
-    "note": "Her Marrow Drain talent inflicts a 30 Resistance penalty, allowing her to reliably apply Poison Vulnerability with only 160-170 Accuracy.",
-    "date": "2026-09-28",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=SeE4BCCmxz4"
-   },
-   {
-    "verdict": "Poison Enabler",
-    "note": "Applies poison vulnerability and debuffs to boost overall team poison DPS.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=dZkp2hy0fhc"
-   },
-   {
-    "verdict": "Corrosion DPS",
-    "note": "Built with Golden Alarm artifact and near 100% Crit Rate for strong AoE damage output.",
-    "date": "2026-09-28",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=em_1Gc-pIuY"
-   },
-   {
-    "verdict": "Essential Toxin debuffer",
-    "note": "Requires the highest accuracy in the Toxin team to reliably land debuffs.",
-    "date": "2026-09-28",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=h9SJ-KM7MWc"
-   },
-   {
-    "verdict": "Top offensive Poison/Corrosion support",
-    "note": "Applies Poison Vulnerability and uses the Puppeteer set with full Attack to share Attack with Szecedith.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=lfdXqHtcK88"
-   },
-   {
-    "verdict": "Key buffer with Puppeteer set",
-    "note": "Provides Attack and Defense boosts using Puppeteer set and Golden Antlers artifact.",
-    "date": "2026-09-28",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=lsdLS8qXc5g"
-   },
-   {
-    "verdict": "Top Poison Vulnerability Buffer",
-    "note": "Applies 30% Poison Vulnerability and team elemental damage buffs, but requires sufficient Accuracy to land debuffs.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=pVJgz7nuDhw"
-   },
-   {
-    "verdict": "strong Toxin enabler",
-    "note": "Shares Accuracy with the team so other poison damage dealers do not have to over-invest in Accuracy gear.",
-    "date": "2026-09-28",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=r9NRq3hlJvY"
-   },
-   {
-    "verdict": "Corrosion attack and accuracy buffer",
-    "note": "Built with full Attack and accuracy using the Witches set.",
-    "date": "2026-09-28",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/watch?v=z01GX69DqrM"
    }
   ],
   "Durango": [
@@ -43420,134 +44127,6 @@
     "url": "https://www.youtube.com/watch?v=ve7g5u_8jXQ"
    }
   ],
-  "Journ": [
-   {
-    "verdict": "Solid support",
-    "note": "Benefits greatly from Inspiration 3, which grants extra Haste that synergizes with his kit.",
-    "date": "2026-11-08",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=WI8NEyeWbO0"
-   },
-   {
-    "verdict": "Essential dispel and energy enabler",
-    "note": "Dispels Increased Defense from Grave of Venom 20 with his ultimate while recharging ultimate energy for himself and allies via self-burns.",
-    "date": "2026-11-03",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/watch?v=jRdl34i5jqs"
-   },
-   {
-    "verdict": "Viable alternative support",
-    "note": "Can replace Anneliesis or Diantha to dispel boss buffs and provide team-wide energy through his backfire passive.",
-    "date": "2026-10-30",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=j2FsBiDB1ak"
-   },
-   {
-    "verdict": "Debuffer and energy controller",
-    "note": "Dispels enemy buffs, decreases boss Ultimate Energy, and sustains team damage.",
-    "date": "2026-10-28",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/watch?v=daxkk04dRVk"
-   },
-   {
-    "verdict": "Core Continental Challenge hero",
-    "note": "Increases ultimate energy for allies while controlling and dispelling enemy ultimate energy.",
-    "date": "2026-10-24",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=p2wAxn2IAFQ"
-   },
-   {
-    "verdict": "Great niche boss support",
-    "note": "Excels in specific boss encounters by boosting team turn speed.",
-    "date": "2026-10-24",
-    "channel": "Suzi Plays",
-    "url": "https://www.youtube.com/watch?v=xoS9KUTB3Is"
-   },
-   {
-    "verdict": "Essential buffer for Talethia",
-    "note": "Requires careful positioning to distribute ultimate energy to all four teammates.",
-    "date": "2026-09-30",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=DQlhUcZ_2zg"
-   },
-   {
-    "verdict": "Ultimate energy control enabler",
-    "note": "Reduces target ultimate energy on debuffs and applies Bleed using the Calcined Ruin set.",
-    "date": "2026-09-30",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=ONMMBlvyWpc"
-   },
-   {
-    "verdict": "Versatile control support",
-    "note": "Diminishes boss rotations using skill haste, accuracy, and support gear.",
-    "date": "2026-09-28",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=9mAObaYbcPA"
-   },
-   {
-    "verdict": "Attack and Haste sub-DPS",
-    "note": "Built with full Attack and some Skill Haste to contribute team damage.",
-    "date": "2026-09-28",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/watch?v=FvHXMc5137M"
-   },
-   {
-    "verdict": "Alternative support buffer",
-    "note": "Grants extra Skill Haste and Attack sharing to allies when Alarick is unavailable.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=HqVIrNsj0jg"
-   },
-   {
-    "verdict": "Essential dispelexpert for Boss Joyce",
-    "note": "Requires high Accuracy and an 18.2-second ultimate recast timer to reliably strip Joyce's Defense Up and Damage Up buffs.",
-    "date": "2026-09-28",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=IjQ9BlCQInY"
-   },
-   {
-    "verdict": "Key Incandescence support",
-    "note": "Completes the 5-man Incandescence roster for high speed dungeon clearing.",
-    "date": "2026-09-28",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/watch?v=Nb_6NSFmeT8"
-   },
-   {
-    "verdict": "Essential energy and attack buffer",
-    "note": "Provides rapid ultimate energy generation and attack buffs to maintain a strict 15-second team skill cycle.",
-    "date": "2026-09-28",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=SYO1Py5XlBQ"
-   },
-   {
-    "verdict": "Essential Fire Support",
-    "note": "Triggers the 3-element team bonus, shares team Accuracy with Reverie of Carcass, and delays boss ultimates using Punisher's Whip.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=YTnxsHN9mR0"
-   },
-   {
-    "verdict": "Essential F2P dispeller for Burn",
-    "note": "Strips boss buffs and reduces boss ultimate energy by 25% when timed correctly.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=fwiptMwyFNo"
-   },
-   {
-    "verdict": "Great alternative support to Alarick I2 in Corrosion teams",
-    "note": "Acts as a accessible support in Corrosion comps for high-damage Continental Challenge runs when built with high HP, Skill Haste, and Accuracy.",
-    "date": "2026-09-28",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=lsdLS8qXc5g"
-   },
-   {
-    "verdict": "Strong off-element hybrid pick",
-    "note": "Casts ultimates rapidly without manual timing, dispels boss buffs, drains ultimate energy, and enables the three-element 50% damage boost.",
-    "date": "2026-09-28",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=nAbgmMFtx_0"
-   }
-  ],
   "Voresh": [
    {
     "verdict": "Requires precise speed tuning",
@@ -44428,197 +45007,6 @@
     "date": "2026-10-15",
     "channel": "Suzi Plays",
     "url": "https://www.youtube.com/watch?v=gTzILPNg-ek"
-   }
-  ],
-  "Rook": [
-   {
-    "verdict": "Core Corrosion DPS",
-    "note": "Requires the Stream Sonata set, 100% crit rate, high crit damage, and skill haste.",
-    "date": "2026-11-06",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=M1l8V-XyEvs"
-   },
-   {
-    "verdict": "Corrosion DPS",
-    "note": "Requires Crit Damage gear pieces while prioritizing Crit Rate, Crit Damage, and Skill Haste.",
-    "date": "2026-11-04",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/shorts/Kyc5dGaAR7o"
-   },
-   {
-    "verdict": "High-tier Corrosion DPS",
-    "note": "Built primarily with high Critical Rate, Critical Damage, and supplementary Skill Haste from runes.",
-    "date": "2026-10-29",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=9WZfkPWafpo"
-   },
-   {
-    "verdict": "Top DPS carry for Corrosion teams against Mekkatorque",
-    "note": "Dealt 1.099 billion damage (78% of the total team damage) utilizing default skill timings to capitalize on enemy Corrosion stacks.",
-    "date": "2026-10-28",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/watch?v=2clr7Ee4JAs"
-   },
-   {
-    "verdict": "Core DPS / 1B+ damage carry",
-    "note": "Deals massive true damage through Corrosion consumption; build with 100% Crit Rate, max Crit Damage, high Resistance, and 1-piece Steam Sonata for bonus Skill Haste.",
-    "date": "2026-10-28",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=95O1rcCjYgw"
-   },
-   {
-    "verdict": "Endgame Corrosion carry (requires Inspiration 5)",
-    "note": "Serves as the main damage carry for Corrosion, but is very weak until maxed out at Inspiration 5.",
-    "date": "2026-10-27",
-    "channel": "Volkin Dragonheir",
-    "url": "https://www.youtube.com/watch?v=vWWBqHvwtro"
-   },
-   {
-    "verdict": "Primary DPS for Corrosion team",
-    "note": "Built with Attack Speed, 100% Crit Rate, and maximum Crit Damage using Crimson Sonata artifact.",
-    "date": "2026-10-26",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=ArAmzrTA6nQ"
-   },
-   {
-    "verdict": "Top Corrosion DPS",
-    "note": "Prioritizes 100% crit rate, max crit damage, and skill haste over raw attack stats.",
-    "date": "2026-10-26",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=1yIYhy_Ce_w"
-   },
-   {
-    "verdict": "Top-tier primary Corrosion carry",
-    "note": "Remains the highest damage dealer in Corrosion setups by consuming Corrosion stacks to deal massive True Damage.",
-    "date": "2026-10-18",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=fT3qqfBNas4"
-   },
-   {
-    "verdict": "Top Corrosion damage dealer",
-    "note": "Needs high Resistance gear to avoid having his ultimate energy drained by the boss.",
-    "date": "2026-10-18",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=hMbPhfixtdg"
-   },
-   {
-    "verdict": "Top Corrosion DPS pick",
-    "note": "The primary damage dealer for Corrosion teams and a great target to secure from guaranteed selector banners.",
-    "date": "2026-10-16",
-    "channel": "Suzi Plays",
-    "url": "https://www.youtube.com/watch?v=lXIGOO_jApM"
-   },
-   {
-    "verdict": "Top Corrosion DPS",
-    "note": "His True Damage does not scale with Attack, so build him strictly with Skill Haste, Crit Rate, Crit Damage, and defensive main stats.",
-    "date": "2026-10-14",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=3KZIsOF6xYY"
-   },
-   {
-    "verdict": "Top Corrosion carry",
-    "note": "Pairs with Szecedith in high-performing Corrosion teams hitting ~1.4B damage.",
-    "date": "2026-10-14",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/watch?v=e05LIFMVHBA"
-   },
-   {
-    "verdict": "Top Corrosion DPS",
-    "note": "Deals massive damage using high Crit Rate, Crit Damage, and Skill Haste while sharing Attack through support gear.",
-    "date": "2026-10-14",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=zwqb59YlmvY"
-   },
-   {
-    "verdict": "Craft Crit Damage Gloves",
-    "note": "Requires Crit Damage gloves to maximize damage output.",
-    "date": "2026-10-07",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=z3tO57-B6Gs"
-   },
-   {
-    "verdict": "Key enabler in Corrosion Vortex teams",
-    "note": "Deals massive damage against boss eggs, enabling Szecedith to amplify overall team output.",
-    "date": "2026-09-30",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=bzTAdskU1kA"
-   },
-   {
-    "verdict": "Former meta defining carry",
-    "note": "Referenced for shifting the Vortex meta upon release when Corrosion was introduced.",
-    "date": "2026-09-28",
-    "channel": "Skyasterix Gaming",
-    "url": "https://www.youtube.com/watch?v=DeeNnLK1QkI"
-   },
-   {
-    "verdict": "Primary DPS for Corrosion team",
-    "note": "Scales purely with 100% Crit Rate and Crit Damage while ignoring Attack stats.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=HqVIrNsj0jg"
-   },
-   {
-    "verdict": "Top Corrosion damage dealer",
-    "note": "Reaches extreme damage numbers when paired with Lariel's Tear defense reduction and Corrosion synergy.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=LoshJITl5VE"
-   },
-   {
-    "verdict": "Core damage dealer",
-    "note": "Carries the encounter with True Damage on his Ultimate; should run on full YOLO default timings with 100% Crit Rate, high Crit Damage, and Skill Haste.",
-    "date": "2026-09-28",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=SeE4BCCmxz4"
-   },
-   {
-    "verdict": "Corrosion DPS and energy generator",
-    "note": "Built with 100% Crit Rate and Puppeteer's Inspiration to supply extra ultimate energy to Corrosion allies.",
-    "date": "2026-09-28",
-    "channel": "OddOneGaming RPGs",
-    "url": "https://www.youtube.com/watch?v=em_1Gc-pIuY"
-   },
-   {
-    "verdict": "Late-Game Corrosion DPS",
-    "note": "Requires Inspiration 5, exclusive artifact, and endgame gear to be viable.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=hXBPeFQV_5Y"
-   },
-   {
-    "verdict": "Key Corrosion damage enabler",
-    "note": "Built with 100% Crit Rate, max Crit Damage, and Skill Haste while sharing Attack with Szecedith via Attack-sharing gloves.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=lfdXqHtcK88"
-   },
-   {
-    "verdict": "Essential Corrosion DPS built for Skill Haste",
-    "note": "Shifted away from full Crit Damage toward Skill Haste using Secrecy 2-piece set and haste stats to avoid timing issues.",
-    "date": "2026-09-28",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=lsdLS8qXc5g"
-   },
-   {
-    "verdict": "top target in Wish Banner",
-    "note": "High-value exclusive DPS hero featured in the Wish Banner.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=m_mPa3snJ_Y"
-   },
-   {
-    "verdict": "Top-tier Corrosion DPS",
-    "note": "Re-enters top meta status when paired with Lariel, contributing over 80% of team damage in high-tier boss battles.",
-    "date": "2026-09-28",
-    "channel": "Skyasterix Gaming",
-    "url": "https://www.youtube.com/watch?v=sG1x9N1qUCY"
-   },
-   {
-    "verdict": "Core Corrosion dps",
-    "note": "Built with 100% Crit Rate, max Crit Damage, and Skill Haste.",
-    "date": "2026-09-28",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/watch?v=z01GX69DqrM"
    }
   ],
   "Szecedith": [
@@ -46913,148 +47301,6 @@
     "date": "2026-09-28",
     "channel": "Suzi Plays",
     "url": "https://www.youtube.com/watch?v=qYeXj-9Kuho"
-   }
-  ],
-  "Beldelle": [
-   {
-    "verdict": "Top-tier Frost DPS",
-    "note": "One of the strongest characters in the game, utilizing Ice Crystal mechanics to deal heavy damage.",
-    "date": "2026-10-31",
-    "channel": "Fastidious Dragonheir",
-    "url": "https://www.youtube.com/watch?v=wM0sFqru6M4"
-   },
-   {
-    "verdict": "Core Ice Blast DPS",
-    "note": "Prioritize Crit Rate and stack Attack so the pet's Attack Up buff targets her.",
-    "date": "2026-10-28",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=F8lJPCbJwgs"
-   },
-   {
-    "verdict": "Core Ice Blast DPS",
-    "note": "Extremely strong with her exclusive artifact, making Ice Blast teams very cost-effective.",
-    "date": "2026-10-27",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=YKXKm7v-bJA"
-   },
-   {
-    "verdict": "Top Ice Blast DPS",
-    "note": "Requires full crit rate and pure attack with her exclusive artifact, completely skipping crit damage.",
-    "date": "2026-10-26",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=1yIYhy_Ce_w"
-   },
-   {
-    "verdict": "core Ice Blast DPS",
-    "note": "A primary damage dealer to run alongside Ernesto in Ice Blast lineups.",
-    "date": "2026-10-24",
-    "channel": "Suzi Plays",
-    "url": "https://www.youtube.com/watch?v=scDahdyomBc"
-   },
-   {
-    "verdict": "Primary Ice Blast DPS",
-    "note": "Stack as much Attack and Crit Rate as possible; Crit Damage can be skipped unless positive runes have exceptional offensive sub-stats.",
-    "date": "2026-10-14",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=Lg9-TodNV1k"
-   },
-   {
-    "verdict": "Primary Ice Blast DPS",
-    "note": "Must have the highest Attack in the team to receive the pet's 10% Attack buff; focus on Attack and Crit Rate.",
-    "date": "2026-10-14",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=pCYtUDqkYMc"
-   },
-   {
-    "verdict": "Top Ice Blast carry",
-    "note": "Demands the highest Attack stat on the squad to receive all priority buffs and Master Genie scaling.",
-    "date": "2026-10-14",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=vPergNPCG8I"
-   },
-   {
-    "verdict": "Top single-target DPS pick",
-    "note": "When equipped with her artifact, she serves as an extremely potent single-target anchor for Ice Blast teams.",
-    "date": "2026-10-07",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=B88cdyDr8dY"
-   },
-   {
-    "verdict": "Top 300-pity target for Ice Blast teams",
-    "note": "Serves as the core DPS unit to build a very free-to-play friendly Ice Blast team.",
-    "date": "2026-10-07",
-    "channel": "Volkin Dragonheir",
-    "url": "https://www.youtube.com/watch?v=Qz1B9JVRYjo"
-   },
-   {
-    "verdict": "Core Ice Blast DPS",
-    "note": "Focus purely on Crit Rate and Attack stats without needing Resistance.",
-    "date": "2026-10-07",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=xW7fJsl5GJM"
-   },
-   {
-    "verdict": "Craft Crit Rate Gloves",
-    "note": "Scales directly with Crit Rate, making Crit Rate primary gloves ideal.",
-    "date": "2026-10-07",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=z3tO57-B6Gs"
-   },
-   {
-    "verdict": "Primary Ice Blast DPS",
-    "note": "Built with high Crit Rate and Attack using exclusive artifact and top offensive mythic gear.",
-    "date": "2026-09-28",
-    "channel": "Neff Gaming",
-    "url": "https://www.youtube.com/watch?v=EYjaL1MHJtA"
-   },
-   {
-    "verdict": "Testing partner hero",
-    "note": "Used in testing to demonstrate element matching bonuses and Puppeteer gear set interactions.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=FkcnkbLbek8"
-   },
-   {
-    "verdict": "Main Ice Blast DPS",
-    "note": "Built with high Crit Rate and Attack to maximize Ice Blast damage output.",
-    "date": "2026-09-28",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=Vs9xdK98GU0"
-   },
-   {
-    "verdict": "Main DPS",
-    "note": "Build full damage.",
-    "date": "2026-09-28",
-    "channel": "liveranov",
-    "url": "https://www.youtube.com/watch?v=fViTylAqdXY"
-   },
-   {
-    "verdict": "Top Ice Blast DPS",
-    "note": "Delivers strong single-target damage right out of the gate and becomes top tier at Inspiration 5.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=hXBPeFQV_5Y"
-   },
-   {
-    "verdict": "Top Budget Choice",
-    "note": "Excellent single-target Iceblast DPS that performs solidly even at low inspiration without requiring other exclusives.",
-    "date": "2026-09-28",
-    "channel": "Volkin Dragonheir",
-    "url": "https://www.youtube.com/watch?v=jRRemeIzzrc"
-   },
-   {
-    "verdict": "Primary Ice Blast DPS",
-    "note": "Requires maximum Crit Rate and Attack while skipping Crit Damage to optimize Ice Blast triggers.",
-    "date": "2026-09-28",
-    "channel": "Gorax",
-    "url": "https://www.youtube.com/watch?v=jz6YEj19yYk"
-   },
-   {
-    "verdict": "Core Ice Blast DPS",
-    "note": "Outputs immense damage in Ice Blast teams, reaching top-tier numbers when backed by inspirations.",
-    "date": "2026-09-28",
-    "channel": "Skratch Gaming",
-    "url": "https://www.youtube.com/watch?v=okhvNfjpOsY"
    }
   ],
   "Fredegonda": [
