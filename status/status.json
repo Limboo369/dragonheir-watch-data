@@ -1,5 +1,5 @@
 {
- "built": "2026-11-11T15:17Z",
+ "built": "2026-11-11T15:53Z",
  "last_fetch": "2026-11-11T15:17Z",
  "counts": {
   "summarized": 473,
@@ -67,7 +67,6 @@
   "quota_hit": 1794381450.380657
  },
  "log_tail": [
-  "… Skratch Gaming: A MUST HAVE! Child Of Chaos Kit Reveal... Dragonheir: Silent",
   "! Dauntless Team vs Whisk | Continental Challenge | : ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
   "! A MUST HAVE! Child Of Chaos Kit Reveal... Dragonhe: ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.g",
   "saved 8Tj7fVZA4sA",
@@ -146,7 +145,8 @@
   "== 2026-11-11 15:17",
   "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
-  "daily video budget used (437 min), waiting for tomorrow"
+  "daily video budget used (437 min), waiting for tomorrow",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 473 videos, 234 heroes"
  ],
  "crontab": [],
  "channels": [
