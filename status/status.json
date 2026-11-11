@@ -1,5 +1,5 @@
 {
- "built": "2026-11-11T00:22Z",
+ "built": "2026-11-11T00:58Z",
  "last_fetch": "2026-11-11T00:17Z",
  "counts": {
   "summarized": 451,
@@ -35,7 +35,6 @@
   "v2": 1
  },
  "log_tail": [
-  "fetch done: 0 new transcripts, 0 not available yet",
   "  models: gemini-3.8-flash, gemini-3.5-flash, gemini-3.7-flash, gemini-3.6-flash",
   "daily video budget used (439 min), waiting for tomorrow",
   "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 439 videos, 229 heroes",
@@ -114,7 +113,8 @@
   "saved FaAD_y36yfk",
   "+ Skratch Gaming: START HERE! The Only Beginner Guide You Need... Dragonheir: ",
   "saved 4aU5TuXE8gc",
-  "+ OddOneGaming RPGs: 💥 Over 1000 Summons For i3 Anneliesis 💥 My BIGGEST Summon Se"
+  "+ OddOneGaming RPGs: 💥 Over 1000 Summons For i3 Anneliesis 💥 My BIGGEST Summon Se",
+  "built /root/ytwatch/out/youtube-knowledge.md and /root/ytwatch/out/data/youtube.json: 451 videos, 232 heroes"
  ],
  "crontab": [],
  "channels": [
